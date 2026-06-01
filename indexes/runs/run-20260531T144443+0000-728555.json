@@ -1,0 +1,16 @@
+{
+  "run_id": "20260531T144443+0000-728555",
+  "started_at": "2026-05-31T14:44:43+00:00",
+  "finished_at": "2026-05-31T14:45:05+00:00",
+  "summary": {
+    "command": "build-graph",
+    "result": {
+      "status": "ok",
+      "articles_linked": 1968,
+      "wikilinks_emitted": 12737,
+      "entity_hubs": 34,
+      "topic_hubs": 5,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\Obsidian\\hubs"
+    }
+  }
+}

@@ -15,7 +15,7 @@ _ARTICLE_COLUMNS = (
     "url_original", "url_canonical", "url_status", "digest_source",
     "article_path", "content_hash", "normalized_title_hash", "canonical_url_hash",
     "entities", "themes", "cross_cutting_topics", "dedupe_status",
-    "canonical_article_id", "related_article_ids", "embedding_id",
+    "canonical_article_id", "related_article_ids", "embedding_id", "event_name",
     "created_at", "updated_at",
 )
 
@@ -29,7 +29,7 @@ def _row(cfg: Config, path: Path, art: Article, now: str) -> tuple:
         art.canonical_url_hash, json.dumps(art.entities), json.dumps(art.themes),
         json.dumps(art.cross_cutting_topics), art.dedupe_status,
         art.canonical_article_id, json.dumps(art.related_article_ids),
-        art.embedding_id, now, now,
+        art.embedding_id, art.event_name, now, now,
     )
 
 

@@ -1,0 +1,45 @@
+---
+article_id: 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
+title: OpenAI CFO Sarah Friar Said to Have Privately Advocated Delaying IPO Until
+  2027 New
+date: '2026-05-02'
+source: Wall Street Journal / Techmeme
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
+content_hash: 43139a3d95594f00b4e3a906e4ec21ab66ef9f82552e6adcefc574cf7d6d54ec
+normalized_title_hash: fc4cbf30b4e04fe2
+canonical_url_hash: ''
+tags: []
+entities:
+- Anthropic
+- Microsoft
+- OpenAI
+themes:
+- model-capabilities
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-04-27-
+- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
+- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
+- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
+- 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
+embedding_id: null
+event_name: ''
+---
+
+# OpenAI CFO Sarah Friar Said to Have Privately Advocated Delaying IPO Until 2027 New
+
+A WSJ profile of OpenAI CFO Sarah Friar reveals she privately counseled waiting until 2027 for the company's IPO, even as market pressure and investor expectations mount. Friar is credited with playing a pivotal behind-the-scenes role in preserving the Microsoft cloud partnership through its recent restructuring. S&P Dow Jones Indices is separately considering rule changes that would allow mega-cap companies like OpenAI and Anthropic to fast-track S&P 500 inclusion shortly after their eventual IPOs, reflecting just how central these companies have become to institutional investor portfolios. 🎓 5. Academic Research
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-04-27-]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]]
+<!-- graph:end -->

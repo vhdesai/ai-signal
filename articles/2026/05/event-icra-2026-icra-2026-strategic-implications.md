@@ -1,0 +1,29 @@
+---
+article_id: event-icra-2026-icra-2026-strategic-implications
+title: ICRA 2026 — Strategic Implications
+date: '2026-05-28'
+source: ICRA 2026
+url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
+url_status: found
+digest_source: digests\raw\icra-2026.md
+content_hash: 10d06355255ac6304f1f56841902222270831b09c27d96e802798442529adebc
+normalized_title_hash: 6365dd5cf38d597b
+canonical_url_hash: fb1b360309b0c1bf
+tags:
+- Event
+entities:
+- NVIDIA
+themes:
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids: []
+embedding_id: null
+event_name: ICRA 2026
+---
+
+# ICRA 2026 — Strategic Implications
+
+- **Embodied AI frontier:** Robotics is becoming a major proving ground for foundation-model capability because the physical world punishes hallucination and brittle planning. - **Hardware/software co-design:** GPUs, simulation, robot policies, sensors, and edge compute must evolve together. - **Industrial relevance:** Logistics, warehousing, construction, and manufacturing are near-term beneficiaries if sim-to-real reliability improves. - **Governance challenge:** Physical agents raise safety and liability issues beyond software-only AI governance.

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>📥 Submit Link · AI Signal</title>
+<link rel="stylesheet" href="style.css">
+</head><body>
+<header>
+ <a class="brand" href="index.html"><span class="brand-icon">📡</span>AI Signal</a>
+ <nav>
+  <a href="index.html">Today’s Pulse</a>
+  <a href="archive.html">Timeline</a>
+  <a href="topics.html">Themes</a>
+  <a href="events.html" aria-current="page">Events</a>
+  <a href="entities.html">Companies</a>
+  <a href="search.html">Search</a>
+ </nav>
+</header><main>
+<h1>📥 Submit Link</h1>
+<p class="subtitle">Suggest useful links for event coverage</p>
+
+    <div class="submit-form">
+      <p style="color:var(--muted);font-size:14px;margin-bottom:24px">
+        Submit useful links for event coverage. Links are saved locally and
+        reviewed daily by the site owner before publishing.
+      </p>
+      <div class="form-group">
+        <label for="sf-event">Event</label>
+        <select id="sf-event">
+          <option value="">— Select an event —</option>
+          <option value="ACM CAIS 2026">ACM CAIS 2026</option>
+<option value="Apple WWDC 2026 Preview">Apple WWDC 2026 Preview</option>
+<option value="Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI">Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI</option>
+<option value="Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics">Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics</option>
+<option value="Google Android Show 2026">Google Android Show 2026</option>
+<option value="Google Cloud Next 2026">Google Cloud Next 2026</option>
+<option value="Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund">Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund</option>
+<option value="Google I/O 2026">Google I/O 2026</option>
+<option value="Google I/O 2026: Gemini as the Agentic Platform">Google I/O 2026: Gemini as the Agentic Platform</option>
+<option value="ICRA 2026">ICRA 2026</option>
+<option value="Microsoft Build 2026 Preview">Microsoft Build 2026 Preview</option>
+<option value="Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models">Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models</option>
+<option value="NVIDIA GTC 2026 and GTC Taipei 2026">NVIDIA GTC 2026 and GTC Taipei 2026</option>
+<option value="NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories">NVIDIA GTC Taipei 2026: Blackwell Ultra, Rubin, and Taiwan AI Factories</option>
+<option value="RSA Conference 2026 / RSAC 2026">RSA Conference 2026 / RSAC 2026</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="sf-url">URL</label>
+        <input id="sf-url" type="url" placeholder="https://…">
+      </div>
+      <div class="form-group">
+        <label for="sf-label">Label / Description</label>
+        <input id="sf-label" type="text" placeholder="Official schedule, session videos, etc.">
+      </div>
+      <div class="form-group">
+        <label for="sf-name">Your Name (optional)</label>
+        <input id="sf-name" type="text" placeholder="Jane Doe">
+      </div>
+      <div class="form-actions">
+        <button class="btn-submit" onclick="submitLink()">📥 Submit</button>
+        <button class="btn-clear" onclick="clearForm()">Clear</button>
+      </div>
+      <div id="sf-msg" style="margin-top:14px;font-size:13px"></div>
+    </div>
+    <div class="submit-history">
+      <h3>📋 Your Submissions</h3>
+      <div id="sf-list"><p class="empty">No submissions yet.</p></div>
+    </div>
+    <script>
+    const STORAGE_KEY = 'ai_signal_link_submissions';
+    function getSubmissions() { try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); } catch { return []; } }
+    function saveSubmissions(s) { localStorage.setItem(STORAGE_KEY, JSON.stringify(s)); }
+    function renderList() {
+      const s = getSubmissions();
+      const el = document.getElementById('sf-list');
+      if (!s.length) { el.innerHTML = '<p class="empty">No submissions yet.</p>'; return; }
+      el.innerHTML = s.slice().reverse().map(x =>
+        '<div class="entry">' +
+        '<span class="status ' + x.status + '">' + x.status + '</span>' +
+        '<span><strong>' + x.event + '</strong>: <a href="' + x.url + '" target="_blank">' + (x.label || x.url) + '</a></span>' +
+        '<span style="margin-left:auto;color:var(--muted);font-size:11px">' + x.date + '</span>' +
+        '</div>'
+      ).join('');
+    }
+    function submitLink() {
+      const ev = document.getElementById('sf-event').value;
+      const url = document.getElementById('sf-url').value.trim();
+      const label = document.getElementById('sf-label').value.trim();
+      const name = document.getElementById('sf-name').value.trim();
+      const msg = document.getElementById('sf-msg');
+      if (!ev) { msg.innerHTML = '<span style="color:#c62828">⚠ Please select an event.</span>'; return; }
+      if (!url) { msg.innerHTML = '<span style="color:#c62828">⚠ Please enter a URL.</span>'; return; }
+      const entry = { event: ev, url, label: label || url, submitter: name || 'Anonymous',
+                       date: new Date().toISOString().slice(0,10), status: 'pending' };
+      const s = getSubmissions();
+      s.push(entry);
+      saveSubmissions(s);
+      // Also store in downloadable format for the site owner
+      const blob = new Blob([JSON.stringify(s, null, 2)], {type:'application/json'});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      // Auto-download only on first submission
+      if (s.length === 1) { a.download = 'link-submissions-' + entry.date + '.json'; a.click(); }
+      msg.innerHTML = '<span style="color:#2e7d32">✅ Link submitted! It will appear on the event page after review.</span>';
+      clearForm();
+      renderList();
+    }
+    function clearForm() {
+      document.getElementById('sf-event').value = '';
+      document.getElementById('sf-url').value = '';
+      document.getElementById('sf-label').value = '';
+      document.getElementById('sf-name').value = '';
+    }
+    // Pre-select event from URL param
+    (function() {
+      const p = new URLSearchParams(window.location.search);
+      const ev = p.get('event');
+      if (ev) document.getElementById('sf-event').value = decodeURIComponent(ev);
+      renderList();
+    })();
+    // Export button
+    document.querySelector('.submit-history h3').insertAdjacentHTML('afterend',
+      '<button style="float:right;margin-top:-30px;font-size:12px;padding:4px 12px;border:1px solid var(--border);' +
+      'border-radius:6px;background:var(--card);cursor:pointer;color:var(--muted)" onclick="exportAll()">⬇ Export JSON</button>');
+    function exportAll() {
+      const s = getSubmissions();
+      if (!s.length) return;
+      const blob = new Blob([JSON.stringify(s, null, 2)], {type:'application/json'});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'link-submissions-' + new Date().toISOString().slice(0,10) + '.json';
+      a.click();
+    }
+    </script>
+    
+</main>
+<button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
+<script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 01, 2026 at 01:42 UTC</footer>
+</body></html>

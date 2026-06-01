@@ -1,0 +1,15 @@
+{
+  "run_id": "20260531T070325+0000-89d4a3",
+  "started_at": "2026-05-31T07:03:25+00:00",
+  "finished_at": "2026-05-31T07:03:32+00:00",
+  "summary": {
+    "command": "dedupe",
+    "result": {
+      "articles": 2003,
+      "exact_duplicates": 4,
+      "canonical": 1999,
+      "enabled": false,
+      "error": "No module named 'chromadb'"
+    }
+  }
+}

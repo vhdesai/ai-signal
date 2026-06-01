@@ -23,6 +23,7 @@ _FOOTER_MARKERS = (
     "sources cited:",
     "curated for",
     "sent by copilot",
+    "## web source links",
 )
 
 

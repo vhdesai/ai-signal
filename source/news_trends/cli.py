@@ -14,7 +14,7 @@ from .index import run_index
 from .dedupe import run_dedupe
 from .graph import run_build_graph
 from .urls import run_validate_urls, run_repair_urls, run_clean_repairs
-from .site import run_build_site
+from .site import run_build_site, run_review_submissions
 from .runlog import write_run
 
 DEFAULT_OBSIDIAN_ROOT = Path(__file__).resolve().parents[2]
@@ -41,7 +41,8 @@ def build_parser() -> argparse.ArgumentParser:
     subcommands = parser.add_subparsers(dest="command", required=True)
     for command in (
         "ingest", "normalize", "split", "index", "dedupe", "build-graph",
-        "validate-urls", "repair-urls", "clean-repairs", "build-site", "publish", "run-all",
+        "validate-urls", "repair-urls", "clean-repairs", "build-site",
+        "review-submissions", "publish", "run-all",
     ):
         subcommands.add_parser(command)
     return parser
@@ -67,6 +68,8 @@ def run_stage(command: str, cfg: Config, args: argparse.Namespace) -> dict:
         return run_clean_repairs(cfg)
     if command == "build-site":
         return run_build_site(cfg)
+    if command == "review-submissions":
+        return run_review_submissions(cfg)
     if command == "publish":
         # local-only build; publishing is an intentional no-op / dry-run
         return {"status": "dry-run", "note": "site/ generated locally; no remote publish configured"}

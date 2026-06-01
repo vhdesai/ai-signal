@@ -33,6 +33,7 @@ class Article:
     canonical_article_id: str | None = None
     related_article_ids: list[str] = field(default_factory=list)
     embedding_id: str | None = None
+    event_name: str = ""
 
     def compute_hashes(self) -> None:
         from .normalize import normalize_title
@@ -63,6 +64,7 @@ class Article:
             "canonical_article_id": self.canonical_article_id,
             "related_article_ids": self.related_article_ids,
             "embedding_id": self.embedding_id,
+            "event_name": self.event_name,
         }
 
     def to_markdown(self) -> str:

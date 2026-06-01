@@ -1,0 +1,40 @@
+---
+article_id: 2026-05-22-catl-contemporary-amperex-technology-is-planning-to-particip
+title: CATL (Contemporary Amperex Technology) is planning to participate in DeepSeek's
+  first-ever funding round, which targets ~50 billion yuan ($7.35B) and could c…
+date: '2026-05-22'
+source: The Information | CnEVPost
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
+  2026.md
+content_hash: fc25d0e199b838c634d263db2ddfb36ea9ee54471cf369c82d8e82299d19b3f5
+normalized_title_hash: 55aeb8fa9e1a36b9
+canonical_url_hash: ''
+tags: []
+entities:
+- DeepSeek
+themes:
+- datacenter-infrastructure
+- policy-regulation
+- company-storylines
+cross_cutting_topics:
+- china-compete
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids: []
+embedding_id: null
+event_name: ''
+---
+
+# CATL (Contemporary Amperex Technology) is planning to participate in DeepSeek's first-ever funding round, which targets ~50 billion yuan ($7.35B) and could c…
+
+CATL (Contemporary Amperex Technology) is planning to participate in DeepSeek's first-ever funding round, which targets ~50 billion yuan ($7.35B) and could close as early as June. DeepSeek's valuation could exceed 350 billion yuan ($51.4B) upon completion. JD.com and NetEase are also in discussions. The investment reflects CATL's aggressive push into AI data center power infrastructure, where the battery giant is seeking to sell power equipment as compute demand surges. AI Safety & Policy Breaking Trump Kills AI Safety Executive Order After Last-Minute Calls from Musk, Zuckerberg, and Sacks
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[DeepSeek]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+<!-- graph:end -->

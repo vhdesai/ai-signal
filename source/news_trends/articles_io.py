@@ -67,6 +67,7 @@ def read_article(path: Path) -> Article:
         canonical_article_id=fm.get("canonical_article_id"),
         related_article_ids=fm.get("related_article_ids", []) or [],
         embedding_id=fm.get("embedding_id"),
+        event_name=fm.get("event_name", ""),
     )
 
 

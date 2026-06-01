@@ -1,0 +1,41 @@
+---
+article_id: 2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu
+title: Berkeley Lab's MatterChat Teaches AI to "See" Scientific Language
+date: '2026-05-18'
+source: Lawrence Berkeley National Laboratory
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
+  2026.md
+content_hash: 49def0d2735a92143f75379b3021111633671d73538e40e03983c71431b8c55e
+normalized_title_hash: e0921a8d7aacdf8e
+canonical_url_hash: ''
+tags:
+- New
+entities: []
+themes:
+- model-capabilities
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
+- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
+- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+embedding_id: null
+event_name: ''
+---
+
+# Berkeley Lab's MatterChat Teaches AI to "See" Scientific Language
+
+Berkeley Lab unveiled MatterChat, a multimodal model designed to interpret the structured language of materials science — formulas, crystal structures, and experimental data — alongside natural language prompts. The team frames it as a step toward AI assistants that can reason fluently about physical systems rather than just describe them.
+
+<!-- graph:start -->
+## Connections
+
+**Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+<!-- graph:end -->

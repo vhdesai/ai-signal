@@ -1,0 +1,13 @@
+{
+  "run_id": "20260529T213347+0000-0f7bb0",
+  "started_at": "2026-05-29T21:33:47+00:00",
+  "finished_at": "2026-05-29T21:34:36+00:00",
+  "summary": {
+    "command": "repair-urls",
+    "result": {
+      "attempted": 4,
+      "repaired": 2,
+      "unresolved": 2
+    }
+  }
+}

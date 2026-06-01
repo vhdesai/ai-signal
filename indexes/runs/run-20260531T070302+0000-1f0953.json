@@ -1,0 +1,13 @@
+{
+  "run_id": "20260531T070302+0000-1f0953",
+  "started_at": "2026-05-31T07:03:02+00:00",
+  "finished_at": "2026-05-31T07:03:02+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 167,
+      "digests_changed": 0,
+      "changed": []
+    }
+  }
+}

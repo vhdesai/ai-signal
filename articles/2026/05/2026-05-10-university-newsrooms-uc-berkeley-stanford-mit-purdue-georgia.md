@@ -1,0 +1,46 @@
+---
+article_id: 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
+title: 'University newsrooms: UC Berkeley · Stanford · MIT · Purdue · Georgia Tech
+  · Princeton · Carnegie Mellon · UW · Cornell · UT Austin · UC San Diego (all dark…'
+date: '2026-05-10'
+source: 'Research blogs: BAIR Blog'
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
+  2026.md
+content_hash: 189951a42d7c72cdde9250376f98856c6883a88b80ea4c5dd7088311b12776e6
+normalized_title_hash: 594609599c029342
+canonical_url_hash: ''
+tags: []
+entities:
+- Google
+- Meta
+- OpenAI
+themes:
+- model-capabilities
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
+- 2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg
+- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-05-10-aggregators-github-trending-via-aitoolly-inforcapital-ai-fun
+embedding_id: null
+event_name: ''
+---
+
+# University newsrooms: UC Berkeley · Stanford · MIT · Purdue · Georgia Tech · Princeton · Carnegie Mellon · UW · Cornell · UT Austin · UC San Diego (all dark…
+
+University newsrooms: UC Berkeley · Stanford · MIT · Purdue · Georgia Tech · Princeton · Carnegie Mellon · UW · Cornell · UT Austin · UC San Diego (all dark May 9–10) Official company blogs: openai.com/blog · deepmind.google/discover/blog · ai.meta.com/blog This digest covers 24 hours ending May 10, 2026 07:00 PT. Items labeled as single-source should be verified against primary disclosures before action. Vendor-reported performance benchmarks have not been independently reproduced.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-10-aggregators-github-trending-via-aitoolly-inforcapital-ai-fun]]
+<!-- graph:end -->

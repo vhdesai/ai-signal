@@ -1,0 +1,21 @@
+---
+type: entity-hub
+hub: Scale AI
+member_count: 11
+---
+
+# Scale AI
+
+> Auto-generated entity hub. 11 connected article(s).
+
+- `2026-05-22` [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in|Google published a major update to its Gemini for Science initiative, positioning Gemini as a research workflow platform for scientists rather than a general…]]
+- `2026-05-22` [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative|EY and Microsoft Announce $1 Billion Enterprise AI Initiative Over Five Years]]
+- `2026-05-18` [[2026-05-18-trending-malta-offers-residents-a-year-of-free-chatgpt-plus|Trending Malta Offers Residents a Year of Free ChatGPT Plus or Microsoft Copilot]]
+- `2026-05-16` [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for|NVIDIA Vera Rubin Platform Launches with Seven New Chips for Agentic AI Factories]]
+- `2026-05-05` [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc|Meta debuts Muse Spark, the first model from Superintelligence Labs]]
+- `2026-05-04` [[2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice|Enzo Health raises $20M Series A for home-health and hospice AI]]
+- `2026-05-04` [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank|Citi launches Arc to scale AI agents across the bank]]
+- `2026-04-11` [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the|Meta released Muse Spark, a multimodal creative model and the first output from Meta Superintelligence Labs under Scale AI co-founder Alexandr Wang, featurin…]]
+- `2026-04-10` [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m|Meta has debuted Muse Spark, its first major proprietary AI model since its $14B deal to bring in Scale AI's Alexandr Wang — a notable departure from the com…]]
+- `2026-04-08` [[2026-04-08-source-forbes-msn-the-neuron|Source: Forbes · MSN · The Neuron]]
+- `2026-03-31` [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i|Nvidia Invests $2B in Marvell, Launches NVLink Fusion for AI Infrastructure]]

@@ -1,0 +1,14 @@
+{
+  "run_id": "20260531T054750+0000-2bb3d8",
+  "started_at": "2026-05-31T05:47:50+00:00",
+  "finished_at": "2026-05-31T05:47:51+00:00",
+  "summary": {
+    "command": "build-site",
+    "result": {
+      "pages": 109,
+      "articles": 1588,
+      "canonical": 1588,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\Obsidian\\site"
+    }
+  }
+}

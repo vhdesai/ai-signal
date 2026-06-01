@@ -45,6 +45,7 @@ CREATE TABLE IF NOT EXISTS articles (
     canonical_article_id  TEXT,
     related_article_ids   TEXT,
     embedding_id          TEXT,
+    event_name            TEXT DEFAULT '',
     created_at            TEXT,
     updated_at            TEXT
 );
@@ -111,6 +112,10 @@ def connect(db_path: Path) -> Iterator[sqlite3.Connection]:
 def init_db(db_path: Path) -> None:
     with connect(db_path) as conn:
         conn.executescript(SCHEMA)
+        # Migrate: add event_name column if missing (pre-existing DBs)
+        cols = {r[1] for r in conn.execute("PRAGMA table_info(articles)")}
+        if "event_name" not in cols:
+            conn.execute("ALTER TABLE articles ADD COLUMN event_name TEXT DEFAULT ''")
 
 
 def queue_review(conn: sqlite3.Connection, article_id: str, kind: str, detail: str) -> None:

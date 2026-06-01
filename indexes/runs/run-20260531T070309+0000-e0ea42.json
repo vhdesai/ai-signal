@@ -1,0 +1,15 @@
+{
+  "run_id": "20260531T070309+0000-e0ea42",
+  "started_at": "2026-05-31T07:03:09+00:00",
+  "finished_at": "2026-05-31T07:03:25+00:00",
+  "summary": {
+    "command": "index",
+    "result": {
+      "articles_indexed": 2003,
+      "embeddings": {
+        "enabled": false,
+        "reason": "skipped"
+      }
+    }
+  }
+}

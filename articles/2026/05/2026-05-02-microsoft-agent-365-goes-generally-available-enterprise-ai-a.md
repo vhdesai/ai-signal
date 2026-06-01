@@ -1,0 +1,44 @@
+---
+article_id: 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
+title: Microsoft Agent 365 Goes Generally Available — Enterprise AI Agent Governance
+  at Scale
+date: '2026-05-02'
+source: AIToolsRecap
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
+  2026.md
+content_hash: ee587d7a36169e59484ed63e781ccfc7cdf40e41d95026ac8b3d85aed5199859
+normalized_title_hash: 655fae2c774b09c1
+canonical_url_hash: ''
+tags:
+- New
+entities:
+- Microsoft
+themes:
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
+- 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
+- 2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail
+- 2026-05-10-microsoft-365-e7-agent-365-generally-available
+- 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
+embedding_id: null
+event_name: ''
+---
+
+# Microsoft Agent 365 Goes Generally Available — Enterprise AI Agent Governance at Scale
+
+Microsoft Agent 365 became generally available, extending AI agent governance capabilities across enterprise Microsoft 365 environments. The platform lets organizations deploy, manage, monitor, and audit AI agents at scale while establishing guardrails for agentic workflows inside workplace software. The launch positions Microsoft as the enterprise control plane for agentic AI — relevant as customers evaluate how to govern autonomous agents running across productivity tools. 📊 Industry News & Deals
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Microsoft]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]]
+<!-- graph:end -->

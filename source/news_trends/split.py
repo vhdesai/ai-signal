@@ -97,7 +97,11 @@ def _extract_url(*parts: str) -> str | None:
             m = rx.search(text)
             if m:
                 raw = m.group(0) if rx is _URL_RE else m.group(1)
-                return _unwrap_safelink(raw)
+                url = _unwrap_safelink(raw)
+                # Skip Bing thumbnail URLs — they're image previews, not article links
+                if "bing.net/th" in url:
+                    continue
+                return url
     return None
 
 
@@ -310,16 +314,227 @@ def parse_digest(cfg: Config, text: str, issue_date: date | None, digest_source:
     return articles
 
 
+def _is_event_file(filename: str) -> bool:
+    """Event files don't start with a date prefix like daily digests do."""
+    return not re.match(r"^\d{4}-\d{2}-\d{2}", filename)
+
+
+def parse_event(cfg: Config, text: str, digest_source: str) -> list[Article]:
+    """Parse an event summary markdown file into individual announcement articles.
+
+    Event files have a standard structure:
+        # Event Title
+        ## Executive summary (one overview article)
+        ## Detailed announcements
+        ### Sub-section heading (one article per sub-section)
+        ## Strategic implications (one article)
+        ## Companies and products (extracted for entity tagging)
+        ## Source links → ### External sources and corroborating URLs
+    """
+    lines = text.splitlines()
+    if not lines:
+        return []
+
+    # Extract event title
+    event_name = lines[0].lstrip("# ").strip()
+    if not event_name:
+        return []
+
+    # Extract companies mentioned in the "Companies and products" section
+    companies_text = ""
+    in_companies = False
+    for line in lines:
+        if re.match(r"^##\s+Companies\b", line, re.IGNORECASE):
+            in_companies = True
+            continue
+        if in_companies:
+            if line.startswith("## "):
+                break
+            companies_text += " " + line
+
+    # Extract external URLs from source links section
+    ext_urls: list[tuple[str, str]] = []
+    in_ext = False
+    for line in lines:
+        if "external sources" in line.lower() or "corroborating url" in line.lower():
+            in_ext = True
+            continue
+        if in_ext:
+            if line.startswith("## ") or line.startswith("### Source corpus"):
+                break
+            m = re.search(r"(https?://[^\s)]+)", line)
+            if m:
+                label = line.split("http")[0].strip("- :").strip()
+                ext_urls.append((label, m.group(1).rstrip(".,;")))
+
+    # Extract dates from the Dates and venue section
+    event_date_str = ""
+    event_date = None
+    in_dates = False
+    for line in lines:
+        if re.match(r"^##\s+Dates\b", line, re.IGNORECASE):
+            in_dates = True
+            continue
+        if in_dates:
+            if line.startswith("## "):
+                break
+            if "**Dates:**" in line or "**dates:**" in line.lower():
+                event_date_str = line.split("**Dates:**")[-1].strip().strip("*").strip()
+                event_date = util.extract_date(event_date_str)
+                break
+            # Try extracting a date from any line in this section
+            if not event_date:
+                event_date = util.extract_date(line)
+
+    articles: list[Article] = []
+    seen_ids: set[str] = set()
+
+    def _make_article(title: str, summary: str, section_theme: str,
+                      urls: list[tuple[str, str]] | None = None) -> Article | None:
+        if not title or not summary:
+            return None
+        full_text = f"{title} {summary} {companies_text}"
+        entities, themes, cross = _classify(cfg, title, full_text, section_theme)
+
+        # Find best URL for this article
+        url = None
+        if urls:
+            url = urls[0][1]
+        elif ext_urls:
+            # Try to find a URL that matches something in the title
+            title_lower = title.lower()
+            for label, u in ext_urls:
+                if any(w in label.lower() for w in title_lower.split()[:3] if len(w) > 3):
+                    url = u
+                    break
+
+        base_id = f"event-{util.slugify(event_name)}-{util.slugify(title)}"
+        article_id = base_id
+        suffix = 2
+        while article_id in seen_ids:
+            article_id = f"{base_id}-{suffix}"
+            suffix += 1
+        seen_ids.add(article_id)
+
+        art = Article(
+            article_id=article_id,
+            title=title,
+            date=util.iso(event_date),
+            source=event_name,
+            summary=summary.strip(),
+            theme=section_theme,
+            tags=["Event"],
+            url_original=url,
+            url_canonical=url,
+            url_status="found" if url else "missing",
+            digest_source=digest_source,
+            entities=entities,
+            themes=themes,
+            cross_cutting_topics=cross,
+            event_name=event_name,
+        )
+        art.compute_hashes()
+        return art
+
+    # 1. Executive summary → one overview article
+    exec_summary = []
+    in_exec = False
+    for line in lines[1:]:
+        if re.match(r"^##\s+Executive summary\b", line, re.IGNORECASE):
+            in_exec = True
+            continue
+        if in_exec:
+            if line.startswith("## "):
+                break
+            if line.strip():
+                exec_summary.append(line.strip())
+    if exec_summary:
+        art = _make_article(
+            f"{event_name} \u2014 Overview",
+            " ".join(exec_summary),
+            "company-storylines",
+        )
+        if art:
+            articles.append(art)
+
+    # 2. Detailed announcements → one article per ### subsection
+    in_detail = False
+    current_h3 = ""
+    current_body: list[str] = []
+    for line in lines:
+        if re.match(r"^##\s+Detailed announcements\b", line, re.IGNORECASE):
+            in_detail = True
+            continue
+        if in_detail:
+            if line.startswith("## ") and not line.startswith("### "):
+                # Flush last subsection
+                if current_h3 and current_body:
+                    art = _make_article(
+                        f"{event_name}: {current_h3}",
+                        " ".join(current_body),
+                        current_h3.lower(),
+                    )
+                    if art:
+                        articles.append(art)
+                break
+            if line.startswith("### "):
+                # Flush previous subsection
+                if current_h3 and current_body:
+                    art = _make_article(
+                        f"{event_name}: {current_h3}",
+                        " ".join(current_body),
+                        current_h3.lower(),
+                    )
+                    if art:
+                        articles.append(art)
+                current_h3 = line.lstrip("# ").strip()
+                current_body = []
+            elif line.strip():
+                current_body.append(line.strip())
+
+    # 3. Strategic implications → one article
+    strat_lines: list[str] = []
+    in_strat = False
+    for line in lines:
+        if re.match(r"^##\s+Strategic implications\b", line, re.IGNORECASE):
+            in_strat = True
+            continue
+        if in_strat:
+            if line.startswith("## "):
+                break
+            if line.strip():
+                strat_lines.append(line.strip())
+    if strat_lines:
+        art = _make_article(
+            f"{event_name} \u2014 Strategic Implications",
+            " ".join(strat_lines),
+            "company-storylines",
+        )
+        if art:
+            articles.append(art)
+
+    return articles
+
+
 def run_split(cfg: Config) -> dict:
     """Parse every archived raw digest into article-atomic markdown notes."""
     cfg.ensure_dirs()
     digests = sorted(cfg.raw_digest_archive_dir.glob("*.md"))
     written = 0
+    events_written = 0
     for path in digests:
         text = path.read_text(encoding="utf-8", errors="replace")
-        issue_date = util.extract_date(path.stem.replace("_", " ")) or util.extract_date(text)
         digest_source = str((cfg.raw_digest_archive_dir / path.name).relative_to(cfg.root))
-        for article in parse_digest(cfg, text, issue_date, digest_source):
-            write_article(cfg, article)
-            written += 1
-    return {"digests_parsed": len(digests), "articles_written": written}
+
+        if _is_event_file(path.name):
+            for article in parse_event(cfg, text, digest_source):
+                write_article(cfg, article)
+                events_written += 1
+        else:
+            issue_date = util.extract_date(path.stem.replace("_", " ")) or util.extract_date(text)
+            for article in parse_digest(cfg, text, issue_date, digest_source):
+                write_article(cfg, article)
+                written += 1
+    return {"digests_parsed": len(digests), "articles_written": written,
+            "events_parsed": sum(1 for d in digests if _is_event_file(d.name)),
+            "event_articles_written": events_written}
