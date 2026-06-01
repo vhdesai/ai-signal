@@ -9,14 +9,15 @@
 [CmdletBinding()]
 param(
     [string]$Stage = "run-all",
-    [int]$Limit = 0
+    [int]$Limit = 0,
+    [string]$VenvPath = "C:\dev\ai-signal-venv"
 )
 
 $ErrorActionPreference = "Stop"
 $repoRoot = Split-Path -Parent $PSScriptRoot
-$py = Join-Path $repoRoot ".venv/Scripts/python.exe"
+$py = Join-Path $VenvPath "Scripts/python.exe"
 if (-not (Test-Path $py)) {
-    throw "Virtual environment not found. Run ./scripts/setup.ps1 first."
+    throw "Virtual environment not found at $VenvPath. Run ./scripts/setup.ps1 first."
 }
 
 $cmd = @("-X", "utf8", "-m", "news_trends", "--root", $repoRoot)
