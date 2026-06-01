@@ -1,0 +1,6 @@
+provider: "local"
+vector_store: "chroma"
+default_model: "BAAI/bge-small-en-v1.5"
+quality_upgrade_model: "BAAI/bge-base-en-v1.5"
+multilingual_candidate_model: "BAAI/bge-m3"
+

@@ -1,0 +1,3 @@
+daily_snapshot_retention_days: 31
+monthly_archives: true
+monthly_archive_mode: "full_cleaned_article_cards"

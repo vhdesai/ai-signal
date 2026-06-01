@@ -1,0 +1,7 @@
+repository: "https://github.com/vhdesai/ai-signal"
+audience: "Public"
+daily_run_time: "10:00"
+daily_run_timezone: "America/Los_Angeles"
+daily_snapshot_retention_days: 31
+monthly_archive_include_full_cleaned_article_cards: true
+public_pages_link_to_private_markdown: false

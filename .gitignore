@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Hugging Face / model caches
+.cache/
+
+# Raw news digest markdown (source data — not published)
+/news/
+/digests/
+
+# SQLite transient sidecar files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (for wrangler CLI)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.egg
+
+# Environment variables
+.env
+.env.local
+
+# Obsidian per-user UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

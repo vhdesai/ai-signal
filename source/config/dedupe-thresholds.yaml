@@ -1,0 +1,4 @@
+same_day_duplicate_commonality: 0.90
+same_day_near_duplicate_commonality: 0.70
+default_below_threshold_status: "related_story"
+

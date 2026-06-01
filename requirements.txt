@@ -1,0 +1,12 @@
+# AI Signal — Python dependencies
+# Install: pip install -r requirements.txt
+# For editable install with full package: pip install -e ./source
+
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+beautifulsoup4>=4.12.0
+httpx>=0.24.0
+jinja2>=3.1.0
+markdown-it-py>=3.0.0
+pyyaml>=6.0
+ddgs>=6.0.0

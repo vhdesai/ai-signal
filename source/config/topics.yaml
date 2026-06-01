@@ -1,0 +1,19 @@
+topics:
+  - id: "datacenter-infrastructure"
+    label: "Infrastructure & Compute"
+  - id: "policy-regulation"
+    label: "Policy & Regulation"
+  - id: "model-capabilities"
+    label: "Model Breakthroughs"
+  - id: "company-storylines"
+    label: "Corporate Moves"
+  - id: "what-changed"
+    label: "What Changed"
+  - id: "related-stories"
+    label: "Related Stories"
+  - id: "china-compete"
+    label: "Global AI Race"
+cross_cutting_topics:
+  - id: "china-compete"
+    label: "Global AI Race"
+

@@ -1,0 +1,5 @@
+news_dir: "news"
+raw_digest_archive_dir: "digests/raw"
+articles_dir: "articles"
+site_dir: "site"
+indexes_dir: "indexes"

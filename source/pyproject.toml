@@ -1,0 +1,25 @@
+[project]
+name = "ai-signal"
+version = "0.1.0"
+description = "Pipeline for AI news trend indexing and static site generation — AI Signal."
+requires-python = ">=3.11"
+dependencies = [
+  "chromadb",
+  "sentence-transformers",
+  "beautifulsoup4",
+  "httpx",
+  "jinja2",
+  "markdown-it-py",
+  "pyyaml",
+  "ddgs",
+]
+
+[project.scripts]
+ai-signal = "news_trends.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["news_trends"]
