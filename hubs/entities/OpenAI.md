@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 533
+member_count: 555
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 533 connected article(s).
+> Auto-generated entity hub. 555 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,15 +16,36 @@ member_count: 533
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization|Microsoft Build 2026: Microsoft IQ, grounding, and organizational context]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models|Microsoft Build 2026: Microsoft AI models]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco|Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat|Microsoft Build 2026: Infrastructure, silicon, and cloud operations]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-github-and-developer-workflow|Microsoft Build 2026: GitHub and developer workflow]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications|Microsoft Build 2026 — Strategic Implications]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent|Microsoft Build 2026 Preview: Copilot and Microsoft 365 agents]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model|Microsoft Build 2026 Preview: Azure AI Foundry and MAI model suite]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications|Microsoft Build 2026 Preview — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
+- `2026-06-02` [[2026-06-02-openai-turns-chatgpt-into-a-career-platform|### OpenAI turns ChatGPT into a career platform]]
+- `2026-06-02` [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users|### OpenAI reports Codex at 5M+ weekly active users]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
+- `2026-06-01` [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con|### OpenAI model disproves a long-standing discrete-geometry conjecture]]
+- `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
+- `2026-06-01` [[2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model|### EU presses U.S. for access to Anthropic's Mythos model]]
 - `2026-06-01` [[2026-06-01-chatgpt-moves-into-personal-finance-with-bank-account-linkin|### ChatGPT moves into personal finance with bank-account linking]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo|### Anthropic confidentially files for a U.S. IPO]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o|### Anthropic confidentially files for U.S. IPO, edging ahead of OpenAI]]
 - `2026-06-01` [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation|### Anthropic Raises Record $65B Series H at $965B Valuation]]
+- `2026-06-01` [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing|### Altman downplays OpenAI IPO timing after Anthropic's filing]]
 - `2026-05-31` [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu|### Microsoft to Unveil Homegrown MAI Models at Build 2026, Including a Coding Model]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]
@@ -540,4 +561,5 @@ member_count: 533
 - `2026-03-31` [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed|Amazon and OpenAI Build Stateful Model Runtime on Amazon Bedrock]]
 - `2026-03-26` [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope|Apple to Open Siri to Claude and Gemini in iOS 27 — Ending OpenAI Exclusivity]]
 - `2026-03-24` [[2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses|OpenAI Shuts Down Sora — $1M/Day Burn, $1B Disney Deal Collapses]]
+- [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

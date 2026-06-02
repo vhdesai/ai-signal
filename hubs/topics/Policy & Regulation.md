@@ -1,17 +1,22 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 479
+member_count: 484
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 479 connected article(s).
+> Auto-generated topic hub. 484 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
+- `2026-06-01` [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con|### OpenAI model disproves a long-standing discrete-geometry conjecture]]
+- `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
 - `2026-06-01` [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation|### MIT Sloan: A Three-Minute Protocol to Reduce AI Manipulation Risk]]
 - `2026-06-01` [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation|### DriveNets raises $410M Series D at an $8.5B valuation]]
+- `2026-06-01` [[2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi|### Cornell researcher launches Health & AI Policy Index (HAPI)]]
 - `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
 - `2026-06-01` [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica|### China Deploys AI to Predict Citizens Who Could Pose Political Risk]]
 - `2026-06-01` [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing|### Bull and Foxconn Partner to Scale European AI Manufacturing]]

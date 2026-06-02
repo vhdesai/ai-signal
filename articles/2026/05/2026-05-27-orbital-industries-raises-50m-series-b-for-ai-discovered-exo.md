@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 - 2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b
+- 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 embedding_id: 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 event_name: ''
@@ -35,5 +36,5 @@ Orbital Industries raised $50M Series B to use AI for the discovery and characte
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
+**Related:** [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
 <!-- graph:end -->

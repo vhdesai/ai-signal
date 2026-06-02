@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi
+- 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 - 2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m
-- 2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic
+- 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
 embedding_id: 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Anthropic publicly urged Washington to tighten restrictions on advanced US chip 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]] · [[2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m]] · [[2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic]]
+**Related:** [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]]
 <!-- graph:end -->

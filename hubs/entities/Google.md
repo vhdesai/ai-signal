@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 472
+member_count: 473
 ---
 
 # Google
 
-> Auto-generated entity hub. 472 connected article(s).
+> Auto-generated entity hub. 473 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -17,6 +17,7 @@ member_count: 472
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
 - `2026-05-30` [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20|### Microsoft lines up an expanded MAI model family for Build 2026]]
 - `2026-05-30` [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er|### DeepMind's AlphaProof Nexus reported to resolve nine open Erdős problems]]

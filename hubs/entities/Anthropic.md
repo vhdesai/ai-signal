@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 529
+member_count: 537
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 529 connected article(s).
+> Auto-generated entity hub. 537 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -22,9 +22,16 @@ member_count: 529
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications|Microsoft Build 2026 Preview — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
+- `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
 - `2026-06-01` [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop|### GitHub Copilot shifts to token-based billing, drawing developer backlash]]
+- `2026-06-01` [[2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model|### EU presses U.S. for access to Anthropic's Mythos model]]
 - `2026-06-01` [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its|### Anthropic gives the EU's cybersecurity agency access to its "Mythos" offensive-security model]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo|### Anthropic confidentially files for a U.S. IPO]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o|### Anthropic confidentially files for U.S. IPO, edging ahead of OpenAI]]
 - `2026-06-01` [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation|### Anthropic Raises Record $65B Series H at $965B Valuation]]
+- `2026-06-01` [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing|### Altman downplays OpenAI IPO timing after Anthropic's filing]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
 - `2026-05-31` [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau|### Pentagon presses battlefield AI as military leaders urge caution]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
@@ -536,4 +543,5 @@ member_count: 529
 - `2026-03-31` [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m|Anthropic Claude Code Source Leaked Again — Exposes "Capybara" Model Family]]
 - `2026-03-30` [[2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026|Anthropic Paid Subscriptions More Than Doubled in 2026]]
 - `2026-03-24` [[2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation|Anthropic Claude Gets Computer Use on Mac — Desktop Automation from iPhone]]
+- [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
-- 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
+- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 embedding_id: 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Speaking at a Sydney CBA conference, Sam Altman told CEO Matt Comyn: "I don't th
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]]
+**Related:** [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]]
 <!-- graph:end -->

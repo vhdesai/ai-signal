@@ -1,24 +1,41 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1018
+member_count: 1035
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1018 connected article(s).
+> Auto-generated topic hub. 1035 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models|Microsoft Build 2026: Microsoft AI models]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco|Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model|Microsoft Build 2026 Preview: Azure AI Foundry and MAI model suite]]
+- `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
+- `2026-06-02` [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a|### STMicroelectronics doubles data-center revenue ambition on AI demand]]
+- `2026-06-02` [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users|### OpenAI reports Codex at 5M+ weekly active users]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
+- `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it|### Strava restricts data access to curb AI scraping ahead of its IPO]]
 - `2026-06-01` [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report|### Stanford HAI publishes the 2026 AI Index Report]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
+- `2026-06-01` [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con|### OpenAI model disproves a long-standing discrete-geometry conjecture]]
+- `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc|### Nvidia unveils RTX Spark superchip, reinventing Windows AI PCs with Microsoft]]
 - `2026-06-01` [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t|### Nvidia Releases Alpamayo 2 Reasoning Model and Physical AI Toolkit at GTC Taipei]]
 - `2026-06-01` [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai|### Nvidia Launches Cosmos 3 Open World Model for Physical AI]]
 - `2026-06-01` [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier|### MiniMax releases M3, an open-weight model targeting frontier coding and 1M context]]
 - `2026-06-01` [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation|### MIT Sloan: A Three-Minute Protocol to Reduce AI Manipulation Risk]]
 - `2026-06-01` [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop|### GitHub Copilot shifts to token-based billing, drawing developer backlash]]
+- `2026-06-01` [[2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model|### EU presses U.S. for access to Anthropic's Mythos model]]
+- `2026-06-01` [[2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi|### Cornell researcher launches Health & AI Policy Index (HAPI)]]
 - `2026-06-01` [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica|### China Deploys AI to Predict Citizens Who Could Pose Political Risk]]
 - `2026-06-01` [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie|### Bernie Sanders: The Public Should Own Half of Big AI Companies]]
 - `2026-06-01` [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its|### Anthropic gives the EU's cybersecurity agency access to its "Mythos" offensive-security model]]

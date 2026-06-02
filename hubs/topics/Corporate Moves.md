@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1083
+member_count: 1105
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1083 connected article(s).
+> Auto-generated topic hub. 1105 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
@@ -14,13 +14,30 @@ member_count: 1083
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization|Microsoft Build 2026: Microsoft IQ, grounding, and organizational context]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco|Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-github-and-developer-workflow|Microsoft Build 2026: GitHub and developer workflow]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications|Microsoft Build 2026 — Strategic Implications]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent|Microsoft Build 2026 Preview: Copilot and Microsoft 365 agents]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications|Microsoft Build 2026 Preview — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
+- `2026-06-02` [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a|### STMicroelectronics doubles data-center revenue ambition on AI demand]]
+- `2026-06-02` [[2026-06-02-openai-turns-chatgpt-into-a-career-platform|### OpenAI turns ChatGPT into a career platform]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
+- `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it|### Strava restricts data access to curb AI scraping ahead of its IPO]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
+- `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|### Nvidia unveils RTX Spark AI-PC platform at Computex]]
 - `2026-06-01` [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn|### Nvidia opens COMPUTEX week with Jensen Huang "AI factory" keynote]]
 - `2026-06-01` [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t|### Nvidia Releases Alpamayo 2 Reasoning Model and Physical AI Toolkit at GTC Taipei]]
@@ -31,7 +48,10 @@ member_count: 1083
 - `2026-06-01` [[2026-06-01-chatgpt-moves-into-personal-finance-with-bank-account-linkin|### ChatGPT moves into personal finance with bank-account linking]]
 - `2026-06-01` [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie|### Bernie Sanders: The Public Should Own Half of Big AI Companies]]
 - `2026-06-01` [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris|### Ardian and Verne target a €5B, 500MW AI gigafactory near Paris]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo|### Anthropic confidentially files for a U.S. IPO]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o|### Anthropic confidentially files for U.S. IPO, edging ahead of OpenAI]]
 - `2026-06-01` [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation|### Anthropic Raises Record $65B Series H at $965B Valuation]]
+- `2026-06-01` [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing|### Altman downplays OpenAI IPO timing after Anthropic's filing]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
 - `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|### US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]
 - `2026-05-31` [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau|### Pentagon presses battlefield AI as military leaders urge caution]]
@@ -1089,5 +1109,7 @@ member_count: 1083
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
+- [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
+- [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june|Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2, 2026) — Overview]]
 - [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o|AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

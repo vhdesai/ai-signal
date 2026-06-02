@@ -46,6 +46,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 embedding_id: 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
@@ -61,5 +62,5 @@ This week's edition of The Batch highlights three key AI policy and research thr
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
+**Related:** [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

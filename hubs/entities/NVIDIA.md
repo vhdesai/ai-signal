@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 322
+member_count: 338
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 322 connected article(s).
+> Auto-generated entity hub. 338 connected article(s).
 
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization|Microsoft Build 2026: Microsoft IQ, grounding, and organizational context]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models|Microsoft Build 2026: Microsoft AI models]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco|Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat|Microsoft Build 2026: Infrastructure, silicon, and cloud operations]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-github-and-developer-workflow|Microsoft Build 2026: GitHub and developer workflow]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications|Microsoft Build 2026 — Strategic Implications]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
+- `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc|### Nvidia unveils RTX Spark superchip, reinventing Windows AI PCs with Microsoft]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|### Nvidia unveils RTX Spark AI-PC platform at Computex]]
 - `2026-06-01` [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn|### Nvidia opens COMPUTEX week with Jensen Huang "AI factory" keynote]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|### Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
@@ -329,4 +344,5 @@ member_count: 322
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja|NVIDIA GTC 2026 and GTC Taipei 2026: GTC Taipei / COMPUTEX adjacency]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
+- [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

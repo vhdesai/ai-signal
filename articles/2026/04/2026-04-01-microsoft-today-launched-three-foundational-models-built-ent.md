@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
+- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-04-02-model-releases-updates
 embedding_id: 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Microsoft today launched three foundational models built entirely in-house by CE
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-02-model-releases-updates]]
+**Related:** [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]]
 <!-- graph:end -->

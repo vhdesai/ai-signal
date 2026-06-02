@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
-- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 embedding_id: event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ---
@@ -36,5 +36,5 @@ event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]]
+**Related:** [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]]
 <!-- graph:end -->

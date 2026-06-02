@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
-- 2026-05-10-microsoft-365-e7-agent-365-generally-available
+- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 embedding_id: 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Agent 365 became generally available, extending AI agent governance ca
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]]
+**Related:** [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]]
 <!-- graph:end -->

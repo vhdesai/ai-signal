@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 171
+member_count: 172
 ---
 
 # Meta
 
-> Auto-generated entity hub. 171 connected article(s).
+> Auto-generated entity hub. 172 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-06-02` [[2026-06-02-hackers-hijack-instagram-accounts-via-meta-s-ai-support-chat|### Hackers hijack Instagram accounts via Meta's AI support chatbot]]
 - `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
 - `2026-05-31` [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters|### An 'AI affordability' reckoning hits enterprise adopters]]
 - `2026-05-30` [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm|### Meta Developing AI Pendant and Expanding Smart Glasses Roadmap]]

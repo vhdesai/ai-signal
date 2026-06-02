@@ -1,17 +1,29 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 539
+member_count: 552
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 539 connected article(s).
+> Auto-generated topic hub. 552 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization|Microsoft Build 2026: Microsoft IQ, grounding, and organizational context]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat|Microsoft Build 2026: Infrastructure, silicon, and cloud operations]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
+- `2026-06-02` [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a|### STMicroelectronics doubles data-center revenue ambition on AI demand]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
+- `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
+- `2026-06-02` [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw|### Alphabet launches $80B equity raise with $10B Berkshire Hathaway anchor]]
 - `2026-06-01` [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report|### Stanford HAI publishes the 2026 AI Index Report]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
+- `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
+- `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc|### Nvidia unveils RTX Spark superchip, reinventing Windows AI PCs with Microsoft]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|### Nvidia unveils RTX Spark AI-PC platform at Computex]]
 - `2026-06-01` [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn|### Nvidia opens COMPUTEX week with Jensen Huang "AI factory" keynote]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|### Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
@@ -24,6 +36,7 @@ member_count: 539
 - `2026-06-01` [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing|### Bull and Foxconn Partner to Scale European AI Manufacturing]]
 - `2026-06-01` [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie|### Bernie Sanders: The Public Should Own Half of Big AI Companies]]
 - `2026-06-01` [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris|### Ardian and Verne target a €5B, 500MW AI gigafactory near Paris]]
+- `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo|### Anthropic confidentially files for a U.S. IPO]]
 - `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|### US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]
 - `2026-05-31` [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu|### Microsoft to Unveil Homegrown MAI Models at Build 2026, Including a Coding Model]]
 - `2026-05-31` [[2026-05-31-microsoft-confirms-no-windows-12-teases-nvidia-n1x-arm-pc-ah|### Microsoft confirms no "Windows 12," teases NVIDIA N1X ARM PC ahead of a major announcement]]

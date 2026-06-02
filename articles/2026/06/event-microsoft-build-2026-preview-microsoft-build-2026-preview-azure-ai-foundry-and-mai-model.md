@@ -19,14 +19,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
-- 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+dedupe_status: duplicate
+canonical_article_id: event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
+related_article_ids: []
 embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
 event_name: Microsoft Build 2026 Preview
 ---
@@ -40,5 +35,5 @@ event_name: Microsoft Build 2026 Preview
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
+**Canonical:** [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
 <!-- graph:end -->

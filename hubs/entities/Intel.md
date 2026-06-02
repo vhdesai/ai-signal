@@ -1,13 +1,25 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 14
+member_count: 26
 ---
 
 # Intel
 
-> Auto-generated entity hub. 14 connected article(s).
+> Auto-generated entity hub. 26 connected article(s).
 
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization|Microsoft Build 2026: Microsoft IQ, grounding, and organizational context]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models|Microsoft Build 2026: Microsoft AI models]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco|Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat|Microsoft Build 2026: Infrastructure, silicon, and cloud operations]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-github-and-developer-workflow|Microsoft Build 2026: GitHub and developer workflow]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications|Microsoft Build 2026 — Strategic Implications]]
+- `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|### Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip|### Nvidia Enters Windows PC Market with Arm-Based AI Chip]]
 - `2026-05-28` [[2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr|Claude Opus 4.8 Dynamic Workflows Target Multi-Agent Enterprise Tasks]]

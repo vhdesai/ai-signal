@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+- 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
-- 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
+- 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 embedding_id: 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic delivered a closed-door briefing to a G20 working group on frontier-mo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]]
+**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model]]
 <!-- graph:end -->

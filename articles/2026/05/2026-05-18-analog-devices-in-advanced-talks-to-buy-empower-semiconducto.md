@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 - 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
+- 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 embedding_id: 2026-05-18-analog-devices-in-advanced-talks-to-buy-empower-semiconducto
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Chipmaker Analog Devices is close to acquiring Empower Semiconductor — a 12-ye
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]]
+**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]]
 <!-- graph:end -->

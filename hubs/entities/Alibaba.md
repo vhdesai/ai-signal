@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 104
+member_count: 106
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 104 connected article(s).
+> Auto-generated entity hub. 106 connected article(s).
 
+- `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]
@@ -111,4 +112,5 @@ member_count: 104
 - `2026-04-10` [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse|Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks.]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview.]]
 - `2026-04-02` [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l|DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milesto…]]
+- [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

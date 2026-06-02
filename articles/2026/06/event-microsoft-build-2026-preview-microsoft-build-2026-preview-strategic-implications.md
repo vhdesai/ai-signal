@@ -19,13 +19,12 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 related_article_ids:
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview
+- event-microsoft-build-2026-microsoft-build-2026-overview
 embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 event_name: Microsoft Build 2026 Preview
 ---
@@ -39,5 +38,6 @@ event_name: Microsoft Build 2026 Preview
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview]]
+**Canonical:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
 - 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after
+- 2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con
 - 2026-05-21-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
 - 2026-05-20-openai-model-disproves-discrete-geometry-conjecture
 embedding_id: 2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom
 event_name: ''
@@ -41,5 +41,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]] · [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after]] · [[2026-05-21-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-20-openai-model-disproves-discrete-geometry-conjecture]]
+**Related:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]] · [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after]] · [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con]] · [[2026-05-21-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-20-openai-model-disproves-discrete-geometry-conjecture]]
 <!-- graph:end -->

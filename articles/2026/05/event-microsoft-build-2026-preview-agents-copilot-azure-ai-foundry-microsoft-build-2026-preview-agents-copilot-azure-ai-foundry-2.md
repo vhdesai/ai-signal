@@ -27,10 +27,10 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 related_article_ids:
+- event-microsoft-build-2026-microsoft-build-2026-strategic-implications
+- event-microsoft-build-2026-microsoft-build-2026-overview
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
 embedding_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and
   Open Models'
@@ -46,5 +46,5 @@ event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, an
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]]
 <!-- graph:end -->

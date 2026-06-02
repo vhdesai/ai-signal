@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 287
+member_count: 289
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 287 connected article(s).
+> Auto-generated topic hub. 289 connected article(s).
 
+- `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report|### Stanford HAI publishes the 2026 AI Index Report]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
 - `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
@@ -294,4 +295,5 @@ member_count: 287
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-03-31` [[2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro|Google Launches 2026 India AI Accelerator; Cursor Kimi Controversy Continues]]
 - `2026-03-25` [[2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki|Cursor Self-Hosted Cloud Agents for Enterprise; Composer 2/Kimi Controversy]]
+- [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

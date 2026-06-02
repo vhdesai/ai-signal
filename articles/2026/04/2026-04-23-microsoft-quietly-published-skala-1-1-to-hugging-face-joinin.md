@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
-- 2026-04-02-model-releases-updates
+- 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 embedding_id: 2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft quietly published SKALA-1.1 to Hugging Face, joining a wave of model r
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-model-releases-updates]]
+**Related:** [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]]
 <!-- graph:end -->

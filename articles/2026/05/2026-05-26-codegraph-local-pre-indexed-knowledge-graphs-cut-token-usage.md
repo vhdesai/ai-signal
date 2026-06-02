@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
+- 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-- 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 embedding_id: 2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CodeGraph is an open-source project that gives Claude Code, Codex, Cursor, OpenC
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]]
+**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
 <!-- graph:end -->

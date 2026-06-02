@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-04-02-model-releases-updates
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
-- 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
+- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 embedding_id: 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft quietly released three new proprietary AI models through Azure Foundry
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-model-releases-updates]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-model-releases-updates]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
 <!-- graph:end -->

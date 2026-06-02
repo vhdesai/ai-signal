@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
@@ -37,5 +38,5 @@ Anthropic agreed to give ENISA, the EU's cybersecurity agency, access to Mythos 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]]
+**Related:** [[2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]]
 <!-- graph:end -->
