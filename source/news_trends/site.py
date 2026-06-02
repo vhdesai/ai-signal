@@ -499,6 +499,24 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
         for ent in (a.get("entities") or []):
             by_company[ent].append(a)
 
+    # --- Merge preview / variant events into the main event ---
+    # If "X" and "X Preview" (or "X Preview: subtitle") both exist,
+    # fold the preview articles into the main event and drop the preview.
+    event_names = list(by_event.keys())
+    for ev in list(event_names):
+        # Check if this event is a preview/variant of another
+        base = _re.sub(r"\s+Preview\b.*", "", ev).strip()
+        if base != ev and base in by_event:
+            by_event[base].extend(by_event.pop(ev))
+            # Also merge in by_company
+            for comp in list(by_company.keys()):
+                orig_len = len(by_company[comp])
+                by_company[comp] = [a for a in by_company[comp] if a.get("event_name") != ev]
+                if len(by_company[comp]) < orig_len:
+                    for a in by_event[base]:
+                        if comp in (a.get("entities") or []) and a not in by_company[comp]:
+                            by_company[comp].append(a)
+
     # Extract registration URLs from event source markdown files
     event_urls: dict[str, list[tuple[str, str]]] = {}
     news_dir = cfg.news_dir
@@ -526,12 +544,12 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
         if urls:
             event_urls[title] = urls
 
-    # Determine upcoming events (date >= today)
+    # Determine upcoming events (date strictly > today — past/today events show coverage)
     upcoming: list[tuple[str, str, str, list[tuple[str, str]]]] = []  # (name, date, slug, urls)
     for ev_name, items in sorted(by_event.items()):
         dates = [a["date"] for a in items if a.get("date")]
         ev_date = max(dates) if dates else None
-        if ev_date and ev_date >= today:
+        if ev_date and ev_date > today:
             slug = _safe_filename(ev_name)
             # Find matching URLs from source files
             urls = event_urls.get(ev_name, [])
@@ -582,9 +600,9 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
     for ev_name in sorted(by_event.keys()):
         items = by_event[ev_name]
         slug = _safe_filename(ev_name)
-        # Mark upcoming with a badge
+        # Mark upcoming with a badge (strictly future — not today)
         dates = [a["date"] for a in items if a.get("date")]
-        is_upcoming = any(d >= today for d in dates) if dates else False
+        is_upcoming = any(d > today for d in dates) if dates else False
         badge = '<span class="upcoming-badge">Upcoming</span>' if is_upcoming else ''
         ev_cards.append(
             f'<a href="events/{slug}.html" class="card entity-link">'
