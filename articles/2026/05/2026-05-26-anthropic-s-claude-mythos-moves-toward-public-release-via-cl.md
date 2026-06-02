@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
+- 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
+- 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+embedding_id: 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 event_name: ''
 ---
 
@@ -37,4 +41,5 @@ Anthropic's restricted "Mythos" capability — previously limited to red-team an
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
+**Related:** [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
 <!-- graph:end -->

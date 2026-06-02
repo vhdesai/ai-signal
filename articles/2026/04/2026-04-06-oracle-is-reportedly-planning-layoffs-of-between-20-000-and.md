@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim
+- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 - 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
-- 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
-embedding_id: null
+embedding_id: 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Oracle is reportedly planning layoffs of between 20,000 and 30,000 employees as 
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]]
+**Related:** [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]]
 <!-- graph:end -->

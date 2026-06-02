@@ -18,15 +18,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
-- 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
-- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
+related_article_ids: []
+embedding_id: 2026-05-22-openai-opens-singapore-ai-lab-imda-updates-framework
 event_name: ''
 ---
 
@@ -39,5 +34,5 @@ OpenAI opened a dedicated AI lab in Singapore in conjunction with the Infocomm M
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
+**Canonical:** [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]]
 <!-- graph:end -->

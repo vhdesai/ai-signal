@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 83
+member_count: 84
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 83 connected article(s).
+> Auto-generated entity hub. 84 connected article(s).
 
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
 - `2026-05-28` [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands|Mistral signs Airbus and BMW, defends military-AI use, expands French data centers]]
@@ -91,3 +91,4 @@ member_count: 83
 - `2026-04-08` [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe|Google DeepMind released Gemma 4 in four sizes (2B, 9B, 26B MoE, 72B) under Apache 2.0, with the 26B MoE variant leading multiple open-source leaderboards in…]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview.]]
 - `2026-03-30` [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da|Mistral AI Secures $830M in Debt to Build 13,800-GPU Paris Data Center]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

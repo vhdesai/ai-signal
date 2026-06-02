@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-23-
 - 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
 - 2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex
-embedding_id: null
+embedding_id: 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
 event_name: ''
 ---
 

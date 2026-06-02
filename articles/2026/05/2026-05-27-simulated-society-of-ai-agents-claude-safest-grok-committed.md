@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 - 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
-embedding_id: null
+embedding_id: 2026-05-27-simulated-society-of-ai-agents-claude-safest-grok-committed
 event_name: ''
 ---
 

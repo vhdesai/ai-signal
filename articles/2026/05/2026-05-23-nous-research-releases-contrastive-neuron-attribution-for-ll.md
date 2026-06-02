@@ -20,11 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 - 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-embedding_id: null
+- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+embedding_id: 2026-05-23-nous-research-releases-contrastive-neuron-attribution-for-ll
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ Nous Research published Contrastive Neuron Attribution (CNA), a method that iden
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
+**Related:** [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
 <!-- graph:end -->

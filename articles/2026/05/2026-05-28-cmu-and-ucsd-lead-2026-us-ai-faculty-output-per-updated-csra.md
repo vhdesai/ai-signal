@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
+- 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
-embedding_id: null
+embedding_id: 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ The CSRankings dataset refreshed on May 28 places Carnegie Mellon, UC San Diego,
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]]
+**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

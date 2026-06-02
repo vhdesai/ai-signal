@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac
-embedding_id: null
+embedding_id: 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
 event_name: ''
 ---
 

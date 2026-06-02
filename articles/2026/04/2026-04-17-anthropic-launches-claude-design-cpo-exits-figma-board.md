@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 - 2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin
-embedding_id: null
+embedding_id: 2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board
 event_name: ''
 ---
 

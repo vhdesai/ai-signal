@@ -24,8 +24,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
+- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by
+- 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
+- 2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform
+- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
+embedding_id: 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 event_name: ''
 ---
 
@@ -38,4 +43,5 @@ OpenAI announced Daybreak, a cybersecurity initiative giving enterprise and gove
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
 <!-- graph:end -->

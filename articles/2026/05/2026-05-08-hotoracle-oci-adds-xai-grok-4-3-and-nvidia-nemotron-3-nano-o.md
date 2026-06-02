@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
-- 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
-embedding_id: null
+- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+embedding_id: 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Oracle expanded its OCI AI model catalog on May 8 with xAI Grok 4.3 — reported
 
 **Entities:** [[NVIDIA]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]]
+**Related:** [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage
-- 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
-embedding_id: null
+embedding_id: 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ OpenClaw founder Peter Steinberger is running approximately 100 parallel Codex i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]]
+**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-26-codegraph-local-pre-indexed-knowledge-graphs-cut-token-usage]]
 <!-- graph:end -->

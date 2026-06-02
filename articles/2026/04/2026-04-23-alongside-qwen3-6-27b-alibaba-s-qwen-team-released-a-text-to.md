@@ -27,9 +27,9 @@ related_article_ids:
 - 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
 - 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 - 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-embedding_id: null
+- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+- 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
+embedding_id: 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ Alongside Qwen3.6-27B, Alibaba's Qwen team released a text-to-speech model drawi
 
 **Entities:** [[Alibaba]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]]
+**Related:** [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]]
 <!-- graph:end -->

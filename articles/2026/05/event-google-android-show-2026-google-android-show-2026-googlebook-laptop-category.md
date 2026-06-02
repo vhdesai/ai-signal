@@ -21,11 +21,23 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
+- 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
+- event-google-android-show-2026-google-android-show-2026-overview
+- 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
+embedding_id: event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
 event_name: Google Android Show 2026
 ---
 
 # Google Android Show 2026: Googlebook laptop category
 
 - Google introduced Googlebooks as laptops designed from the ground up for Gemini Intelligence. - Partners in the corpus include Acer, ASUS, Dell, HP, and Lenovo, with first devices targeted for fall 2026. - The OS is variously described as a ChromeOS/Android hybrid or Aluminium OS, emphasizing Android app compatibility with laptop-class workflows.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Apple]] · [[Google]] · [[Microsoft]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to]] · [[2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi]] · [[event-google-android-show-2026-google-android-show-2026-overview]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]]
+<!-- graph:end -->

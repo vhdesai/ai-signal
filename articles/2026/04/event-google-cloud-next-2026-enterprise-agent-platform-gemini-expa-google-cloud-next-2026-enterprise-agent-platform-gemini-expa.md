@@ -26,8 +26,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2
+- event-google-cloud-next-2026-google-cloud-next-2026-overview
+- 2026-04-22-products-tools
+- 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
+- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+embedding_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 event_name: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion,
   and Partner Fund'
 ---
@@ -35,3 +40,11 @@ event_name: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion
 # Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Overview
 
 Google Cloud Next 2026 appears as a concentrated high-signal enterprise AI event in the April 22 digest. The corpus says the Las Vegas conference was dominated by a comprehensive AI agent platform, Workspace automation, a dedicated bot inbox for agent progress reports, a $750 million partner fund for Gemini-based agents, and enterprise showcases such as Citi Sky. Web corroboration from Google's Cloud Next page confirms Next '26 as an April 22-24, 2026 Las Vegas event focused on AI, Gemini, Vertex AI, Google Agentspace, and business process automation.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2]] · [[event-google-cloud-next-2026-google-cloud-next-2026-overview]] · [[2026-04-22-products-tools]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]]
+<!-- graph:end -->

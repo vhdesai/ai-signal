@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 event_name: ''
 ---
 

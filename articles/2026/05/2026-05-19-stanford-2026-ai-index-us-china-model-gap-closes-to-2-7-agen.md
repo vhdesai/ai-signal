@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
-embedding_id: null
+embedding_id: 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
 event_name: ''
 ---
 

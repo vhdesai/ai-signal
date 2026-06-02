@@ -27,7 +27,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-05-breakingtrump-administration-signs-pre-deployment-ai-testing
 event_name: ''
 ---
 

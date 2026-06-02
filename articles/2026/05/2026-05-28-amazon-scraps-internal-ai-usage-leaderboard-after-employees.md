@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 event_name: ''
 ---
 

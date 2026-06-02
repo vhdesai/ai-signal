@@ -20,7 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-embedding_id: null
+embedding_id: 2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t
 event_name: ''
 ---
 

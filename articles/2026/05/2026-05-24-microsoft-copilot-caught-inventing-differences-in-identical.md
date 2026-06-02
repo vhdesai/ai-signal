@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
+- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 - 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-embedding_id: null
+embedding_id: 2026-05-24-microsoft-copilot-caught-inventing-differences-in-identical
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Mathematician Adam Kucharski showed that Microsoft Copilot, on default model set
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]]
 <!-- graph:end -->

@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
+- 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
+- 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-embedding_id: null
+- 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
+embedding_id: 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Springer's AI feed published several peer-reviewed papers, including "Explainabl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]]
 <!-- graph:end -->

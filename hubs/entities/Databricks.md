@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 33
+member_count: 40
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 33 connected article(s).
+> Auto-generated entity hub. 40 connected article(s).
 
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
@@ -16,6 +16,12 @@ member_count: 33
 - `2026-05-26` [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation|New Modal Labs raises $355M Series C at $4.65B valuation]]
 - `2026-05-26` [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle|Musk warns of AI extinction risk in OpenAI courtroom battle]]
 - `2026-05-26` [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go|Financial Times: Safety Guardrails on Open-Source Meta and Google Models Can Be Removed in Minutes]]
+- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything|ACM CAIS 2026: optany / optimize_anything]]
+- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-tressoir|ACM CAIS 2026: Tressoir]]
+- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-conference-program-and-speakers|ACM CAIS 2026: Conference program and speakers]]
+- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild|ACM CAIS 2026: AI Agents for Discovery in the Wild]]
+- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-strategic-implications|ACM CAIS 2026 — Strategic Implications]]
+- `2026-05-26` [[event-acm-cais-2026-acm-cais-2026-overview|ACM CAIS 2026 — Overview]]
 - `2026-05-24` [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr|Systematic Review of AI-Powered ERP Systems Published in Springer (Open Access)]]
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
 - `2026-05-22` [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect|Microsoft blocked partners including Databricks from connecting their data management tools to Power BI, a product used by nearly all Fortune 500 firms.]]
@@ -41,3 +47,4 @@ member_count: 33
 - `2026-04-22` [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch|Musk Explores Three-Way Alliance of xAI, Mistral & Cursor to Challenge Anthropic in AI Coding Race Trending]]
 - `2026-04-20` [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a|Databricks April 2026: SQL AI Functions GA, Supervisor Agent API, GPT-5.5 & Lakeflow Designer Hot]]
 - `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tenc…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

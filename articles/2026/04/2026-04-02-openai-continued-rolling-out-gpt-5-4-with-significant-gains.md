@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
 - 2026-04-23-
 - 2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date
-embedding_id: null
+embedding_id: 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
-embedding_id: null
+embedding_id: 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 event_name: ''
 ---
 

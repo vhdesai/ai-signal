@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-03-kimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding-challeng
 event_name: ''
 ---
 

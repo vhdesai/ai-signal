@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
+- 2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-- 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
-embedding_id: null
+embedding_id: 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ The White House is finalizing multiple AI executive orders and sources indicate 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]]
+**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]]
 <!-- graph:end -->

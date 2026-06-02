@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 - 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
+- 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
-embedding_id: null
+embedding_id: 2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Microsoft's former CVP of Cloud Security and AI, Shawn Bice, has moved to AWS to
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]]
+**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
 <!-- graph:end -->

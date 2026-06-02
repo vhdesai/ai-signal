@@ -21,8 +21,10 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
+- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
+embedding_id: 2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r
 event_name: ''
 ---
 
@@ -35,4 +37,5 @@ Anthropic projected a $559M Q2 operating profit on $10.9B in revenue — two yea
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
 <!-- graph:end -->

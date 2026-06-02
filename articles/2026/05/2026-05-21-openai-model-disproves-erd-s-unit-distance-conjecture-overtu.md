@@ -20,9 +20,10 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after
-related_article_ids: []
-embedding_id: null
+canonical_article_id: 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
+related_article_ids:
+- 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
+embedding_id: 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
 event_name: ''
 ---
 
@@ -35,5 +36,6 @@ OpenAI's internal reasoning model produced a counterexample to Paul Erdős's 194
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after]]
+**Canonical:** [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]]
+**Related:** [[2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject]]
 <!-- graph:end -->

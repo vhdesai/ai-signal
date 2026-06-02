@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 - 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
-- 2026-04-07-research-breakthroughs
-embedding_id: null
+embedding_id: 2026-04-22-mozilla-confirmed-it-used-anthropic-s-mythos-model-to-identi
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Mozilla confirmed it used Anthropic's Mythos model to identify 271 previously un
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-07-research-breakthroughs]]
+**Related:** [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]]
 <!-- graph:end -->

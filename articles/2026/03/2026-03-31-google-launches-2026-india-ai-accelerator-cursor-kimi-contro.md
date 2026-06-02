@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
 - 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
+- 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
 - 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
 - 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
-- 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
-embedding_id: null
+embedding_id: 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Google opened applications for its 2026 India Startups Accelerator — a three-m
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]]
+**Related:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]]
 <!-- graph:end -->

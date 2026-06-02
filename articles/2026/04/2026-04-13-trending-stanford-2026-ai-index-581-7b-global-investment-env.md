@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
-embedding_id: null
+embedding_id: 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 event_name: ''
 ---
 

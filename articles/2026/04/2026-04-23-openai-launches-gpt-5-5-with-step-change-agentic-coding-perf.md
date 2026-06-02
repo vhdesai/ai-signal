@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-04-23-
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-embedding_id: null
+embedding_id: 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
 event_name: ''
 ---
 

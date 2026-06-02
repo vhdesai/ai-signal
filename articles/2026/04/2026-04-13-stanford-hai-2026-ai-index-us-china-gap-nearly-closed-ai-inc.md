@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-13-stanford-hai-2026-ai-index-us-china-gap-nearly-closed-ai-inc
 event_name: ''
 ---
 

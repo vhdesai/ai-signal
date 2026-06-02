@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after
+- 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
+- 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-s-claude-mythos-solves-erd-s-unit-distance-conject
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ Anthropic engineer Sholto Douglas announced on X that Claude Mythos can also sol
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
+**Related:** [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]] · [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
 <!-- graph:end -->

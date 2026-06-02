@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-embedding_id: null
+embedding_id: 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 event_name: ''
 ---
 

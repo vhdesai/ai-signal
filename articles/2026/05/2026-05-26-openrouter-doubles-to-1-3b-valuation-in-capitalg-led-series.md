@@ -36,9 +36,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
+- 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
-embedding_id: null
+embedding_id: 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 event_name: ''
 ---
 
@@ -51,5 +51,5 @@ Micron and SK Hynix join the trillion-dollar club on AI memory demand Memory chi
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]]
 <!-- graph:end -->

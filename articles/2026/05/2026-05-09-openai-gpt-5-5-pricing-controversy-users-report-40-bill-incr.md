@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
-embedding_id: null
+embedding_id: 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
 event_name: ''
 ---
 

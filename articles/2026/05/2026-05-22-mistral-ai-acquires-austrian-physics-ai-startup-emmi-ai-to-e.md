@@ -24,8 +24,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l
+- 2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in
+- 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
+- 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
+embedding_id: 2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e
 event_name: ''
 ---
 
@@ -38,4 +42,5 @@ Mistral AI acquired Vienna-based Emmi AI, a startup specializing in machine lear
 
 **Entities:** [[Mistral]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]] · [[2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]]
 <!-- graph:end -->

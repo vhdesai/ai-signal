@@ -25,8 +25,7 @@ related_article_ids:
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-- 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
-embedding_id: null
+embedding_id: 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
 event_name: ''
 ---
 
@@ -39,5 +38,5 @@ A widely-shared technical analysis from Simon Willison concludes that DeepSeek V
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]]
+**Related:** [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-15-deepseek-v4-analysis-almost-on-the-frontier-redis-creator-we]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-06-
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-embedding_id: null
+embedding_id: 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Anthropic shipped Claude Code Auto Mode and simultaneously opened the Claude Age
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-05-06-]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-hotopenai-and-anthropic-each-launch-billion-dollar-enterpris
 event_name: ''
 ---
 

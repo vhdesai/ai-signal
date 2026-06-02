@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
 event_name: ''
 ---
 

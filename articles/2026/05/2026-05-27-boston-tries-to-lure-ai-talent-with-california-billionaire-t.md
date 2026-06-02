@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
-embedding_id: null
+embedding_id: 2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t
 event_name: ''
 ---
 

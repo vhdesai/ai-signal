@@ -23,8 +23,10 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
+- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+embedding_id: 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
 event_name: ''
 ---
 
@@ -37,4 +39,5 @@ Microsoft Research shipped Webwright, a terminal-native agent framework that top
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

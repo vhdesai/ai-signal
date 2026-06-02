@@ -21,12 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b
+- 2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: null
+embedding_id: 2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ Cisco posted a blowout AI-infrastructure quarter, lifting shares 18%, with cloud
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
 <!-- graph:end -->

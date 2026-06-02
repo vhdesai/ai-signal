@@ -20,10 +20,10 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ TikTok owner ByteDance is developing a new AI inference chip whose structure res
 
 **Entities:** [[ByteDance]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Canonical:** [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
 <!-- graph:end -->

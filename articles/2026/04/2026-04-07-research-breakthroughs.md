@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-embedding_id: null
+embedding_id: 2026-04-07-research-breakthroughs
 event_name: ''
 ---
 

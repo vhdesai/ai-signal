@@ -23,8 +23,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
+- 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
+- 2026-05-22-github-supply-chain-attack-compromises-500-packages
+- 2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a
+- 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
+embedding_id: 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ Threat actor TeamPCP compromised npm and PyPI packages from TanStack, UiPath, Mi
 
 **Entities:** [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]]
 <!-- graph:end -->

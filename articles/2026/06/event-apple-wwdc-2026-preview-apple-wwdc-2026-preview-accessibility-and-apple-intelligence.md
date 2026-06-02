@@ -23,11 +23,23 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
+- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence
 event_name: Apple WWDC 2026 Preview
 ---
 
 # Apple WWDC 2026 Preview: Accessibility and Apple Intelligence
 
 - Corpus links include Apple accessibility updates with Apple Intelligence features, suggesting WWDC may frame AI as an accessibility, productivity, and device-personalization layer.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
+<!-- graph:end -->

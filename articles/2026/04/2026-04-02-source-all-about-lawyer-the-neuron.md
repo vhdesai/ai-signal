@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: null
+embedding_id: 2026-04-02-source-all-about-lawyer-the-neuron
 event_name: ''
 ---
 

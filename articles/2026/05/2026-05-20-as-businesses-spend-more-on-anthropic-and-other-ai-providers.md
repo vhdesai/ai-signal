@@ -19,8 +19,11 @@ themes: []
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+embedding_id: 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
 event_name: ''
 ---
 
@@ -32,4 +35,5 @@ As businesses spend more on Anthropic and other AI providers, they are demanding
 ## Connections
 
 **Entities:** [[Anthropic]]
+**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]]
 <!-- graph:end -->

@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-04-02-model-releases-updates
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
+- 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
-- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost
-embedding_id: null
+embedding_id: 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Microsoft launched its first-party MAI model suite — Transcribe-1 (speech-to-t
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-model-releases-updates]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost]]
+**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-model-releases-updates]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]]
 <!-- graph:end -->

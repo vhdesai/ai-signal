@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
 - 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
-embedding_id: null
+embedding_id: 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 event_name: ''
 ---
 

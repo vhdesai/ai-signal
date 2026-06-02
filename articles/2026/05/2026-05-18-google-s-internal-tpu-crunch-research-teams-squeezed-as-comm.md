@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
-embedding_id: null
+embedding_id: 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
 event_name: ''
 ---
 

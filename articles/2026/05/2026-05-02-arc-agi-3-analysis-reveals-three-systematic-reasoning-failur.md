@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
-embedding_id: null
+embedding_id: 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 event_name: ''
 ---
 

@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-modal-rais
 event_name: ''
 ---
 

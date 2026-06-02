@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
-embedding_id: null
+embedding_id: 2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc
 event_name: ''
 ---
 

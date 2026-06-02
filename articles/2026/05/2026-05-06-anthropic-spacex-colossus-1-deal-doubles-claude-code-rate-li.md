@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 - 2026-05-07-
-embedding_id: null
+embedding_id: 2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li
 event_name: ''
 ---
 

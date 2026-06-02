@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
-embedding_id: null
+embedding_id: 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 event_name: ''
 ---
 

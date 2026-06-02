@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-microsoft-build-2026-preview-ai-native-windows-push-coming-j
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
+embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview
 event_name: Microsoft Build 2026 Preview
 ---
 
 # Microsoft Build 2026 Preview — Overview
 
 The corpus mentions Microsoft Build 2026 less frequently than Google I/O or WWDC, but the mentions are high signal: Build is framed as Microsoft's formal developer-platform moment for AI-native Windows, Copilot, Azure AI Foundry, first-party MAI models, and operating-system-level agents. The main preview item points to a June 2 opening in San Francisco with Satya Nadella keynoting and a theme described as the “AI takeover of Windows.”
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-28-microsoft-build-2026-preview-ai-native-windows-push-coming-j]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]]
+<!-- graph:end -->

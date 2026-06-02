@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 - 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
-embedding_id: null
+embedding_id: 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 event_name: ''
 ---
 

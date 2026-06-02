@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 - 2026-04-15-research-breakthroughs
-embedding_id: null
+embedding_id: 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 event_name: ''
 ---
 

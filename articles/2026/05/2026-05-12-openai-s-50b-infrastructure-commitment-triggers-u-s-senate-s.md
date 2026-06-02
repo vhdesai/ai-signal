@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-embedding_id: null
+embedding_id: 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 event_name: ''
 ---
 

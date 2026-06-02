@@ -26,9 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3
-embedding_id: null
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
+embedding_id: 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
 event_name: ''
 ---
 
@@ -41,5 +40,5 @@ DeepMind highlighted its scientific-discovery push with Gemini-powered experimen
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-19-google-deepmind-ships-gemini-omni-gemini-spark-and-gemini-3]]
+**Related:** [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
 <!-- graph:end -->

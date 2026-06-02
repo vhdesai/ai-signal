@@ -22,12 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
+- 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
-- 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
-embedding_id: null
+embedding_id: 2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform
 event_name: ''
 ---
 
@@ -40,5 +38,5 @@ OpenAI announced Daybreak, an AI security system that detects software vulnerabi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]]
+**Related:** [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
 <!-- graph:end -->

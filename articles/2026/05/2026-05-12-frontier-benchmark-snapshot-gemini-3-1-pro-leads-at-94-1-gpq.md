@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 - 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
 - 2026-05-06-newgemini-3-2-flash-what-we-know-before-google-i-o-2026
-embedding_id: null
+embedding_id: 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
 event_name: ''
 ---
 

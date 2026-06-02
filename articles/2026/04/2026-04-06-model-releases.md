@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
+- 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-04-08-source-forbes-msn-the-neuron
-- 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-embedding_id: null
+- 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+embedding_id: 2026-04-06-model-releases
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Meta Planning Open-Source Releases of Next-Gen Models Codenamed "Avocado" and "M
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]]
+**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]]
 <!-- graph:end -->

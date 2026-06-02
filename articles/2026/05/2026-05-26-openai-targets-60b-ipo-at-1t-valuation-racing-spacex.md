@@ -19,8 +19,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
+- 2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation
+- 2026-05-26-forbes-four-things-to-know-as-openai-eyes-a-1-trillion-ipo
+embedding_id: 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 event_name: ''
 ---
 
@@ -33,4 +36,5 @@ OpenAI is reportedly targeting a public listing as early as September 2026, aimi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]] · [[2026-05-26-forbes-four-things-to-know-as-openai-eyes-a-1-trillion-ipo]]
 <!-- graph:end -->

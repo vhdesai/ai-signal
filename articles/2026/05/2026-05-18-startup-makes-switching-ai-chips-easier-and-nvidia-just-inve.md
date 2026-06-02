@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
+- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
+- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+embedding_id: 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ A startup has launched tooling that lets AI workloads move more easily between d
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
 <!-- graph:end -->

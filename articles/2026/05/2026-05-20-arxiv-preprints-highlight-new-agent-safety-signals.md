@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-- 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
-embedding_id: null
+- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+embedding_id: 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ A wave of new arXiv preprints converged on agent reliability: papers detailed ja
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]]
+**Related:** [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
 <!-- graph:end -->

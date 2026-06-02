@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-embedding_id: null
+embedding_id: 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 event_name: ''
 ---
 

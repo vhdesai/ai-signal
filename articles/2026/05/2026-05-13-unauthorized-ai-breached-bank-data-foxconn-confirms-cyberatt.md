@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 - 2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully
 - 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
-embedding_id: null
+embedding_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 event_name: ''
 ---
 

@@ -17,14 +17,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-- 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+related_article_ids: []
+embedding_id: 2026-04-14-source-tech-insider-updated-april-2026
 event_name: ''
 ---
 
@@ -37,5 +33,5 @@ Social Media Platforms Face New Securities Fraud Liability for AI-Generated Ad C
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Canonical:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
 <!-- graph:end -->

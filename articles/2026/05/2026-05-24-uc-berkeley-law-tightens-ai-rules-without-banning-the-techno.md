@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-22-academic-research
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-embedding_id: null
+embedding_id: 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
 event_name: ''
 ---
 

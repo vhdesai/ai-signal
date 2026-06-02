@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn
 - 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
 event_name: ''
 ---
 

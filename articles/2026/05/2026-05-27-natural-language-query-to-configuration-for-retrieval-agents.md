@@ -21,11 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
+- 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 - 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-- 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
-embedding_id: null
+embedding_id: 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ The paper proposes translating natural-language user requests into the configura
 
 **Entities:** [[Databricks]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]]
+**Related:** [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro]] · [[2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
 <!-- graph:end -->

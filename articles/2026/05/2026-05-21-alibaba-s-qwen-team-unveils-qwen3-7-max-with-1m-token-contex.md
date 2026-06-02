@@ -19,15 +19,10 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-- 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
-- 2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+related_article_ids: []
+embedding_id: 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 event_name: ''
 ---
 
@@ -40,5 +35,5 @@ Announced at the Alibaba Cloud Summit in Hangzhou, Qwen3.7-Max is positioned as 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap]]
+**Canonical:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

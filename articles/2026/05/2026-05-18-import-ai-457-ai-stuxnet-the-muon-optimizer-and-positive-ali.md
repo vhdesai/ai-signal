@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-embedding_id: null
+embedding_id: 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ This week's Import AI covers three distinct research threads that warrant execut
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]]
+**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

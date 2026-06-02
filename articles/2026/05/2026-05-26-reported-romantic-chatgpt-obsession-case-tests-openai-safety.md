@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety
 event_name: ''
 ---
 

@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 - 2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026
-embedding_id: null
+embedding_id: 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 event_name: ''
 ---
 

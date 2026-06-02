@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
+- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 - 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ As long-running AI coding agents become production tools, developers are physica
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
 <!-- graph:end -->

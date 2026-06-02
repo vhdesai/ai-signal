@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 102
+member_count: 126
 ---
 
 # Apple
 
-> Auto-generated entity hub. 102 connected article(s).
+> Auto-generated entity hub. 126 connected article(s).
 
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-05-31` [[2026-05-31-microsoft-confirms-no-windows-12-teases-nvidia-n1x-arm-pc-ah|### Microsoft confirms no "Windows 12," teases NVIDIA N1X ARM PC ahead of a major announcement]]
+- `2026-05-30` [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm|### Meta Developing AI Pendant and Expanding Smart Glasses Roadmap]]
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
 - `2026-05-28` [[2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device|Canada dismisses tech firms' warnings of 'back doors' to devices]]
 - `2026-05-28` [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem|Apple to make on-device AI a centerpiece of WWDC, distill Gemini into local models]]
@@ -49,6 +59,8 @@ member_count: 102
 - `2026-05-20` [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov|Apple confirms WWDC 2026 (June 8) with AI-heavy agenda: Siri overhaul, Core AI framework, iOS 27]]
 - `2026-05-19` [[2026-05-19-vik-desai-corp-dev-microsoft|Vik Desai · Corp Dev · Microsoft]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
+- `2026-05-19` [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp|Google I/O 2026: Gemini as the Agentic Platform — Strategic Implications]]
+- `2026-05-19` [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview|Google I/O 2026: Gemini as the Agentic Platform — Overview]]
 - `2026-05-19` [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c|Gemini Will Power the Next Generation of Siri — Google Cloud CEO Confirms]]
 - `2026-05-19` [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi|Breaking Google I/O 2026: Gemini 4.0, Android XR Glasses & Aluminium OS Announced]]
 - `2026-05-19` [[2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features|Apple unveils new Apple Intelligence accessibility features ahead of WWDC]]
@@ -71,6 +83,11 @@ member_count: 102
 - `2026-05-13` [[2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio|Forum AI: Campbell Brown's Benchmark Platform Tests Foundation Models on Contested High-Stakes Domains]]
 - `2026-05-13` [[2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea|Apple Is Designing an AI Agent System for the App Store Ahead of WWDC]]
 - `2026-05-12` [[2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to|Google unveils Googlebook — a new line of AI-native laptops to succeed Chromebook]]
+- `2026-05-12` [[event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category|Google Android Show 2026: Googlebook laptop category]]
+- `2026-05-12` [[event-google-android-show-2026-google-android-show-2026-gemini-intelligence-suite|Google Android Show 2026: Gemini Intelligence suite]]
+- `2026-05-12` [[event-google-android-show-2026-google-android-show-2026-android-17-chrome-and-xr-previews|Google Android Show 2026: Android 17, Chrome, and XR previews]]
+- `2026-05-12` [[event-google-android-show-2026-google-android-show-2026-strategic-implications|Google Android Show 2026 — Strategic Implications]]
+- `2026-05-12` [[event-google-android-show-2026-google-android-show-2026-overview|Google Android Show 2026 — Overview]]
 - `2026-05-12` [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Meta, Apple, Amazon, Cerebras, IBM, Baidu, Alibaba, Palantir, Sakana AI, Tilde Research · New…]]
 - `2026-05-12` [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres|Apple releases PPML 2026 workshop recordings on privacy-preserving AI]]
 - `2026-05-11` [[2026-05-11-companies-nvidia-google-deepmind-openai-anthropic-mistral-me|Companies: Nvidia · Google DeepMind · OpenAI · Anthropic · Mistral · Meta · Apple · Amazon · Microsoft · xAI · Sakana AI · Nous Research · Cloudflare · PayPal]]
@@ -96,6 +113,12 @@ member_count: 102
 - `2026-04-22` [[2026-04-22-academic-research|🎓 Academic Research]]
 - `2026-04-22` [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee|Tencent and Alibaba are in discussions to participate in DeepSeek's first-ever capital raise, which would value the Chinese AI startup at more than $20 billi…]]
 - `2026-04-22` [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl|Reuters analysis published today examines how Apple's tightly controlled ecosystem — custom chips, proprietary OS, curated apps — that built a $210 billion i…]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family|Google Cloud Next 2026: TPU 8 family]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through|Google Cloud Next 2026: Siri/Gemini enterprise read-through]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs|Google Cloud Next 2026: Partner and adoption programs]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform|Google Cloud Next 2026: Gemini Enterprise Agent Platform]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications|Google Cloud Next 2026 — Strategic Implications]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-overview|Google Cloud Next 2026 — Overview]]
 - `2026-04-20` [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators|YouTube Expands AI Deepfake Detection for Creators]]
 - `2026-04-20` [[2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down|Breaking Apple Confirms CEO Transition: Tim Cook to Step Down, John Ternus to Succeed]]
 - `2026-04-17` [[2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma|Apple Q2 FY26 revenue $111.2B (+17%), EPS $2.01 (+22%), iPhone $56.99B (March-quarter record), Services all-time high at $30.98B.]]
@@ -110,3 +133,4 @@ member_count: 102
 - `2026-04-01` [[2026-04-01-products-tools|🛠️ Products & Tools]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-03-26` [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope|Apple to Open Siri to Claude and Gemini in iOS 27 — Ending OpenAI Exclusivity]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

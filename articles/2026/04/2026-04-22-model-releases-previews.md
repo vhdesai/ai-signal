@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-
 - 2026-04-15-model-releases
 - 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
-embedding_id: null
+embedding_id: 2026-04-22-model-releases-previews
 event_name: ''
 ---
 

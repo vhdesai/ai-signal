@@ -22,12 +22,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
+- 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+- 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
-- 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-- 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
-embedding_id: null
+embedding_id: 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Chinese robotics companies have raised $5.6 billion across 176 deals through mid
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]]
+**Related:** [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]]
 <!-- graph:end -->

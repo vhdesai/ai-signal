@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-13-the-u-s
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-embedding_id: null
+embedding_id: 2026-05-12-u-s-commerce-expands-pre-release-safety-testing-to-five-fron
 event_name: ''
 ---
 

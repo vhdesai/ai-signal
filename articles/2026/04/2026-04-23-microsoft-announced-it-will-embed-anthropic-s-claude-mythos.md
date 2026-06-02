@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: null
+embedding_id: 2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos
 event_name: ''
 ---
 

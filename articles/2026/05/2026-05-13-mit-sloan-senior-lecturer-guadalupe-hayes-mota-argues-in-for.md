@@ -32,11 +32,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
-embedding_id: null
+- 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
+embedding_id: 2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for
 event_name: ''
 ---
 
@@ -49,5 +49,5 @@ MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI is now 
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
+**Related:** [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]]
 <!-- graph:end -->

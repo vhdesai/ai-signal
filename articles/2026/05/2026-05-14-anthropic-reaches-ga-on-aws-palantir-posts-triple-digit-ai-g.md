@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
 event_name: ''
 ---
 

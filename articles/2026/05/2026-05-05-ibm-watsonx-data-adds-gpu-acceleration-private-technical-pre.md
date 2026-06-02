@@ -16,10 +16,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-private-technical-pre
 event_name: ''
 ---
 
@@ -32,4 +32,5 @@ Unveiled at Think 2026, GPU acceleration for watsonx.data targets faster AI and 
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical]]
 <!-- graph:end -->

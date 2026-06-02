@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
+- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
-embedding_id: null
+embedding_id: 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Micron Technology crossed a $1 trillion market capitalization during the May 27 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]]
+**Related:** [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

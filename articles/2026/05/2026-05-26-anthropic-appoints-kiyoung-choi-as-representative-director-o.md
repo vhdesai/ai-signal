@@ -24,8 +24,7 @@ related_article_ids:
 - 2026-05-26-new-anthropic-launches-korea-operations-names-kiyoung-choi-r
 - 2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo
 - 2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde
-- 2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ Anthropic continues its APAC expansion with the appointment of KiYoung Choi to l
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-new-anthropic-launches-korea-operations-names-kiyoung-choi-r]] · [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo]] · [[2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team]]
+**Related:** [[2026-05-26-new-anthropic-launches-korea-operations-names-kiyoung-choi-r]] · [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo]] · [[2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde]]
 <!-- graph:end -->

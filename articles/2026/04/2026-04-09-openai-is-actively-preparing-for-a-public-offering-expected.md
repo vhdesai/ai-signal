@@ -25,11 +25,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
+- 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
+- 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 - 2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe
-- 2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation
-- 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-embedding_id: null
+embedding_id: 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 event_name: ''
 ---
 
@@ -42,5 +43,5 @@ OpenAI is actively preparing for a public offering expected in Q4 2026, with sec
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]] · [[2026-05-22-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]]
+**Related:** [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]]
 <!-- graph:end -->

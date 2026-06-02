@@ -27,9 +27,9 @@ related_article_ids:
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
+- 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-- 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
-embedding_id: null
+embedding_id: 2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ Meta is deploying new tracking software — called the Model Capability Initiati
 
 **Entities:** [[Cerebras]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]]
+**Related:** [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-coverage-window-may-20-21-2026-last-24-hours-items-from-may
 - 2026-05-15-
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-embedding_id: null
+embedding_id: 2026-05-11-items-span-may-5-11-2026-only-news-confirmed-by-sourced-repo
 event_name: ''
 ---
 

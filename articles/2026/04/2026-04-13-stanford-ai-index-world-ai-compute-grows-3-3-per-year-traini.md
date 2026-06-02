@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
-embedding_id: null
+embedding_id: 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 event_name: ''
 ---
 

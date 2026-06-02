@@ -23,8 +23,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
+- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
+- 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
+- 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
+embedding_id: 2026-05-22-catl-contemporary-amperex-technology-is-planning-to-particip
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ CATL (Contemporary Amperex Technology) is planning to participate in DeepSeek's 
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]]
 <!-- graph:end -->

@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
-- 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-embedding_id: null
+- 2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice
+embedding_id: 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ An AI clinical platform received the American College of Cardiology's inaugural 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]]
-**Related:** [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice]]
 <!-- graph:end -->

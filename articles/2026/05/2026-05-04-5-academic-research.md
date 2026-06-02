@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
+- 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
-- 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-embedding_id: null
+- 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
+embedding_id: 2026-05-04-5-academic-research
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
+**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]]
 <!-- graph:end -->

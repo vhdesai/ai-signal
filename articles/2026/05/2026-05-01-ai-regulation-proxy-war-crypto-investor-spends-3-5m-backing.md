@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
-embedding_id: null
+embedding_id: 2026-05-01-ai-regulation-proxy-war-crypto-investor-spends-3-5m-backing
 event_name: ''
 ---
 

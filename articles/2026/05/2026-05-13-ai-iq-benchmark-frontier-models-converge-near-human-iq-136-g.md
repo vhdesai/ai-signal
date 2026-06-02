@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-04-23-
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: null
+embedding_id: 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
 event_name: ''
 ---
 

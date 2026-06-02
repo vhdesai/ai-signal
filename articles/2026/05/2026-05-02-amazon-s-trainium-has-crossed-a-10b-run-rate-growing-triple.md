@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-09-products-tools
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-embedding_id: null
+embedding_id: 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 event_name: ''
 ---
 

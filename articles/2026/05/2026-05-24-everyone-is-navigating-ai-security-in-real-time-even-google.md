@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
 - 2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-embedding_id: null
+embedding_id: 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
 event_name: ''
 ---
 

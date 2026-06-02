@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
 - 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
 - 2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
-- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: null
+- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
+embedding_id: 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Meta is eliminating approximately 8,000 positions (~10% of workforce) while simu
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
+**Related:** [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

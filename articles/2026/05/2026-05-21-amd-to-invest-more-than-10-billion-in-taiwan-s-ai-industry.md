@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
 - 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 - 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-embedding_id: null
+embedding_id: 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ AMD announced more than $10 billion in capital commitments across Taiwan's semic
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
+**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

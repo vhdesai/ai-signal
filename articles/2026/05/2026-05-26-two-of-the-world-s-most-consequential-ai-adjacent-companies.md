@@ -19,10 +19,14 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-three-of-the-world-s-most-consequential-ai-adjacent-companie
+related_article_ids:
+- 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
+- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
+- 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
+- 2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga
+embedding_id: 2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies
 event_name: ''
 ---
 
@@ -35,4 +39,6 @@ Two of the world's most consequential AI-adjacent companies are queueing up for 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-26-three-of-the-world-s-most-consequential-ai-adjacent-companie]]
+**Related:** [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga]]
 <!-- graph:end -->

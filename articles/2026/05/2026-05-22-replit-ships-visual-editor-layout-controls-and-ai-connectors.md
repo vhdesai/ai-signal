@@ -19,8 +19,12 @@ themes: []
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
+- 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
+- 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
+embedding_id: 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
 event_name: ''
 ---
 
@@ -31,4 +35,5 @@ Replit's latest platform update delivers Visual Editor layout controls for drag-
 <!-- graph:start -->
 ## Connections
 
+**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]]
 <!-- graph:end -->

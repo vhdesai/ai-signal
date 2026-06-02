@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
+- 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-embedding_id: null
+embedding_id: 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Replit's Agent 4 can now build, test, and deploy complete full-stack web applica
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
 <!-- graph:end -->

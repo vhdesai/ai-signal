@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
-embedding_id: null
+embedding_id: 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 event_name: ''
 ---
 

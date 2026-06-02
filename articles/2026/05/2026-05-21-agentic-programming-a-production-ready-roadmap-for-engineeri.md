@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
+- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+embedding_id: 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ A comprehensive tutorial roadmap covering what agentic programming is, how produ
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

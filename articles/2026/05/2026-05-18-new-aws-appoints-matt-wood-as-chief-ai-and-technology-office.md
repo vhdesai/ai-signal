@@ -18,10 +18,10 @@ entities:
 - OpenAI
 themes: []
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 event_name: ''
 ---
 
@@ -33,4 +33,5 @@ Matt Wood — a 14-year AWS AI/ML veteran who left in 2024 for PwC's CTIO role �
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
+**Canonical:** [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]]
 <!-- graph:end -->

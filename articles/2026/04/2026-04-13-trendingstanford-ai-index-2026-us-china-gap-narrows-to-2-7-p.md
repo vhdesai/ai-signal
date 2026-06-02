@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-13-trendingstanford-ai-index-2026-us-china-gap-narrows-to-2-7-p
 event_name: ''
 ---
 

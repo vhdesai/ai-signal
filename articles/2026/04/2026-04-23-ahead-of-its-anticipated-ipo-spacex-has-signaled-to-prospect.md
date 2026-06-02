@@ -24,11 +24,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
+- 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-embedding_id: null
+embedding_id: 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Ahead of its anticipated IPO, SpaceX has signaled to prospective investors that 
 
 **Entities:** [[NVIDIA]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]]
+**Related:** [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee
 event_name: ''
 ---
 

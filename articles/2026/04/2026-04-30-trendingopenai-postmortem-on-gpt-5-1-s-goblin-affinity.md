@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
-embedding_id: null
+embedding_id: 2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity
 event_name: ''
 ---
 

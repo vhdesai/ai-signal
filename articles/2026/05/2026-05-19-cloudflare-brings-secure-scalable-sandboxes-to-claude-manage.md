@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-embedding_id: null
+embedding_id: 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 event_name: ''
 ---
 

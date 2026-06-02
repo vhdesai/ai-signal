@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
+- 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
-- 2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa
-embedding_id: null
+- 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
+embedding_id: 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ A new MIT study offers a mechanistic explanation for the empirical reliability o
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa]]
+**Related:** [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]]
 <!-- graph:end -->

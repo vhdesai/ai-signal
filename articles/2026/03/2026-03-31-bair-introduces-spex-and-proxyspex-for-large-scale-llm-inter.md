@@ -22,9 +22,9 @@ related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu
-- 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
-embedding_id: null
+embedding_id: 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Berkeley AI Research Lab published SPEX and ProxySPEX — algorithms using ablat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]]
+**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 - 2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully
-embedding_id: null
+embedding_id: 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 event_name: ''
 ---
 

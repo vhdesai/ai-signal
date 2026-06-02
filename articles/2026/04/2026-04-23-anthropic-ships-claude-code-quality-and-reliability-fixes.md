@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
+- 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
 - 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-- 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
-embedding_id: null
+embedding_id: 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Anthropic pushed a set of quality fixes to Claude Code addressing regressions in
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]]
 <!-- graph:end -->

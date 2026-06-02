@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-embedding_id: null
+embedding_id: 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
 event_name: ''
 ---
 

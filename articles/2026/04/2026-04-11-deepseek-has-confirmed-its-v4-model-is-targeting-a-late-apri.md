@@ -26,7 +26,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 event_name: ''
 ---
 

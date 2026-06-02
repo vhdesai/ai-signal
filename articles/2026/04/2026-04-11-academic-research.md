@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 - 2026-04-13-ai-safety-policy
-embedding_id: null
+embedding_id: 2026-04-11-academic-research
 event_name: ''
 ---
 

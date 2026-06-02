@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-embedding_id: null
+embedding_id: 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
 event_name: ''
 ---
 

@@ -43,10 +43,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
+- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
-- 2026-04-14-source-tech-insider-updated-april-2026
-- 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
-embedding_id: null
+embedding_id: 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 event_name: ''
 ---
 
@@ -59,5 +58,5 @@ The lawsuit alleging Mark Zuckerberg personally authorized copyright infringemen
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]]
+**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]]
 <!-- graph:end -->

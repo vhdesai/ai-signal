@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
+- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
-- 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-embedding_id: null
+embedding_id: 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
 event_name: ''
 ---
 
@@ -47,5 +47,5 @@ SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip arch
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Baidu]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
+**Related:** [[2026-05-08-deepseek-eyes-50b-valuation-in-first-external-round-as-huawe]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]]
 <!-- graph:end -->

@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
-embedding_id: null
+embedding_id: 2026-05-13-iowa-enacts-law-forbidding-ai-only-medical-treatment-denials
 event_name: ''
 ---
 

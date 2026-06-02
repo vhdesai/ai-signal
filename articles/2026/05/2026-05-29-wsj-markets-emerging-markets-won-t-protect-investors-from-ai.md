@@ -23,10 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
+- 2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-- 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
-embedding_id: null
+- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+embedding_id: 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Spencer Jakab argues that the AI-driven concentration in U.S. mega-caps has now 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management]]
+**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
 <!-- graph:end -->

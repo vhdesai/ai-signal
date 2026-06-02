@@ -21,15 +21,10 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
-- 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-- 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
-- 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+related_article_ids: []
+embedding_id: 2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap
 event_name: ''
 ---
 
@@ -42,5 +37,5 @@ Alibaba's proprietary Qwen3.7-Max can operate autonomously for 35 hours and is c
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]]
+**Canonical:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

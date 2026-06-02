@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 - 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
-- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-embedding_id: null
+- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+embedding_id: 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Reports surfaced this morning that Visual Studio Code has been silently adding a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
+**Related:** [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
 <!-- graph:end -->

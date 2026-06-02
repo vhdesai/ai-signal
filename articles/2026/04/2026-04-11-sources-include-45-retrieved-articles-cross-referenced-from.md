@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-22-sources-the-information-cnbc-reuters-semafor-forbes-bloomber
 - 2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo
 - 2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber
-embedding_id: null
+embedding_id: 2026-04-11-sources-include-45-retrieved-articles-cross-referenced-from
 event_name: ''
 ---
 

@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
+- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
+- 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap
+embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ TechCrunch published an investigative piece on AI-startup ARR inflation, with Sp
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems
 event_name: ''
 ---
 
@@ -37,4 +37,5 @@ Fresh off its $5.55B IPO at a $95B market cap, Cerebras Systems announced it is 
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Canonical:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]]
 <!-- graph:end -->

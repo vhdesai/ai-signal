@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
+- 2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
+- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
+- 2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model
+- 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
+embedding_id: 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Cursor released Composer 2.5, a coding model optimized for long-running tasks wi
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]]
 <!-- graph:end -->

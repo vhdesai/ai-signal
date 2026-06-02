@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
+- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
+- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
+- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+embedding_id: 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Analytics Vidhya published a curated roundup of the ten most impactful LLM resea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
 <!-- graph:end -->

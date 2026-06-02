@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
-- 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
-embedding_id: null
+- 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
+embedding_id: 2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Rebecca Bellan's analysis argues the Pope's encyclical is less about AI technolo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an]] · [[2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]]
+**Related:** [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an]] · [[2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]]
 <!-- graph:end -->

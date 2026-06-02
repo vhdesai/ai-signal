@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
-embedding_id: null
+embedding_id: 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 event_name: ''
 ---
 

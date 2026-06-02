@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
+- 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
 - 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
+- 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
 - 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
-embedding_id: null
+embedding_id: 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Google DeepMind’s AlphaProof Nexus reportedly solved nine open Erdős problems
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old]]
+**Related:** [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]] · [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]]
 <!-- graph:end -->

@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
-- 2026-05-13-
-embedding_id: null
+embedding_id: 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Google Cloud CEO Thomas Kurian confirmed at Google Cloud Next '26 that Gemini wi
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-13-]]
+**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-surpassing-openai
 event_name: ''
 ---
 

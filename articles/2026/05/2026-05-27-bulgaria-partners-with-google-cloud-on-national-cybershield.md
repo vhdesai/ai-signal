@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
+- event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
-- 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-embedding_id: null
+embedding_id: 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Bulgaria and Google Cloud announced a "National Cybershield" partnership coverin
 
 **Entities:** [[Google]] · [[Intel]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]]
+**Related:** [[2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
 - 2026-04-23-the-most-important-ai-developments-across-industry-research
-embedding_id: null
+embedding_id: 2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai
 event_name: ''
 ---
 

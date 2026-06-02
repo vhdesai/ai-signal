@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
+- 2026-05-12-stanford-hai-200-global-teams-submit-to-ai-for-organizations
+- 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-embedding_id: null
+embedding_id: 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A Stanford-led study (Bommasani, Bana, Creel, Jurafsky, Liang) finds that when m
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-12-stanford-hai-200-global-teams-submit-to-ai-for-organizations]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

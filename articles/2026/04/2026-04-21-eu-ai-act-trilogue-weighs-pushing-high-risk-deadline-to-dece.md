@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 - 2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi
-embedding_id: null
+embedding_id: 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
 event_name: ''
 ---
 

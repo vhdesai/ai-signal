@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+- 2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross
 - 2026-04-01-products-tools
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-embedding_id: null
+embedding_id: 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Perplexity opened its Personal Computer product — an OS-level AI assistant for
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-01-products-tools]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]]
+**Related:** [[2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross]] · [[2026-04-01-products-tools]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]]
 <!-- graph:end -->

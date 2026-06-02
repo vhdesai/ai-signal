@@ -21,10 +21,13 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex
+related_article_ids:
+- 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
+- 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
+- 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
+embedding_id: 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
 event_name: ''
 ---
 
@@ -37,4 +40,6 @@ IBM and Scuderia Ferrari HP announced an enterprise AI partnership to overhaul t
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[IBM]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex]]
+**Related:** [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]]
 <!-- graph:end -->

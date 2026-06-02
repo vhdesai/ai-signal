@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
+- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
-- 2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro
-embedding_id: null
+embedding_id: 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ OpenAI disclosed on April 11 that a widely-used third-party developer library ca
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro]]
+**Related:** [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]]
 <!-- graph:end -->

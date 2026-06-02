@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
 - 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
-embedding_id: null
+embedding_id: 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
 event_name: ''
 ---
 

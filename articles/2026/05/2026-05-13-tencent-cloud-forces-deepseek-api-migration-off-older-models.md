@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 - 2026-04-27-
+- 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-embedding_id: null
+embedding_id: 2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Tencent Cloud announced that three older DeepSeek models — V3-0324, V3.1-Termi
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-04-27-]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]]
+**Related:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-04-27-]] · [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]]
 <!-- graph:end -->

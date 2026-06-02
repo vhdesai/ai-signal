@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
+- 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
+- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-04-02-source-all-about-lawyer-the-neuron
+embedding_id: 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Analysis of Microsoft's latest 10-Q filing reveals $625 billion in remaining per
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

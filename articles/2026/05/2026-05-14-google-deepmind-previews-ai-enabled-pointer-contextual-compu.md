@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
 - 2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface
-- 2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol
-embedding_id: null
+- 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
+embedding_id: 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Google DeepMind published a new research direction for an "AI-enabled pointer" �
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface]] · [[2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol]]
+**Related:** [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]]
 <!-- graph:end -->

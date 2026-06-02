@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-embedding_id: null
+embedding_id: 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
 event_name: ''
 ---
 

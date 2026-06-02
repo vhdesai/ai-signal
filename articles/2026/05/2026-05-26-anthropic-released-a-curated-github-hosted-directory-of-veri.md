@@ -21,10 +21,10 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 event_name: ''
 ---
 
@@ -37,4 +37,5 @@ Anthropic released a curated GitHub-hosted directory of verified plugins extendi
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Canonical:** [[2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow]]
 <!-- graph:end -->

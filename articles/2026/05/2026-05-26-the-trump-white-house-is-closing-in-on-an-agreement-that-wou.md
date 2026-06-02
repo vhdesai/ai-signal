@@ -20,8 +20,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
+- 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
+- 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
+- 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
+embedding_id: 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ The Trump White House is closing in on an agreement that would allow U.S. intell
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]]
 <!-- graph:end -->

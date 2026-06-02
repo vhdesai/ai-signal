@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-embedding_id: null
+embedding_id: 2026-05-19-the-american-rebellion-against-ai-gains-steam
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ WSJ Editor-in-Chief Emma Tucker frames a growing US backlash against AI — from
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]]
 <!-- graph:end -->

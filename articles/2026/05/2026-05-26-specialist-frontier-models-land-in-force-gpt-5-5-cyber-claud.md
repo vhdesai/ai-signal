@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-embedding_id: null
+embedding_id: 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 event_name: ''
 ---
 

@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
 - 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
-- 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
-- 2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut
-- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-embedding_id: null
+- 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
+- 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
+- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
+embedding_id: 2026-05-14-linkedin-layoffs-and-a-new-creator-led-events-pivot
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ LinkedIn announced layoffs across sales, marketing, engineering, and product —
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
+**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]]
 <!-- graph:end -->

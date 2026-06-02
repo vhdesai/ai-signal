@@ -26,9 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 - 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
-- 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
-embedding_id: null
+- 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
+embedding_id: 2026-05-19-samsung-android-xr-smart-glasses-confirmed-for-fall-2026-iph
 event_name: ''
 ---
 
@@ -41,5 +40,5 @@ Google confirmed at I/O 2026 that Samsung-built Android XR smart glasses will sh
 
 **Entities:** [[Google]] · [[Meta]] · [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]]
+**Related:** [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-13-products-tools
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-embedding_id: null
+embedding_id: 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
 event_name: ''
 ---
 

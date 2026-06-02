@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-embedding_id: null
+embedding_id: 2026-05-23-eu-ai-act-enforcement-window-opens-for-gpai-on-august-2
 event_name: ''
 ---
 

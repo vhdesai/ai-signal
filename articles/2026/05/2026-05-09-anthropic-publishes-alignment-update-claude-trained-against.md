@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
+- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
+- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
+embedding_id: 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ Anthropic published an alignment update describing new training techniques desig
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]]
 <!-- graph:end -->

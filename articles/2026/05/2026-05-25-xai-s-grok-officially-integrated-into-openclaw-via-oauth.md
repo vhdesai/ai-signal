@@ -19,15 +19,10 @@ themes:
 - policy-regulation
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-- 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
-- 2026-05-27-xai-launches-grok-integration-in-kilo-code
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+related_article_ids: []
+embedding_id: 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
 event_name: ''
 ---
 
@@ -40,5 +35,5 @@ xAI made Grok 4.3 the default model option inside the NVIDIA-backed OpenClaw age
 
 **Entities:** [[NVIDIA]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-27-xai-launches-grok-integration-in-kilo-code]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
+**Canonical:** [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
 <!-- graph:end -->

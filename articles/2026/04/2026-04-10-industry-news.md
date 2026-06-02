@@ -22,9 +22,9 @@ related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 - 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
-- 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
-embedding_id: null
+- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
+- 2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o
+embedding_id: 2026-04-10-industry-news
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ CoreWeave Books $21B+ in AI Cloud Deals in One Week — Stock Surges 10.87%
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o]]
 <!-- graph:end -->

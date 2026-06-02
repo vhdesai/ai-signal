@@ -48,7 +48,7 @@ related_article_ids:
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-embedding_id: null
+embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
 

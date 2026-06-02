@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
-embedding_id: null
+- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
+embedding_id: 2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Meta began its third 2026 layoff wave on May 20, eliminating ~10% of its workfor
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]]
+**Related:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

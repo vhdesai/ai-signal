@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
-embedding_id: null
+embedding_id: 2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure
 event_name: ''
 ---
 

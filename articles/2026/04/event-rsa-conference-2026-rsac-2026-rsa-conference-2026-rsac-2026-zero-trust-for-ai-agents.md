@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
+- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
+embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 
 # RSA Conference 2026 / RSAC 2026: Zero trust for AI agents
 
 - RSAC sessions from Microsoft, Cisco, CrowdStrike, Splunk, Anthropic, NVIDIA, and others are summarized as pushing zero-trust architecture beyond users/devices into autonomous agents. - Required controls include identity per agent, least-privilege credentials, explicit approval flows, isolation boundaries, logging, and revocation.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
+<!-- graph:end -->

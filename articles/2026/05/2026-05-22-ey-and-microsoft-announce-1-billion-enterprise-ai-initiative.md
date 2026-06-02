@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
-- 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-- 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
-embedding_id: null
+- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
+embedding_id: 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Professional services firm EY and Microsoft have committed more than $1 billion 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[Scale AI]]
-**Related:** [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]]
+**Related:** [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]]
 <!-- graph:end -->

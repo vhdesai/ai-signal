@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
-embedding_id: null
+embedding_id: 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 event_name: ''
 ---
 

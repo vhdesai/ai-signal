@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive
 - 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
-embedding_id: null
+embedding_id: 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
 event_name: ''
 ---
 

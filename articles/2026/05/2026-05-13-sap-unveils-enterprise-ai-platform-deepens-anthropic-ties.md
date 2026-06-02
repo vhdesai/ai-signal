@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
 event_name: ''
 ---
 

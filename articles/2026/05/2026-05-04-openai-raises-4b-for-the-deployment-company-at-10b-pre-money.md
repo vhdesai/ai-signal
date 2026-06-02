@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-11-openai-launches-4b-deployco-ai-services-venture
+- 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
+- 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
+- 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
+- 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
+embedding_id: 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ OpenAI has raised more than $4 billion at a $10B pre-money valuation for a new j
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]]
 <!-- graph:end -->

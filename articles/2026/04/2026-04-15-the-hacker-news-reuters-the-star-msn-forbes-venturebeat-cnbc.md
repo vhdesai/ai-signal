@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-11-sources-include-45-retrieved-articles-cross-referenced-from
 - 2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo
 - 2026-05-17-sources-the-next-web-techrepublic-bloomberg-wall-street-jour
-embedding_id: null
+embedding_id: 2026-04-15-the-hacker-news-reuters-the-star-msn-forbes-venturebeat-cnbc
 event_name: ''
 ---
 

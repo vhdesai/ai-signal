@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
+- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
-- 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
-embedding_id: null
+embedding_id: 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The AI hardware spotlight has shifted from GPU-heavy training to CPU-driven infe
 
 **Entities:** [[AMD]] · [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]]
+**Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
 <!-- graph:end -->

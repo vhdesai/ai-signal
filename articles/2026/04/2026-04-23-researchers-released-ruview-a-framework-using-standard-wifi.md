@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-embedding_id: null
+- 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
+embedding_id: 2026-04-23-researchers-released-ruview-a-framework-using-standard-wifi
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Researchers released RuView, a framework using standard WiFi signals to perform 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]]
+**Related:** [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]]
 <!-- graph:end -->

@@ -30,9 +30,9 @@ related_article_ids:
 - 2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse
 - 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
 - 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
+- 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-- 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-embedding_id: null
+embedding_id: 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
 event_name: ''
 ---
 
@@ -45,5 +45,5 @@ Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Google]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
+**Related:** [[2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]]
 <!-- graph:end -->

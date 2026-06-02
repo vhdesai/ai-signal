@@ -20,12 +20,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
+- 2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
 - 2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
+- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
-- 2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model
-- 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
-- 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-embedding_id: null
+embedding_id: 2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Cursor released self-hosted cloud agents for enterprise security and compliance,
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
+**Related:** [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]]
 <!-- graph:end -->

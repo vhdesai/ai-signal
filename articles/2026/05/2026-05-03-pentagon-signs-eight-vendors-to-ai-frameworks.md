@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 - 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
 - 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
-embedding_id: null
+embedding_id: 2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks
 event_name: ''
 ---
 

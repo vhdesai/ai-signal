@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
+- 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
+- 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
+- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
+- 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
+embedding_id: 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ A Reuters-obtained internal memo from Meta Chief People Officer Janelle Gale con
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]]
 <!-- graph:end -->

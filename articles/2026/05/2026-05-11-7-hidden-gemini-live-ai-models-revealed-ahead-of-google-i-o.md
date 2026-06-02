@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o
+- 2026-05-11-hotgoogle-reveals-7-hidden-gemini-live-models-ahead-of-i-o-2
+- 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
+- 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
+- 2026-05-13-
+embedding_id: 2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ A Forbes investigation uncovered seven undisclosed Gemini Live model codenames e
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o]] · [[2026-05-11-hotgoogle-reveals-7-hidden-gemini-live-models-ahead-of-i-o-2]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-05-13-]]
 <!-- graph:end -->

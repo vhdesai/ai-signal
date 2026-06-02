@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
 event_name: ''
 ---
 

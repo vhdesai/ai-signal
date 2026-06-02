@@ -27,9 +27,9 @@ related_article_ids:
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
+- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
-embedding_id: null
+embedding_id: 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ Cursor released Cursor 3 with both cloud-hosted and local desktop AI agent modes
 
 **Entities:** [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]]
+**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]]
 <!-- graph:end -->

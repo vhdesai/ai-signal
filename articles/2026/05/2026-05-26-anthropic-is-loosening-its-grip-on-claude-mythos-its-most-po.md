@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
+- 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
+embedding_id: 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Anthropic is loosening its grip on Claude Mythos — its most powerful previousl
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Related:** [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
 <!-- graph:end -->

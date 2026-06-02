@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
-embedding_id: null
+embedding_id: 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 event_name: ''
 ---
 

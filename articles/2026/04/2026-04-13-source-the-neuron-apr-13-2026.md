@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
-- 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
-embedding_id: null
+embedding_id: 2026-04-13-source-the-neuron-apr-13-2026
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ U.S.–EU Regulatory Divergence Deepens; AI Sovereignty Becomes Global Organizin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]]
+**Related:** [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]]
 <!-- graph:end -->

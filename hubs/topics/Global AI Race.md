@@ -1,13 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 276
+member_count: 287
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 276 connected article(s).
+> Auto-generated topic hub. 287 connected article(s).
 
+- `2026-06-01` [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report|### Stanford HAI publishes the 2026 AI Index Report]]
+- `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
+- `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
+- `2026-06-01` [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica|### China Deploys AI to Predict Citizens Who Could Pose Political Risk]]
+- `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|### US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
+- `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
+- `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]
+- `2026-05-31` [[2026-05-31-china-restricts-travel-for-top-ai-researchers|### China Restricts Travel for Top AI Researchers]]
+- `2026-05-30` [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031|### Huawei Outlines Post-Moore "Tau Scaling Law" and 1.4nm-by-2031 Chip Roadmap]]
 - `2026-05-29` [[2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi|WSJ Wealth Adviser: J&J exposure, vanishing new-car buyers, China factories everywhere]]
 - `2026-05-29` [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part|China's ByteDance developing AI chips modeled on Nvidia partner Groq]]
 - `2026-05-28` [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo|U.S.–China dialogue on AI guardrails continues as NVIDIA export rules remain unresolved]]
@@ -284,3 +294,4 @@ member_count: 276
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-03-31` [[2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro|Google Launches 2026 India AI Accelerator; Cursor Kimi Controversy Continues]]
 - `2026-03-25` [[2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki|Cursor Self-Hosted Cloud Agents for Enterprise; Composer 2/Kimi Controversy]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

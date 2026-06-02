@@ -23,11 +23,23 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
+- event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
+- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- event-acm-cais-2026-acm-cais-2026-overview
+embedding_id: event-acm-cais-2026-acm-cais-2026-tressoir
 event_name: ACM CAIS 2026
 ---
 
 # ACM CAIS 2026: Tressoir
 
 - MIT researchers presented Tressoir, a system for designing and evolving multi-agent architectures, prompts, tools, and knowledge through human-readable “Interpretable Blueprints.” - The goal is reproducible, systematic construction of multi-agent systems instead of ad hoc prompt chains.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[event-acm-cais-2026-acm-cais-2026-overview]]
+<!-- graph:end -->

@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
-embedding_id: null
+embedding_id: 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Accounting programs at major US universities are rapidly rewriting curricula to 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]]
+**Related:** [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

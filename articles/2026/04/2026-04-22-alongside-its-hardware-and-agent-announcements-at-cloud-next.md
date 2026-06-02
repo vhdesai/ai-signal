@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
+- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
+- event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
 - 2026-04-22-products-tools
-- 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
-- 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
-embedding_id: null
+embedding_id: 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Alongside its hardware and agent announcements at Cloud Next, Google Cloud unvei
 
 **Entities:** [[Alibaba]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-04-22-products-tools]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]]
+**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[2026-04-22-products-tools]]
 <!-- graph:end -->

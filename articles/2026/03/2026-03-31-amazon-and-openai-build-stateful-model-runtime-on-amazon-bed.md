@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
-- 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
-embedding_id: null
+embedding_id: 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Amazon and OpenAI announced a jointly built stateful runtime environment on Bedr
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]]
+**Related:** [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]]
 <!-- graph:end -->

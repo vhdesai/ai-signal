@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
+- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
-- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-- 2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming
-embedding_id: null
+- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
+embedding_id: 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ NVIDIA published results for NVFP4, a 4-bit floating-point format designed for f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming]]
+**Related:** [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]]
 <!-- graph:end -->

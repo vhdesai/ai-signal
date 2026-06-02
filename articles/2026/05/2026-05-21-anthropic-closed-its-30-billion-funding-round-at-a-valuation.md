@@ -23,8 +23,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
+- 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
+- 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
+- 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
+- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+embedding_id: 2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ Anthropic closed its $30 billion funding round at a valuation above $900 billion
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

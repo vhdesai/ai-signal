@@ -20,11 +20,9 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow
-related_article_ids:
-- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-- 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-embedding_id: null
+canonical_article_id: 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
+related_article_ids: []
+embedding_id: 2026-05-28-anthropic-ships-claude-opus-4-8-with-new-dynamic-workflow-to
 event_name: ''
 ---
 
@@ -37,6 +35,5 @@ Anthropic shipped Claude Opus 4.8 the same day it announced its $65B Series H. T
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]]
+**Canonical:** [[2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t]]
 <!-- graph:end -->

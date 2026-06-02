@@ -24,8 +24,7 @@ related_article_ids:
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
-- 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
-embedding_id: null
+embedding_id: 2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ SpaceX's IPO filing disclosed that Anthropic has committed to pay $1.25B per mon
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s]]
+**Related:** [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]]
 <!-- graph:end -->

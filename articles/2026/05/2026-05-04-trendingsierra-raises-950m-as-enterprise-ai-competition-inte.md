@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-embedding_id: null
+- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
+embedding_id: 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Bret Taylor's Sierra closed a $950M round as the contest to own the enterprise A
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
-embedding_id: null
+embedding_id: 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 event_name: ''
 ---
 

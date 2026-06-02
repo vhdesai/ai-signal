@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-acm-cais-2026-acm-cais-2026-overview
+- event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
+- 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
+- 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
+- 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
+embedding_id: event-acm-cais-2026-acm-cais-2026-strategic-implications
 event_name: ACM CAIS 2026
 ---
 
 # ACM CAIS 2026 — Strategic Implications
 
 - **Research-to-product pipeline:** CAIS research maps directly onto enterprise agent pain points: optimization, evaluation, architecture, safety, and reproducibility. - **Agent engineering discipline:** The field is moving from demos to repeatable blueprints, benchmarks, and systems papers. - **Open ecosystem:** Participation from universities, Databricks, Google, Anthropic-adjacent practitioners, and open-source communities suggests no single vendor owns the agent stack. - **Benchmark competition:** Terminal-Bench, ARC-AGI, and optimization tasks become strategic proxies for agent utility.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-overview]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]]
+<!-- graph:end -->

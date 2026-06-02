@@ -21,10 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
-- 2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap
-- 2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b
-embedding_id: null
+- 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
+- 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
+- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
+- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
+embedding_id: 2026-05-26-meta-files-warn-notice-for-1-395-seattle-area-layoffs
 event_name: ''
 ---
 
@@ -37,5 +38,5 @@ Meta filed a WARN Act notice with Washington state disclosing 1,395 layoffs acro
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap]] · [[2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b]]
+**Related:** [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]]
 <!-- graph:end -->

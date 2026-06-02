@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
-embedding_id: null
+embedding_id: 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Meta unveiled a $600B AI investment plan anchored by its new Muse Spark model, p
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]]
+**Related:** [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]]
 <!-- graph:end -->

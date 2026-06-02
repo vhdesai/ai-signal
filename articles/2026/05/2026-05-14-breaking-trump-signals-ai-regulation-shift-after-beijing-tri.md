@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-pol
-embedding_id: null
+embedding_id: 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
 event_name: ''
 ---
 

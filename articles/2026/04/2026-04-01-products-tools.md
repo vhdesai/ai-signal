@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
-embedding_id: null
+embedding_id: 2026-04-01-products-tools
 event_name: ''
 ---
 

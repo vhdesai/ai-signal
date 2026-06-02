@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
+- event-acm-cais-2026-acm-cais-2026-overview
+- event-acm-cais-2026-acm-cais-2026-strategic-implications
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ The ACM CAIS 2026 workshop "AI Agents for Discovery in the Wild" has extended it
 
 **Entities:** [[Databricks]] · [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[event-acm-cais-2026-acm-cais-2026-overview]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]]
 <!-- graph:end -->

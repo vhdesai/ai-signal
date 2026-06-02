@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+embedding_id: 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 event_name: ''
 ---
 

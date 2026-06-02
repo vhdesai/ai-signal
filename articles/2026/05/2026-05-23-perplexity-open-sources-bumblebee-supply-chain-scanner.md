@@ -20,8 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
-embedding_id: null
+embedding_id: 2026-05-23-perplexity-open-sources-bumblebee-supply-chain-scanner
 event_name: ''
 ---
 
@@ -34,5 +35,5 @@ Perplexity released Bumblebee, the internal security tool it uses to harden the 
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]]
+**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]]
 <!-- graph:end -->

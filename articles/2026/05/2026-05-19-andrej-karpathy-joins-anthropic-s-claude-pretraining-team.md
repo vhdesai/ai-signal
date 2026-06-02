@@ -22,9 +22,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-related_article_ids:
-- 2026-05-19-andrej-karpathy-joins-anthropic-s-pre-training-team
-embedding_id: null
+related_article_ids: []
+embedding_id: 2026-05-19-andrej-karpathy-joins-anthropic-s-claude-pretraining-team
 event_name: ''
 ---
 
@@ -38,5 +37,4 @@ Andrej Karpathy — co-founder of OpenAI and former Tesla AI lead — joined Ant
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]]
-**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-s-pre-training-team]]
 <!-- graph:end -->

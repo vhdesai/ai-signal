@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-12-uc-berkeley-paper-breaks-trust-in-all-public-agent-benchmark
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-embedding_id: null
+embedding_id: 2026-04-15-research-breakthroughs
 event_name: ''
 ---
 

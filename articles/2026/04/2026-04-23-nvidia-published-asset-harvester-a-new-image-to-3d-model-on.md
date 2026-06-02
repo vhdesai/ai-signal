@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
+- 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 - 2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin
 - 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
-embedding_id: null
+embedding_id: 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ NVIDIA published Asset-Harvester, a new image-to-3D model, on Hugging Face as pa
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin]] · [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]]
+**Related:** [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin]] · [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]]
 <!-- graph:end -->

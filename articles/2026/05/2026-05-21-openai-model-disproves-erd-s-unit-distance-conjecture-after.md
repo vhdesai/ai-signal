@@ -19,15 +19,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
-- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-- 2026-05-21-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-- 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-- 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
+related_article_ids: []
+embedding_id: 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after
 event_name: ''
 ---
 
@@ -40,5 +35,5 @@ An OpenAI internal reasoning model autonomously produced a counterexample to Pau
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-21-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject]]
+**Canonical:** [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]]
 <!-- graph:end -->

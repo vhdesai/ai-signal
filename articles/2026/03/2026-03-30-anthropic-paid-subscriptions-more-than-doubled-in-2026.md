@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-embedding_id: null
+embedding_id: 2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026
 event_name: ''
 ---
 

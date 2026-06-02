@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
-embedding_id: null
+embedding_id: 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
 event_name: ''
 ---
 

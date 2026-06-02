@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
-- 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
-embedding_id: null
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+embedding_id: 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ DealBook goes behind the numbers on Anthropic's leapfrog past OpenAI, dissecting
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
+**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

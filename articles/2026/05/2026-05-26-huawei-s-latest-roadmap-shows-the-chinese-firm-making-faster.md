@@ -26,8 +26,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
+- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
+- 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
+- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
+embedding_id: 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
 event_name: ''
 ---
 
@@ -40,4 +45,5 @@ Huawei's latest roadmap shows the Chinese firm making faster-than-expected progr
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
+**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
 <!-- graph:end -->

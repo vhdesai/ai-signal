@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-- 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-embedding_id: null
+embedding_id: 2026-05-21-anthropic-blackstone-h-f-jv-makes-first-acquisition-fraction
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ The enterprise services joint venture formed by Anthropic, Blackstone, and Hellm
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
+**Related:** [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
 <!-- graph:end -->

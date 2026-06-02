@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program
 event_name: ''
 ---
 

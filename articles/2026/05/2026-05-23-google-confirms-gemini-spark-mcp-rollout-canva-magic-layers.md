@@ -21,8 +21,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
+- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+embedding_id: 2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers
 event_name: ''
 ---
 
@@ -35,4 +38,5 @@ Four days after the Google I/O 2026 keynote, Google confirmed Gemini Spark — i
 
 **Entities:** [[Google]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
 <!-- graph:end -->

@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-- 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
-- 2026-05-20-ai-news-digest-may-20-2026
-embedding_id: null
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
+embedding_id: 2026-05-28-microsoft-build-2026-preview-ai-native-windows-push-coming-j
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ PCMag previewed Microsoft's Build 2026 conference, opening June 2 at Fort Mason 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-05-20-ai-news-digest-may-20-2026]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]]
 <!-- graph:end -->

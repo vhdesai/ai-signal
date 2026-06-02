@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
+- 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
-- 2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe
-embedding_id: null
+- 2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo
+embedding_id: 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ xAI quietly launched Grok 4.3 beta on grok.com, iOS, and Android, restricted to 
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe]]
+**Related:** [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo]]
 <!-- graph:end -->

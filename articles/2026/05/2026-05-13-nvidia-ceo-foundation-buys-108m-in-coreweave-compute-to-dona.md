@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-nvidia-ceo-foundation-buys-108m-in-coreweave-compute-to-dona
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
-embedding_id: null
+embedding_id: 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
 event_name: ''
 ---
 

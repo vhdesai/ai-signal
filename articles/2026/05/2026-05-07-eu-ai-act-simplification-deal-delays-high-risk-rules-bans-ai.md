@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure
-embedding_id: null
+embedding_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
 event_name: ''
 ---
 

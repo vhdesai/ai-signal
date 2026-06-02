@@ -26,8 +26,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
+- 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
+- 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
+embedding_id: 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
 event_name: ''
 ---
 
@@ -41,4 +44,5 @@ The Pentagon cleared eight tech firms (AWS, Google, Microsoft, OpenAI, SpaceX, N
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]]
+**Related:** [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
+- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-04-22-academic-research
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-embedding_id: null
+embedding_id: 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Stanford's AI Lab presented more than 40 accepted papers at ICLR 2026, held in R
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-04-22-academic-research]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
+**Related:** [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-04-22-academic-research]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]]
 <!-- graph:end -->

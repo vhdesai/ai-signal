@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
 event_name: ''
 ---
 

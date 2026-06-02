@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ
-embedding_id: null
+- 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
+embedding_id: 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ OpenAI published a sweeping 13-page economic policy proposal advocating for robo
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ]]
+**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]]
 <!-- graph:end -->

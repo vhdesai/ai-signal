@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
-embedding_id: null
+embedding_id: 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
 event_name: ''
 ---
 

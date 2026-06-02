@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
+- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-04-28-2-products-tools
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
-embedding_id: null
+embedding_id: 2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Less than 24 hours after the Microsoft–OpenAI restructuring, AWS announced GPT
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-04-28-2-products-tools]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]]
+**Related:** [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-04-28-2-products-tools]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

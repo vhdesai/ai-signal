@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+- 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-- 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-embedding_id: null
+- 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
+embedding_id: 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ A landmark survey paper formalizes the World Action Models paradigm — embodied
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]]
+**Related:** [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]]
 <!-- graph:end -->

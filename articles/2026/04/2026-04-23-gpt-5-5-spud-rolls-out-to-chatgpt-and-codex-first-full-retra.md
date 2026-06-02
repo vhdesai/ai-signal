@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-23-openai-gpt-5-5-spud-rolling-out-to-chatgpt-and-codex
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 - 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
-- 2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date
-embedding_id: null
+embedding_id: 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ OpenAI's GPT-5.5 is now live for paid ChatGPT and Codex users, claiming the top 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf]] · [[2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date]]
+**Related:** [[2026-04-23-openai-gpt-5-5-spud-rolling-out-to-chatgpt-and-codex]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf]]
 <!-- graph:end -->

@@ -21,10 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
+- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
-- 2026-05-13-new-quantum-algorithm-solves-impossible-quasicrystal-simulat
-- 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
-embedding_id: null
+- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
+embedding_id: 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ MIT researchers developed an AI model that characterizes atomic-level defects in
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-05-13-new-quantum-algorithm-solves-impossible-quasicrystal-simulat]] · [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]]
+**Related:** [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
 <!-- graph:end -->

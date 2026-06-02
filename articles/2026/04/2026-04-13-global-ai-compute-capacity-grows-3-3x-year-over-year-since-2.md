@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
-embedding_id: null
+embedding_id: 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 event_name: ''
 ---
 

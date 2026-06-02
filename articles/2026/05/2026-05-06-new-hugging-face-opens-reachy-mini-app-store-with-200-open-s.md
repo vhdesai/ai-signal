@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
+- 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
-- 2026-04-08-source-forbes-msn-the-neuron
-- 2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo
-embedding_id: null
+- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
+embedding_id: 2026-05-06-new-hugging-face-opens-reachy-mini-app-store-with-200-open-s
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Hugging Face launched the Reachy Mini App Store, a free, community-built marketp
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]]
+**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
 <!-- graph:end -->

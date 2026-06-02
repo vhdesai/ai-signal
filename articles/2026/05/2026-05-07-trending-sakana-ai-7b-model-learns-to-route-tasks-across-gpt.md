@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt
 event_name: ''
 ---
 

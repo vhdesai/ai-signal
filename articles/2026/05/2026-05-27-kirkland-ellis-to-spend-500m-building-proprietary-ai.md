@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 - 2026-04-09-products-tools
 - 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
-- 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
-embedding_id: null
+- 2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve
+embedding_id: 2026-05-27-kirkland-ellis-to-spend-500m-building-proprietary-ai
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Kirkland & Ellis disclosed plans to spend $500M building its own internal AI pla
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-04-09-products-tools]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
+**Related:** [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-04-09-products-tools]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve]]
 <!-- graph:end -->

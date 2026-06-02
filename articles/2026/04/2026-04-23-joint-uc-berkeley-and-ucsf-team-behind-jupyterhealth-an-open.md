@@ -20,8 +20,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
+- 2026-05-22-anthropic-gates-foundation-partner-on-200m-ai-for-good-initi
+embedding_id: 2026-04-23-joint-uc-berkeley-and-ucsf-team-behind-jupyterhealth-an-open
 event_name: ''
 ---
 
@@ -33,4 +37,5 @@ joint UC Berkeley and UCSF team behind JupyterHealth — an open health AI infra
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Related:** [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-22-anthropic-gates-foundation-partner-on-200m-ai-for-good-initi]]
 <!-- graph:end -->

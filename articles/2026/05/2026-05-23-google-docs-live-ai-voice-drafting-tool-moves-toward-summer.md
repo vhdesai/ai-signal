@@ -22,11 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 - 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
+- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
-- 2026-05-13-
-embedding_id: null
+embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ A hands-on preview of Google Docs Live revealed a voice-first drafting experienc
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-05-13-]]
+**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
 <!-- graph:end -->

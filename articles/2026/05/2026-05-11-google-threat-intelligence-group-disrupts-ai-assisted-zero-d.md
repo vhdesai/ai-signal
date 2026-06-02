@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
-embedding_id: null
+embedding_id: 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 event_name: ''
 ---
 

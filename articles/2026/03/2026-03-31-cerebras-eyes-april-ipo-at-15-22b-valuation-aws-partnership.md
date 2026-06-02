@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
 - 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
-embedding_id: null
+embedding_id: 2026-03-31-cerebras-eyes-april-ipo-at-15-22b-valuation-aws-partnership
 event_name: ''
 ---
 

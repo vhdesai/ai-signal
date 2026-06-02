@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
+- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: null
+embedding_id: 2026-05-15-pershing-square-takes-new-stake-in-microsoft-says-tech-giant
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Bill Ackman's Pershing Square disclosed a newly built position in Microsoft, arg
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

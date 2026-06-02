@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-04-23-
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
-embedding_id: null
+embedding_id: 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 event_name: ''
 ---
 

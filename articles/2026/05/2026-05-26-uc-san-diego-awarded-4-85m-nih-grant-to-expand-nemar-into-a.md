@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-04-23-joint-uc-berkeley-and-ucsf-team-behind-jupyterhealth-an-open
+- 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
-- 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
-embedding_id: null
+embedding_id: 2026-05-26-uc-san-diego-awarded-4-85m-nih-grant-to-expand-nemar-into-a
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ The NIH awarded UCSD $4.85M to grow NEMAR into a national high-performance compu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]]
+**Related:** [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-04-23-joint-uc-berkeley-and-ucsf-team-behind-jupyterhealth-an-open]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

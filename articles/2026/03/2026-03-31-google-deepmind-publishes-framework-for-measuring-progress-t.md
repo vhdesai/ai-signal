@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
-- 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
-embedding_id: null
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
+embedding_id: 2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Google DeepMind published a cognitive framework for measuring and evaluating AGI
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]]
+**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
 <!-- graph:end -->

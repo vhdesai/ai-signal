@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
-embedding_id: null
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+embedding_id: 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Jensen Huang announced Nvidia Ising, described as the world's first family of op
 
 **Entities:** [[IBM]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]]
+**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

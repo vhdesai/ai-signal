@@ -28,9 +28,9 @@ related_article_ids:
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 - 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
+- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
-- 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
-embedding_id: null
+embedding_id: 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Meta has debuted Muse Spark, its first major proprietary AI model since its $14B
 
 **Entities:** [[Alibaba]] · [[Meta]] · [[Scale AI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]]
+**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
 <!-- graph:end -->

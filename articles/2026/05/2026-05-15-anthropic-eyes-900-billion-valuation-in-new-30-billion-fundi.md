@@ -22,8 +22,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
+embedding_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 event_name: ''
 ---
 
@@ -37,4 +38,5 @@ Reports indicate Anthropic is in the final stages of raising approximately $30 b
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
+**Related:** [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]]
 <!-- graph:end -->

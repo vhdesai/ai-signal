@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 100
+member_count: 104
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 100 connected article(s).
+> Auto-generated entity hub. 104 connected article(s).
 
+- `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
+- `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]
 - `2026-05-28` [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad|StepFun releases Step 3.7 Flash, China's frontier release cadence accelerates]]
 - `2026-05-28` [[2026-05-28-minimax-doubles-sales-ahead-of-new-flagship-model-launch|MiniMax doubles sales ahead of new flagship model launch]]
 - `2026-05-28` [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r|Alibaba and Tencent pivot from chatbots to embodied AI and robotics]]
@@ -108,3 +111,4 @@ member_count: 100
 - `2026-04-10` [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse|Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks.]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview.]]
 - `2026-04-02` [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l|DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milesto…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

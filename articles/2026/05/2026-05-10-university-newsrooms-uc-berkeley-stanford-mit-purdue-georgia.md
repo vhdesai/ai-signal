@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-05-10-aggregators-github-trending-via-aitoolly-inforcapital-ai-fun
-embedding_id: null
+embedding_id: 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
 event_name: ''
 ---
 

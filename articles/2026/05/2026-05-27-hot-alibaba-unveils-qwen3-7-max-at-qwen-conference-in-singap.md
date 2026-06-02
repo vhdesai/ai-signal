@@ -22,12 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-- 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
-embedding_id: null
+- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+embedding_id: 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 event_name: ''
 ---
 
@@ -40,5 +38,5 @@ Alibaba showcased Qwen3.7-Max — its latest flagship LLM positioned for buildin
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]]
+**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

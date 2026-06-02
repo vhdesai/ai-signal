@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 event_name: ''
 ---
 

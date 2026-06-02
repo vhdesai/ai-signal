@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-embedding_id: null
+embedding_id: 2026-05-19-paramount-cto-departs-as-media-companies-rewire-around-ai
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Paramount's CTO is stepping down amid a wave of senior tech leadership changes a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

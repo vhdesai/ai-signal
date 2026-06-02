@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-embedding_id: null
+embedding_id: 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 event_name: ''
 ---
 

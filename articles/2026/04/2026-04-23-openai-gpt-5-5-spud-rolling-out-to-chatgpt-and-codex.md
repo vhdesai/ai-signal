@@ -16,10 +16,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-23-openai-gpt-5-5-spud-rolling-out-to-chatgpt-and-codex
 event_name: ''
 ---
 
@@ -32,4 +32,5 @@ GPT-5.5 (codename Spud) is now available to paid ChatGPT and Codex users, with r
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
 <!-- graph:end -->

@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 - 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-embedding_id: null
+embedding_id: 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ In a landmark alignment paper published May 8, Anthropic confirmed that internet
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
+**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-embedding_id: null
+embedding_id: 2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay
 event_name: ''
 ---
 

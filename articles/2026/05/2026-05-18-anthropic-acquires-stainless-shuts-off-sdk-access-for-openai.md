@@ -20,15 +20,11 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform
 related_article_ids:
-- 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
-- 2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn
-- 2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m
-- 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
-- 2026-05-19-anthropic-closes-30b-round-at-900b-valuation-hires-karpathy
-embedding_id: null
+- 2026-05-18-hot-anthropic-acquires-stainless-the-sdk-generator-used-by-o
+embedding_id: 2026-05-18-anthropic-acquires-stainless-shuts-off-sdk-access-for-openai
 event_name: ''
 ---
 
@@ -41,5 +37,6 @@ Anthropic acquired Stainless — the developer tools startup that built the SDK 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-12-anthropic-in-advanced-talks-to-acquire-stainless-for-300m]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-05-19-anthropic-closes-30b-round-at-900b-valuation-hires-karpathy]]
+**Canonical:** [[2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform]]
+**Related:** [[2026-05-18-hot-anthropic-acquires-stainless-the-sdk-generator-used-by-o]]
 <!-- graph:end -->

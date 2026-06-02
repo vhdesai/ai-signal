@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
 - 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
-embedding_id: null
+embedding_id: 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 event_name: ''
 ---
 

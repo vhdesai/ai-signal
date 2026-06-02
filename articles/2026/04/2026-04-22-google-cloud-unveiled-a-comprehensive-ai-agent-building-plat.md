@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
-- 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
-embedding_id: null
+- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2
+embedding_id: 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Google Cloud unveiled a comprehensive AI agent-building platform at Cloud Next, 
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]]
+**Related:** [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2]]
 <!-- graph:end -->

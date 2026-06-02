@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the
-- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
-- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
-embedding_id: null
+- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+embedding_id: 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Weave unveiled an enterprise-grade omnichannel AI receptionist for healthcare fr
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
+**Related:** [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]]
 <!-- graph:end -->

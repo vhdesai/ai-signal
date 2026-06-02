@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-17-yahoo-finance-the-motley-fool-the-ai-track-theaitrack-com-ai
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 - 2026-05-17-sources-the-next-web-techrepublic-bloomberg-wall-street-jour
-embedding_id: null
+embedding_id: 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
 event_name: ''
 ---
 

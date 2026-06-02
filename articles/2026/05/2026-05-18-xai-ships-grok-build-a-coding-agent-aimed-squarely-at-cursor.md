@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-- 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-embedding_id: null
+- 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
+embedding_id: 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ xAI launched Grok Build, a software-engineering agent positioned to compete with
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
+**Related:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]]
 <!-- graph:end -->

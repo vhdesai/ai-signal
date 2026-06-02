@@ -20,11 +20,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-embedding_id: null
+embedding_id: 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ A Cornell–Purdue team proposed a sparse attention variant that reduces inferen
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
+**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
 <!-- graph:end -->

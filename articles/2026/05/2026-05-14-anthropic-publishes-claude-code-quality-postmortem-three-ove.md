@@ -29,10 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
+- 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 - 2026-05-06-
-- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
 event_name: ''
 ---
 
@@ -45,5 +44,5 @@ Anthropic published a detailed engineering postmortem attributing six weeks of C
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-05-06-]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-06-]]
 <!-- graph:end -->

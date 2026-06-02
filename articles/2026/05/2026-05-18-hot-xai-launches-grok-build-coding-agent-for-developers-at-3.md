@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
+- 2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-- 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
-embedding_id: null
+embedding_id: 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ Elon Musk's xAI released Grok Build in early beta — a command-line coding agen
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]]
+**Related:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
 <!-- graph:end -->

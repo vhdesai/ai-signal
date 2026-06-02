@@ -21,8 +21,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
+embedding_id: 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
 event_name: ''
 ---
 
@@ -35,4 +36,5 @@ All 85+ on-demand sessions from Google I/O 2026 are now available, with full doc
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

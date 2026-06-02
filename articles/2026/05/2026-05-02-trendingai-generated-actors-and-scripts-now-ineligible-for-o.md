@@ -19,7 +19,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work
-embedding_id: null
+embedding_id: 2026-05-02-trendingai-generated-actors-and-scripts-now-ineligible-for-o
 event_name: ''
 ---
 

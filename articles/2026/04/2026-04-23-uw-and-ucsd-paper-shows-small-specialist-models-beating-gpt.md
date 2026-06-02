@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-embedding_id: null
+embedding_id: 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ A joint University of Washington and UCSD study found a 7B parameter specialist 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
+**Related:** [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
 <!-- graph:end -->

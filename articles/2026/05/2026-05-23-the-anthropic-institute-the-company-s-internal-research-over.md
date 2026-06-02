@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-embedding_id: null
+embedding_id: 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 event_name: ''
 ---
 

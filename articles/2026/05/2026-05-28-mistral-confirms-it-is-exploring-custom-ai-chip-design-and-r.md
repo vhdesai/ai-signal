@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
-embedding_id: null
+embedding_id: 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
 event_name: ''
 ---
 

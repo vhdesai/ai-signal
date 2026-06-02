@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
-- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
-embedding_id: null
+embedding_id: 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft moved Copilot Studio's computer-use agents — agents that can drive d
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]]
+**Related:** [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]]
 <!-- graph:end -->

@@ -21,10 +21,17 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-sim-to-real-transfer
 event_name: ICRA 2026
 ---
 
 # ICRA 2026: Sim-to-real transfer
 
 - The core technical challenge is making policies trained in simulation robust enough for messy real-world environments. - This directly connects to NVIDIA's Omniverse/simulation strategy and its Vera Rubin platform for autonomous workloads.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[NVIDIA]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+<!-- graph:end -->

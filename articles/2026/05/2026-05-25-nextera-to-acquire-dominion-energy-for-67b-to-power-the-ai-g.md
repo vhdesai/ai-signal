@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
 event_name: ''
 ---
 

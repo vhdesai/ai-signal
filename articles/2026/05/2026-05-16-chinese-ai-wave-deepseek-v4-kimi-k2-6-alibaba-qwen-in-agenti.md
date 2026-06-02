@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: null
+embedding_id: 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 event_name: ''
 ---
 

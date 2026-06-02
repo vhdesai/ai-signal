@@ -25,7 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-embedding_id: null
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+embedding_id: 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ May 2026 is being called the "enterprise deployment turning point" for AI, with 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

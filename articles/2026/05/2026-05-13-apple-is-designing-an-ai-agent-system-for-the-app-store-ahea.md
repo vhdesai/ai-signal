@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
-- 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
-embedding_id: null
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+embedding_id: 2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Per The Information's Aaron Tilley, Apple is "designing a system" to let AI agen
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]]
 <!-- graph:end -->

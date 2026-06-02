@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 - 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
+- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: null
+embedding_id: 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft's Q3 FY26 print landed at $82.9B in revenue with Azure +29% YoY; AI su
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
+**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]]
 <!-- graph:end -->

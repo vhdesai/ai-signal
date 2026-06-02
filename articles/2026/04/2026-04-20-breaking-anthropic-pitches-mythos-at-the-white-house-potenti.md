@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-20-nsa-reportedly-using-anthropic-s-mythos-despite-pentagon-ten
+- 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
+- 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
 - 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
-- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-- 2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de
-- 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: null
+- 2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m
+embedding_id: 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Anthropic walked into the White House with its Mythos model as the centerpiece o
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-20-nsa-reportedly-using-anthropic-s-mythos-despite-pentagon-ten]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
+**Related:** [[2026-04-20-nsa-reportedly-using-anthropic-s-mythos-despite-pentagon-ten]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]] · [[2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m]]
 <!-- graph:end -->

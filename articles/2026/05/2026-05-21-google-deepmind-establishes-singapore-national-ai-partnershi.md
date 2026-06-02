@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
+- 2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic
+- 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
 - 2026-04-27-
-- 2026-05-01-google-research-catalyzing-scientific-impact-through-global
-embedding_id: null
+embedding_id: 2026-05-21-google-deepmind-establishes-singapore-national-ai-partnershi
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Google DeepMind announced a new national AI partnership with Singapore focused o
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-04-27-]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
+**Related:** [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic]] · [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]] · [[2026-04-27-]]
 <!-- graph:end -->

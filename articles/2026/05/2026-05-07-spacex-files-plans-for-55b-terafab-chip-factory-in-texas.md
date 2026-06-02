@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu
 - 2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li
-embedding_id: null
+embedding_id: 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 event_name: ''
 ---
 

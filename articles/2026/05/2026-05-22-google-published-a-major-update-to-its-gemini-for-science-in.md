@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
+- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
+embedding_id: 2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ Google published a major update to its Gemini for Science initiative, positionin
 
 **Entities:** [[Google]] · [[Scale AI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

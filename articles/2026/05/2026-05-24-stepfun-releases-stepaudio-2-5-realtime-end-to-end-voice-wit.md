@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-embedding_id: null
+embedding_id: 2026-05-24-stepfun-releases-stepaudio-2-5-realtime-end-to-end-voice-wit
 event_name: ''
 ---
 

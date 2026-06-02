@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
-- 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
-embedding_id: null
+- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
+embedding_id: 2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex
 event_name: ''
 ---
 
@@ -47,5 +47,5 @@ The Pentagon finalized AI agreements for SECRET/TOP SECRET (IL6/IL7) classified 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]]
+**Related:** [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
 <!-- graph:end -->

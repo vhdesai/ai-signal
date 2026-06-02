@@ -19,11 +19,22 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- event-icra-2026-icra-2026-sim-to-real-transfer
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
+embedding_id: event-icra-2026-icra-2026-strategic-implications
 event_name: ICRA 2026
 ---
 
 # ICRA 2026 — Strategic Implications
 
 - **Embodied AI frontier:** Robotics is becoming a major proving ground for foundation-model capability because the physical world punishes hallucination and brittle planning. - **Hardware/software co-design:** GPUs, simulation, robot policies, sensors, and edge compute must evolve together. - **Industrial relevance:** Logistics, warehousing, construction, and manufacturing are near-term beneficiaries if sim-to-real reliability improves. - **Governance challenge:** Physical agents raise safety and liability issues beyond software-only AI governance.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[NVIDIA]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[event-icra-2026-icra-2026-sim-to-real-transfer]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]]
+<!-- graph:end -->

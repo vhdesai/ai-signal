@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
+- 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
-embedding_id: null
+embedding_id: 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ A notable subtext of the Opus 4.8 launch is Anthropic's explicit positioning aro
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]]
+**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

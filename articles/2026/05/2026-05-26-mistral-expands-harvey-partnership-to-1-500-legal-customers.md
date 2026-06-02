@@ -21,11 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
-- 2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv
+- 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
-- 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
-embedding_id: null
+embedding_id: 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ Mistral and Harvey expanded their existing partnership to serve more than 1,500 
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]]
+**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]]
 <!-- graph:end -->

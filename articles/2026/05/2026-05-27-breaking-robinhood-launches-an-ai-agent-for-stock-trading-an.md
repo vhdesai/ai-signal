@@ -20,11 +20,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-robinhood-now-lets-your-ai-agents-trade-stocks
+- 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank
-- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
-embedding_id: null
+- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
+embedding_id: 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Robinhood unveiled an AI trading agent that can act on user-defined goals and a 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-27-robinhood-now-lets-your-ai-agents-trade-stocks]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce]]
+**Related:** [[2026-05-27-robinhood-now-lets-your-ai-agents-trade-stocks]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
 <!-- graph:end -->

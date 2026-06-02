@@ -20,10 +20,10 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ Anthropic is in talks to rent servers powered by Microsoft's custom-designed Mai
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]]
 <!-- graph:end -->

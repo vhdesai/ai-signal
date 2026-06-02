@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 50
+member_count: 51
 ---
 
 # IBM
 
-> Auto-generated entity hub. 50 connected article(s).
+> Auto-generated entity hub. 51 connected article(s).
 
 - `2026-05-28` [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts|MIT to Establish Regional Quantum Hub With $25M Massachusetts Investment]]
 - `2026-05-27` [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s|IBM and Red Hat pledge $5 billion for AI-driven open-source security initiative]]
@@ -58,3 +58,4 @@ member_count: 50
 - `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tenc…]]
 - `2026-04-02` [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ|Apple is reportedly pivoting its AI strategy to deeply integrate third-party foundation models — including Anthropic's Claude and Google's Gemini — directly…]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

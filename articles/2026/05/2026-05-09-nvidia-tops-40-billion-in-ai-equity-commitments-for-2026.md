@@ -19,10 +19,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-09-nvidia-tops-40-billion-in-ai-equity-commitments-for-2026
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Nvidia has now committed more than $40B to AI equity investments in early 2026, 
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

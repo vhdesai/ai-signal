@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 162
+member_count: 171
 ---
 
 # Meta
 
-> Auto-generated entity hub. 162 connected article(s).
+> Auto-generated entity hub. 171 connected article(s).
 
+- `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
+- `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
+- `2026-05-31` [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters|### An 'AI affordability' reckoning hits enterprise adopters]]
+- `2026-05-30` [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm|### Meta Developing AI Pendant and Expanding Smart Glasses Roadmap]]
 - `2026-05-28` [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r|Mistral confirms it is exploring custom AI chip design and rebrands Le Chat as "Vibe"]]
 - `2026-05-28` [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips|Mistral CEO says lab is exploring designing its own AI chips]]
 - `2026-05-28` [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what|Meta launches paid subscriptions for Instagram, Facebook, WhatsApp — plus a tiered AI plan]]
@@ -73,6 +78,9 @@ member_count: 162
 - `2026-05-19` [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to|Meta Cuts 8,000 Jobs While Raising AI Capital Expenditure to $145 Billion]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
 - `2026-05-19` [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video|Google's Gemini Omni turns images, audio, and text into video]]
+- `2026-05-19` [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp|Google I/O 2026: Gemini as the Agentic Platform — Strategic Implications]]
+- `2026-05-19` [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview|Google I/O 2026: Gemini as the Agentic Platform — Overview]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware|Google I/O 2026: Android XR and hardware]]
 - `2026-05-19` [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass|Google I/O 2026 Live: Gemini 4.0, Gemini Omni, Android XR Glasses and Aluminium OS Headline Keynote]]
 - `2026-05-19` [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro|Google I/O 2026 Keynote: Gemini 4.0 Preview, Gemini Omni, Android XR Glasses & Agentic AI]]
 - `2026-05-19` [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i|Google Announces Android XR Audio-Powered Smart Glasses at I/O 2026]]
@@ -170,3 +178,4 @@ member_count: 162
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-03-31` [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog|OpenAI President Greg Brockman declared on the Big Technology Podcast (Apr 1) that AGI is "70–80% achieved" and GPT reasoning models have settled the debate:…]]
 - `2026-02-17` [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta|Amazon $200B, Alphabet $175–185B, Microsoft ~$145B annualized, Meta $115–135B.]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

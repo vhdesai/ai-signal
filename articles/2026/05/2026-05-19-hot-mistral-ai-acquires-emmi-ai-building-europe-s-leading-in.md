@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l
 - 2026-05-19-mistral-ai-acquires-vienna-s-emmi-ai-to-target-industrial-ph
+- 2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e
+- 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
 - 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
-- 2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv
-- 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
-- 2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips
-embedding_id: null
+embedding_id: 2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ France's Mistral AI has acquired Linz, Austria-based Emmi AI — which raised �
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-mistral-ai-acquires-vienna-s-emmi-ai-to-target-industrial-ph]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]]
+**Related:** [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]] · [[2026-05-19-mistral-ai-acquires-vienna-s-emmi-ai-to-target-industrial-ph]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]]
 <!-- graph:end -->

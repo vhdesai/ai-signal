@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
 - 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
-embedding_id: null
+embedding_id: 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
 event_name: ''
 ---
 

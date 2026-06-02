@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-embedding_id: null
+embedding_id: 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 event_name: ''
 ---
 

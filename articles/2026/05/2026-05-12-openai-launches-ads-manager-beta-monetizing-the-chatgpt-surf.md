@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-embedding_id: null
+embedding_id: 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 event_name: ''
 ---
 

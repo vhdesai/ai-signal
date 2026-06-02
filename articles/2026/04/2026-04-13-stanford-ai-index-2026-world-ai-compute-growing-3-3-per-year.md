@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-13-stanford-ai-index-2026-world-ai-compute-growing-3-3-per-year
 event_name: ''
 ---
 

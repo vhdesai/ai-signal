@@ -21,11 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio
+- 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
 - 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
-- 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
-embedding_id: null
+embedding_id: 2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ PitchBook reports Cerebras is guiding its IPO above range for a ~$4.8B raise, wh
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]]
+**Related:** [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]]
 <!-- graph:end -->

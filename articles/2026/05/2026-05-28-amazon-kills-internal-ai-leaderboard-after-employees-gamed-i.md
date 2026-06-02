@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-04-09-products-tools
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
-embedding_id: null
+embedding_id: 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 event_name: ''
 ---
 

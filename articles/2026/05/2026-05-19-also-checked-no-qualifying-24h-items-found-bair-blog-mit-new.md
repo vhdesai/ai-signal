@@ -37,9 +37,9 @@ related_article_ids:
 - 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 - 2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d
-- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-embedding_id: null
+embedding_id: 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 event_name: ''
 ---
 
@@ -52,5 +52,5 @@ Also checked (no qualifying 24h items found): BAIR Blog · MIT News AI · Apple 
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Mistral]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]]
+**Related:** [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d]]
 <!-- graph:end -->

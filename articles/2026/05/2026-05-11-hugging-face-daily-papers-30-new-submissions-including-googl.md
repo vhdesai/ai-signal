@@ -23,8 +23,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
+- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
+- 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
+- event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
+- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+embedding_id: 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ The May 11 Hugging Face Daily Papers panel aggregated approximately 30 new prepr
 
 **Entities:** [[Google]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
 <!-- graph:end -->

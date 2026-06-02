@@ -21,14 +21,10 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue
-- 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
+related_article_ids: []
+embedding_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec
 event_name: ''
 ---
 
@@ -41,5 +37,5 @@ Fresh off the largest tech IPO of 2026 — raising $5.55 billion at a $95 billio
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]]
+**Canonical:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]]
 <!-- graph:end -->

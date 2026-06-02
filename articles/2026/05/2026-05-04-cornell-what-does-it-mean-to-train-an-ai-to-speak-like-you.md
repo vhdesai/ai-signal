@@ -17,8 +17,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
+- 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
+- 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+embedding_id: 2026-05-04-cornell-what-does-it-mean-to-train-an-ai-to-speak-like-you
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ Cornell researchers examine the identity, consent and authorship questions raise
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

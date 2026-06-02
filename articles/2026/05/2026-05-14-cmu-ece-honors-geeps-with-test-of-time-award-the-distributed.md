@@ -24,8 +24,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-16-cmu-first-benchmark-for-ai-autonomous-browser-exploitation-v
+- 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
+- 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
+- 2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c
+embedding_id: 2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed
 event_name: ''
 ---
 
@@ -38,4 +42,5 @@ Carnegie Mellon's Electrical and Computer Engineering department awarded its Tes
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-16-cmu-first-benchmark-for-ai-autonomous-browser-exploitation-v]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c]]
 <!-- graph:end -->

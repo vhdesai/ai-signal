@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
+- 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
+- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
+- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
+embedding_id: 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ Springer published six peer-reviewed papers in the 24-hour window covering appli
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Related:** [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
 <!-- graph:end -->

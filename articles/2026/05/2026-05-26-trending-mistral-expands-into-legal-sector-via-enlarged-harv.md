@@ -20,13 +20,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
-- 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
-- 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
+related_article_ids: []
+embedding_id: 2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv
 event_name: ''
 ---
 
@@ -39,5 +36,5 @@ Mistral and Harvey AI announced an expanded partnership that integrates Mistral 
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]]
+**Canonical:** [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]]
 <!-- graph:end -->

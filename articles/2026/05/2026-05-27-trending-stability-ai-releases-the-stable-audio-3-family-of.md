@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-stability-ai-releases-stable-audio-3
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-05-27-ai-studios-expands-tts-lineup-with-1-000-context-aware-expre
-embedding_id: null
+embedding_id: 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
 event_name: ''
 ---
 

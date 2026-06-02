@@ -30,9 +30,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-- 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
-- 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
-embedding_id: null
+- 2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours
+embedding_id: 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
 event_name: ''
 ---
 
@@ -45,5 +44,5 @@ A planned AI safety executive order — which would have created a voluntary sys
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]]
+**Related:** [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours]]
 <!-- graph:end -->

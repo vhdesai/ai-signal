@@ -28,11 +28,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-14-microsoft-corp-dev-ai-intelligence-brief
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-05-14-daily-ai-news-digest-may-14-2026
-- 2026-05-20-ai-news-digest-may-20-2026
-embedding_id: null
+embedding_id: 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 event_name: ''
 ---
 
@@ -45,5 +45,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Baidu]] · [[DeepSeek]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-14-microsoft-corp-dev-ai-intelligence-brief]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

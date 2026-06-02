@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 event_name: ''
 ---
 

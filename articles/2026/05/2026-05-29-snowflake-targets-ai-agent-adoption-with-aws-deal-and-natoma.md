@@ -26,10 +26,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
+- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 - 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
-- 2026-05-21-kore-ai-launches-artemis-agent-platform-squares-off-against
-embedding_id: null
+embedding_id: 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ Snowflake is pushing toward the “agentic enterprise” with expanded AWS commi
 
 **Entities:** [[Amazon]] · [[Snowflake]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-05-21-kore-ai-launches-artemis-agent-platform-squares-off-against]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]]
 <!-- graph:end -->

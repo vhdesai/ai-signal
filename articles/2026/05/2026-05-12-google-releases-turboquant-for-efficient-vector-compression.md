@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
-embedding_id: null
+embedding_id: 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
 event_name: ''
 ---
 

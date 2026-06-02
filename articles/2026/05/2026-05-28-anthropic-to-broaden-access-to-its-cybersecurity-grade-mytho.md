@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-embedding_id: null
+embedding_id: 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 event_name: ''
 ---
 

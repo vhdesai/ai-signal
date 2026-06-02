@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers
+- 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
-- 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
-- 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
-embedding_id: null
+embedding_id: 2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Users can now generate AI content in Gemini and refine it in professional editor
 ## Connections
 
 **Entities:** [[Adobe]] · [[Google]]
-**Related:** [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]]
+**Related:** [[2026-05-23-google-confirms-gemini-spark-mcp-rollout-canva-magic-layers]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]]
 <!-- graph:end -->

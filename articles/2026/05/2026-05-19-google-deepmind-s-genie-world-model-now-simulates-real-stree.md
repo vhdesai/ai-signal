@@ -24,9 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 - 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
+- 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
 - 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
-embedding_id: null
+embedding_id: 2026-05-19-google-deepmind-s-genie-world-model-now-simulates-real-stree
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Google DeepMind's Genie world model — previously capable of simulating game-li
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]]
+**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]]
 <!-- graph:end -->

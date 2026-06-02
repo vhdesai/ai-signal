@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i
+- 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-04-09-the-u-s
-- 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
-embedding_id: null
+embedding_id: 2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Florida Attorney General James Uthmeier announced a formal investigation into Op
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-04-09-the-u-s]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]]
+**Related:** [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-04-09-the-u-s]]
 <!-- graph:end -->

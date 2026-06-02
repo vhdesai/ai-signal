@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
-embedding_id: null
+embedding_id: 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
 event_name: ''
 ---
 

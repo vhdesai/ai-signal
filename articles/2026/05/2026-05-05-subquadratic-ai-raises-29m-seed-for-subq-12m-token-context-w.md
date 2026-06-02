@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-embedding_id: null
+embedding_id: 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 event_name: ''
 ---
 

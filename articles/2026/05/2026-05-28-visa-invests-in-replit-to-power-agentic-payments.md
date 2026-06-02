@@ -22,9 +22,9 @@ related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
-- 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
-embedding_id: null
+embedding_id: 2026-05-28-visa-invests-in-replit-to-power-agentic-payments
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Visa took an undisclosed equity stake in Replit and is exploring integration of 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]]
+**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
-- 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
-- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+- 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
+- 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
+embedding_id: 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Google DeepMind's AlphaProof Nexus pairs Gemini 3.1 Pro with the Lean formal pro
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
+**Related:** [[2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-- 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
-embedding_id: null
+- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+embedding_id: 2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Speaking at Cornell Tech's Frontiers of AI Summit, Cursor's Sasha Rush sketched 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]]
+**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

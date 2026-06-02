@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 - 2026-04-15-research-breakthroughs
 - 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
-embedding_id: null
+embedding_id: 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 event_name: ''
 ---
 

@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
+- 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
+- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
+- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+embedding_id: 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Anthropic published a post-mortem explaining the 2025 incident in which an early
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

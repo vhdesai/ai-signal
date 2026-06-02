@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
+- 2026-05-14-openai-codex-work-from-anywhere-expansion
+- 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
+- 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
+- 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
+embedding_id: 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ OpenAI rolled out Workspace Agents on Business, Enterprise, Edu, and Teachers pl
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf]]
 <!-- graph:end -->

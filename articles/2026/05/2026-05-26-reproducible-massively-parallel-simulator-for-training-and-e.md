@@ -20,10 +20,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ reproducible, massively parallel simulator for training and evaluating agents th
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
-embedding_id: null
+embedding_id: 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 event_name: ''
 ---
 

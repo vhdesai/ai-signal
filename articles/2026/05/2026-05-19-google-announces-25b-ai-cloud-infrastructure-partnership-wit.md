@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: null
+embedding_id: 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 event_name: ''
 ---
 

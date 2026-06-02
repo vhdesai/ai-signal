@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 62
+member_count: 63
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 62 connected article(s).
+> Auto-generated entity hub. 63 connected article(s).
 
 - `2026-05-28` [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne|General Compute raises $15M seed for inference-specialized neocloud]]
 - `2026-05-28` [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud|General Compute Raises $15M Seed for AI Inference Neocloud]]
@@ -70,3 +70,4 @@ member_count: 62
 - `2026-04-11` [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a|TSMC reported record first-quarter revenue of $35.6 billion, a 35% year-over-year jump that beat analyst estimates, driven primarily by insatiable AI chip de…]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middl…]]
 - `2026-03-31` [[2026-03-31-cerebras-eyes-april-ipo-at-15-22b-valuation-aws-partnership|Cerebras Eyes April IPO at $15-22B Valuation; AWS Partnership Strengthens Story]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

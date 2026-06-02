@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: null
+embedding_id: 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
 event_name: ''
 ---
 

@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
-embedding_id: null
+embedding_id: 2026-05-27-farsight-launches-freeform-an-ai-agent-that-produces-60-page
 event_name: ''
 ---
 
@@ -36,5 +35,5 @@ Investment-banking-tooling vendor Farsight launched Freeform, an autonomous agen
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]]
+**Related:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
 <!-- graph:end -->

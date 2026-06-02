@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 - 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
-embedding_id: null
+embedding_id: 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 event_name: ''
 ---
 

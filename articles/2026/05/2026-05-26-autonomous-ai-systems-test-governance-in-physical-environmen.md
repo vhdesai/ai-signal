@@ -22,10 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
-- 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
-- 2026-05-20-ai-news-digest-may-20-2026
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-embedding_id: null
+- 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
+- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2
+- 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
+- event-icra-2026-icra-2026-strategic-implications
+embedding_id: 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ A round-up of recent autonomous-systems deployments in logistics, construction, 
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
+**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[event-icra-2026-icra-2026-strategic-implications]]
 <!-- graph:end -->

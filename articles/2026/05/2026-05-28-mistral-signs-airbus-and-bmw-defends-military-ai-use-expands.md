@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
+- 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
-- 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-embedding_id: null
+embedding_id: 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Mistral announced flagship enterprise deals with Airbus (a 5-year contract spann
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
+**Related:** [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]]
 <!-- graph:end -->

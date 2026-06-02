@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-- 2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits
-embedding_id: null
+- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
+embedding_id: 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Anthropic's exclusion from Pentagon AI contracts continues to highlight the defi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]]
+**Related:** [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
 <!-- graph:end -->

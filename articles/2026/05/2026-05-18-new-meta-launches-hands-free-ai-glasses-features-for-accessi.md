@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+- 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
+- 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
+- 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
+- 2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti
+embedding_id: 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ Ahead of Global Accessibility Awareness Day, Meta unveiled new hands-free capabi
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d]] · [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti]]
 <!-- graph:end -->

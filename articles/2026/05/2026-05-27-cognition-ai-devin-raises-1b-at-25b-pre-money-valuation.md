@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
+- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-embedding_id: null
+embedding_id: 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Cognition, maker of the autonomous AI software engineer Devin, raised over $1B a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]]
+**Related:** [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-private-technical-pre
 - 2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience
+- event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
 - 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
-- 2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-- 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
-embedding_id: null
+- 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
+embedding_id: 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Unveiled at Think 2026, GPU acceleration for watsonx.data targets faster AI and 
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience]] · [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ]] · [[2026-05-23-nvidia-dynamo-update-accelerates-agentic-workload-streaming]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
+**Related:** [[2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-private-technical-pre]] · [[2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
 <!-- graph:end -->

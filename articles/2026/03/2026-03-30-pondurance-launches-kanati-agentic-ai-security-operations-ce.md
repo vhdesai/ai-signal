@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products
 - 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 - 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-embedding_id: null
+embedding_id: 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Pondurance launched Kanati, described as the industry's first Agentic AI SOC, de
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products]] · [[2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]]
 <!-- graph:end -->

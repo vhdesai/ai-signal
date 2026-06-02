@@ -20,8 +20,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what
+- 2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans
+- 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
+- 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
+embedding_id: 2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ Meta launched paid consumer subscriptions worldwide — Instagram Plus ($3.99/mo
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

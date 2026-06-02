@@ -19,8 +19,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-03-31-industry-news-funding
+- 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
+- 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
+embedding_id: 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 event_name: ''
 ---
 
@@ -33,4 +36,5 @@ The OpenAI Foundation — which holds a 26% stake in OpenAI Group PBC valued at 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-03-31-industry-news-funding]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]]
 <!-- graph:end -->

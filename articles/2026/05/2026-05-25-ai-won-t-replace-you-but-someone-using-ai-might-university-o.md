@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
+- 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
+- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+- 2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro
+embedding_id: 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 event_name: ''
 ---
 
@@ -31,4 +36,5 @@ Zhe Zhu's doctoral dissertation argues that GenAI's biggest workforce risk is ad
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: null
+embedding_id: 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 event_name: ''
 ---
 

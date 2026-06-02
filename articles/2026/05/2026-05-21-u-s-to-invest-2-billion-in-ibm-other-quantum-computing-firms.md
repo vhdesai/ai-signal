@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
+- 2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-embedding_id: null
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+embedding_id: 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The Trump administration has agreed to take $2 billion in equity stakes across n
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
+**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

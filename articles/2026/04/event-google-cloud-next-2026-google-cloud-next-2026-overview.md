@@ -21,13 +21,21 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 related_article_ids: []
-embedding_id: null
+embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-overview
 event_name: Google Cloud Next 2026
 ---
 
 # Google Cloud Next 2026 — Overview
 
 Google Cloud Next 2026 appears in the corpus as Google's enterprise AI platform event: TPU roadmap, Gemini Enterprise Agent Platform, multi-agent orchestration, enterprise agent inboxes, Google Workspace integrations, partner funding, and customer deployments. The event is positioned as the cloud counterpart to Google I/O: I/O showed how Gemini reaches consumers and developers; Cloud Next showed how Google plans to monetize agentic AI inside enterprises.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Canonical:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
+<!-- graph:end -->

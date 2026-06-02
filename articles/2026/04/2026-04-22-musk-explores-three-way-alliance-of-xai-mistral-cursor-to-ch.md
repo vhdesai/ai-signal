@@ -29,7 +29,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 event_name: ''
 ---
 

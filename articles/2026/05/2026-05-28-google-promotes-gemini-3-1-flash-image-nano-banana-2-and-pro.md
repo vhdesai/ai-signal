@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
 event_name: ''
 ---
 

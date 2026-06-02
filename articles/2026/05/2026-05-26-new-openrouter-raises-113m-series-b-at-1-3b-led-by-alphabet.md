@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 - 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
-embedding_id: null
+embedding_id: 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 event_name: ''
 ---
 

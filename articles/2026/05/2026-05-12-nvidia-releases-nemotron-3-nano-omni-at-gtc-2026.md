@@ -24,10 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
-- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
-embedding_id: null
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview
+embedding_id: 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ NVIDIA released Nemotron 3 Nano Omni, a unified multimodal reasoning model, alon
 
 **Entities:** [[NVIDIA]] · [[SAP]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]]
+**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview]]
 <!-- graph:end -->

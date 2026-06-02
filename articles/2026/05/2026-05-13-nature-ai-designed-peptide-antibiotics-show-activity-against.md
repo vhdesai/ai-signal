@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-05-18-sandboxaq-brings-drug-discovery-models-to-claude-no-phd-requ
-- 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-embedding_id: null
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
+- 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
+embedding_id: 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ A fresh Nature paper details AI-designed peptide antibiotics with measurable act
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-18-sandboxaq-brings-drug-discovery-models-to-claude-no-phd-requ]] · [[2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Related:** [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]]
 <!-- graph:end -->

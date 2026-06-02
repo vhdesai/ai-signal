@@ -22,8 +22,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
+- 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
+- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
+- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
+- 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
+embedding_id: 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ A trio of regulatory updates landed in the last 24 hours: clarifying EU AI Act g
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Related:** [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]]
 <!-- graph:end -->

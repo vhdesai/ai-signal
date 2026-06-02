@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
-embedding_id: null
+embedding_id: 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
 event_name: ''
 ---
 

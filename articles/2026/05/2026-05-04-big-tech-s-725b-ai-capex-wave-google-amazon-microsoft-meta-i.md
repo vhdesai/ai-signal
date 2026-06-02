@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
 event_name: ''
 ---
 

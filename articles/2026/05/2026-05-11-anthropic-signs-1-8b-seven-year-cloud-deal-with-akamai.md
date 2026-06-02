@@ -24,8 +24,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
+- 2026-05-07-
+- 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
+embedding_id: 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 event_name: ''
 ---
 
@@ -38,4 +42,5 @@ Anthropic has signed a seven-year, $1.8 billion cloud infrastructure agreement w
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]] · [[2026-05-07-]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
 <!-- graph:end -->

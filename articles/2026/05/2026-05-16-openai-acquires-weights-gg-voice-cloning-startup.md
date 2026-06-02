@@ -26,7 +26,8 @@ related_article_ids:
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-embedding_id: null
+- 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
+embedding_id: 2026-05-16-openai-acquires-weights-gg-voice-cloning-startup
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ OpenAI has acquired Weights.gg, a small startup (~6 people) known for enabling c
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]]
+**Related:** [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]]
 <!-- graph:end -->

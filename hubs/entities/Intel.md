@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 12
+member_count: 14
 ---
 
 # Intel
 
-> Auto-generated entity hub. 12 connected article(s).
+> Auto-generated entity hub. 14 connected article(s).
 
+- `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|### Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
+- `2026-06-01` [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip|### Nvidia Enters Windows PC Market with Arm-Based AI Chip]]
 - `2026-05-28` [[2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr|Claude Opus 4.8 Dynamic Workflows Target Multi-Agent Enterprise Tasks]]
 - `2026-05-27` [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield|Bulgaria partners with Google Cloud on National Cybershield covering 54 government entities]]
 - `2026-05-22` [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme|curated executive briefing on the most significant developments in artificial intelligence — covering frontier models, industry moves, research breakthroughs…]]

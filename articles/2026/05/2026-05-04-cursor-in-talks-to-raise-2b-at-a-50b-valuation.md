@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-embedding_id: null
+embedding_id: 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-embedding_id: null
+embedding_id: 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 event_name: ''
 ---
 

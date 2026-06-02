@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 - 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
-embedding_id: null
+embedding_id: 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 event_name: ''
 ---
 

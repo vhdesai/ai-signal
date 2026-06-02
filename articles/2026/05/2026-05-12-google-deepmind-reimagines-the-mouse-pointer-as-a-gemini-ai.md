@@ -23,8 +23,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol
+- 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
+- 2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface
+- 2026-05-13-google-deepmind-magic-pointer-gemini-powered-ai-cursor-captu
+- 2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor
+embedding_id: 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ Google DeepMind researchers Adrien Baranes and Rob Marchant published a landmark
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol]] · [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface]] · [[2026-05-13-google-deepmind-magic-pointer-gemini-powered-ai-cursor-captu]] · [[2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor]]
 <!-- graph:end -->

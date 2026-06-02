@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-u-s-china-to-establish-bilateral-ai-safety-protocol-bessent
 event_name: ''
 ---
 

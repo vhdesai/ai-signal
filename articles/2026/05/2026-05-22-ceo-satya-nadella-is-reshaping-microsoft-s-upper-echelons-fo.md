@@ -21,8 +21,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
+- 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
+- 2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could
+- 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
+embedding_id: 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
 event_name: ''
 ---
 
@@ -35,4 +39,5 @@ CEO Satya Nadella is reshaping Microsoft's upper echelons for the AI era, disman
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]]
 <!-- graph:end -->

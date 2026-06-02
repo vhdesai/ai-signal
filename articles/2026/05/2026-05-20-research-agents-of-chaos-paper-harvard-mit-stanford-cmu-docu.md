@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-- 2026-04-15-research-breakthroughs
-embedding_id: null
+- 2026-05-27-privacy-and-security-of-frontier-ai-agents
+embedding_id: 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A multi-institution paper from Harvard, MIT, Stanford, Carnegie Mellon, and Nort
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-04-15-research-breakthroughs]]
+**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-05-27-privacy-and-security-of-frontier-ai-agents]]
 <!-- graph:end -->

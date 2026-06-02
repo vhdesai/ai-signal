@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
-- 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
-embedding_id: null
+embedding_id: 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Recursive Superintelligence emerged from stealth with a record $650 million Seri
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
+**Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]]
 <!-- graph:end -->

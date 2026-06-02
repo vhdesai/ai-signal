@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 118
+member_count: 122
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 118 connected article(s).
+> Auto-generated entity hub. 122 connected article(s).
 
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
+- `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
+- `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]
 - `2026-05-28` [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad|StepFun releases Step 3.7 Flash, China's frontier release cadence accelerates]]
 - `2026-05-28` [[2026-05-28-minimax-doubles-sales-ahead-of-new-flagship-model-launch|MiniMax doubles sales ahead of new flagship model launch]]
 - `2026-05-28` [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50|China's state AI fund backs DeepSeek in up-to-$4B round at $50B valuation]]
@@ -126,3 +129,4 @@ member_count: 118
 - `2026-04-10` [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse|Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks.]]
 - `2026-04-06` [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants|Axios reported that Meta is developing open-source variants of its next generation of frontier AI models, internally codenamed Avocado and Mango.]]
 - `2026-04-02` [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l|DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milesto…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

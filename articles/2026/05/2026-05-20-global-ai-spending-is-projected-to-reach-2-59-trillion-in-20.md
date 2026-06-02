@@ -20,10 +20,10 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ Global AI spending is projected to reach $2.59 trillion in 2026, according to CI
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]]
 <!-- graph:end -->

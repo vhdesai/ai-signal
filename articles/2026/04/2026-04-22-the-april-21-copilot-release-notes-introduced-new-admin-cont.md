@@ -24,12 +24,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-- 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
-embedding_id: null
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+embedding_id: 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ The April 21 Copilot release notes introduced new admin controls for AI video ge
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
 <!-- graph:end -->

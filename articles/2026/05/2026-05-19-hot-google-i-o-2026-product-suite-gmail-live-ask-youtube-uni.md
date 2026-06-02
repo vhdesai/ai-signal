@@ -23,10 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
+- 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
-- 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-embedding_id: null
+embedding_id: 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
 event_name: ''
 ---
 
@@ -39,5 +38,5 @@ Beyond models, Google I/O unveiled a full product sweep: Gmail Live (real-time c
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
+**Related:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]]
 <!-- graph:end -->

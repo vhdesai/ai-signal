@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-embedding_id: null
+embedding_id: 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 event_name: ''
 ---
 

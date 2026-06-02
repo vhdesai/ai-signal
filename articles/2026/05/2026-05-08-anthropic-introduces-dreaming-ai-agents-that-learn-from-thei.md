@@ -26,9 +26,9 @@ related_article_ids:
 - 2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn
 - 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-embedding_id: null
+- 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
+- 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
+embedding_id: 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Anthropic updated its Claude Managed Agents platform with three new capabilities
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn]] · [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn]] · [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu]]
 <!-- graph:end -->

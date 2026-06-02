@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 - 2026-04-08-source-forbes-msn-the-neuron
-embedding_id: null
+embedding_id: 2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo
 event_name: ''
 ---
 

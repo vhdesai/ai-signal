@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 - 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
-embedding_id: null
+embedding_id: 2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ A Berkeley/MIT team at the ACM Conference on AI and Agentic Systems (CAIS 2026) 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

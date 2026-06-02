@@ -21,10 +21,10 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
 event_name: ''
 ---
 
@@ -37,4 +37,5 @@ Microsoft is in early-stage talks to supply its Maia 200 custom AI chip to Anthr
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]]
 <!-- graph:end -->

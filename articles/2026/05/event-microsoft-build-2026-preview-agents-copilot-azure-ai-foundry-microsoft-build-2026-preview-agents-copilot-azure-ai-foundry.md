@@ -26,8 +26,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+embedding_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and
   Open Models'
 ---
@@ -35,3 +40,11 @@ event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, an
 # Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models — Overview
 
 The corpus frames Microsoft Build 2026 as an agentic AI platform preview: Copilot moves from assistant to autonomous workflow participant, Azure AI Foundry becomes the enterprise agent/model control plane, Windows gains local AI capabilities, and Microsoft leans into open-source models, governance, cost controls, and secure deployment. Earlier Build-focused corpus files also describe GitHub Copilot coding agent, NLWeb, MCP, Copilot Studio multi-agent orchestration, and Foundry Local as the pillars of Microsoft's agent strategy.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
+<!-- graph:end -->

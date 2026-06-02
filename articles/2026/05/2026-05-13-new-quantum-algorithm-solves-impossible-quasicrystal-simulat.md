@@ -20,11 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 - 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
 - 2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining
 - 2026-04-02-research-breakthroughs
-embedding_id: null
+embedding_id: 2026-05-13-new-quantum-algorithm-solves-impossible-quasicrystal-simulat
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ Researchers published results for a quantum-inspired algorithm capable of simula
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining]] · [[2026-04-02-research-breakthroughs]]
+**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining]] · [[2026-04-02-research-breakthroughs]]
 <!-- graph:end -->

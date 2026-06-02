@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-
 - 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
-embedding_id: null
+embedding_id: 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 event_name: ''
 ---
 

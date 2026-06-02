@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
-embedding_id: null
+embedding_id: 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 event_name: ''
 ---
 

@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation
+- 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
+- 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
+- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
+embedding_id: 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ Carnegie Mellon and Cleveland Clinic's Cardiovascular Innovation Research Center
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]]
 <!-- graph:end -->

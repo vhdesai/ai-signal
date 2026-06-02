@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 - 2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent
 - 2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n
-- 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
-embedding_id: null
+- event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
+embedding_id: 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Google announced it will bring AlphaEvolve — its Gemini-powered algorithm-opti
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]]
+**Related:** [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]]
 <!-- graph:end -->

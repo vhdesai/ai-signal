@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-04-02-research-breakthroughs
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-- 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-embedding_id: null
+embedding_id: 2026-05-26-new-thermodynamics-aware-ml-unlocks-polymer-coarse-graining
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ The team built a neural-network architecture organized around the metriplectic b
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
+**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
 <!-- graph:end -->

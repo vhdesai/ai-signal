@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-- 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-embedding_id: null
+embedding_id: 2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic
 event_name: ''
 ---
 
@@ -36,5 +35,5 @@ The Pentagon's chief technology officer publicly stated there is no resolution i
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
+**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
 <!-- graph:end -->

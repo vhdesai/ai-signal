@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth
 - 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
-embedding_id: null
+embedding_id: 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 event_name: ''
 ---
 

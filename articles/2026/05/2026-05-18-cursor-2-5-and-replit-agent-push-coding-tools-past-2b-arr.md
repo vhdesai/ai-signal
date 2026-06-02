@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
-- 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
-embedding_id: null
+embedding_id: 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Cursor shipped Composer 2.5 on May 18 and is reportedly in talks for a fresh rou
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]]
+**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]]
 <!-- graph:end -->

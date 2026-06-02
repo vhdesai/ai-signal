@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-embedding_id: null
+embedding_id: 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ A joint paper from researchers at Harvard, MIT, Stanford, CMU, and Northeastern 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
+**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
 <!-- graph:end -->

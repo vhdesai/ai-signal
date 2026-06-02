@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption
 event_name: ''
 ---
 

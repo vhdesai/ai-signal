@@ -21,11 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-- 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
-- 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
-embedding_id: null
+embedding_id: 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
 event_name: ''
 ---
 
@@ -37,5 +36,5 @@ TechCrunch reports growing evidence that China's leading AI researchers — hist
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
+**Related:** [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]]
 <!-- graph:end -->

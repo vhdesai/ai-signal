@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-embedding_id: null
+embedding_id: 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
 event_name: ''
 ---
 

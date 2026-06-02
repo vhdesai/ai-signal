@@ -17,9 +17,9 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
+canonical_article_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 event_name: ''
 ---
 
@@ -31,5 +31,5 @@ The digest feed included new arXiv work on NaRA, a noise-aware LoRA method for d
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
+**Canonical:** [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]]
 <!-- graph:end -->

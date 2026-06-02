@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-embedding_id: null
+embedding_id: 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
 event_name: ''
 ---
 

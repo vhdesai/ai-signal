@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
 - 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-embedding_id: null
+embedding_id: 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ DeepMind published detailed research on AlphaEvolve showing its Gemini-powered a
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]]
 <!-- graph:end -->

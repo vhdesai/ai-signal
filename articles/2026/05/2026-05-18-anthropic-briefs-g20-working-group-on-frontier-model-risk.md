@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
+- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
-- 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Anthropic delivered a closed-door briefing to a G20 working group on frontier-mo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]]
+**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]]
 <!-- graph:end -->

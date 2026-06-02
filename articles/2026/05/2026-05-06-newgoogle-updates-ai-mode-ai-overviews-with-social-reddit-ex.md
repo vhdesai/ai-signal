@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-embedding_id: null
+embedding_id: 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 event_name: ''
 ---
 

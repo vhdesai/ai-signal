@@ -22,9 +22,9 @@ related_article_ids:
 - 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
-embedding_id: null
+- 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
+- 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
+embedding_id: 2026-05-25-alphaproof-nexus-verified-lean-proofs-at-few-hundred-dollar
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ DeepMind's AlphaProof Nexus, pairing Gemini 3.1 Pro with the Lean proof assistan
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]]
+**Related:** [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]]
 <!-- graph:end -->

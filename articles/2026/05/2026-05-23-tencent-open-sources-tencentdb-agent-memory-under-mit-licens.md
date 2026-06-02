@@ -21,7 +21,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 event_name: ''
 ---
 

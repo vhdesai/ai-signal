@@ -24,11 +24,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
+- 2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti
 - 2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos
-- 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
-- 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
-- 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
-embedding_id: null
+- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+- 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
+embedding_id: 2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ WSJ's afternoon markets dispatch led on the market's wait-and-see posture into N
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
+**Related:** [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]]
 <!-- graph:end -->

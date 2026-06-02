@@ -25,8 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-embedding_id: null
+embedding_id: 2026-05-28-minimax-doubles-sales-ahead-of-new-flagship-model-launch
 event_name: ''
 ---
 
@@ -39,5 +38,5 @@ Chinese AI lab MiniMax doubled revenue year-over-year heading into the launch of
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
+**Related:** [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
 <!-- graph:end -->

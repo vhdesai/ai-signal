@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-embedding_id: null
+embedding_id: 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 event_name: ''
 ---
 

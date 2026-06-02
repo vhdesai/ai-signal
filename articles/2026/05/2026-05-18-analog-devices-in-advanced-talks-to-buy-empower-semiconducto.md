@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 - 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
-embedding_id: null
+embedding_id: 2026-05-18-analog-devices-in-advanced-talks-to-buy-empower-semiconducto
 event_name: ''
 ---
 

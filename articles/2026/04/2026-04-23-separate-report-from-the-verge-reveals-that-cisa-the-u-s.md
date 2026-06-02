@@ -20,8 +20,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
+- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
+- 2026-04-07-research-breakthroughs
+- 2026-04-22-mozilla-confirmed-it-used-anthropic-s-mythos-model-to-identi
+embedding_id: 2026-04-23-separate-report-from-the-verge-reveals-that-cisa-the-u-s
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ separate report from The Verge reveals that CISA — the U.S. agency primarily r
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Related:** [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-07-research-breakthroughs]] · [[2026-04-22-mozilla-confirmed-it-used-anthropic-s-mythos-model-to-identi]]
 <!-- graph:end -->

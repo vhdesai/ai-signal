@@ -17,13 +17,24 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to
+related_article_ids:
+- event-icra-2026-icra-2026-overview
+- 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
+embedding_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
 event_name: ICRA 2026
 ---
 
 # ICRA 2026: NVIDIA Research robotics papers
 
 - The corpus says NVIDIA presented eight ICRA papers advancing sim-to-real transfer, perception, dexterous manipulation, and multi-task policy learning. - The papers are framed as moving robotics from lab demos and scripted automation toward generalizable embodied autonomy.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[NVIDIA]]
+**Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]]
+**Related:** [[event-icra-2026-icra-2026-overview]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
+<!-- graph:end -->

@@ -19,8 +19,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
+- 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
+- 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
+embedding_id: 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
 event_name: ''
 ---
 
@@ -33,4 +36,5 @@ The Post frames Anthropic's prominent Vatican role as a deliberate split with th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]] · [[2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti]] · [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]]
 <!-- graph:end -->

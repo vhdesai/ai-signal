@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+embedding_id: 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ The EMO (Expert Mixture Optimization) paper demonstrates that reorganizing MoE e
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
 <!-- graph:end -->

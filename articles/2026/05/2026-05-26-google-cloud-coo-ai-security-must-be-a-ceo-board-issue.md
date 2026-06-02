@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-embedding_id: null
+embedding_id: 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
 event_name: ''
 ---
 

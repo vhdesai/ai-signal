@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-04-hotopenai-and-anthropic-each-launch-billion-dollar-enterpris
 - 2026-05-04-breakingopenai-and-anthropic-both-launch-multibillion-dollar
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-embedding_id: null
+embedding_id: 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 event_name: ''
 ---
 

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
-- 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-embedding_id: null
+- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+embedding_id: 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Bloomberg reported new internal images of Apple's redesigned iOS 27 Siri experie
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
 <!-- graph:end -->

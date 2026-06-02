@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
-embedding_id: null
+embedding_id: 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 event_name: ''
 ---
 

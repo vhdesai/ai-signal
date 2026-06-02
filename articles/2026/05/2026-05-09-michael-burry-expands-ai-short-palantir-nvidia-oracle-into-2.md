@@ -24,8 +24,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
+- 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
+- 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
+- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
+- 2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr
+embedding_id: 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 event_name: ''
 ---
 
@@ -38,4 +43,5 @@ Scion Asset Management's latest 13F shows Michael Burry now holds ~$912M in noti
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr]]
 <!-- graph:end -->

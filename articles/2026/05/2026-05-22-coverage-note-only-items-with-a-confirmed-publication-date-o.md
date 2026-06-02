@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-28-inclusion-criteria-items-confirmed-published-may-27-or-may-2
 - 2026-05-21-coverage-window-may-20-21-2026-last-24-hours-items-from-may
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-embedding_id: null
+embedding_id: 2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o
 event_name: ''
 ---
 

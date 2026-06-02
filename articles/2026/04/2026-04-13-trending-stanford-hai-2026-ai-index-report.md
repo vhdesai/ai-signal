@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 - 2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica
-embedding_id: null
+embedding_id: 2026-04-13-trending-stanford-hai-2026-ai-index-report
 event_name: ''
 ---
 

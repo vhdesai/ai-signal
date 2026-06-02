@@ -17,13 +17,21 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: event-icra-2026-icra-2026-nvidia-research-robotics-papers
 related_article_ids: []
-embedding_id: null
+embedding_id: event-icra-2026-icra-2026-overview
 event_name: ICRA 2026
 ---
 
 # ICRA 2026 — Overview
 
 ICRA 2026 appears in the late-May corpus as the robotics event that extends the year's AI conversation into embodied autonomy. The key corpus item is NVIDIA Research presenting eight papers at the International Conference on Robotics and Automation, spanning sim-to-real transfer, perception, dexterous manipulation, and multi-task policy learning. The event complements NVIDIA GTC's physical-AI platform narrative by showing research progress toward reliable robots in production environments.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[NVIDIA]]
+**Topics:** [[Corporate Moves]]
+**Canonical:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]]
+<!-- graph:end -->

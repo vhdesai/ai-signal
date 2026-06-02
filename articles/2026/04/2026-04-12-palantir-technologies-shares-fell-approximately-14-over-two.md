@@ -30,9 +30,9 @@ related_article_ids:
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
+- 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-- 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
-embedding_id: null
+embedding_id: 2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two
 event_name: ''
 ---
 
@@ -45,5 +45,5 @@ Palantir Technologies shares fell approximately 14% over two sessions after inve
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]]
+**Related:** [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]]
 <!-- graph:end -->

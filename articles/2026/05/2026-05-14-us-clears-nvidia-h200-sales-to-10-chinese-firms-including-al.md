@@ -24,9 +24,9 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe
+canonical_article_id: 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-us-clears-nvidia-h200-sales-to-10-chinese-firms-including-al
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The US government cleared Nvidia's H200 AI chip for sale to 10 Chinese technolog
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe]]
+**Canonical:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

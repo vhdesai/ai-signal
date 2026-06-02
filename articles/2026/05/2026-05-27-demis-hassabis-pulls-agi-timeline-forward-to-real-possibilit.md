@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-embedding_id: null
+embedding_id: 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 event_name: ''
 ---
 

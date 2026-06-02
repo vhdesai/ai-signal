@@ -19,11 +19,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
+- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring
-- 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
-- 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
-embedding_id: null
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
+embedding_id: 2026-04-28-2-products-tools
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]]
+**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]]
 <!-- graph:end -->

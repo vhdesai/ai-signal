@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
+- 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
+- 2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model
+- 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
+embedding_id: 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ Cursor's in-house coding model Composer 2.5 — built on Moonshot's Kimi K2.5 ch
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]]
 <!-- graph:end -->

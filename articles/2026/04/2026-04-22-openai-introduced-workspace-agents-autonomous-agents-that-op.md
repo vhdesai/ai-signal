@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
+- 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
 - 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
-- 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
-- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
-embedding_id: null
+embedding_id: 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ OpenAI introduced Workspace Agents — autonomous agents that operate on files a
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]]
+**Related:** [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-27-
+- 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
+- 2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
 - 2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t
-- 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
-- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
-embedding_id: null
+embedding_id: 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ OpenAI announced a partnership with IT services giant Infosys to bring its AI to
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-27-]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]]
+**Related:** [[2026-04-27-]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t]]
 <!-- graph:end -->

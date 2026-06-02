@@ -19,10 +19,10 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Ahead of WWDC, Apple previewed Apple Intelligence accessibility features includi
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d]]
 <!-- graph:end -->

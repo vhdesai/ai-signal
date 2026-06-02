@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
+- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions
 - 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 - 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
-embedding_id: null
+embedding_id: 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ PitchBook’s Daily Pitch described the AI super-cycle as a multi-layer private-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]]
+**Related:** [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]]
 <!-- graph:end -->

@@ -20,7 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
-embedding_id: null
+embedding_id: 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 event_name: ''
 ---
 

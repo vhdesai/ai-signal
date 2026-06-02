@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
+- 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
-embedding_id: null
+- 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
+- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
+embedding_id: 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ VentureBeat published an analysis arguing AI agents need terminal-level corpus a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]]
+**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]]
 <!-- graph:end -->

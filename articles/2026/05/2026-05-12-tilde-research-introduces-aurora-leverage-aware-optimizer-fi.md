@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
+- 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
+- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
+- 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+embedding_id: 2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Tilde Research released Aurora, a new neural network training optimizer targetin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
 <!-- graph:end -->

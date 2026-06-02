@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 109
+member_count: 120
 ---
 
 # xAI
 
-> Auto-generated entity hub. 109 connected article(s).
+> Auto-generated entity hub. 120 connected article(s).
 
+- `2026-05-31` [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity|### AI Regulation Fractures on Three Fronts: CNN Sues Perplexity, OpenAI Aligns to EU Rules, DOJ Enters Colorado Fight]]
+- `2026-05-29` [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock|### AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock]]
 - `2026-05-28` [[2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta|xAI's Grok V9-Medium finishes training at 1.5T parameters, targets mid-June release]]
 - `2026-05-28` [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe|Grok V9-Medium Completes Training; 1.5T-Parameter Model Targets June Release]]
 - `2026-05-27` [[2026-05-27-xai-launches-grok-integration-in-kilo-code|xAI launches Grok integration in Kilo Code]]
+- `2026-05-27` [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2|Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models — Strategic Implications]]
+- `2026-05-27` [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry|Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models — Overview]]
 - `2026-05-27` [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post|Elon Musk Hints at xAI Direction in Pre-Dawn Post]]
 - `2026-05-26` [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout|xAI's Grok Build Agent CLI Reviewed Following Beta Rollout]]
 - `2026-05-26` [[2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou|WSJ Wealth Adviser highlights how stock-frenzy dynamics around AI mega-caps (NVIDIA, Anthropic-adjacent compute names) are forcing private wealth advisers to…]]
@@ -117,3 +121,10 @@ member_count: 109
 - `2026-04-10` [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i|Florida Attorney General James Uthmeier announced a formal investigation into OpenAI following allegations that ChatGPT was used by the perpetrator of the Fl…]]
 - `2026-04-06` [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ|OpenAI formally petitioned the Attorneys General of California and Delaware to open investigations into Elon Musk for alleged anti-competitive behavior, spec…]]
 - `2026-04-01` [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce|Oracle notified 20,000–30,000 employees (~18% of its workforce) via pre-dawn emails across the U.S., India, Canada, Mexico, and Uruguay — likely the largest…]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja|NVIDIA GTC 2026 and GTC Taipei 2026: GTC Taipei / COMPUTEX adjacency]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

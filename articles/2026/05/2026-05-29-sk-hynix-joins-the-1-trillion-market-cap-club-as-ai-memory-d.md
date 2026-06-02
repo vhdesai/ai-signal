@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
-embedding_id: null
+embedding_id: 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 event_name: ''
 ---
 

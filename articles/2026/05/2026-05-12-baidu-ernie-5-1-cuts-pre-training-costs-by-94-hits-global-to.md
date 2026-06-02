@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: null
+embedding_id: 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 event_name: ''
 ---
 

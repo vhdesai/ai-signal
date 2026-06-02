@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
+- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
+- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
+embedding_id: 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ DAIR.AI's weekly paper roundup (May 10) highlighted HeavySkill, a framework comb
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]]
 <!-- graph:end -->

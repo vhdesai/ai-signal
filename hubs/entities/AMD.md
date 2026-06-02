@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 11
+member_count: 15
 ---
 
 # AMD
 
-> Auto-generated entity hub. 11 connected article(s).
+> Auto-generated entity hub. 15 connected article(s).
 
+- `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|### Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
+- `2026-06-01` [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip|### Nvidia Enters Windows PC Market with Arm-Based AI Chip]]
+- `2026-06-01` [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation|### DriveNets raises $410M Series D at an $8.5B valuation]]
+- `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|### US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]
 - `2026-05-22` [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme|curated executive briefing on the most significant developments in artificial intelligence — covering frontier models, industry moves, research breakthroughs…]]
 - `2026-05-21` [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry|AMD to Invest More Than $10 Billion in Taiwan's AI Industry]]
 - `2026-05-21` [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug|AMD CEO Lisa Su: Server CPU Market to Grow 35%+ Annually Through 2031]]

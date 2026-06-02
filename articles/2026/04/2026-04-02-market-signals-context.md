@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-daily-ai-news-digest
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-embedding_id: null
+embedding_id: 2026-04-02-market-signals-context
 event_name: ''
 ---
 

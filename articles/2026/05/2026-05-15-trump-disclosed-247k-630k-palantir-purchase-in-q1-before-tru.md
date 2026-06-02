@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
+- 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
+- 2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133
+- 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
+- 2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes
+embedding_id: 2026-05-15-trump-disclosed-247k-630k-palantir-purchase-in-q1-before-tru
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ Federal financial disclosures reveal that President Trump purchased between $247
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes]]
 <!-- graph:end -->

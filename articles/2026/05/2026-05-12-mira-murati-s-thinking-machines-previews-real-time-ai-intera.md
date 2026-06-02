@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 - 2026-05-11-
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-embedding_id: null
+embedding_id: 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 event_name: ''
 ---
 

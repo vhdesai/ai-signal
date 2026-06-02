@@ -21,12 +21,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
-- 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-embedding_id: null
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+embedding_id: 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ SenseTime and Light-AI released SenseNova-U1, a natively unified multimodal mode
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
+**Related:** [[2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
 <!-- graph:end -->

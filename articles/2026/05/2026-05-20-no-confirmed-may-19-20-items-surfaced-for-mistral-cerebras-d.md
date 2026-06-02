@@ -38,7 +38,7 @@ related_article_ids:
 - 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
 - 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 - 2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi
-embedding_id: null
+embedding_id: 2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d
 event_name: ''
 ---
 

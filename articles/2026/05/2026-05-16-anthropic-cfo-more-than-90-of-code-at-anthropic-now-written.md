@@ -19,8 +19,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
+- 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
+embedding_id: 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 event_name: ''
 ---
 
@@ -33,4 +37,5 @@ Anthropic CFO Krishna Rao disclosed today that over 90% of the company's interna
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
 <!-- graph:end -->

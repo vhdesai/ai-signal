@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
-embedding_id: null
+embedding_id: 2026-05-18-lake-tahoe-residents-to-lose-75-of-power-supply-as-nv-energy
 event_name: ''
 ---
 

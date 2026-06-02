@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
+- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+embedding_id: 2026-05-26-causalab-scalable-environment-for-interactive-causal-discove
 event_name: ''
 ---
 
@@ -31,4 +36,5 @@ A scalable interactive sandbox lets LLM agents perform causal discovery on synth
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
 <!-- graph:end -->

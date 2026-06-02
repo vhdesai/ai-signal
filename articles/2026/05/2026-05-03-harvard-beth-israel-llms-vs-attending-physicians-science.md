@@ -17,8 +17,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
+- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
+- 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+embedding_id: 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ Lead author Arjun Manrai (Harvard Medical School AI lab) reports the model "ecli
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

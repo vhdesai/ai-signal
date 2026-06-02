@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
-embedding_id: null
+embedding_id: 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
 event_name: ''
 ---
 

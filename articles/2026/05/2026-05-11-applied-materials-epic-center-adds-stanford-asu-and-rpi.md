@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-embedding_id: null
+embedding_id: 2026-05-11-applied-materials-epic-center-adds-stanford-asu-and-rpi
 event_name: ''
 ---
 

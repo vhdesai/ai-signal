@@ -23,11 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
-- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-- 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
-embedding_id: null
+embedding_id: 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
 event_name: ''
 ---
 
@@ -40,5 +39,5 @@ DeepSeek's founder Liang Wenfeng told investors in its ongoing 70 billion yuan (
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]]
+**Related:** [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
 <!-- graph:end -->

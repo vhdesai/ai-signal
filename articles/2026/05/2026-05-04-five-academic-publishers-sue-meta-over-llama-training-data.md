@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
 - 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
-embedding_id: null
+embedding_id: 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
 event_name: ''
 ---
 

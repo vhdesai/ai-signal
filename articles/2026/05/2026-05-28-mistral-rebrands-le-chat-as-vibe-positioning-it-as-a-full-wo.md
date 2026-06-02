@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 - 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
-embedding_id: null
+embedding_id: 2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo
 event_name: ''
 ---
 

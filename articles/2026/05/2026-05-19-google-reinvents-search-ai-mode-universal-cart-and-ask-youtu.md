@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum
-- 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform
-embedding_id: null
+embedding_id: 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ At I/O 2026, Google declared "Google Search is AI Search." The updated Search no
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum]] · [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]]
+**Related:** [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum]]
 <!-- graph:end -->

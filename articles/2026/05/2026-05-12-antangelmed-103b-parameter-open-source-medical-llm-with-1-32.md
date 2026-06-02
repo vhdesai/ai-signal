@@ -21,11 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
+- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-embedding_id: null
+embedding_id: 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ MedAIBase released AntAngelMed, a 103B-parameter open-source medical model using
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]]
 <!-- graph:end -->

@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
+- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-embedding_id: null
+- 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
+embedding_id: 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Researchers from UIUC and Stanford published RecursiveMAS, a multi-agent framewo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
+**Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal]]
 <!-- graph:end -->

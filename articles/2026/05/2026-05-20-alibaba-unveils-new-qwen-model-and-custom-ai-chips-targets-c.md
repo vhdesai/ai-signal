@@ -19,10 +19,10 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Alibaba unveiled a next-generation Qwen model alongside custom-silicon designs a
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Canonical:** [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]]
 <!-- graph:end -->

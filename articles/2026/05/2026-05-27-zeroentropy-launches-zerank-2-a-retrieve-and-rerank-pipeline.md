@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 - 2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double
 - 2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc
-- 2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe
-embedding_id: null
+- 2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml
+embedding_id: 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ ZeroEntropy released Zerank-2, a higher-precision retrieve-and-rerank stack aime
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc]] · [[2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe]]
+**Related:** [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc]] · [[2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 - 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
-embedding_id: null
+embedding_id: 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
 event_name: ''
 ---
 

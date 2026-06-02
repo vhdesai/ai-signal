@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
-embedding_id: null
+embedding_id: 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 event_name: ''
 ---
 

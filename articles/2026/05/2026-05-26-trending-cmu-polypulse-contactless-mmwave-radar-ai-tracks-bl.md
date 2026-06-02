@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl
 event_name: ''
 ---
 

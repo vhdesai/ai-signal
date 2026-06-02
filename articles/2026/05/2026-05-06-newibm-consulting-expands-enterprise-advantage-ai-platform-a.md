@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on
+- 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
+- 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
+- 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 - 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
-- 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
-- 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
-- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-embedding_id: null
+embedding_id: 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ At IBM Think 2026 in Boston, IBM Consulting announced significant updates to its
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
+**Related:** [[2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on]] · [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]]
 <!-- graph:end -->

@@ -28,8 +28,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
+- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
+- 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
+embedding_id: 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 event_name: ''
 ---
 
@@ -42,4 +45,5 @@ Singapore's Infocomm Media Development Authority (IMDA) published an updated age
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cohere]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
 <!-- graph:end -->

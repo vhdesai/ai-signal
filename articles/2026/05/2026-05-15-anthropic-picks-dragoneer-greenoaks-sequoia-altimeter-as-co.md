@@ -26,9 +26,9 @@ related_article_ids:
 - 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
 - 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 - 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
+- 2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation
 - 2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o
-- 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
-embedding_id: null
+embedding_id: 2026-05-15-anthropic-picks-dragoneer-greenoaks-sequoia-altimeter-as-co
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Anthropic has selected Dragoneer, Greenoaks, Sequoia Capital, and Altimeter Capi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]]
+**Related:** [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]]
 <!-- graph:end -->

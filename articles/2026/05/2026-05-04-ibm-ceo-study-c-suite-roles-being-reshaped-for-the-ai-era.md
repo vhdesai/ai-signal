@@ -18,8 +18,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
+- 2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up
+- 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
+- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
+embedding_id: 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
 event_name: ''
 ---
 
@@ -32,4 +36,5 @@ IBM's CEO study finds C-suite roles are being restructured around AI accountabil
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
 <!-- graph:end -->

@@ -34,10 +34,10 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti
 event_name: ''
 ---
 
@@ -50,4 +50,5 @@ Reuters stitches together the close of Magnificent Seven earnings with Nvidia as
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Canonical:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
 <!-- graph:end -->

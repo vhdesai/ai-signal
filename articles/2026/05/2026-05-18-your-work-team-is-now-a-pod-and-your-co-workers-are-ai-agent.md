@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
+- 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
-- 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
-embedding_id: null
+embedding_id: 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ WSJ profiled enterprises restructuring teams around “pods” that intermix hum
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]]
+**Related:** [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

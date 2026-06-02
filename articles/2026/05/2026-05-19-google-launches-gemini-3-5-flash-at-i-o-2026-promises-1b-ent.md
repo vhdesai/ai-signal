@@ -18,10 +18,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-promises-1b-ent
 event_name: ''
 ---
 
@@ -34,4 +34,5 @@ At I/O 2026, Sundar Pichai unveiled Gemini 3.5 Flash, positioned as faster, chea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]]
 <!-- graph:end -->

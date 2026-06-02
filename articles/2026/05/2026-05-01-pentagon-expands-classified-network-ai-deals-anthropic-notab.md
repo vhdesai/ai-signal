@@ -23,8 +23,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
+- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
+- 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
+- 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
+- 2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac
+embedding_id: 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ The DoD signed agreements with Nvidia, Microsoft, AWS, and Reflection AI — fol
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac]]
 <!-- graph:end -->

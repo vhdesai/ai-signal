@@ -26,8 +26,9 @@ related_article_ids:
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-embedding_id: null
+embedding_id: 2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve
 event_name: ''
 ---
 
@@ -40,5 +41,5 @@ Bloomberg reports Jeff Bezos is backing a new AI research venture dubbed "Projec
 
 **Entities:** [[Mistral]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
+**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
 <!-- graph:end -->

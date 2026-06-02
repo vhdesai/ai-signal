@@ -21,10 +21,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r
 event_name: ''
 ---
 
@@ -37,4 +37,5 @@ Gemini Spark is Google's first 24/7 personal AI agent, running on Google Cloud V
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

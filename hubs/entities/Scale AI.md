@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 11
+member_count: 12
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 11 connected article(s).
+> Auto-generated entity hub. 12 connected article(s).
 
+- `2026-05-23` [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge|Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Overview]]
 - `2026-05-22` [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in|Google published a major update to its Gemini for Science initiative, positioning Gemini as a research workflow platform for scientists rather than a general…]]
 - `2026-05-22` [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative|EY and Microsoft Announce $1 Billion Enterprise AI Initiative Over Five Years]]
 - `2026-05-18` [[2026-05-18-trending-malta-offers-residents-a-year-of-free-chatgpt-plus|Trending Malta Offers Residents a Year of Free ChatGPT Plus or Microsoft Copilot]]

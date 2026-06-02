@@ -24,12 +24,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
 - 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
-embedding_id: null
+embedding_id: 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ OpenAI released GPT-5.5 and GPT-5.5 Pro on April 22, bringing the company "one s
 
 **Entities:** [[Databricks]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
 <!-- graph:end -->

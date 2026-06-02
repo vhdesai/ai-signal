@@ -21,8 +21,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap
+- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
+- 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
+- 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
+- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
+embedding_id: 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Alibaba launched Qwen3.7-Max, a proprietary (no longer open-source) agentic mode
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
 <!-- graph:end -->

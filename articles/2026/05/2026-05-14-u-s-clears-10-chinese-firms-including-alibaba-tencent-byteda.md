@@ -25,10 +25,9 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe
-related_article_ids:
-- 2026-05-14-u-s-clears-nvidia-h200-chip-sales-to-10-chinese-firms-no-del
-embedding_id: null
+canonical_article_id: 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
+related_article_ids: []
+embedding_id: 2026-05-14-u-s-clears-10-chinese-firms-including-alibaba-tencent-byteda
 event_name: ''
 ---
 
@@ -41,6 +40,5 @@ The U.S. Commerce Department approved approximately ten Chinese firms to purchas
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Canonical:** [[2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe]]
-**Related:** [[2026-05-14-u-s-clears-nvidia-h200-chip-sales-to-10-chinese-firms-no-del]]
+**Canonical:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

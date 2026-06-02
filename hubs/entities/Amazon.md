@@ -1,17 +1,22 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 159
+member_count: 185
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 159 connected article(s).
+> Auto-generated entity hub. 185 connected article(s).
 
+- `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
+- `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
+- `2026-05-31` [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters|### An 'AI affordability' reckoning hits enterprise adopters]]
+- `2026-05-30` [[2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to|### "LLMShare" Campaign Abuses Shared ChatGPT and Claude Links to Spread Malware]]
 - `2026-05-29` [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma|Snowflake targets AI agent adoption with AWS deal and Natoma acquisition]]
 - `2026-05-29` [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b|Salesforce spotlights Agentforce as Snowflake makes $6B AWS bet on AI agents]]
 - `2026-05-29` [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the|DealBook: How Anthropic got so big — and what it means for the OpenAI race]]
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
+- `2026-05-29` [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock|### AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock]]
 - `2026-05-28` [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r|Mistral confirms it is exploring custom AI chip design and rebrands Le Chat as "Vibe"]]
 - `2026-05-28` [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips|Mistral CEO says lab is exploring designing its own AI chips]]
 - `2026-05-28` [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly|Meta and Amazon move to monetize AI assistants more directly]]
@@ -58,6 +63,12 @@ member_count: 159
 - `2026-05-19` [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026|Microsoft India's Largest Data Center on Track for Mid-2026 Launch Amid Massive Azure Demand]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
 - `2026-05-19` [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu|Google Reinvents Search: AI Mode, Universal Cart, and Ask YouTube]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media|Google I/O 2026: Search, commerce, and media]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-gemini-model-family|Google I/O 2026: Gemini model family]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware|Google I/O 2026: Android XR and hardware]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation|Google I/O 2026: Agents and workflow automation]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-strategic-implications|Google I/O 2026 — Strategic Implications]]
+- `2026-05-19` [[event-google-i-o-2026-google-i-o-2026-overview|Google I/O 2026 — Overview]]
 - `2026-05-19` [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit|Google Announces $25B AI Cloud Infrastructure Partnership with Blackstone — Hours Before I/O Keynote]]
 - `2026-05-19` [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending|Amazon’s AWS AI strategy gains credibility through spending, chips and deals]]
 - `2026-05-19` [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi|Amazon's Trainium Starts Winning Over AI Developers as Nvidia Alternative]]
@@ -137,6 +148,14 @@ member_count: 159
 - `2026-04-23` [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed|Amazon Web Services announced new capabilities in Amazon Bedrock AgentCore, promising developers a faster path from prototype to production-grade AI agents.]]
 - `2026-04-22` [[2026-04-22-industry-news-deals|📊 Industry News & Deals]]
 - `2026-04-22` [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s|Google announced that AI Overviews — its AI-generated search summaries — are coming to Gmail for Google Workspace users, enabling AI-powered email intelligen…]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family|Google Cloud Next 2026: TPU 8 family]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through|Google Cloud Next 2026: Siri/Gemini enterprise read-through]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs|Google Cloud Next 2026: Partner and adoption programs]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform|Google Cloud Next 2026: Gemini Enterprise Agent Platform]]
+- `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-2|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Strategic Implications]]
+- `2026-04-22` [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa|Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Overview]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications|Google Cloud Next 2026 — Strategic Implications]]
+- `2026-04-22` [[event-google-cloud-next-2026-google-cloud-next-2026-overview|Google Cloud Next 2026 — Overview]]
 - `2026-04-22` [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10|Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models.]]
 - `2026-04-21` [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment|Hot Meta Announces $600B AI Investment Commitment]]
 - `2026-04-21` [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-surpassing-openai|Hot Anthropic ARR Reportedly Hits $30B, Surpassing OpenAI]]
@@ -167,3 +186,10 @@ member_count: 159
 - `2026-03-30` [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt|AI Cardiac Platform Wins First-Ever ACC Global Digital Health Award]]
 - `2026-03-29` [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent|Salesforce AI Research published VoiceAgentRAG — a dual-agent memory router cutting voice AI retrieval latency by 316× by routing queries between a fast sema…]]
 - `2026-02-17` [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta|Amazon $200B, Alphabet $175–185B, Microsoft ~$145B annualized, Meta $115–135B.]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja|NVIDIA GTC 2026 and GTC Taipei 2026: GTC Taipei / COMPUTEX adjacency]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

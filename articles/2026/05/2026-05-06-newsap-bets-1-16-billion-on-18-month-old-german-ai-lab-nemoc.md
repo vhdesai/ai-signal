@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-embedding_id: null
+embedding_id: 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
 event_name: ''
 ---
 

@@ -23,8 +23,11 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
+- 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
+- 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
+embedding_id: 2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v
 event_name: ''
 ---
 
@@ -37,4 +40,5 @@ An open-source developer released DeepSeek-TUI, a terminal user interface that i
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier]]
 <!-- graph:end -->

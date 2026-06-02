@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-embedding_id: null
+embedding_id: 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Anthropic shipped two new security features for Claude: a self-hosted sandbox th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]] · [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]]
 <!-- graph:end -->

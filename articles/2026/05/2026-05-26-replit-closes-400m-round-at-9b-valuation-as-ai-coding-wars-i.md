@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
-embedding_id: null
+embedding_id: 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 event_name: ''
 ---
 

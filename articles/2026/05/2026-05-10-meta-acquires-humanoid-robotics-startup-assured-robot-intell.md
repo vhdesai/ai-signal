@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 - 2026-04-08-source-forbes-msn-the-neuron
-- 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-embedding_id: null
+- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+embedding_id: 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Meta acquired Assured Robot Intelligence, a humanoid robotics startup founded a 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
+**Related:** [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
 <!-- graph:end -->

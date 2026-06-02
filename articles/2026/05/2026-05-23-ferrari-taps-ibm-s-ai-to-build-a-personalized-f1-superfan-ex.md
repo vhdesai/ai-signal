@@ -21,8 +21,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
+embedding_id: 2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex
 event_name: ''
 ---
 
@@ -36,4 +37,5 @@ Ferrari is deploying IBM's generative-AI stack to power personalized fan engagem
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]]
+**Related:** [[2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem]]
 <!-- graph:end -->

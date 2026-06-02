@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 - 2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026
-embedding_id: null
+embedding_id: 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 event_name: ''
 ---
 

@@ -21,9 +21,9 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
 related_article_ids:
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
-- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-embedding_id: null
+- event-icra-2026-icra-2026-nvidia-research-robotics-papers
+- event-icra-2026-icra-2026-overview
+embedding_id: 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Daily AI Digest entries highlighted NVIDIA Research’s ICRA work on sim-to-real
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]]
-**Related:** [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]]
+**Related:** [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[event-icra-2026-icra-2026-overview]]
 <!-- graph:end -->

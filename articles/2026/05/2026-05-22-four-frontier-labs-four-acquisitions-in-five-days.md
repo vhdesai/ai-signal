@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
+- 2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e
 - 2026-05-04-1-model-releases-frontier-research
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-embedding_id: null
+embedding_id: 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ In a single week, Anthropic acquired API tooling vendor Stainless for $300M+, Mi
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]]
 <!-- graph:end -->

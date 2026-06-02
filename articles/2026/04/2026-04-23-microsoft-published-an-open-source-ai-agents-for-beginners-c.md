@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 - 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 - 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 - 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
-- 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
-- 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
-embedding_id: null
+embedding_id: 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Microsoft published an open-source "AI Agents for Beginners" curriculum on GitHu
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]]
-**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]]
 <!-- graph:end -->

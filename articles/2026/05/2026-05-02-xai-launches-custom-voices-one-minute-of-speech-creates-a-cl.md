@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-05-27-omnivoice-studio-debuts-as-an-open-source-elevenlabs-alterna
-embedding_id: null
+embedding_id: 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 event_name: ''
 ---
 

@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
+- 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
+- 2026-05-01-google-research-catalyzing-scientific-impact-through-global
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
+embedding_id: 2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ Yossi Matias, head of Google Research, framed AI's most important role as accele
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
 <!-- graph:end -->

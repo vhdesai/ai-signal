@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
-embedding_id: null
+embedding_id: 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Google rolled out Gemini 3.5 Flash, a frontier model tuned for agentic and codin
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
+**Related:** [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti
+- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-embedding_id: null
+embedding_id: 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ Nvidia's Q1 2026 results — released this week — completed the Magnificent Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
 - 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
-- 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
-- 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-embedding_id: null
+embedding_id: 2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Google DeepMind published the AI Co-Mathematician, an agentic workbench for math
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]]
+**Related:** [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]]
 <!-- graph:end -->

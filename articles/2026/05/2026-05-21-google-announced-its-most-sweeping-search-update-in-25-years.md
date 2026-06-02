@@ -23,8 +23,12 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
+- 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
+- 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
+- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
+embedding_id: 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 event_name: ''
 ---
 
@@ -37,4 +41,5 @@ Google announced its most sweeping Search update in 25 years at I/O, with AI-pow
 
 **Entities:** [[Alibaba]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]]
 <!-- graph:end -->

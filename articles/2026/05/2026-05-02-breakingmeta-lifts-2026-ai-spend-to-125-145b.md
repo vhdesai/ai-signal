@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-embedding_id: null
+embedding_id: 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 event_name: ''
 ---
 

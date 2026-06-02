@@ -19,13 +19,10 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+related_article_ids: []
+embedding_id: 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
 event_name: ''
 ---
 
@@ -38,5 +35,5 @@ Nvidia's aggressive strategy of financing the entire AI supply chain — taking 
 
 **Entities:** [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]]
+**Canonical:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

@@ -17,8 +17,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n
+- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
+- 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
+- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+embedding_id: 2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ The daily cs.AI new-submissions list shows 385 papers, with a notable cluster on
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
 <!-- graph:end -->

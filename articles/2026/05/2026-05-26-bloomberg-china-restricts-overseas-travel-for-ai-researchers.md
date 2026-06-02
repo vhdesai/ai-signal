@@ -26,11 +26,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba
+- 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
 - 2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba
 - 2026-05-26-china-formally-requires-government-sign-off-before-top-aliba
-- 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
-- 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
-embedding_id: null
+- 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
+embedding_id: 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Chinese government agencies have begun requiring prior approval before top AI re
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba]] · [[2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba]] · [[2026-05-26-china-formally-requires-government-sign-off-before-top-aliba]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]]
+**Related:** [[2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba]] · [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]] · [[2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba]] · [[2026-05-26-china-formally-requires-government-sign-off-before-top-aliba]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]]
 <!-- graph:end -->

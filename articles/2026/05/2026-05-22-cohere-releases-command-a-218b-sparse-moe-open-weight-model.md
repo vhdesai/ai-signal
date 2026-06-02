@@ -25,8 +25,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
+- 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
+- 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
+- 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
+- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
+embedding_id: 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
 event_name: ''
 ---
 
@@ -39,4 +44,5 @@ Cohere released Command A+, a 218 billion parameter sparse mixture-of-experts mo
 
 **Entities:** [[Anthropic]] · [[Cohere]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
 <!-- graph:end -->

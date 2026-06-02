@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-05-23-chrome-devtools-mcp-gives-ai-agents-direct-access-to-browser
-embedding_id: null
+- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
+embedding_id: 2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Mozilla published formal opposition to Google's proposed Chrome Prompt API, whic
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-23-chrome-devtools-mcp-gives-ai-agents-direct-access-to-browser]]
+**Related:** [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
 <!-- graph:end -->

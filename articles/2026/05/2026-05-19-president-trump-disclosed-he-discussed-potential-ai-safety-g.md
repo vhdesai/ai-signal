@@ -29,7 +29,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in
 - 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
-embedding_id: null
+embedding_id: 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
 event_name: ''
 ---
 

@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
-embedding_id: null
+embedding_id: 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 event_name: ''
 ---
 

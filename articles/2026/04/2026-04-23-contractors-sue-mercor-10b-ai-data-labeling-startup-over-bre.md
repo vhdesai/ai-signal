@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-02-ai-safety-security-policy
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
-embedding_id: null
+embedding_id: 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 event_name: ''
 ---
 

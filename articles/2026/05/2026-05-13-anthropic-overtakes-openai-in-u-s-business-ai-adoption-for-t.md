@@ -30,9 +30,9 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 related_article_ids:
 - 2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 event_name: ''
 ---
 
@@ -46,5 +46,5 @@ For the first time, more American businesses are paying for Anthropic's Claude (
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]]
-**Related:** [[2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]]
+**Related:** [[2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

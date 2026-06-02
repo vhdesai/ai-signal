@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding
-embedding_id: null
+embedding_id: 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 event_name: ''
 ---
 

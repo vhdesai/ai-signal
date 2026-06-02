@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 - 2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
-embedding_id: null
+embedding_id: 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
 event_name: ''
 ---
 

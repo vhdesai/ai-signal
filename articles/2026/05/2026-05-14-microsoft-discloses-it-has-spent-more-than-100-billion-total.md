@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
+- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-- 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-embedding_id: null
+- 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
+embedding_id: 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft disclosed cumulative OpenAI spend now exceeds $100 billion across equi
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
 - 2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
-embedding_id: null
+embedding_id: 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 event_name: ''
 ---
 

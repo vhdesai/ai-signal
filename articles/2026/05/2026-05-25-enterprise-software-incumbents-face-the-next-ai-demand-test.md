@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
+- 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
+- 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
-- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
-- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-embedding_id: null
+embedding_id: 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Salesforce, Snowflake, and Asana earnings are being watched as a referendum on w
 
 **Entities:** [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]]
+**Related:** [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]]
 <!-- graph:end -->

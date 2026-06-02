@@ -21,11 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 - 2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss
+- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 - 2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination
-- 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
-embedding_id: null
+embedding_id: 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Cohere consolidated four prior Command A variants into a single 218B Sparse Mixt
 
 **Entities:** [[Cohere]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]]
+**Related:** [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-20-cohere-ships-command-a-first-apache-2-0-open-model-with-loss]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-04-23-cohere-and-aleph-alpha-explore-20b-european-ai-combination]]
 <!-- graph:end -->

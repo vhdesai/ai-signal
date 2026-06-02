@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp
+- 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
+- 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
+- 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
+embedding_id: 2026-05-21-california-s-governor-signed-a-state-level-executive-order-f
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ California's governor signed a state-level executive order focused on AI's impac
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]]
 <!-- graph:end -->

@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
+- 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
+- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
+- 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
+embedding_id: 2026-05-11-mit-acemoglu-qje-firms-systematically-use-automation-to-supp
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ A peer-reviewed study co-authored by MIT economist Daron Acemoglu and published 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
+- 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte
-- 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
-embedding_id: null
+embedding_id: 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ DeepMind shipped Gemini Robotics-ER 1.6, an embodied-reasoning model that plugs 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]]
+**Related:** [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte]]
 <!-- graph:end -->

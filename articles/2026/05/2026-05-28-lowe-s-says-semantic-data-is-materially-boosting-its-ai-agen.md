@@ -20,10 +20,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ Lowe's executives say investments in a semantic data layer — a management tool
 
 **Entities:** [[Databricks]] · [[Microsoft]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents]]
 <!-- graph:end -->

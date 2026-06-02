@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
-- 2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-embedding_id: null
+- 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+embedding_id: 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Researchers published work proposing a human-in-the-loop AI framework for monito
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]]
 <!-- graph:end -->

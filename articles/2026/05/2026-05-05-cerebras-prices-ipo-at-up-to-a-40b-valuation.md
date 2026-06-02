@@ -22,11 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
-- 2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 - 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
 - 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
-embedding_id: null
+embedding_id: 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
 event_name: ''
 ---
 
@@ -39,5 +38,5 @@ Cerebras priced its long-delayed IPO with a deal range valuing the AI accelerato
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
+**Related:** [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
 <!-- graph:end -->

@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
+- 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable
-- 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
-embedding_id: null
+- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+embedding_id: 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ MUSE proposes an architecture for agents that autonomously create, store, manage
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
+**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
 <!-- graph:end -->

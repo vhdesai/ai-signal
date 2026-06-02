@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
+- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
+- event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
+- 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
+embedding_id: event-acm-cais-2026-acm-cais-2026-overview
 event_name: ACM CAIS 2026
 ---
 
 # ACM CAIS 2026 — Overview
 
 ACM CAIS 2026 is the corpus's most repeated research-oriented event, with 49 mentions across 15 source files. The official site describes it as the premier venue for rigorous, reproducible research on compound AI architectures, optimization, and deployment. The corpus treats CAIS as the academic counterpart to Google I/O and Build: where the platform events show products, CAIS shows the research systems that will make agents more reliable, optimizable, and reproducible.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]]
+<!-- graph:end -->

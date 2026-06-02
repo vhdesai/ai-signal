@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou
 - 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
+- 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 - 2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi
-- 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-embedding_id: null
+embedding_id: 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ WSJ's Wealth Adviser briefing led with Amazon's accelerating AI race and the imp
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]] · [[2026-05-29-wsj-wealth-adviser-j-j-exposure-vanishing-new-car-buyers-chi]]
 <!-- graph:end -->

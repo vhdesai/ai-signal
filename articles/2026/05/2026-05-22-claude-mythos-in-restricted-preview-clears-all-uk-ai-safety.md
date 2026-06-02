@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-embedding_id: null
+embedding_id: 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
 event_name: ''
 ---
 

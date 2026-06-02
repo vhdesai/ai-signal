@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
+- 2026-04-08-source-forbes-msn-the-neuron
+- 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
+- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
+embedding_id: 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ WSJ profiles the senior executive driving Meta's accelerated AI agenda — cover
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]]
 <!-- graph:end -->

@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
-- 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
-embedding_id: null
+embedding_id: 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Google moved Gemini 3.5 Flash to general availability across AI Studio and Verte
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]]
+**Related:** [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-10-google-gemini-3-1-ultra-2m-token-native-multimodal-context]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-embedding_id: null
+embedding_id: 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Claude Mythos Preview remains Anthropic's most consequential unreleased model: a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]]
 <!-- graph:end -->

@@ -45,9 +45,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
-- 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-embedding_id: null
+- 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
+- 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
+- 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
+embedding_id: 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 event_name: ''
 ---
 
@@ -60,5 +61,5 @@ Joint testing by the Financial Times and AI safety group Alice found that safety
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
+**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]]
 <!-- graph:end -->

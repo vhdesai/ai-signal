@@ -21,11 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm
+- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
-- 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-embedding_id: null
+embedding_id: 2026-05-18-ex-google-ceo-booed-while-discussing-ai-in-commencement-spee
 event_name: ''
 ---
 
@@ -37,5 +36,5 @@ A former Google CEO was booed during a university commencement address while dis
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]]
+**Related:** [[2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
 <!-- graph:end -->

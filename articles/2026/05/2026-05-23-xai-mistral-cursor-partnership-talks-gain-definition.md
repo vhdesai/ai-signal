@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
-embedding_id: null
+embedding_id: 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
 event_name: ''
 ---
 

@@ -23,7 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
-embedding_id: null
+- 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
+embedding_id: 2026-05-05-boston-dynamics-spot-can-now-read-analog-gauges-complete-ins
 event_name: ''
 ---
 
@@ -35,5 +36,5 @@ Boston Dynamics added a vision-language capability stack to Spot that lets it re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]]
+**Related:** [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]]
 <!-- graph:end -->

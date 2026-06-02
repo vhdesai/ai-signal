@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-embedding_id: null
+embedding_id: 2026-04-22-academic-research
 event_name: ''
 ---
 

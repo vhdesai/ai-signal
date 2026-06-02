@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-05-19-vik-desai-corp-dev-microsoft
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
-embedding_id: null
+embedding_id: 2026-05-27-the-week-that-reset-the-ai-industry
 event_name: ''
 ---
 

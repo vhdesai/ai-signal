@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
-embedding_id: null
+embedding_id: 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 event_name: ''
 ---
 

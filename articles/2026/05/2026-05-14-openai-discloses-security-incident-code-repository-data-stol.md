@@ -23,8 +23,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-github-supply-chain-attack-compromises-500-packages
+- 2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully
+- 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
+- 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
+embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
 
@@ -37,4 +41,5 @@ OpenAI disclosed a security incident in which attackers exfiltrated data from th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully]] · [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]]
 <!-- graph:end -->

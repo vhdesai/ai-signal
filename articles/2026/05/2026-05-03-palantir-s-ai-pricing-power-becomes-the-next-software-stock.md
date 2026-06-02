@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: null
+embedding_id: 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 event_name: ''
 ---
 

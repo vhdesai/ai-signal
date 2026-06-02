@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-07-
-embedding_id: null
+embedding_id: 2026-05-08-breaking-anthropic-signs-spacex-colossus-data-center-deal-de
 event_name: ''
 ---
 

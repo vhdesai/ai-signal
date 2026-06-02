@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 - 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: null
+embedding_id: 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ MIT released a testing framework identifying when AI decision-support systems tr
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
 <!-- graph:end -->

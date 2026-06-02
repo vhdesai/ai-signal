@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-embedding_id: null
+embedding_id: 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 event_name: ''
 ---
 

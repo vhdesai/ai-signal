@@ -25,11 +25,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
 - 2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba
+- 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-05-27-jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robo
 - 2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba
-- 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
-embedding_id: null
+embedding_id: 2026-05-02-trendinghangzhou-court-rules-it-illegal-to-fire-a-worker-sol
 event_name: ''
 ---
 
@@ -42,5 +43,5 @@ A Hangzhou court issued what is being described as the first major Chinese rulin
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba]] · [[2026-05-27-jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robo]] · [[2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]]
+**Related:** [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-05-27-jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robo]] · [[2026-05-26-hot-china-restricts-overseas-travel-for-ai-talent-at-alibaba]]
 <!-- graph:end -->

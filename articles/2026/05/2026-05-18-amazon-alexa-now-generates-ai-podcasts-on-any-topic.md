@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-amazon-alexa-now-generates-ai-podcasts-on-any-topic
 event_name: ''
 ---
 

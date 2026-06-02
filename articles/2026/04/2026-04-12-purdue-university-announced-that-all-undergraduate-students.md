@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-embedding_id: null
+embedding_id: 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 event_name: ''
 ---
 

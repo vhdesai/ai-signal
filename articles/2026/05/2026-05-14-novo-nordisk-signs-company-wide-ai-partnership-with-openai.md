@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
+- 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 - 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
-- 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-embedding_id: null
+embedding_id: 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Pharmaceutical giant Novo Nordisk signed a full company-wide AI partnership with
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
+**Related:** [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
 - 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
-- 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
-embedding_id: null
+- 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
+- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+embedding_id: 2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Alibaba was unmasked as the anonymous creator of HappyHorse-1.0, a video generat
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]]
+**Related:** [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

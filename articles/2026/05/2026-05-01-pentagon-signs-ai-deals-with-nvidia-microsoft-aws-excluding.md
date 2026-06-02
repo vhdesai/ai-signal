@@ -20,15 +20,11 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 related_article_ids:
-- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
-- 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-- 2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
-- 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
-embedding_id: null
+embedding_id: 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
 event_name: ''
 ---
 
@@ -41,5 +37,6 @@ The U.S. Department of Defense signed AI deployment agreements with Nvidia, Micr
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]]
+**Canonical:** [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
+**Related:** [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]]
 <!-- graph:end -->

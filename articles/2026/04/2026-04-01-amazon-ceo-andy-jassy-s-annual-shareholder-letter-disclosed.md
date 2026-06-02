@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-embedding_id: null
+embedding_id: 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 event_name: ''
 ---
 

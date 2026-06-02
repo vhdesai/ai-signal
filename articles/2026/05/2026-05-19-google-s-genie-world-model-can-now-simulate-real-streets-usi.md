@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-google-deepmind-s-genie-world-model-now-simulates-real-stree
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 event_name: ''
 ---
 

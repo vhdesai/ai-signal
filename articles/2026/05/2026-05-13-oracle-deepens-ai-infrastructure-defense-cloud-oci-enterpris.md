@@ -27,10 +27,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
+- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
+- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
-embedding_id: null
+embedding_id: 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ A Zacks analyst summary tallies Oracle's recent stack: a May 1 Department of War
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]]
+**Related:** [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

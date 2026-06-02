@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
-- 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
-embedding_id: null
+- 2026-05-20-spacex-ipo-filing-reveals-anthropic-s-1-25b-month-compute-de
+embedding_id: 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ SpaceX's public S-1 filing disclosed a roughly $40 billion compute agreement wit
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]]
+**Related:** [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-21-spacex-s-1-reveals-45b-anthropic-compute-deal]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-20-spacex-ipo-filing-reveals-anthropic-s-1-25b-month-compute-de]]
 <!-- graph:end -->

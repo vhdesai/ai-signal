@@ -20,10 +20,10 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ Tencent Cloud announced paid commercial services for its Hy3 Preview and DeepSee
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Canonical:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
 <!-- graph:end -->

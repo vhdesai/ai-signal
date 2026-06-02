@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 - 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
 event_name: ''
 ---
 

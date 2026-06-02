@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono
+- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 - 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 - 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
-embedding_id: null
+embedding_id: 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ NVIDIA founder Jensen Huang received an honorary Doctor of Science and Technolog
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
+**Related:** [[2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]]
 <!-- graph:end -->

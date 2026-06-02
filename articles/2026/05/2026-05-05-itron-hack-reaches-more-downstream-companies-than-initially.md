@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
-embedding_id: null
+embedding_id: 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 event_name: ''
 ---
 

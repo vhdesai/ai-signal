@@ -31,8 +31,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
+- 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
+- 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
+- 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
+- 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
+embedding_id: 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
 event_name: ''
 ---
 
@@ -45,4 +50,5 @@ Oracle announced recognition of three utility-sector customers — Air Selangor 
 
 **Entities:** [[Apple]] · [[Cohere]] · [[Google]] · [[IBM]] · [[Meta]] · [[Mistral]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]]
 <!-- graph:end -->

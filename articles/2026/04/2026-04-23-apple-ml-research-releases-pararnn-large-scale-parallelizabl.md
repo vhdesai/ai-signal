@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
+- 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
+- 2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi
 - 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
-embedding_id: null
+embedding_id: 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Apple researchers published ParaRNN, an advancement that makes RNN training dram
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]]
+**Related:** [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
+- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
-- 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
-embedding_id: null
+embedding_id: 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ PitchBook's US Public PE and GP Deal Roundup found the largest listed PE players
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]]
+**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]]
 <!-- graph:end -->

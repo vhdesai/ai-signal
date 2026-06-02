@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
 - 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
 - 2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
-- 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
-- 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-embedding_id: null
+- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
+embedding_id: 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ AI coding startup Cursor, fresh off a high-profile SpaceX deal, is preparing a m
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
+**Related:** [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]]
 <!-- graph:end -->

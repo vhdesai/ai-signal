@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
-embedding_id: null
+embedding_id: 2026-05-15-deepfake-voice-scam-snares-cushman-wakefield
 event_name: ''
 ---
 

@@ -18,10 +18,10 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14
 event_name: ''
 ---
 
@@ -34,4 +34,5 @@ Meta is preparing to eliminate approximately 8,000 jobs (~10% of workforce) star
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

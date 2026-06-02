@@ -26,9 +26,9 @@ related_article_ids:
 - 2026-04-06-ai-safety-policy
 - 2026-04-13-industry-news
 - 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
+- 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 - 2026-05-14-closing-arguments-begin-in-musk-v-openai
-- 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-embedding_id: null
+embedding_id: 2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ OpenAI formally petitioned the Attorneys General of California and Delaware to o
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-ai-safety-policy]] · [[2026-04-13-industry-news]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-05-14-closing-arguments-begin-in-musk-v-openai]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]]
+**Related:** [[2026-04-06-ai-safety-policy]] · [[2026-04-13-industry-news]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle]] · [[2026-05-14-closing-arguments-begin-in-musk-v-openai]]
 <!-- graph:end -->

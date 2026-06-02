@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
-- 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: null
+embedding_id: 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Anthropic reported that its Mythos vulnerability-discovery initiative and partne
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
+**Related:** [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]]
 <!-- graph:end -->

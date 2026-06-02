@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
-embedding_id: null
+embedding_id: 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A reproducible benchmark of classical and Bayesian sparse-regression methods qua
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio]]
+**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
 <!-- graph:end -->

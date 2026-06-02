@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to
 - 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
 - 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
-- 2026-05-11-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-embedding_id: null
+- event-icra-2026-icra-2026-nvidia-research-robotics-papers
+- event-icra-2026-icra-2026-overview
+embedding_id: 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The International Conference on Robotics and Automation featured strong industry
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[2026-05-11-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
+**Related:** [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar]] · [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[event-icra-2026-icra-2026-overview]]
 <!-- graph:end -->

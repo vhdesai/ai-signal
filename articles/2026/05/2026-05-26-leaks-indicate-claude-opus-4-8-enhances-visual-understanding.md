@@ -19,10 +19,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step rea
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface]]
 <!-- graph:end -->

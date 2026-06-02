@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 event_name: ''
 ---
 

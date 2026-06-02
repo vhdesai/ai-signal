@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
-embedding_id: null
+embedding_id: 2026-04-09-products-tools
 event_name: ''
 ---
 

@@ -21,9 +21,9 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+canonical_article_id: 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Anthropic appears to be preparing a more commercialized path for Claude Mythos, 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
+**Canonical:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]]
 <!-- graph:end -->

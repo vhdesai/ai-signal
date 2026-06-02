@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-business-insider-reported-from-omaha-on-berkshire-hathaway-s
-embedding_id: null
+embedding_id: 2026-05-03-berkshire-s-first-big-bash-without-buffett-complete-with-a-d
 event_name: ''
 ---
 

@@ -20,8 +20,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
+- 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
+- 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
+embedding_id: 2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced
 event_name: ''
 ---
 
@@ -33,4 +36,5 @@ film featured at the 2026 Cannes Film Festival was produced for $500,000, with 8
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]]
 <!-- graph:end -->

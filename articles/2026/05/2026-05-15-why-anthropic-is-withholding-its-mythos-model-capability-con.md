@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-embedding_id: null
+embedding_id: 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 event_name: ''
 ---
 

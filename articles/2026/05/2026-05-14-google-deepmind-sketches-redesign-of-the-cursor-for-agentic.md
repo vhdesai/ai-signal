@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
-- 2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface
-embedding_id: null
+- 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
+embedding_id: 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ DeepMind published a research note proposing a redesign of the desktop cursor pr
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu]] · [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface]]
+**Related:** [[2026-05-14-google-deepmind-previews-ai-enabled-pointer-contextual-compu]] · [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]]
 <!-- graph:end -->

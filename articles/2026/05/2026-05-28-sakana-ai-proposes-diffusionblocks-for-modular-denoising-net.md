@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-embedding_id: null
+- 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
+embedding_id: 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Sakana AI proposed DiffusionBlocks, a block-wise training framework that convert
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
+**Related:** [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]]
 <!-- graph:end -->

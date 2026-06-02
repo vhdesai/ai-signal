@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
 - 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 - 2026-04-21-breaking-google-ships-gemini-2-5-ultra-with-2m-token-context
 - 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
-- 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-embedding_id: null
+embedding_id: 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Google DeepMind released Gemma 4 in four sizes (2B, 9B, 26B MoE, 72B) under Apac
 
 **Entities:** [[Google]] · [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-21-breaking-google-ships-gemini-2-5-ultra-with-2m-token-context]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
+**Related:** [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-21-breaking-google-ships-gemini-2-5-ultra-with-2m-token-context]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]]
 <!-- graph:end -->

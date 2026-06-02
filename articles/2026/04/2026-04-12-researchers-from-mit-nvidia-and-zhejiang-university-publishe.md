@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
+- 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
-embedding_id: null
+embedding_id: 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Researchers from MIT, Nvidia, and Zhejiang University published TriAttention, a 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f]]
+**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
 <!-- graph:end -->

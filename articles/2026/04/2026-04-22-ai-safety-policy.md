@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
-embedding_id: null
+embedding_id: 2026-04-22-ai-safety-policy
 event_name: ''
 ---
 

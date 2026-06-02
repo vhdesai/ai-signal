@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-04-10-industry-news
 - 2026-05-07-
-embedding_id: null
+embedding_id: 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 event_name: ''
 ---
 

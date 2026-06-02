@@ -24,11 +24,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
+- 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
+- 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 - 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+embedding_id: 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Salesforce AI Research published VoiceAgentRAG — a dual-agent memory router cu
 
 **Entities:** [[Amazon]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]]
 <!-- graph:end -->

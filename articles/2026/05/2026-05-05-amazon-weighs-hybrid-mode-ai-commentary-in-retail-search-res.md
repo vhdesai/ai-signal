@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-embedding_id: null
+embedding_id: 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 event_name: ''
 ---
 

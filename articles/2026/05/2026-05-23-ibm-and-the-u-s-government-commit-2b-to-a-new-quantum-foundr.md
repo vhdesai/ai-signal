@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com
 - 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-embedding_id: null
+embedding_id: 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ IBM and the U.S. government announced a $2 billion investment in a new quantum f
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]]
 <!-- graph:end -->

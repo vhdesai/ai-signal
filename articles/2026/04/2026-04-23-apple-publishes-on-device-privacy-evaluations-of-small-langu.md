@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+- 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 - 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
-- 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
-embedding_id: null
+embedding_id: 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Apple ML Research released evaluations showing its on-device foundation models m
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]]
+**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]]
 <!-- graph:end -->

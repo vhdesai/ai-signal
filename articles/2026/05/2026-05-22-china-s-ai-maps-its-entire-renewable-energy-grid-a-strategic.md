@@ -21,8 +21,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
+- 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
+- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
+- 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
+embedding_id: 2026-05-22-china-s-ai-maps-its-entire-renewable-energy-grid-a-strategic
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ Chinese AI systems have been used to produce a comprehensive, AI-generated map o
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]]
 <!-- graph:end -->

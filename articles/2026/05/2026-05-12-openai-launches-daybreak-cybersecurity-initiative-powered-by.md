@@ -21,15 +21,10 @@ themes:
 - policy-regulation
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
-- 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
-- 2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform
-- 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
+related_article_ids: []
+embedding_id: 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by
 event_name: ''
 ---
 
@@ -42,5 +37,5 @@ OpenAI introduced Daybreak, a cybersecurity-focused product line built on GPT-5.
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
+**Canonical:** [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]]
 <!-- graph:end -->

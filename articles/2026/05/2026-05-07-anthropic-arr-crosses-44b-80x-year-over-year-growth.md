@@ -25,7 +25,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-07-
 related_article_ids:
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
-embedding_id: null
+embedding_id: 2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth
 event_name: ''
 ---
 

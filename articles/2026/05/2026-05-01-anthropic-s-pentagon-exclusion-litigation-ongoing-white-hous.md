@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
 - 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
-embedding_id: null
+embedding_id: 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 event_name: ''
 ---
 

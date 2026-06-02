@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-embedding_id: null
+embedding_id: 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 event_name: ''
 ---
 

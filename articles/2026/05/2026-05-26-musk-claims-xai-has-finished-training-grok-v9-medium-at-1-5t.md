@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
+- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta
 - 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
-embedding_id: null
+embedding_id: 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Elon Musk posted that xAI has completed training on a 1.5-trillion parameter mod
 
 **Entities:** [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]]
+**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi
-embedding_id: null
+embedding_id: 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 event_name: ''
 ---
 

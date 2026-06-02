@@ -21,8 +21,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
+- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+embedding_id: 2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent
 event_name: ''
 ---
 
@@ -35,4 +39,5 @@ A reproducible, massively parallel simulator for training and evaluating agents 
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

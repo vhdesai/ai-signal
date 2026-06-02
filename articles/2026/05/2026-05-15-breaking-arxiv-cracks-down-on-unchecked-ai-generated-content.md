@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 - 2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa
+- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 - 2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work
 - 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
-- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
-embedding_id: null
+embedding_id: 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ arXiv, the preprint server where most AI research is published before peer revie
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]]
+**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]]
 <!-- graph:end -->

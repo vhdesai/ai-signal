@@ -22,11 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
+- 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-05-14-closing-arguments-begin-in-musk-v-openai
-embedding_id: null
+embedding_id: 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ OpenAI is now defending an accelerating set of consumer-safety and product-liabi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-14-closing-arguments-begin-in-musk-v-openai]]
+**Related:** [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
 <!-- graph:end -->

@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r
 - 2026-05-01-trendinghuawei-eyes-12b-ai-chip-revenue-as-deepseek-v4-drive
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-embedding_id: null
+embedding_id: 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
 event_name: ''
 ---
 

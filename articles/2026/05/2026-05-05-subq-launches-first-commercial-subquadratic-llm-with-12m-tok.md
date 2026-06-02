@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 - 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
+- 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
-- 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
-embedding_id: null
+embedding_id: 2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Startup Subquadratic launched SubQ 1M-Preview with $29M seed funding, claiming t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]]
+**Related:** [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]]
 <!-- graph:end -->

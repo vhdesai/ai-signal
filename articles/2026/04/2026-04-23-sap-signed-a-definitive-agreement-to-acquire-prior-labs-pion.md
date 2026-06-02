@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-1-model-releases-frontier-research
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
-embedding_id: null
+embedding_id: 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
 event_name: ''
 ---
 

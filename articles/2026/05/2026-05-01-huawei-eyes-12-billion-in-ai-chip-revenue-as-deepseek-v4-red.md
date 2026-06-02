@@ -26,7 +26,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 related_article_ids:
 - 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
-embedding_id: null
+embedding_id: 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
 event_name: ''
 ---
 

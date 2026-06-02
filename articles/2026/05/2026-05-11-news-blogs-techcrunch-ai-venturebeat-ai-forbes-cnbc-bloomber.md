@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
 - 2026-05-17-sources-compiled-for-this-digest-the-indian-express-times-of
 - 2026-04-15-the-hacker-news-reuters-the-star-msn-forbes-venturebeat-cnbc
-embedding_id: null
+embedding_id: 2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber
 event_name: ''
 ---
 

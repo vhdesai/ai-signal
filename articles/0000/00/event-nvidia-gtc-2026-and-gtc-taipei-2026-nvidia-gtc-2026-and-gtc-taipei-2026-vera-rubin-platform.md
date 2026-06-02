@@ -28,11 +28,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
+- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
+- event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja
+embedding_id: event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
 event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 ---
 
 # NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform
 
 - The corpus describes Vera Rubin as NVIDIA's next-generation AI factory platform, with Rubin GPUs, Vera CPUs, NVLink 6, HBM4-class memory, and NVL72 rack-scale deployment. - Reported metrics include sharply higher FP4 inference throughput, improved performance per watt, and a claimed 10x reduction in inference cost per token versus Blackwell-era systems. - Hyperscaler demand is a recurring theme, with AWS, Azure, Google Cloud, and Oracle described as preparing or evaluating large-scale deployments.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[SAP]] · [[TSMC]] · [[xAI]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]]
+<!-- graph:end -->

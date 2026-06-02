@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-embedding_id: null
+embedding_id: 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 event_name: ''
 ---
 

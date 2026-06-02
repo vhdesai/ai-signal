@@ -18,14 +18,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-- 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
-- 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
+related_article_ids: []
+embedding_id: 2026-05-18-sandboxaq-brings-drug-discovery-models-to-claude-no-phd-requ
 event_name: ''
 ---
 
@@ -38,5 +34,5 @@ SandboxAQ, the quantum and AI spinout from Alphabet, announced integration of it
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]]
+**Canonical:** [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]]
 <!-- graph:end -->

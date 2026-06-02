@@ -18,8 +18,13 @@ themes: []
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+- 2026-05-26-ai-may-make-work-more-productive-but-less-social
+- 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
+- 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
+embedding_id: 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ Business Insider's Aki Ito argues the AI revolution will not only shrink workfor
 <!-- graph:start -->
 ## Connections
 
+**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-26-ai-may-make-work-more-productive-but-less-social]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
 - 2026-05-20-openai-model-disproves-discrete-geometry-conjecture
-embedding_id: null
+embedding_id: 2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom
 event_name: ''
 ---
 

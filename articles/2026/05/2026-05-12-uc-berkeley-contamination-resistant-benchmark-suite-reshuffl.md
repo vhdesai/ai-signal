@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
 - 2026-04-15-research-breakthroughs
 - 2026-05-16-cmu-first-benchmark-for-ai-autonomous-browser-exploitation-v
-embedding_id: null
+embedding_id: 2026-05-12-uc-berkeley-contamination-resistant-benchmark-suite-reshuffl
 event_name: ''
 ---
 

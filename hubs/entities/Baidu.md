@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 28
+member_count: 29
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 28 connected article(s).
+> Auto-generated entity hub. 29 connected article(s).
 
 - `2026-05-27` [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe|Tencent Cloud Begins Paid Commercial Services for Hy3 Preview and DeepSeek-V4-Pro]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
@@ -36,3 +36,4 @@ member_count: 28
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to wha…]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-04-01` [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed|Amazon CEO Andy Jassy's annual shareholder letter disclosed that AWS has reached a $15 billion annualized revenue run rate from AI services, driven by Bedroc…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

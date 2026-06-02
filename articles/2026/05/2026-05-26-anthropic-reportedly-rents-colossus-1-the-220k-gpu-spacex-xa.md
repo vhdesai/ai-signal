@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 - 2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
 event_name: ''
 ---
 

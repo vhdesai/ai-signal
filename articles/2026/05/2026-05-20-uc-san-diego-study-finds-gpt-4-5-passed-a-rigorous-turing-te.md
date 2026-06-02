@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test
+- 2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-embedding_id: null
+embedding_id: 2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ UC San Diego Today reported on a PNAS study finding that GPT-4.5 was judged huma
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
+**Related:** [[2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test]] · [[2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
 <!-- graph:end -->

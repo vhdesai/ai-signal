@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-embedding_id: null
+embedding_id: 2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg
 event_name: ''
 ---
 

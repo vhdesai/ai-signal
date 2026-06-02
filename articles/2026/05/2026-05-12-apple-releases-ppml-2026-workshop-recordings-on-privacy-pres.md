@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
+- 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+embedding_id: 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ European technology media picked up Apple's published recordings and 24-paper re
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
 <!-- graph:end -->

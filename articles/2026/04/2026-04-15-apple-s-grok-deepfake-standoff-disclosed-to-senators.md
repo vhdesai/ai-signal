@@ -24,12 +24,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
+- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
-- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-- 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
-embedding_id: null
+- 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
+embedding_id: 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ A letter from Apple to U.S. senators revealed Apple privately threatened to pull
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Meta]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]]
+**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]]
 <!-- graph:end -->

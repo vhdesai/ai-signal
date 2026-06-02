@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2
 - 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 - 2026-05-22-anthropic-gates-foundation-deploy-200m-for-ai-for-good-initi
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
 event_name: ''
 ---
 

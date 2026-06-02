@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
+- 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 - 2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth
-- 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
-embedding_id: null
+embedding_id: 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Anthropic has committed approximately $200 billion in cloud spend with Google ov
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
+**Related:** [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]]
 <!-- graph:end -->

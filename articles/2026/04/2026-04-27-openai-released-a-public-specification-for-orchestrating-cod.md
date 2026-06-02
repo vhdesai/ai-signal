@@ -26,10 +26,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
 - 2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring
-- 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
-embedding_id: null
+embedding_id: 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ OpenAI released a public specification for orchestrating coding agents (Symphony
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]]
+**Related:** [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]]
 <!-- graph:end -->

@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
+- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+embedding_id: 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ OSCAR is an attention-aware 2-bit KV-cache quantization system designed to make 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
 <!-- graph:end -->

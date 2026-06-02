@@ -25,12 +25,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
+- 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 - 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
-- 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-embedding_id: null
+embedding_id: 2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Anthropic accidentally exposed Claude Code's full source code — including syst
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
+**Related:** [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]]
 <!-- graph:end -->

@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
+- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
-embedding_id: null
+embedding_id: 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
 event_name: ''
 ---
 
@@ -46,5 +46,5 @@ Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultaneously 
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[OpenAI]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
+**Related:** [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]]
 <!-- graph:end -->

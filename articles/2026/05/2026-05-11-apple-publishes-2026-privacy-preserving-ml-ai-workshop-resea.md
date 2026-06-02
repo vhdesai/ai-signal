@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
-embedding_id: null
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+embedding_id: 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Apple's Machine Learning Research blog published four featured talks and a resea
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]]
+**Related:** [[2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]]
 <!-- graph:end -->

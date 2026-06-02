@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-04-11-academic-research
-- 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-embedding_id: null
+embedding_id: 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ CIO Dive highlighted that frontier AI models are surfacing security vulnerabilit
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-04-11-academic-research]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-04-11-academic-research]]
 <!-- graph:end -->

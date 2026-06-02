@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
-embedding_id: null
+embedding_id: 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 event_name: ''
 ---
 

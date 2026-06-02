@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 10
+member_count: 12
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 10 connected article(s).
+> Auto-generated entity hub. 12 connected article(s).
 
 - `2026-05-26` [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo|Anthropic names KiYoung Choi as Korea Representative Director, prepares Seoul office]]
 - `2026-05-26` [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b|After launching ChatGPT ads earlier this year with marquee brands (Adobe, Ford, Target), OpenAI is now courting small local businesses — car washes, dry clea…]]
 - `2026-05-25` [[2026-05-25-adobe-canva-and-capcut-integrate-gemini-directly-inside-the|Adobe, Canva, and CapCut integrate Gemini directly inside the Gemini app]]
+- `2026-05-19` [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp|Google I/O 2026: Gemini as the Agentic Platform — Strategic Implications]]
+- `2026-05-19` [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview|Google I/O 2026: Gemini as the Agentic Platform — Overview]]
 - `2026-05-12` [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric|ServiceNow, Salesforce, HubSpot Shift to Outcome-Based AI Pricing]]
 - `2026-05-06` [[2026-05-06-|✨]]
 - `2026-04-28` [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a|Anthropic Releases Claude Connectors for Adobe, Blender, and Autodesk Fusion New]]

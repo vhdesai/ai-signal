@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
-embedding_id: null
+embedding_id: 2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding
 event_name: ''
 ---
 

@@ -26,11 +26,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
+- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-- 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Both Anthropic and OpenAI published updated frontier safety commitments this wee
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]]
+**Related:** [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
 <!-- graph:end -->

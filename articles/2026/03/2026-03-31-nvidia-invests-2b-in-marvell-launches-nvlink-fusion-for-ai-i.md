@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
-embedding_id: null
+embedding_id: 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Nvidia announced a $2B strategic investment in Marvell Technology with a NVLink 
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]]
+**Related:** [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

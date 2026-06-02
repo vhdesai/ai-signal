@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
 event_name: Apple WWDC 2026 Preview
 ---
 
 # Apple WWDC 2026 Preview: App Store and agent policy
 
 - A 9to5Mac/The Information item in the corpus says Apple is designing a system for AI agents to interoperate with App Store apps while maintaining privacy, security, and revenue rules. - This is a key platform question: whether agents can act through apps without bypassing app distribution and payment economics.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
+**Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]]
+<!-- graph:end -->

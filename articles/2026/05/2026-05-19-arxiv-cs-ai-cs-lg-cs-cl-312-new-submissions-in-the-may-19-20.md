@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
+- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+embedding_id: 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ arXiv logged over 312 new cs.AI submissions on May 20 alone, reflecting the typi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
 <!-- graph:end -->

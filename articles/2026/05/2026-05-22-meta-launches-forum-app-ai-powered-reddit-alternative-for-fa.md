@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
+- 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
-- 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
-- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
-embedding_id: null
+embedding_id: 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Meta released Forum on iOS — a standalone Reddit-like app for Facebook Groups 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]]
+**Related:** [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]]
 <!-- graph:end -->

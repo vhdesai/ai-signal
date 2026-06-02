@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
+- 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
 - 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
-- 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-embedding_id: null
+embedding_id: 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Meta agreed to a multi-year, multi-billion-dollar deal to run inference workload
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]]
 <!-- graph:end -->

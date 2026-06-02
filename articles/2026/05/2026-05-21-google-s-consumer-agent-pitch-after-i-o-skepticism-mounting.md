@@ -19,8 +19,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
+embedding_id: 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 event_name: ''
 ---
 
@@ -33,4 +36,5 @@ TechCrunch dissects Google's I/O introduction of "information agents" and "Gemin
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]]
 <!-- graph:end -->

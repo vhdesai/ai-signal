@@ -18,7 +18,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-02-hotanthropic-releases-claude-opus-4-7-with-improved-software
 event_name: ''
 ---
 

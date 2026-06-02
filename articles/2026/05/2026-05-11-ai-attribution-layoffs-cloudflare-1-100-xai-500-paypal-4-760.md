@@ -21,8 +21,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
+- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
+- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
+- 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
+embedding_id: 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
 event_name: ''
 ---
 
@@ -35,4 +39,5 @@ Cloudflare (~1,100 roles), xAI (~500), and PayPal (~4,760) disclosed layoffs in 
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]]
 <!-- graph:end -->

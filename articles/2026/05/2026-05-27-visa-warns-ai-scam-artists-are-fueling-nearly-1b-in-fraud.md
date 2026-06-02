@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-04-14-source-tech-insider-updated-april-2026
 - 2026-05-28-visa-invests-in-replit-to-power-agentic-payments
-embedding_id: null
+embedding_id: 2026-05-27-visa-warns-ai-scam-artists-are-fueling-nearly-1b-in-fraud
 event_name: ''
 ---
 
@@ -35,5 +34,5 @@ Visa warned that AI scam artists are helping fuel nearly $1 billion in scams. Th
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-05-28-visa-invests-in-replit-to-power-agentic-payments]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-28-visa-invests-in-replit-to-power-agentic-payments]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
-embedding_id: null
+embedding_id: 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
 - 2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips
 - 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
-embedding_id: null
+embedding_id: 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
 event_name: ''
 ---
 

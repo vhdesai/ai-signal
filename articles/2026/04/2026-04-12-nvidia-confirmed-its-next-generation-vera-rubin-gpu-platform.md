@@ -24,12 +24,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-- 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
-embedding_id: null
+- event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
+- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
+embedding_id: 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ Nvidia confirmed its next-generation Vera Rubin GPU platform has entered mass pr
 
 **Entities:** [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]]
+**Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]]
 <!-- graph:end -->

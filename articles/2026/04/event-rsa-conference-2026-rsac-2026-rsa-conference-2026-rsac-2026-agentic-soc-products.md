@@ -21,11 +21,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
+embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 
 # RSA Conference 2026 / RSAC 2026: Agentic SOC products
 
 - Pondurance launched Kanati, described in corpus as an agentic AI SOC with faster threat response and fewer false positives. - This shows how vendors are using agents defensively while warning customers about agent misuse.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]]
+<!-- graph:end -->

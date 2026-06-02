@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 - 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-flexes-pricing-power-as-customers-willingly-eat-th
 event_name: ''
 ---
 

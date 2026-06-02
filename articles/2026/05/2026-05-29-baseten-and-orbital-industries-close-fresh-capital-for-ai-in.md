@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-embedding_id: null
+- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
+- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
+- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+embedding_id: 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 event_name: ''
 ---
 
@@ -35,5 +36,5 @@ Baseten is reportedly in talks to raise at an $11 billion valuation, while Orbit
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
+**Related:** [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

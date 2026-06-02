@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber
 - 2026-05-17-sources-compiled-for-this-digest-the-indian-express-times-of
 - 2026-05-17-sources-the-next-web-techrepublic-bloomberg-wall-street-jour
-embedding_id: null
+embedding_id: 2026-05-22-sources-the-information-cnbc-reuters-semafor-forbes-bloomber
 event_name: ''
 ---
 

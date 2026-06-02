@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-embedding_id: null
+embedding_id: 2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ At Google Cloud Next in Las Vegas, Google announced its eighth-generation TPU fa
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]]
 <!-- graph:end -->

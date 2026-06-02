@@ -25,12 +25,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 - 2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
-- 2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a
-embedding_id: null
+embedding_id: 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ DOD framing — "an architecture that prevents AI vendor lock-in and ensures lon
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[SAP]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]]
+**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]]
 <!-- graph:end -->

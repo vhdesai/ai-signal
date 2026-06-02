@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-02-ai-safety-security-policy
 - 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
 - 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
-- 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
-embedding_id: null
+- 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
+embedding_id: 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ A data breach exposed 4 terabytes of voice samples from 40,000 AI training contr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-04-02-ai-safety-security-policy]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]] · [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]]
+**Related:** [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-04-02-ai-safety-security-policy]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]] · [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]]
 <!-- graph:end -->

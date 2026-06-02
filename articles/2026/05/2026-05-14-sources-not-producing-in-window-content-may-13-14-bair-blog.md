@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 - 2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d
 - 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
-embedding_id: null
+embedding_id: 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
 event_name: ''
 ---
 

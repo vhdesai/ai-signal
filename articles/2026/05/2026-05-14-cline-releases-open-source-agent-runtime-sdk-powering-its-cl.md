@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
+- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+- 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
+- 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
+- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+embedding_id: 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ Cline, the open-source VS Code AI coding assistant with over 2M installs, has ex
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

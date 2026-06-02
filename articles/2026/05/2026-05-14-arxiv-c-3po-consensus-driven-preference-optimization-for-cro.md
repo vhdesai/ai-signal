@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th
+- 2026-05-20-ai-alignment-via-debate-fresh-empirical-results
+- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
+- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+embedding_id: 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ C-3PO proposes a preference optimization framework that addresses cultural incon
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-20-ai-alignment-via-debate-fresh-empirical-results]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

@@ -24,9 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-04-14-source-tech-insider-updated-april-2026
-- 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
-embedding_id: null
+- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+embedding_id: 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
 event_name: ''
 ---
 
@@ -39,5 +38,5 @@ Five major publishers and author Scott Turow filed suit against Meta and CEO Mar
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]]
+**Related:** [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
 <!-- graph:end -->

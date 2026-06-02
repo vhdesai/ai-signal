@@ -26,9 +26,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what
 - 2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans
+- 2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-- 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
-embedding_id: null
+- 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
+embedding_id: 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 event_name: ''
 ---
 
@@ -41,5 +42,5 @@ Meta is launching paid subscriptions for its AI chatbot across Facebook, Instagr
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]]
+**Related:** [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans]] · [[2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]]
 <!-- graph:end -->

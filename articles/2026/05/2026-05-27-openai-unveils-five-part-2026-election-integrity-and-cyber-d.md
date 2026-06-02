@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation
+- 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
+- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
+- 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
+- 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
+embedding_id: 2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ OpenAI announced a five-part program ahead of US and global 2026 elections: reli
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]]
 <!-- graph:end -->

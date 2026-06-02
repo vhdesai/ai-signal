@@ -19,10 +19,10 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Anthropic shipped two enterprise-grade features for Claude Managed Agents: MCP t
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]]
 <!-- graph:end -->

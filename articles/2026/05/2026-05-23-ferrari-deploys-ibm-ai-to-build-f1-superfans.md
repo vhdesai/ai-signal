@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex
 - 2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience
+- 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
 - 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
-- 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
-embedding_id: null
+embedding_id: 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Ferrari is using IBM's AI tooling to create personalized fan experiences around 
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex]] · [[2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ]]
+**Related:** [[2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex]] · [[2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience]] · [[2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]]
 <!-- graph:end -->

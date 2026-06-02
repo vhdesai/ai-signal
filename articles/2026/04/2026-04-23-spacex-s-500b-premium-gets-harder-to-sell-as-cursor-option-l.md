@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
 - 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
-- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
-embedding_id: null
+- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
+embedding_id: 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ PitchBook’s Franco Granda argues SpaceX’s rumored $2T IPO target implies a ~
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
+**Related:** [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
 <!-- graph:end -->

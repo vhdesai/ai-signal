@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 67
+member_count: 71
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 67 connected article(s).
+> Auto-generated entity hub. 71 connected article(s).
 
+- `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
+- `2026-05-30` [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031|### Huawei Outlines Post-Moore "Tau Scaling Law" and 1.4nm-by-2031 Chip Roadmap]]
 - `2026-05-27` [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies|Huawei vs. Alibaba T-Head: China's AI Chip Race Intensifies]]
 - `2026-05-26` [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade|WSJ Pro Cybersecurity reports that enterprise security leaders are preparing for a markedly looser AI-oversight regime in the U.S., with fewer pre-deployment…]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
@@ -75,3 +78,4 @@ member_count: 67
 - `2026-04-10` [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse|Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks.]]
 - `2026-04-06` [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants|Axios reported that Meta is developing open-source variants of its next generation of frontier AI models, internally codenamed Avocado and Mango.]]
 - `2026-04-02` [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l|DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milesto…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

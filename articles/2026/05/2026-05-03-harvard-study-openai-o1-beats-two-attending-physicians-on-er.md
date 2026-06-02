@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
+- 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
+- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
+- 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
+embedding_id: 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ A new study from Harvard Medical School and Beth Israel Deaconess, published in 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32]]
 <!-- graph:end -->

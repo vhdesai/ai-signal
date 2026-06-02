@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 - 2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-embedding_id: null
+embedding_id: 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 event_name: ''
 ---
 

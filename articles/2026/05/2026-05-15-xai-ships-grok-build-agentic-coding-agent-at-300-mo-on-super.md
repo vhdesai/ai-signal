@@ -19,10 +19,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ xAI launched Grok Build in beta — its first dedicated agentic coding product �
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

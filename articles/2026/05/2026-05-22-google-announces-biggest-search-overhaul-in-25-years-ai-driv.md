@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
+- 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 - 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
 - 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
-- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-05-20-google-fights-manipulation-of-ai-search-results
-embedding_id: null
+- event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
+embedding_id: 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Google confirmed this week the most significant redesign of its search product s
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]]
+**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]]
 <!-- graph:end -->

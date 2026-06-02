@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-embedding_id: null
+embedding_id: 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
-embedding_id: null
+embedding_id: 2026-04-16-v4-pro-is-a-2t-parameter-moe-49b-active-with-a-1m-context-gp
 event_name: ''
 ---
 

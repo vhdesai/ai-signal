@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
 - 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
-embedding_id: null
+embedding_id: 2026-05-26-hot-xai-counsel-warns-staff-to-limit-cursor-contacts-amid-po
 event_name: ''
 ---
 

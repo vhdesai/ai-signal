@@ -28,8 +28,7 @@ related_article_ids:
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 - 2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
-embedding_id: null
+embedding_id: 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 event_name: ''
 ---
 
@@ -42,5 +41,5 @@ Salesforce put Agentforce front and center in its enterprise messaging, while Sn
 
 **Entities:** [[Amazon]] · [[Google]] · [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]]
+**Related:** [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents]]
 <!-- graph:end -->

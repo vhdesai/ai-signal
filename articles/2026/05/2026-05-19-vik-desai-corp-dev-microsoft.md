@@ -27,10 +27,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
+- 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-- 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
-embedding_id: null
+embedding_id: 2026-05-19-vik-desai-corp-dev-microsoft
 event_name: ''
 ---
 
@@ -43,5 +42,5 @@ Today is one of the year's most consequential AI days: Google's I/O 2026 keynote
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]]
+**Related:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]]
 <!-- graph:end -->

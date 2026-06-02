@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
+- 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
-- 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
-embedding_id: null
+embedding_id: 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Cerebras Systems closed its IPO at $311.07 — up 68% from the $185 offer price 
 
 **Entities:** [[Cerebras]] · [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo]]
+**Related:** [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]]
 <!-- graph:end -->

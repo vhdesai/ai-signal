@@ -21,8 +21,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
+- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
+- 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
+embedding_id: 2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d
 event_name: ''
 ---
 
@@ -35,4 +38,5 @@ Microsoft launched the Surface Pro for Business 13-inch ($1,949) and Surface Lap
 
 **Entities:** [[Intel]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
+**Related:** [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]]
 <!-- graph:end -->

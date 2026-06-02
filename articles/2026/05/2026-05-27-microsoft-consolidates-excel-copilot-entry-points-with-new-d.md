@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
+- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
-- 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
-embedding_id: null
+embedding_id: 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Microsoft's May 2026 Excel update consolidates Copilot entry points down to two 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]]
+**Related:** [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]]
 <!-- graph:end -->

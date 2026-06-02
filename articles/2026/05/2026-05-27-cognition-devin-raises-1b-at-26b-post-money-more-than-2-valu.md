@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu
 event_name: ''
 ---
 

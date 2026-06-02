@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
+- 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-04-15-research-breakthroughs
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-embedding_id: null
+embedding_id: 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Researchers from UC Berkeley's Center for AI Safety co-authored a widely-cited s
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
+**Related:** [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-15-research-breakthroughs]]
 <!-- graph:end -->

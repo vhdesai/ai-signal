@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-embedding_id: null
+embedding_id: 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 event_name: ''
 ---
 

@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
+- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
+- 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
+- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+embedding_id: 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ This paper identifies "history anchoring" as a novel LLM safety failure mode: wh
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Related:** [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
 <!-- graph:end -->

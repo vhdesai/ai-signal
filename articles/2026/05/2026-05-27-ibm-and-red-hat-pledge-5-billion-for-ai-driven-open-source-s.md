@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
+- 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
+- 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
-- 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-embedding_id: null
+embedding_id: 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ IBM and Red Hat committed $5 billion over five years to an AI-driven open-source
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
+**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]]
 <!-- graph:end -->

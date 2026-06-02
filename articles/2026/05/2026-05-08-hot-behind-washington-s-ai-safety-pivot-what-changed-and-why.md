@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
-embedding_id: null
+embedding_id: 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 event_name: ''
 ---
 

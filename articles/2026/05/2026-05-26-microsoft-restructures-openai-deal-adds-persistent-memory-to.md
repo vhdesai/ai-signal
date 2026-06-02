@@ -20,8 +20,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
+- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
+- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
+embedding_id: 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 event_name: ''
 ---
 
@@ -34,4 +37,5 @@ Microsoft's clarified terms terminate one direction of revenue share, extend the
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
 <!-- graph:end -->

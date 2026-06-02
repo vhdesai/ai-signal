@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
+- 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
+- 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
+- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+embedding_id: 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ IBM's Red Hat division launched two enterprise AI infrastructure products: the R
 
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
 <!-- graph:end -->

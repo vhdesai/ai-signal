@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl
+- 2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed
+- 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
 - 2026-04-02-research-breakthroughs
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-embedding_id: null
+embedding_id: 2026-05-26-carnegie-mellon-unveils-polypulse-an-ai-radar-platform-for-c
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ CMU researchers unveiled PolyPulse, a millimeter-wave radar platform — the sam
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl]] · [[2026-04-02-research-breakthroughs]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-05-26-trending-cmu-polypulse-contactless-mmwave-radar-ai-tracks-bl]] · [[2026-05-14-cmu-ece-honors-geeps-with-test-of-time-award-the-distributed]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-04-02-research-breakthroughs]]
 <!-- graph:end -->

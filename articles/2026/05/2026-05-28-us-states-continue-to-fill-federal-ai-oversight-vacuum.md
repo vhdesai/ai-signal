@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
-embedding_id: null
+embedding_id: 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 event_name: ''
 ---
 

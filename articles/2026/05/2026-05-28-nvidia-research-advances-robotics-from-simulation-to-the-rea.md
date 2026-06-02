@@ -22,7 +22,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 related_article_ids:
 - 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
-embedding_id: null
+embedding_id: 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
 event_name: ''
 ---
 

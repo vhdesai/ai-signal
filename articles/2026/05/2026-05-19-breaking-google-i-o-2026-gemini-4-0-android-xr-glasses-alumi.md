@@ -23,8 +23,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
+- 2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass
+- 2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a
+- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
+- event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
+embedding_id: 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 event_name: ''
 ---
 
@@ -37,4 +42,5 @@ Google's I/O 2026 keynote kicked off on the morning of May 19 at Shoreline Amphi
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[Samsung]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]] · [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass]] · [[2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a]] · [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware]]
 <!-- graph:end -->

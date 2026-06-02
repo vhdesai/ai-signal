@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
+- 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-embedding_id: null
+- 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
+embedding_id: 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Researchers tested GPT-5, Gemini 2.5, and Claude 4.5 on which occupations face t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]]
 <!-- graph:end -->

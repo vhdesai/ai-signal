@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
-embedding_id: null
+embedding_id: 2026-04-22-industry-news-deals
 event_name: ''
 ---
 

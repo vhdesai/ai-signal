@@ -23,13 +23,21 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 related_article_ids: []
-embedding_id: null
+embedding_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 event_name: 'Google I/O 2026: Gemini as the Agentic Platform'
 ---
 
 # Google I/O 2026: Gemini as the Agentic Platform — Strategic Implications
 
 - **Google is turning Gemini into an operating layer:** The product spread suggests Google wants Gemini to mediate search, productivity, mobile, browser, cloud, media, and hardware interactions. - **Search monetization and behavior are being rewritten:** Agentic shopping, booking, and AI Overviews threaten the old link-list/search-ad model while opening new transaction surfaces. - **Developer lock-in is a priority:** Android Studio, Code Assist, Jules, Gemini CLI, Firebase/Colab integrations, and Vertex AI pull developers toward the Google stack. - **Spatial AI becomes a platform fight:** Android XR and smart glasses put Google back into interface hardware at the same time Apple and Meta are competing for AR/VR talent and usage. - **Gemini is both consumer product and enterprise platform:** I/O and Cloud coverage together show Google using the same model family for personal assistants, cloud agents, coding, operations, and industry solutions.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Adobe]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
+**Topics:** [[Corporate Moves]]
+**Canonical:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]]
+<!-- graph:end -->

@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
+- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
+- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
+embedding_id: 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ Weinberger's keynote argued that next-generation LLMs must incorporate global-re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
 <!-- graph:end -->

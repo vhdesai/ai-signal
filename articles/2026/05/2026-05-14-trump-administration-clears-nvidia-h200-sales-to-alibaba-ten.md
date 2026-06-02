@@ -28,8 +28,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe
+- 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
+- 2026-05-14-us-clears-nvidia-h200-sales-to-10-chinese-firms-including-al
+- 2026-05-14-u-s-clears-nvidia-h200-chip-sales-to-10-chinese-firms-no-del
+- 2026-05-14-u-s-clears-10-chinese-firms-including-alibaba-tencent-byteda
+embedding_id: 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 event_name: ''
 ---
 
@@ -42,4 +47,5 @@ The Trump administration approved Nvidia H200 GPU exports to 10 Chinese firms in
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-05-14-us-clears-nvidia-h200-sales-to-10-chinese-firms-including-al]] · [[2026-05-14-u-s-clears-nvidia-h200-chip-sales-to-10-chinese-firms-no-del]] · [[2026-05-14-u-s-clears-10-chinese-firms-including-alibaba-tencent-byteda]]
 <!-- graph:end -->

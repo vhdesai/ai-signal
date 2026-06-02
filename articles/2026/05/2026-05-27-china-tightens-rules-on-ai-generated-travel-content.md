@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-31-china-restricts-travel-for-top-ai-researchers
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
-embedding_id: null
+- 2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba
+embedding_id: 2026-05-27-china-tightens-rules-on-ai-generated-travel-content
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Chinese regulators issued new rules requiring travel platforms and content sites
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory]]
+**Related:** [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-27-china-restricts-foreign-travel-for-top-ai-experts-at-alibaba]]
 <!-- graph:end -->

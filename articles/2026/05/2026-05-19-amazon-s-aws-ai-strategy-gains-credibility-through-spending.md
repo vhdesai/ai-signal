@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-05-19-amazon-s-ai-race-and-the-reshaping-of-wealth-management
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-embedding_id: null
+embedding_id: 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 event_name: ''
 ---
 

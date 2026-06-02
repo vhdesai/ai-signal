@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an
+- 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
+- 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
+- 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
+embedding_id: 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ Beyond the model architecture itself, Google launched a consumer-facing creation
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-19-google-deepmind-unveils-gemini-omni-a-natively-multimodal-an]] · [[2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe]] · [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]]
 <!-- graph:end -->

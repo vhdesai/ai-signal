@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo
-embedding_id: null
+embedding_id: 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
 event_name: ''
 ---
 

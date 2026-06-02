@@ -27,9 +27,9 @@ related_article_ids:
 - 2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
+- 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-- 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-embedding_id: null
+embedding_id: 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ Elon Musk's xAI has launched Grok Build, its first dedicated AI coding agent des
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
+**Related:** [[2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]]
 <!-- graph:end -->

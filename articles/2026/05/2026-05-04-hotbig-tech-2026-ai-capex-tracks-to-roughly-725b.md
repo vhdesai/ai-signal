@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-embedding_id: null
+embedding_id: 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 event_name: ''
 ---
 

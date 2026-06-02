@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
 - 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
+- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
+- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
-- 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-- 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
-embedding_id: null
+embedding_id: 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Mistral AI closed $830M in debt from a seven-bank European consortium (no U.S. b
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]]
+**Related:** [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]]
 <!-- graph:end -->

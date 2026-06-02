@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running
-embedding_id: null
+embedding_id: 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 event_name: ''
 ---
 

@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
+- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
+- 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
+embedding_id: 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Salesforce, Snowflake, and Asana all report Q1 earnings this week, providing fre
 
 **Entities:** [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]]
 <!-- graph:end -->

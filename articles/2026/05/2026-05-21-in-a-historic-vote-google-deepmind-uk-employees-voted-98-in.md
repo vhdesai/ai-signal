@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
-- 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
-embedding_id: null
+- 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
+embedding_id: 2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ In a historic vote, Google DeepMind UK employees voted 98% in favor of unionizat
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]] · [[2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g]]
+**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]] · [[2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military]]
 <!-- graph:end -->

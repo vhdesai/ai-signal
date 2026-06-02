@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 event_name: ''
 ---
 

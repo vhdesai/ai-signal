@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-embedding_id: null
+embedding_id: 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
 event_name: ''
 ---
 

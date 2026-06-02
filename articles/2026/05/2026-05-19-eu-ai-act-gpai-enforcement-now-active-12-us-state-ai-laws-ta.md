@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 event_name: ''
 ---
 

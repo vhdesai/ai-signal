@@ -23,11 +23,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-embedding_id: null
+- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+embedding_id: 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 event_name: ''
 ---
 
@@ -40,5 +41,5 @@ Huawei revealed a new engineering approach it calls "LogicFolding" to manufactur
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
+**Related:** [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

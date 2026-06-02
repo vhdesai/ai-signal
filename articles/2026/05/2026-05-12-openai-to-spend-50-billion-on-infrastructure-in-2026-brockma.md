@@ -24,7 +24,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma
 event_name: ''
 ---
 

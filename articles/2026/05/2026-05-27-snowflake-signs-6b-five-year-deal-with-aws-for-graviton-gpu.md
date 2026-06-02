@@ -22,8 +22,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
+- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
+- 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
+embedding_id: 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 event_name: ''
 ---
 
@@ -36,4 +40,5 @@ Snowflake committed $6B in multi-year spend on AWS — its largest infrastructur
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
 - 2026-04-22-ai-safety-policy
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-embedding_id: null
+embedding_id: 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 event_name: ''
 ---
 

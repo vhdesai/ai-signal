@@ -22,8 +22,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
+- 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
+- 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
+- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
+- 2026-05-07-new-perplexity-personal-computer-now-generally-available-for
+embedding_id: 2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ AIbase reports that Tencent launched Marvis, an AI assistant operating at the OS
 
 **Entities:** [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
+- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
+- 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-- 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
-- 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
-embedding_id: null
+embedding_id: 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Figure AI live-streamed its humanoid robots performing package-sorting tasks; th
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
+**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]]
 <!-- graph:end -->

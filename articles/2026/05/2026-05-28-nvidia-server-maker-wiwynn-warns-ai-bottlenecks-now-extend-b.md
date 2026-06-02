@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
-embedding_id: null
+embedding_id: 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 event_name: ''
 ---
 

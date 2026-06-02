@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-14-deepmind-reimagines-the-mouse-pointer-as-an-ai-interface
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor
 event_name: ''
 ---
 

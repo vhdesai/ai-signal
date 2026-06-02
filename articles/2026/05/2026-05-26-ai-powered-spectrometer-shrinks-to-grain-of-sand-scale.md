@@ -18,8 +18,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
+embedding_id: 2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale
 event_name: ''
 ---
 
@@ -31,4 +32,5 @@ UC Davis engineers unveiled a 0.4 mm² silicon spectrometer that replaces bulky 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]]
 <!-- graph:end -->

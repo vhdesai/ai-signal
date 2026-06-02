@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-
 - 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
-embedding_id: null
+embedding_id: 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 event_name: ''
 ---
 

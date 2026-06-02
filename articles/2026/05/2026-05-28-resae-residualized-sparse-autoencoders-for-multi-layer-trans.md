@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
+- 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
+- 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
+- 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
+- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
+embedding_id: 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
 event_name: ''
 ---
 
@@ -31,4 +36,5 @@ A residualized sparse-autoencoder approach for multi-layer interventions in tran
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
 <!-- graph:end -->

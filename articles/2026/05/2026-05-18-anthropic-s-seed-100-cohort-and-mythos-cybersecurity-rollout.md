@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
 event_name: ''
 ---
 

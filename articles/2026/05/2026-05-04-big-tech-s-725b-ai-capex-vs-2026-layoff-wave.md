@@ -19,10 +19,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Google, Amazon, Microsoft, and Meta now collectively guide to roughly $725B of 2
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
 <!-- graph:end -->

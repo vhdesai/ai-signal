@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-ai-recovers-11-year-old-bitcoin-wallet-worth-400k-via-3-5-tr
 event_name: ''
 ---
 

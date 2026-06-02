@@ -20,11 +20,23 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-icra-2026-icra-2026-nvidia-research-robotics-papers
+- event-icra-2026-icra-2026-overview
+- event-icra-2026-icra-2026-multi-task-policy-learning
+- event-icra-2026-icra-2026-strategic-implications
+embedding_id: event-icra-2026-icra-2026-dexterous-manipulation-and-perception
 event_name: ICRA 2026
 ---
 
 # ICRA 2026: Dexterous manipulation and perception
 
 - ICRA coverage highlights the need for better perception pipelines and manipulation policies that can handle real objects, variable lighting, and physical uncertainty. - These constraints make robotics a more difficult frontier than text-only or code-only agents.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[NVIDIA]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[event-icra-2026-icra-2026-overview]] · [[event-icra-2026-icra-2026-multi-task-policy-learning]] · [[event-icra-2026-icra-2026-strategic-implications]]
+<!-- graph:end -->

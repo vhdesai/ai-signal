@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-04-23-
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-- 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
-embedding_id: null
+embedding_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step rea
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-23-]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]]
+**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-23-]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
 <!-- graph:end -->

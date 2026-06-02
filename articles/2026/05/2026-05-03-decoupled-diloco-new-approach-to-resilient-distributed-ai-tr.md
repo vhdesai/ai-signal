@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
 - 2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d
-- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-- 2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t
-embedding_id: null
+embedding_id: 2026-05-03-decoupled-diloco-new-approach-to-resilient-distributed-ai-tr
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ DeepMind's Decoupled DiLoCo work — recently posted on the official DeepMind ne
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t]]
+**Related:** [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]]
 <!-- graph:end -->

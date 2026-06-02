@@ -25,10 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat
-embedding_id: null
+embedding_id: 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 event_name: ''
 ---
 
@@ -41,5 +40,5 @@ Coverage this week continued to digest the up-to-$50B Meta–NVIDIA compute arra
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]]
+**Related:** [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]]
 <!-- graph:end -->

@@ -18,7 +18,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on
 event_name: ''
 ---
 

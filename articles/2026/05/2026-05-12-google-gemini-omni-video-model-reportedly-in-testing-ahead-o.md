@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
-- 2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe
-embedding_id: null
+- event-google-i-o-2026-google-i-o-2026-gemini-model-family
+embedding_id: 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Leaked demonstrations show Google's upcoming Gemini Omni model letting users cre
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]] · [[2026-05-19-gemini-omni-google-s-unified-any-to-any-multimodal-model-goe]]
+**Related:** [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]] · [[event-google-i-o-2026-google-i-o-2026-gemini-model-family]]
 <!-- graph:end -->

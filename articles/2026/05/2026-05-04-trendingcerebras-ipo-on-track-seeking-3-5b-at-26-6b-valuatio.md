@@ -17,15 +17,10 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
-- 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
-- 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
-- 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
-- 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b
+related_article_ids: []
+embedding_id: 2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio
 event_name: ''
 ---
 
@@ -38,5 +33,5 @@ Cerebras Systems disclosed IPO terms seeking to raise up to $3.5 billion by sell
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation]] · [[2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp]]
+**Canonical:** [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]]
 <!-- graph:end -->

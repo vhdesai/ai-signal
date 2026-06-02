@@ -20,12 +20,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
+- 2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems
 - 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding
-- 2026-05-03-kimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding-challeng
-embedding_id: null
+embedding_id: 2026-04-20-trending-moonshot-releases-kimi-k2-6-with-300-agent-swarm-sc
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Moonshot AI released Kimi K2.6 on Hugging Face with long-horizon coding capabili
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding]] · [[2026-05-03-kimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding-challeng]]
+**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
 <!-- graph:end -->

@@ -21,11 +21,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
+- 2026-04-07-research-breakthroughs
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
+- 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+embedding_id: event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security
 event_name: RSA Conference 2026 / RSAC 2026
 ---
 
 # RSA Conference 2026 / RSAC 2026: Frontier model security
 
 - The corpus connects RSAC to Anthropic's Claude Mythos cybersecurity evaluations, including zero-day discovery and sandbox-escape concerns. - NVIDIA's NemoClaw and Anthropic's credential-isolation approaches are used as contrasting security architectures.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
+**Topics:** [[Model Breakthroughs]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[2026-04-07-research-breakthroughs]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
+<!-- graph:end -->

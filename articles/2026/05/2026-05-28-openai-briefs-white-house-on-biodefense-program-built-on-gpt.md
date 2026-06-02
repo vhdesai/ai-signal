@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program
 - 2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro
 - 2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen
+- 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
-- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-embedding_id: null
+embedding_id: 2026-05-28-openai-briefs-white-house-on-biodefense-program-built-on-gpt
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ OpenAI announced a biodefense program that uses its life-sciences model GPT-Rosa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program]] · [[2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro]] · [[2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen]] · [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
+**Related:** [[2026-05-28-openai-briefs-white-house-on-gpt-rosalind-biodefense-program]] · [[2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro]] · [[2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen]] · [[2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa]] · [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]]
 <!-- graph:end -->

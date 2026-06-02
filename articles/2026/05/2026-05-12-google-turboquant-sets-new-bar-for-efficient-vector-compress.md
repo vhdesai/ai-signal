@@ -23,7 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-google-releases-turboquant-for-efficient-vector-compression
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-12-google-turboquant-sets-new-bar-for-efficient-vector-compress
 event_name: ''
 ---
 

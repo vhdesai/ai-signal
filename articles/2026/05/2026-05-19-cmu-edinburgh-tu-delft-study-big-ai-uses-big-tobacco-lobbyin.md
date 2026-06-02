@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
-- 2026-04-11-academic-research
-- 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
-embedding_id: null
+- 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
+- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
+embedding_id: 2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Researchers from the University of Edinburgh, Trinity College Dublin, TU Delft, 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-04-11-academic-research]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]]
+**Related:** [[2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]]
 <!-- graph:end -->

@@ -19,15 +19,10 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
-- 2026-05-24-microsoft-research-releases-webwright-a-terminal-native-web
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
-- 2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
+related_article_ids: []
+embedding_id: 2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family
 event_name: ''
 ---
 
@@ -40,5 +35,5 @@ Microsoft Research published Fara1.5 — browser computer-use agents in 4B, 9B, 
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-05-24-microsoft-research-releases-webwright-a-terminal-native-web]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-24-microsoft-research-releases-webwright-terminal-native-web-ag]]
+**Canonical:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
 <!-- graph:end -->

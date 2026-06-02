@@ -23,9 +23,9 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
+canonical_article_id: 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Sundar Pichai and DeepMind's Demis Hassabis opened the I/O developer conference 
 
 **Entities:** [[Google]] · [[Meta]] · [[Samsung]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]]
+**Canonical:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]]
 <!-- graph:end -->

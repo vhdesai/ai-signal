@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-embedding_id: null
+embedding_id: 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 event_name: ''
 ---
 

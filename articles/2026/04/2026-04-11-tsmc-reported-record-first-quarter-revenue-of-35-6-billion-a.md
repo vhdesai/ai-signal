@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-embedding_id: null
+embedding_id: 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
 event_name: ''
 ---
 

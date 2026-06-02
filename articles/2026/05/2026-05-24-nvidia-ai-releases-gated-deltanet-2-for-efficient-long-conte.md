@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d
 - 2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou
-- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-embedding_id: null
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-05-26-nvidia-released-gated-deltanet-2-a-follow-up-to-its-efficien
+- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
+embedding_id: 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Nvidia Research published Gated DeltaNet-2, a linear-attention layer that decoup
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]] · [[2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]] · [[2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-26-nvidia-released-gated-deltanet-2-a-follow-up-to-its-efficien]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]]
 <!-- graph:end -->

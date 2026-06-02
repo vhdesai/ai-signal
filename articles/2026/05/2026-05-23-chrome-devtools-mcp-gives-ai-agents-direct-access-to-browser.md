@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-embedding_id: null
+embedding_id: 2026-05-23-chrome-devtools-mcp-gives-ai-agents-direct-access-to-browser
 event_name: ''
 ---
 

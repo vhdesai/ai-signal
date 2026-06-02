@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta
 event_name: ''
 ---
 

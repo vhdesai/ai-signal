@@ -20,8 +20,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
+- 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
+- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
+embedding_id: 2026-05-27-how-could-a-superhuman-ai-mathematician-come-about-trending
 event_name: ''
 ---
 
@@ -34,4 +37,5 @@ Princeton's Arora delivered a keynote on the trajectory toward superhuman AI mat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
 <!-- graph:end -->

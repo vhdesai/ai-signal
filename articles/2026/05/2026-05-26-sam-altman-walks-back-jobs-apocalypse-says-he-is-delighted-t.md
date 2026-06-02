@@ -20,11 +20,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
+- 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-embedding_id: null
+- 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
+embedding_id: 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ In a candid TIME interview, Sam Altman publicly steps back from his earlier proj
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
+**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]]
 <!-- graph:end -->

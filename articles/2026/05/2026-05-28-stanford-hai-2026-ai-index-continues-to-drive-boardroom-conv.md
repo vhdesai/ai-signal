@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
-embedding_id: null
+embedding_id: 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 event_name: ''
 ---
 

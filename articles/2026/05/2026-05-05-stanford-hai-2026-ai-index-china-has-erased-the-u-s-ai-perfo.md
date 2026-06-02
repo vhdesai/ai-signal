@@ -18,8 +18,12 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica
+- 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
+- 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
+- 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
+embedding_id: 2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo
 event_name: ''
 ---
 
@@ -31,4 +35,5 @@ The new Stanford HAI AI Index reports that on standard benchmarks Chinese fronti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Related:** [[2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]] · [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]]
 <!-- graph:end -->

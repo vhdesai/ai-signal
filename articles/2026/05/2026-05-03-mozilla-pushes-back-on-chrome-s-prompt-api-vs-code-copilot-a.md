@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
-embedding_id: null
+embedding_id: 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 event_name: ''
 ---
 

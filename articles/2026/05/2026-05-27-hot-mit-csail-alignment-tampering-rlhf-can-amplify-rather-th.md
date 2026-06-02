@@ -17,15 +17,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering
-- 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
+related_article_ids: []
+embedding_id: 2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th
 event_name: ''
 ---
 
@@ -37,5 +32,5 @@ The ICML-accepted paper examines a previously underappreciated failure mode of R
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]]
+**Canonical:** [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]]
 <!-- graph:end -->

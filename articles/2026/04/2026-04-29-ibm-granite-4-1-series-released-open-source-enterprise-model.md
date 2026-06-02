@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
-embedding_id: null
+embedding_id: 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 event_name: ''
 ---
 

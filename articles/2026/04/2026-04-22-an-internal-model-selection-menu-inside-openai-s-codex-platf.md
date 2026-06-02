@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-embedding_id: null
+embedding_id: 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 event_name: ''
 ---
 

@@ -23,11 +23,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
+- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
-- 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
-- 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
-embedding_id: null
+- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
+embedding_id: 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Nvidia CEO Jensen Huang publicly criticized industry leaders — singling out An
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]]
+**Related:** [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]]
 <!-- graph:end -->

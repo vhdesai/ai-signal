@@ -21,10 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
+- 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
+- 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
-- 2026-04-02-academic-research
-- 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
-embedding_id: null
+- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+embedding_id: 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ Meta will introduce an "Incognito" mode for Meta AI that disables chat history, 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-04-02-academic-research]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]]
+**Related:** [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]]
 <!-- graph:end -->

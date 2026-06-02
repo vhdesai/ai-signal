@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
+- 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
+- 2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und
+- 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
+- 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
+embedding_id: 2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i
 event_name: ''
 ---
 
@@ -34,4 +39,5 @@ A California jury unanimously sided with OpenAI and Sam Altman, rejecting Elon M
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]]
 <!-- graph:end -->

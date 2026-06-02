@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
+- 2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
-- 2026-04-13-ai-safety-policy
-embedding_id: null
+embedding_id: 2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense
 event_name: ''
 ---
 
@@ -37,5 +38,5 @@ Following the Anthropic-Mythos disclosure that triggered the ECB emergency meeti
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-04-13-ai-safety-policy]]
+**Related:** [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]] · [[2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]]
 <!-- graph:end -->

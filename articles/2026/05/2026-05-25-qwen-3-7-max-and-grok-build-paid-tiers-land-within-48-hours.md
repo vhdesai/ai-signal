@@ -25,10 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-- 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-embedding_id: null
+- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+- 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
+embedding_id: 2026-05-25-qwen-3-7-max-and-grok-build-paid-tiers-land-within-48-hours
 event_name: ''
 ---
 
@@ -41,5 +40,5 @@ Alibaba shipped Qwen 3.7 Max with new reasoning and tool-use modes, while xAI la
 
 **Entities:** [[Alibaba]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]]
+**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]]
 <!-- graph:end -->

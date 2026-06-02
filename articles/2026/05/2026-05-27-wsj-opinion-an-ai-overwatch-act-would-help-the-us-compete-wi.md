@@ -27,11 +27,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
-embedding_id: null
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
+embedding_id: 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
 event_name: ''
 ---
 
@@ -44,5 +44,5 @@ A WSJ opinion piece argues for an "AI Overwatch Act" — a legislative framework
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]]
+**Related:** [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

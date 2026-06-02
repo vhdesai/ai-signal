@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-09-products-tools
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
-embedding_id: null
+embedding_id: 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
 event_name: ''
 ---
 

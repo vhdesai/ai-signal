@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
-embedding_id: null
+embedding_id: 2026-05-23-moment-raises-78m-series-c-to-automate-fixed-income-and-equi
 event_name: ''
 ---
 

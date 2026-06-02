@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 - 2026-05-03-stanford-hai-2026-ai-index-capability-acceleration-not-plate
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
-embedding_id: null
+embedding_id: 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 event_name: ''
 ---
 

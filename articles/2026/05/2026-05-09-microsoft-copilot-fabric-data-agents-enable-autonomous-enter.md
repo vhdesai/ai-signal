@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 - 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
-embedding_id: null
+embedding_id: 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Microsoft's May 2026 platform updates introduce Fabric "Data Agents" and Copilot
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]]
+**Related:** [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]]
 <!-- graph:end -->

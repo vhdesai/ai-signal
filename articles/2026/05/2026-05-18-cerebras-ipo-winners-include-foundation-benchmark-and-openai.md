@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue
-embedding_id: null
+embedding_id: 2026-05-18-cerebras-ipo-winners-include-foundation-benchmark-and-openai
 event_name: ''
 ---
 

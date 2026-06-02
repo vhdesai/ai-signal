@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
 event_name: ''
 ---
 

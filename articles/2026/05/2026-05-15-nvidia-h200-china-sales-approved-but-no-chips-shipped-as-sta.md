@@ -26,9 +26,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe
-- 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
-embedding_id: null
+- 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
+embedding_id: 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 event_name: ''
 ---
 
@@ -41,5 +40,5 @@ The US approved export licenses for roughly 10 Chinese firms — including Aliba
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]]
+**Related:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

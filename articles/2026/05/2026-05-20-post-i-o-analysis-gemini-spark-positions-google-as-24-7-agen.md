@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
-- 2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum
-embedding_id: null
+embedding_id: 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Post-keynote analysis on May 20–21 highlighted Gemini Spark — Google's new a
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-28-google-expands-gemini-spark-and-universal-cart-across-consum]]
+**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]]
 <!-- graph:end -->

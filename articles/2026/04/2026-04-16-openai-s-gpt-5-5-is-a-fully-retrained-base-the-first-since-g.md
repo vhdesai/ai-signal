@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
-embedding_id: null
+embedding_id: 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
 event_name: ''
 ---
 

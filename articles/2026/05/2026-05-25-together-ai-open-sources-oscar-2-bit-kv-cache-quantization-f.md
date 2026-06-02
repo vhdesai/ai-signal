@@ -17,15 +17,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
+related_article_ids: []
+embedding_id: 2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f
 event_name: ''
 ---
 
@@ -37,5 +32,5 @@ OSCAR is an attention-aware 2-bit KV-cache quantization system designed to slash
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
+**Canonical:** [[2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst]]
 <!-- graph:end -->

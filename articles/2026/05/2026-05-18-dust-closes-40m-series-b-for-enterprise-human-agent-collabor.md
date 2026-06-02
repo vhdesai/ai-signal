@@ -19,10 +19,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
+- 2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
-embedding_id: null
+embedding_id: 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
 event_name: ''
 ---
 
@@ -33,5 +34,5 @@ Dust, which builds specialized AI agents designed to operate alongside human emp
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]]
+**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]]
 <!-- graph:end -->

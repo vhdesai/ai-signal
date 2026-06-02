@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-uc-berkeley-contamination-resistant-benchmark-suite-reshuffl
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-12-uc-berkeley-paper-breaks-trust-in-all-public-agent-benchmark
 event_name: ''
 ---
 

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
-embedding_id: null
+embedding_id: 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
 event_name: ''
 ---
 

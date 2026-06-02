@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock
+- 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+- 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-embedding_id: null
+embedding_id: 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ OpenAI's Codex agent now has the capability to access and operate a Mac workstat
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
+**Related:** [[2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

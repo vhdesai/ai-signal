@@ -21,11 +21,23 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview
+embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 event_name: Microsoft Build 2026 Preview
 ---
 
 # Microsoft Build 2026 Preview — Strategic Implications
 
 - **Windows as an agent surface:** Build may define how deeply Microsoft embeds AI into the OS, file system, shell, and app model. - **First-party model independence:** The MAI suite gives Microsoft fallback leverage alongside OpenAI, Anthropic, and open models in Foundry. - **Enterprise control plane:** The real differentiator may be governance: inventory, policy, permissions, audit, and cost controls for agent fleets. - **Developer lock-in:** If AI-native Windows tooling becomes the best path to distribute agents, Microsoft can convert OS share into agent-platform share.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview]]
+<!-- graph:end -->

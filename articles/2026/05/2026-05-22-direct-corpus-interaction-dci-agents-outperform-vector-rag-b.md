@@ -18,10 +18,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
 event_name: ''
 ---
 
@@ -33,4 +33,5 @@ A new retrieval approach called Direct Corpus Interaction (DCI) challenges the d
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]]
 <!-- graph:end -->

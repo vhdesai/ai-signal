@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
-embedding_id: null
+embedding_id: 2026-05-04-1-model-releases-frontier-research
 event_name: ''
 ---
 

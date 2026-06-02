@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-newmicrosoft-global-ai-diffusion-report-17-8-of-working-age
+- 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
+- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
-embedding_id: null
+embedding_id: 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Microsoft's Q1 2026 Global AI Diffusion Report found 17.8% of the global working
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-newmicrosoft-global-ai-diffusion-report-17-8-of-working-age]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]]
+**Related:** [[2026-05-10-newmicrosoft-global-ai-diffusion-report-17-8-of-working-age]] · [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]]
 <!-- graph:end -->

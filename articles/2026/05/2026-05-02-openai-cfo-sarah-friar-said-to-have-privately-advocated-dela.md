@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 - 2026-04-27-
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
+- 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
-embedding_id: null
+embedding_id: 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ A WSJ profile of OpenAI CFO Sarah Friar reveals she privately counseled waiting 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-27-]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]]
+**Related:** [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-04-27-]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
 <!-- graph:end -->

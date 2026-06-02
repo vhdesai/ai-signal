@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+embedding_id: 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ Apple officially confirmed WWDC 2026 at Apple Park on June 8, with promotional m
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]]
 <!-- graph:end -->

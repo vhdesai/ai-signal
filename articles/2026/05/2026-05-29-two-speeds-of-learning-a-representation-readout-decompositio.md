@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double
-- 2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double
-- 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
-- 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
-embedding_id: null
+- 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+embedding_id: 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Researchers propose a new theoretical decomposition that separates representatio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double]] · [[2026-05-05-newarxiv-polynomial-time-optimal-group-selection-via-double]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]]
+**Related:** [[2026-05-29-two-speeds-of-learning-a-unified-lens-on-grokking-and-double]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
 <!-- graph:end -->

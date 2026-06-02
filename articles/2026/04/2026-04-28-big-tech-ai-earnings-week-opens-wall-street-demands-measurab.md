@@ -31,9 +31,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
-embedding_id: null
+embedding_id: 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 event_name: ''
 ---
 
@@ -46,5 +47,5 @@ Microsoft, Meta, Amazon, Alphabet, and Apple all report earnings this week in wh
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
-embedding_id: null
+embedding_id: 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Tencent open-sourced TencentDB Agent Memory, a 4-tier local memory pipeline for 
 
 **Entities:** [[Tencent]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]]
+**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

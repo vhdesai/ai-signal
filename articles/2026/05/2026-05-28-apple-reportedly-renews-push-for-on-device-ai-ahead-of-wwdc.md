@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 - 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
-- 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
-embedding_id: null
+- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+embedding_id: 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ The Information reported that Apple is renewing its push for AI that runs on dev
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]]
 <!-- graph:end -->

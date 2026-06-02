@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
+- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-embedding_id: null
+embedding_id: 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ NVIDIA released Ising, an open family of quantum-AI models aimed at calibration 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]]
+**Related:** [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]]
 <!-- graph:end -->

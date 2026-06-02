@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
 event_name: ''
 ---
 

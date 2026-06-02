@@ -22,7 +22,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-stanford-2026-ai-index-us-china-gap-down-to-2-7-swe-bench-hi
 event_name: ''
 ---
 

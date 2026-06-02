@@ -23,9 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
+- 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
 - 2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
-embedding_id: null
+embedding_id: 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Google's fastest frontier model is now generally available across Google Antigra
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]]
+**Related:** [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail]] · [[2026-05-26-google-makes-gemini-3-5-flash-generally-available-at-1-50-9]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]]
 <!-- graph:end -->

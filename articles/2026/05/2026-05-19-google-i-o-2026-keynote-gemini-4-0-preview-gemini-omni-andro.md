@@ -21,14 +21,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass
-- 2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a
-- 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
-- 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
+related_article_ids: []
+embedding_id: 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
 event_name: ''
 ---
 
@@ -41,5 +37,5 @@ Google CEO Sundar Pichai and DeepMind CEO Demis Hassabis opened the annual I/O d
 
 **Entities:** [[Google]] · [[Meta]] · [[Samsung]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-live-gemini-4-0-gemini-omni-android-xr-glass]] · [[2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]]
+**Canonical:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]]
 <!-- graph:end -->

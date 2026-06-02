@@ -19,8 +19,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
+- 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
+- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+embedding_id: 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 event_name: ''
 ---
 
@@ -32,4 +35,5 @@ MarkTechPost published a comprehensive benchmark-driven ranking of AI coding age
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

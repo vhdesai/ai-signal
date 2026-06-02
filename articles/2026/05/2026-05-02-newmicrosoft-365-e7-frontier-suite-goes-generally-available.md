@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-embedding_id: null
+embedding_id: 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 event_name: ''
 ---
 

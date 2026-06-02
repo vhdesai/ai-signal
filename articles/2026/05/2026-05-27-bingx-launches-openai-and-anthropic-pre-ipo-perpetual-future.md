@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
-embedding_id: null
+embedding_id: 2026-05-27-bingx-launches-openai-and-anthropic-pre-ipo-perpetual-future
 event_name: ''
 ---
 

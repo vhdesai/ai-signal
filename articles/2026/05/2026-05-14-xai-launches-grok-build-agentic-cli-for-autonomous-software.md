@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
+- 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
+- 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
+- 2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe
+- 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
+embedding_id: 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ xAI released Grok Build, an early-beta agentic command-line interface that allow
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-05-15-xai-launches-grok-build-agentic-coding-agent-targeting-profe]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

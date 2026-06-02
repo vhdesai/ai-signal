@@ -18,15 +18,10 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o
-- 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
-- 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
-- 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
-- 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o
+related_article_ids: []
+embedding_id: 2026-05-11-hotgoogle-reveals-7-hidden-gemini-live-models-ahead-of-i-o-2
 event_name: ''
 ---
 
@@ -39,5 +34,5 @@ A hidden model-selector menu discovered inside Google App v17.18.22 exposes seve
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]]
+**Canonical:** [[2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o]]
 <!-- graph:end -->

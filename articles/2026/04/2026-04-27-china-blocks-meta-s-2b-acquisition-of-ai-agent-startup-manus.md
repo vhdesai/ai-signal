@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-27-china-blocks-meta-s-2b-acquisition-of-manus
 - 2026-04-27-hotchina-blocks-meta-s-2b-acquisition-of-ai-startup-manus
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
 - 2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout
-- 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
-embedding_id: null
+embedding_id: 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Chinese authorities blocked Meta's attempted acquisition of Manus, a Beijing-lin
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-27-hotchina-blocks-meta-s-2b-acquisition-of-ai-startup-manus]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
+**Related:** [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-manus]] · [[2026-04-27-hotchina-blocks-meta-s-2b-acquisition-of-ai-startup-manus]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout]]
 <!-- graph:end -->

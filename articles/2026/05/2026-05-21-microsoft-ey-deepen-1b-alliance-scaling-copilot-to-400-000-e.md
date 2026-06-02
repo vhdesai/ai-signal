@@ -18,10 +18,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e
 event_name: ''
 ---
 
@@ -34,4 +34,5 @@ Microsoft and EY deepened a $1 billion-plus joint initiative to move enterprises
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]]
 <!-- graph:end -->

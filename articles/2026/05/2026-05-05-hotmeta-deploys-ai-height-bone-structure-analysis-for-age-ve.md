@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-embedding_id: null
+embedding_id: 2026-05-05-hotmeta-deploys-ai-height-bone-structure-analysis-for-age-ve
 event_name: ''
 ---
 

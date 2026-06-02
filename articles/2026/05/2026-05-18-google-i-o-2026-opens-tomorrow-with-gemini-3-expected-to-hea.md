@@ -26,11 +26,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+- event-google-i-o-2026-google-i-o-2026-overview
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 - 2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a
-- 2026-05-13-
-- 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
-- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
-embedding_id: null
+embedding_id: 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Google's flagship developer conference opens Tuesday with the company widely exp
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a]] · [[2026-05-13-]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]]
+**Related:** [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[event-google-i-o-2026-google-i-o-2026-overview]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a]]
 <!-- graph:end -->

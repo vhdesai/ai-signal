@@ -22,11 +22,22 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+- 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
+embedding_id: event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
 event_name: Google I/O 2026
 ---
 
 # Google I/O 2026: Search, commerce, and media
 
 - **AI-first Search:** Newsletters frame I/O as the point where Google declared Search to be AI Search, replacing the old query-and-link metaphor with Gemini-powered overviews, agentic answers, contextual actions, and richer inputs. - **Universal Cart:** Described as agentic shopping infrastructure spanning major commerce partners. - **Ask YouTube / Gmail Live / Docs Live:** Consumer and productivity features recast Google's major surfaces as conversational, task-oriented apps.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Google]] · [[Samsung]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]]
+<!-- graph:end -->

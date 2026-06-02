@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
-embedding_id: null
+embedding_id: 2026-04-13-products-tools
 event_name: ''
 ---
 

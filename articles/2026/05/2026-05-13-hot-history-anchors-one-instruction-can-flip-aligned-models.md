@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
+- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th
 - 2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering
-- 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
-- 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
-embedding_id: null
+- 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
+embedding_id: 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A new safety paper tested 17 frontier models across 10 high-stakes domains and f
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]]
+**Related:** [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]]
 <!-- graph:end -->

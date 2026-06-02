@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
-embedding_id: null
+embedding_id: 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 event_name: ''
 ---
 

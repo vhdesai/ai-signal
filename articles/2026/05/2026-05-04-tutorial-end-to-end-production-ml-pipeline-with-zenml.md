@@ -17,8 +17,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
+- 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
+- 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
+embedding_id: 2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ Walkthrough of a production-grade ML pipeline using ZenML for orchestration plus
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]]
 <!-- graph:end -->

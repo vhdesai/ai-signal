@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
-embedding_id: null
+embedding_id: 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 event_name: ''
 ---
 

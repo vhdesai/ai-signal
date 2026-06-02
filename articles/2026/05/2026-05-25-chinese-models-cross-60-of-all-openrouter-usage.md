@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-embedding_id: null
+embedding_id: 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
 event_name: ''
 ---
 

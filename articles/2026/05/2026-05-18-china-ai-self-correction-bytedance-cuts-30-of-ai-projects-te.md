@@ -26,12 +26,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai
 - 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
+- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
-embedding_id: null
+embedding_id: 2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te
 event_name: ''
 ---
 
@@ -44,5 +44,5 @@ A widely circulated internal update from ByteDance revealed the company has cut 
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]]
+**Related:** [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai]] · [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
 <!-- graph:end -->

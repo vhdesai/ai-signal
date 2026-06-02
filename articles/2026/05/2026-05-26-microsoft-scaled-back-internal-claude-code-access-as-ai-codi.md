@@ -23,8 +23,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
+- 2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem
+- 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
+- 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
+embedding_id: 2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi
 event_name: ''
 ---
 
@@ -37,4 +41,5 @@ Microsoft scaled back internal Claude Code access as AI coding-tool spend climbs
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]]
 <!-- graph:end -->

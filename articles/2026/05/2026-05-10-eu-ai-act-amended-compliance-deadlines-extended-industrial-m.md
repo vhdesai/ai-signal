@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
-embedding_id: null
+embedding_id: 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 event_name: ''
 ---
 

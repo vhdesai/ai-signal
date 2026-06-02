@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
-embedding_id: null
+embedding_id: 2026-04-06-ai-safety-policy
 event_name: ''
 ---
 

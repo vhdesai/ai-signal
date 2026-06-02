@@ -17,15 +17,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion
+related_article_ids: []
+embedding_id: 2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n
 event_name: ''
 ---
 
@@ -37,5 +32,5 @@ The daily cs.AI new-submissions list shows 385 papers, with a notable cluster on
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Canonical:** [[2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion]]
 <!-- graph:end -->

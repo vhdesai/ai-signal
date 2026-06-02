@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
+- 2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on
+- 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
+- 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
+- 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
+embedding_id: 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ IBM made Sovereign Core generally available, providing AI-ready sovereign enviro
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]]
 <!-- graph:end -->

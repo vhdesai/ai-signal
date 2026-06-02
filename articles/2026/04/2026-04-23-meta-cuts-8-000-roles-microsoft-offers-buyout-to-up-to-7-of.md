@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push
+- 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
+- 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14
 - 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
-- 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
-- 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
-embedding_id: null
+- 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
+embedding_id: 2026-04-23-meta-cuts-8-000-roles-microsoft-offers-buyout-to-up-to-7-of
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Meta began notifying roughly 8,000 employees (~10% of workforce) of role elimina
 
 **Entities:** [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]]
+**Related:** [[2026-05-19-meta-to-cut-8-000-jobs-as-capex-hits-145b-ai-push]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user
 - 2026-05-15-openai-launches-personal-finance-experience-in-chatgpt
 - 2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users
+- 2026-05-15-openai-launches-chatgpt-personal-finance-connect-12-000-bank
 - 2026-05-15-openai-launches-personal-finance-experience-inside-chatgpt-f
-- 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-embedding_id: null
+embedding_id: 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ OpenAI's ChatGPT Pro can now connect to financial accounts through Plaid, provid
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user]] · [[2026-05-15-openai-launches-personal-finance-experience-in-chatgpt]] · [[2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users]] · [[2026-05-15-openai-launches-personal-finance-experience-inside-chatgpt-f]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
+**Related:** [[2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user]] · [[2026-05-15-openai-launches-personal-finance-experience-in-chatgpt]] · [[2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users]] · [[2026-05-15-openai-launches-chatgpt-personal-finance-connect-12-000-bank]] · [[2026-05-15-openai-launches-personal-finance-experience-inside-chatgpt-f]]
 <!-- graph:end -->

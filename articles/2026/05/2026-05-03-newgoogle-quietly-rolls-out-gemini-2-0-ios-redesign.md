@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea
-embedding_id: null
+embedding_id: 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
 event_name: ''
 ---
 

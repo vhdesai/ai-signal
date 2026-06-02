@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
 - 2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-embedding_id: null
+- 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
+embedding_id: 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ NextEra Energy announced a $67 billion acquisition of Dominion Energy — the la
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
+- 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
-embedding_id: null
+embedding_id: 2026-05-26-stability-ai-releases-stable-audio-3
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Stability AI released Stable Audio 3, a family of fast latent-diffusion models f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
+**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]]
 <!-- graph:end -->

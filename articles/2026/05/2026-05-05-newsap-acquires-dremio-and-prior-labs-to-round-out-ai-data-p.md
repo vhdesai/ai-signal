@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
 - 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
 - 2026-05-04-1-model-releases-frontier-research
-embedding_id: null
+embedding_id: 2026-05-05-newsap-acquires-dremio-and-prior-labs-to-round-out-ai-data-p
 event_name: ''
 ---
 

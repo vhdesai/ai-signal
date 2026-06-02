@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
+- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
+- 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 - 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
-- 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
-embedding_id: null
+embedding_id: 2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Nvidia reported $81.6B in quarterly revenue (up 85% YoY), with the data center s
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]]
+**Related:** [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]]
 <!-- graph:end -->

@@ -23,11 +23,22 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
+- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
 event_name: Google Cloud Next 2026
 ---
 
 # Google Cloud Next 2026 — Strategic Implications
 
 - **Enterprise agent platform war:** Google is directly challenging Microsoft Azure AI Foundry, Copilot Studio, AWS Bedrock, and OpenAI enterprise offerings. - **Inference economy:** TPU 8i signals that serving cost, latency, and power efficiency are now first-order strategic variables. - **Cloud lock-in through context:** Agent platforms become sticky because they integrate identity, data, workflow, governance, and observability. - **Partner leverage:** A large partner fund lowers adoption friction and expands the Google Cloud implementation ecosystem.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+<!-- graph:end -->

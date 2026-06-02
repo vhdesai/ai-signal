@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 - 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
-embedding_id: null
+embedding_id: 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
 event_name: ''
 ---
 

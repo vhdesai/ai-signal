@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-04-1-model-releases-frontier-research
 - 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-embedding_id: null
+embedding_id: 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 event_name: ''
 ---
 

@@ -25,8 +25,7 @@ related_article_ids:
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 - 2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-- 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
-embedding_id: null
+embedding_id: 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ President Trump delayed signing the long-anticipated AI security executive order
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]]
+**Related:** [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]]
 <!-- graph:end -->

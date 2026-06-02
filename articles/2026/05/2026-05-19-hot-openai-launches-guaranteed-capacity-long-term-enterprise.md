@@ -21,11 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
+- 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
-- 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
-- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
-embedding_id: null
+embedding_id: 2026-05-19-hot-openai-launches-guaranteed-capacity-long-term-enterprise
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ OpenAI launched Guaranteed Capacity, a new offering that allows enterprise custo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]] · [[2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]]
+**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]]
 <!-- graph:end -->

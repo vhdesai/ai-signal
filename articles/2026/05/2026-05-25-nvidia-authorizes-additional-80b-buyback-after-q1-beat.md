@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat
 event_name: ''
 ---
 

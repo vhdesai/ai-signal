@@ -23,8 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
+- 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
+- 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
-embedding_id: null
+embedding_id: 2026-05-11-openai-launches-4b-deployco-ai-services-venture
 event_name: ''
 ---
 
@@ -37,5 +39,5 @@ OpenAI revealed the OpenAI Deployment Company ("DeployCo"), a $4B+ AI services b
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
+**Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

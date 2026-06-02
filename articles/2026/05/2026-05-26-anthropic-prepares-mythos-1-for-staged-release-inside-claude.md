@@ -20,15 +20,11 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 related_article_ids:
-- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-- 2026-04-07-source-the-hacker-news-reuters-the-star
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 event_name: ''
 ---
 
@@ -41,5 +37,6 @@ Anthropic is loosening its grip on Claude Mythos — its most powerful previousl
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]]
+**Canonical:** [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]]
 <!-- graph:end -->

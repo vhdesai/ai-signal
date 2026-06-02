@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could
+- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
-embedding_id: null
+embedding_id: 2026-05-17-mustafa-suleyman-most-knowledge-work-fully-automatable-withi
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft AI CEO Mustafa Suleyman forecast that a substantial share of routine k
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]]
+**Related:** [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
 <!-- graph:end -->

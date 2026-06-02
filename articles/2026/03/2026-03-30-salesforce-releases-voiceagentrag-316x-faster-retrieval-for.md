@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
-embedding_id: null
+embedding_id: 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 event_name: ''
 ---
 

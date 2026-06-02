@@ -22,8 +22,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
+embedding_id: 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 event_name: ''
 ---
 
@@ -36,4 +39,5 @@ Nvidia projected 95% sales growth in the current quarter as demand for AI chips 
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
 <!-- graph:end -->

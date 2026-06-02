@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
+- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
-- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-embedding_id: null
+embedding_id: 2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Resolve AI launched a multi-agent investigation system that dispatches coordinat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
+**Related:** [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]]
 <!-- graph:end -->

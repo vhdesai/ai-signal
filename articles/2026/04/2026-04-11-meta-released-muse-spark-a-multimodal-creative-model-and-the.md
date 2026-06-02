@@ -29,9 +29,9 @@ related_article_ids:
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
+- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
-- 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-embedding_id: null
+embedding_id: 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
 event_name: ''
 ---
 
@@ -44,5 +44,5 @@ Meta released Muse Spark, a multimodal creative model and the first output from 
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]]
+**Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
 <!-- graph:end -->

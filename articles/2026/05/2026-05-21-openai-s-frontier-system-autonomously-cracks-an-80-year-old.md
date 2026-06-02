@@ -18,14 +18,14 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry
 related_article_ids:
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
+- 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
-- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-embedding_id: null
+embedding_id: 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
 event_name: ''
 ---
 
@@ -38,5 +38,6 @@ An OpenAI model is reported to have produced an autonomous solution to a long-op
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
+**Canonical:** [[2026-05-21-openai-model-autonomously-solves-80-year-old-erd-s-geometry]]
+**Related:** [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]]
 <!-- graph:end -->

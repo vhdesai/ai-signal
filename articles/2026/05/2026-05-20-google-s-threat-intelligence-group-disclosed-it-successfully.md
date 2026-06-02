@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-embedding_id: null
+embedding_id: 2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully
 event_name: ''
 ---
 

@@ -23,12 +23,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
 - 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
+- 2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai
 - 2026-04-02-model-releases-updates
 - 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
-- 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
-- 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
-embedding_id: null
+embedding_id: 2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ ByteDance unveiled PersonaVLM, a personalized multimodal language model that del
 
 **Entities:** [[Apple]] · [[ByteDance]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-04-02-model-releases-updates]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]]
+**Related:** [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai]] · [[2026-04-02-model-releases-updates]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]]
 <!-- graph:end -->

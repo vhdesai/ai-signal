@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-embedding_id: null
+embedding_id: 2026-05-04-citi-launches-arc-to-scale-ai-agents-across-the-bank
 event_name: ''
 ---
 

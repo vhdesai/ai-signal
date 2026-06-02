@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
 - 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
 - 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
-embedding_id: null
+embedding_id: 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 event_name: ''
 ---
 

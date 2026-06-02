@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
-embedding_id: null
+embedding_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-campaigns
 event_name: ''
 ---
 

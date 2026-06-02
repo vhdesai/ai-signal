@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-embedding_id: null
+embedding_id: 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
 event_name: ''
 ---
 

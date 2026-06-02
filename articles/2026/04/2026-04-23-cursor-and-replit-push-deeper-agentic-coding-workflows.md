@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 - 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
 - 2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co
-embedding_id: null
+embedding_id: 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 event_name: ''
 ---
 

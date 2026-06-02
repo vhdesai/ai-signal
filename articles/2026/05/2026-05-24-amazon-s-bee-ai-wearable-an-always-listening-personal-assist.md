@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-embedding_id: null
+embedding_id: 2026-05-24-amazon-s-bee-ai-wearable-an-always-listening-personal-assist
 event_name: ''
 ---
 

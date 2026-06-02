@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-04-22-ai-safety-policy
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-embedding_id: null
+embedding_id: 2026-05-27-how-to-close-ai-s-accountability-loophole
 event_name: ''
 ---
 

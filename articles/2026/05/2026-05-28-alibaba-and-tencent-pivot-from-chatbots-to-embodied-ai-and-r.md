@@ -23,12 +23,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 - 2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te
 - 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
-- 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
-- 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-embedding_id: null
+- 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
+embedding_id: 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ South China Morning Post reported that Alibaba and Tencent are leading a pivot f
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te]] · [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]]
+**Related:** [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te]] · [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a]]
 <!-- graph:end -->

@@ -25,12 +25,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
 - 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
 - 2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20
-- 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
-- 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
-embedding_id: null
+embedding_id: 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Reports surfaced that DeepSeek is in advanced talks for a funding round at a $45
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]]
+**Related:** [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]]
 <!-- graph:end -->

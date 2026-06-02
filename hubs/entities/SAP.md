@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: SAP
-member_count: 14
+member_count: 20
 ---
 
 # SAP
 
-> Auto-generated entity hub. 14 connected article(s).
+> Auto-generated entity hub. 20 connected article(s).
 
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
@@ -22,3 +22,9 @@ member_count: 14
 - `2026-05-03` [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock|Palantir's AI pricing power becomes the next software-stock test]]
 - `2026-04-27` [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in|DOD framing — "an architecture that prevents AI vendor lock-in and ensures long-term flexibility for the Joint Force" — formalizes multi-vendor sourcing as p…]]
 - `2026-04-23` [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion|SAP signed a definitive agreement to acquire Prior Labs, pioneer of Tabular Foundation Models (TFMs), and committed to invest more than €1 billion over four…]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja|NVIDIA GTC 2026 and GTC Taipei 2026: GTC Taipei / COMPUTEX adjacency]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]

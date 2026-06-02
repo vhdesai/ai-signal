@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 event_name: ''
 ---
 

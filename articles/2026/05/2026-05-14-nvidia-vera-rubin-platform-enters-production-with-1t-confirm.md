@@ -24,10 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
+- 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-- 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
-embedding_id: null
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
+embedding_id: 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ NVIDIA's Vera Rubin platform has entered production with more than $1 trillion i
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]]
+**Related:** [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]]
 <!-- graph:end -->

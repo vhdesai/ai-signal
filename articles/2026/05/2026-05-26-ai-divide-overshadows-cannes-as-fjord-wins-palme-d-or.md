@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-embedding_id: null
+embedding_id: 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ The 2026 Cannes Film Festival closed with the AI-disclosure debate dominating pr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]]
+**Related:** [[2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

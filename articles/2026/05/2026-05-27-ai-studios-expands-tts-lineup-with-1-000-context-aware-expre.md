@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-04-02-model-releases-updates
 - 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
-embedding_id: null
+embedding_id: 2026-05-27-ai-studios-expands-tts-lineup-with-1-000-context-aware-expre
 event_name: ''
 ---
 

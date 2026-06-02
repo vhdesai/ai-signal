@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
+- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
+- 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
+- 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
+- 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
+embedding_id: 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Reuters, citing seven federal employees, three contracting experts, and a review
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]]
 <!-- graph:end -->

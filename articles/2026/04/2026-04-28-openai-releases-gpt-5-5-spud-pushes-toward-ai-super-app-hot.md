@@ -23,8 +23,7 @@ related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
-- 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-embedding_id: null
+embedding_id: 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 event_name: ''
 ---
 
@@ -37,5 +36,5 @@ OpenAI released GPT-5.5 (internally codenamed "Spud") to paid ChatGPT and Codex 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
+**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]]
 <!-- graph:end -->

@@ -26,11 +26,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
+- 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
-- 2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi
-- 2026-05-22-anthropic-gates-foundation-deploy-200m-for-ai-for-good-initi
-- 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
-embedding_id: null
+embedding_id: 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 event_name: ''
 ---
 
@@ -43,5 +41,5 @@ Anthropic is in talks to adopt Microsoft's custom Maia 200 AI chip for Claude mo
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]] · [[2026-05-22-anthropic-gates-foundation-deploy-200m-for-ai-for-good-initi]] · [[2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
 <!-- graph:end -->

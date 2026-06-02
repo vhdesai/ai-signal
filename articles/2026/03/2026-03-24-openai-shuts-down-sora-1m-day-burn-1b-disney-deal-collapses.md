@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-03-31-industry-news-funding
 - 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
 - 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-embedding_id: null
+embedding_id: 2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ OpenAI discontinued Sora after six months, citing ~$1M/day compute costs against
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-03-31-industry-news-funding]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
+**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-03-31-industry-news-funding]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
 <!-- graph:end -->

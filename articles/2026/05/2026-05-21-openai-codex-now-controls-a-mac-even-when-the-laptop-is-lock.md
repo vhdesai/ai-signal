@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
+- 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
+- 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
-- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
-embedding_id: null
+embedding_id: 2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ OpenAI Codex's "locked computer use" lets eligible Mac Computer Use users keep C
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
+**Related:** [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]]
 <!-- graph:end -->

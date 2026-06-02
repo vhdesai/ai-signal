@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-embedding_id: null
+embedding_id: 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Geordie AI raised a $30M Series A to build observability and orchestration for t
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
 <!-- graph:end -->

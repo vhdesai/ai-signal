@@ -17,14 +17,11 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 related_article_ids:
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
-- 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
-embedding_id: null
+- 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
+embedding_id: 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
 event_name: ''
 ---
 
@@ -37,5 +34,6 @@ Oracle announced May 21 that Heathrow Airport, the Kent county council, and MTN 
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]]
+**Canonical:** [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]]
 <!-- graph:end -->

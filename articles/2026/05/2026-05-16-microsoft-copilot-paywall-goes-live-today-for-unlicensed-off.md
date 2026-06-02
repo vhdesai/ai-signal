@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-10-microsoft-365-e7-agent-365-generally-available
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-embedding_id: null
+embedding_id: 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 event_name: ''
 ---
 

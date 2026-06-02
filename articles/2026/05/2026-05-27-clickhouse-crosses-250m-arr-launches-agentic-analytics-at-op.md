@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-embedding_id: null
+embedding_id: 2026-05-27-clickhouse-crosses-250m-arr-launches-agentic-analytics-at-op
 event_name: ''
 ---
 

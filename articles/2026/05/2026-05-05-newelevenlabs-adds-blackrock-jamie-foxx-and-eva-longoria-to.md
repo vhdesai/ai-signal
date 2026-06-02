@@ -17,8 +17,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
+embedding_id: 2026-05-05-newelevenlabs-adds-blackrock-jamie-foxx-and-eva-longoria-to
 event_name: ''
 ---
 
@@ -30,4 +31,5 @@ Voice AI leader ElevenLabs disclosed BlackRock alongside celebrity investors Jam
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]]
 <!-- graph:end -->

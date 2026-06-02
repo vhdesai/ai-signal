@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d
+- 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
-- 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-- 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
-- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-- 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
-embedding_id: null
+- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+embedding_id: 2026-05-28-openai-steps-up-election-cyber-defenses-anti-misinformation
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ OpenAI announced it will offer US election authorities access to its cybersecuri
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]]
+**Related:** [[2026-05-27-openai-unveils-five-part-2026-election-integrity-and-cyber-d]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
 <!-- graph:end -->

@@ -17,10 +17,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
 event_name: ''
 ---
 
@@ -32,4 +32,5 @@ MIT profiles researcher Connor Coley, who works at the intersection of chemistry
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
 <!-- graph:end -->

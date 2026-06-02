@@ -25,11 +25,23 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
+- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
+- 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
+- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
+embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
 event_name: Google Cloud Next 2026
 ---
 
 # Google Cloud Next 2026: Siri/Gemini enterprise read-through
 
 - One later corpus entry ties Cloud Next to Google Cloud CEO Thomas Kurian confirming a Gemini-powered Siri relationship, with Apple's inference reportedly staying within Apple's device/private-cloud architecture. - This item connects Cloud Next to broader platform diplomacy: Google can supply models even where Google does not own the end-user interface.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
+<!-- graph:end -->

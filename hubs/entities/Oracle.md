@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 59
+member_count: 66
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 59 connected article(s).
+> Auto-generated entity hub. 66 connected article(s).
 
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
@@ -67,3 +67,10 @@ member_count: 59
 - `2026-04-01` [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1|OpenAI closed the largest private capital raise in history — $122B at an $852B post-money valuation — anchored by Amazon ($50B), Nvidia ($30B), SoftBank ($30…]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-03-31` [[2026-03-31-cerebras-eyes-april-ipo-at-15-22b-valuation-aws-partnership|Cerebras Eyes April IPO at $15-22B Valuation; AWS Partnership Strengthens Story]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja|NVIDIA GTC 2026 and GTC Taipei 2026: GTC Taipei / COMPUTEX adjacency]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
+- 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
-- 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-embedding_id: null
+- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
+embedding_id: 2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ IBM unveiled Bob, an AI platform aimed at controlling cost overruns across the s
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
 <!-- graph:end -->

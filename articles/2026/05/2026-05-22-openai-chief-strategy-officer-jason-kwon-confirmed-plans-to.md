@@ -23,8 +23,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
+- 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
+- 2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense
+- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
+embedding_id: 2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to
 event_name: ''
 ---
 
@@ -37,4 +41,5 @@ OpenAI Chief Strategy Officer Jason Kwon confirmed plans to provide OpenAI's lat
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
 <!-- graph:end -->

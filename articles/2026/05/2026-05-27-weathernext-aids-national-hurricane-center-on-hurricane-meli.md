@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli
 event_name: ''
 ---
 

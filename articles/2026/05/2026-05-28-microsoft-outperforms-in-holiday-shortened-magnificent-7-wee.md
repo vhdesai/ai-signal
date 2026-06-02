@@ -24,12 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
-embedding_id: null
+embedding_id: 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
 event_name: ''
 ---
 
@@ -42,5 +41,5 @@ In a two-session, Memorial-Day-shortened week, Microsoft rose roughly 3.4% to cl
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
+**Related:** [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

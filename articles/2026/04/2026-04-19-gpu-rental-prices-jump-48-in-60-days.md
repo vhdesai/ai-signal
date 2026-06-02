@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
 - 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
-- 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
-embedding_id: null
+embedding_id: 2026-04-19-gpu-rental-prices-jump-48-in-60-days
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ NVIDIA Blackwell rental rates climbed from ~$2.75 to ~$4.08/hour over two months
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]]
+**Related:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
 <!-- graph:end -->

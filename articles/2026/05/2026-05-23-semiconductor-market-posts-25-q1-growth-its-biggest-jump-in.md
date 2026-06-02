@@ -24,7 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
-embedding_id: null
+- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
+- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
+embedding_id: 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 event_name: ''
 ---
 
@@ -37,5 +39,5 @@ Global semiconductor revenue posted its largest quarterly increase in more than 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]]
 <!-- graph:end -->

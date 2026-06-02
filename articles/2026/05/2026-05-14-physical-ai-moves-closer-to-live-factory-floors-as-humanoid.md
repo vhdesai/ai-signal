@@ -19,12 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 - 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-embedding_id: null
+embedding_id: 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ The leading AI trade outlet surveys vendors and integrators pushing humanoid rob
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]]
+**Related:** [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
 <!-- graph:end -->

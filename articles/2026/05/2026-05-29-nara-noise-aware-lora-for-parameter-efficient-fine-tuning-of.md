@@ -17,15 +17,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
-- 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
-- 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
+related_article_ids: []
+embedding_id: 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 event_name: ''
 ---
 
@@ -37,5 +32,5 @@ A new arXiv preprint introduces NaRA, a noise-aware Low-Rank Adaptation method t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
+**Canonical:** [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]]
 <!-- graph:end -->

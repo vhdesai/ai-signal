@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
-embedding_id: null
+embedding_id: 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 event_name: ''
 ---
 

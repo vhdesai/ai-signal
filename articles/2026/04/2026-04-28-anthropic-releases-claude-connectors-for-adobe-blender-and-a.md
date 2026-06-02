@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-
 - 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-embedding_id: null
+embedding_id: 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 event_name: ''
 ---
 

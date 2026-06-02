@@ -27,9 +27,9 @@ related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
+- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
-- 2026-04-23-
-embedding_id: null
+embedding_id: 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ OpenAI President Greg Brockman declared on the Big Technology Podcast (Apr 1) th
 
 **Entities:** [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-04-23-]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]]
 <!-- graph:end -->

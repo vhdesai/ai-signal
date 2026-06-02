@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
-- 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
-embedding_id: null
+embedding_id: 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ The Verge reports that on April 7th — the same day Anthropic publicly announce
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]]
 <!-- graph:end -->

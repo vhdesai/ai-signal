@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-embedding_id: null
+embedding_id: 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 event_name: ''
 ---
 

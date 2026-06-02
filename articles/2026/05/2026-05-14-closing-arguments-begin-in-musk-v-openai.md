@@ -24,11 +24,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-13-industry-news
+- 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
+- 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-- 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
-- 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
-embedding_id: null
+embedding_id: 2026-05-14-closing-arguments-begin-in-musk-v-openai
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Closing arguments have begun in the long-running Musk v. OpenAI litigation, with
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]]
+**Related:** [[2026-04-13-industry-news]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]]
 <!-- graph:end -->

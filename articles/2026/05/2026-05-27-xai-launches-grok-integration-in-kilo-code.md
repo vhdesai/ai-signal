@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 - 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
+- 2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
-- 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-embedding_id: null
+embedding_id: 2026-05-27-xai-launches-grok-integration-in-kilo-code
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ SuperGrok and X Premium+ subscribers can now use their existing subscription ins
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
+**Related:** [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-24-xai-opens-grok-build-to-supergrok-30-mo-and-x-premium-40-mo]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
 <!-- graph:end -->

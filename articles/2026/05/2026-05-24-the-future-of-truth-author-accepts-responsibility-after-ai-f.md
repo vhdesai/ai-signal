@@ -20,8 +20,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
+- 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
+- 2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work
+- 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
+- 2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm
+embedding_id: 2026-05-24-the-future-of-truth-author-accepts-responsibility-after-ai-f
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ Steven Rosenbaum's book The Future of Truth has come under scrutiny after at lea
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-04-14-source-uc-berkeley-rdi-blog-the-neuron]] · [[2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm]]
 <!-- graph:end -->

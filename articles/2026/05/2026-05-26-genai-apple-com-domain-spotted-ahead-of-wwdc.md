@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
+- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
-- 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
-- 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
-embedding_id: null
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+embedding_id: 2026-05-26-genai-apple-com-domain-spotted-ahead-of-wwdc
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Domain watchers spotted Apple registering or activating genai.apple.com, fuellin
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]]
+**Related:** [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]]
 <!-- graph:end -->

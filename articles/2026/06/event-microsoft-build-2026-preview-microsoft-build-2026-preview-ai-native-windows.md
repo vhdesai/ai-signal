@@ -21,11 +21,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview
+embedding_id: event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 event_name: Microsoft Build 2026 Preview
 ---
 
 # Microsoft Build 2026 Preview: AI-native Windows
 
 - The corpus expects deeper Copilot integration into the Windows shell, OS-level agent surfaces, and developer tooling aligned with Microsoft's long-running agentic-OS thesis. - Watch area: whether Windows becomes an orchestration layer for local, cloud, and enterprise agents rather than simply a host for Copilot Chat.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview]]
+<!-- graph:end -->

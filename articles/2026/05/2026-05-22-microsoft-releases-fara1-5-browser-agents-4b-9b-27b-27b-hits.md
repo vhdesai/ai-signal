@@ -22,10 +22,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits
 event_name: ''
 ---
 
@@ -38,4 +38,5 @@ Microsoft released Fara1.5, a family of three browser-use computer-agent models 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
 <!-- graph:end -->

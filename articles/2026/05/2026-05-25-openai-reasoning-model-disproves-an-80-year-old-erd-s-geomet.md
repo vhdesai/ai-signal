@@ -22,8 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
-- 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after
-embedding_id: null
+embedding_id: 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 event_name: ''
 ---
 
@@ -36,5 +35,5 @@ An internal OpenAI reasoning model autonomously produced a counterexample to Pau
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]] · [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after]]
+**Related:** [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
 <!-- graph:end -->

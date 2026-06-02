@@ -21,8 +21,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal
+- 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
+- 2026-05-25-pope-leo-xiv-s-ai-encyclical-pushes-safety-into-mainstream-d
+embedding_id: 2026-05-26-pope-leo-xiv-released-a-42-300-word-encyclical-squarely-aime
 event_name: ''
 ---
 
@@ -35,4 +38,5 @@ Pope Leo XIV released a 42,300-word encyclical squarely aimed at AI's risks to h
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-25-pope-leo-xiv-s-ai-encyclical-pushes-safety-into-mainstream-d]]
 <!-- graph:end -->

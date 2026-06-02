@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
+- 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
+- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
-- 2026-04-14-source-tech-insider-updated-april-2026
-- 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-embedding_id: null
+embedding_id: 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Publishers are increasingly contending with AI-generated, unlicensed audiobook v
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]]
+**Related:** [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]]
 <!-- graph:end -->

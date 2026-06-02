@@ -20,8 +20,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
+- 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
+- 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
+- 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
+embedding_id: 2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ Mistral released new open-weights checkpoints and updated its Mistral Large API 
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]]
 <!-- graph:end -->

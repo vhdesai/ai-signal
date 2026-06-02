@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+- 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
+- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
-- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
-embedding_id: null
+embedding_id: 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft is having internal discussions about whether to delay or scale back it
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
+**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-05-10-microsoft-365-e7-agent-365-generally-available
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
-embedding_id: null
+- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
+embedding_id: 2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft confirmed full multi-model availability inside Microsoft 365 Copilot �
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available]]
+**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
 <!-- graph:end -->

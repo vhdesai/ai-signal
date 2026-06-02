@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
-- 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
-embedding_id: null
+- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+embedding_id: 2026-05-26-novarc-and-hanwha-ocean-sign-mou-on-ai-powered-shipbuilding
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Industrial Physical AI company Novarc Technologies signed an MoU with shipbuilde
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]]
+**Related:** [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
 <!-- graph:end -->

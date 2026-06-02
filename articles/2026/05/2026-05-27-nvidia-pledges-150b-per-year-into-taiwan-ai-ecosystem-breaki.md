@@ -17,10 +17,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
 event_name: ''
 ---
 
@@ -33,4 +33,5 @@ Jensen Huang announced Nvidia will invest $150B annually to make Taiwan the "epi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]]
 <!-- graph:end -->

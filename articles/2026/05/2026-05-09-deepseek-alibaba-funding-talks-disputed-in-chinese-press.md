@@ -22,8 +22,13 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
+- 2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20
+- 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
+- 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
+- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
+embedding_id: 2026-05-09-deepseek-alibaba-funding-talks-disputed-in-chinese-press
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ A market source quoted by China's National Business Daily disputes earlier repor
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]]
 <!-- graph:end -->

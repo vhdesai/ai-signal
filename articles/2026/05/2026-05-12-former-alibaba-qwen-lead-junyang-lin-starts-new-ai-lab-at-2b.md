@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-raises-for-2b-valued-ai
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b
 event_name: ''
 ---
 

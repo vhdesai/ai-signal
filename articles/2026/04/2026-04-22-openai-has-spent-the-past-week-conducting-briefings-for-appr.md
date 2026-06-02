@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-04-15-model-releases
+- 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
-embedding_id: null
+embedding_id: 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ OpenAI has spent the past week conducting briefings for approximately 50 cyber d
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]]
+**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]]
 <!-- graph:end -->

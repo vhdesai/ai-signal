@@ -23,8 +23,7 @@ related_article_ids:
 - 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 - 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-- 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
-embedding_id: null
+embedding_id: 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 event_name: ''
 ---
 
@@ -36,5 +35,5 @@ President Trump postponed the signing of an AI executive order scheduled for Thu
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]]
+**Related:** [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]] · [[2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]]
 <!-- graph:end -->

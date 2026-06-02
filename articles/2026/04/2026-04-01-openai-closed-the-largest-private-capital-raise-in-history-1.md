@@ -27,10 +27,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
+- 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 - 2026-03-31-industry-news-funding
 - 2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-embedding_id: null
+embedding_id: 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 event_name: ''
 ---
 
@@ -43,5 +45,5 @@ OpenAI closed the largest private capital raise in history — $122B at an $852B
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-31-industry-news-funding]] · [[2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
+**Related:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-03-31-industry-news-funding]] · [[2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026]]
 <!-- graph:end -->

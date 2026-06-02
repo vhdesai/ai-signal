@@ -46,7 +46,7 @@ related_article_ids:
 - 2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
-embedding_id: null
+embedding_id: 2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi
 event_name: ''
 ---
 

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 - 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
-embedding_id: null
+embedding_id: 2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r
 event_name: ''
 ---
 

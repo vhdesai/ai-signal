@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026
 event_name: ''
 ---
 

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 - 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
-embedding_id: null
+embedding_id: 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 event_name: ''
 ---
 

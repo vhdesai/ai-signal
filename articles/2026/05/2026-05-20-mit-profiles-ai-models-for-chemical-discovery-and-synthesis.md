@@ -17,15 +17,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
-- 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
+related_article_ids: []
+embedding_id: 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
 event_name: ''
 ---
 
@@ -38,5 +33,5 @@ MIT News profiled Connor Coley’s work building machine-learning models that ca
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Canonical:** [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]]
 <!-- graph:end -->

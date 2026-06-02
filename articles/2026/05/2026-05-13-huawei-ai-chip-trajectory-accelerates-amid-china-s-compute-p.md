@@ -26,7 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-embedding_id: null
+embedding_id: 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 event_name: ''
 ---
 

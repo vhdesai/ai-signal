@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
-embedding_id: null
+embedding_id: 2026-05-28-inclusion-criteria-items-confirmed-published-may-27-or-may-2
 event_name: ''
 ---
 

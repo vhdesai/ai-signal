@@ -28,9 +28,9 @@ related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim
+- 2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
-- 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
-embedding_id: null
+embedding_id: 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Oracle notified 20,000–30,000 employees (~18% of its workforce) via pre-dawn e
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]]
+**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]]
 <!-- graph:end -->

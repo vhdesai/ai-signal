@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
 - 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal
-embedding_id: null
+embedding_id: 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
 event_name: ''
 ---
 

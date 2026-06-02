@@ -23,9 +23,9 @@ related_article_ids:
 - 2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-- 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-embedding_id: null
+- 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
+- 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
+embedding_id: 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Databricks announced AppKit, a new accelerator for enterprise apps, and a privat
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]]
+**Related:** [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]]
 <!-- graph:end -->

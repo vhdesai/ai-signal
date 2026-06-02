@@ -19,10 +19,10 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ OpenAI announced a Codex enterprise partnership with Dell aimed at developer pro
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
 <!-- graph:end -->

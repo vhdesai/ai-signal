@@ -22,10 +22,10 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 event_name: ''
 ---
 
@@ -38,4 +38,5 @@ DeepSeek, the Chinese AI lab whose open-weight models rattled the AI industry ea
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Canonical:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]]
 <!-- graph:end -->

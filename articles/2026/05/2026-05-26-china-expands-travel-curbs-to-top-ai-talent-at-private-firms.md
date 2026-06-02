@@ -20,10 +20,10 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ Chinese authorities are extending exit-ban-style travel restrictions previously 
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Canonical:** [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]]
 <!-- graph:end -->

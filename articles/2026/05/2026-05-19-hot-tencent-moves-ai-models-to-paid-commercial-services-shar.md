@@ -22,12 +22,12 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
 - 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
+- 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
-- 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-- 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
-embedding_id: null
+embedding_id: 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Tencent announced its Tencent Cloud division will launch paid commercial service
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer]]
+**Related:** [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
 <!-- graph:end -->

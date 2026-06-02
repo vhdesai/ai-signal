@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
 - 2026-04-13-source-the-neuron-apr-13-2026
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
-embedding_id: null
+embedding_id: 2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro
 event_name: ''
 ---
 

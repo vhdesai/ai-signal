@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 - 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 - 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an
-- 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
-embedding_id: null
+- 2026-05-26-pope-leo-xiv-released-a-42-300-word-encyclical-squarely-aime
+embedding_id: 2026-05-25-pope-leo-xiv-frames-ai-as-a-concentration-of-power-problem
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Pope Leo XIV’s first encyclical, Magnifica Humanitas, uses AI to critique the 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-pope-leo-xiv-s-ai-encyclical-pushes-safety-into-mainstream-d]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an]] · [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]]
+**Related:** [[2026-05-25-pope-leo-xiv-s-ai-encyclical-pushes-safety-into-mainstream-d]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an]] · [[2026-05-26-pope-leo-xiv-released-a-42-300-word-encyclical-squarely-aime]]
 <!-- graph:end -->

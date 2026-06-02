@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou
+- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d
+- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
+- 2026-05-26-nvidia-released-gated-deltanet-2-a-follow-up-to-its-efficien
+- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
+embedding_id: 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ NVIDIA Research and University of Washington's Yejin Choi introduce Gated DeltaN
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-24-nvidia-releases-gated-deltanet-2-linear-attention-with-decou]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-linear-attention-layer-d]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-26-nvidia-released-gated-deltanet-2-a-follow-up-to-its-efficien]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
 <!-- graph:end -->

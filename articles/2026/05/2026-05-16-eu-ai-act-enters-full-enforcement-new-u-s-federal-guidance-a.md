@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
-embedding_id: null
+embedding_id: 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 event_name: ''
 ---
 

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
+- event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
 - 2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f
-- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
-embedding_id: null
+embedding_id: 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Thales and Google Cloud are extending their sovereign-cloud joint venture into G
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[2026-05-06-breakinganthropic-commits-200-billion-to-google-cloud-over-f]]
 <!-- graph:end -->

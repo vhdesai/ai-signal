@@ -23,9 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 - 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
+- 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-embedding_id: null
+embedding_id: 2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Google introduced the Coral Board, a compact single-board computer built around 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

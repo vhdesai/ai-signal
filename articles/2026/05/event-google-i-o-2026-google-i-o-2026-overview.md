@@ -19,13 +19,21 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 related_article_ids: []
-embedding_id: null
+embedding_id: event-google-i-o-2026-google-i-o-2026-overview
 event_name: Google I/O 2026
 ---
 
 # Google I/O 2026 — Overview
 
 Google I/O 2026 was the dominant event in the newsletter corpus, appearing across 71 source files and serving as the launch point for Google's broadest AI platform push of the year. The corpus frames the May 19–20 developer conference as a coordinated release across Gemini models, Search, Android XR, Workspace, developer tools, and always-on personal agents. The strategic message: Google is using distribution across Search, Android, YouTube, Gmail, Chrome, Workspace, and Cloud to turn Gemini from a model family into an operating layer for consumer and enterprise workflows.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Amazon]] · [[Google]] · [[Samsung]]
+**Topics:** [[Corporate Moves]]
+**Canonical:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]]
+<!-- graph:end -->

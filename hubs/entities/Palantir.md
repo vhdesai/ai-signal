@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 53
+member_count: 54
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 53 connected article(s).
+> Auto-generated entity hub. 54 connected article(s).
 
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
@@ -61,3 +61,4 @@ member_count: 53
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes wi…]]
 - `2026-04-09` [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected|OpenAI is actively preparing for a public offering expected in Q4 2026, with secondary market transactions placing its valuation near $852 billion, underpinn…]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

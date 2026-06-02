@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 - 2026-05-22-deepseek-raising-10b-founder-pledges-agi-mission-over-commer
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
-embedding_id: null
+embedding_id: 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
 event_name: ''
 ---
 

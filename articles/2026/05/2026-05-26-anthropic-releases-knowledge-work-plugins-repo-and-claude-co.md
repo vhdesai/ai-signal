@@ -20,7 +20,7 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 related_article_ids:
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 event_name: ''
 ---
 

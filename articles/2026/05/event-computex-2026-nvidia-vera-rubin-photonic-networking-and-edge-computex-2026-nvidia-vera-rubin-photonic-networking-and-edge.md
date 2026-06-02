@@ -23,11 +23,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
+- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja
+- 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
+embedding_id: event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
 event_name: 'Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics'
 ---
 
 # Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Overview
 
 Computex 2026 appears as an additional high-signal hardware/platform event in the corpus, especially because it anchors NVIDIA's post-Blackwell roadmap in Taiwan's manufacturing ecosystem. The May 23 digest says Jensen Huang used Computex in Taipei to unveil the Vera Rubin AI superchip platform, SpectraLink photonic networking for rack-scale AI clusters, and a Jetson Thor robotics developer kit. Together with the later GTC Taipei coverage, Computex shows NVIDIA extending its platform from GPUs into rack-scale AI factories, photonic interconnects, and physical AI.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[NVIDIA]] · [[Scale AI]] · [[TSMC]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-gtc-taipei-computex-adja]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]]
+<!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-daily-ai-news-digest
 - 2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber
 - 2026-05-20-ai-news-digest-may-20-2026
-embedding_id: null
+embedding_id: 2026-05-15-daily-ai-news-digest-microsoft-corp-dev-tech-assessment-inte
 event_name: ''
 ---
 

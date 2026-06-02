@@ -23,7 +23,7 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
 event_name: ''
 ---
 

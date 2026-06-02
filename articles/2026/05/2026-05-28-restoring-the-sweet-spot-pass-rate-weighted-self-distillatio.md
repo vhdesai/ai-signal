@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
+- 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
+- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
+- 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
+embedding_id: 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
 event_name: ''
 ---
 
@@ -31,4 +36,5 @@ Proposes pass-rate weighted self-distillation as a technique to improve LLM reas
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]]
 <!-- graph:end -->

@@ -23,10 +23,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
+- 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
+- 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
-- 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team
-embedding_id: null
+embedding_id: 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ A team won MIT's Hard Mode hackathon with a system that pairs computer-vision go
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team]]
+**Related:** [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]]
 <!-- graph:end -->

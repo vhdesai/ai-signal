@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-embedding_id: null
+embedding_id: 2026-05-03-stanford-hai-2026-ai-index-capability-acceleration-not-plate
 event_name: ''
 ---
 

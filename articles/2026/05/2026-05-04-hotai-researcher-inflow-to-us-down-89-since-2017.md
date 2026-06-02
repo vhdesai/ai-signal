@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
-embedding_id: null
+embedding_id: 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
 event_name: ''
 ---
 

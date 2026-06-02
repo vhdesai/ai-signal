@@ -19,10 +19,13 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b
+related_article_ids:
+- 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
+- 2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r
+- 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
+embedding_id: 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 event_name: ''
 ---
 
@@ -35,4 +38,6 @@ OpenAI generated approximately $5.7 billion in revenue in Q1 2026, nearly $1 bil
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b]]
+**Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r]] · [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]]
 <!-- graph:end -->

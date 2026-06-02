@@ -17,8 +17,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
+- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
+- 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
+- 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
+- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+embedding_id: 2026-05-04-why-vlms-still-can-t-count-and-what-researchers-are-doing-ab
 event_name: ''
 ---
 
@@ -30,4 +35,5 @@ A new survey examines persistent counting failures in vision-language models des
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

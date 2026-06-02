@@ -20,11 +20,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
+- 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
+- 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
-- 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-embedding_id: null
+embedding_id: 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ University of Vaasa research suggests generative AI can increase employee engage
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]]
 <!-- graph:end -->

@@ -20,12 +20,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-embedding_id: null
+- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+embedding_id: 2026-04-02-research-breakthroughs
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Brain-Inspired Memristor Chip Achieves up to 2,000× Greater AI Energy Efficienc
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
+**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

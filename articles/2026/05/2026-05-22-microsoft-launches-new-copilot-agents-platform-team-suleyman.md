@@ -22,12 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 - 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
 - 2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
-- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-- 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
-embedding_id: null
+embedding_id: 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
 event_name: ''
 ---
 
@@ -40,5 +39,5 @@ Satya Nadella is dismantling Microsoft's traditional senior leadership structure
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]]
 <!-- graph:end -->

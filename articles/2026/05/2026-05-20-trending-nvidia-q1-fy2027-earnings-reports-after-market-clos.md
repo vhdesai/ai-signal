@@ -24,11 +24,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
+- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
+- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
-- 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr
-- 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
-embedding_id: null
+- 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
+embedding_id: 2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Nvidia reports Q1 FY2027 results (period ending April 26, 2026) after market clo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-24-nvidia-posts-81-6b-quarterly-revenue-burry-sharpens-cisco-cr]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
+**Related:** [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 - 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 - 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
-- 2026-05-19-openai-unveils-image-provenance-tool-making-ai-generated-con
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-embedding_id: null
+- 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
+- 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
+embedding_id: 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Gaps noted: BAIR Blog (latest May 8), Meta AI Blog (no May 12–13 post), OpenAI
 ## Connections
 
 **Entities:** [[Meta]] · [[OpenAI]]
-**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-05-19-openai-unveils-image-provenance-tool-making-ai-generated-con]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
+**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]]
 <!-- graph:end -->

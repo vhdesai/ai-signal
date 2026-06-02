@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything
 event_name: ''
 ---
 

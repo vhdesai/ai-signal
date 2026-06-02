@@ -25,11 +25,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
+- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
+- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-embedding_id: null
+embedding_id: 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ A newly posted arXiv safety paper demonstrates that a single carefully construct
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
 <!-- graph:end -->

@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
-embedding_id: null
+embedding_id: 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
 event_name: ''
 ---
 

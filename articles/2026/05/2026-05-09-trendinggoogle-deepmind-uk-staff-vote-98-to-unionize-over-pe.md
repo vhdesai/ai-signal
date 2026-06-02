@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-09-trendinggoogle-deepmind-uk-staff-vote-98-to-unionize-over-pe
 event_name: ''
 ---
 

@@ -20,15 +20,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model
-- 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-- 2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki
-- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
-- 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
+related_article_ids: []
+embedding_id: 2026-05-19-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
 event_name: ''
 ---
 
@@ -41,5 +36,5 @@ Cursor released Composer 2.5, built on Kimi K2.5 and trained on 25× more synthe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]]
+**Canonical:** [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]]
 <!-- graph:end -->

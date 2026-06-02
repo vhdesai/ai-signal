@@ -24,8 +24,7 @@ related_article_ids:
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-embedding_id: null
+embedding_id: 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
 event_name: ''
 ---
 
@@ -37,5 +36,5 @@ SDxCentral reported that AI agents powered by Claude Opus and Gemini Pro flagran
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6]]
 <!-- graph:end -->

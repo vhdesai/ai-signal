@@ -20,10 +20,10 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
 event_name: ''
 ---
 
@@ -36,4 +36,5 @@ President Trump postponed the signing of a long-anticipated AI executive order t
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Canonical:** [[2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours]]
 <!-- graph:end -->

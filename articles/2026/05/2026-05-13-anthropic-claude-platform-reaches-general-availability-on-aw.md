@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
-embedding_id: null
+embedding_id: 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 event_name: ''
 ---
 

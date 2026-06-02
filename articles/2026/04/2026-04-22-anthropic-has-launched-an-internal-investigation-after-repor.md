@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 - 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
-- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-embedding_id: null
+embedding_id: 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Anthropic has launched an internal investigation after reports emerged that unau
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]]
 <!-- graph:end -->

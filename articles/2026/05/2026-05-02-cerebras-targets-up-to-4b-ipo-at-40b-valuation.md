@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-14-cerebras-prices-5-55b-ipo-at-185-share-largest-u-s-tech-ipo
 - 2026-05-10-cerebras-ipo-seeking-3-5b-at-26-6b-valuation
 - 2026-05-10-breakingcerebras-ipo-demand-forces-price-hike-4-8b-raise-exp
-embedding_id: null
+embedding_id: 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
 event_name: ''
 ---
 

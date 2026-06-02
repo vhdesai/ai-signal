@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in
 - 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
-embedding_id: null
+- 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
+embedding_id: 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 event_name: ''
 ---
 
@@ -35,5 +36,5 @@ Roughly 98% of voting Google DeepMind UK staff supported unionization, with clas
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]]
+**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]] · [[2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military]]
 <!-- graph:end -->

@@ -19,8 +19,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-15-research-breakthroughs
+- 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
+- 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
+- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
+embedding_id: 2026-05-20-uc-berkeley-s-responsible-decentralized-intelligence-rdi-ins
 event_name: ''
 ---
 
@@ -32,4 +36,5 @@ UC Berkeley's Responsible Decentralized Intelligence (RDI) institute announced t
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
+**Related:** [[2026-04-15-research-breakthroughs]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
 <!-- graph:end -->

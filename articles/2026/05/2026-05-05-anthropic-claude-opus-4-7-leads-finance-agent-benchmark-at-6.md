@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-06-
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow
-embedding_id: null
+embedding_id: 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 event_name: ''
 ---
 

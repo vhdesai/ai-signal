@@ -26,8 +26,7 @@ related_article_ids:
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-- 2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica
-embedding_id: null
+embedding_id: 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 event_name: ''
 ---
 
@@ -40,5 +39,5 @@ The pricing gap between Western and Chinese frontier AI models is now 5–25× a
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica]]
+**Related:** [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
 <!-- graph:end -->

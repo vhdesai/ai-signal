@@ -25,10 +25,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
-embedding_id: null
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade
+embedding_id: 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 event_name: ''
 ---
 
@@ -41,5 +42,5 @@ The Information’s AM coverage highlighted Huawei’s efforts to narrow the chi
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[TSMC]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
+**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]]
 <!-- graph:end -->

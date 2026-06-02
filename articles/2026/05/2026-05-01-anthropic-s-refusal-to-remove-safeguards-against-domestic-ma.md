@@ -24,9 +24,9 @@ related_article_ids:
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent
 - 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
+- 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
 - 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
-- 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
-embedding_id: null
+embedding_id: 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Anthropic's refusal to remove safeguards against domestic mass surveillance and 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]]
+**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]]
 <!-- graph:end -->

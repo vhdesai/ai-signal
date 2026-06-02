@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
-embedding_id: null
+embedding_id: 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
 event_name: ''
 ---
 

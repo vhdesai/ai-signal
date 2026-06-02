@@ -25,10 +25,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
+- 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-04-07-source-the-hacker-news-reuters-the-star
-embedding_id: null
+embedding_id: 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Coverage continued to circulate over the weekend of Anthropic's decision to with
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]]
 <!-- graph:end -->

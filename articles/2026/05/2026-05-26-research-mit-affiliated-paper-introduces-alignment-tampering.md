@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th
+- 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
 - 2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 - 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-embedding_id: null
+embedding_id: 2026-05-26-research-mit-affiliated-paper-introduces-alignment-tampering
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ An MIT-affiliated preprint defines "alignment tampering," a class of attacks aga
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-05-27-hot-mit-csail-alignment-tampering-rlhf-can-amplify-rather-th]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]] · [[2026-05-13-hot-history-anchors-one-instruction-can-flip-aligned-models]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]]
 <!-- graph:end -->

@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
-embedding_id: null
+embedding_id: 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 event_name: ''
 ---
 

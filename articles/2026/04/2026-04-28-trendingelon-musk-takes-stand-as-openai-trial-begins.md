@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 - 2026-04-13-industry-news
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
-- 2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und
-embedding_id: null
+- 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
+embedding_id: 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 event_name: ''
 ---
 
@@ -36,5 +36,5 @@ Elon Musk took the stand in Oakland as the OpenAI trial against Sam Altman, Greg
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und]]
+**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens]]
 <!-- graph:end -->

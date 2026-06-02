@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-embedding_id: null
+embedding_id: 2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex
 event_name: ''
 ---
 

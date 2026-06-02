@@ -19,11 +19,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview
+- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-- 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
-- 2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date
-embedding_id: null
+embedding_id: 2026-03-28-agentic-ai-biggest-opportunity-and-biggest-new-attack-surfac
 event_name: ''
 ---
 
@@ -35,5 +36,5 @@ At RSAC 2026, 15 top cybersecurity CEOs — from CrowdStrike, SentinelOne, and N
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce]] · [[2026-04-23-openai-gpt-5-5-spud-strongest-agentic-coder-to-date]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
 <!-- graph:end -->

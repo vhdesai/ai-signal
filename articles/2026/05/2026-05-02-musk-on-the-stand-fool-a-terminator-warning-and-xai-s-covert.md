@@ -24,10 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-13-industry-news
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
+- 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
-- 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-embedding_id: null
+embedding_id: 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Week one of the Musk vs. OpenAI trial concluded with Musk on the stand in Oaklan
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]]
+**Related:** [[2026-04-13-industry-news]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]]
 <!-- graph:end -->

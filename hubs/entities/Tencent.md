@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 60
+member_count: 61
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 60 connected article(s).
+> Auto-generated entity hub. 61 connected article(s).
 
 - `2026-05-28` [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global|Tencent expands WorkBuddy and enterprise AI solutions globally]]
 - `2026-05-28` [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r|Alibaba and Tencent pivot from chatbots to embodied AI and robotics]]
@@ -68,3 +68,4 @@ member_count: 60
 - `2026-04-22` [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10|Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models.]]
 - `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tenc…]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview.]]
+- [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

@@ -21,11 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
-- 2026-05-28-apple-prepares-renewed-push-for-on-device-ai
-- 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-embedding_id: null
+- 2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence
+- 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+embedding_id: 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
 event_name: ''
 ---
 
@@ -38,5 +39,5 @@ Ahead of Global Accessibility Awareness Day, Apple unveiled a new set of AI-powe
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-28-apple-prepares-renewed-push-for-on-device-ai]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
+**Related:** [[2026-05-19-apple-unveils-new-apple-intelligence-accessibility-features]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]]
 <!-- graph:end -->

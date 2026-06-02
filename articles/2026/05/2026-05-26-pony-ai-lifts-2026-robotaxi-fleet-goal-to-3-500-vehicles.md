@@ -20,8 +20,12 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build
+- 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
+- 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
+- 2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc
+embedding_id: 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 event_name: ''
 ---
 
@@ -34,4 +38,5 @@ Chinese autonomous-driving firm Pony AI raised its 2026 robotaxi fleet target to
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-04-23-huawei-commits-11-7b-to-autonomous-driving-ai-compute-build]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc]]
 <!-- graph:end -->

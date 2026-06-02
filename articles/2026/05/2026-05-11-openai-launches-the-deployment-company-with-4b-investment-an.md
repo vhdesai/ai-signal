@@ -24,8 +24,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult
+- 2026-05-11-openai-launches-4b-deployco-ai-services-venture
+- 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
+- 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
+embedding_id: 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 event_name: ''
 ---
 
@@ -38,4 +42,5 @@ OpenAI officially launched a majority-owned subsidiary called "The Deployment Co
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-18-openai-launches-4b-deployment-company-acquires-uk-ai-consult]] · [[2026-05-11-openai-launches-4b-deployco-ai-services-venture]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]]
 <!-- graph:end -->

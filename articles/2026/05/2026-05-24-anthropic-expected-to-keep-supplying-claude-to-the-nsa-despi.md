@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-embedding_id: null
+embedding_id: 2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi
 event_name: ''
 ---
 

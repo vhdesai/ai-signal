@@ -24,10 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
+- 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
-embedding_id: null
+embedding_id: 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
 event_name: ''
 ---
 
@@ -39,5 +40,5 @@ A newly surfaced open-source project, Forge, is drawing strong academic and prac
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
 <!-- graph:end -->

@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+- event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next
 - 2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n
-- 2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent
-- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
-- 2026-05-15-gemini-spark-agent-spotted-ahead-of-google-i-o-2026
-embedding_id: null
+embedding_id: 2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Google added event-driven Webhooks to the Gemini API to replace polling for the 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-15-gemini-spark-agent-spotted-ahead-of-google-i-o-2026]]
+**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]]
 <!-- graph:end -->

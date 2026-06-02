@@ -22,12 +22,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133
 - 2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes
 - 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
 - 2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
-- 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
-embedding_id: null
+embedding_id: 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Palantir reported Q1 2026 revenue of $1.63 billion, up 85% year-over-year, beati
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog]]
+**Related:** [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]]
 <!-- graph:end -->

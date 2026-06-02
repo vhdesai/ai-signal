@@ -21,11 +21,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
+- 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-- 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
-embedding_id: null
+- 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
+embedding_id: 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Recent academic work shows large language models can mass-produce finance papers
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]]
+**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]]
 <!-- graph:end -->

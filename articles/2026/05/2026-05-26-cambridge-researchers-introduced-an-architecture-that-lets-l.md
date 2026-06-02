@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
+- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
+embedding_id: 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ Cambridge researchers introduced an architecture that lets long-running research
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
 <!-- graph:end -->

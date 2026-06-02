@@ -1,16 +1,36 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 453
+member_count: 479
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 453 connected article(s).
+> Auto-generated topic hub. 479 connected article(s).
 
+- `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
+- `2026-06-01` [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation|### MIT Sloan: A Three-Minute Protocol to Reduce AI Manipulation Risk]]
+- `2026-06-01` [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation|### DriveNets raises $410M Series D at an $8.5B valuation]]
+- `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
+- `2026-06-01` [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica|### China Deploys AI to Predict Citizens Who Could Pose Political Risk]]
+- `2026-06-01` [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing|### Bull and Foxconn Partner to Scale European AI Manufacturing]]
+- `2026-06-01` [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie|### Bernie Sanders: The Public Should Own Half of Big AI Companies]]
+- `2026-06-01` [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris|### Ardian and Verne target a €5B, 500MW AI gigafactory near Paris]]
+- `2026-06-01` [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its|### Anthropic gives the EU's cybersecurity agency access to its "Mythos" offensive-security model]]
+- `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|### US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
+- `2026-05-31` [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu|### Fresh arXiv Wave Centers on Inference Efficiency and Faithful Tool Use]]
+- `2026-05-31` [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy|### Erin Brockovich Takes Aim at Data Center Secrecy]]
+- `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]
+- `2026-05-31` [[2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows|### Claude Opus 4.8 Ships at Flat Pricing With "Dynamic Workflows" and 4x Better Bug Honesty]]
+- `2026-05-31` [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters|### An 'AI affordability' reckoning hits enterprise adopters]]
+- `2026-05-31` [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity|### AI Regulation Fractures on Three Fronts: CNN Sues Perplexity, OpenAI Aligns to EU Rules, DOJ Enters Colorado Fight]]
+- `2026-05-30` [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031|### Huawei Outlines Post-Moore "Tau Scaling Law" and 1.4nm-by-2031 Chip Roadmap]]
 - `2026-05-29` [[2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro|OpenAI briefs the White House on GPT-Rosalind biodefense program]]
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
 - `2026-05-29` [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r|AI labor-displacement debate sharpens as public opposition rises]]
+- `2026-05-29` [[2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa|### OpenAI introduces GPT-Rosalind Biodefense for pandemic-preparedness research]]
 - `2026-05-28` [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum|US States Continue to Fill Federal AI-Oversight Vacuum]]
 - `2026-05-28` [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo|U.S.–China dialogue on AI guardrails continues as NVIDIA export rules remain unresolved]]
 - `2026-05-28` [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks|New Causal-Explanation Method Targets LLM Jailbreaks]]
@@ -19,6 +39,7 @@ member_count: 453
 - `2026-05-28` [[2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc|Illinois passes nation's strongest AI safety law as Trump scraps federal AI plan]]
 - `2026-05-28` [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework|Illinois passes a landmark AI safety framework]]
 - `2026-05-28` [[2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb|Illinois Passes Landmark Frontier-AI Accountability Bill (SB 315)]]
+- `2026-05-28` [[event-icra-2026-icra-2026-multi-task-policy-learning|ICRA 2026: Multi-task policy learning]]
 - `2026-05-28` [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst|ECB Holds Emergency Meeting on Anthropic Mythos Banking-System Zero-Days]]
 - `2026-05-28` [[2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi|DealBook: Google employee charged in Polymarket insider-trading case]]
 - `2026-05-28` [[2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device|Canada dismisses tech firms' warnings of 'back doors' to devices]]
@@ -429,6 +450,8 @@ member_count: 453
 - `2026-04-13` [[2026-04-13-source-the-neuron-apr-13-2026|Source: The Neuron (Apr 13, 2026)]]
 - `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tenc…]]
 - `2026-04-12` [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho|Researchers from UC Berkeley's Center for AI Safety co-authored a widely-cited study warning that peer-reviewed literature is being overwhelmed by low-qualit…]]
+- `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
+- `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and|RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk]]
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes wi…]]
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to wha…]]
 - `2026-04-11` [[2026-04-11-academic-research|🎓 Academic Research]]
@@ -461,3 +484,6 @@ member_count: 453
 - `2026-03-31` [[2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t|Google DeepMind Publishes Framework for Measuring Progress Toward AGI]]
 - `2026-03-30` [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio|MIT released a testing framework identifying when AI decision-support systems treat people or communities unfairly — targeting specific failure modes rather…]]
 - `2026-03-24` [[2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation|Anthropic Claude Gets Computer Use on Mac — Desktop Automation from iPhone]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform|NVIDIA GTC 2026 and GTC Taipei 2026: Vera Rubin platform]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics|NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics]]
+- [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack|NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack]]

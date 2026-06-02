@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-embedding_id: null
+embedding_id: 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 event_name: ''
 ---
 

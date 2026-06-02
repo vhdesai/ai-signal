@@ -20,7 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-29-openai-briefs-white-house-officials-on-gpt-rosalind-biodefen
 event_name: ''
 ---
 

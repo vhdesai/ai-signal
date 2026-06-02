@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-- 2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t
-embedding_id: null
+- 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+embedding_id: 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft's .NET team launched a public repository that packages reusable agent 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t]]
+**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
 - 2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u
 - 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
-embedding_id: null
+embedding_id: 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
 event_name: ''
 ---
 

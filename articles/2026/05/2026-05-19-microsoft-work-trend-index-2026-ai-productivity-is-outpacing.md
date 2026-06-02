@@ -21,12 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-05-26-ai-may-make-work-more-productive-but-less-social
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
-- 2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-embedding_id: null
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Microsoft's annual Work Trend Index finds that enterprise AI productivity gains 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-ai-may-make-work-more-productive-but-less-social]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-26-ai-may-make-work-more-productive-but-less-social]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
 <!-- graph:end -->

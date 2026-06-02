@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
+- 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
+- 2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o
+- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin
+embedding_id: 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
 event_name: ''
 ---
 
@@ -32,4 +37,5 @@ Cornell joined Toyota Research Institute's University Research Program 3.0 along
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]] · [[2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin]]
 <!-- graph:end -->

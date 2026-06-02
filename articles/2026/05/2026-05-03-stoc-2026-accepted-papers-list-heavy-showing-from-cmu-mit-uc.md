@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
-embedding_id: null
+embedding_id: 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
 event_name: ''
 ---
 

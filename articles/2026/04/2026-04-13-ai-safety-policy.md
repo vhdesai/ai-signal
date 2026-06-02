@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 - 2026-04-07-u-s
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-embedding_id: null
+- 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
+embedding_id: 2026-04-13-ai-safety-policy
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Federal Reserve Convenes Emergency Bank CEO Summit Over Anthropic's Mythos The F
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-04-07-u-s]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
+**Related:** [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-04-07-u-s]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]]
 <!-- graph:end -->

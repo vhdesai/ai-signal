@@ -24,10 +24,14 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+dedupe_status: duplicate
+canonical_article_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+related_article_ids:
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero
+embedding_id: event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and
   Open Models'
 ---
@@ -35,3 +39,12 @@ event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, an
 # Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models — Strategic Implications
 
 - **Microsoft is productizing agentic work:** Copilot and GitHub are becoming platforms for delegated work, not just code suggestions or chat. - **Azure AI Foundry becomes the enterprise agent control plane:** Model routing and governance address enterprise concerns about cost, risk, and model sprawl. - **Windows is being repositioned as an AI runtime:** Local AI APIs give developers a reason to target Windows and Copilot+ hardware. - **Open standards are ecosystem strategy:** NLWeb and MCP make Microsoft a shaper of the agentic web while still benefiting Azure and Copilot. - **Governance is the selling point for production agents:** Identity, auditability, security, and compliance become core product features rather than add-ons.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
+**Topics:** [[Corporate Moves]]
+**Canonical:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero]]
+<!-- graph:end -->

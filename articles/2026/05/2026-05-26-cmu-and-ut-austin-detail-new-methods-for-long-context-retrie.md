@@ -26,9 +26,8 @@ related_article_ids:
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
-- 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-embedding_id: null
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+embedding_id: 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 event_name: ''
 ---
 
@@ -41,5 +40,5 @@ Researchers at Carnegie Mellon and UT Austin released a paper on hierarchical re
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
+**Related:** [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
 <!-- graph:end -->

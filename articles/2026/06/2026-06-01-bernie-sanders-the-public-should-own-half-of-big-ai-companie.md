@@ -1,0 +1,42 @@
+---
+article_id: 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
+title: '### Bernie Sanders: The Public Should Own Half of Big AI Companies'
+date: '2026-06-01'
+source: The New York Times
+url_original: https://www.nytimes.com/2026/06/01/opinion/bernie-sanders-ai-companies.html
+url_canonical: https://www.nytimes.com/2026/06/01/opinion/bernie-sanders-ai-companies.html
+url_status: found
+digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
+content_hash: 1634779b11da0559828be68b9e08b255b15679d93b41df6adbf7402056021f7b
+normalized_title_hash: f19c2d65e94f3016
+canonical_url_hash: b199a2335ca555f4
+tags: []
+entities: []
+themes:
+- datacenter-infrastructure
+- policy-regulation
+- model-capabilities
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
+- 2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi
+- 2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp
+- 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
+- 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
+embedding_id: 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
+event_name: ''
+---
+
+# ### Bernie Sanders: The Public Should Own Half of Big AI Companies
+
+In a New York Times op-ed, Senator Bernie Sanders argued that the public should hold equity stakes in major AI companies, framing the proposal as a response to the concentration of AI wealth and the public funding (via research grants, infrastructure, and training data) that underpins frontier model development. While unlikely to become law, the piece signals growing political pressure on AI companies around profit distribution and public accountability. --- *End of digest. 13 items. Coverage window: May 31 06:00 PDT – June 1 06:00 PDT.*
+
+<!-- graph:start -->
+## Connections
+
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi]] · [[2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]] · [[2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it]]
+<!-- graph:end -->

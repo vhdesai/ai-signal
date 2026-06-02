@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
 event_name: ''
 ---
 

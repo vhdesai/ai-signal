@@ -18,8 +18,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
+- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+- 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
+embedding_id: 2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object
 event_name: ''
 ---
 
@@ -31,4 +36,5 @@ Hashimoto reframed synthetic data as "a general algorithmic tool for generative 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]]
 <!-- graph:end -->

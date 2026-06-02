@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- event-acm-cais-2026-acm-cais-2026-tressoir
+- event-acm-cais-2026-acm-cais-2026-strategic-implications
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-embedding_id: null
+- 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
+embedding_id: 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ MIT researchers published Tressoir at CAIS 2026 — a system that jointly design
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-tressoir]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 - 2026-04-13-products-tools
 - 2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w
-embedding_id: null
+embedding_id: 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 event_name: ''
 ---
 

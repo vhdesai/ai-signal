@@ -21,11 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
+- 2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 - 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
-- 2026-05-21-google-deepmind-establishes-singapore-national-ai-partnershi
-embedding_id: null
+embedding_id: 2026-05-27-openai-names-south-korea-a-key-partner-for-ai-cyber-defense
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ OpenAI unveiled its "Korea Cyber Action Plan" in Seoul, broadening access to its
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure]] · [[2026-05-21-google-deepmind-establishes-singapore-national-ai-partnershi]]
+**Related:** [[2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-embedding_id: null
+embedding_id: 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
 event_name: ''
 ---
 

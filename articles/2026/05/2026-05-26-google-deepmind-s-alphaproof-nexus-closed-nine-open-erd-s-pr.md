@@ -20,8 +20,11 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble
+- 2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er
+- 2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s
+embedding_id: 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
 event_name: ''
 ---
 
@@ -34,4 +37,5 @@ Google DeepMind's AlphaProof Nexus closed nine open Erdős problems in a single 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-25-deepmind-s-alphaproof-nexus-solves-longstanding-erd-s-proble]] · [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er]] · [[2026-05-27-deepmind-s-alphaproof-nexus-autonomously-solves-9-open-erd-s]]
 <!-- graph:end -->

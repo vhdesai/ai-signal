@@ -19,8 +19,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
+- 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
+- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
+- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
+embedding_id: 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
 event_name: ''
 ---
 
@@ -33,4 +38,5 @@ First dedicated safety-monitor architecture for diffusion-based language models,
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
 <!-- graph:end -->

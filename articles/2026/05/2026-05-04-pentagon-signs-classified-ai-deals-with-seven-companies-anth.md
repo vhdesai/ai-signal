@@ -28,7 +28,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
 event_name: ''
 ---
 

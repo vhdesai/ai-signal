@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-embedding_id: null
+embedding_id: 2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim
 event_name: ''
 ---
 

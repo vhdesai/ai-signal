@@ -23,8 +23,12 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
+- 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
+- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
+- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
+embedding_id: 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
 event_name: ''
 ---
 
@@ -37,4 +41,5 @@ Alibaba is integrating its Qwen models with Taobao and Tmall storefronts, giving
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]] · [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]]
 <!-- graph:end -->

@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea
-embedding_id: null
+- 2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at
+embedding_id: 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 event_name: ''
 ---
 
@@ -37,5 +38,5 @@ Gemini 3.5 Flash — clocked at 289 tokens/second, which Google claims is 4× co
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea]]
+**Related:** [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea]] · [[2026-05-20-google-launches-gemini-omni-gemini-3-5-flash-spark-agent-at]]
 <!-- graph:end -->

@@ -24,9 +24,8 @@ related_article_ids:
 - 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
-- 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
-- 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
-embedding_id: null
+- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+embedding_id: 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
 event_name: ''
 ---
 
@@ -39,5 +38,5 @@ OpenAI's first major Latin American publisher partnership brings Folha de S.Paul
 
 **Entities:** [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai]]
+**Related:** [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
 <!-- graph:end -->

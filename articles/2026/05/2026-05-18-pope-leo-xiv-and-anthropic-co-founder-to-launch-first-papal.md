@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
-embedding_id: null
+embedding_id: 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal
 event_name: ''
 ---
 

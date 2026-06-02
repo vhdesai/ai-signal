@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
-embedding_id: null
+embedding_id: 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
 event_name: ''
 ---
 

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-embedding_id: null
+embedding_id: 2026-05-27-alpha-modus-launches-claude-sonnet-4-6-powered-retail-ai-pla
 event_name: ''
 ---
 

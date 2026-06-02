@@ -26,9 +26,9 @@ related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
-- 2026-04-02-source-all-about-lawyer-the-neuron
-embedding_id: null
+embedding_id: 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 event_name: ''
 ---
 
@@ -41,5 +41,5 @@ Amazon $200B, Alphabet $175–185B, Microsoft ~$145B annualized, Meta $115–135
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]]
 <!-- graph:end -->

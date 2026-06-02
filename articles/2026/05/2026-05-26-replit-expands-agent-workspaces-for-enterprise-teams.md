@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
-embedding_id: null
+embedding_id: 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
 event_name: ''
 ---
 

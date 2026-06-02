@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
+- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 - 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
-- 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
-embedding_id: null
+embedding_id: 2026-05-28-wix-ceo-announces-20-workforce-cut-citing-ai-productivity-ga
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Wix joined a growing list of tech firms restructuring around AI, with CEO Avisha
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
+**Related:** [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]]
 <!-- graph:end -->

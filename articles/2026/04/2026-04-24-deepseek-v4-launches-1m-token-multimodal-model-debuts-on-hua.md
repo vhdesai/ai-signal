@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
 - 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
 - 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
-embedding_id: null
+embedding_id: 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 event_name: ''
 ---
 

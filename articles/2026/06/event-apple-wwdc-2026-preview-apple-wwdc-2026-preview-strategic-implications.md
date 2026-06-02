@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
+embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 event_name: Apple WWDC 2026 Preview
 ---
 
 # Apple WWDC 2026 Preview — Strategic Implications
 
 - **Apple's differentiation:** Privacy, custom silicon, and local inference are Apple's best route to distinctiveness against cloud-first AI assistants. - **Siri must become agentic:** A cosmetic assistant update is insufficient; the corpus expectation is multi-step task completion. - **App Store economics at risk:** If agents can complete tasks without launching apps, Apple must redefine app discovery, permissions, subscriptions, and revenue share. - **Partnership pragmatism:** Gemini-assisted training or routing would show Apple prioritizing product quality over fully proprietary models.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]]
+<!-- graph:end -->

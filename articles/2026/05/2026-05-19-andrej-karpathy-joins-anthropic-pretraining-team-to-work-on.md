@@ -27,10 +27,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-s-claude-pretraining-team
 - 2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin
+- 2026-05-19-andrej-karpathy-leaves-independent-work-to-join-anthropic-s
 - 2026-05-19-andrej-karpathy-joins-anthropic-to-lead-pretraining-research
 - 2026-05-19-andrej-karpathy-joins-anthropic-to-rebuild-claude-pretrainin
-- 2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team
-embedding_id: null
+embedding_id: 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
 event_name: ''
 ---
 
@@ -43,5 +43,5 @@ Andrej Karpathy — formerly of OpenAI, Tesla, and widely regarded as one of the
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-s-claude-pretraining-team]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-lead-pretraining-research]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-rebuild-claude-pretrainin]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team]]
+**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-s-claude-pretraining-team]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin]] · [[2026-05-19-andrej-karpathy-leaves-independent-work-to-join-anthropic-s]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-lead-pretraining-research]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-rebuild-claude-pretrainin]]
 <!-- graph:end -->

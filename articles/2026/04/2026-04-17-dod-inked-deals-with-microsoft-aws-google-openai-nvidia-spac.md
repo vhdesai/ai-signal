@@ -25,12 +25,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
 - 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
 - 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
 - 2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in
-- 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-embedding_id: null
+embedding_id: 2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac
 event_name: ''
 ---
 
@@ -42,5 +42,5 @@ DOD inked deals with Microsoft, AWS, Google, OpenAI, NVIDIA, SpaceX, Oracle, and
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
-**Related:** [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
+**Related:** [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]] · [[2026-05-01-pentagon-tests-openai-and-google-ai-to-replace-anthropic-in]]
 <!-- graph:end -->

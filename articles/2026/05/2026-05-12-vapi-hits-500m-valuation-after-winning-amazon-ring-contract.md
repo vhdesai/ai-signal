@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-04-09-products-tools
-embedding_id: null
+embedding_id: 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
 event_name: ''
 ---
 

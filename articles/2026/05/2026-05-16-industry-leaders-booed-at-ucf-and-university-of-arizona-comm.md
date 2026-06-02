@@ -23,10 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-ex-google-ceo-booed-while-discussing-ai-in-commencement-spee
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-- 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-embedding_id: null
+embedding_id: 2026-05-16-industry-leaders-booed-at-ucf-and-university-of-arizona-comm
 event_name: ''
 ---
 
@@ -38,5 +37,5 @@ Eric Schmidt was audibly booed during the AI-focused portion of his University o
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-ex-google-ceo-booed-while-discussing-ai-in-commencement-spee]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
+**Related:** [[2026-05-18-ex-google-ceo-booed-while-discussing-ai-in-commencement-spee]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
 <!-- graph:end -->

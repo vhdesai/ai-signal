@@ -19,9 +19,11 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after
-related_article_ids: []
-embedding_id: null
+canonical_article_id: 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
+related_article_ids:
+- 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
+- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
+embedding_id: 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
 event_name: ''
 ---
 
@@ -34,5 +36,6 @@ An OpenAI reasoning model produced a counterexample disproving a long-standing f
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-after]]
+**Canonical:** [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]]
+**Related:** [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
 <!-- graph:end -->

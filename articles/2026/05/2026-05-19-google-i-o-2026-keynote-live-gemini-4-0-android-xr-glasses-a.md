@@ -23,9 +23,9 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
+canonical_article_id: 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-19-google-i-o-2026-keynote-live-gemini-4-0-android-xr-glasses-a
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Google's annual developer conference kicked off today at 10am PT, with CEO Sunda
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]]
+**Canonical:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]]
 <!-- graph:end -->

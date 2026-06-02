@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-16-arxiv-bans-authors-for-a-year-if-they-let-ai-do-all-the-work
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 event_name: ''
 ---
 

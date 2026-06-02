@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
 - 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 - 2026-05-26-anthropic-closing-30b-round-at-900b-valuation
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
 event_name: ''
 ---
 

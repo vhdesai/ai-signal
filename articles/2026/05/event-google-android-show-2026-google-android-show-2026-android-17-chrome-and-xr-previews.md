@@ -22,11 +22,24 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- event-google-android-show-2026-google-android-show-2026-overview
+- 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
+- event-google-android-show-2026-google-android-show-2026-strategic-implications
+- 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
+- 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
+embedding_id: event-google-android-show-2026-google-android-show-2026-android-17-chrome-and-xr-previews
 event_name: Google Android Show 2026
 ---
 
 # Google Android Show 2026: Android 17, Chrome, and XR previews
 
 - The Android Show also previewed AI-powered Android 17 features, Chrome AI upgrades, and Android XR integrations. - Corpus entries highlight on-device AI for privacy-sensitive tasks and Gemini integrations across Gmail, Docs, and Assistant.
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Apple]] · [[Google]] · [[Microsoft]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[event-google-android-show-2026-google-android-show-2026-overview]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]]
+<!-- graph:end -->

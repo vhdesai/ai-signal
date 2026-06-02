@@ -22,10 +22,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
+- 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
-- 2026-04-02-model-releases-updates
-embedding_id: null
+embedding_id: 2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ Microsoft's MAI Superintelligence Team released MAI-Image-2-Efficient in Foundry
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-model-releases-updates]]
+**Related:** [[2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]]
 <!-- graph:end -->

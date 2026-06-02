@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-embedding_id: null
+embedding_id: 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 event_name: ''
 ---
 

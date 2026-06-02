@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
 - 2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc
-embedding_id: null
+embedding_id: 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 event_name: ''
 ---
 

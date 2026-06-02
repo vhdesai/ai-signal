@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
-embedding_id: null
+embedding_id: 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
 event_name: ''
 ---
 

@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
-embedding_id: null
+embedding_id: 2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m
 event_name: ''
 ---
 
@@ -38,5 +38,5 @@ CIO Dive's latest report finds enterprise AI investment is materially outpacing 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
 <!-- graph:end -->

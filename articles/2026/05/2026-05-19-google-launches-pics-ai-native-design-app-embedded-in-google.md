@@ -22,8 +22,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
+- 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
+- 2026-05-19-google-s-ai-studio-now-lets-anyone-build-android-apps-in-min
+- 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
+- 2026-05-06-
+embedding_id: 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 event_name: ''
 ---
 
@@ -36,4 +41,5 @@ Google announced Pics, a new AI design app powered by the Nano Banana 2 image mo
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-05-19-google-s-ai-studio-now-lets-anyone-build-android-apps-in-min]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]] · [[2026-05-06-]]
 <!-- graph:end -->

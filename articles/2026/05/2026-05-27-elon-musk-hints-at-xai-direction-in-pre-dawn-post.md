@@ -24,10 +24,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 - 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
+- 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
-- 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
-embedding_id: null
+embedding_id: 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Elon Musk drew attention with an early-morning post about xAI's future direction
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]]
+**Related:** [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

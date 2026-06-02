@@ -24,8 +24,12 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
+- 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
+- 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
+- 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
+embedding_id: 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
 event_name: ''
 ---
 
@@ -38,4 +42,5 @@ Mistral expanded its enterprise footprint with new high-profile banking and lega
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]]
 <!-- graph:end -->

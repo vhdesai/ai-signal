@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
+- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+- 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
+- 2026-05-27-xai-launches-grok-integration-in-kilo-code
+- 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
+embedding_id: 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ xAI shipped two updates in the window: Skills (persistent expertise that Grok 4.
 
 **Entities:** [[NVIDIA]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
+**Related:** [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-27-xai-launches-grok-integration-in-kilo-code]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]]
 <!-- graph:end -->

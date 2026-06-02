@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
-- 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
-embedding_id: null
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
+embedding_id: 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 event_name: ''
 ---
 
@@ -37,5 +37,5 @@ Stanford merged the Stanford Data Science initiative with the Stanford Institute
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]]
+**Related:** [[2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

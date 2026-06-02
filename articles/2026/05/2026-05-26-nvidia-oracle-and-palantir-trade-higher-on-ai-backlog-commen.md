@@ -27,11 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
+- 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
-embedding_id: null
+embedding_id: 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 event_name: ''
 ---
 
@@ -44,5 +43,5 @@ US AI-exposed equities — Nvidia, Oracle, Palantir, and IBM — traded higher o
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
+**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]]
 <!-- graph:end -->

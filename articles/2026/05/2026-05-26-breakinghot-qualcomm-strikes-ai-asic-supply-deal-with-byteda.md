@@ -22,11 +22,11 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance
+- 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
+- 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
-embedding_id: null
+embedding_id: 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
 event_name: ''
 ---
 
@@ -39,5 +39,5 @@ Bloomberg reports Qualcomm has struck a deal to supply AI data-center ASICs to B
 
 **Entities:** [[ByteDance]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]]
+**Related:** [[2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance]] · [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

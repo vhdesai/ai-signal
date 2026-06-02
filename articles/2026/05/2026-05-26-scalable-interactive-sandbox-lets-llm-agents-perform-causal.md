@@ -17,10 +17,10 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-causalab-scalable-environment-for-interactive-causal-discove
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
 event_name: ''
 ---
 
@@ -32,4 +32,5 @@ scalable interactive sandbox lets LLM agents perform causal discovery on synthet
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Canonical:** [[2026-05-26-causalab-scalable-environment-for-interactive-causal-discove]]
 <!-- graph:end -->

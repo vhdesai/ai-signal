@@ -20,9 +20,9 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-18-anthropic-acquires-stainless-shuts-off-sdk-access-for-openai
+canonical_article_id: 2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn
 event_name: ''
 ---
 
@@ -35,5 +35,5 @@ Anthropic acquired Stainless, a developer tooling company specializing in API SD
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-18-anthropic-acquires-stainless-shuts-off-sdk-access-for-openai]]
+**Canonical:** [[2026-05-18-anthropic-acquires-stainless-and-expands-the-claude-platform]]
 <!-- graph:end -->

@@ -23,8 +23,9 @@ related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
-- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-embedding_id: null
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+- 2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid
+embedding_id: 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 event_name: ''
 ---
 
@@ -36,5 +37,5 @@ CIO Dive reported that enterprise data is increasingly leaking into shadow-AI to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
+**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]]
 <!-- graph:end -->

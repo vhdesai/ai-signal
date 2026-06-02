@@ -19,10 +19,10 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
 event_name: ''
 ---
 
@@ -35,4 +35,5 @@ Anthropic acknowledged a measurable quality regression in Claude Code — its ag
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Canonical:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

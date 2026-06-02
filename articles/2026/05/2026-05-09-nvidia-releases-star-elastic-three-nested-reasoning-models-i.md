@@ -21,8 +21,13 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
-embedding_id: null
+related_article_ids:
+- 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
+- 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
+- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
+- 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
+- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
+embedding_id: 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 event_name: ''
 ---
 
@@ -35,4 +40,5 @@ NVIDIA's researchers introduced Star Elastic, a post-training method that embeds
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ related_article_ids:
 - 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
 - 2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed
 - 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
+- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
-- 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
-embedding_id: null
+embedding_id: 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 event_name: ''
 ---
 
@@ -40,5 +40,5 @@ Amazon Web Services announced new capabilities in Amazon Bedrock AgentCore, prom
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]]
+**Related:** [[2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner]] · [[2026-03-31-amazon-and-openai-build-stateful-model-runtime-on-amazon-bed]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
 <!-- graph:end -->

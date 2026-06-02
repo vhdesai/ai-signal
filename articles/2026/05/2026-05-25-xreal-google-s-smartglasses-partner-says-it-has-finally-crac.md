@@ -30,8 +30,7 @@ related_article_ids:
 - 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 - 2026-05-19-samsung-android-xr-smart-glasses-confirmed-for-fall-2026-iph
 - 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-- 2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti
-embedding_id: null
+embedding_id: 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
 event_name: ''
 ---
 
@@ -44,5 +43,5 @@ Xreal, Google's official smartglasses hardware partner for the Android XR platfo
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[Oracle]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-05-19-samsung-android-xr-smart-glasses-confirmed-for-fall-2026-iph]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti]]
+**Related:** [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]] · [[2026-05-19-samsung-android-xr-smart-glasses-confirmed-for-fall-2026-iph]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]]
 <!-- graph:end -->

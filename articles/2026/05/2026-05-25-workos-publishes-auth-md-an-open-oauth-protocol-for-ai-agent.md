@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
-embedding_id: null
+embedding_id: 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
 event_name: ''
 ---
 

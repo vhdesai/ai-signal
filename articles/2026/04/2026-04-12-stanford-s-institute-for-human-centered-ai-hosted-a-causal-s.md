@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
-embedding_id: null
+embedding_id: 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 event_name: ''
 ---
 

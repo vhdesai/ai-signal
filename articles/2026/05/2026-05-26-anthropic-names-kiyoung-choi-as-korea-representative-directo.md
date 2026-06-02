@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
 related_article_ids: []
-embedding_id: null
+embedding_id: 2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo
 event_name: ''
 ---
 

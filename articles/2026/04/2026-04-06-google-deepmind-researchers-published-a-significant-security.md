@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
-embedding_id: null
+embedding_id: 2026-04-06-google-deepmind-researchers-published-a-significant-security
 event_name: ''
 ---
 

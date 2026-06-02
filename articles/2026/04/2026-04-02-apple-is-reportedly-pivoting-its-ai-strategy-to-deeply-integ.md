@@ -28,10 +28,10 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-04-01-products-tools
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
-- 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical
-embedding_id: null
+- 2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on
+embedding_id: 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
 event_name: ''
 ---
 
@@ -44,5 +44,5 @@ Apple is reportedly pivoting its AI strategy to deeply integrate third-party fou
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-01-products-tools]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical]]
+**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-01-products-tools]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on]]
 <!-- graph:end -->
