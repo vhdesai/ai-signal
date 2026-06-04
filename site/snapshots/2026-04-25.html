@@ -46,7 +46,7 @@
     <div class="ai-chat-panel-topbar">
       <div class="ai-chat-panel-brand">📡 AI Signal Chat</div>
       <div class="ai-chat-panel-actions">
-        <a class="ai-chat-open-full" data-chat-open-full href="../chat.html">Open full chat</a>
+        <a class="ai-chat-open-full" data-chat-open-full href="chat.html">Open full chat</a>
         <button type="button" class="ai-chat-panel-close" data-chat-close aria-label="Close chat">×</button>
       </div>
     </div>
@@ -83,7 +83,7 @@
     </div>
     <button type="submit" class="ai-chat-send" data-chat-send>Send</button>
   </form>
-  <div class="ai-chat-footnote">Compact AI Signal chat powered by article-aware context injection.</div>
+  <div class="ai-chat-footnote">Searches 60 days of curated AI news to answer your questions.</div>
 </div>
 
   </div>
@@ -96,12 +96,47 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
-  const ARTICLES_URL = '../articles.json';
-  const OPEN_FULL_CHAT_URL = '../chat.html';
+  // Resolve articles.json and chat.html relative to the current page
+  const PAGE_PATH = window.location.pathname;
+  const BASE_DIR = PAGE_PATH.substring(0, PAGE_PATH.lastIndexOf('/') + 1);
+  // Walk up from subdirectories (snapshots/, entities/, events/, topics/) to site root
+  const DEPTH = (BASE_DIR.match(/\//g) || []).length - 1;
+  const REL_PREFIX = DEPTH > 0 ? '../'.repeat(DEPTH) : '';
+  // On file:// protocol or root-level pages, use direct path
+  const ARTICLES_URL = (window.location.protocol === 'file:' ? '' : REL_PREFIX) + 'articles.json';
+  const OPEN_FULL_CHAT_URL = (window.location.protocol === 'file:' ? '' : REL_PREFIX) + 'chat.html';
   const STOP_WORDS = new Set([
     'a','an','and','are','as','at','be','but','by','for','from','how','i','if','in','into','is','it','latest',
     'me','news','of','on','or','the','to','tell','what','whats','when','where','who','with','you','your'
   ]);
+
+  function renderMarkdown(text){
+    // Convert markdown to HTML for chat display
+    let html = escapeHtml(text);
+    // Headers: ### → <strong>
+    html = html.replace(/^#{1,4}\s+(.+)$/gm, '<strong>$1</strong>');
+    // Bold: **text** or __text__
+    html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    html = html.replace(/__(.+?)__/g, '<strong>$1</strong>');
+    // Italic: *text* or _text_
+    html = html.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+    // Inline code: `code`
+    html = html.replace(/`([^`]+)`/g, '<code style="background:#e2e8f0;padding:1px 5px;border-radius:3px;font-size:0.9em">$1</code>');
+    // Bullet lists: * or - at line start
+    html = html.replace(/^[\*\-]\s+(.+)$/gm, '• $1');
+    // Numbered lists: 1. 2. etc.
+    html = html.replace(/^\d+\.\s+(.+)$/gm, function(m, p1){ return '&bull; ' + p1; });
+    // Markdown tables: strip pipe formatting
+    html = html.replace(/^\|?\s*:?-+:?\s*(\|\s*:?-+:?\s*)+\|?\s*$/gm, '');
+    html = html.replace(/^\|(.+)\|$/gm, function(m, inner){
+      return inner.split('|').map(function(c){ return c.trim(); }).filter(Boolean).join(' — ');
+    });
+    // Links: [text](url)
+    html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" style="color:var(--brand-light)">$1</a>');
+    // Line breaks
+    html = html.replace(/\n/g, '<br>');
+    return html;
+  }
 
   function escapeHtml(value){
     return String(value ?? '')
@@ -310,7 +345,7 @@
 
     const bubble = document.createElement('div');
     bubble.className = 'ai-chat-bubble';
-    bubble.innerHTML = escapeHtml(content).replace(/\n/g,'<br>');
+    bubble.innerHTML = renderMarkdown(content);
 
     const meta = document.createElement('div');
     meta.className = 'ai-chat-meta';
@@ -406,7 +441,7 @@
             receivedToken = true;
           }
           assistantText += token;
-          typing.bubble.innerHTML = escapeHtml(assistantText).replace(/\n/g,'<br>');
+          typing.bubble.innerHTML = renderMarkdown(assistantText);
           messagesEl.scrollTop = messagesEl.scrollHeight;
         });
 
@@ -463,5 +498,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 21:58 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 22:15 UTC</footer>
 </body></html>
