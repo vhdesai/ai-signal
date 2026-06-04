@@ -13,6 +13,7 @@ import yaml
 from jinja2 import Template
 
 from . import db
+from .chat import CHAT_BUBBLE_HTML, CHAT_CSS, build_chat_page
 from .config import Config
 
 # ---------------------------------------------------------------------------
@@ -253,7 +254,7 @@ _BASE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ title }} \u00b7 AI Signal</title>
 <link rel="stylesheet" href="{{ rel }}style.css">
-</head><body>
+</head><body class="page-{{ active or 'default' }}">
 <header>
  <a class="brand" href="{{ rel }}index.html"><span class="brand-icon">\U0001f4e1</span>AI Signal</a>
  <nav>
@@ -263,13 +264,15 @@ _BASE = """<!DOCTYPE html>
   <a href="{{ rel }}events.html"{% if active=='events' %} aria-current="page"{% endif %}>Events</a>
   <a href="{{ rel }}entities.html"{% if active=='entities' %} aria-current="page"{% endif %}>Companies</a>
   <a href="{{ rel }}search.html"{% if active=='search' %} aria-current="page"{% endif %}>Search</a>
+  <a href="{{ rel }}chat.html"{% if active=='chat' %} aria-current="page"{% endif %}>Chat</a>
  </nav>
 </header><main>
 {% if hero %}{{ hero }}{% else %}<h1>{{ title }}</h1>
 {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}{% endif %}
 {{ body }}
 </main>
-<button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">\u2191</button>
+""" + CHAT_BUBBLE_HTML + """
+<button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
 <footer>\u00a9 """ + str(_datetime.now(_tz.utc).year) + """ AI Signal \u00b7 Public \u00b7 ai-signal \u00b7 {{ build_ts }}</footer>
 </body></html>"""
@@ -892,7 +895,7 @@ def run_build_site(cfg: Config) -> dict:
     pages = 0
 
     # Write shared CSS
-    _write(site / "style.css", _CSS)
+    _write(site / "style.css", _CSS + "\n" + CHAT_CSS)
 
     # Build entity filename lookup (used for clickable tags)
     entity_files: dict[str, str] = {}
@@ -1120,6 +1123,9 @@ q.addEventListener('input',()=>{{const raw=q.value;const parsed=parseQuery(raw);
            _render("Search", search_body, active="search",
                    subtitle=f"Search across {len(search_index):,} articles"))
     pages += 1
+
+    # --- AI chat page ---
+    pages += build_chat_page(cfg, site, canonical, entity_files)
 
     # --- admin / provenance removed for public site ---
 

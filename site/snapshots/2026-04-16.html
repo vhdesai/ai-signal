@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Snapshot — April 16, 2026 · AI Signal</title>
 <link rel="stylesheet" href="../style.css">
-</head><body>
+</head><body class="page-default">
 <header>
  <a class="brand" href="../index.html"><span class="brand-icon">📡</span>AI Signal</a>
  <nav>
@@ -13,6 +13,7 @@
   <a href="../events.html">Events</a>
   <a href="../entities.html">Companies</a>
   <a href="../search.html">Search</a>
+  <a href="../chat.html">Chat</a>
  </nav>
 </header><main>
 <h1>Snapshot — April 16, 2026</h1>
@@ -48,7 +49,429 @@
   <div class="tags"></div>
 </article><div class="snap-nav"><a href="2026-04-15.html">← April 15, 2026</a><span class="spacer"></span><a href="2026-04-17.html">April 17, 2026 →</a></div>
 </main>
+
+<button type="button" class="ai-chat-bubble-launch" data-chat-launch aria-label="Open AI Signal chat" aria-expanded="false">💬</button>
+<div class="ai-chat-bubble-panel" data-chat-panel aria-label="AI Signal chat panel">
+  <div class="ai-chat-panel-shell">
+    <div class="ai-chat-panel-topbar">
+      <div class="ai-chat-panel-brand">📡 AI Signal Chat</div>
+      <div class="ai-chat-panel-actions">
+        <a class="ai-chat-open-full" data-chat-open-full href="../chat.html">Open full chat</a>
+        <button type="button" class="ai-chat-panel-close" data-chat-close aria-label="Close chat">×</button>
+      </div>
+    </div>
+
+<div class="ai-chat-app ai-chat-app--panel" data-ai-chat-root data-chat-mode="panel">
+  <div class="ai-chat-toolbar">
+    <div class="ai-chat-toolbar-main">
+      <h3 class="ai-chat-toolbar-title">💬 Quick chat</h3>
+      <p class="ai-chat-toolbar-subtitle">Ask about recent AI Signal coverage in a compact view.</p>
+    </div>
+    <div class="ai-chat-toolbar-actions">
+      <label class="ai-chat-model">Model
+        <select data-chat-model aria-label="Select AI model">
+          <option value="google/gemma-3-4b-it:free" selected>Gemma 3 4B (Free)</option><option value="meta-llama/llama-4-scout-17b-16e-instruct:free">Llama 4 Scout 17B (Free)</option><option value="mistralai/mistral-small-3.1-24b-instruct:free">Mistral Small 3.1 24B (Free)</option><option value="google/gemini-2.5-flash-preview-05-20:free">Gemini 2.5 Flash Preview (Free)</option>
+        </select>
+      </label>
+      <button type="button" class="ai-chat-clear" data-chat-clear>Clear chat</button>
+    </div>
+  </div>
+  <div class="ai-chat-status" data-chat-status aria-live="polite"></div>
+  <div class="ai-chat-messages" data-chat-messages>
+    <div class="ai-chat-empty" data-chat-empty>
+      <strong>Ask AI Signal anything about the latest industry news.</strong>
+      <span>Ask about companies, policy, products, or events. Relevant article summaries from AI Signal will be added as context automatically.</span>
+    </div>
+  </div>
+  <div class="ai-chat-suggestions" data-chat-suggestions>
+    <button type="button" class="ai-chat-starter" data-starter="What's happening with NVIDIA?">What's happening with NVIDIA?</button><button type="button" class="ai-chat-starter" data-starter="Latest AI regulation news">Latest AI regulation news</button><button type="button" class="ai-chat-starter" data-starter="Tell me about Microsoft Build 2026">Tell me about Microsoft Build 2026</button>
+  </div>
+  <form class="ai-chat-form" data-chat-form>
+    <div class="ai-chat-input-wrap">
+      <label class="visually-hidden" for="chat-input-panel">Message</label>
+      <textarea id="chat-input-panel" class="ai-chat-input" data-chat-input rows="2" placeholder="Ask about AI news, companies, regulation, or events…"></textarea>
+    </div>
+    <button type="submit" class="ai-chat-send" data-chat-send>Send</button>
+  </form>
+  <div class="ai-chat-footnote">Compact AI Signal chat powered by article-aware context injection.</div>
+</div>
+
+  </div>
+</div>
+
+<script>
+(function(){
+  if(window.__AI_SIGNAL_CHAT_READY__) return;
+  window.__AI_SIGNAL_CHAT_READY__ = true;
+
+  const CHAT_API_URL = "https://ai-signal-chat.vhdesai.workers.dev/api/chat";
+  const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  const ARTICLES_URL = '../articles.json';
+  const OPEN_FULL_CHAT_URL = '../chat.html';
+  const STOP_WORDS = new Set([
+    'a','an','and','are','as','at','be','but','by','for','from','how','i','if','in','into','is','it','latest',
+    'me','news','of','on','or','the','to','tell','what','whats','when','where','who','with','you','your'
+  ]);
+
+  function escapeHtml(value){
+    return String(value ?? '')
+      .replace(/&/g,'&amp;')
+      .replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;')
+      .replace(/'/g,'&#39;');
+  }
+
+  function normalizeWhitespace(value){
+    return String(value ?? '').replace(/\s+/g,' ').trim();
+  }
+
+  function autoResize(textarea){
+    textarea.style.height = 'auto';
+    textarea.style.height = Math.min(textarea.scrollHeight, 160) + 'px';
+  }
+
+  function extractTerms(query){
+    const lower = String(query || '').toLowerCase();
+    const phraseMatches = [...lower.matchAll(/"([^"]+)"/g)].map(match => normalizeWhitespace(match[1])).filter(Boolean);
+    const remainder = lower.replace(/"[^"]+"/g, ' ');
+    const words = remainder.match(/[a-z0-9][a-z0-9.+-]*/g) || [];
+    const filtered = words.filter(word => word.length > 1 && !STOP_WORDS.has(word));
+    const unique = [...new Set([...phraseMatches, ...filtered])];
+    if(!unique.length && normalizeWhitespace(lower)) unique.push(normalizeWhitespace(lower));
+    return unique.slice(0, 12);
+  }
+
+  function articleBlob(article){
+    return [
+      article.title,
+      article.summary,
+      article.source,
+      ...(article.entities || []),
+      ...(article.themes || []),
+      article.event || ''
+    ].join(' ').toLowerCase();
+  }
+
+  async function loadArticles(state){
+    if(state.articles) return state.articles;
+    if(state.articlesPromise) return state.articlesPromise;
+    state.articlesPromise = fetch(ARTICLES_URL, {cache:'no-store'})
+      .then(response => {
+        if(!response.ok) throw new Error('Unable to load articles.json');
+        return response.json();
+      })
+      .then(items => Array.isArray(items) ? items : [])
+      .catch(() => [])
+      .finally(() => { state.articlesPromise = null; });
+    state.articles = await state.articlesPromise;
+    return state.articles;
+  }
+
+  function rankArticles(query, articles){
+    const terms = extractTerms(query);
+    const fullQuery = normalizeWhitespace(String(query || '').toLowerCase());
+    return articles
+      .map(article => {
+        const title = String(article.title || '').toLowerCase();
+        const summary = String(article.summary || '').toLowerCase();
+        const entities = (article.entities || []).join(' ').toLowerCase();
+        const themes = (article.themes || []).join(' ').toLowerCase();
+        const eventName = String(article.event || '').toLowerCase();
+        let score = 0;
+        for(const term of terms){
+          if(title.includes(term)) score += 8;
+          if(summary.includes(term)) score += 5;
+          if(entities.includes(term)) score += 6;
+          if(themes.includes(term)) score += 3;
+          if(eventName.includes(term)) score += 4;
+        }
+        if(fullQuery){
+          if(title.includes(fullQuery)) score += 10;
+          if(summary.includes(fullQuery)) score += 6;
+        }
+        return {article, score, blob: articleBlob(article)};
+      })
+      .filter(item => item.score > 0 || (fullQuery && item.blob.includes(fullQuery)))
+      .sort((a, b) => {
+        if(b.score !== a.score) return b.score - a.score;
+        return String(b.article.date || '').localeCompare(String(a.article.date || ''));
+      })
+      .slice(0, 5)
+      .map(item => item.article);
+  }
+
+  async function buildContext(query, state){
+    const articles = await loadArticles(state);
+    const matches = rankArticles(query, articles);
+    const context = matches.length
+      ? matches.map((article, index) => {
+          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const source = normalizeWhitespace(article.source || 'Unknown source');
+          const date = normalizeWhitespace(article.date || 'Unknown date');
+          return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
+        }).join('\n')
+      : 'No relevant article context found.';
+    return {
+      matches,
+      systemPrompt: `${BASE_SYSTEM_PROMPT}\n\nArticle context:\n${context}`
+    };
+  }
+
+  function coerceText(value){
+    if(typeof value === 'string') return value;
+    if(Array.isArray(value)) return value.map(coerceText).join('');
+    if(value && typeof value === 'object'){
+      if(typeof value.text === 'string') return value.text;
+      if(typeof value.content === 'string') return value.content;
+      if(Array.isArray(value.content)) return value.content.map(coerceText).join('');
+    }
+    return '';
+  }
+
+  function extractDelta(payload){
+    if(typeof payload === 'string') return payload;
+    if(!payload || typeof payload !== 'object') return '';
+    if(typeof payload.output_text === 'string') return payload.output_text;
+    if(typeof payload.content === 'string') return payload.content;
+    if(payload.delta) return coerceText(payload.delta);
+    if(payload.response && payload.response.output_text && typeof payload.response.output_text.delta === 'string') {
+      return payload.response.output_text.delta;
+    }
+    if(Array.isArray(payload.choices) && payload.choices.length){
+      const choice = payload.choices[0];
+      return coerceText(choice.delta?.content)
+        || coerceText(choice.message?.content)
+        || coerceText(choice.text)
+        || coerceText(choice.delta)
+        || '';
+    }
+    return '';
+  }
+
+  async function streamResponse(requestBody, onToken){
+    const response = await fetch(CHAT_API_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'text/event-stream, application/json'
+      },
+      body: JSON.stringify(requestBody)
+    });
+
+    if(!response.ok){
+      const message = await response.text().catch(() => 'The chat service returned an error.');
+      throw new Error(message || 'The chat service returned an error.');
+    }
+
+    const contentType = response.headers.get('content-type') || '';
+    if(!response.body || !/event-stream/i.test(contentType)){
+      const raw = await response.text().catch(() => '');
+      let payload;
+      try {
+        payload = raw ? JSON.parse(raw) : {};
+      } catch {
+        payload = {content: raw};
+      }
+      const text = extractDelta(payload) || coerceText(payload.message) || coerceText(payload.output) || coerceText(payload.response);
+      if(text) onToken(text);
+      return;
+    }
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+    let buffer = '';
+
+    const processChunk = chunk => {
+      const events = chunk.split(/\r?\n\r?\n/);
+      buffer = events.pop() || '';
+      for(const event of events){
+        const lines = event.split(/\r?\n/).filter(line => line.startsWith('data:'));
+        for(const line of lines){
+          const raw = line.slice(5).trim();
+          if(!raw) continue;
+          if(raw === '[DONE]') return true;
+          try {
+            const parsed = JSON.parse(raw);
+            const delta = extractDelta(parsed);
+            if(delta) onToken(delta);
+          } catch {
+            onToken(raw);
+          }
+        }
+      }
+      return false;
+    };
+
+    while(true){
+      const {value, done} = await reader.read();
+      if(done) break;
+      buffer += decoder.decode(value, {stream:true});
+      if(processChunk(buffer)) return;
+    }
+
+    if(buffer.trim()) processChunk(buffer + '\n\n');
+  }
+
+  function renderMessage(messagesEl, role, content){
+    const wrapper = document.createElement('div');
+    wrapper.className = 'ai-chat-message';
+    wrapper.dataset.role = role;
+
+    const bubble = document.createElement('div');
+    bubble.className = 'ai-chat-bubble';
+    bubble.innerHTML = escapeHtml(content).replace(/\n/g,'<br>');
+
+    const meta = document.createElement('div');
+    meta.className = 'ai-chat-meta';
+    meta.textContent = role === 'user' ? 'You' : 'AI Signal';
+
+    wrapper.appendChild(bubble);
+    wrapper.appendChild(meta);
+    messagesEl.appendChild(wrapper);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+    return {wrapper, bubble};
+  }
+
+  function renderTyping(messagesEl){
+    const rendered = renderMessage(messagesEl, 'assistant', '');
+    rendered.bubble.innerHTML = '<span class="ai-chat-typing"><span></span><span></span><span></span></span>';
+    return rendered;
+  }
+
+  function setBusy(root, busy){
+    root.querySelectorAll('button, textarea, select').forEach(el => { el.disabled = !!busy; });
+  }
+
+  function updateStatus(root, message){
+    const status = root.querySelector('[data-chat-status]');
+    if(status) status.textContent = message || '';
+  }
+
+  function clearChat(root, state){
+    state.messages = [];
+    const messagesEl = root.querySelector('[data-chat-messages]');
+    messagesEl.innerHTML = '<div class="ai-chat-empty" data-chat-empty><strong>Ask AI Signal anything about the latest industry news.</strong><span>Ask about companies, policy, products, or events. Relevant article summaries from AI Signal will be added as context automatically.</span></div>';
+    updateStatus(root, '');
+  }
+
+  function initChat(root){
+    if(root.dataset.chatInitialized === 'true') return;
+    root.dataset.chatInitialized = 'true';
+
+    const state = {messages: [], articles: null, articlesPromise: null, busy: false};
+    const form = root.querySelector('[data-chat-form]');
+    const input = root.querySelector('[data-chat-input]');
+    const messagesEl = root.querySelector('[data-chat-messages]');
+    const starters = root.querySelector('[data-chat-suggestions]');
+    const modelSelect = root.querySelector('[data-chat-model]');
+    const clearButton = root.querySelector('[data-chat-clear]');
+
+    autoResize(input);
+
+    input.addEventListener('input', () => autoResize(input));
+    clearButton.addEventListener('click', () => clearChat(root, state));
+
+    starters.addEventListener('click', event => {
+      const button = event.target.closest('[data-starter]');
+      if(!button || state.busy) return;
+      input.value = button.dataset.starter || '';
+      autoResize(input);
+      form.requestSubmit();
+    });
+
+    form.addEventListener('submit', async event => {
+      event.preventDefault();
+      const text = String(input.value || '').trim();
+      if(!text || state.busy) return;
+
+      const empty = root.querySelector('[data-chat-empty]');
+      if(empty) empty.remove();
+
+      state.busy = true;
+      setBusy(root, true);
+      updateStatus(root, 'Searching article context…');
+      renderMessage(messagesEl, 'user', text);
+      state.messages.push({role:'user', content:text});
+      input.value = '';
+      autoResize(input);
+
+      const typing = renderTyping(messagesEl);
+      let assistantText = '';
+      let receivedToken = false;
+
+      try {
+        const context = await buildContext(text, state);
+        updateStatus(root, context.matches.length
+          ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context.`
+          : 'No strong article matches found. Using general model knowledge too.');
+
+        await streamResponse({
+          model: modelSelect.value,
+          stream: true,
+          messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+        }, token => {
+          if(!receivedToken){
+            typing.bubble.textContent = '';
+            receivedToken = true;
+          }
+          assistantText += token;
+          typing.bubble.innerHTML = escapeHtml(assistantText).replace(/\n/g,'<br>');
+          messagesEl.scrollTop = messagesEl.scrollHeight;
+        });
+
+        if(!assistantText.trim()){
+          assistantText = 'I did not receive a response from the chat service. Please try again.';
+          typing.bubble.textContent = assistantText;
+        }
+      } catch (error) {
+        assistantText = `Sorry — the chat service failed: ${error?.message || 'unknown error'}`;
+        typing.bubble.textContent = assistantText;
+        updateStatus(root, 'Chat request failed.');
+      } finally {
+        state.messages.push({role:'assistant', content: assistantText});
+        state.busy = false;
+        setBusy(root, false);
+        messagesEl.scrollTop = messagesEl.scrollHeight;
+      }
+    });
+  }
+
+  function initBubble(){
+    const launch = document.querySelector('[data-chat-launch]');
+    const panel = document.querySelector('[data-chat-panel]');
+    const close = document.querySelector('[data-chat-close]');
+    const fullLinks = document.querySelectorAll('[data-chat-open-full]');
+    if(!launch || !panel || !close) return;
+
+    const openPanel = () => {
+      panel.classList.add('is-open');
+      launch.setAttribute('aria-expanded', 'true');
+    };
+    const closePanel = () => {
+      panel.classList.remove('is-open');
+      launch.setAttribute('aria-expanded', 'false');
+    };
+
+    launch.addEventListener('click', () => panel.classList.contains('is-open') ? closePanel() : openPanel());
+    close.addEventListener('click', closePanel);
+    document.addEventListener('keydown', event => {
+      if(event.key === 'Escape') closePanel();
+    });
+    document.addEventListener('click', event => {
+      if(!panel.classList.contains('is-open')) return;
+      if(panel.contains(event.target) || launch.contains(event.target)) return;
+      closePanel();
+    });
+    fullLinks.forEach(link => link.setAttribute('href', OPEN_FULL_CHAT_URL));
+  }
+
+  document.querySelectorAll('[data-ai-chat-root]').forEach(initChat);
+  initBubble();
+})();
+</script>
+
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built June 02, 2026 at 23:23 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 21:37 UTC</footer>
 </body></html>
