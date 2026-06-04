@@ -29,6 +29,35 @@ _STARTERS = [
     "Tell me about Microsoft Build 2026",
 ]
 
+# Page-specific starter prompts keyed by the 'active' nav value
+_PAGE_STARTERS: dict[str, list[str]] = {
+    "index": [
+        "Give me a summary of today's news",
+        "Are there any new model updates?",
+        "What are today's policy updates?",
+    ],
+    "archive": [
+        "Give me a summary of the news on May 30",
+        "What were the research news on May 25?",
+        "Summarize the biggest stories this week",
+    ],
+    "topics": [
+        "Give me a summary of model breakthroughs in the last 5 days",
+        "Are there any significant policy news in the last week?",
+        "What's new in datacenter infrastructure?",
+    ],
+    "events": [
+        "Give me a summary of Google I/O",
+        "What was covered in Microsoft Build?",
+        "Summary of Computex 2026",
+    ],
+    "entities": [
+        "Summarize the latest OpenAI news",
+        "When did Anthropic release Mythos?",
+        "What's new with NVIDIA this week?",
+    ],
+}
+
 
 def _model_options() -> str:
     return "".join(
@@ -175,13 +204,16 @@ _CHAT_SHARED_JS = r"""
   const BASE_SYSTEM_PROMPT = __SYSTEM_PROMPT__;
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
-  const BASE_DIR = PAGE_PATH.substring(0, PAGE_PATH.lastIndexOf('/') + 1);
-  // Walk up from subdirectories (snapshots/, entities/, events/, topics/) to site root
-  const DEPTH = (BASE_DIR.match(/\//g) || []).length - 1;
-  const REL_PREFIX = DEPTH > 0 ? '../'.repeat(DEPTH) : '';
-  // On file:// protocol or root-level pages, use direct path
-  const ARTICLES_URL = (window.location.protocol === 'file:' ? '' : REL_PREFIX) + 'articles.json';
-  const OPEN_FULL_CHAT_URL = (window.location.protocol === 'file:' ? '' : REL_PREFIX) + 'chat.html';
+  const pathParts = PAGE_PATH.split('/').filter(Boolean);
+  pathParts.pop(); // remove filename
+  const DEPTH = pathParts.length;
+  const REL_PREFIX = DEPTH > 0 ? '../'.repeat(DEPTH) : './';
+  const ARTICLES_URL = REL_PREFIX + 'articles.json';
+  const OPEN_FULL_CHAT_URL = REL_PREFIX + 'chat.html';
+
+  // Page-specific starter prompts
+  const PAGE_STARTERS = __PAGE_STARTERS__;
+  const DEFAULT_STARTERS = ["What's happening with NVIDIA?", "Latest AI regulation news", "Tell me about Microsoft Build 2026"];
   const STOP_WORDS = new Set([
     'a','an','and','are','as','at','be','but','by','for','from','how','i','if','in','into','is','it','latest',
     'me','news','of','on','or','the','to','tell','what','whats','when','where','who','with','you','your'
@@ -471,8 +503,25 @@ _CHAT_SHARED_JS = r"""
     root.dataset.chatInitialized = 'true';
 
     const state = {messages: [], articles: null, articlesPromise: null, busy: false};
-    // Preload articles immediately so they're ready when user sends first message
-    loadArticles(state);
+    // Preload articles and show status
+    updateStatus(root, 'Loading articles…');
+    loadArticles(state).then(articles => {
+      if(articles && articles.length > 0){
+        updateStatus(root, '✓ ' + articles.length + ' articles loaded — ready to chat');
+      } else {
+        updateStatus(root, '⚠ Could not load articles — chat will use general knowledge. URL: ' + ARTICLES_URL);
+      }
+    });
+
+    // Set page-specific starters
+    const currentPage = document.querySelector('nav a[aria-current]');
+    const pageKey = currentPage ? currentPage.getAttribute('href').replace(/.*\//, '').replace('.html', '') : '';
+    const starters_list = PAGE_STARTERS[pageKey] || DEFAULT_STARTERS;
+    const startersEl = root.querySelector('[data-chat-suggestions]');
+    if(startersEl){
+      startersEl.innerHTML = starters_list.map(q => '<button type="button" class="ai-chat-starter" data-starter="' + q.replace(/"/g, '&quot;') + '">' + q + '</button>').join('');
+    }
+
     const form = root.querySelector('[data-chat-form]');
     const input = root.querySelector('[data-chat-input]');
     const messagesEl = root.querySelector('[data-chat-messages]');
@@ -566,7 +615,15 @@ _CHAT_SHARED_JS = r"""
       launch.setAttribute('aria-expanded', 'false');
     };
 
-    launch.addEventListener('click', () => panel.classList.contains('is-open') ? closePanel() : openPanel());
+    launch.addEventListener('click', () => {
+      if(panel.classList.contains('is-open')){
+        closePanel();
+      } else {
+        openPanel();
+        // Initialize chat inside panel on first open
+        panel.querySelectorAll('[data-ai-chat-root]').forEach(initChat);
+      }
+    });
     close.addEventListener('click', closePanel);
     document.addEventListener('keydown', event => {
       if(event.key === 'Escape') closePanel();
@@ -583,7 +640,7 @@ _CHAT_SHARED_JS = r"""
   initBubble();
 })();
 </script>
-""".replace("__CHAT_API_URL__", json.dumps(CHAT_API_URL)).replace("__SYSTEM_PROMPT__", json.dumps(_SYSTEM_PROMPT))
+""".replace("__CHAT_API_URL__", json.dumps(CHAT_API_URL)).replace("__SYSTEM_PROMPT__", json.dumps(_SYSTEM_PROMPT)).replace("__PAGE_STARTERS__", json.dumps(_PAGE_STARTERS))
 
 
 CHAT_BUBBLE_HTML = (

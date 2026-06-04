@@ -56,7 +56,7 @@ function getSecurityHeaders() {
     "X-Frame-Options": "DENY",
     "Referrer-Policy": "no-referrer",
     "Permissions-Policy": "accelerometer=(), autoplay=(), camera=(), geolocation=(), gyroscope=(), microphone=(), payment=(), usb=()",
-    "Cross-Origin-Resource-Policy": "same-site",
+    "Cross-Origin-Resource-Policy": "cross-origin",
     "Cross-Origin-Opener-Policy": "same-origin",
     "Content-Security-Policy": "default-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'"
   };
