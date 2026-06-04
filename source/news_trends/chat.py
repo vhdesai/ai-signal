@@ -7,7 +7,7 @@ from pathlib import Path
 
 from .config import Config
 
-CHAT_API_URL = "https://ai-signal-chat.vhdesai.workers.dev/api/chat"
+CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat"
 
 _SYSTEM_PROMPT = (
     "You are the AI Signal assistant. You help users explore AI industry news and trends. "
@@ -17,10 +17,10 @@ _SYSTEM_PROMPT = (
 )
 
 _MODELS = [
-    ("google/gemma-3-4b-it:free", "Gemma 3 4B (Free)"),
-    ("meta-llama/llama-4-scout-17b-16e-instruct:free", "Llama 4 Scout 17B (Free)"),
-    ("mistralai/mistral-small-3.1-24b-instruct:free", "Mistral Small 3.1 24B (Free)"),
-    ("google/gemini-2.5-flash-preview-05-20:free", "Gemini 2.5 Flash Preview (Free)"),
+    ("google/gemma-4-31b-it:free", "Gemma 4 31B (Free)"),
+    ("meta-llama/llama-3.3-70b-instruct:free", "Llama 3.3 70B (Free)"),
+    ("qwen/qwen3-coder:free", "Qwen3 Coder (Free)"),
+    ("nousresearch/hermes-3-llama-3.1-405b:free", "Hermes 3 405B (Free)"),
 ]
 
 _STARTERS = [

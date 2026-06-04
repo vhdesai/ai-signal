@@ -279,7 +279,7 @@
     <div class="ai-chat-toolbar-actions">
       <label class="ai-chat-model">Model
         <select data-chat-model aria-label="Select AI model">
-          <option value="google/gemma-3-4b-it:free" selected>Gemma 3 4B (Free)</option><option value="meta-llama/llama-4-scout-17b-16e-instruct:free">Llama 4 Scout 17B (Free)</option><option value="mistralai/mistral-small-3.1-24b-instruct:free">Mistral Small 3.1 24B (Free)</option><option value="google/gemini-2.5-flash-preview-05-20:free">Gemini 2.5 Flash Preview (Free)</option>
+          <option value="google/gemma-4-31b-it:free" selected>Gemma 4 31B (Free)</option><option value="meta-llama/llama-3.3-70b-instruct:free">Llama 3.3 70B (Free)</option><option value="qwen/qwen3-coder:free">Qwen3 Coder (Free)</option><option value="nousresearch/hermes-3-llama-3.1-405b:free">Hermes 3 405B (Free)</option>
         </select>
       </label>
       <button type="button" class="ai-chat-clear" data-chat-clear>Clear chat</button>
@@ -313,7 +313,7 @@
   if(window.__AI_SIGNAL_CHAT_READY__) return;
   window.__AI_SIGNAL_CHAT_READY__ = true;
 
-  const CHAT_API_URL = "https://ai-signal-chat.vhdesai.workers.dev/api/chat";
+  const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
   const ARTICLES_URL = 'articles.json';
   const OPEN_FULL_CHAT_URL = 'chat.html';
@@ -682,5 +682,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 21:37 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 21:58 UTC</footer>
 </body></html>

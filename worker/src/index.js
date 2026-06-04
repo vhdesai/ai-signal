@@ -1,5 +1,5 @@
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
-const DEFAULT_MODEL = "google/gemma-3-4b-it:free";
+const DEFAULT_MODEL = "google/gemma-4-31b-it:free";
 const MAX_TOKENS = 1024;
 const DAILY_LIMIT = 20;
 const SYSTEM_PROMPT = `You are AI Signal, the embedded assistant for AI Signal, a daily AI news intelligence site. Help users quickly understand important AI developments, summarize articles, compare models, and surface actionable insights. Be accurate, concise, practical, and transparent about uncertainty. When relevant, emphasize what matters for operators, builders, and decision-makers following the AI ecosystem.`;
