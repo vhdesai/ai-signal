@@ -90,7 +90,7 @@ CHAT_CSS = """
 .ai-chat-send{align-self:end;padding:0 20px;height:56px;border:none;border-radius:16px;background:linear-gradient(135deg,var(--brand),var(--accent2));color:#fff;font-size:14px;font-weight:800;cursor:pointer;transition:all .2s}
 .ai-chat-send:disabled,.ai-chat-clear:disabled,.ai-chat-starter:disabled{opacity:.55;cursor:default;transform:none;box-shadow:none}
 .ai-chat-footnote{padding:0 20px 18px;color:var(--muted);font-size:12px}
-.ai-chat-bubble-launch{position:fixed;top:90px;right:24px;z-index:140;width:58px;height:58px;border:none;border-radius:50%;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px;cursor:pointer;box-shadow:0 18px 36px rgba(13,107,94,.28)}
+.ai-chat-bubble-launch{position:fixed;top:90px;right:24px;z-index:140;border:none;border-radius:28px;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;display:flex;align-items:center;gap:8px;padding:12px 20px;font-size:14px;font-weight:700;cursor:pointer;box-shadow:0 8px 24px rgba(13,107,94,.28);letter-spacing:.3px;transition:all .2s}
 .ai-chat-bubble-panel{position:fixed;top:156px;right:24px;z-index:145;width:min(400px,calc(100vw - 24px));height:500px;background:var(--card);border:1px solid rgba(13,107,94,.14);border-radius:24px;box-shadow:0 24px 60px rgba(15,23,42,.2);overflow:hidden;display:none}
 .ai-chat-bubble-panel.is-open{display:block}
 .ai-chat-panel-shell{display:grid;grid-template-rows:auto minmax(0,1fr);height:100%}
@@ -113,7 +113,7 @@ body.page-chat .ai-chat-bubble-launch,body.page-chat .ai-chat-bubble-panel{displ
   .ai-chat-message{max-width:100%}
   .ai-chat-form{grid-template-columns:1fr}
   .ai-chat-send{width:100%}
-  .ai-chat-bubble-launch{top:auto;bottom:24px;right:16px}
+  .ai-chat-bubble-launch{top:auto;bottom:24px;right:16px;padding:10px 16px;font-size:13px}
   .ai-chat-bubble-panel{top:auto;right:12px;bottom:92px;left:12px;width:auto;height:min(70vh,520px)}
 }
 """
@@ -577,7 +577,7 @@ _CHAT_SHARED_JS = r"""
 
 CHAT_BUBBLE_HTML = (
     """
-<button type="button" class="ai-chat-bubble-launch" data-chat-launch aria-label="Open AI Signal chat" aria-expanded="false">💬</button>
+<button type="button" class="ai-chat-bubble-launch" data-chat-launch aria-label="Open AI Signal chat" aria-expanded="false">💬 AI Chat</button>
 <div class="ai-chat-bubble-panel" data-chat-panel aria-label="AI Signal chat panel">
   <div class="ai-chat-panel-shell">
     <div class="ai-chat-panel-topbar">
