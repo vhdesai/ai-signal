@@ -120,7 +120,7 @@ CHAT_CSS = """
 .ai-chat-send:disabled,.ai-chat-clear:disabled,.ai-chat-starter:disabled{opacity:.55;cursor:default;transform:none;box-shadow:none}
 .ai-chat-footnote{padding:0 20px 18px;color:var(--muted);font-size:12px}
 .ai-chat-bubble-launch{position:fixed;top:90px;right:24px;z-index:140;border:none;border-radius:28px;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;display:flex;align-items:center;gap:8px;padding:12px 20px;font-size:14px;font-weight:700;cursor:pointer;box-shadow:0 8px 24px rgba(13,107,94,.28);letter-spacing:.3px;transition:all .2s}
-.ai-chat-bubble-panel{position:fixed;top:156px;right:24px;z-index:145;width:min(400px,calc(100vw - 24px));height:500px;background:var(--card);border:1px solid rgba(13,107,94,.14);border-radius:24px;box-shadow:0 24px 60px rgba(15,23,42,.2);overflow:hidden;display:none}
+.ai-chat-bubble-panel{position:fixed;top:80px;right:24px;z-index:145;width:min(520px,calc(100vw - 48px));height:calc(100vh - 120px);background:var(--card);border:1px solid rgba(13,107,94,.14);border-radius:24px;box-shadow:0 24px 60px rgba(15,23,42,.2);overflow:hidden;display:none}
 .ai-chat-bubble-panel.is-open{display:block}
 .ai-chat-panel-shell{display:grid;grid-template-rows:auto minmax(0,1fr);height:100%}
 .ai-chat-panel-topbar{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 16px;border-bottom:1px solid var(--border);background:linear-gradient(135deg,rgba(13,107,94,.08),rgba(245,158,11,.08))}
@@ -393,22 +393,33 @@ _CHAT_SHARED_JS = r"""
   }
 
   async function streamResponse(requestBody, onToken){
-    const response = await fetch(CHAT_API_URL, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Accept': 'text/event-stream, application/json'
-      },
-      body: JSON.stringify(requestBody)
-    });
+    console.log('[AI Signal Chat] Sending request to:', CHAT_API_URL, 'model:', requestBody.model);
+    let response;
+    try {
+      response = await fetch(CHAT_API_URL, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'text/event-stream, application/json'
+        },
+        body: JSON.stringify(requestBody)
+      });
+    } catch(fetchErr) {
+      console.error('[AI Signal Chat] Fetch failed:', fetchErr);
+      throw new Error('Network error connecting to chat service: ' + fetchErr.message);
+    }
+
+    console.log('[AI Signal Chat] Response status:', response.status, 'content-type:', response.headers.get('content-type'));
 
     if(!response.ok){
       const message = await response.text().catch(() => 'The chat service returned an error.');
+      console.error('[AI Signal Chat] Error response:', message);
       throw new Error(message || 'The chat service returned an error.');
     }
 
     const contentType = response.headers.get('content-type') || '';
     if(!response.body || !/event-stream/i.test(contentType)){
+      console.log('[AI Signal Chat] Non-streaming response, reading as text');
       const raw = await response.text().catch(() => '');
       let payload;
       try {
@@ -421,9 +432,11 @@ _CHAT_SHARED_JS = r"""
       return;
     }
 
+    console.log('[AI Signal Chat] Streaming response started');
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
     let buffer = '';
+    let tokenCount = 0;
 
     const processChunk = chunk => {
       const events = chunk.split(/\r?\n\r?\n/);
@@ -433,11 +446,13 @@ _CHAT_SHARED_JS = r"""
         for(const line of lines){
           const raw = line.slice(5).trim();
           if(!raw) continue;
-          if(raw === '[DONE]') return true;
+          if(raw === '[DONE]'){ console.log('[AI Signal Chat] Stream done, tokens:', tokenCount); return true; }
+          // Skip OpenRouter processing messages
+          if(raw.startsWith(': ')){ continue; }
           try {
             const parsed = JSON.parse(raw);
             const delta = extractDelta(parsed);
-            if(delta) onToken(delta);
+            if(delta){ tokenCount++; onToken(delta); }
           } catch {
             onToken(raw);
           }
@@ -446,14 +461,19 @@ _CHAT_SHARED_JS = r"""
       return false;
     };
 
-    while(true){
-      const {value, done} = await reader.read();
-      if(done) break;
-      buffer += decoder.decode(value, {stream:true});
-      if(processChunk(buffer)) return;
+    try {
+      while(true){
+        const {value, done} = await reader.read();
+        if(done) break;
+        buffer += decoder.decode(value, {stream:true});
+        if(processChunk(buffer)) return;
+      }
+      if(buffer.trim()) processChunk(buffer + '\n\n');
+      console.log('[AI Signal Chat] Stream ended, total tokens:', tokenCount);
+    } catch(streamErr) {
+      console.error('[AI Signal Chat] Stream read error:', streamErr);
+      throw new Error('Stream interrupted: ' + streamErr.message);
     }
-
-    if(buffer.trim()) processChunk(buffer + '\n\n');
   }
 
   function renderMessage(messagesEl, role, content){
@@ -565,22 +585,29 @@ _CHAT_SHARED_JS = r"""
       try {
         const context = await buildContext(text, state);
         updateStatus(root, context.matches.length
-          ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context.`
-          : 'No strong article matches found. Using general model knowledge too.');
+          ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context. Waiting for AI response…`
+          : 'No article matches — using general knowledge. Waiting for AI response…');
 
-        await streamResponse({
-          model: modelSelect.value,
-          stream: true,
-          messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
-        }, token => {
-          if(!receivedToken){
-            typing.bubble.textContent = '';
-            receivedToken = true;
-          }
-          assistantText += token;
-          typing.bubble.innerHTML = renderMarkdown(assistantText);
-          messagesEl.scrollTop = messagesEl.scrollHeight;
-        });
+        // Add a 60-second timeout
+        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Response timed out after 60 seconds. The model may be busy — please try again.')), 60000));
+
+        await Promise.race([
+          streamResponse({
+            model: modelSelect.value,
+            stream: true,
+            messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+          }, token => {
+            if(!receivedToken){
+              typing.bubble.textContent = '';
+              updateStatus(root, 'Streaming response…');
+              receivedToken = true;
+            }
+            assistantText += token;
+            typing.bubble.innerHTML = renderMarkdown(assistantText);
+            messagesEl.scrollTop = messagesEl.scrollHeight;
+          }),
+          timeoutPromise
+        ]);
 
         if(!assistantText.trim()){
           assistantText = 'I did not receive a response from the chat service. Please try again.';

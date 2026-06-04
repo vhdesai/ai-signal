@@ -477,22 +477,33 @@
   }
 
   async function streamResponse(requestBody, onToken){
-    const response = await fetch(CHAT_API_URL, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Accept': 'text/event-stream, application/json'
-      },
-      body: JSON.stringify(requestBody)
-    });
+    console.log('[AI Signal Chat] Sending request to:', CHAT_API_URL, 'model:', requestBody.model);
+    let response;
+    try {
+      response = await fetch(CHAT_API_URL, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'text/event-stream, application/json'
+        },
+        body: JSON.stringify(requestBody)
+      });
+    } catch(fetchErr) {
+      console.error('[AI Signal Chat] Fetch failed:', fetchErr);
+      throw new Error('Network error connecting to chat service: ' + fetchErr.message);
+    }
+
+    console.log('[AI Signal Chat] Response status:', response.status, 'content-type:', response.headers.get('content-type'));
 
     if(!response.ok){
       const message = await response.text().catch(() => 'The chat service returned an error.');
+      console.error('[AI Signal Chat] Error response:', message);
       throw new Error(message || 'The chat service returned an error.');
     }
 
     const contentType = response.headers.get('content-type') || '';
     if(!response.body || !/event-stream/i.test(contentType)){
+      console.log('[AI Signal Chat] Non-streaming response, reading as text');
       const raw = await response.text().catch(() => '');
       let payload;
       try {
@@ -505,9 +516,11 @@
       return;
     }
 
+    console.log('[AI Signal Chat] Streaming response started');
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
     let buffer = '';
+    let tokenCount = 0;
 
     const processChunk = chunk => {
       const events = chunk.split(/\r?\n\r?\n/);
@@ -517,11 +530,13 @@
         for(const line of lines){
           const raw = line.slice(5).trim();
           if(!raw) continue;
-          if(raw === '[DONE]') return true;
+          if(raw === '[DONE]'){ console.log('[AI Signal Chat] Stream done, tokens:', tokenCount); return true; }
+          // Skip OpenRouter processing messages
+          if(raw.startsWith(': ')){ continue; }
           try {
             const parsed = JSON.parse(raw);
             const delta = extractDelta(parsed);
-            if(delta) onToken(delta);
+            if(delta){ tokenCount++; onToken(delta); }
           } catch {
             onToken(raw);
           }
@@ -530,14 +545,19 @@
       return false;
     };
 
-    while(true){
-      const {value, done} = await reader.read();
-      if(done) break;
-      buffer += decoder.decode(value, {stream:true});
-      if(processChunk(buffer)) return;
+    try {
+      while(true){
+        const {value, done} = await reader.read();
+        if(done) break;
+        buffer += decoder.decode(value, {stream:true});
+        if(processChunk(buffer)) return;
+      }
+      if(buffer.trim()) processChunk(buffer + '\n\n');
+      console.log('[AI Signal Chat] Stream ended, total tokens:', tokenCount);
+    } catch(streamErr) {
+      console.error('[AI Signal Chat] Stream read error:', streamErr);
+      throw new Error('Stream interrupted: ' + streamErr.message);
     }
-
-    if(buffer.trim()) processChunk(buffer + '\n\n');
   }
 
   function renderMessage(messagesEl, role, content){
@@ -649,22 +669,29 @@
       try {
         const context = await buildContext(text, state);
         updateStatus(root, context.matches.length
-          ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context.`
-          : 'No strong article matches found. Using general model knowledge too.');
+          ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context. Waiting for AI response…`
+          : 'No article matches — using general knowledge. Waiting for AI response…');
 
-        await streamResponse({
-          model: modelSelect.value,
-          stream: true,
-          messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
-        }, token => {
-          if(!receivedToken){
-            typing.bubble.textContent = '';
-            receivedToken = true;
-          }
-          assistantText += token;
-          typing.bubble.innerHTML = renderMarkdown(assistantText);
-          messagesEl.scrollTop = messagesEl.scrollHeight;
-        });
+        // Add a 60-second timeout
+        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Response timed out after 60 seconds. The model may be busy — please try again.')), 60000));
+
+        await Promise.race([
+          streamResponse({
+            model: modelSelect.value,
+            stream: true,
+            messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+          }, token => {
+            if(!receivedToken){
+              typing.bubble.textContent = '';
+              updateStatus(root, 'Streaming response…');
+              receivedToken = true;
+            }
+            assistantText += token;
+            typing.bubble.innerHTML = renderMarkdown(assistantText);
+            messagesEl.scrollTop = messagesEl.scrollHeight;
+          }),
+          timeoutPromise
+        ]);
 
         if(!assistantText.trim()){
           assistantText = 'I did not receive a response from the chat service. Please try again.';
@@ -727,5 +754,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 23:04 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 23:29 UTC</footer>
 </body></html>
