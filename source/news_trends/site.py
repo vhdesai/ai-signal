@@ -457,6 +457,9 @@ def _load(cfg: Config) -> list[dict]:
                 except (TypeError, json.JSONDecodeError):
                     d[col] = []
             d["cross_cutting"] = d["cross_cutting_topics"]
+            # Strip markdown heading prefixes from titles
+            if d.get("title"):
+                d["title"] = d["title"].lstrip("# ").strip()
             rows.append(d)
     return rows
 

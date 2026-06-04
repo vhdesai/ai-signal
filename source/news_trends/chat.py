@@ -256,17 +256,26 @@ _CHAT_SHARED_JS = r"""
   }
 
   async function loadArticles(state){
-    if(state.articles) return state.articles;
+    if(state.articles && state.articles.length > 0) return state.articles;
     if(state.articlesPromise) return state.articlesPromise;
-    state.articlesPromise = fetch(ARTICLES_URL, {cache:'no-store'})
-      .then(response => {
-        if(!response.ok) throw new Error('Unable to load articles.json');
-        return response.json();
-      })
-      .then(items => Array.isArray(items) ? items : [])
-      .catch(() => [])
-      .finally(() => { state.articlesPromise = null; });
+    state.articlesPromise = (async () => {
+      try {
+        const response = await fetch(ARTICLES_URL, {cache:'no-store'});
+        if(!response.ok) {
+          console.warn('[AI Signal Chat] articles.json fetch failed:', response.status, response.statusText);
+          return [];
+        }
+        const items = await response.json();
+        const result = Array.isArray(items) ? items : [];
+        console.log('[AI Signal Chat] Loaded', result.length, 'articles from', ARTICLES_URL);
+        return result;
+      } catch(err) {
+        console.warn('[AI Signal Chat] articles.json load error:', err.message, '— URL:', ARTICLES_URL);
+        return [];
+      }
+    })();
     state.articles = await state.articlesPromise;
+    state.articlesPromise = null;
     return state.articles;
   }
 
@@ -462,6 +471,8 @@ _CHAT_SHARED_JS = r"""
     root.dataset.chatInitialized = 'true';
 
     const state = {messages: [], articles: null, articlesPromise: null, busy: false};
+    // Preload articles immediately so they're ready when user sends first message
+    loadArticles(state);
     const form = root.querySelector('[data-chat-form]');
     const input = root.querySelector('[data-chat-input]');
     const messagesEl = root.querySelector('[data-chat-messages]');

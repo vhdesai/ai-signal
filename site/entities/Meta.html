@@ -19,7 +19,7 @@
 <h1>Meta</h1>
 <p class="subtitle">144 stories mentioning Meta</p>
 <article class="card ">
-  <span class="t">### Hackers hijack Instagram accounts via Meta's AI support chatbot</span>
+  <span class="t">Hackers hijack Instagram accounts via Meta's AI support chatbot</span>
   
   <div class="meta">
     <span>June 2, 2026</span>
@@ -29,7 +29,7 @@
   <div class="tags"><a class="tag tag-entity" href="../entities/Meta.html">Meta</a></div>
 </article>
 <article class="card ">
-  <a class="t" href="https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/">### An 'AI affordability' reckoning hits enterprise adopters</a>
+  <a class="t" href="https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/">An 'AI affordability' reckoning hits enterprise adopters</a>
   <div class="url-display"><a href="https://www.financialexpress.com/life/technology-ai-affordability-wakeup-call-anthropics-65bn-mega-round-and-indias-first-12nm-ai-chip-weekly-ai-roundup-4255352/" class="url-link" target="_blank" rel="noopener">financialexpress.com</a></div>
   <div class="meta">
     <span>May 31, 2026</span>
@@ -39,7 +39,7 @@
   <div class="tags"><a class="tag tag-entity" href="../entities/Amazon.html">Amazon</a><a class="tag tag-entity" href="../entities/Meta.html">Meta</a></div>
 </article>
 <article class="card ">
-  <span class="t">### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech</span>
+  <span class="t">DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech</span>
   
   <div class="meta">
     <span>May 31, 2026</span>
@@ -49,7 +49,7 @@
   <div class="tags"><a class="tag tag-entity" href="../entities/Amazon.html">Amazon</a><a class="tag tag-entity" href="../entities/DeepSeek.html">DeepSeek</a><a class="tag tag-entity" href="../entities/Meta.html">Meta</a><a class="tag tag-entity" href="../entities/NVIDIA.html">NVIDIA</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article>
 <article class="card ">
-  <a class="t" href="https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/">### Meta Developing AI Pendant and Expanding Smart Glasses Roadmap</a>
+  <a class="t" href="https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/">Meta Developing AI Pendant and Expanding Smart Glasses Roadmap</a>
   <div class="url-display"><a href="https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/" class="url-link" target="_blank" rel="noopener">techcrunch.com</a></div>
   <div class="meta">
     <span>May 30, 2026</span>
@@ -1619,17 +1619,26 @@
   }
 
   async function loadArticles(state){
-    if(state.articles) return state.articles;
+    if(state.articles && state.articles.length > 0) return state.articles;
     if(state.articlesPromise) return state.articlesPromise;
-    state.articlesPromise = fetch(ARTICLES_URL, {cache:'no-store'})
-      .then(response => {
-        if(!response.ok) throw new Error('Unable to load articles.json');
-        return response.json();
-      })
-      .then(items => Array.isArray(items) ? items : [])
-      .catch(() => [])
-      .finally(() => { state.articlesPromise = null; });
+    state.articlesPromise = (async () => {
+      try {
+        const response = await fetch(ARTICLES_URL, {cache:'no-store'});
+        if(!response.ok) {
+          console.warn('[AI Signal Chat] articles.json fetch failed:', response.status, response.statusText);
+          return [];
+        }
+        const items = await response.json();
+        const result = Array.isArray(items) ? items : [];
+        console.log('[AI Signal Chat] Loaded', result.length, 'articles from', ARTICLES_URL);
+        return result;
+      } catch(err) {
+        console.warn('[AI Signal Chat] articles.json load error:', err.message, '— URL:', ARTICLES_URL);
+        return [];
+      }
+    })();
     state.articles = await state.articlesPromise;
+    state.articlesPromise = null;
     return state.articles;
   }
 
@@ -1825,6 +1834,8 @@
     root.dataset.chatInitialized = 'true';
 
     const state = {messages: [], articles: null, articlesPromise: null, busy: false};
+    // Preload articles immediately so they're ready when user sends first message
+    loadArticles(state);
     const form = root.querySelector('[data-chat-form]');
     const input = root.querySelector('[data-chat-input]');
     const messagesEl = root.querySelector('[data-chat-messages]');
@@ -1938,5 +1949,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 22:39 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 22:47 UTC</footer>
 </body></html>
