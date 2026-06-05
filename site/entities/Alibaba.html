@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Alibaba · AI Signal</title>
 <link rel="stylesheet" href="../style.css">
-</head><body class="page-default">
+</head><body class="page-entities">
 <header>
  <a class="brand" href="../index.html"><span class="brand-icon">📡</span>AI Signal</a>
  <nav>
@@ -11,7 +11,7 @@
   <a href="../archive.html">Timeline</a>
   <a href="../topics.html">Themes</a>
   <a href="../events.html">Events</a>
-  <a href="../entities.html">Companies</a>
+  <a href="../entities.html" aria-current="page">Companies</a>
   <a href="../search.html">Search</a>
   <a href="../chat.html">Chat</a>
  </nav>
@@ -1045,6 +1045,7 @@
       article.title,
       article.summary,
       article.source,
+      article.date || '',
       ...(article.entities || []),
       ...(article.themes || []),
       article.event || ''
@@ -1075,9 +1076,23 @@
     return state.articles;
   }
 
+  const MONTH_MAP = {jan:'01',january:'01',feb:'02',february:'02',mar:'03',march:'03',apr:'04',april:'04',may:'05',jun:'06',june:'06',jul:'07',july:'07',aug:'08',august:'08',sep:'09',september:'09',oct:'10',october:'10',nov:'11',november:'11',dec:'12',december:'12'};
+
+  function normalizeDate(query){
+    // Convert "May 30" or "June 1" to "2026-05-30" style for matching article dates
+    const m = query.match(/\b(jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|sep(?:tember)?|oct(?:ober)?|nov(?:ember)?|dec(?:ember)?)\s+(\d{1,2})\b/i);
+    if(m){
+      const month = MONTH_MAP[m[1].toLowerCase()];
+      const day = m[2].padStart(2, '0');
+      return month ? `-${month}-${day}` : null;
+    }
+    return null;
+  }
+
   function rankArticles(query, articles){
     const terms = extractTerms(query);
     const fullQuery = normalizeWhitespace(String(query || '').toLowerCase());
+    const dateFragment = normalizeDate(query);
     return articles
       .map(article => {
         const title = String(article.title || '').toLowerCase();
@@ -1085,13 +1100,17 @@
         const entities = (article.entities || []).join(' ').toLowerCase();
         const themes = (article.themes || []).join(' ').toLowerCase();
         const eventName = String(article.event || '').toLowerCase();
+        const articleDate = String(article.date || '').toLowerCase();
         let score = 0;
+        // Date match: if the user asks about a specific date, heavily boost matching articles
+        if(dateFragment && articleDate.includes(dateFragment)) score += 20;
         for(const term of terms){
           if(title.includes(term)) score += 8;
           if(summary.includes(term)) score += 5;
           if(entities.includes(term)) score += 6;
           if(themes.includes(term)) score += 3;
           if(eventName.includes(term)) score += 4;
+          if(articleDate.includes(term)) score += 2;
         }
         if(fullQuery){
           if(title.includes(fullQuery)) score += 10;
@@ -1104,7 +1123,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 5)
+      .slice(0, 8)
       .map(item => item.article);
   }
 
@@ -1178,7 +1197,19 @@
     if(!response.ok){
       const message = await response.text().catch(() => 'The chat service returned an error.');
       console.error('[AI Signal Chat] Error response:', message);
-      throw new Error(message || 'The chat service returned an error.');
+      // Parse error for user-friendly display
+      let friendlyError = '';
+      try {
+        const errObj = JSON.parse(message);
+        if(errObj.details?.error?.code === 429 || errObj.error?.includes('429') || message.includes('429')){
+          friendlyError = 'The AI model is temporarily busy (rate-limited). Retrying with a different model…';
+        } else {
+          friendlyError = errObj.details?.error?.message || errObj.error || message;
+        }
+      } catch { friendlyError = message; }
+      const err = new Error(friendlyError);
+      err.status = response.status;
+      throw err;
     }
 
     const contentType = response.headers.get('content-type') || '';
@@ -1352,28 +1383,59 @@
           ? `Using ${context.matches.length} relevant article${context.matches.length === 1 ? '' : 's'} as context. Waiting for AI response…`
           : 'No article matches — using general knowledge. Waiting for AI response…');
 
-        // Add a 60-second timeout
-        const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Response timed out after 60 seconds. The model may be busy — please try again.')), 60000));
+        // Build list of models to try: selected model first, then fallbacks
+        const FALLBACK_MODELS = [
+          'google/gemma-4-31b-it:free',
+          'meta-llama/llama-3.3-70b-instruct:free',
+          'qwen/qwen3-coder:free',
+          'nousresearch/hermes-3-llama-3.1-405b:free'
+        ];
+        const selectedModel = modelSelect.value;
+        const modelsToTry = [selectedModel, ...FALLBACK_MODELS.filter(m => m !== selectedModel)];
 
-        await Promise.race([
-          streamResponse({
-            model: modelSelect.value,
-            stream: true,
-            messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
-          }, token => {
-            if(!receivedToken){
-              typing.bubble.textContent = '';
-              updateStatus(root, 'Streaming response…');
-              receivedToken = true;
+        let lastError = null;
+        for(const tryModel of modelsToTry){
+          assistantText = '';
+          receivedToken = false;
+          try {
+            console.log('[AI Signal Chat] Trying model:', tryModel);
+            const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Response timed out after 60 seconds. The model may be busy — please try again.')), 60000));
+
+            await Promise.race([
+              streamResponse({
+                model: tryModel,
+                stream: true,
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+              }, token => {
+                if(!receivedToken){
+                  typing.bubble.textContent = '';
+                  updateStatus(root, 'Streaming response from ' + tryModel.split('/').pop().split(':')[0] + '…');
+                  receivedToken = true;
+                }
+                assistantText += token;
+                typing.bubble.innerHTML = renderMarkdown(assistantText);
+                messagesEl.scrollTop = messagesEl.scrollHeight;
+              }),
+              timeoutPromise
+            ]);
+
+            if(assistantText.trim()){ lastError = null; break; } // Success!
+          } catch(retryErr) {
+            console.warn('[AI Signal Chat] Model', tryModel, 'failed:', retryErr.message);
+            lastError = retryErr;
+            if(retryErr.status === 429 || retryErr.message.includes('rate-limited') || retryErr.message.includes('busy')){
+              updateStatus(root, `Model ${tryModel.split('/').pop().split(':')[0]} is busy — trying another model…`);
+              continue;
             }
-            assistantText += token;
-            typing.bubble.innerHTML = renderMarkdown(assistantText);
-            messagesEl.scrollTop = messagesEl.scrollHeight;
-          }),
-          timeoutPromise
-        ]);
+            break; // Non-retryable error
+          }
+        }
 
-        if(!assistantText.trim()){
+        if(lastError && !assistantText.trim()){
+          assistantText = 'All models are currently busy. Please try again in a minute.';
+          typing.bubble.innerHTML = renderMarkdown(assistantText);
+          updateStatus(root, 'All models busy — try again shortly.');
+        } else if(!assistantText.trim()){
           assistantText = 'I did not receive a response from the chat service. Please try again.';
           typing.bubble.textContent = assistantText;
         }
@@ -1434,5 +1496,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built June 04, 2026 at 23:29 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built June 05, 2026 at 00:09 UTC</footer>
 </body></html>

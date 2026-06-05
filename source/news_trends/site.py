@@ -508,20 +508,36 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
     # --- Merge preview / variant events into the main event ---
     # If "X" and "X Preview" (or "X Preview: subtitle") both exist,
     # fold the preview articles into the main event and drop the preview.
+    # If only preview variants exist (no base), create the base from previews.
     event_names = list(by_event.keys())
-    for ev in list(event_names):
-        # Check if this event is a preview/variant of another
+    # First pass: group previews by their base name
+    preview_groups: dict[str, list[str]] = defaultdict(list)
+    for ev in event_names:
         base = _re.sub(r"\s+Preview\b.*", "", ev).strip()
-        if base != ev and base in by_event:
-            by_event[base].extend(by_event.pop(ev))
-            # Also merge in by_company
-            for comp in list(by_company.keys()):
-                orig_len = len(by_company[comp])
-                by_company[comp] = [a for a in by_company[comp] if a.get("event_name") != ev]
-                if len(by_company[comp]) < orig_len:
-                    for a in by_event[base]:
-                        if comp in (a.get("entities") or []) and a not in by_company[comp]:
-                            by_company[comp].append(a)
+        if base != ev:
+            preview_groups[base].append(ev)
+    # Second pass: merge
+    for base, previews in preview_groups.items():
+        if base in by_event:
+            # Base exists — fold previews into it
+            for pv in previews:
+                if pv in by_event:
+                    by_event[base].extend(by_event.pop(pv))
+        else:
+            # No base event — create it from all preview variants
+            merged: list[dict] = []
+            for pv in previews:
+                if pv in by_event:
+                    merged.extend(by_event.pop(pv))
+            if merged:
+                by_event[base] = merged
+        # Also fix by_company references
+        for comp in list(by_company.keys()):
+            by_company[comp] = [a for a in by_company[comp] if a.get("event_name") not in previews]
+            if base in by_event:
+                for a in by_event[base]:
+                    if comp in (a.get("entities") or []) and a not in by_company[comp]:
+                        by_company[comp].append(a)
 
     # Extract registration URLs from event source markdown files
     event_urls: dict[str, list[tuple[str, str]]] = {}
@@ -694,7 +710,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
         if len(items) > _PAGE_SIZE:
             body += paginate_js
         _write(site / "events" / f"{slug}.html",
-               _render(ev_name, body, rel="../",
+               _render(ev_name, body, rel="../", active="events",
                        subtitle=f"{len(items)} articles from this event"))
         pages += 1
 
@@ -970,7 +986,7 @@ def run_build_site(cfg: Config) -> dict:
             body += paginate_js
         _write(site / "snapshots" / f"{d}.html",
                 _render(f"Snapshot \u2014 {_format_date(d)}", body, rel="../",
-                        subtitle=f"{len(items)} stories"))
+                        active="archive", subtitle=f"{len(items)} stories"))
         pages += 1
 
     # --- topics (exclude future-dated articles) ---
@@ -994,7 +1010,7 @@ def run_build_site(cfg: Config) -> dict:
         if len(items) > _PAGE_SIZE:
             body += paginate_js
         _write(site / "topics" / f"{t}.html",
-               _render(_topic_label(t), body, rel="../",
+               _render(_topic_label(t), body, rel="../", active="topics",
                        subtitle=f"{len(items)} stories"))
         pages += 1
 
@@ -1041,7 +1057,7 @@ def run_build_site(cfg: Config) -> dict:
         if len(items) > _PAGE_SIZE:
             body += paginate_js
         _write(site / "entities" / f"{safe}.html",
-               _render(f"{e}", body, rel="../",
+               _render(f"{e}", body, rel="../", active="entities",
                        subtitle=f"{len(items)} stories mentioning {e}"))
         pages += 1
 
