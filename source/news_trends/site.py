@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import html as _html
 import json
 import re as _re
 import urllib.parse
@@ -13,7 +14,7 @@ import yaml
 from jinja2 import Template
 
 from . import db
-from .chat import CHAT_BUBBLE_HTML, CHAT_CSS, build_chat_page
+from .chat import CHAT_BUBBLE_HTML, CHAT_CSS, _chat_shell, build_chat_page
 from .config import Config
 
 # ---------------------------------------------------------------------------
@@ -138,6 +139,9 @@ mark{background:#fef08a;border-radius:3px;padding:0 2px}
 .top-searches .ts-btn{padding:8px 16px;background:var(--card);border:1px solid var(--border);border-radius:20px;font-size:13px;font-weight:500;
                       color:var(--brand);cursor:pointer;transition:all .15s;text-decoration:none}
 .top-searches .ts-btn:hover{background:var(--brand-light);color:#fff;border-color:var(--brand-light);box-shadow:0 2px 8px rgba(26,115,232,.2)}
+.search-chat-section{margin:36px 0 16px;padding:22px 24px;background:linear-gradient(135deg,rgba(13,107,94,.06),rgba(16,185,129,.1));border:1px solid rgba(13,107,94,.16);border-radius:18px}
+.search-chat-section h2{margin:0 0 8px;border:none;padding:0;color:var(--brand)}
+.search-chat-desc{margin:0;color:#475569;font-size:14px}
 
 /* ---- event cards ---- */
 .event-card{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border:1px solid #bae6fd;border-radius:var(--radius);padding:20px 24px;margin:14px 0}
@@ -184,6 +188,37 @@ mark{background:#fef08a;border-radius:3px;padding:0 2px}
 .compare-stat{font-size:13px;color:var(--muted);margin-bottom:4px}
 .compare-num{font-weight:700;color:var(--brand);font-size:15px}
 .compare-themes{font-size:12px;color:var(--muted);margin-top:8px;font-style:italic}
+.compare-link-row{margin:18px 0 0}
+.compare-link{display:inline-flex;align-items:center;gap:8px;color:var(--brand);font-size:14px;font-weight:700;text-decoration:none}
+.compare-link:hover{color:var(--brand-light);text-decoration:underline}
+.compare-page-intro{margin-bottom:24px;padding:24px;background:linear-gradient(135deg,rgba(13,107,94,.07),rgba(245,158,11,.08));border:1px solid rgba(13,107,94,.16);border-radius:var(--radius)}
+.compare-page-intro h2{margin:0 0 8px;border:none;padding:0}
+.compare-page-intro p{margin:0;color:#475569;max-width:78ch}
+.compare-page-layout{display:grid;grid-template-columns:minmax(220px,280px) minmax(0,1fr);gap:20px;align-items:start}
+.compare-tabs{display:grid;gap:10px;position:sticky;top:20px}
+.compare-tab-btn{width:100%;text-align:left;padding:14px 16px;border:1px solid var(--border);border-radius:14px;background:var(--card);color:var(--text);font-size:13px;font-weight:700;cursor:pointer;transition:all .2s}
+.compare-tab-btn:hover{border-color:var(--brand-light);box-shadow:0 4px 16px rgba(13,107,94,.08)}
+.compare-tab-btn.active{background:linear-gradient(135deg,var(--brand),var(--brand-light));border-color:transparent;color:#fff}
+.compare-content{min-width:0}
+.compare-doc{display:none;background:var(--card);border:1px solid var(--border);border-radius:18px;padding:24px 26px;box-shadow:0 10px 28px rgba(15,23,42,.05)}
+.compare-doc.active{display:block}
+.compare-doc-header{margin-bottom:20px}
+.compare-doc-header h2{margin:0 0 6px;border:none;padding:0}
+.compare-doc-source{margin:0;color:var(--muted);font-size:12px}
+.compare-doc h1,.compare-doc h2,.compare-doc h3,.compare-doc h4{border:none;padding:0;color:var(--brand)}
+.compare-doc h1{font-size:28px;margin:0 0 14px}
+.compare-doc h2{font-size:22px;margin:26px 0 12px}
+.compare-doc h3{font-size:18px;margin:22px 0 10px}
+.compare-doc h4{font-size:15px;margin:18px 0 8px}
+.compare-doc p{margin:0 0 14px}
+.compare-doc ul,.compare-doc ol{margin:0 0 16px 22px;padding:0}
+.compare-doc li{margin:6px 0}
+.compare-doc hr{border:none;border-top:1px solid var(--border);margin:22px 0}
+.compare-doc pre{margin:0 0 16px;padding:14px 16px;border-radius:14px;background:#0f172a;color:#e2e8f0;overflow:auto}
+.compare-doc code{font-family:Consolas,'Courier New',monospace}
+.compare-doc table{width:100%;border-collapse:collapse;margin:0 0 18px;display:block;overflow-x:auto}
+.compare-doc th,.compare-doc td{padding:10px 12px;border:1px solid var(--border);text-align:left;vertical-align:top}
+.compare-doc th{background:#f8fafc;color:var(--brand)}
 .digest-events-section{margin-top:20px}
 .digest-toggle{cursor:pointer;font-size:14px;font-weight:600;color:var(--muted);padding:12px 16px;border:1px dashed var(--border);border-radius:var(--radius);list-style:none}
 .digest-toggle:hover{color:var(--brand);border-color:var(--brand-light)}
@@ -257,6 +292,10 @@ a.curated-link:hover{background:var(--brand-light);color:#fff;box-shadow:0 2px 8
 .submit-history .status.rejected{background:#fbe9e7;color:#c62828}
 
 /* ---- responsive ---- */
+@media(max-width:900px){
+  .compare-page-layout{grid-template-columns:1fr}
+  .compare-tabs{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));position:static}
+}
 @media(max-width:640px){
   header{flex-direction:column;align-items:flex-start;gap:4px;padding:12px 16px}
   .brand{margin-right:0;padding:8px 0 4px}
@@ -266,6 +305,8 @@ a.curated-link:hover{background:var(--brand-light);color:#fff;box-shadow:0 2px 8
   .snap-nav{flex-direction:column;align-items:stretch;text-align:center}
   .hero{margin:-16px -16px 20px;padding:24px 20px 20px}
   .hero .hero-stats{flex-wrap:wrap;gap:16px}
+  .chat-highlight{padding:16px 18px}
+  .compare-doc{padding:18px}
 }
 """
 
@@ -492,6 +533,222 @@ def _write(path: Path, html: str) -> None:
     path.write_text(html, encoding="utf-8")
 
 
+def _chat_highlight(title: str, description: str, rel: str = "") -> str:
+    return (
+        '<div class="chat-highlight">'
+        '<div class="chat-highlight-icon">💬</div>'
+        '<div class="chat-highlight-text">'
+        f'<strong>{_html.escape(title)}</strong>'
+        f'<span>{_html.escape(description)}</span>'
+        '</div>'
+        f'<a href="{rel}chat.html" class="chat-highlight-btn">Open AI Chat →</a>'
+        '</div>'
+    )
+
+
+def _md_inline(text: str) -> str:
+    text = _html.escape(text.strip())
+    text = _re.sub(r'`([^`]+)`', r'<code>\1</code>', text)
+    text = _re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+    text = _re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'<em>\1</em>', text)
+    return text
+
+
+def _md_to_html(text: str) -> str:
+    html_parts: list[str] = []
+    paragraph_lines: list[str] = []
+    list_items: list[str] = []
+    list_kind: str | None = None
+    table_rows: list[list[str]] = []
+    code_lines: list[str] = []
+    in_code = False
+
+    def flush_paragraph() -> None:
+        nonlocal paragraph_lines
+        if paragraph_lines:
+            html_parts.append(f'<p>{_md_inline(" ".join(paragraph_lines))}</p>')
+            paragraph_lines = []
+
+    def flush_list() -> None:
+        nonlocal list_items, list_kind
+        if list_items and list_kind:
+            html_parts.append(f'<{list_kind}>{"".join(list_items)}</{list_kind}>')
+            list_items = []
+            list_kind = None
+
+    def flush_table() -> None:
+        nonlocal table_rows
+        if not table_rows:
+            return
+
+        def is_sep(row: list[str]) -> bool:
+            return bool(row) and all(cell and set(cell) <= {':', '-'} for cell in row)
+
+        header = table_rows[0]
+        body_rows = table_rows[1:]
+        if len(table_rows) > 1 and is_sep(table_rows[1]):
+            body_rows = table_rows[2:]
+        table_html = ['<table>']
+        if header:
+            table_html.append('<thead><tr>' + ''.join(f'<th>{_md_inline(cell)}</th>' for cell in header) + '</tr></thead>')
+        if body_rows:
+            table_html.append('<tbody>' + ''.join(
+                '<tr>' + ''.join(f'<td>{_md_inline(cell)}</td>' for cell in row) + '</tr>'
+                for row in body_rows
+            ) + '</tbody>')
+        table_html.append('</table>')
+        html_parts.append(''.join(table_html))
+        table_rows = []
+
+    def flush_code() -> None:
+        nonlocal code_lines
+        if code_lines:
+            html_parts.append('<pre><code>' + _html.escape('\n'.join(code_lines)) + '</code></pre>')
+            code_lines = []
+
+    for raw_line in text.splitlines():
+        line = raw_line.rstrip()
+        stripped = line.strip()
+
+        if in_code:
+            if stripped.startswith('```'):
+                flush_code()
+                in_code = False
+            else:
+                code_lines.append(raw_line)
+            continue
+
+        if stripped.startswith('```'):
+            flush_paragraph()
+            flush_list()
+            flush_table()
+            in_code = True
+            code_lines = []
+            continue
+
+        if not stripped:
+            flush_paragraph()
+            flush_list()
+            flush_table()
+            continue
+
+        if stripped == '---':
+            flush_paragraph()
+            flush_list()
+            flush_table()
+            html_parts.append('<hr>')
+            continue
+
+        if stripped.startswith('|') and stripped.endswith('|'):
+            flush_paragraph()
+            flush_list()
+            table_rows.append([cell.strip() for cell in stripped.strip('|').split('|')])
+            continue
+        flush_table()
+
+        heading = _re.match(r'^(#{1,4})\s+(.*)$', stripped)
+        if heading:
+            flush_paragraph()
+            flush_list()
+            level = len(heading.group(1))
+            html_parts.append(f'<h{level}>{_md_inline(heading.group(2))}</h{level}>')
+            continue
+
+        ul_item = _re.match(r'^[-*]\s+(.*)$', stripped)
+        if ul_item:
+            flush_paragraph()
+            if list_kind != 'ul':
+                flush_list()
+                list_kind = 'ul'
+            list_items.append(f'<li>{_md_inline(ul_item.group(1))}</li>')
+            continue
+
+        ol_item = _re.match(r'^\d+\.\s+(.*)$', stripped)
+        if ol_item:
+            flush_paragraph()
+            if list_kind != 'ol':
+                flush_list()
+                list_kind = 'ol'
+            list_items.append(f'<li>{_md_inline(ol_item.group(1))}</li>')
+            continue
+
+        paragraph_lines.append(stripped)
+
+    flush_paragraph()
+    flush_list()
+    flush_table()
+    if in_code:
+        flush_code()
+    return ''.join(html_parts)
+
+
+def _build_build_io_compare_page(cfg: Config, site: Path) -> int:
+    compare_specs = [
+        ('01_Build_vs_IO_Executive_Summary.md', 'Executive Summary'),
+        ('02_Google_Microsoft_AI_Models_Comparison.md', 'Models'),
+        ('03_Microsoft_Google_Agent_Platforms_Comparison.md', 'Agent Platforms'),
+        ('04_Microsoft_Google_Infrastructure_Developer_Tools.md', 'Infrastructure & Tools'),
+        ('05_Microsoft_Google_Market_Positioning_Strategy.md', 'Strategy'),
+        ('07_Microsoft_Google_Quick_Reference_Guide.md', 'Quick Reference'),
+    ]
+    docs: list[dict[str, str]] = []
+    for idx, (filename, tab_label) in enumerate(compare_specs):
+        path = cfg.news_dir / filename
+        if not path.exists():
+            continue
+        text = path.read_text(encoding='utf-8', errors='replace')
+        title = tab_label
+        for line in text.splitlines():
+            if line.startswith('#'):
+                title = line.lstrip('#').strip() or tab_label
+                break
+        docs.append({
+            'id': f'compare-doc-{idx}',
+            'tab': tab_label,
+            'title': title,
+            'source': filename,
+            'content': _md_to_html(text),
+        })
+
+    if not docs:
+        body = '<p>No Build vs I/O comparison files were found.</p>'
+    else:
+        tabs_html = ''.join(
+            f'<button class="compare-tab-btn{" active" if i == 0 else ""}" onclick="showCompareDoc(this, \'{doc["id"]}\')">{_html.escape(doc["tab"])}</button>'
+            for i, doc in enumerate(docs)
+        )
+        docs_html = ''.join(
+            f'<section id="{doc["id"]}" class="compare-doc{" active" if i == 0 else ""}">'
+            f'<div class="compare-doc-header"><h2>{_html.escape(doc["title"])}</h2>'
+            f'<p class="compare-doc-source">Source: news/{_html.escape(doc["source"])}</p></div>'
+            f'{doc["content"]}'
+            '</section>'
+            for i, doc in enumerate(docs)
+        )
+        body = (
+            '<div class="compare-page-intro">'
+            '<h2>⚡ Microsoft Build vs Google I/O</h2>'
+            '<p>Explore the full side-by-side comparison across strategy, models, agent platforms, infrastructure, and quick-reference takeaways.</p>'
+            '</div>'
+            '<div class="compare-page-layout">'
+            f'<div class="compare-tabs">{tabs_html}</div>'
+            f'<div class="compare-content">{docs_html}</div>'
+            '</div>'
+            '<script>'
+            'function showCompareDoc(btn,id){'
+            'document.querySelectorAll(".compare-doc").forEach(el=>el.classList.remove("active"));'
+            'document.querySelectorAll(".compare-tab-btn").forEach(el=>el.classList.remove("active"));'
+            'document.getElementById(id).classList.add("active");'
+            'btn.classList.add("active");}'
+            '</script>'
+        )
+
+    _write(site / 'compare-build-io.html',
+           _render('Build vs I/O Comparison', body, active='events',
+                   subtitle='Tabbed comparison of Microsoft Build and Google I/O coverage'))
+    return 1
+
+
 def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
                        entity_files: dict[str, str]) -> int:
     """Build event pages using DB-indexed event articles.
@@ -502,9 +759,12 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
     """
     event_articles = [a for a in canonical if a.get("event_name")]
     if not event_articles:
+        empty_body = _chat_highlight(
+            "The best way to explore event coverage is AI Chat",
+            "Ask about events — 'Summarize Microsoft Build' or 'What was announced at Google I/O?'",
+        ) + "<p>No event coverage found. Run the pipeline to ingest event files.</p>"
         _write(site / "events.html",
-               _render("Events", "<p>No event coverage found. Run the pipeline to ingest event files.</p>",
-                       active="events"))
+               _render("Events", empty_body, active="events"))
         return 1
 
     pages = 0
@@ -684,6 +944,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
             '<h2>⚡ Major Conference Showdown</h2>'
             '<p class="compare-subtitle">Side-by-side coverage of the biggest AI conferences</p>'
             '<div class="compare-grid">' + "".join(comp_items) + '</div>'
+            '<p class="compare-link-row"><a href="compare-build-io.html" class="compare-link">View full comparison →</a></p>'
             '</div>'
         )
 
@@ -764,8 +1025,12 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
         '</script>'
     )
 
+    events_body = _chat_highlight(
+        "The best way to explore event coverage is AI Chat",
+        "Ask about events — 'Summarize Microsoft Build' or 'What was announced at Google I/O?'",
+    ) + tab_html
     _write(site / "events.html",
-           _render("Events", tab_html, active="events",
+           _render("Events", events_body, active="events",
                    subtitle=f"{len(event_articles)} articles across {len(by_event)} events \u00b7 {len(by_company)} companies"))
     pages += 1
 
@@ -1033,16 +1298,9 @@ def run_build_site(cfg: Config) -> dict:
         f'<div class="hero-stat"><div class="num">{urls_count}</div><div class="lbl">Linked</div></div>'
         f'</div></div>'
     )
-    chat_highlight = (
-        '<div class="chat-highlight">'
-        '<div class="chat-highlight-icon">💬</div>'
-        '<div class="chat-highlight-text">'
-        '<strong>Try AI Chat — the fastest way to explore the news</strong>'
-        '<span>Ask questions in natural language and get answers grounded in the latest articles. '
-        '"What happened with OpenAI this week?" or "Summarize Google I/O announcements"</span>'
-        '</div>'
-        '<a href="chat.html" class="chat-highlight-btn">Open AI Chat →</a>'
-        '</div>'
+    chat_highlight = _chat_highlight(
+        "Try AI Chat — the fastest way to explore the news",
+        'Ask questions in natural language and get answers grounded in the latest articles. "What happened with OpenAI this week?" or "Summarize Google I/O announcements"',
     )
     body = chat_highlight + _cards(snap, entity_files=entity_files)
     _write(site / "index.html",
@@ -1063,8 +1321,12 @@ def run_build_site(cfg: Config) -> dict:
         f'<div class="count">{len(by_date[d])}</div><div class="label">stories</div></div>'
         for d in sorted_dates
     ) + '</div>'
+    archive_body = _chat_highlight(
+        "The best way to explore news across the timeline is AI Chat",
+        "Ask about any date — 'What happened on May 30?' or 'Summarize last week's news'",
+    ) + rows
     _write(site / "archive.html",
-           _render("Timeline", rows, active="archive",
+           _render("Timeline", archive_body, active="archive",
                    subtitle=f"{len(by_date)} days \u00b7 {total_canon:,} articles"))
     pages += 1
     for i, d in enumerate(sorted_dates):
@@ -1101,8 +1363,12 @@ def run_build_site(cfg: Config) -> dict:
         f'<div class="count">{len(items)}</div><div class="label">stories</div></div>'
         for t, items in sorted(by_topic.items(), key=lambda x: len(x[1]), reverse=True)
     ) + '</div>'
+    topics_body = _chat_highlight(
+        "The best way to explore news by theme is AI Chat",
+        "Ask about topics — 'Latest model breakthroughs?' or 'Policy news this week?'",
+    ) + topic_rows
     _write(site / "topics.html",
-           _render("Themes", topic_rows, active="topics",
+           _render("Themes", topics_body, active="topics",
                    subtitle="Browse AI news by theme"))
     pages += 1
     for t, items in by_topic.items():
@@ -1147,8 +1413,12 @@ def run_build_site(cfg: Config) -> dict:
             f'<div class="meta"><span>{c} {"story" if c == 1 else "stories"}</span></div></div>'
         )
     ent_rows = "\n".join(ent_body_parts)
+    entities_body = _chat_highlight(
+        "The best way to explore company news is AI Chat",
+        "Ask about companies — 'What\'s new with NVIDIA?' or 'Latest OpenAI funding news'",
+    ) + ent_rows
     _write(site / "entities.html",
-           _render("Companies", ent_rows, active="entities",
+           _render("Companies", entities_body, active="entities",
                    subtitle=f"{len(sorted_entities)} companies & organizations tracked"))
     pages += 1
     for e, items in by_entity.items():
@@ -1164,6 +1434,7 @@ def run_build_site(cfg: Config) -> dict:
     # --- event pages (from DB-indexed event articles) ---
     events = _build_event_pages(cfg, site, canonical, entity_files)
     pages += events
+    pages += _build_build_io_compare_page(cfg, site)
 
     # --- submit link page ---
     pages += _build_submit_page(site, cfg, canonical)
@@ -1190,6 +1461,12 @@ def run_build_site(cfg: Config) -> dict:
         + "".join(f'<a class="ts-btn" href="#" onclick="document.getElementById(\'q\').value=\'{s}\';document.getElementById(\'q\').dispatchEvent(new Event(\'input\'));return false">{s}</a>'
                   for s in suggested)
         + '</div></div>'
+    )
+    search_chat = (
+        '<div class="search-chat-section">'
+        "<h2>💬 Can't find what you're looking for? Ask AI</h2>"
+        '<p class="search-chat-desc">The AI assistant searches through all articles and answers your question.</p>'
+        '</div>'
     )
 
     search_body = f"""<div class="search-box">
@@ -1237,7 +1514,12 @@ q.addEventListener('input',()=>{{const raw=q.value;const parsed=parseQuery(raw);
   +`<div class="summary">${{hl((a.summary||'').slice(0,300),allTerms)}}</div>`
   +`<div class="tags">${{(a.entities||[]).map(e=>`<span class="tag tag-entity">${{e}}</span>`).join('')}}</div>`
   +`</article>`}}).join(''):'<p style="color:var(--muted);text-align:center;margin-top:40px">No results found. Try different keywords or use OR between terms.</p>';}});
-</script>"""
+</script>""" + search_chat + _chat_shell(
+       "page",
+       "AI Search Assistant",
+       "Ask a question — the assistant searches all articles for relevant context.",
+       compact=False,
+   )
     _write(site / "search.html",
            _render("Search", search_body, active="search",
                    subtitle=f"Search across {len(search_index):,} articles"))
