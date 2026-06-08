@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 - 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
+- 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 embedding_id: 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Big-tech share repurchases have been falling sharply as hyperscalers redirect ca
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
 <!-- graph:end -->

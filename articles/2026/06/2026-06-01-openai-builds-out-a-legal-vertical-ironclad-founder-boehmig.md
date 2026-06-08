@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
+- 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
 embedding_id: 2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Jason Boehmig, founder of contract-management pioneer Ironclad, has joined OpenA
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
+**Related:** [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]]
 <!-- graph:end -->

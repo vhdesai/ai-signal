@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-22-sources-the-information-cnbc-reuters-semafor-forbes-bloomber
 - 2026-04-02-daily-ai-news-digest
 - 2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber
-- 2026-05-20-ai-news-digest-may-20-2026
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 embedding_id: 2026-05-15-daily-ai-news-digest-microsoft-corp-dev-tech-assessment-inte
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-22-sources-the-information-cnbc-reuters-semafor-forbes-bloomber]] · [[2026-04-02-daily-ai-news-digest]] · [[2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber]] · [[2026-05-20-ai-news-digest-may-20-2026]]
+**Related:** [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-22-sources-the-information-cnbc-reuters-semafor-forbes-bloomber]] · [[2026-04-02-daily-ai-news-digest]] · [[2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
 <!-- graph:end -->

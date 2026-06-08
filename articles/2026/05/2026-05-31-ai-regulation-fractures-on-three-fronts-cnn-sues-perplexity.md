@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
-- 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
-- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
+- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-06-07-wsj-the-artificial-intelligence-backlash
 embedding_id: 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CNN filed a copyright and trademark suit against Perplexity in the Southern Dist
 
 **Entities:** [[OpenAI]] · [[Perplexity]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]]
+**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
 <!-- graph:end -->

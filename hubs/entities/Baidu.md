@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 29
+member_count: 32
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 29 connected article(s).
+> Auto-generated entity hub. 32 connected article(s).
 
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-07` [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz|### Baidu Restructures Core Business Unit in AI-Driven Reorganization]]
 - `2026-05-27` [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe|Tencent Cloud Begins Paid Commercial Services for Hy3 Preview and DeepSeek-V4-Pro]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
 - `2026-05-26` [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles|Pony AI lifts 2026 robotaxi fleet goal to 3,500 vehicles]]

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 embedding_id: 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Apple will replace ChatGPT's exclusive Siri integration with an open "Extensions
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Related:** [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
+**Related:** [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]]
 <!-- graph:end -->

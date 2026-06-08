@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 66
+member_count: 68
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 66 connected article(s).
+> Auto-generated entity hub. 68 connected article(s).
 
+- `2026-06-07` [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz|### Baidu Restructures Core Business Unit in AI-Driven Reorganization]]
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar|### Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
 - `2026-06-03` [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio|DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fund]]
 - `2026-06-03` [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r|Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies]]

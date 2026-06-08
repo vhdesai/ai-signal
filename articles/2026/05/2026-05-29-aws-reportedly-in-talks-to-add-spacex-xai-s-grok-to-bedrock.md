@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 - 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-- 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 embedding_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reported, and The Register analyzed, that AWS is in talks to ad
 
 **Entities:** [[Amazon]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in]]
+**Related:** [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]]
 <!-- graph:end -->

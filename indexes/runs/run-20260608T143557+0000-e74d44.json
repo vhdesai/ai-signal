@@ -1,0 +1,21 @@
+{
+  "run_id": "20260608T143557+0000-e74d44",
+  "started_at": "2026-06-08T14:35:57+00:00",
+  "finished_at": "2026-06-08T14:36:00+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 220,
+      "digests_changed": 7,
+      "changed": [
+        "news\\2026-06-06_060013_Daily-AI-News-Digest.md",
+        "news\\2026-06-06_070013_Final-Daily-AI-News-Digest.md",
+        "news\\2026-06-07_060026_Daily-AI-News-Digest.md",
+        "news\\2026-06-07_070026_Final-Daily-AI-News-Digest.md",
+        "news\\2026-06-08_060034_Daily-AI-News-Digest.md",
+        "news\\2026-06-08_070034_Final-Daily-AI-News-Digest.md",
+        "news\\2026-06-08_071435_Final-Daily-AI-News-Digest.md"
+      ]
+    }
+  }
+}

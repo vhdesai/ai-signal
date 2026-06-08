@@ -18,13 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
-- 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
-- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
-- 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
+dedupe_status: duplicate
+canonical_article_id: 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
+related_article_ids: []
 embedding_id: 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
 event_name: ''
 ---
@@ -38,5 +34,5 @@ Nvidia authorized its largest-ever $80B share repurchase and raised its dividend
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]]
+**Canonical:** [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend]]
 <!-- graph:end -->

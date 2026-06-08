@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 embedding_id: 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Chinese firms are increasingly routing around Nvidia GPUs by designing applicati
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
+**Related:** [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]]
 <!-- graph:end -->

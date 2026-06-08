@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
+- 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
+- 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
-- 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
 embedding_id: 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Networking-software firm DriveNets closed a $410M Series D at an $8.5B valuation
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]]
+**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

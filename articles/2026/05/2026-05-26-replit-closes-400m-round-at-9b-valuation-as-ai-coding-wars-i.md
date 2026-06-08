@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-- 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
+- 2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding
 embedding_id: 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Replit tripled its valuation from $3B to $9B in a Georgian-led Series D, expandi
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]]
+**Related:** [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]]
 <!-- graph:end -->

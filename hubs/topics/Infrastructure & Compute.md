@@ -1,22 +1,46 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 577
+member_count: 601
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 577 connected article(s).
+> Auto-generated topic hub. 601 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
+- `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|### AMD Commits £2B to Accelerate UK AI at London Tech Week]]
+- `2026-06-08` [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk|### AMD Commits £2 Billion to Accelerate AI Innovation in the UK]]
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-07` [[2026-06-07-wsj-the-artificial-intelligence-backlash|### WSJ: "The Artificial Intelligence Backlash"]]
+- `2026-06-07` [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na|### SK Telecom to Build Gigawatt-Scale AI Cloud on Nvidia DSX; NAVER and LG Group Stand Up AI Factories]]
+- `2026-06-07` [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l|### Politico: "It's a Hurricane Warning"—AI Guardrails May Be Too Late]]
+- `2026-06-07` [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai|### Nvidia and SK Hynix Sign Multiyear Memory Partnership for AI Factories]]
+- `2026-06-07` [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc|### Nvidia and SK Hynix Announce Multiyear Partnership to Advance Memory for AI Factories]]
+- `2026-06-07` [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics|### Nvidia and Doosan Advance Physical AI and Robotics]]
+- `2026-06-07` [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo|### Nvidia Reports Doubling of UK Sovereign-AI Deployments at London Tech Week]]
+- `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
+- `2026-06-07` [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia|### $1.3 Trillion Semiconductor Selloff Rattles AI Stocks; Nvidia CEO Shrugs Off Rout]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|### Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu|### Huawei Confirms Ascend 950DT AI Chip for August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-anthropic-suffers-multi-model-claude-outage|### Anthropic Suffers Multi-Model Claude Outage]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
 - `2026-06-05` [[2026-06-05-switch-in-talks-to-raise-at-50b-valuation|Switch in Talks to Raise at $50B+ Valuation]]
 - `2026-06-05` [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend|Nvidia Authorizes Record $80B Buyback; Raises Dividend]]
 - `2026-06-05` [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st|Meta Plans Massive Stock Sale to Fund $145B AI Investments; Stock Drops 5.5%]]
 - `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t|Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB]]
 - `2026-06-05` [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi|AirTrunk Commits $30B to Build 5GW of AI Data Centers in India]]
+- `2026-06-05` [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai|### Meta Reportedly Plans Massive Stock Sale to Fund $145B in AI Investments; Stock Drops]]
+- `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor|### Google Ships Gemma 4 QAT Checkpoints, Cutting On-Device Memory to ~1GB]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an|### Anthropic Faces Multi-Model Claude Outage; Notion Disables Anthropic Models]]
 - `2026-06-04` [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s|TSMC Warns AI Demand Is Straining the Entire Semiconductor Supply Chain]]
 - `2026-06-04` [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu|Meta Builds Data Centers in Tents to Keep Pace with AI Compute Demand]]
 - `2026-06-04` [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu|Foxconn and Intel Partner on Next-Generation AI Infrastructure]]

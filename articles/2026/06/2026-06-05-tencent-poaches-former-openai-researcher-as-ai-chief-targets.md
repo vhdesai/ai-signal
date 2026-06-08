@@ -23,10 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
+- 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
-- 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
-- 2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te
+- 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
 embedding_id: 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Tencent appointed Yao Shunyu — a former OpenAI researcher — as AI chief with
 
 **Entities:** [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te]]
+**Related:** [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]]
 <!-- graph:end -->

@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 128
+member_count: 130
 ---
 
 # Apple
 
-> Auto-generated entity hub. 128 connected article(s).
+> Auto-generated entity hub. 130 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,6 +16,8 @@ member_count: 128
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-04` [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business|Apple Approves First AI Agent on Messages for Business]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-05-31` [[2026-05-31-microsoft-confirms-no-windows-12-teases-nvidia-n1x-arm-pc-ah|### Microsoft confirms no "Windows 12," teases NVIDIA N1X ARM PC ahead of a major announcement]]

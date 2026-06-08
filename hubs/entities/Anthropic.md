@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 558
+member_count: 572
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 558 connected article(s).
+> Auto-generated entity hub. 572 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -18,13 +18,27 @@ member_count: 558
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-07` [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80|Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code]]
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-07` [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l|### Politico: "It's a Hurricane Warning"—AI Guardrails May Be Too Late]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
+- `2026-06-07` [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses|### Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
+- `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
+- `2026-06-07` [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w|### Anthropic Argues for Conditional "Pause" Option as AI Begins Writing Its Own Code]]
 - `2026-06-06` [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau|Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thing"]]
 - `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump|### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec|### OpenAI Unveils Lockdown Mode to Protect Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-anthropic-suffers-multi-model-claude-outage|### Anthropic Suffers Multi-Model Claude Outage]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
 - `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
 - `2026-06-05` [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward|OpenAI and Anthropic Share ~90 Investors as Both Race Toward IPOs]]
 - `2026-06-05` [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati|NSA Reportedly Readying Anthropic's Mythos for Cyber Operations]]
 - `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se|### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions|### Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IPO]]
+- `2026-06-05` [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an|### Anthropic Faces Multi-Model Claude Outage; Notion Disables Anthropic Models]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
 - `2026-06-04` [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return|Anthropic's Daniela Amodei Shrugs Off Doubts About AI Returns Pre-IPO]]
 - `2026-06-04` [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai|Anthropic Calls for Coordinated Global Pause in Frontier AI Development]]

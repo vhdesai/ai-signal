@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
-- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 embedding_id: 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Environmental activist Erin Brockovich has launched a campaign targeting the lac
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
+**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

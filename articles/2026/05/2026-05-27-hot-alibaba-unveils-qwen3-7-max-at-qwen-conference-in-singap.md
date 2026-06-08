@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
+- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 embedding_id: 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 event_name: ''
@@ -38,5 +39,5 @@ Alibaba showcased Qwen3.7-Max — its latest flagship LLM positioned for buildin
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
+**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

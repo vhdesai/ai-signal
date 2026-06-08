@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
+- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
-- 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
 embedding_id: 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A weekend analysis frames an "AI affordability wake-up call": token-based pricin
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]]
+**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]]
 <!-- graph:end -->

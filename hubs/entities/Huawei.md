@@ -1,15 +1,19 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 73
+member_count: 77
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 73 connected article(s).
+> Auto-generated entity hub. 77 connected article(s).
 
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|### Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu|### Huawei Confirms Ascend 950DT AI Chip for August; Pledges Annual Chip Cadence]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m|DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
 - `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-30` [[2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031|### Huawei Outlines Post-Moore "Tau Scaling Law" and 1.4nm-by-2031 Chip Roadmap]]

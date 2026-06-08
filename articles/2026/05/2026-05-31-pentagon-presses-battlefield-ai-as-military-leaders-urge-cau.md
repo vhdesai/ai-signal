@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
+- 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
-- 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
-- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-- 2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits
-- 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
+- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -37,5 +37,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t
+- 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
 - 2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn
 - 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
-- 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 embedding_id: 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google's ~12B-parameter Gemma 4 under Apache 2.0 is engineered for 16GB consumer
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t]] · [[2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]]
+**Related:** [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop]] · [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t]] · [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor]] · [[2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]]
 <!-- graph:end -->

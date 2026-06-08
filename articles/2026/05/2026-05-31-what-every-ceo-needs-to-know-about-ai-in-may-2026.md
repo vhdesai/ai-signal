@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-06-04-forbes
-- 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Forbes published an executive-oriented synthesis of the month's AI developments,
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-04-forbes]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-04-forbes]]
 <!-- graph:end -->

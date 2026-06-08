@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
+- 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
-- 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is hiring robotics engineers for a new division spun out of its world-sim
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
+**Related:** [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
 <!-- graph:end -->

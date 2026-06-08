@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 - 2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1
 - 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
-- 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 embedding_id: 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX's $75B offering — 555.55M shares at $135 — is oversubscribed. Morgan 
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]]
+**Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]]
 <!-- graph:end -->

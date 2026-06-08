@@ -1,19 +1,23 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 340
+member_count: 344
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 340 connected article(s).
+> Auto-generated entity hub. 344 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec|### OpenAI Unveils Lockdown Mode to Protect Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git|### "Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
 - `2026-06-06` [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod|"Miasma Worm" Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
 - `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
 - `2026-06-02` [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse|Microsoft and Mayo Clinic Partner to Build Healthcare-Focused Frontier AI Model]]
 - `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|Microsoft Set to Debut In-House MAI Model Family at Build 2026]]
 - `2026-06-02` [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf|Microsoft Launches Scout Agent, Agent 365 Governance, and Surface RTX Spark Dev Box]]

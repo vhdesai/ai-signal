@@ -21,6 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
+- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
+- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 embedding_id: 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 event_name: ''
@@ -35,5 +37,5 @@ Unitree announced H2 Plus, a humanoid robot positioned as an NVIDIA Isaac GR00T 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
+**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]]
 <!-- graph:end -->

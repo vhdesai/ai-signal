@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Supabase raised $500M at ~$10.5B, doubling for the third time in two years. CEO 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
 <!-- graph:end -->

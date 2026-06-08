@@ -19,14 +19,9 @@ themes:
 - datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
-- 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
-- 2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-- 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
+dedupe_status: duplicate
+canonical_article_id: 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
+related_article_ids: []
 embedding_id: 2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t
 event_name: ''
 ---
@@ -40,5 +35,5 @@ QAT versions of Gemma 4 across five sizes preserve quality while sharply reducin
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]]
+**Canonical:** [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor]]
 <!-- graph:end -->

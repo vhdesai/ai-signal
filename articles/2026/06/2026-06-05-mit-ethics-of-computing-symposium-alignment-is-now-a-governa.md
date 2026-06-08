@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
 - 2026-05-20-ai-alignment-via-debate-fresh-empirical-results
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
-- 2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability
 embedding_id: 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MIT's third annual SERC symposium convened MIT, Google DeepMind, and OpenAI rese
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-05-20-ai-alignment-via-debate-fresh-empirical-results]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]]
+**Related:** [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-05-20-ai-alignment-via-debate-fresh-empirical-results]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]]
 <!-- graph:end -->

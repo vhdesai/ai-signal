@@ -29,8 +29,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 embedding_id: 2026-04-23-the-most-important-ai-developments-across-industry-research
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Today's big picture: April 23, 2026 finds AI at a genuine inflection point — n
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
+**Related:** [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

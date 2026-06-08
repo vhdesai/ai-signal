@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
 - 2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o
 - 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
+- 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni
 embedding_id: 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cornell University's AI Initiative convened civic and technology leaders for a f
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]] · [[2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o]] · [[2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-18-breaking-cornell-and-toyota-research-institute-launch-31-uni]]
+**Related:** [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]] · [[2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o]] · [[2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit]] · [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
 <!-- graph:end -->

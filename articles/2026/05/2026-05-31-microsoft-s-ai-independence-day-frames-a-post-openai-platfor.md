@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information described Microsoft’s effort to demonstrate that its AI platfo
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
+**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

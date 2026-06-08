@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 581
+member_count: 596
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 581 connected article(s).
+> Auto-generated entity hub. 596 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,15 +16,30 @@ member_count: 581
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-08` [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules|### ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead|OpenAI Plans ChatGPT "Superapp" Overhaul — "Chat Is Dead"]]
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-07` [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e|### Semafor: Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
+- `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo|### OpenAI Plans ChatGPT "Superapp" Overhaul Ahead of IPO]]
+- `2026-06-07` [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses|### Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
 - `2026-06-06` [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau|Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thing"]]
 - `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump|### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec|### OpenAI Unveils Lockdown Mode to Protect Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
 - `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
 - `2026-06-05` [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward|OpenAI and Anthropic Share ~90 Investors as Both Race Toward IPOs]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
 - `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa|MIT Ethics of Computing Symposium: Alignment Is Now a Governance Question]]
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar|### Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI]]
+- `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se|### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11]]
+- `2026-06-05` [[2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery|### Pfizer Signs AI Drug Discovery License with Chai Discovery]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-04` [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory|OpenAI Introduces "Dreaming" to Overhaul ChatGPT Memory]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
 - `2026-06-04` [[2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a|Altman Urges Congress to Fund AI Testing, Not Require Model Approvals]]

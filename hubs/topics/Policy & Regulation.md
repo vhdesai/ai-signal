@@ -1,20 +1,32 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 508
+member_count: 520
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 508 connected article(s).
+> Auto-generated topic hub. 520 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
 - `2026-06-07` [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80|Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code]]
+- `2026-06-07` [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e|### Semafor: Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
+- `2026-06-07` [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l|### Politico: "It's a Hurricane Warning"—AI Guardrails May Be Too Late]]
+- `2026-06-07` [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake|### Over 100 Campaigners Back UK MP Suing xAI Over Grok Deepfake Images]]
+- `2026-06-07` [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics|### Nvidia and Doosan Advance Physical AI and Robotics]]
+- `2026-06-07` [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses|### Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
 - `2026-06-06` [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs|White House AI Adviser Sriram Krishnan Departs]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-06` [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump|### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|### Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu|### Huawei Confirms Ascend 950DT AI Chip for August; Pledges Annual Chip Cadence]]
 - `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
 - `2026-06-05` [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs|Stock-Music Watermarks Surface in Gemini-Generated Songs]]
 - `2026-06-05` [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium|New York Passes First State-Level Data Center Moratorium]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions|### Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IPO]]
 - `2026-06-04` [[2026-06-04-hugging-face-transformers-critical-rce-vulnerability-discove|Hugging Face Transformers Critical RCE Vulnerability Discovered]]
 - `2026-06-04` [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance|Bipartisan "Great American AI Act" Proposes Federal Governance, Would Preempt State Laws]]
 - `2026-06-04` [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai|Anthropic Calls for Coordinated Global Pause in Frontier AI Development]]

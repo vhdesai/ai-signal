@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-gains-steam
+- 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
-- 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 embedding_id: 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ documents a growing US backlash against AI across labor, education, and cons
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]]
 <!-- graph:end -->

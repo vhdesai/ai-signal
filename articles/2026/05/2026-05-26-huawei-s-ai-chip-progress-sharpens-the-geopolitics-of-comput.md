@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade
+- 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 embedding_id: 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Information’s AM coverage highlighted Huawei’s efforts to narrow the chi
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[TSMC]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]]
+**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]]
 <!-- graph:end -->

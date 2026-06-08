@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-- 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
 embedding_id: 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alibaba's Qwen team released Qwen3.6-27B, a dense 27-billion-parameter model tha
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]]
+**Related:** [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]]
 <!-- graph:end -->

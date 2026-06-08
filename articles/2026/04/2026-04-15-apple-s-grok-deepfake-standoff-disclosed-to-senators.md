@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 - 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
-- 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
+- 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 embedding_id: 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A letter from Apple to U.S. senators revealed Apple privately threatened to pull
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Meta]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]]
+**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]]
 <!-- graph:end -->

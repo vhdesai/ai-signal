@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 embedding_id: 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AirTrunk committed $30B+ to build 5GW of AI data center capacity in India by 203
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

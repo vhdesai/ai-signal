@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 - 2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
-- 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
 embedding_id: 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is folding Codex, agents, and partner apps into a single "superapp." Ente
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]]
+**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]]
 <!-- graph:end -->

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 107
+member_count: 111
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 107 connected article(s).
+> Auto-generated entity hub. 111 connected article(s).
 
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-07` [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz|### Baidu Restructures Core Business Unit in AI-Driven Reorganization]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
 - `2026-06-03` [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r|Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies]]
 - `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]

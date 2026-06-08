@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
+- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 embedding_id: 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alibaba's Qwen team released Qwen3.6-Plus on Hugging Face under Apache 2.0, lead
 
 **Entities:** [[Alibaba]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
+**Related:** [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
 <!-- graph:end -->

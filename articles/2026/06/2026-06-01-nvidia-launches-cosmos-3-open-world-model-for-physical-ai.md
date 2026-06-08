@@ -21,7 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
+- 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
+- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 embedding_id: 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Nvidia released Cosmos 3, an open frontier foundation model designed for physica
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
+**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]]
 <!-- graph:end -->

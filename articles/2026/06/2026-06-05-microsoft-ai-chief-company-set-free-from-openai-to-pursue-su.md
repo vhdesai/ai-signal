@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 - 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
 embedding_id: 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Mustafa Suleyman told VentureBeat a contractual change ~6 months ago gave Micros
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]]
+**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]]
 <!-- graph:end -->

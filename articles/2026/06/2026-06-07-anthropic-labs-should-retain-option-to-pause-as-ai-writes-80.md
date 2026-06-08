@@ -19,13 +19,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
-- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
-- 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
+dedupe_status: duplicate
+canonical_article_id: 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
+related_article_ids: []
 embedding_id: 2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80
 event_name: ''
 ---
@@ -39,5 +35,5 @@ Clark and Favaro argued labs should preserve the option to slow or pause if "rec
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]]
+**Canonical:** [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]]
 <!-- graph:end -->

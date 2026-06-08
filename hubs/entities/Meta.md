@@ -1,16 +1,19 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 180
+member_count: 183
 ---
 
 # Meta
 
-> Auto-generated entity hub. 180 connected article(s).
+> Auto-generated entity hub. 183 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-06-07` [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities|### Axios: The Business of AI Faces Four Harsh Realities]]
+- `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
 - `2026-06-05` [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st|Meta Plans Massive Stock Sale to Fund $145B AI Investments; Stock Drops 5.5%]]
+- `2026-06-05` [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai|### Meta Reportedly Plans Massive Stock Sale to Fund $145B in AI Investments; Stock Drops]]
 - `2026-06-04` [[2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api|Meta Keeps Delaying the Muse Spark Developer API]]
 - `2026-06-04` [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu|Meta Builds Data Centers in Tents to Keep Pace with AI Compute Demand]]
 - `2026-06-04` [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business|Apple Approves First AI Agent on Messages for Business]]

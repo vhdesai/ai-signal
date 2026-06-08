@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
+- 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
 embedding_id: 2026-05-20-ai-alignment-via-debate-fresh-empirical-results
 event_name: ''
 ---
@@ -40,5 +40,5 @@ empirical results on alignment-via-debate revisit a classic Anthropic/OpenAI pro
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-14-arxiv-c-3po-consensus-driven-preference-optimization-for-cro]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]]
 <!-- graph:end -->

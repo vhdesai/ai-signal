@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
+- 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 embedding_id: 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Alphabet announced plans to raise $80 billion in new equity to fund AI infrastru
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs]]
 <!-- graph:end -->

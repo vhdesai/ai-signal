@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
+- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 - 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
-- 2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r
 embedding_id: 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 event_name: ''
 ---
@@ -42,5 +42,5 @@ SK Hynix reported surging profits driven by explosive demand for High Bandwidth 
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r]]
+**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]]
 <!-- graph:end -->

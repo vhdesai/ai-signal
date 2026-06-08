@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
-- 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 embedding_id: 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A supply chain attack exploited trust that AI coding assistants place in reposit
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]]
+**Related:** [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]]
 <!-- graph:end -->

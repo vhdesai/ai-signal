@@ -21,13 +21,9 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-- 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
+dedupe_status: duplicate
+canonical_article_id: 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
+related_article_ids: []
 embedding_id: 2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden
 event_name: ''
 ---
@@ -41,5 +37,5 @@ Next-gen Ascend 950DT debuts August with double computing power and annual caden
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
+**Canonical:** [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu]]
 <!-- graph:end -->

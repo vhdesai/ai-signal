@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
-- 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
-- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
+- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 embedding_id: 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ U.S. stock futures pointed lower Tuesday after major indexes hit all-time highs 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]]
+**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]]
 <!-- graph:end -->

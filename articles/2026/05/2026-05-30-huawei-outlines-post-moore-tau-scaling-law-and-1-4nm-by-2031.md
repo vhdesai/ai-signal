@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
+- 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled
+- 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-- 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
+- 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 embedding_id: 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At ISCAS 2026 in Shanghai, Huawei researchers presented a "Tau Scaling Law" (als
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
+**Related:** [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled]] · [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
-- 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
+- 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
 embedding_id: 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Sloan Management Review published a practical framework for reducing the ris
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]]
 <!-- graph:end -->

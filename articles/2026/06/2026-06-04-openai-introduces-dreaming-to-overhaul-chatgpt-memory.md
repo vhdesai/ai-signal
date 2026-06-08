@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
+- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
 event_name: ''
 ---
@@ -39,5 +40,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
+**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]]
 <!-- graph:end -->

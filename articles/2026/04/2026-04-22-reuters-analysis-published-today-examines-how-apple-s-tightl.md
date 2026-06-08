@@ -28,9 +28,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 embedding_id: 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Reuters analysis published today examines how Apple's tightly controlled ecosyst
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
+**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

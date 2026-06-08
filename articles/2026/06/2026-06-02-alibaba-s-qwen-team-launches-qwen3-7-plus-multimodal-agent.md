@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 - 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 embedding_id: 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Alibaba released Qwen3.7-Plus on its Bailian platform, a multimodal agent model 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
+**Related:** [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

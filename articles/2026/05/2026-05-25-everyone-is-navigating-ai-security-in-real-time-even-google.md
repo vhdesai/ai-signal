@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
+- 2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec
 embedding_id: 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch's feature argues that even hyperscalers are improvising AI security c
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]]
+**Related:** [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec]]
 <!-- graph:end -->

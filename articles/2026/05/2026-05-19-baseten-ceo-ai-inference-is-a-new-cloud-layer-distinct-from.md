@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
+- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 embedding_id: 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Baseten CEO Tuhin Srivastava told Business Insider's Tech Memo that the cloud ma
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 embedding_id: 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fresh policy coverage highlights rising public opposition to AI-driven job disru
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]]
+**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
 <!-- graph:end -->

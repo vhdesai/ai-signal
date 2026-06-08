@@ -1,0 +1,42 @@
+---
+article_id: 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
+title: '### Notion Temporarily Disables Anthropic Models After Performance Issues'
+date: '2026-06-07'
+source: TechCrunch
+url_original: null
+url_canonical: null
+url_status: missing
+digest_source: digests\raw\2026-06-08_070034_Final-Daily-AI-News-Digest.md
+content_hash: 71d51d582e823645141ceb311f63c1b6932086ee7005227b4ee9aa617ae2aa6f
+normalized_title_hash: 100a00d0fa014b69
+canonical_url_hash: ''
+tags: []
+entities:
+- Anthropic
+themes:
+- model-capabilities
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
+- 2026-06-06-anthropic-suffers-multi-model-claude-outage
+- 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
+- 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
+embedding_id: 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
+event_name: ''
+---
+
+# ### Notion Temporarily Disables Anthropic Models After Performance Issues
+
+Notion temporarily disabled Anthropic model access after service disruptions. The incident highlights that enterprise SaaS companies building on third-party AI models face availability risks traditional stacks don't — a single upstream issue can cascade across an entire product's AI features. - [TechCrunch](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/) --- *Compiled from inbox messages received June 6–8, 2026. Daily AI News Digest emails were used only as input feeds; citations use original publications where available.*
+
+<!-- graph:start -->
+## Connections
+
+**Entities:** [[Anthropic]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]]
+<!-- graph:end -->

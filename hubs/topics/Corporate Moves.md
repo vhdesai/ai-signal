@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1153
+member_count: 1176
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1153 connected article(s).
+> Auto-generated topic hub. 1176 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
@@ -14,9 +14,24 @@ member_count: 1153
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-08` [[2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption|### Software M&A Deals Hit COVID-Era Lows Amid AI Disruption]]
+- `2026-06-08` [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules|### ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
 - `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead|OpenAI Plans ChatGPT "Superapp" Overhaul — "Chat Is Dead"]]
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-07` [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse|### TechCrunch: "Is This the Dawn of the Tokenpocalypse?"]]
+- `2026-06-07` [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake|### Over 100 Campaigners Back UK MP Suing xAI Over Grok Deepfake Images]]
+- `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo|### OpenAI Plans ChatGPT "Superapp" Overhaul Ahead of IPO]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
+- `2026-06-07` [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz|### Baidu Restructures Core Business Unit in AI-Driven Reorganization]]
+- `2026-06-07` [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities|### Axios: The Business of AI Faces Four Harsh Realities]]
+- `2026-06-07` [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia|### $1.3 Trillion Semiconductor Selloff Rattles AI Stocks; Nvidia CEO Shrugs Off Rout]]
 - `2026-06-06` [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau|Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thing"]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|### Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-anthropic-suffers-multi-model-claude-outage|### Anthropic Suffers Multi-Model Claude Outage]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
+- `2026-06-06` [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git|### "Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
 - `2026-06-06` [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod|"Miasma Worm" Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
 - `2026-06-05` [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs|The Token Bill Comes Due: AI's Runaway Enterprise Costs]]
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
@@ -27,6 +42,14 @@ member_count: 1153
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
 - `2026-06-05` [[2026-06-05-japan-s-digital-minister-warns-country-could-become-an-ai-co|Japan's Digital Minister Warns Country Could Become an "AI Colony"]]
 - `2026-06-05` [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon|Google Signs $30B+ Deal to Buy Compute from SpaceX at $920M/Month]]
+- `2026-06-05` [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man|### The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs]]
+- `2026-06-05` [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding|### Supabase Doubles to ~$10.5B Valuation on the Back of AI Coding Tools]]
+- `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se|### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11]]
+- `2026-06-05` [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend|### Nvidia Authorizes Record $80B Buyback and Raises Dividend]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions|### Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IPO]]
+- `2026-06-05` [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an|### Anthropic Faces Multi-Model Claude Outage; Notion Disables Anthropic Models]]
 - `2026-06-04` [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory|OpenAI Introduces "Dreaming" to Overhaul ChatGPT Memory]]
 - `2026-06-04` [[2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api|Meta Keeps Delaying the Muse Spark Developer API]]
 - `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]

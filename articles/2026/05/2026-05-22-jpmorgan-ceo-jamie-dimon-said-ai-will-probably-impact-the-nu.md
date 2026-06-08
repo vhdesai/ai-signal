@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+- 2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai
 - 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve
 embedding_id: 2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ JPMorgan CEO Jamie Dimon said AI will probably impact the number of bankers the 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve]]
+**Related:** [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

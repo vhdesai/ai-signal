@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
 - 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
-- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 embedding_id: 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NVIDIA, Foxconn and Taiwan medical centers announced work to bring agentic and p
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]]
+**Related:** [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]]
 <!-- graph:end -->

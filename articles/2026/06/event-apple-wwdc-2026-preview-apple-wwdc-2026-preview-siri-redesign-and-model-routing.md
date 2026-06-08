@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence
 embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 event_name: Apple WWDC 2026 Preview
 ---
@@ -41,5 +40,5 @@ event_name: Apple WWDC 2026 Preview
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]]
 <!-- graph:end -->

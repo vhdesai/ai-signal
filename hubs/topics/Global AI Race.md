@@ -1,17 +1,30 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 298
+member_count: 311
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 298 connected article(s).
+> Auto-generated topic hub. 311 connected article(s).
 
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-07` [[2026-06-07-deepseek-tops-ramp-s-trending-vendors-as-u-s-companies-chase|### DeepSeek Tops Ramp's Trending Vendors as U.S. Companies Chase Cheaper AI]]
+- `2026-06-07` [[2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan|### DeepSeek Tops Ramp's Trending Software Vendors as U.S. Companies Chase Cheaper AI]]
+- `2026-06-07` [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz|### Baidu Restructures Core Business Unit in AI-Driven Reorganization]]
+- `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|### Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu|### Huawei Confirms Ascend 950DT AI Chip for August; Pledges Annual Chip Cadence]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
 - `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso|Nvidia Ships Nemotron 3 Ultra — Largest U.S. Open-Weights Reasoning Model]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m|DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone]]
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar|### Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI]]
+- `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso|### Nvidia Ships Nemotron 3 Ultra, Its Largest Open-Weights Reasoning Model]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
 - `2026-06-04` [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re|AI Industry Groups Claim China Is Fueling U.S. Data Center Resistance]]
 - `2026-06-03` [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio|DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fund]]

@@ -1,17 +1,33 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1065
+member_count: 1092
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1065 connected article(s).
+> Auto-generated topic hub. 1092 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
+- `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|### AMD Commits £2B to Accelerate UK AI at London Tech Week]]
+- `2026-06-08` [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk|### AMD Commits £2 Billion to Accelerate AI Innovation in the UK]]
+- `2026-06-07` [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse|### TechCrunch: "Is This the Dawn of the Tokenpocalypse?"]]
+- `2026-06-07` [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l|### Politico: "It's a Hurricane Warning"—AI Guardrails May Be Too Late]]
+- `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo|### OpenAI Plans ChatGPT "Superapp" Overhaul Ahead of IPO]]
+- `2026-06-07` [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc|### Nvidia and SK Hynix Announce Multiyear Partnership to Advance Memory for AI Factories]]
+- `2026-06-07` [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics|### Nvidia and Doosan Advance Physical AI and Robotics]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
 - `2026-06-06` [[2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or|Cursor 3.7 Ships "Design Mode" — Edit UI by Pointing, Drawing, or Talking]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-to-protect-against-prompt-injec|### OpenAI Unveils Lockdown Mode to Protect Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-anthropic-suffers-multi-model-claude-outage|### Anthropic Suffers Multi-Model Claude Outage]]
+- `2026-06-06` [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age|### Alibaba Releases Qwen3.7-Plus as a Multimodal Autonomous Agent]]
+- `2026-06-06` [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git|### "Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
 - `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso|Nvidia Ships Nemotron 3 Ultra — Largest U.S. Open-Weights Reasoning Model]]
 - `2026-06-05` [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati|NSA Reportedly Readying Anthropic's Mythos for Cyber Operations]]
 - `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
@@ -20,6 +36,16 @@ member_count: 1065
 - `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t|Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m|DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone]]
 - `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
+- `2026-06-05` [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man|### The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs]]
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar|### Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI]]
+- `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso|### Nvidia Ships Nemotron 3 Ultra, Its Largest Open-Weights Reasoning Model]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
+- `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor|### Google Ships Gemma 4 QAT Checkpoints, Cutting On-Device Memory to ~1GB]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
+- `2026-06-05` [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an|### Anthropic Faces Multi-Model Claude Outage; Notion Disables Anthropic Models]]
 - `2026-06-04` [[2026-06-04-world-s-first-ai-designed-vaccine-enters-human-clinical-tria|World's First AI-Designed Vaccine Enters Human Clinical Trials]]
 - `2026-06-04` [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv|NSF Renews MIT-Led AI-and-Physics Institute for a Second Five-Year Phase]]
 - `2026-06-04` [[2026-06-04-merlin-completes-critical-design-review-for-autonomous-syste|Merlin Completes Critical Design Review for Autonomous Systems]]
@@ -33,6 +59,7 @@ member_count: 1065
 - `2026-06-03` [[2026-06-03-mit-news|MIT News]]
 - `2026-06-03` [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop|Google Releases Gemma 4 12B — Sized for a 16GB Laptop]]
 - `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
+- `2026-06-03` [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop|### Google Releases Gemma 4 12B, Sized to Run on a 16GB Laptop]]
 - `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|Microsoft Set to Debut In-House MAI Model Family at Build 2026]]
 - `2026-06-02` [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe|Microsoft Debuts Seven In-House MAI Models, Breaking Its Dependence on OpenAI]]
 - `2026-06-02` [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc|Microsoft Debuts In-House MAI Models to Cut OpenAI Dependence]]

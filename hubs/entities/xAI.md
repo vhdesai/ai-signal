@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 126
+member_count: 129
 ---
 
 # xAI
 
-> Auto-generated entity hub. 126 connected article(s).
+> Auto-generated entity hub. 129 connected article(s).
 
+- `2026-06-07` [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake|### Over 100 Campaigners Back UK MP Suing xAI Over Grok Deepfake Images]]
+- `2026-06-06` [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump|### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge]]
 - `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june|SpaceX's Record $75B IPO Already Oversubscribed; Pricing June 11]]
 - `2026-06-05` [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon|Google Signs $30B+ Deal to Buy Compute from SpaceX at $920M/Month]]
+- `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se|### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11]]
 - `2026-06-04` [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b|Goldman Sachs Projects SpaceX AI Revenue to Surge 100-Fold by 2030]]
 - `2026-06-03` [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims|xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity]]
 - `2026-06-03` [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat|SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with xAI at the Center]]
