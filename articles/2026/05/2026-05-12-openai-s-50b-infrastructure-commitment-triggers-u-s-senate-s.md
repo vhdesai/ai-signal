@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma
+- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
+- 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
-- 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 embedding_id: 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Greg Brockman's Senate testimony on $50 billion in planned 2026 infrastructure s
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3]]
 <!-- graph:end -->

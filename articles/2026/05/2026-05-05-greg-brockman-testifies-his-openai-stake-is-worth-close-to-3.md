@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-04-13-industry-news
+- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
-- 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 embedding_id: 2026-05-05-greg-brockman-testifies-his-openai-stake-is-worth-close-to-3
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI President Greg Brockman testified in the Musk trial that his stake in Ope
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-04-13-industry-news]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
+**Related:** [[2026-05-12-openai-to-spend-50-billion-on-infrastructure-in-2026-brockma]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-04-13-industry-news]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]]
 <!-- graph:end -->

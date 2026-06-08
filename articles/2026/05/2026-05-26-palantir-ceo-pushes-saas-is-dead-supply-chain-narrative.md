@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 - 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
-- 2026-04-13-products-tools
+- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 embedding_id: 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Palantir CEO Alex Karp publicly argued that "SaaS is dead" in the supply-chain c
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog]] · [[2026-04-13-products-tools]]
+**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
 <!-- graph:end -->

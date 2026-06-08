@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 120
+member_count: 126
 ---
 
 # xAI
 
-> Auto-generated entity hub. 120 connected article(s).
+> Auto-generated entity hub. 126 connected article(s).
 
+- `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june|SpaceX's Record $75B IPO Already Oversubscribed; Pricing June 11]]
+- `2026-06-05` [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon|Google Signs $30B+ Deal to Buy Compute from SpaceX at $920M/Month]]
+- `2026-06-04` [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b|Goldman Sachs Projects SpaceX AI Revenue to Surge 100-Fold by 2030]]
+- `2026-06-03` [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims|xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity]]
+- `2026-06-03` [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat|SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with xAI at the Center]]
+- `2026-06-02` [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus|Center for AI Safety Expands, Creates National Security–Focused Frontier Security Institute]]
 - `2026-05-31` [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity|### AI Regulation Fractures on Three Fronts: CNN Sues Perplexity, OpenAI Aligns to EU Rules, DOJ Enters Colorado Fight]]
 - `2026-05-29` [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock|### AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock]]
 - `2026-05-28` [[2026-05-28-xai-s-grok-v9-medium-finishes-training-at-1-5t-parameters-ta|xAI's Grok V9-Medium finishes training at 1.5T parameters, targets mid-June release]]

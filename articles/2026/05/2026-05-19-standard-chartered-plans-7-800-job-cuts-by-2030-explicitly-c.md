@@ -18,8 +18,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 embedding_id: 2026-05-19-standard-chartered-plans-7-800-job-cuts-by-2030-explicitly-c
 event_name: ''
 ---
@@ -31,5 +31,5 @@ Standard Chartered announced it will cut more than 15% of its corporate function
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
+**Related:** [[2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

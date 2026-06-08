@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 122
+member_count: 126
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 122 connected article(s).
+> Auto-generated entity hub. 126 connected article(s).
 
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m|DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone]]
+- `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-03` [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio|DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fund]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
 - `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]

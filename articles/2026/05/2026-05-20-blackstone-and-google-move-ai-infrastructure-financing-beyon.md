@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
-- 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
-- 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
+- 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
+- 2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership
 embedding_id: 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 event_name: ''
 ---
@@ -39,5 +39,5 @@ PitchBook reported that Google and Blackstone formed a joint venture to offer AI
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]]
+**Related:** [[2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-19-scientists-use-ai-detectors-to-protect-gray-whales-in-san-fr
+- 2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen
 embedding_id: 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Fleet-management firm Samsara unveiled Ground Intelligence, an AI model trained 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-19-scientists-use-ai-detectors-to-protect-gray-whales-in-san-fr]]
+**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen]]
 <!-- graph:end -->

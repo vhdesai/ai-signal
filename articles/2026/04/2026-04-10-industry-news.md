@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 - 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
-- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
+- 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 embedding_id: 2026-04-10-industry-news
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CoreWeave Books $21B+ in AI Cloud Deals in One Week — Stock Surges 10.87%
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
 <!-- graph:end -->

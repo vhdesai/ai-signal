@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2
 - 2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
+- 2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-05-19-kpmg-and-anthropic-launch-global-alliance-claude-deployed-to
 event_name: ''
 ---
@@ -39,5 +39,5 @@ One of the largest professional-services AI deployments to date: KPMG and Anthro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2]] · [[2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-05-19-kpmg-and-anthropic-sign-global-alliance-claude-deployed-to-2]] · [[2026-05-19-kpmg-integrates-claude-across-its-core-business-and-276-000]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

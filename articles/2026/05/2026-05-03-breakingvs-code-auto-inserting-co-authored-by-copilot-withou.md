@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
-- 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
+- 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 embedding_id: 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A GitHub PR documents VS Code inserting "Co-Authored-by Copilot" trailers into c
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]]
+**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]]
 <!-- graph:end -->

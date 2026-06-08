@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 13
+member_count: 14
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 13 connected article(s).
+> Auto-generated entity hub. 14 connected article(s).
 
+- `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]
 - `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
 - `2026-05-23` [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge|Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Overview]]
 - `2026-05-22` [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in|Google published a major update to its Gemini for Science initiative, positioning Gemini as a research workflow platform for scientists rather than a general…]]

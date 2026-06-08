@@ -16,14 +16,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-29-openai-brings-codex-computer-use-to-windows
-- 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
-- 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
+dedupe_status: duplicate
+canonical_article_id: 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
+related_article_ids: []
 embedding_id: 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
 event_name: ''
 ---
@@ -37,5 +32,5 @@ OpenAI published a knowledge-work report stating Codex now has more than 5M week
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
+**Canonical:** [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]]
 <!-- graph:end -->

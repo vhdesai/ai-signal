@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
+- 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
+- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
-- 2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi
-- 2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp
-- 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
 embedding_id: 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In a New York Times op-ed, Senator Bernie Sanders argued that the public should 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi]] · [[2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]]
+**Related:** [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]]
 <!-- graph:end -->

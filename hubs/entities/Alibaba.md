@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 106
+member_count: 107
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 106 connected article(s).
+> Auto-generated entity hub. 107 connected article(s).
 
+- `2026-06-03` [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r|Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies]]
 - `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am|### China's AI chip strategy pivots from GPUs to custom ASICs amid export controls]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]

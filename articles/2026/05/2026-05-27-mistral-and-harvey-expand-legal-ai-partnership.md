@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 - 2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers
+- 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
-- 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
 embedding_id: 2026-05-27-mistral-and-harvey-expand-legal-ai-partnership
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mistral and legal-AI company Harvey are deepening their partnership to push Euro
 
 **Entities:** [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]]
+**Related:** [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-26-mistral-expands-harvey-partnership-to-1-500-legal-customers]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]]
 <!-- graph:end -->

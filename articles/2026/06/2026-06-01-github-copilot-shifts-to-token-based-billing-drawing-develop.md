@@ -22,11 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
+- 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
+- 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
 - 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
-- 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
-- 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
 embedding_id: 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Microsoft is moving GitHub Copilot toward usage/token-based pricing, prompting d
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]]
+**Related:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]]
 <!-- graph:end -->

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
-- 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
+- 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 embedding_id: 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Legislators including Bernie Sanders and Alexandria Ocasio-Cortez pushed legisla
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]]
 <!-- graph:end -->

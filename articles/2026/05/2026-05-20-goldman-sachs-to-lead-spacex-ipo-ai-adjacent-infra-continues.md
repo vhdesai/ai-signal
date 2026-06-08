@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
+- 2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 - 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
-- 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
-- 2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined
-- 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
+- 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 embedding_id: 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
 event_name: ''
 ---
@@ -40,5 +40,5 @@ SpaceX selected Goldman Sachs as lead underwriter for its upcoming IPO, with a d
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]]
+**Related:** [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]]
 <!-- graph:end -->

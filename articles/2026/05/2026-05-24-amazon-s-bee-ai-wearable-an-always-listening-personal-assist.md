@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-first-hands-on-amazon-s-bee-always-listening-ai-wearable
+- 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
@@ -38,5 +39,5 @@ Amazon's Bee wearable, an always-listening AI companion device, drew mixed early
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-first-hands-on-amazon-s-bee-always-listening-ai-wearable]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-05-24-first-hands-on-amazon-s-bee-always-listening-ai-wearable]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
 <!-- graph:end -->

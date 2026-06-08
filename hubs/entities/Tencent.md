@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 61
+member_count: 66
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 61 connected article(s).
+> Auto-generated entity hub. 66 connected article(s).
 
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
+- `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-03` [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio|DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fund]]
+- `2026-06-03` [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r|Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies]]
+- `2026-06-02` [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat|Tencent Shares Surge 10% on AI Agent Plans for WeChat]]
 - `2026-05-28` [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global|Tencent expands WorkBuddy and enterprise AI solutions globally]]
 - `2026-05-28` [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r|Alibaba and Tencent pivot from chatbots to embodied AI and robotics]]
 - `2026-05-27` [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe|Tencent Cloud Begins Paid Commercial Services for Hy3 Preview and DeepSeek-V4-Pro]]

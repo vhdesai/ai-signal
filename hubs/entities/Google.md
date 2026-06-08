@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 473
+member_count: 484
 ---
 
 # Google
 
-> Auto-generated entity hub. 473 connected article(s).
+> Auto-generated entity hub. 484 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,9 +16,19 @@ member_count: 473
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-05` [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs|Stock-Music Watermarks Surface in Gemini-Generated Songs]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa|MIT Ethics of Computing Symposium: Alignment Is Now a Governance Question]]
+- `2026-06-05` [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon|Google Signs $30B+ Deal to Buy Compute from SpaceX at $920M/Month]]
+- `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t|Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB]]
+- `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]
+- `2026-06-04` [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling|Google Lays Off Cloud and Cybersecurity Staff While Doubling Down on AI]]
+- `2026-06-03` [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi|UK Orders Google to Allow Publishers to Opt Out of AI Scraping for Search Summaries]]
+- `2026-06-03` [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop|Google Releases Gemma 4 12B — Sized for a 16GB Laptop]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
+- `2026-06-02` [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs|Hassabis: Companies Have AI “Backwards” on Jobs]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
+- `2026-05-30` [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h|Google’s always-on Gemini Spark shows where assistants are headed]]
 - `2026-05-30` [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20|### Microsoft lines up an expanded MAI model family for Build 2026]]
 - `2026-05-30` [[2026-05-30-deepmind-s-alphaproof-nexus-reported-to-resolve-nine-open-er|### DeepMind's AlphaProof Nexus reported to resolve nine open Erdős problems]]
 - `2026-05-29` [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b|Salesforce spotlights Agentforce as Snowflake makes $6B AWS bet on AI agents]]
@@ -481,3 +491,4 @@ member_count: 473
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]
+- [[event-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026|AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026 — Strategic Implications]]

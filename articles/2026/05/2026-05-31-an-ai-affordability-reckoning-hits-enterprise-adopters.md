@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
 embedding_id: 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A weekend analysis frames an "AI affordability wake-up call": token-based pricin
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
+**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]]
 <!-- graph:end -->

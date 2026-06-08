@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
 - 2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r
 - 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-06-05-switch-in-talks-to-raise-at-50b-valuation
 embedding_id: 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NextEra Energy announced a $67 billion deal to acquire Dominion Energy — the l
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-05-19-nextera-dominion-66-8b-combination-creates-world-s-largest-r]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-06-05-switch-in-talks-to-raise-at-50b-valuation]]
 <!-- graph:end -->

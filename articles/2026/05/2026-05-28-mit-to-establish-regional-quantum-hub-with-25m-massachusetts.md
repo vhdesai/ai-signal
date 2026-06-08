@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
+- 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 - 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 - 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
 - 2026-04-25-google-plans-up-to-40b-anthropic-investment
-- 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 embedding_id: 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
 event_name: ''
 ---
@@ -40,5 +40,5 @@ MIT announced on May 28 that it will establish a regional quantum hub backed by 
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
+**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]]
 <!-- graph:end -->

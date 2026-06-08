@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
-- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 embedding_id: 2026-05-20-when-hackers-act-like-insiders-and-firms-slow-on-patching
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Pro Cybersecurity reports a sharp rise in attacker tradecraft that mimics le
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
+**Related:** [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]]
 <!-- graph:end -->

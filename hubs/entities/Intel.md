@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 26
+member_count: 28
 ---
 
 # Intel
 
-> Auto-generated entity hub. 26 connected article(s).
+> Auto-generated entity hub. 28 connected article(s).
 
+- `2026-06-04` [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu|Foxconn and Intel Partner on Next-Generation AI Infrastructure]]
+- `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]

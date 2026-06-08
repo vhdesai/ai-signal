@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat
+- 2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 - 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
@@ -39,5 +40,5 @@ Nvidia disclosed an additional $80 billion stock repurchase authorization follow
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]]
+**Related:** [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]]
 <!-- graph:end -->

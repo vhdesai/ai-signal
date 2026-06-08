@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 - 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
 - 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
-- 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
+- 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
 embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers unveiled MIGHTY, an open-source path-planning system that rapidl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]] · [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]] · [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
+- 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-12-stanford-hai-200-global-teams-submit-to-ai-for-organizations
 - 2026-05-26-california-state-university-renews-systemwide-openai-contrac
-- 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 embedding_id: 2026-05-11-openai-launches-campus-network-global-student-ai-ambassador
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI announced the OpenAI Campus Network, a structured program to establish st
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-12-stanford-hai-200-global-teams-submit-to-ai-for-organizations]] · [[2026-05-26-california-state-university-renews-systemwide-openai-contrac]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]]
+**Related:** [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-12-stanford-hai-200-global-teams-submit-to-ai-for-organizations]] · [[2026-05-26-california-state-university-renews-systemwide-openai-contrac]]
 <!-- graph:end -->

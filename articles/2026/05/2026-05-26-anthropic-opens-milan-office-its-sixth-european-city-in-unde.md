@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
+- 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 embedding_id: 2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]]
+**Related:** [[2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

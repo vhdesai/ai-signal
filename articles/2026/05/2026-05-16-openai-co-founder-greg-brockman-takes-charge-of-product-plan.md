@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
+- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
-- 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 embedding_id: 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI co-founder and president Greg Brockman has officially assumed leadership 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]]
+**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
 <!-- graph:end -->

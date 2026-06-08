@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
-- 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 embedding_id: 2026-05-04-5-academic-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]]
+**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]]
 <!-- graph:end -->

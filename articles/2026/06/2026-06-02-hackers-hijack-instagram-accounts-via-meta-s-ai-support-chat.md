@@ -18,6 +18,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su
 - 2026-04-02-academic-research
 - 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
 - 2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to
@@ -34,5 +35,5 @@ Attackers took over high-profile Instagram accounts — including the Obama Whit
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-04-02-academic-research]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su]] · [[2026-04-02-academic-research]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
 <!-- graph:end -->

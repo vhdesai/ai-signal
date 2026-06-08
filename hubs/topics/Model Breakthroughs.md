@@ -1,15 +1,41 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1035
+member_count: 1065
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1035 connected article(s).
+> Auto-generated topic hub. 1065 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or|Cursor 3.7 Ships "Design Mode" — Edit UI by Pointing, Drawing, or Talking]]
+- `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso|Nvidia Ships Nemotron 3 Ultra — Largest U.S. Open-Weights Reasoning Model]]
+- `2026-06-05` [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati|NSA Reportedly Readying Anthropic's Mythos for Cyber Operations]]
+- `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
+- `2026-06-05` [[2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la|MIT Uses "Battleship" to Show Small Models Can Out-Question Large Ones]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa|MIT Ethics of Computing Symposium: Alignment Is Now a Governance Question]]
+- `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t|Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m|DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone]]
+- `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
+- `2026-06-04` [[2026-06-04-world-s-first-ai-designed-vaccine-enters-human-clinical-tria|World's First AI-Designed Vaccine Enters Human Clinical Trials]]
+- `2026-06-04` [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv|NSF Renews MIT-Led AI-and-Physics Institute for a Second Five-Year Phase]]
+- `2026-06-04` [[2026-06-04-merlin-completes-critical-design-review-for-autonomous-syste|Merlin Completes Critical Design Review for Autonomous Systems]]
+- `2026-06-04` [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la|MIT Uses “Battleship” to Show Small Models Can Out-Question Large Ones]]
+- `2026-06-04` [[2026-06-04-forbes|Forbes]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
+- `2026-06-03` [[2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research|OpenAI Upgrades GPT-Rosalind for Life-Sciences Research]]
+- `2026-06-03` [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati|MIT’s ChartNet Dataset Aims to Improve AI Chart Interpretation]]
+- `2026-06-03` [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than|MIT's ChartNet Helps Smaller Models Read Charts Better Than Commercial Rivals]]
+- `2026-06-03` [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu|MIT Researchers Teach AI Models to Interpret Charts and Visualizations]]
+- `2026-06-03` [[2026-06-03-mit-news|MIT News]]
+- `2026-06-03` [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop|Google Releases Gemma 4 12B — Sized for a 16GB Laptop]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|Microsoft Set to Debut In-House MAI Model Family at Build 2026]]
+- `2026-06-02` [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe|Microsoft Debuts Seven In-House MAI Models, Breaking Its Dependence on OpenAI]]
+- `2026-06-02` [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc|Microsoft Debuts In-House MAI Models to Cut OpenAI Dependence]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
@@ -17,13 +43,16 @@ member_count: 1035
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-365-teams-marketplace-and-eco|Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform|Microsoft Build 2026: Azure, Fabric, data, and app platform]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model|Microsoft Build 2026 Preview: Azure AI Foundry and MAI model suite]]
+- `2026-06-02` [[2026-06-02-compiled-from-inbox-messages-received-may-31-june-2-2026|Compiled from inbox messages received May 31 – June 2, 2026.]]
+- `2026-06-02` [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i|Anthropic Research Flags ~31.5% Prompt-Injection Hijack Rate in Browser Agents]]
 - `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
 - `2026-06-02` [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a|### STMicroelectronics doubles data-center revenue ambition on AI demand]]
 - `2026-06-02` [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users|### OpenAI reports Codex at 5M+ weekly active users]]
-- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
 - `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
+- `2026-06-01` [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0|Unitree’s H2 Plus gives academic robotics a NVIDIA Isaac GR00T reference platform]]
+- `2026-06-01` [[2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen|AI Weather Startup WindBorne Out-Forecasting Government Agencies]]
 - `2026-06-01` [[2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it|### Strava restricts data access to curb AI scraping ahead of its IPO]]
 - `2026-06-01` [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report|### Stanford HAI publishes the 2026 AI Index Report]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
@@ -40,6 +69,7 @@ member_count: 1035
 - `2026-06-01` [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie|### Bernie Sanders: The Public Should Own Half of Big AI Companies]]
 - `2026-06-01` [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its|### Anthropic gives the EU's cybersecurity agency access to its "Mythos" offensive-security model]]
 - `2026-06-01` [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation|### Anthropic Raises Record $65B Series H at $965B Valuation]]
+- `2026-05-31` [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor|Microsoft’s “AI Independence Day” frames a post-OpenAI platform narrative]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
 - `2026-05-31` [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu|### Microsoft to Unveil Homegrown MAI Models at Build 2026, Including a Coding Model]]
 - `2026-05-31` [[2026-05-31-microsoft-confirms-no-windows-12-teases-nvidia-n1x-arm-pc-ah|### Microsoft confirms no "Windows 12," teases NVIDIA N1X ARM PC ahead of a major announcement]]

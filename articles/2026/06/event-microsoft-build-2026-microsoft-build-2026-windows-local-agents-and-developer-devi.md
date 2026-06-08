@@ -27,9 +27,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf
+- 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
-- event-microsoft-build-2026-microsoft-build-2026-overview
-- event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi
 event_name: Microsoft Build 2026
 ---
@@ -43,5 +43,5 @@ event_name: Microsoft Build 2026
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy]]
+**Related:** [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
 <!-- graph:end -->

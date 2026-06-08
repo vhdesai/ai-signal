@@ -29,7 +29,7 @@ related_article_ids:
 - event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 - event-microsoft-build-2026-microsoft-build-2026-overview
-- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
+- 2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy
 event_name: Microsoft Build 2026
 ---
@@ -43,5 +43,5 @@ event_name: Microsoft Build 2026
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]]
+**Related:** [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-microsoft-build-2026-overview]] · [[2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin]]
 <!-- graph:end -->

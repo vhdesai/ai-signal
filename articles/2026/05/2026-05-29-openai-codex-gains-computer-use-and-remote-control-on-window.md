@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 embedding_id: 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI extended Codex with computer-use and remote-control capabilities that let
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Related:** [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
 <!-- graph:end -->

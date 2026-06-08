@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 - 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
+- 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 embedding_id: 2026-05-26-ai-may-make-work-more-productive-but-less-social
 event_name: ''
@@ -36,5 +37,5 @@ Business Insider argues that AI may not only reduce headcount, but also weaken t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
+**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
 <!-- graph:end -->

@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 555
+member_count: 581
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 555 connected article(s).
+> Auto-generated entity hub. 581 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,6 +16,29 @@ member_count: 555
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead|OpenAI Plans ChatGPT "Superapp" Overhaul — "Chat Is Dead"]]
+- `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-06` [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau|Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thing"]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
+- `2026-06-05` [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward|OpenAI and Anthropic Share ~90 Investors as Both Race Toward IPOs]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa|MIT Ethics of Computing Symposium: Alignment Is Now a Governance Question]]
+- `2026-06-04` [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory|OpenAI Introduces "Dreaming" to Overhaul ChatGPT Memory]]
+- `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-04` [[2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a|Altman Urges Congress to Fund AI Testing, Not Require Model Approvals]]
+- `2026-06-03` [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat|SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with xAI at the Center]]
+- `2026-06-03` [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202|Sam Altman Admits Token Costs Are “a Huge Issue”; Rules Out 2026 Election Spending]]
+- `2026-06-03` [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna|OpenAI and Anthropic Urge Congress to Regulate Synthetic DNA to Prevent AI Bioweapons]]
+- `2026-06-03` [[2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research|OpenAI Upgrades GPT-Rosalind for Life-Sciences Research]]
+- `2026-06-03` [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m|OpenAI Publishes Governance Blueprint; Altman Urges Against Mandatory Model Approvals]]
+- `2026-06-02` [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno|OpenAI Extends Codex to Business with Plugins, Sites, and Annotations]]
+- `2026-06-02` [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales|OpenAI Expands Codex Agent to Finance, Banking, and Sales]]
+- `2026-06-02` [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t|OpenAI Codex Crosses 5M Weekly Users; Expands Beyond Coding to Knowledge Work]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|Microsoft Set to Debut In-House MAI Model Family at Build 2026]]
+- `2026-06-02` [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe|Microsoft Debuts Seven In-House MAI Models, Breaking Its Dependence on OpenAI]]
+- `2026-06-02` [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc|Microsoft Debuts In-House MAI Models to Cut OpenAI Dependence]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
@@ -36,7 +59,9 @@ member_count: 555
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
 - `2026-06-02` [[2026-06-02-openai-turns-chatgpt-into-a-career-platform|### OpenAI turns ChatGPT into a career platform]]
 - `2026-06-02` [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users|### OpenAI reports Codex at 5M+ weekly active users]]
-- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
+- `2026-06-01` [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical|OpenAI Hires Ironclad Founder to Build Legal Vertical]]
+- `2026-06-01` [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga|OpenAI Breaks Ground on 1 GW Stargate Data Center in Michigan]]
+- `2026-06-01` [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over|Florida Files First-of-Its-Kind Lawsuit Against OpenAI Over Safety Risks]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]
 - `2026-06-01` [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con|### OpenAI model disproves a long-standing discrete-geometry conjecture]]
 - `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
@@ -46,6 +71,7 @@ member_count: 555
 - `2026-06-01` [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o|### Anthropic confidentially files for U.S. IPO, edging ahead of OpenAI]]
 - `2026-06-01` [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation|### Anthropic Raises Record $65B Series H at $965B Valuation]]
 - `2026-06-01` [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing|### Altman downplays OpenAI IPO timing after Anthropic's filing]]
+- `2026-05-31` [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor|Microsoft’s “AI Independence Day” frames a post-OpenAI platform narrative]]
 - `2026-05-31` [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu|### Microsoft to Unveil Homegrown MAI Models at Build 2026, Including a Coding Model]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h|### De-restricted open-weight models grow easier to obtain and harder to govern]]

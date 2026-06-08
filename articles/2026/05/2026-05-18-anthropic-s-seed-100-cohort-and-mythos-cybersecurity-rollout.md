@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
-- 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
+- 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
 embedding_id: 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Business Insider profiled this year's Seed 100 alongside Anthropic's Mythos cybe
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]]
+**Related:** [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]]
 <!-- graph:end -->

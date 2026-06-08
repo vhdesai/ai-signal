@@ -28,7 +28,6 @@ related_article_ids:
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
 - 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
-- 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 embedding_id: 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Anthropic announced an expansion of Project Glasswing, the cross-industry initia
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]]
+**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]]
 <!-- graph:end -->

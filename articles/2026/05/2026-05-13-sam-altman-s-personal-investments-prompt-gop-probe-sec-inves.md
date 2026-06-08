@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec
 - 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill
+- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 - 2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe
-- 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 embedding_id: 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The House Oversight Committee opened a formal conflict-of-interest investigation
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]] · [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]]
+**Related:** [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-a-1-trill]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]]
 <!-- graph:end -->

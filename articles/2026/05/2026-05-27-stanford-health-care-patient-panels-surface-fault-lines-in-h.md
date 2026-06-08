@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
+- 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 embedding_id: 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford Health Care's 18-month experiment of running new AI tools past patient 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]]
+**Related:** [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
 <!-- graph:end -->

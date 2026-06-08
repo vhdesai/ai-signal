@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 19
+member_count: 20
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 19 connected article(s).
+> Auto-generated entity hub. 20 connected article(s).
 
+- `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
 - `2026-05-31` [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op|### Anthropic Closes $65B Series H at $965B Valuation, Overtakes OpenAI as Most Valuable AI Company]]
 - `2026-05-28` [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as|Anthropic raises $65B at $965B valuation, surpassing OpenAI as world's most valuable AI company]]
 - `2026-05-28` [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o|Anthropic raises $65B Series H at $965B valuation, overtaking OpenAI]]

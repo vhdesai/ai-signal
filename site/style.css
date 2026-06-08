@@ -133,6 +133,29 @@ mark{background:#fef08a;border-radius:3px;padding:0 2px}
 .event-reg-btn:hover{background:var(--brand);box-shadow:0 2px 8px rgba(26,115,232,.3)}
 .upcoming-badge{display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--accent2);padding:2px 8px;
                 border-radius:10px;margin-left:8px;vertical-align:middle;text-transform:uppercase;letter-spacing:.5px}
+.entity-date{display:block;font-size:12px;color:var(--muted);margin-top:4px}
+.compare-section{margin-bottom:28px;padding:24px;background:linear-gradient(135deg,rgba(13,107,94,.06),rgba(245,158,11,.06));border:1px solid rgba(13,107,94,.16);border-radius:var(--radius)}
+.compare-section h2{margin:0 0 6px;font-size:18px;color:var(--brand);border:none;padding:0}
+.compare-subtitle{margin:0 0 16px;font-size:13px;color:var(--muted)}
+.compare-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.compare-card{background:#fff;border:1px solid rgba(13,107,94,.14);border-radius:var(--radius);padding:18px 20px;transition:all .2s}
+.compare-card:hover{box-shadow:0 4px 16px rgba(13,107,94,.12);border-color:var(--brand-light)}
+.compare-card h3{margin:0 0 10px;font-size:16px}
+.compare-card h3 a{color:var(--brand);text-decoration:none}
+.compare-card h3 a:hover{text-decoration:underline}
+.compare-stat{font-size:13px;color:var(--muted);margin-bottom:4px}
+.compare-num{font-weight:700;color:var(--brand);font-size:15px}
+.compare-themes{font-size:12px;color:var(--muted);margin-top:8px;font-style:italic}
+.digest-events-section{margin-top:20px}
+.digest-toggle{cursor:pointer;font-size:14px;font-weight:600;color:var(--muted);padding:12px 16px;border:1px dashed var(--border);border-radius:var(--radius);list-style:none}
+.digest-toggle:hover{color:var(--brand);border-color:var(--brand-light)}
+.chat-highlight{margin:20px 0 24px;padding:18px 24px;background:linear-gradient(135deg,rgba(13,107,94,.08),rgba(16,185,129,.12));border:1px solid rgba(13,107,94,.2);border-radius:16px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.chat-highlight-icon{font-size:28px}
+.chat-highlight-text{flex:1;min-width:200px}
+.chat-highlight-text strong{display:block;color:var(--brand);font-size:15px;margin-bottom:4px}
+.chat-highlight-text span{font-size:13px;color:#475569}
+.chat-highlight-btn{padding:10px 20px;border-radius:12px;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;text-decoration:none;font-size:13px;font-weight:700;transition:all .2s;white-space:nowrap}
+.chat-highlight-btn:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(13,107,94,.25)}
 .event-iframe{width:100%;min-height:600px;border:1px solid var(--border);border-radius:var(--radius);background:var(--card)}
 
 /* ---- pagination ---- */

@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
 - 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
-- 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
 embedding_id: 2026-05-22-github-supply-chain-attack-compromises-500-packages
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A coordinated GitHub supply-chain attack compromised more than 500 packages in t
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]]
+**Related:** [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]]
 <!-- graph:end -->

@@ -1,13 +1,22 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 289
+member_count: 298
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 289 connected article(s).
+> Auto-generated topic hub. 298 connected article(s).
 
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets|Tencent Poaches Former OpenAI Researcher as AI Chief, Targets AGI]]
+- `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso|Nvidia Ships Nemotron 3 Ultra — Largest U.S. Open-Weights Reasoning Model]]
+- `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m|DeepSeek V4 Trained on Huawei Chips — China AI Self-Reliance Milestone]]
+- `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-04` [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re|AI Industry Groups Claim China Is Fueling U.S. Data Center Resistance]]
+- `2026-06-03` [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio|DeepSeek Seals ~$7.4B Round Led by Tencent and CATL, with National AI Fund]]
+- `2026-06-03` [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r|Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies]]
+- `2026-06-02` [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat|Tencent Shares Surge 10% on AI Agent Plans for WeChat]]
 - `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
 - `2026-06-01` [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report|### Stanford HAI publishes the 2026 AI Index Report]]
 - `2026-06-01` [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi|### OpenAI stands up a robotics division, Altman lays out humanoid vision]]

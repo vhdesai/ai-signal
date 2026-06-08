@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 338
+member_count: 347
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 338 connected article(s).
+> Auto-generated entity hub. 347 connected article(s).
 
+- `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso|Nvidia Ships Nemotron 3 Ultra — Largest U.S. Open-Weights Reasoning Model]]
+- `2026-06-05` [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend|Nvidia Authorizes Record $80B Buyback; Raises Dividend]]
+- `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]
+- `2026-06-02` [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play|Nvidia Pushes RTX-Class PC Silicon as Full-Stack Play]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
@@ -22,6 +26,11 @@ member_count: 338
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-overview|Microsoft Build 2026 — Overview]]
 - `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
+- `2026-06-01` [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0|Unitree’s H2 Plus gives academic robotics a NVIDIA Isaac GR00T reference platform]]
+- `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p|Nvidia Unveils RTX Spark Superchip, Reinventing the Windows PC as an Agent Platform]]
+- `2026-06-01` [[2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in|NVIDIA, Foxconn and Taiwan medical centers push agentic AI into healthcare operations]]
+- `2026-06-01` [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar|CoreWeave validates NVIDIA Vera Rubin NVL72, raising the bar for AI-cloud execution]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc|### Nvidia unveils RTX Spark superchip, reinventing Windows AI PCs with Microsoft]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|### Nvidia unveils RTX Spark AI-PC platform at Computex]]
 - `2026-06-01` [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn|### Nvidia opens COMPUTEX week with Jensen Huang "AI factory" keynote]]

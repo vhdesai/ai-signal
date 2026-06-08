@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 51
+member_count: 52
 ---
 
 # IBM
 
-> Auto-generated entity hub. 51 connected article(s).
+> Auto-generated entity hub. 52 connected article(s).
 
+- `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]
 - `2026-05-28` [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts|MIT to Establish Regional Quantum Hub With $25M Massachusetts Investment]]
 - `2026-05-27` [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s|IBM and Red Hat pledge $5 billion for AI-driven open-source security initiative]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]

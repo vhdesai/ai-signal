@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 embedding_id: 2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]]
 <!-- graph:end -->

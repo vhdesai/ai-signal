@@ -1,17 +1,39 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 484
+member_count: 508
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 484 connected article(s).
+> Auto-generated topic hub. 508 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-07` [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80|Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code]]
+- `2026-06-06` [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs|White House AI Adviser Sriram Krishnan Departs]]
+- `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
+- `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
+- `2026-06-05` [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs|Stock-Music Watermarks Surface in Gemini-Generated Songs]]
+- `2026-06-05` [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium|New York Passes First State-Level Data Center Moratorium]]
+- `2026-06-04` [[2026-06-04-hugging-face-transformers-critical-rce-vulnerability-discove|Hugging Face Transformers Critical RCE Vulnerability Discovered]]
+- `2026-06-04` [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance|Bipartisan "Great American AI Act" Proposes Federal Governance, Would Preempt State Laws]]
+- `2026-06-04` [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai|Anthropic Calls for Coordinated Global Pause in Frontier AI Development]]
+- `2026-06-04` [[2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a|Altman Urges Congress to Fund AI Testing, Not Require Model Approvals]]
+- `2026-06-04` [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re|AI Industry Groups Claim China Is Fueling U.S. Data Center Resistance]]
+- `2026-06-03` [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims|xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity]]
+- `2026-06-03` [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi|UK Orders Google to Allow Publishers to Opt Out of AI Scraping for Search Summaries]]
+- `2026-06-03` [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna|OpenAI and Anthropic Urge Congress to Regulate Synthetic DNA to Prevent AI Bioweapons]]
+- `2026-06-03` [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m|OpenAI Publishes Governance Blueprint; Altman Urges Against Mandatory Model Approvals]]
+- `2026-06-02` [[2026-06-02-white-house-divided-over-ai-regulation-as-policy-window-narr|White House Divided Over AI Regulation as Policy Window Narrows]]
+- `2026-06-02` [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment|Trump Signs AI Executive Order; CFR Publishes Assessment]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
+- `2026-06-02` [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus|Center for AI Safety Expands, Creates National Security–Focused Frontier Security Institute]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr|Anthropic Expands Project Glasswing to 150 Organizations Across 15+ Countries]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
+- `2026-06-01` [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over|Florida Files First-of-Its-Kind Lawsuit Against OpenAI Over Safety Risks]]
 - `2026-06-01` [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con|### OpenAI model disproves a long-standing discrete-geometry conjecture]]
 - `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
 - `2026-06-01` [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation|### MIT Sloan: A Three-Minute Protocol to Reduce AI Manipulation Risk]]
@@ -23,6 +45,8 @@ member_count: 484
 - `2026-06-01` [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie|### Bernie Sanders: The Public Should Own Half of Big AI Companies]]
 - `2026-06-01` [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris|### Ardian and Verne target a €5B, 500MW AI gigafactory near Paris]]
 - `2026-06-01` [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its|### Anthropic gives the EU's cybersecurity agency access to its "Mythos" offensive-security model]]
+- `2026-05-31` [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod|The “AI psychosis” debate moves safety from benchmarks to product design]]
+- `2026-05-31` [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue|Data-center secrecy becomes an AI governance issue]]
 - `2026-05-31` [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c|### US moves to halt Nvidia and AMD advanced-chip shipments to Chinese firms operating outside China]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu|### Fresh arXiv Wave Centers on Inference Efficiency and Faithful Tool Use]]

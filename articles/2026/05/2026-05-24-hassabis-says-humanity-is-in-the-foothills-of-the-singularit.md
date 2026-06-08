@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
+- 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
-- 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 embedding_id: 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Within hours of each other, Google DeepMind CEO Demis Hassabis described current
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie]]
+**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]]
 <!-- graph:end -->

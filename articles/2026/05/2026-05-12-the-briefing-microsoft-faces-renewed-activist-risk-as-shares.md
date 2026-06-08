@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
-- 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
+- 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 embedding_id: 2026-05-12-the-briefing-microsoft-faces-renewed-activist-risk-as-shares
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft shares are down nearly 16% YTD, the worst performer of big tech. Briti
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]]
+**Related:** [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]]
 <!-- graph:end -->

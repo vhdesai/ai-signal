@@ -1,0 +1,16 @@
+{
+  "run_id": "20260608T073005+0000-1e93dc",
+  "started_at": "2026-06-08T07:30:05+00:00",
+  "finished_at": "2026-06-08T07:30:34+00:00",
+  "summary": {
+    "command": "build-graph",
+    "result": {
+      "status": "ok",
+      "articles_linked": 2247,
+      "wikilinks_emitted": 16443,
+      "entity_hubs": 34,
+      "topic_hubs": 5,
+      "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+    }
+  }
+}

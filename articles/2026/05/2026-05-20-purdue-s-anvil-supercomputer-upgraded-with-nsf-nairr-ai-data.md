@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
+- 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 embedding_id: 2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Purdue's NSF-funded Anvil supercomputer is being upgraded with large AI training
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

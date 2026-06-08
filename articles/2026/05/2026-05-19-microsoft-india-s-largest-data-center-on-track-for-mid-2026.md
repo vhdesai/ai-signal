@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
 - 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
-- event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat
 embedding_id: 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft India and South Asia President Puneet Chandok confirmed that Microsoft
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[event-microsoft-build-2026-microsoft-build-2026-infrastructure-silicon-and-cloud-operat]]
+**Related:** [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 - 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
+- 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
 - 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
-- 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
 embedding_id: 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Trump administration is reportedly circulating a 16-page draft executive ord
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]]
+**Related:** [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe]]
 <!-- graph:end -->

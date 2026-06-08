@@ -28,7 +28,6 @@ related_article_ids:
 - 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications
 embedding_id: event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 event_name: Microsoft Build 2026
 ---
@@ -42,5 +41,5 @@ event_name: Microsoft Build 2026
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications]]
+**Related:** [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
 <!-- graph:end -->

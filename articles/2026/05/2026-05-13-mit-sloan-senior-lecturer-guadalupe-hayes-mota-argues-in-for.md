@@ -34,8 +34,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
-- 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 embedding_id: 2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for
 event_name: ''
 ---
@@ -49,5 +49,5 @@ MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI is now 
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]]
+**Related:** [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]]
 <!-- graph:end -->

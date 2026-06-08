@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
+- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility
 - 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
-- 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
 embedding_id: 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Baidu disclosed an AI-services revenue milestone signaling that Chinese enterpri
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]]
+**Related:** [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-25-nextera-acquires-dominion-energy-for-67b-largest-us-utility]] · [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]]
 <!-- graph:end -->

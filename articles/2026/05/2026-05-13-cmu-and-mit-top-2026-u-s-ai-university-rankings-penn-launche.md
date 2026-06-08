@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
+- 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
-- 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 embedding_id: 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Carnegie Mellon and MIT were named the leading U.S. universities for artificial 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]]
+**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
 <!-- graph:end -->

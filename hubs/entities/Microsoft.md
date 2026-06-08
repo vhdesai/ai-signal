@@ -1,17 +1,27 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 328
+member_count: 340
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 328 connected article(s).
+> Auto-generated entity hub. 340 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-06` [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod|"Miasma Worm" Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
+- `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-02` [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse|Microsoft and Mayo Clinic Partner to Build Healthcare-Focused Frontier AI Model]]
+- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|Microsoft Set to Debut In-House MAI Model Family at Build 2026]]
+- `2026-06-02` [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf|Microsoft Launches Scout Agent, Agent 365 Governance, and Surface RTX Spark Dev Box]]
+- `2026-06-02` [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe|Microsoft Debuts Seven In-House MAI Models, Breaking Its Dependence on OpenAI]]
+- `2026-06-02` [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc|Microsoft Debuts In-House MAI Models to Cut OpenAI Dependence]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]
+- `2026-06-02` [[2026-06-02-microsoft-build-2026-scout-project-solara-and-frontier-tunin|Microsoft Build 2026: Scout, Project Solara, and Frontier Tuning Define the “Agent-First” Era]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum|Microsoft Build 2026: Science and quantum]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-iq-grounding-and-organization|Microsoft Build 2026: Microsoft IQ, grounding, and organizational context]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models|Microsoft Build 2026: Microsoft AI models]]
@@ -28,13 +38,14 @@ member_count: 328
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications|Microsoft Build 2026 Preview — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
-- `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|### Microsoft set to debut in-house MAI model family at Build 2026]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p|Nvidia Unveils RTX Spark Superchip, Reinventing the Windows PC as an Agent Platform]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc|### Nvidia unveils RTX Spark superchip, reinventing Windows AI PCs with Microsoft]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|### Nvidia unveils RTX Spark AI-PC platform at Computex]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|### Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip|### Nvidia Enters Windows PC Market with Arm-Based AI Chip]]
 - `2026-06-01` [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop|### GitHub Copilot shifts to token-based billing, drawing developer backlash]]
+- `2026-05-31` [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor|Microsoft’s “AI Independence Day” frames a post-OpenAI platform narrative]]
 - `2026-05-31` [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu|### Microsoft to Unveil Homegrown MAI Models at Build 2026, Including a Coding Model]]
 - `2026-05-31` [[2026-05-31-microsoft-confirms-no-windows-12-teases-nvidia-n1x-arm-pc-ah|### Microsoft confirms no "Windows 12," teases NVIDIA N1X ARM PC ahead of a major announcement]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
@@ -336,3 +347,4 @@ member_count: 328
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
 - [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]
+- [[event-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026|AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026 — Strategic Implications]]

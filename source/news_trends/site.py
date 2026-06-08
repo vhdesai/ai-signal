@@ -171,6 +171,29 @@ mark{background:#fef08a;border-radius:3px;padding:0 2px}
 .event-reg-btn:hover{background:var(--brand);box-shadow:0 2px 8px rgba(26,115,232,.3)}
 .upcoming-badge{display:inline-block;font-size:10px;font-weight:700;color:#fff;background:var(--accent2);padding:2px 8px;
                 border-radius:10px;margin-left:8px;vertical-align:middle;text-transform:uppercase;letter-spacing:.5px}
+.entity-date{display:block;font-size:12px;color:var(--muted);margin-top:4px}
+.compare-section{margin-bottom:28px;padding:24px;background:linear-gradient(135deg,rgba(13,107,94,.06),rgba(245,158,11,.06));border:1px solid rgba(13,107,94,.16);border-radius:var(--radius)}
+.compare-section h2{margin:0 0 6px;font-size:18px;color:var(--brand);border:none;padding:0}
+.compare-subtitle{margin:0 0 16px;font-size:13px;color:var(--muted)}
+.compare-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.compare-card{background:#fff;border:1px solid rgba(13,107,94,.14);border-radius:var(--radius);padding:18px 20px;transition:all .2s}
+.compare-card:hover{box-shadow:0 4px 16px rgba(13,107,94,.12);border-color:var(--brand-light)}
+.compare-card h3{margin:0 0 10px;font-size:16px}
+.compare-card h3 a{color:var(--brand);text-decoration:none}
+.compare-card h3 a:hover{text-decoration:underline}
+.compare-stat{font-size:13px;color:var(--muted);margin-bottom:4px}
+.compare-num{font-weight:700;color:var(--brand);font-size:15px}
+.compare-themes{font-size:12px;color:var(--muted);margin-top:8px;font-style:italic}
+.digest-events-section{margin-top:20px}
+.digest-toggle{cursor:pointer;font-size:14px;font-weight:600;color:var(--muted);padding:12px 16px;border:1px dashed var(--border);border-radius:var(--radius);list-style:none}
+.digest-toggle:hover{color:var(--brand);border-color:var(--brand-light)}
+.chat-highlight{margin:20px 0 24px;padding:18px 24px;background:linear-gradient(135deg,rgba(13,107,94,.08),rgba(16,185,129,.12));border:1px solid rgba(13,107,94,.2);border-radius:16px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.chat-highlight-icon{font-size:28px}
+.chat-highlight-text{flex:1;min-width:200px}
+.chat-highlight-text strong{display:block;color:var(--brand);font-size:15px;margin-bottom:4px}
+.chat-highlight-text span{font-size:13px;color:#475569}
+.chat-highlight-btn{padding:10px 20px;border-radius:12px;background:linear-gradient(135deg,var(--brand),var(--brand-light));color:#fff;text-decoration:none;font-size:13px;font-weight:700;transition:all .2s;white-space:nowrap}
+.chat-highlight-btn:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(13,107,94,.25)}
 .event-iframe{width:100%;min-height:600px;border:1px solid var(--border);border-radius:var(--radius);background:var(--card)}
 
 /* ---- pagination ---- */
@@ -566,7 +589,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
         if urls:
             event_urls[title] = urls
 
-    # Determine upcoming events (date strictly > today — past/today events show coverage)
+    # Determine upcoming events (date strictly > today — events starting today show coverage)
     upcoming: list[tuple[str, str, str, list[tuple[str, str]]]] = []  # (name, date, slug, urls)
     for ev_name, items in sorted(by_event.items()):
         dates = [a["date"] for a in items if a.get("date")]
@@ -617,20 +640,85 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
             '</div>'
         )
 
-    # --- Build "By Event" tab content: clickable card list ---
+    # --- Build "By Event" tab content: clickable card list, sorted by latest date (newest first) ---
+    def _event_max_date(ev_name: str) -> str:
+        items = by_event[ev_name]
+        dates = [a["date"] for a in items if a.get("date")]
+        return max(dates) if dates else "0000-00-00"
+
     ev_cards = []
-    for ev_name in sorted(by_event.keys()):
+    # Separate major conference events from digest/daily roundups
+    _digest_patterns = _re.compile(r"(News Digest|Last 24 Hours|Daily.*News|Weekly.*Roundup)", _re.IGNORECASE)
+    major_events = [ev for ev in by_event.keys() if not _digest_patterns.search(ev)]
+    digest_events = [ev for ev in by_event.keys() if _digest_patterns.search(ev)]
+
+    # Sort both groups by date (newest first)
+    major_events.sort(key=_event_max_date, reverse=True)
+    digest_events.sort(key=_event_max_date, reverse=True)
+
+    # --- Build comparison section for major conferences ---
+    comparison_events = ["Microsoft Build 2026", "Google I/O 2026"]
+    comparison_cards_html = ""
+    found_comparisons = [ev for ev in comparison_events if ev in by_event]
+    if len(found_comparisons) >= 2:
+        comp_items = []
+        for ev_name in found_comparisons:
+            items = by_event[ev_name]
+            slug = _safe_filename(ev_name)
+            dates = [a["date"] for a in items if a.get("date")]
+            ev_date = _format_date(max(dates)) if dates else ""
+            themes = set()
+            for a in items:
+                themes.update(a.get("themes") or [])
+            top_themes = sorted(themes)[:5]
+            comp_items.append(
+                f'<div class="compare-card">'
+                f'<h3><a href="events/{slug}.html">{ev_name}</a></h3>'
+                f'<div class="compare-stat"><span class="compare-num">{len(items)}</span> articles</div>'
+                f'<div class="compare-stat">Latest: {ev_date}</div>'
+                f'<div class="compare-themes">{", ".join(top_themes[:4])}</div>'
+                f'</div>'
+            )
+        comparison_cards_html = (
+            '<div class="compare-section">'
+            '<h2>⚡ Major Conference Showdown</h2>'
+            '<p class="compare-subtitle">Side-by-side coverage of the biggest AI conferences</p>'
+            '<div class="compare-grid">' + "".join(comp_items) + '</div>'
+            '</div>'
+        )
+
+    for ev_name in major_events:
         items = by_event[ev_name]
         slug = _safe_filename(ev_name)
         # Mark upcoming with a badge (strictly future — not today)
         dates = [a["date"] for a in items if a.get("date")]
         is_upcoming = any(d > today for d in dates) if dates else False
         badge = '<span class="upcoming-badge">Upcoming</span>' if is_upcoming else ''
+        ev_date = max(dates) if dates else ""
+        date_label = f'<span class="entity-date">{_format_date(ev_date)}</span>' if ev_date else ''
         ev_cards.append(
             f'<a href="events/{slug}.html" class="card entity-link">'
             f'<strong>{ev_name}</strong>{badge}'
+            f'{date_label}'
             f'<span class="entity-count">{len(items)} articles</span></a>'
         )
+
+    # Add digest events in a collapsible section
+    if digest_events:
+        ev_cards.append('<details class="digest-events-section"><summary class="digest-toggle">📋 Daily Digests & Roundups ({} entries)</summary>'.format(len(digest_events)))
+        for ev_name in digest_events:
+            items = by_event[ev_name]
+            slug = _safe_filename(ev_name)
+            dates = [a["date"] for a in items if a.get("date")]
+            ev_date = max(dates) if dates else ""
+            date_label = f'<span class="entity-date">{_format_date(ev_date)}</span>' if ev_date else ''
+            ev_cards.append(
+                f'<a href="events/{slug}.html" class="card entity-link">'
+                f'<strong>{ev_name}</strong>'
+                f'{date_label}'
+                f'<span class="entity-count">{len(items)} articles</span></a>'
+            )
+        ev_cards.append('</details>')
 
     # --- Build "By Company" tab content: A-Z clickable card list ---
     sorted_companies = sorted(by_company.keys(), key=str.upper)
@@ -661,6 +749,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
     # --- Combine into tabbed layout (inline, no iframes) ---
     tab_html = (
         upcoming_html
+        + comparison_cards_html
         + '<div class="event-tabs">'
         '<button class="event-tab active" onclick="evTab(this,0)">By Event</button>'
         '<button class="event-tab" onclick="evTab(this,1)">By Company</button>'
@@ -944,7 +1033,18 @@ def run_build_site(cfg: Config) -> dict:
         f'<div class="hero-stat"><div class="num">{urls_count}</div><div class="lbl">Linked</div></div>'
         f'</div></div>'
     )
-    body = _cards(snap, entity_files=entity_files)
+    chat_highlight = (
+        '<div class="chat-highlight">'
+        '<div class="chat-highlight-icon">💬</div>'
+        '<div class="chat-highlight-text">'
+        '<strong>Try AI Chat — the fastest way to explore the news</strong>'
+        '<span>Ask questions in natural language and get answers grounded in the latest articles. '
+        '"What happened with OpenAI this week?" or "Summarize Google I/O announcements"</span>'
+        '</div>'
+        '<a href="chat.html" class="chat-highlight-btn">Open AI Chat →</a>'
+        '</div>'
+    )
+    body = chat_highlight + _cards(snap, entity_files=entity_files)
     _write(site / "index.html",
            _render(f"Today\u2019s Pulse \u2014 {_format_date(latest) or 'n/a'}", body,
                    active="index", hero=hero_html))

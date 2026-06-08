@@ -16,14 +16,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
-- 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
-- 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
-- 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
-- 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
+dedupe_status: duplicate
+canonical_article_id: 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
+related_article_ids: []
 embedding_id: 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
 event_name: ''
 ---
@@ -37,5 +32,5 @@ Effective June 1, Microsoft's GitHub Copilot transitions from flat-rate subscrip
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]]
+**Canonical:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]]
 <!-- graph:end -->

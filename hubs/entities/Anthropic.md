@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 537
+member_count: 558
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 537 connected article(s).
+> Auto-generated entity hub. 558 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,14 +16,35 @@ member_count: 537
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-07` [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80|Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code]]
+- `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-06` [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau|Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thing"]]
+- `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
+- `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
+- `2026-06-05` [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward|OpenAI and Anthropic Share ~90 Investors as Both Race Toward IPOs]]
+- `2026-06-05` [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati|NSA Reportedly Readying Anthropic's Mythos for Cyber Operations]]
+- `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
+- `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-04` [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return|Anthropic's Daniela Amodei Shrugs Off Doubts About AI Returns Pre-IPO]]
+- `2026-06-04` [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai|Anthropic Calls for Coordinated Global Pause in Frontier AI Development]]
+- `2026-06-03` [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat|SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with xAI at the Center]]
+- `2026-06-03` [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna|OpenAI and Anthropic Urge Congress to Regulate Synthetic DNA to Prevent AI Bioweapons]]
+- `2026-06-03` [[2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a|Anthropic Scales Enterprise Consulting with Services Track and Partner Hub]]
+- `2026-06-03` [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo|Anthropic Picks Morgan Stanley and Goldman Sachs to Lead IPO]]
+- `2026-06-02` [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales|OpenAI Expands Codex Agent to Finance, Banking, and Sales]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-open-standards-and-agent-intero|Microsoft Build 2026 Preview: Open standards and agent interoperability]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent|Microsoft Build 2026 Preview: Copilot and Microsoft 365 agents]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model|Microsoft Build 2026 Preview: Azure AI Foundry and MAI model suite]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows|Microsoft Build 2026 Preview: AI-native Windows]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications|Microsoft Build 2026 Preview — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
+- `2026-06-02` [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i|Anthropic Research Flags ~31.5% Prompt-Injection Hijack Rate in Browser Agents]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr|Anthropic Expands Project Glasswing to 150 Organizations Across 15+ Countries]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
 - `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f|Anthropic’s Mythos shows security upside — and cost pressure — from frontier agents]]
 - `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
 - `2026-06-01` [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop|### GitHub Copilot shifts to token-based billing, drawing developer backlash]]
 - `2026-06-01` [[2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model|### EU presses U.S. for access to Anthropic's Mythos model]]

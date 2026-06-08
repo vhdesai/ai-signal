@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 84
+member_count: 85
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 84 connected article(s).
+> Auto-generated entity hub. 85 connected article(s).
 
+- `2026-06-02` [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense|Airbus Partners with Mistral AI for Sovereign AI in Defense and Design]]
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
 - `2026-05-28` [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands|Mistral signs Airbus and BMW, defends military-AI use, expands French data centers]]
 - `2026-05-28` [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo|Mistral rebrands Le Chat as "Vibe," positioning it as a full work agent]]
