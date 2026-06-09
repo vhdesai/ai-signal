@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 29
+member_count: 30
 ---
 
 # AMD
 
-> Auto-generated entity hub. 29 connected article(s).
+> Auto-generated entity hub. 30 connected article(s).
 
+- `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|### UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
 - `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|### AMD Commits £2B to Accelerate UK AI at London Tech Week]]
 - `2026-06-08` [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk|### AMD Commits £2 Billion to Accelerate AI Innovation in the UK]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]

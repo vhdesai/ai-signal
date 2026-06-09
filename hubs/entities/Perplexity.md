@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 16
+member_count: 17
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 16 connected article(s).
+> Auto-generated entity hub. 17 connected article(s).
 
+- `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|### OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity|### AI Regulation Fractures on Three Fronts: CNN Sues Perplexity, OpenAI Aligns to EU Rules, DOJ Enters Colorado Fight]]
 - `2026-05-27` [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi|OpenAI Brings Folha and UOL Journalism into ChatGPT in Brazil]]

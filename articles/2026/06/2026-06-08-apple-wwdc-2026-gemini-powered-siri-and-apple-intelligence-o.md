@@ -23,11 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
+- 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 embedding_id: 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Apple's WWDC keynote begins at 10 AM PT — Tim Cook's final as CEO before handi
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]]
+**Related:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]]
 <!-- graph:end -->

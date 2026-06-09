@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
+- 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
 embedding_id: 2026-04-01-products-tools
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Apple Tests Multi-Command Siri for iOS 27 — Simultaneous Task Handling Coming 
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]]
+**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
+- 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
+- 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 embedding_id: 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
 event_name: ''
 ---
@@ -37,5 +38,5 @@ AMD committed up to £2B for five-year AI investment in the UK — collaboration
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]]
+**Related:** [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]]
 <!-- graph:end -->

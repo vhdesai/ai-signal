@@ -1,15 +1,16 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1093
+member_count: 1094
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1093 connected article(s).
+> Auto-generated topic hub. 1094 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
+- `2026-06-08` [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app|### Meta Deletes Face-Recognition System from Smart Glasses App After Wired Report]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]

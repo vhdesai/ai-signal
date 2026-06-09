@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 embedding_id: 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At GTC Taipei / COMPUTEX 2026, Nvidia also unveiled Alpamayo 2, an open reasonin
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]]
 <!-- graph:end -->

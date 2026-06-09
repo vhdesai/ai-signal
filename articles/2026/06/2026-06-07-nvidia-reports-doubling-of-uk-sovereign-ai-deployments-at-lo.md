@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
 - 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
+- 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
+- 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 embedding_id: 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ One year after Huang and PM Starmer framed Britain as "an AI maker, not an AI ta
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]]
+**Related:** [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

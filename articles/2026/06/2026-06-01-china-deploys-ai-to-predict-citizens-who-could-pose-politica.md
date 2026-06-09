@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re
 - 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
+- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 embedding_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 event_name: ''
 ---
@@ -36,5 +37,5 @@ The New York Times reported that Chinese authorities are deploying AI systems de
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]]
+**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
 <!-- graph:end -->

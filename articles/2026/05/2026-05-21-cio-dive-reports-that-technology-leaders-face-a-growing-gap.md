@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
-- 2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m
+- 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 embedding_id: 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CIO Dive reports that technology leaders face a growing gap between AI deploymen
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]]
+**Related:** [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]]
 <!-- graph:end -->

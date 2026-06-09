@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
+- 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 embedding_id: 2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Check Point's 2026 Cloud Security Report finds that 78% of organizations now rep
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]]
 <!-- graph:end -->

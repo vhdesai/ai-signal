@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 602
+member_count: 604
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 602 connected article(s).
+> Auto-generated entity hub. 604 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -16,6 +16,8 @@ member_count: 602
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-08` [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo|### Worldcoin Doing Layoffs as OpenAI Files for IPO]]
+- `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|### OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
 - `2026-06-08` [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules|### ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]

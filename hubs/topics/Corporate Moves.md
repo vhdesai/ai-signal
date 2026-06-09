@@ -1,21 +1,27 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1177
+member_count: 1183
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1177 connected article(s).
+> Auto-generated topic hub. 1183 connected article(s).
 
+- `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe|### Lovable Hits $500M Annualized Revenue with 1M New Projects Per Week]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
+- `2026-06-08` [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo|### Worldcoin Doing Layoffs as OpenAI Files for IPO]]
+- `2026-06-08` [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l|### White House and Congress Relaunch Effort to Block State AI Laws]]
 - `2026-06-08` [[2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption|### Software M&A Deals Hit COVID-Era Lows Amid AI Disruption]]
+- `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|### OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
+- `2026-06-08` [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app|### Meta Deletes Face-Recognition System from Smart Glasses App After Wired Report]]
 - `2026-06-08` [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules|### ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules]]
+- `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|### Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
 - `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead|OpenAI Plans ChatGPT "Superapp" Overhaul — "Chat Is Dead"]]

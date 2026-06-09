@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-- 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 embedding_id: 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Leaked roadmap documents indicate Meta is developing an AI-powered pendant capab
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
 <!-- graph:end -->

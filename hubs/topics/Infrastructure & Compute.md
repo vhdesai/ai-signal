@@ -1,18 +1,28 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 604
+member_count: 614
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 604 connected article(s).
+> Auto-generated topic hub. 614 connected article(s).
 
+- `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe|### Lovable Hits $500M Annualized Revenue with 1M New Projects Per Week]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
+- `2026-06-08` [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo|### Worldcoin Doing Layoffs as OpenAI Files for IPO]]
+- `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|### UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
+- `2026-06-08` [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con|### Nvidia Signs Sweeping South Korea AI Deals; Memory Is the Constraint]]
+- `2026-06-08` [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports|### Nvidia CEO Declines Senate Testimony on AI, China, and Exports]]
+- `2026-06-08` [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl|### New York Legislature Passes Landmark AI-Generated News Disclosure Bill]]
+- `2026-06-08` [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally|### Intel's Full-Stack AI Pivot Drives ~8.5% Rally]]
 - `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-08` [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli|### Apple Unveils "Siri AI," iOS 27, and Comprehensive Apple Intelligence Overhaul at WWDC]]
+- `2026-06-08` [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai|### Amazon Strikes Multibillion-Dollar Corning Fiber Deal for AI Data Centers]]
+- `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|### Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]
 - `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|### AMD Commits £2B to Accelerate UK AI at London Tech Week]]
 - `2026-06-08` [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk|### AMD Commits £2 Billion to Accelerate AI Innovation in the UK]]

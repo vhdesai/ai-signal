@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 16
+member_count: 17
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 16 connected article(s).
+> Auto-generated entity hub. 17 connected article(s).
 
+- `2026-06-08` [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con|### Nvidia Signs Sweeping South Korea AI Deals; Memory Is the Constraint]]
 - `2026-06-07` [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na|### SK Telecom to Build Gigawatt-Scale AI Cloud on Nvidia DSX; NAVER and LG Group Stand Up AI Factories]]
 - `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
 - `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]

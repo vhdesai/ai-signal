@@ -1,14 +1,18 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 523
+member_count: 527
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 523 connected article(s).
+> Auto-generated topic hub. 527 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-08` [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l|### White House and Congress Relaunch Effort to Block State AI Laws]]
+- `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|### UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
+- `2026-06-08` [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports|### Nvidia CEO Declines Senate Testimony on AI, China, and Exports]]
+- `2026-06-08` [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl|### New York Legislature Passes Landmark AI-Generated News Disclosure Bill]]
 - `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
 - `2026-06-07` [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80|Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code]]
 - `2026-06-07` [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e|### Semafor: Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]

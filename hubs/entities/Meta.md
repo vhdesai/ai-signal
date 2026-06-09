@@ -1,15 +1,17 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 188
+member_count: 190
 ---
 
 # Meta
 
-> Auto-generated entity hub. 188 connected article(s).
+> Auto-generated entity hub. 190 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-06-08` [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app|### Meta Deletes Face-Recognition System from Smart Glasses App After Wired Report]]
+- `2026-06-08` [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai|### Amazon Strikes Multibillion-Dollar Corning Fiber Deal for AI Data Centers]]
 - `2026-06-07` [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities|### Axios: The Business of AI Faces Four Harsh Realities]]
 - `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
 - `2026-06-05` [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st|Meta Plans Massive Stock Sale to Fund $145B AI Investments; Stock Drops 5.5%]]

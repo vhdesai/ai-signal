@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 53
+member_count: 54
 ---
 
 # IBM
 
-> Auto-generated entity hub. 53 connected article(s).
+> Auto-generated entity hub. 54 connected article(s).
 
+- `2026-06-08` [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap|### IBM Study Finds a Widening Enterprise "AI Control Gap"]]
 - `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]
 - `2026-05-28` [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts|MIT to Establish Regional Quantum Hub With $25M Massachusetts Investment]]

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 29
+member_count: 31
 ---
 
 # Intel
 
-> Auto-generated entity hub. 29 connected article(s).
+> Auto-generated entity hub. 31 connected article(s).
 
+- `2026-06-08` [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally|### Intel's Full-Stack AI Pivot Drives ~8.5% Rally]]
+- `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|### Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-04` [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu|Foxconn and Intel Partner on Next-Generation AI Infrastructure]]
 - `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]

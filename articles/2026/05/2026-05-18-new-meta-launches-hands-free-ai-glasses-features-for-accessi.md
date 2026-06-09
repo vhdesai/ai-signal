@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d
-- 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 embedding_id: 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Ahead of Global Accessibility Awareness Day, Meta unveiled new hands-free capabi
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d]] · [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-19-apple-unveils-apple-intelligence-accessibility-features-on-d]]
 <!-- graph:end -->

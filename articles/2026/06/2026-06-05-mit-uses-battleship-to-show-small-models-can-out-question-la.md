@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
+- 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
 embedding_id: 2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la
 event_name: ''
 ---
@@ -36,5 +37,5 @@ MIT used a Battleship-style task to show that improving question-planning lets a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]]
+**Related:** [[2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]]
 <!-- graph:end -->

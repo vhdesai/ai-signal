@@ -21,7 +21,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+canonical_article_id: 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 related_article_ids: []
 embedding_id: 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 event_name: ''
@@ -36,5 +36,5 @@ Apple's WWDC keynote begins at 10 AM PT today — Tim Cook's final as CEO before
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]]
+**Canonical:** [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]]
 <!-- graph:end -->

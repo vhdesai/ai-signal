@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-26-genai-apple-com-domain-spotted-ahead-of-wwdc
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
+- 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
 embedding_id: 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
 event_name: ''
@@ -39,5 +40,5 @@ A newly discovered genai.apple.com subdomain surfaced over the weekend, reinforc
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-genai-apple-com-domain-spotted-ahead-of-wwdc]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]]
+**Related:** [[2026-05-26-genai-apple-com-domain-spotted-ahead-of-wwdc]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]]
 <!-- graph:end -->

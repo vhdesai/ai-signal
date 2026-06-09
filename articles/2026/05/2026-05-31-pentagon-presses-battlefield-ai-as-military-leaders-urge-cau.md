@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
 - 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
+- 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-- 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -37,5 +37,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
 <!-- graph:end -->
