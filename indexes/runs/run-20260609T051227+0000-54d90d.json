@@ -1,0 +1,21 @@
+{
+  "run_id": "20260609T051227+0000-54d90d",
+  "started_at": "2026-06-09T05:12:27+00:00",
+  "finished_at": "2026-06-09T05:12:30+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 227,
+      "digests_changed": 7,
+      "changed": [
+        "news\\01_Apple_WWDC26_Executive_Summary.md",
+        "news\\02_Apple_WWDC26_Siri_AI_and_Apple_Intelligence.md",
+        "news\\03_Apple_WWDC26_OS27_Platform_Updates.md",
+        "news\\04_Apple_WWDC26_Developer_Tools_and_Xcode.md",
+        "news\\05_Apple_WWDC26_App_Store_Developer_Business.md",
+        "news\\06_Apple_WWDC26_Child_Safety_Privacy_Regulatory.md",
+        "news\\07_Apple_WWDC26_Quick_Reference_Guide.md"
+      ]
+    }
+  }
+}

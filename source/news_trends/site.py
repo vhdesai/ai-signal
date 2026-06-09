@@ -749,6 +749,76 @@ def _build_build_io_compare_page(cfg: Config, site: Path) -> int:
     return 1
 
 
+def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
+    """Build a tabbed analysis page for Apple WWDC 2026 announcements."""
+    wwdc_specs = [
+        ('01_Apple_WWDC26_Executive_Summary.md', 'Executive Summary'),
+        ('02_Apple_WWDC26_Siri_AI_and_Apple_Intelligence.md', 'Siri & Apple Intelligence'),
+        ('03_Apple_WWDC26_OS27_Platform_Updates.md', 'OS 27 Platforms'),
+        ('04_Apple_WWDC26_Developer_Tools_and_Xcode.md', 'Developer Tools'),
+        ('05_Apple_WWDC26_App_Store_Developer_Business.md', 'App Store & Business'),
+        ('06_Apple_WWDC26_Child_Safety_Privacy_Regulatory.md', 'Privacy & Safety'),
+        ('07_Apple_WWDC26_Quick_Reference_Guide.md', 'Quick Reference'),
+    ]
+    docs: list[dict[str, str]] = []
+    for idx, (filename, tab_label) in enumerate(wwdc_specs):
+        path = cfg.news_dir / filename
+        if not path.exists():
+            continue
+        text = path.read_text(encoding='utf-8', errors='replace')
+        title = tab_label
+        for line in text.splitlines():
+            if line.startswith('#'):
+                title = line.lstrip('#').strip() or tab_label
+                break
+        docs.append({
+            'id': f'wwdc-doc-{idx}',
+            'tab': tab_label,
+            'title': title,
+            'source': filename,
+            'content': _md_to_html(text),
+        })
+
+    if not docs:
+        return 0
+
+    tabs_html = ''.join(
+        f'<button class="compare-tab-btn{" active" if i == 0 else ""}" onclick="showCompareDoc(this, \'{doc["id"]}\')">{_html.escape(doc["tab"])}</button>'
+        for i, doc in enumerate(docs)
+    )
+    docs_html = ''.join(
+        f'<section id="{doc["id"]}" class="compare-doc{" active" if i == 0 else ""}">'
+        f'<div class="compare-doc-header"><h2>{_html.escape(doc["title"])}</h2>'
+        f'<p class="compare-doc-source">Source: news/{_html.escape(doc["source"])}</p></div>'
+        f'{doc["content"]}'
+        '</section>'
+        for i, doc in enumerate(docs)
+    )
+    body = (
+        '<div class="compare-page-intro">'
+        '<h2>\U0001f34e Apple WWDC 2026 — Full Analysis</h2>'
+        '<p>Deep-dive into every major WWDC26 announcement: Siri AI, Apple Intelligence, OS 27, '
+        'Xcode 27 coding agents, App Store changes, privacy &amp; child safety, and a quick-reference guide.</p>'
+        '</div>'
+        '<div class="compare-page-layout">'
+        f'<div class="compare-tabs">{tabs_html}</div>'
+        f'<div class="compare-content">{docs_html}</div>'
+        '</div>'
+        '<script>'
+        'function showCompareDoc(btn,id){'
+        'document.querySelectorAll(".compare-doc").forEach(el=>el.classList.remove("active"));'
+        'document.querySelectorAll(".compare-tab-btn").forEach(el=>el.classList.remove("active"));'
+        'document.getElementById(id).classList.add("active");'
+        'btn.classList.add("active");}'
+        '</script>'
+    )
+
+    _write(site / 'wwdc-2026.html',
+           _render('Apple WWDC 2026 Analysis', body, active='events',
+                   subtitle='Comprehensive analysis of Apple WWDC 2026 announcements'))
+    return 1
+
+
 def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
                        entity_files: dict[str, str]) -> int:
     """Build event pages using DB-indexed event articles.
@@ -948,6 +1018,33 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
             '</div>'
         )
 
+    # --- WWDC analysis section (if analysis files exist) ---
+    wwdc_analysis_html = ""
+    wwdc_file = cfg.news_dir / "01_Apple_WWDC26_Executive_Summary.md"
+    if wwdc_file.exists():
+        wwdc_count = "Apple WWDC 2026" in by_event and len(by_event["Apple WWDC 2026"]) or 0
+        wwdc_analysis_html = (
+            '<div class="compare-section">'
+            '<h2>🍎 Apple WWDC 2026 — Full Analysis</h2>'
+            '<p class="compare-subtitle">Deep-dive into Siri AI, Apple Intelligence, OS 27, Xcode 27, App Store changes, and more</p>'
+            '<div class="compare-grid">'
+            '<div class="compare-card">'
+            '<h3><a href="events/Apple-WWDC-2026.html">Apple WWDC 2026</a></h3>'
+            f'<div class="compare-stat"><span class="compare-num">{wwdc_count}</span> news articles</div>'
+            '<div class="compare-stat">Siri AI · Apple Intelligence · OS 27</div>'
+            '<div class="compare-themes">Xcode 27 coding agents, Privacy, App Store</div>'
+            '</div>'
+            '<div class="compare-card">'
+            '<h3><a href="wwdc-2026.html">Full WWDC Analysis</a></h3>'
+            '<div class="compare-stat"><span class="compare-num">7</span> deep-dive sections</div>'
+            '<div class="compare-stat">Executive summary to quick reference</div>'
+            '<div class="compare-themes">Models, platforms, tools, strategy, privacy</div>'
+            '</div>'
+            '</div>'
+            '<p class="compare-link-row"><a href="wwdc-2026.html" class="compare-link">Read full WWDC 2026 analysis →</a></p>'
+            '</div>'
+        )
+
     for ev_name in major_events:
         items = by_event[ev_name]
         slug = _safe_filename(ev_name)
@@ -1011,6 +1108,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
     tab_html = (
         upcoming_html
         + comparison_cards_html
+        + wwdc_analysis_html
         + '<div class="event-tabs">'
         '<button class="event-tab active" onclick="evTab(this,0)">By Event</button>'
         '<button class="event-tab" onclick="evTab(this,1)">By Company</button>'
@@ -1435,6 +1533,7 @@ def run_build_site(cfg: Config) -> dict:
     events = _build_event_pages(cfg, site, canonical, entity_files)
     pages += events
     pages += _build_build_io_compare_page(cfg, site)
+    pages += _build_wwdc_analysis_page(cfg, site)
 
     # --- submit link page ---
     pages += _build_submit_page(site, cfg, canonical)

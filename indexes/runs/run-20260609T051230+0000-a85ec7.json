@@ -1,0 +1,14 @@
+{
+  "run_id": "20260609T051230+0000-a85ec7",
+  "started_at": "2026-06-09T05:12:30+00:00",
+  "finished_at": "2026-06-09T05:13:12+00:00",
+  "summary": {
+    "command": "split",
+    "result": {
+      "digests_parsed": 227,
+      "articles_written": 2520,
+      "events_parsed": 37,
+      "event_articles_written": 83
+    }
+  }
+}
