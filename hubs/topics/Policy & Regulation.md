@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 520
+member_count: 523
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 520 connected article(s).
+> Auto-generated topic hub. 523 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
 - `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
@@ -15,6 +15,7 @@ member_count: 520
 - `2026-06-07` [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l|### Politico: "It's a Hurricane Warning"—AI Guardrails May Be Too Late]]
 - `2026-06-07` [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake|### Over 100 Campaigners Back UK MP Suing xAI Over Grok Deepfake Images]]
 - `2026-06-07` [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics|### Nvidia and Doosan Advance Physical AI and Robotics]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-07` [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses|### Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
 - `2026-06-06` [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs|White House AI Adviser Sriram Krishnan Departs]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
@@ -24,6 +25,7 @@ member_count: 520
 - `2026-06-05` [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake|Trump Plans to Meet AI Companies on Government Equity-Stake Proposal]]
 - `2026-06-05` [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs|Stock-Music Watermarks Surface in Gemini-Generated Songs]]
 - `2026-06-05` [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium|New York Passes First State-Level Data Center Moratorium]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
 - `2026-06-05` [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions|### Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IPO]]
@@ -44,6 +46,7 @@ member_count: 520
 - `2026-06-02` [[2026-06-02-center-for-ai-safety-expands-creates-national-security-focus|Center for AI Safety Expands, Creates National Security–Focused Frontier Security Institute]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr|Anthropic Expands Project Glasswing to 150 Organizations Across 15+ Countries]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-06-01` [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over|Florida Files First-of-Its-Kind Lawsuit Against OpenAI Over Safety Risks]]
 - `2026-06-01` [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con|### OpenAI model disproves a long-standing discrete-geometry conjecture]]

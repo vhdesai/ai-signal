@@ -31,6 +31,18 @@ pwsh ./scripts/setup.ps1       # Windows
 
 Drop markdown digest files into the `news/` directory.
 
+#### Publication Email Files
+
+Publication email exports (e.g., `Business Insider.md`, `Wall Street Journal.md`) can be merged
+into date-based digests using the merger script:
+
+```bash
+python -X utf8 merge_publications.py
+```
+
+This extracts articles from publication email files, filters out generic newsletter links,
+and appends them to existing date-stamped digest files (or creates new ones).
+
 ### 3. Run the Pipeline
 
 ```bash

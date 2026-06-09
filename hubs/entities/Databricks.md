@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 40
+member_count: 41
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 40 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-27` [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents|Natural-language query to configuration for retrieval agents (Zaharia et al.)]]

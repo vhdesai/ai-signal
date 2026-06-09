@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 357
+member_count: 359
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 357 connected article(s).
+> Auto-generated entity hub. 359 connected article(s).
 
 - `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|### AMD Commits £2B to Accelerate UK AI at London Tech Week]]
 - `2026-06-08` [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk|### AMD Commits £2 Billion to Accelerate AI Innovation in the UK]]
@@ -15,12 +15,14 @@ member_count: 357
 - `2026-06-07` [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc|### Nvidia and SK Hynix Announce Multiyear Partnership to Advance Memory for AI Factories]]
 - `2026-06-07` [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics|### Nvidia and Doosan Advance Physical AI and Robotics]]
 - `2026-06-07` [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo|### Nvidia Reports Doubling of UK Sovereign-AI Deployments at London Tech Week]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-07` [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia|### $1.3 Trillion Semiconductor Selloff Rattles AI Stocks; Nvidia CEO Shrugs Off Rout]]
 - `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso|Nvidia Ships Nemotron 3 Ultra — Largest U.S. Open-Weights Reasoning Model]]
 - `2026-06-05` [[2026-06-05-nvidia-authorizes-record-80b-buyback-raises-dividend|Nvidia Authorizes Record $80B Buyback; Raises Dividend]]
 - `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso|### Nvidia Ships Nemotron 3 Ultra, Its Largest Open-Weights Reasoning Model]]
 - `2026-06-05` [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend|### Nvidia Authorizes Record $80B Buyback and Raises Dividend]]
 - `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
 - `2026-06-02` [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play|Nvidia Pushes RTX-Class PC Silicon as Full-Stack Play]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib|Microsoft Build 2026: Security, trust, governance, and responsible AI]]

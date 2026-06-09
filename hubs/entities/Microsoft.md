@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 344
+member_count: 348
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 344 connected article(s).
+> Auto-generated entity hub. 348 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
@@ -16,8 +16,11 @@ member_count: 344
 - `2026-06-06` [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod|"Miasma Worm" Compromises 73 Microsoft GitHub Repos via AI Coding Tools]]
 - `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
 - `2026-06-02` [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse|Microsoft and Mayo Clinic Partner to Build Healthcare-Focused Frontier AI Model]]
 - `2026-06-02` [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20|Microsoft Set to Debut In-House MAI Model Family at Build 2026]]
 - `2026-06-02` [[2026-06-02-microsoft-launches-scout-agent-agent-365-governance-and-surf|Microsoft Launches Scout Agent, Agent 365 Governance, and Surface RTX Spark Dev Box]]
@@ -43,6 +46,7 @@ member_count: 344
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-strategic-implications|Microsoft Build 2026 Preview — Strategic Implications]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p|Nvidia Unveils RTX Spark Superchip, Reinventing the Windows PC as an Agent Platform]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc|### Nvidia unveils RTX Spark superchip, reinventing Windows AI PCs with Microsoft]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|### Nvidia unveils RTX Spark AI-PC platform at Computex]]

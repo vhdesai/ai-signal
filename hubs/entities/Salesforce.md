@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 24
+member_count: 25
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 24 connected article(s).
+> Auto-generated entity hub. 25 connected article(s).
 
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-05-29` [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b|Salesforce spotlights Agentforce as Snowflake makes $6B AWS bet on AI agents]]
 - `2026-05-29` [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin|Salesforce says Agentforce has reached $1B in annual recurring revenue]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]

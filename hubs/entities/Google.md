@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 490
+member_count: 495
 ---
 
 # Google
 
-> Auto-generated entity hub. 490 connected article(s).
+> Auto-generated entity hub. 495 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -18,21 +18,26 @@ member_count: 490
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o|### Apple WWDC 2026: Gemini-Powered Siri and Apple Intelligence Overhaul Begin Today]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-05` [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs|Stock-Music Watermarks Surface in Gemini-Generated Songs]]
 - `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa|MIT Ethics of Computing Symposium: Alignment Is Now a Governance Question]]
 - `2026-06-05` [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon|Google Signs $30B+ Deal to Buy Compute from SpaceX at $920M/Month]]
 - `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t|Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB]]
+- `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
 - `2026-06-05` [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso|### Nvidia Ships Nemotron 3 Ultra, Its Largest Open-Weights Reasoning Model]]
 - `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor|### Google Ships Gemma 4 QAT Checkpoints, Cutting On-Device Memory to ~1GB]]
 - `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]
 - `2026-06-04` [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling|Google Lays Off Cloud and Cybersecurity Staff While Doubling Down on AI]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-06-03` [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi|UK Orders Google to Allow Publishers to Opt Out of AI Scraping for Search Summaries]]
 - `2026-06-03` [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop|Google Releases Gemma 4 12B — Sized for a 16GB Laptop]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
 - `2026-06-03` [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop|### Google Releases Gemma 4 12B, Sized to Run on a 16GB Laptop]]
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
 - `2026-06-02` [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs|Hassabis: Companies Have AI “Backwards” on Jobs]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
 - `2026-05-30` [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h|Google’s always-on Gemini Spark shows where assistants are headed]]
 - `2026-05-30` [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20|### Microsoft lines up an expanded MAI model family for Build 2026]]

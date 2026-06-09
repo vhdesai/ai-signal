@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1092
+member_count: 1093
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1092 connected article(s).
+> Auto-generated topic hub. 1093 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
@@ -78,6 +78,7 @@ member_count: 1092
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
 - `2026-06-02` [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent|### Alibaba's Qwen team launches Qwen3.7-Plus multimodal agent]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-06-01` [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0|Unitree’s H2 Plus gives academic robotics a NVIDIA Isaac GR00T reference platform]]
 - `2026-06-01` [[2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen|AI Weather Startup WindBorne Out-Forecasting Government Agencies]]
 - `2026-06-01` [[2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it|### Strava restricts data access to curb AI scraping ahead of its IPO]]

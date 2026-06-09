@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 601
+member_count: 604
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 601 connected article(s).
+> Auto-generated topic hub. 604 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
@@ -24,6 +24,7 @@ member_count: 601
 - `2026-06-07` [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc|### Nvidia and SK Hynix Announce Multiyear Partnership to Advance Memory for AI Factories]]
 - `2026-06-07` [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics|### Nvidia and Doosan Advance Physical AI and Robotics]]
 - `2026-06-07` [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo|### Nvidia Reports Doubling of UK Sovereign-AI Deployments at London Tech Week]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
 - `2026-06-07` [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia|### $1.3 Trillion Semiconductor Selloff Rattles AI Stocks; Nvidia CEO Shrugs Off Rout]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
@@ -37,6 +38,7 @@ member_count: 601
 - `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t|Google Ships Gemma 4 QAT Checkpoints — On-Device Memory Down to ~1GB]]
 - `2026-06-05` [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi|AirTrunk Commits $30B to Build 5GW of AI Data Centers in India]]
 - `2026-06-05` [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai|### Meta Reportedly Plans Massive Stock Sale to Fund $145B in AI Investments; Stock Drops]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-05` [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor|### Google Ships Gemma 4 QAT Checkpoints, Cutting On-Device Memory to ~1GB]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch|### DeepSeek V4 Trained on Huawei Chips, Marking Milestone for China's AI Self-Reliance]]
 - `2026-06-05` [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai|### DeepSeek V4 Trained on Huawei Chips — Milestone for China's AI Self-Reliance]]
@@ -58,6 +60,7 @@ member_count: 601
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-agents-agent-platforms-and-agent-lifecy|Microsoft Build 2026: Agents, agent platforms, and agent lifecycle]]
 - `2026-06-02` [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense|Airbus Partners with Mistral AI for Sovereign AI in Defense and Design]]
 - `2026-06-02` [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a|### STMicroelectronics doubles data-center revenue ambition on AI demand]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-06-02` [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b|### Alphabet to raise $80B for AI buildout; Berkshire commits $10B]]
 - `2026-06-02` [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw|### Alphabet launches $80B equity raise with $10B Berkshire Hathaway anchor]]
 - `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]

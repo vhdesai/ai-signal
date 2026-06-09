@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 187
+member_count: 189
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 187 connected article(s).
+> Auto-generated entity hub. 189 connected article(s).
 
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-05-31` [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets|WSJ tracks the hunt for durable AI winners in public markets]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
 - `2026-05-31` [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters|### An 'AI affordability' reckoning hits enterprise adopters]]
 - `2026-05-30` [[2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to|### "LLMShare" Campaign Abuses Shared ChatGPT and Claude Links to Spread Malware]]

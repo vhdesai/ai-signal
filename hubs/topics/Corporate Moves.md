@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1176
+member_count: 1177
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1176 connected article(s).
+> Auto-generated topic hub. 1177 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
@@ -48,6 +48,7 @@ member_count: 1176
 - `2026-06-05` [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend|### Nvidia Authorizes Record $80B Buyback and Raises Dividend]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-05` [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions|### Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IPO]]
 - `2026-06-05` [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an|### Anthropic Faces Multi-Model Claude Outage; Notion Disables Anthropic Models]]
 - `2026-06-04` [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory|OpenAI Introduces "Dreaming" to Overhaul ChatGPT Memory]]

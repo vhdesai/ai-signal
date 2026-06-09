@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 572
+member_count: 577
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 572 connected article(s).
+> Auto-generated entity hub. 577 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -34,16 +34,20 @@ member_count: 572
 - `2026-06-05` [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati|NSA Reportedly Readying Anthropic's Mythos for Cyber Operations]]
 - `2026-06-05` [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age|Microsoft Identifies Seven New Attack Vectors Against AI Agents]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
 - `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se|### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI; Calls Anthropic "Too Expensive"]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to|### Microsoft AI Chief Says Company Was "Set Free" from OpenAI to Pursue Superintelligence]]
+- `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-05` [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions|### Anthropic, Previously Blacklisted, Eases White House Tensions Ahead of IPO]]
 - `2026-06-05` [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an|### Anthropic Faces Multi-Model Claude Outage; Notion Disables Anthropic Models]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-06-04` [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return|Anthropic's Daniela Amodei Shrugs Off Doubts About AI Returns Pre-IPO]]
 - `2026-06-04` [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai|Anthropic Calls for Coordinated Global Pause in Frontier AI Development]]
 - `2026-06-03` [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat|SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with xAI at the Center]]
 - `2026-06-03` [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna|OpenAI and Anthropic Urge Congress to Regulate Synthetic DNA to Prevent AI Bioweapons]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
 - `2026-06-03` [[2026-06-03-anthropic-scales-enterprise-consulting-with-services-track-a|Anthropic Scales Enterprise Consulting with Services Track and Partner Hub]]
 - `2026-06-03` [[2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo|Anthropic Picks Morgan Stanley and Goldman Sachs to Lead IPO]]
 - `2026-06-02` [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales|OpenAI Expands Codex Agent to Finance, Banking, and Sales]]
@@ -58,6 +62,7 @@ member_count: 572
 - `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
 - `2026-06-02` [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs|### U.S. futures slip after AI-driven record highs]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-06-01` [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f|Anthropic’s Mythos shows security upside — and cost pressure — from frontier agents]]
 - `2026-06-01` [[2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig|### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins]]
 - `2026-06-01` [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop|### GitHub Copilot shifts to token-based billing, drawing developer backlash]]

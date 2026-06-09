@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 596
+member_count: 602
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 596 connected article(s).
+> Auto-generated entity hub. 602 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -23,6 +23,7 @@ member_count: 596
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
 - `2026-06-07` [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e|### Semafor: Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
 - `2026-06-07` [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo|### OpenAI Plans ChatGPT "Superapp" Overhaul Ahead of IPO]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-07` [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses|### Inside Altman's Pitch on Government AI Stake; Sacks Expresses Concerns]]
 - `2026-06-06` [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau|Trump Endorses U.S. Equity Stake in AI Giants: "Could Be a Beautiful Thing"]]
 - `2026-06-06` [[2026-06-06-openai-unveils-lockdown-mode-against-prompt-injection|OpenAI Unveils Lockdown Mode Against Prompt Injection]]
@@ -34,6 +35,7 @@ member_count: 596
 - `2026-06-05` [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward|OpenAI and Anthropic Share ~90 Investors as Both Race Toward IPOs]]
 - `2026-06-05` [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su|Microsoft AI Chief: Company "Set Free" from OpenAI to Pursue Superintelligence]]
 - `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa|MIT Ethics of Computing Symposium: Alignment Is Now a Governance Question]]
+- `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar|### Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI]]
 - `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se|### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11]]
 - `2026-06-05` [[2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery|### Pfizer Signs AI Drug Discovery License with Chai Discovery]]
@@ -42,12 +44,14 @@ member_count: 596
 - `2026-06-05` [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an|### MIT Ethics of Computing Symposium Spotlights AI Alignment and Governance]]
 - `2026-06-04` [[2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory|OpenAI Introduces "Dreaming" to Overhaul ChatGPT Memory]]
 - `2026-06-04` [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val|DeepSeek Lines Up ~$7.4B First External Round at Up to $59B Valuation]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-06-04` [[2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a|Altman Urges Congress to Fund AI Testing, Not Require Model Approvals]]
 - `2026-06-03` [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat|SpaceX Prices Record IPO at $135/Share, Targeting $1.77T Valuation with xAI at the Center]]
 - `2026-06-03` [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202|Sam Altman Admits Token Costs Are “a Huge Issue”; Rules Out 2026 Election Spending]]
 - `2026-06-03` [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna|OpenAI and Anthropic Urge Congress to Regulate Synthetic DNA to Prevent AI Bioweapons]]
 - `2026-06-03` [[2026-06-03-openai-upgrades-gpt-rosalind-for-life-sciences-research|OpenAI Upgrades GPT-Rosalind for Life-Sciences Research]]
 - `2026-06-03` [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m|OpenAI Publishes Governance Blueprint; Altman Urges Against Mandatory Model Approvals]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
 - `2026-06-02` [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno|OpenAI Extends Codex to Business with Plugins, Sites, and Annotations]]
 - `2026-06-02` [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales|OpenAI Expands Codex Agent to Finance, Banking, and Sales]]
 - `2026-06-02` [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t|OpenAI Codex Crosses 5M Weekly Users; Expands Beyond Coding to Knowledge Work]]
@@ -74,6 +78,8 @@ member_count: 596
 - `2026-06-02` [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-overview|Microsoft Build 2026 Preview — Overview]]
 - `2026-06-02` [[2026-06-02-openai-turns-chatgpt-into-a-career-platform|### OpenAI turns ChatGPT into a career platform]]
 - `2026-06-02` [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users|### OpenAI reports Codex at 5M+ weekly active users]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
+- `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]
 - `2026-06-01` [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical|OpenAI Hires Ironclad Founder to Build Legal Vertical]]
 - `2026-06-01` [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga|OpenAI Breaks Ground on 1 GW Stargate Data Center in Michigan]]
 - `2026-06-01` [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over|Florida Files First-of-Its-Kind Lawsuit Against OpenAI Over Safety Risks]]

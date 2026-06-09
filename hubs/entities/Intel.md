@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 28
+member_count: 29
 ---
 
 # Intel
 
-> Auto-generated entity hub. 28 connected article(s).
+> Auto-generated entity hub. 29 connected article(s).
 
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-04` [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu|Foxconn and Intel Partner on Next-Generation AI Infrastructure]]
 - `2026-06-03` [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex|Intel Targets Nvidia with Rack-Scale AI Systems at Computex]]
 - `2026-06-02` [[event-microsoft-build-2026-microsoft-build-2026-windows-local-agents-and-developer-devi|Microsoft Build 2026: Windows, local agents, and developer devices]]

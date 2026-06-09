@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 11
+member_count: 13
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 11 connected article(s).
+> Auto-generated entity hub. 13 connected article(s).
 
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|### What every CEO needs to know about AI in May 2026]]
 - `2026-05-29` [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma|Snowflake targets AI agent adoption with AWS deal and Natoma acquisition]]
 - `2026-05-29` [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b|Salesforce spotlights Agentforce as Snowflake makes $6B AWS bet on AI agents]]

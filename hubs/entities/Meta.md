@@ -1,26 +1,31 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 183
+member_count: 188
 ---
 
 # Meta
 
-> Auto-generated entity hub. 183 connected article(s).
+> Auto-generated entity hub. 188 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-07` [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities|### Axios: The Business of AI Faces Four Harsh Realities]]
 - `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]
 - `2026-06-05` [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st|Meta Plans Massive Stock Sale to Fund $145B AI Investments; Stock Drops 5.5%]]
+- `2026-06-05` [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026|Compiled from inbox messages received June 3–5, 2026.]]
 - `2026-06-05` [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai|### Meta Reportedly Plans Massive Stock Sale to Fund $145B in AI Investments; Stock Drops]]
 - `2026-06-04` [[2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api|Meta Keeps Delaying the Muse Spark Developer API]]
 - `2026-06-04` [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu|Meta Builds Data Centers in Tents to Keep Pace with AI Compute Demand]]
+- `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-06-04` [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business|Apple Approves First AI Agent on Messages for Business]]
 - `2026-06-03` [[2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo|Meta Launches Business Agent and Business Agent Platform Globally]]
+- `2026-06-03` [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p|Daily AI News Digest · 21 items · Coverage window: June 2 06:00 PDT – June 3 08:23 PDT]]
 - `2026-06-03` [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc|Alphabet Finalizes Record $85B Equity Raise for AI Infrastructure]]
 - `2026-06-02` [[2026-06-02-hackers-hijack-instagram-accounts-via-meta-s-ai-support-chat|### Hackers hijack Instagram accounts via Meta's AI support chatbot]]
+- `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-06-01` [[2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su|Hackers Hijack Instagram Accounts by Exploiting Meta's AI Support Chatbot]]
+- `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|### Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr|### DeepSeek Makes 75% Price Cut Permanent as "AI Affordability" Pressure Hits Big Tech]]
 - `2026-05-31` [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters|### An 'AI affordability' reckoning hits enterprise adopters]]
 - `2026-05-30` [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int|Meta’s reported AI pendant extends the fight for ambient interfaces]]

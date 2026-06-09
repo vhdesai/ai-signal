@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 20
+member_count: 21
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 20 connected article(s).
+> Auto-generated entity hub. 21 connected article(s).
 
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
+- `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-04` [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu|Meta Builds Data Centers in Tents to Keep Pace with AI Compute Demand]]
 - `2026-05-28` [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee|Microsoft Outperforms in Holiday-Shortened Magnificent 7 Week]]
 - `2026-05-22` [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme|curated executive briefing on the most significant developments in artificial intelligence — covering frontier models, industry moves, research breakthroughs…]]
