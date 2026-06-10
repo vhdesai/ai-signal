@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 497
+member_count: 499
 ---
 
 # Google
 
-> Auto-generated entity hub. 497 connected article(s).
+> Auto-generated entity hub. 499 connected article(s).
 
+- `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj|### Lovable Hits $500M Annualized Revenue with 1 Million New Projects Per Week]]
+- `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]

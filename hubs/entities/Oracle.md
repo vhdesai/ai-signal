@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 66
+member_count: 67
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 66 connected article(s).
+> Auto-generated entity hub. 67 connected article(s).
 
+- `2026-06-09` [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog|### Oracle Reports Earnings with Record $553B AI Backlog]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
 - `2026-05-26` [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen|Nvidia, Oracle, and Palantir Trade Higher on AI Backlog Commentary]]

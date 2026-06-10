@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
-- 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
+- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 embedding_id: 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Alphabet tapped Intel to manufacture three million in-house AI chips — a signi
 
 **Entities:** [[Google]] · [[Intel]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
+**Related:** [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]]
 <!-- graph:end -->

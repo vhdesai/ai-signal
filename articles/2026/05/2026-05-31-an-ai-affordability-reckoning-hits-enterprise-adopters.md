@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
+- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-- 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
 embedding_id: 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A weekend analysis frames an "AI affordability wake-up call": token-based pricin
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]]
+**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]]
 <!-- graph:end -->

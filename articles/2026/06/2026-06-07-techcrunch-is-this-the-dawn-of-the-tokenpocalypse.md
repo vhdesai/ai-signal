@@ -19,9 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+- 2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars
 embedding_id: 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 event_name: ''
 ---
@@ -34,5 +35,5 @@ TechCrunch warned the AI industry may be reaching a "Tokenpocalypse" — a tippi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
+**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars]]
 <!-- graph:end -->

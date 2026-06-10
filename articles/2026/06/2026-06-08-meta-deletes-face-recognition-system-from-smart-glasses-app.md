@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
+- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
 - 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
-- 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 embedding_id: 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta removed a face-recognition system from its Meta AI smart glasses companion 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]]
 <!-- graph:end -->

@@ -18,10 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
+- 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 - 2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-- 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
 embedding_id: 2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Software M&A volume has fallen to COVID-era lows, driven by AI-related disruptio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs]]
+**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]] · [[2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
 <!-- graph:end -->

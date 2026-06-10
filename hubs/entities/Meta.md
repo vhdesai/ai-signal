@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 190
+member_count: 193
 ---
 
 # Meta
 
-> Auto-generated entity hub. 190 connected article(s).
+> Auto-generated entity hub. 193 connected article(s).
 
+- `2026-06-10` [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance|### Meta Signs First AI Data Center Deal in India with Reliance]]
+- `2026-06-09` [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f|### EU Orders Meta to Reopen WhatsApp to Rival AI Chatbots for Free]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
+- `2026-06-08` [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru|### Meta Launches "Workforce Academy" to Train Data Center Construction Workers]]
 - `2026-06-08` [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app|### Meta Deletes Face-Recognition System from Smart Glasses App After Wired Report]]
 - `2026-06-08` [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai|### Amazon Strikes Multibillion-Dollar Corning Fiber Deal for AI Data Centers]]
 - `2026-06-07` [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities|### Axios: The Business of AI Faces Four Harsh Realities]]

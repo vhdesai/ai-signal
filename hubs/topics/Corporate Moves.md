@@ -1,14 +1,24 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1183
+member_count: 1196
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1183 connected article(s).
+> Auto-generated topic hub. 1196 connected article(s).
 
+- `2026-06-10` [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance|### Meta Signs First AI Data Center Deal in India with Reliance]]
+- `2026-06-10` [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup|### Cyera Raises $600M, Becomes Top AI-Era Cybersecurity Startup]]
+- `2026-06-10` [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy|### Cyera Raises $600M, Becomes One of the Most Valuable AI-Era Cybersecurity Startups]]
+- `2026-06-09` [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model|### TechCrunch: Can Tech Companies Learn to Love Cheaper AI Models?]]
+- `2026-06-09` [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog|### Oracle Reports Earnings with Record $553B AI Backlog]]
 - `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe|### Lovable Hits $500M Annualized Revenue with 1M New Projects Per Week]]
+- `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj|### Lovable Hits $500M Annualized Revenue with 1 Million New Projects Per Week]]
+- `2026-06-09` [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models|### Can Tech Companies Learn to Love Cheaper AI Models?]]
+- `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5|### Anthropic Releases Claude Fable 5 and Claude Mythos 5]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
@@ -16,9 +26,11 @@ member_count: 1183
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-08` [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo|### Worldcoin Doing Layoffs as OpenAI Files for IPO]]
+- `2026-06-08` [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope|### Worldcoin (Altman's Eye-Scanning Company) Doing Layoffs as OpenAI Files for IPO]]
 - `2026-06-08` [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l|### White House and Congress Relaunch Effort to Block State AI Laws]]
 - `2026-06-08` [[2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption|### Software M&A Deals Hit COVID-Era Lows Amid AI Disruption]]
 - `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|### OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
+- `2026-06-08` [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru|### Meta Launches "Workforce Academy" to Train Data Center Construction Workers]]
 - `2026-06-08` [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app|### Meta Deletes Face-Recognition System from Smart Glasses App After Wired Report]]
 - `2026-06-08` [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules|### ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|### Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
@@ -1187,6 +1199,7 @@ member_count: 1183
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications|NVIDIA GTC 2026 and GTC Taipei 2026 — Strategic Implications]]
 - [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-overview|NVIDIA GTC 2026 and GTC Taipei 2026 — Overview]]
 - [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2|Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026) — Overview]]
+- [[event-apple-wwdc26-day-3-announcement-status-and-source-links-apple-wwdc26-day-3-announcement-status-and-source-links-over|Apple WWDC26 Day 3: Announcement Status and Source Links — Overview]]
 - [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june|Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2, 2026) — Overview]]
 - [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o|AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026) — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

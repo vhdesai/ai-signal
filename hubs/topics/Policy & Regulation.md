@@ -1,17 +1,26 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 527
+member_count: 536
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 527 connected article(s).
+> Auto-generated topic hub. 536 connected article(s).
 
+- `2026-06-10` [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea|### Senate Republicans Break with Trump on AI Equity-Stake Idea]]
+- `2026-06-10` [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in|### Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026]]
+- `2026-06-10` [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen|### Global Financial Watchdog Calls for Tighter Controls on Agentic AI in Finance]]
+- `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
+- `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5|### Anthropic Releases Claude Fable 5 and Claude Mythos 5]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy|Apple WWDC 2026 Preview: App Store and agent policy]]
+- `2026-06-08` [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope|### Worldcoin (Altman's Eye-Scanning Company) Doing Layoffs as OpenAI Files for IPO]]
 - `2026-06-08` [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l|### White House and Congress Relaunch Effort to Block State AI Laws]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|### UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
 - `2026-06-08` [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports|### Nvidia CEO Declines Senate Testimony on AI, China, and Exports]]
+- `2026-06-08` [[2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu|### New York Legislature Passes Landmark Bill Requiring Disclosure of AI-Generated News]]
 - `2026-06-08` [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl|### New York Legislature Passes Landmark AI-Generated News Disclosure Bill]]
 - `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
 - `2026-06-07` [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80|Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code]]

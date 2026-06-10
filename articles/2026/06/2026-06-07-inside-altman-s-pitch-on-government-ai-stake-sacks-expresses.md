@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope
 embedding_id: 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Semafor published details of Sam Altman's pitch to the government on an equity-s
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope]]
 <!-- graph:end -->

@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-gains-steam
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-06-09-reuters-will-ai-become-a-public-utility
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
 embedding_id: 2026-06-07-wsj-the-artificial-intelligence-backlash
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The WSJ published a major feature on the emerging AI backlash, documenting how p
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
 <!-- graph:end -->

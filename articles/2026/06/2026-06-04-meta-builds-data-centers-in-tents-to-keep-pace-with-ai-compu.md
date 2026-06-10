@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
-- 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 embedding_id: 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta is deploying data center infrastructure in tent structures — borrowing a 
 
 **Entities:** [[Meta]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
+**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
 <!-- graph:end -->

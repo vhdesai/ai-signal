@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
+- 2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
+- 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 embedding_id: 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft's AI chief stated the company has been "set free" from OpenAI to pursu
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
+**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]]
 <!-- graph:end -->

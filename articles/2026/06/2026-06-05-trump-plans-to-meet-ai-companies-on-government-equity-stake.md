@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 - 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
-- 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 embedding_id: 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Trump plans to meet AI companies next week on government profit-sharing or equit
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]]
+**Related:** [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie]]
 <!-- graph:end -->

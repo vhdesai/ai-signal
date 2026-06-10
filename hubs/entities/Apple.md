@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 136
+member_count: 137
 ---
 
 # Apple
 
-> Auto-generated entity hub. 136 connected article(s).
+> Auto-generated entity hub. 137 connected article(s).
 
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
@@ -143,4 +143,5 @@ member_count: 136
 - `2026-04-01` [[2026-04-01-products-tools|🛠️ Products & Tools]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastruc…]]
 - `2026-03-26` [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope|Apple to Open Siri to Claude and Gemini in iOS 27 — Ending OpenAI Exclusivity]]
+- [[event-apple-wwdc26-day-3-announcement-status-and-source-links-apple-wwdc26-day-3-announcement-status-and-source-links-over|Apple WWDC26 Day 3: Announcement Status and Source Links — Overview]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

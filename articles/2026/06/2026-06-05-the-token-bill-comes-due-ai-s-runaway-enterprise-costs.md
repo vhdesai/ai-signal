@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 embedding_id: 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
 event_name: ''
@@ -36,5 +37,5 @@ TechCrunch synthesized Uber's budget blowout, Altman's "huge issue" admission, a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
+**Related:** [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
 <!-- graph:end -->

@@ -16,12 +16,9 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+dedupe_status: duplicate
+canonical_article_id: 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
+related_article_ids: []
 embedding_id: 2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe
 event_name: ''
 ---
@@ -34,5 +31,5 @@ AI coding startup Lovable reports $500M in annualized revenue with one million n
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]]
+**Canonical:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]]
 <!-- graph:end -->

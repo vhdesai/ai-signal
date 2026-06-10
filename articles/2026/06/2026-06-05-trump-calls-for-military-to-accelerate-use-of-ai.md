@@ -18,9 +18,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
+- 2026-06-09-reuters-will-ai-become-a-public-utility
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
-- 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
 embedding_id: 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
 event_name: ''
 ---
@@ -32,5 +32,5 @@ President Trump called for the military to accelerate its adoption of AI technol
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]]
+**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
 <!-- graph:end -->

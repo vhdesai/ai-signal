@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
 - 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu
 embedding_id: 2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Bloomberg reported that major global banks are preparing for large-scale workfor
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]]
+**Related:** [[2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

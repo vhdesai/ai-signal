@@ -17,12 +17,9 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
-- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
+dedupe_status: duplicate
+canonical_article_id: 2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope
+related_article_ids: []
 embedding_id: 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
 event_name: ''
 ---
@@ -36,5 +33,5 @@ Altman's eye-scanning identity company Worldcoin is conducting layoffs just as O
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]]
+**Canonical:** [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope]]
 <!-- graph:end -->

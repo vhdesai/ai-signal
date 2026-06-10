@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
+- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 embedding_id: 2026-06-03-meta-launches-business-agent-and-business-agent-platform-glo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta Business Agent handles customer interactions across WhatsApp, Messenger, an
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-27-meta-rolls-out-global-meta-one-subscriptions-across-instagra]]
 <!-- graph:end -->

@@ -1,21 +1,30 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 614
+member_count: 623
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 614 connected article(s).
+> Auto-generated topic hub. 623 connected article(s).
 
+- `2026-06-10` [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in|### Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026]]
+- `2026-06-10` [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance|### Meta Signs First AI Data Center Deal in India with Reliance]]
+- `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
+- `2026-06-09` [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog|### Oracle Reports Earnings with Record $553B AI Backlog]]
 - `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe|### Lovable Hits $500M Annualized Revenue with 1M New Projects Per Week]]
+- `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj|### Lovable Hits $500M Annualized Revenue with 1 Million New Projects Per Week]]
+- `2026-06-09` [[2026-06-09-cvpr-2026-honors-year-s-most-innovative-computer-vision-and|### CVPR 2026 Honors Year's Most Innovative Computer Vision and AI Research]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-accessibility-and-apple-intelligence|Apple WWDC 2026 Preview: Accessibility and Apple Intelligence]]
 - `2026-06-08` [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo|### Worldcoin Doing Layoffs as OpenAI Files for IPO]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|### UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
+- `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe|### UK Invests in Billion-Dollar AI Supercomputer to Reduce Dependence on U.S. Tech]]
 - `2026-06-08` [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con|### Nvidia Signs Sweeping South Korea AI Deals; Memory Is the Constraint]]
 - `2026-06-08` [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports|### Nvidia CEO Declines Senate Testimony on AI, China, and Exports]]
+- `2026-06-08` [[2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu|### New York Legislature Passes Landmark Bill Requiring Disclosure of AI-Generated News]]
 - `2026-06-08` [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl|### New York Legislature Passes Landmark AI-Generated News Disclosure Bill]]
+- `2026-06-08` [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru|### Meta Launches "Workforce Academy" to Train Data Center Construction Workers]]
 - `2026-06-08` [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally|### Intel's Full-Stack AI Pivot Drives ~8.5% Rally]]
 - `2026-06-08` [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a|### EU Publishes Draft Guidelines on High-Risk AI Under the AI Act]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]

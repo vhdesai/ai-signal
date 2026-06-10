@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 - 2026-04-13-source-the-neuron-apr-13-2026
 - 2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi
-- 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
+- 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 embedding_id: 2026-06-05-japan-s-digital-minister-warns-country-could-become-an-ai-co
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Japan's digital minister warned the country risks becoming an "AI colony" if it 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]]
+**Related:** [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]]
 <!-- graph:end -->

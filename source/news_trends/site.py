@@ -750,64 +750,128 @@ def _build_build_io_compare_page(cfg: Config, site: Path) -> int:
 
 
 def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
-    """Build a tabbed analysis page for Apple WWDC 2026 announcements."""
-    wwdc_specs = [
-        ('01_Apple_WWDC26_Executive_Summary.md', 'Executive Summary'),
-        ('02_Apple_WWDC26_Siri_AI_and_Apple_Intelligence.md', 'Siri & Apple Intelligence'),
-        ('03_Apple_WWDC26_OS27_Platform_Updates.md', 'OS 27 Platforms'),
-        ('04_Apple_WWDC26_Developer_Tools_and_Xcode.md', 'Developer Tools'),
-        ('05_Apple_WWDC26_App_Store_Developer_Business.md', 'App Store & Business'),
-        ('06_Apple_WWDC26_Child_Safety_Privacy_Regulatory.md', 'Privacy & Safety'),
-        ('07_Apple_WWDC26_Quick_Reference_Guide.md', 'Quick Reference'),
+    """Build a multi-day tabbed analysis page for Apple WWDC 2026."""
+    # Organise specs by day
+    day_specs = [
+        ('Day 1 — Keynote & Platform', [
+            ('01_Apple_WWDC26_Executive_Summary.md', 'Executive Summary'),
+            ('02_Apple_WWDC26_Siri_AI_and_Apple_Intelligence.md', 'Siri & Apple Intelligence'),
+            ('03_Apple_WWDC26_OS27_Platform_Updates.md', 'OS 27 Platforms'),
+            ('04_Apple_WWDC26_Developer_Tools_and_Xcode.md', 'Developer Tools'),
+            ('05_Apple_WWDC26_App_Store_Developer_Business.md', 'App Store & Business'),
+            ('06_Apple_WWDC26_Child_Safety_Privacy_Regulatory.md', 'Privacy & Safety'),
+            ('07_Apple_WWDC26_Quick_Reference_Guide.md', 'Quick Reference'),
+        ]),
+        ('Day 2 — Services & Intelligence', [
+            ('08_Apple_WWDC26_Day2_Executive_Summary.md', 'Day 2 Executive Summary'),
+            ('09_Apple_WWDC26_Day2_Services_Intelligence_Deep_Dive.md', 'Services & Intelligence Deep Dive'),
+            ('10_Apple_WWDC26_Day2_Wallet_Maps_FindMy_iCloud.md', 'Wallet, Maps, Find My & iCloud'),
+            ('11_Apple_WWDC26_Day2_Media_Fitness_Sports_Developer_Releases.md', 'Media, Fitness & Sports'),
+            ('12_Apple_WWDC26_Day2_Quick_Reference_Guide.md', 'Day 2 Quick Reference'),
+        ]),
+        ('Day 3 — Status & Sessions', [
+            ('13_Apple_WWDC26_Day3_Status_and_Links.md', 'Day 3 Status & Links'),
+        ]),
     ]
-    docs: list[dict[str, str]] = []
-    for idx, (filename, tab_label) in enumerate(wwdc_specs):
-        path = cfg.news_dir / filename
-        if not path.exists():
-            continue
-        text = path.read_text(encoding='utf-8', errors='replace')
-        title = tab_label
-        for line in text.splitlines():
-            if line.startswith('#'):
-                title = line.lstrip('#').strip() or tab_label
-                break
-        docs.append({
-            'id': f'wwdc-doc-{idx}',
-            'tab': tab_label,
-            'title': title,
-            'source': filename,
-            'content': _md_to_html(text),
-        })
 
-    if not docs:
+    # Build docs per day
+    all_days: list[tuple[str, list[dict]]] = []
+    total_docs = 0
+    global_idx = 0
+    for day_label, specs in day_specs:
+        docs: list[dict[str, str]] = []
+        for filename, tab_label in specs:
+            path = cfg.news_dir / filename
+            if not path.exists():
+                continue
+            text = path.read_text(encoding='utf-8', errors='replace')
+            title = tab_label
+            for line in text.splitlines():
+                if line.startswith('#'):
+                    title = line.lstrip('#').strip() or tab_label
+                    break
+            docs.append({
+                'id': f'wwdc-doc-{global_idx}',
+                'tab': tab_label,
+                'title': title,
+                'source': filename,
+                'content': _md_to_html(text),
+            })
+            global_idx += 1
+        if docs:
+            all_days.append((day_label, docs))
+            total_docs += len(docs)
+
+    if not total_docs:
         return 0
 
-    tabs_html = ''.join(
-        f'<button class="compare-tab-btn{" active" if i == 0 else ""}" onclick="showCompareDoc(this, \'{doc["id"]}\')">{_html.escape(doc["tab"])}</button>'
-        for i, doc in enumerate(docs)
+    # Build day-level tabs and content
+    day_tabs_html = ''.join(
+        f'<button class="day-tab-btn{" active" if i == 0 else ""}" '
+        f'onclick="showDay(this, \'day-panel-{i}\')">{_html.escape(day_label)}</button>'
+        for i, (day_label, _) in enumerate(all_days)
     )
-    docs_html = ''.join(
-        f'<section id="{doc["id"]}" class="compare-doc{" active" if i == 0 else ""}">'
-        f'<div class="compare-doc-header"><h2>{_html.escape(doc["title"])}</h2>'
-        f'<p class="compare-doc-source">Source: news/{_html.escape(doc["source"])}</p></div>'
-        f'{doc["content"]}'
-        '</section>'
-        for i, doc in enumerate(docs)
+
+    day_panels: list[str] = []
+    first_global = True
+    for day_i, (day_label, docs) in enumerate(all_days):
+        tabs_html = ''.join(
+            f'<button class="compare-tab-btn{" active" if j == 0 else ""}" '
+            f'onclick="showCompareDoc(this, \'{doc["id"]}\')">{_html.escape(doc["tab"])}</button>'
+            for j, doc in enumerate(docs)
+        )
+        docs_html = ''.join(
+            f'<section id="{doc["id"]}" class="compare-doc{" active" if j == 0 else ""}">'
+            f'<div class="compare-doc-header"><h2>{_html.escape(doc["title"])}</h2>'
+            f'<p class="compare-doc-source">Source: news/{_html.escape(doc["source"])}</p></div>'
+            f'{doc["content"]}'
+            '</section>'
+            for j, doc in enumerate(docs)
+        )
+        panel = (
+            f'<div id="day-panel-{day_i}" class="day-panel{" active" if day_i == 0 else ""}">'
+            f'<div class="compare-page-layout">'
+            f'<div class="compare-tabs">{tabs_html}</div>'
+            f'<div class="compare-content">{docs_html}</div>'
+            f'</div></div>'
+        )
+        day_panels.append(panel)
+
+    day_panels_html = ''.join(day_panels)
+
+    day_css = (
+        '<style>'
+        '.day-tabs{display:flex;gap:6px;margin-bottom:18px;flex-wrap:wrap;}'
+        '.day-tab-btn{padding:10px 22px;border:2px solid #00d4aa;background:transparent;'
+        'color:#e0e0e0;border-radius:8px;cursor:pointer;font-size:1rem;font-weight:600;'
+        'transition:all .2s;}'
+        '.day-tab-btn:hover{background:rgba(0,212,170,.15);}'
+        '.day-tab-btn.active{background:#00d4aa;color:#0a0a0a;}'
+        '.day-panel{display:none;}'
+        '.day-panel.active{display:block;}'
+        '</style>'
     )
+
     body = (
-        '<div class="compare-page-intro">'
+        day_css
+        + '<div class="compare-page-intro">'
         '<h2>\U0001f34e Apple WWDC 2026 — Full Analysis</h2>'
-        '<p>Deep-dive into every major WWDC26 announcement: Siri AI, Apple Intelligence, OS 27, '
-        'Xcode 27 coding agents, App Store changes, privacy &amp; child safety, and a quick-reference guide.</p>'
+        '<p>Comprehensive multi-day coverage of WWDC26: Day 1 keynote &amp; platform announcements, '
+        'Day 2 services &amp; intelligence deep-dive, and Day 3 session status &amp; links.</p>'
+        f'<p style="color:#aaa;font-size:.9rem;">{total_docs} analysis documents across {len(all_days)} days</p>'
         '</div>'
-        '<div class="compare-page-layout">'
-        f'<div class="compare-tabs">{tabs_html}</div>'
-        f'<div class="compare-content">{docs_html}</div>'
-        '</div>'
+        f'<div class="day-tabs">{day_tabs_html}</div>'
+        f'{day_panels_html}'
         '<script>'
+        'function showDay(btn,id){'
+        'document.querySelectorAll(".day-panel").forEach(el=>el.classList.remove("active"));'
+        'document.querySelectorAll(".day-tab-btn").forEach(el=>el.classList.remove("active"));'
+        'document.getElementById(id).classList.add("active");'
+        'btn.classList.add("active");}'
         'function showCompareDoc(btn,id){'
         'document.querySelectorAll(".compare-doc").forEach(el=>el.classList.remove("active"));'
-        'document.querySelectorAll(".compare-tab-btn").forEach(el=>el.classList.remove("active"));'
+        'var panel=btn.closest(".day-panel");'
+        'panel.querySelectorAll(".compare-tab-btn").forEach(el=>el.classList.remove("active"));'
         'document.getElementById(id).classList.add("active");'
         'btn.classList.add("active");}'
         '</script>'
@@ -815,7 +879,7 @@ def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
 
     _write(site / 'wwdc-2026.html',
            _render('Apple WWDC 2026 Analysis', body, active='events',
-                   subtitle='Comprehensive analysis of Apple WWDC 2026 announcements'))
+                   subtitle='Comprehensive multi-day analysis of Apple WWDC 2026'))
     return 1
 
 
@@ -1023,22 +1087,33 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
     wwdc_file = cfg.news_dir / "01_Apple_WWDC26_Executive_Summary.md"
     if wwdc_file.exists():
         wwdc_count = "Apple WWDC 2026" in by_event and len(by_event["Apple WWDC 2026"]) or 0
+        # Count analysis docs
+        wwdc_doc_count = sum(1 for f in [
+            "01_Apple_WWDC26_Executive_Summary.md", "02_Apple_WWDC26_Siri_AI_and_Apple_Intelligence.md",
+            "03_Apple_WWDC26_OS27_Platform_Updates.md", "04_Apple_WWDC26_Developer_Tools_and_Xcode.md",
+            "05_Apple_WWDC26_App_Store_Developer_Business.md", "06_Apple_WWDC26_Child_Safety_Privacy_Regulatory.md",
+            "07_Apple_WWDC26_Quick_Reference_Guide.md", "08_Apple_WWDC26_Day2_Executive_Summary.md",
+            "09_Apple_WWDC26_Day2_Services_Intelligence_Deep_Dive.md", "10_Apple_WWDC26_Day2_Wallet_Maps_FindMy_iCloud.md",
+            "11_Apple_WWDC26_Day2_Media_Fitness_Sports_Developer_Releases.md", "12_Apple_WWDC26_Day2_Quick_Reference_Guide.md",
+            "13_Apple_WWDC26_Day3_Status_and_Links.md",
+        ] if (cfg.news_dir / f).exists())
+        day_count = 1 + int((cfg.news_dir / "08_Apple_WWDC26_Day2_Executive_Summary.md").exists()) + int((cfg.news_dir / "13_Apple_WWDC26_Day3_Status_and_Links.md").exists())
         wwdc_analysis_html = (
             '<div class="compare-section">'
             '<h2>🍎 Apple WWDC 2026 — Full Analysis</h2>'
-            '<p class="compare-subtitle">Deep-dive into Siri AI, Apple Intelligence, OS 27, Xcode 27, App Store changes, and more</p>'
+            f'<p class="compare-subtitle">Multi-day deep-dive: Day 1 keynote &amp; platforms, Day 2 services &amp; intelligence, Day 3 sessions</p>'
             '<div class="compare-grid">'
             '<div class="compare-card">'
             '<h3><a href="events/Apple-WWDC-2026.html">Apple WWDC 2026</a></h3>'
             f'<div class="compare-stat"><span class="compare-num">{wwdc_count}</span> news articles</div>'
             '<div class="compare-stat">Siri AI · Apple Intelligence · OS 27</div>'
-            '<div class="compare-themes">Xcode 27 coding agents, Privacy, App Store</div>'
+            '<div class="compare-themes">Xcode 27, Privacy, App Store, Services</div>'
             '</div>'
             '<div class="compare-card">'
             '<h3><a href="wwdc-2026.html">Full WWDC Analysis</a></h3>'
-            '<div class="compare-stat"><span class="compare-num">7</span> deep-dive sections</div>'
-            '<div class="compare-stat">Executive summary to quick reference</div>'
-            '<div class="compare-themes">Models, platforms, tools, strategy, privacy</div>'
+            f'<div class="compare-stat"><span class="compare-num">{wwdc_doc_count}</span> deep-dive sections across <span class="compare-num">{day_count}</span> days</div>'
+            '<div class="compare-stat">Day 1: Keynote · Day 2: Services · Day 3: Sessions</div>'
+            '<div class="compare-themes">Models, platforms, tools, strategy, privacy, services</div>'
             '</div>'
             '</div>'
             '<p class="compare-link-row"><a href="wwdc-2026.html" class="compare-link">Read full WWDC 2026 analysis →</a></p>'

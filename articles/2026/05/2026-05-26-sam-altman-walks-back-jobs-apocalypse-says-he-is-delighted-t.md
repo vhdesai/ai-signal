@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
+- 2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope
 embedding_id: 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In a candid TIME interview, Sam Altman publicly steps back from his earlier proj
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo]]
+**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope]]
 <!-- graph:end -->

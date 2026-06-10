@@ -17,13 +17,9 @@ themes:
 - datacenter-infrastructure
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
-- 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
-- 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
+dedupe_status: duplicate
+canonical_article_id: 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
+related_article_ids: []
 embedding_id: 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
 event_name: ''
 ---
@@ -37,5 +33,5 @@ The UK is making a major investment in a billion-dollar AI supercomputer to redu
 
 **Entities:** [[AMD]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]]
+**Canonical:** [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]]
 <!-- graph:end -->

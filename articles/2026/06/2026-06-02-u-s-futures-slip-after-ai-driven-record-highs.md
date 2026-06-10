@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
+- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-- 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 embedding_id: 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ U.S. stock futures pointed lower Tuesday after major indexes hit all-time highs 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]]
+**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
 <!-- graph:end -->

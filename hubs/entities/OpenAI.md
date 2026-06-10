@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 604
+member_count: 608
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 604 connected article(s).
+> Auto-generated entity hub. 608 connected article(s).
 
+- `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
+- `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]
@@ -17,6 +20,7 @@ member_count: 604
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications|Apple WWDC 2026 Preview — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview|Apple WWDC 2026 Preview — Overview]]
 - `2026-06-08` [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo|### Worldcoin Doing Layoffs as OpenAI Files for IPO]]
+- `2026-06-08` [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope|### Worldcoin (Altman's Eye-Scanning Company) Doing Layoffs as OpenAI Files for IPO]]
 - `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|### OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
 - `2026-06-08` [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules|### ChatGPT Ads Launch in UK as OpenAI Outlines EU Privacy Rules]]
 - `2026-06-08` [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli|### Apple WWDC 2026: Gemini-Powered Siri, iOS 27, and Apple Intelligence Overhaul Begin Today]]

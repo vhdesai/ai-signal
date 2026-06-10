@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-09-reuters-will-ai-become-a-public-utility
 - 2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re
 - 2026-05-01-6-ai-safety-policy
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
 embedding_id: 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a long-form analysis arguing that the window for establishing
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
+**Related:** [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]]
 <!-- graph:end -->

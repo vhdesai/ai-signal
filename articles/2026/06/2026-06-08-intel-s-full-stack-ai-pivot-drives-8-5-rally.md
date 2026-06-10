@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 - 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
+- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 embedding_id: 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Intel shares climbed ~8.5% after three brokerages raised targets (Wells Fargo $1
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
 <!-- graph:end -->

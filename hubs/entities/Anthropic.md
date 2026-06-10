@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 579
+member_count: 587
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 579 connected article(s).
+> Auto-generated entity hub. 587 connected article(s).
 
+- `2026-06-10` [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in|### Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026]]
+- `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
+- `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
+- `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5|### Anthropic Releases Claude Fable 5 and Claude Mythos 5]]
+- `2026-06-09` [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s|### An AI Agent Startup Ditched Anthropic for DeepSeek, Says It's Saving Millions]]
+- `2026-06-09` [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi|### AI Agent Startup Ditches Anthropic for DeepSeek, Reports Saving Millions]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]

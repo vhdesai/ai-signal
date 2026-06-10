@@ -1,13 +1,20 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1094
+member_count: 1101
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1094 connected article(s).
+> Auto-generated topic hub. 1101 connected article(s).
 
+- `2026-06-09` [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model|### TechCrunch: Can Tech Companies Learn to Love Cheaper AI Models?]]
+- `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
+- `2026-06-09` [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models|### Can Tech Companies Learn to Love Cheaper AI Models?]]
+- `2026-06-09` [[2026-06-09-cvpr-2026-honors-year-s-most-innovative-computer-vision-and|### CVPR 2026 Honors Year's Most Innovative Computer Vision and AI Research]]
+- `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]
+- `2026-06-09` [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5|### Anthropic Releases Claude Fable 5 and Claude Mythos 5]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference|Apple WWDC 2026 Preview: On-device AI and private inference]]
 - `2026-06-08` [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app|### Meta Deletes Face-Recognition System from Smart Glasses App After Wired Report]]

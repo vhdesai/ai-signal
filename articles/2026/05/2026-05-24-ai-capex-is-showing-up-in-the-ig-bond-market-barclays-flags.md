@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in
 - 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 - 2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
-- 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 embedding_id: 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The May 24 brief aggregates Nvidia's ~$90B deal spree, Barclays' warning that Bi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]]
+**Related:** [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]]
 <!-- graph:end -->

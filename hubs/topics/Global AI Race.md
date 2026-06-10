@@ -1,14 +1,17 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 313
+member_count: 316
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 313 connected article(s).
+> Auto-generated topic hub. 316 connected article(s).
 
 - `2026-06-09` [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir|### Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aiding China's Military]]
+- `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
+- `2026-06-09` [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s|### An AI Agent Startup Ditched Anthropic for DeepSeek, Says It's Saving Millions]]
+- `2026-06-09` [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi|### AI Agent Startup Ditches Anthropic for DeepSeek, Reports Saving Millions]]
 - `2026-06-08` [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports|### Nvidia CEO Declines Senate Testimony on AI, China, and Exports]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|### Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and|### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute]]

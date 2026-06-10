@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 embedding_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 event_name: ''
 ---
@@ -35,5 +35,5 @@ At the Choose France 2026 summit, SoftBank announced plans to invest up to €75
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]]
 <!-- graph:end -->

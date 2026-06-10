@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
+- 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
+- 2026-06-09-reuters-will-ai-become-a-public-utility
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
-- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
-- 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
 embedding_id: 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In a New York Times op-ed, Senator Bernie Sanders argued that the public should 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]] · [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]]
+**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]]
 <!-- graph:end -->

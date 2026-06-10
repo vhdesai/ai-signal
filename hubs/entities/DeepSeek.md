@@ -1,14 +1,17 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 134
+member_count: 137
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 134 connected article(s).
+> Auto-generated entity hub. 137 connected article(s).
 
 - `2026-06-09` [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir|### Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aiding China's Military]]
+- `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
+- `2026-06-09` [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s|### An AI Agent Startup Ditched Anthropic for DeepSeek, Says It's Saving Millions]]
+- `2026-06-09` [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi|### AI Agent Startup Ditches Anthropic for DeepSeek, Reports Saving Millions]]
 - `2026-06-07` [[2026-06-07-deepseek-tops-ramp-s-trending-vendors-as-u-s-companies-chase|### DeepSeek Tops Ramp's Trending Vendors as U.S. Companies Chase Cheaper AI]]
 - `2026-06-07` [[2026-06-07-deepseek-tops-ramp-s-trending-software-vendors-as-u-s-compan|### DeepSeek Tops Ramp's Trending Software Vendors as U.S. Companies Chase Cheaper AI]]
 - `2026-06-07` [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge|### Apollo and Blackstone Finalize $35B Debt Deal to Supercharge Anthropic's AI Infrastructure]]

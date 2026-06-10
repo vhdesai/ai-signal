@@ -1,0 +1,23 @@
+{
+  "run_id": "20260610T233549+0000-5f1849",
+  "started_at": "2026-06-10T23:35:49+00:00",
+  "finished_at": "2026-06-10T23:35:55+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 274,
+      "digests_changed": 9,
+      "changed": [
+        "news\\08_Apple_WWDC26_Day2_Executive_Summary.md",
+        "news\\09_Apple_WWDC26_Day2_Services_Intelligence_Deep_Dive.md",
+        "news\\10_Apple_WWDC26_Day2_Wallet_Maps_FindMy_iCloud.md",
+        "news\\11_Apple_WWDC26_Day2_Media_Fitness_Sports_Developer_Releases.md",
+        "news\\12_Apple_WWDC26_Day2_Quick_Reference_Guide.md",
+        "news\\13_Apple_WWDC26_Day3_Status_and_Links.md",
+        "news\\2026-06-09_063948_Daily-AI-News-Digest.md",
+        "news\\2026-06-10_060030_Daily-AI-News-Digest.md",
+        "news\\2026-06-10_070030_Final-Daily-AI-News-Digest.md"
+      ]
+    }
+  }
+}
