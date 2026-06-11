@@ -769,9 +769,6 @@ def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
             ('11_Apple_WWDC26_Day2_Media_Fitness_Sports_Developer_Releases.md', 'Media, Fitness & Sports'),
             ('12_Apple_WWDC26_Day2_Quick_Reference_Guide.md', 'Day 2 Quick Reference'),
         ]),
-        ('Day 3 — Status & Sessions', [
-            ('13_Apple_WWDC26_Day3_Status_and_Links.md', 'Day 3 Status & Links'),
-        ]),
     ]
 
     # Build docs per day
@@ -856,8 +853,8 @@ def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
         day_css
         + '<div class="compare-page-intro">'
         '<h2>\U0001f34e Apple WWDC 2026 — Full Analysis</h2>'
-        '<p>Comprehensive multi-day coverage of WWDC26: Day 1 keynote &amp; platform announcements, '
-        'Day 2 services &amp; intelligence deep-dive, and Day 3 session status &amp; links.</p>'
+        '<p>Comprehensive multi-day coverage of WWDC26: Day 1 keynote &amp; platform announcements and '
+        'Day 2 services &amp; intelligence deep-dive.</p>'
         f'<p style="color:#aaa;font-size:.9rem;">{total_docs} analysis documents across {len(all_days)} days</p>'
         '</div>'
         f'<div class="day-tabs">{day_tabs_html}</div>'
@@ -1095,13 +1092,12 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
             "07_Apple_WWDC26_Quick_Reference_Guide.md", "08_Apple_WWDC26_Day2_Executive_Summary.md",
             "09_Apple_WWDC26_Day2_Services_Intelligence_Deep_Dive.md", "10_Apple_WWDC26_Day2_Wallet_Maps_FindMy_iCloud.md",
             "11_Apple_WWDC26_Day2_Media_Fitness_Sports_Developer_Releases.md", "12_Apple_WWDC26_Day2_Quick_Reference_Guide.md",
-            "13_Apple_WWDC26_Day3_Status_and_Links.md",
         ] if (cfg.news_dir / f).exists())
-        day_count = 1 + int((cfg.news_dir / "08_Apple_WWDC26_Day2_Executive_Summary.md").exists()) + int((cfg.news_dir / "13_Apple_WWDC26_Day3_Status_and_Links.md").exists())
+        day_count = 1 + int((cfg.news_dir / "08_Apple_WWDC26_Day2_Executive_Summary.md").exists())
         wwdc_analysis_html = (
             '<div class="compare-section">'
             '<h2>🍎 Apple WWDC 2026 — Full Analysis</h2>'
-            f'<p class="compare-subtitle">Multi-day deep-dive: Day 1 keynote &amp; platforms, Day 2 services &amp; intelligence, Day 3 sessions</p>'
+            f'<p class="compare-subtitle">Multi-day deep-dive: Day 1 keynote &amp; platforms, Day 2 services &amp; intelligence</p>'
             '<div class="compare-grid">'
             '<div class="compare-card">'
             '<h3><a href="events/Apple-WWDC-2026.html">Apple WWDC 2026</a></h3>'
@@ -1112,7 +1108,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
             '<div class="compare-card">'
             '<h3><a href="wwdc-2026.html">Full WWDC Analysis</a></h3>'
             f'<div class="compare-stat"><span class="compare-num">{wwdc_doc_count}</span> deep-dive sections across <span class="compare-num">{day_count}</span> days</div>'
-            '<div class="compare-stat">Day 1: Keynote · Day 2: Services · Day 3: Sessions</div>'
+            '<div class="compare-stat">Day 1: Keynote · Day 2: Services</div>'
             '<div class="compare-themes">Models, platforms, tools, strategy, privacy, services</div>'
             '</div>'
             '</div>'
