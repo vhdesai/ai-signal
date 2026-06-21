@@ -6,8 +6,8 @@ title: Bloomberg reports Mustafa Suleyman has set 2027 as the year Microsoft wil
 date: '2026-04-02'
 source: Motley Fool
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techmeme.com/260402/p16
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: eb6be4e99e5588791e3fe42e25a212cdfd29801d92ea7e3ce48c22a9dd0433d9

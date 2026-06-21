@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: CNBC; TechCrunch; NYT; Bloomberg
 url_original: https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
 url_canonical: https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: ad698d5d9922b16080aae7b3b6bb0c0cf31443d8f8bc8c27951ad8c527638b3b

@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 499
+member_count: 513
 ---
 
 # Google
 
-> Auto-generated entity hub. 499 connected article(s).
+> Auto-generated entity hub. 513 connected article(s).
 
+- `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|### Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|### Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-18` [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai|### Noam Shazeer Leaves Google Gemini for OpenAI]]
+- `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|### Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot-policy|**Tags:** `BREAKING` `HOT` `POLICY`]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot|**Tags:** `BREAKING` `HOT`]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-14` [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar|Hot OpenAI launches Partner Network with $150M investment, targets 300K certified consultants]]
+- `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|### Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
+- `2026-06-11` [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing|### Anthropic Pursues Data Center Leases; Seeks Google Backing]]
+- `2026-06-10` [[2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen|### Google DeepMind Ships DiffusionGemma — 4x Faster Local Inference]]
+- `2026-06-10` [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai|### German Court Says Google Is Responsible for AI Overview Claims]]
 - `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj|### Lovable Hits $500M Annualized Revenue with 1 Million New Projects Per Week]]
 - `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing|Apple WWDC 2026 Preview: Siri redesign and model routing]]

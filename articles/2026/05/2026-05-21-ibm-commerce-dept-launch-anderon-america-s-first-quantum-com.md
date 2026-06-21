@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: The Motley Fool'
 url_original: https://www.fool.com/investing/2026/05/21/why-ibm-rallied-today/
 url_canonical: https://www.fool.com/investing/2026/05/21/why-ibm-rallied-today/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 5ccc9c3fd74b34f09bc503cc1fe9066c21051f2f5facb30cbc8ecb401b90b930

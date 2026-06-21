@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Next Web
 url_original: https://thenextweb.com/news/altman-congress-ai-model-approvals
 url_canonical: https://thenextweb.com/news/altman-congress-ai-model-approvals
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 00aee801bc53e6264674d21033ec5797d00e8d68d686df45ac5eb23857c1e404
@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
 - 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
-- 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's Sam Altman pressed lawmakers to reject mandatory pre-release model sign
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
+**Related:** [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]]
 <!-- graph:end -->

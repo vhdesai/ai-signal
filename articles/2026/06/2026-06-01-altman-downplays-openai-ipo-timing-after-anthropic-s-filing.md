@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
 - 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 - 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
-- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 embedding_id: 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 event_name: ''
 ---
@@ -37,5 +38,5 @@ OpenAI CEO Sam Altman said he is not focused on the timing of a potential IPO, a
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
+**Related:** [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]]
 <!-- graph:end -->

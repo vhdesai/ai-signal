@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything
+- 2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever
 - 2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve
 - 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
 embedding_id: 2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The HKUDS research group released RAG-Anything, an open-source "all-in-one" fram
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything]] · [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]]
+**Related:** [[2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything]] · [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever]] · [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

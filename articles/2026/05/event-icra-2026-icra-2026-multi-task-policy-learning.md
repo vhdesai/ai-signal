@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: ICRA 2026
 url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-url_status: found
+url_status: broken
 digest_source: digests\raw\icra-2026.md
 content_hash: 084d875d42e113f9c51770956e151b7f26360a6e38ccbf2e6cb6631ad6e83a63
 normalized_title_hash: acf3ce3a6ab2e40e

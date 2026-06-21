@@ -19,6 +19,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+- 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
 embedding_id: 2026-05-03-this-is-fine-creator-accuses-artisan-of-stealing-his-art-for
 event_name: ''
 ---
@@ -31,5 +32,5 @@ Cartoonist KC Green says AI startup Artisan repurposed his iconic "This is fine"
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
+**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]]
 <!-- graph:end -->

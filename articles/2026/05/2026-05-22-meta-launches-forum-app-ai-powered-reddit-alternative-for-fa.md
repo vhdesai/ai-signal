@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
+- 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
-- 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 embedding_id: 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Meta released Forum on iOS — a standalone Reddit-like app for Facebook Groups 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
+**Related:** [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]]
 <!-- graph:end -->

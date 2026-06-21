@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Cointelegraph
 url_original: https://www.forbes.com/sites/bobzukis/2026/05/26/anthropic-mythos-the-boardroom-and-the-cyber-good-guys-vs-bad-guys/
 url_canonical: https://www.forbes.com/sites/bobzukis/2026/05/26/anthropic-mythos-the-boardroom-and-the-cyber-good-guys-vs-bad-guys/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 4680d0b7f15a25440822f53172aba7736a9baef1eff1487ee446c44e4a7b2c92

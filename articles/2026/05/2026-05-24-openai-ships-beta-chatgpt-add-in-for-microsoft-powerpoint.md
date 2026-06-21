@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: WinBuzzer
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 502cd9a5c95b8776f4a5fe112b95e1516aef40eeb0edd97e8cfd8b78d944a32c
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
-- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 embedding_id: 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI shipped a beta ChatGPT add-in for Microsoft PowerPoint that lets free and
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]]
+**Related:** [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
 <!-- graph:end -->

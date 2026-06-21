@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: AOL / The Center Square
 url_original: https://cointelegraph.com/news/ai-guardrail-removals-raise-questions-over-limits-of-open-source-model-regulation
 url_canonical: https://cointelegraph.com/news/ai-guardrail-removals-raise-questions-over-limits-of-open-source-model-regulation
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: d968d6b773b5299406cd264177e96462f0033ccc2965aea5bd89feaba284928b

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-05-19-the-american-rebellion-against-ai-gains-steam
 embedding_id: 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI industry groups are alleging Chinese influence behind grassroots resistance t
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-19-the-american-rebellion-against-ai-gains-steam]]
+**Related:** [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
 <!-- graph:end -->

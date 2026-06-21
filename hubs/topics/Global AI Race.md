@@ -1,13 +1,27 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 316
+member_count: 330
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 316 connected article(s).
+> Auto-generated topic hub. 330 connected article(s).
 
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|### Forbes: Energy Sovereignty Will Decide the AI Race]]
+- `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|### Commerce Department Claims Unprecedented Power Over AI Models]]
+- `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|### Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]
+- `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|### Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
+- `2026-06-18` [[2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control|### Bipartisan House Demands Answers on Anthropic Export Controls]]
+- `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|### Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-14` [[2026-06-14-trending-baai-unveils-physis-v0-1-described-as-the-world-s-f|Trending BAAI unveils Physis-v0.1, described as the world's first general "world foundation model"]]
+- `2026-06-12` [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente|### OpenAI Accuses China of Influence Campaign on U.S. Data Centers]]
+- `2026-06-12` [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo|### Nvidia Begins Vera CPU Pitch to Chinese Clients Despite Export Controls]]
+- `2026-06-11` [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever|### Prometheus Raises $12B — Largest AI Startup Round Ever]]
+- `2026-06-11` [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x|### Chinese AI Models Undercut Frontier Labs by Up to 9x]]
+- `2026-06-10` [[2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china|### Taiwan Weighs Tighter AI-Chip Export Controls on China]]
 - `2026-06-09` [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir|### Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aiding China's Military]]
 - `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-09` [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s|### An AI Agent Startup Ditched Anthropic for DeepSeek, Says It's Saving Millions]]

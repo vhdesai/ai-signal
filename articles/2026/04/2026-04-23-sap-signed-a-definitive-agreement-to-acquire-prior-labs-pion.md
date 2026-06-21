@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 - 2026-05-04-1-model-releases-frontier-research
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-- 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
+- 2026-06-18-tags-funding-hot
 embedding_id: 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SAP signed a definitive agreement to acquire Prior Labs, pioneer of Tabular Foun
 
 **Entities:** [[SAP]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]]
+**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-06-18-tags-funding-hot]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=meta-launches-paid-ai-chatbot-subscriptions
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=meta-launches-paid-ai-chatbot-subscriptions
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: b67f97b81d41f5d8ab5d592068638891432ec74742d6bb04e72d0ee904eb6123

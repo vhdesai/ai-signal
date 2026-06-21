@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: WinBuzzer
 url_original: https://techcrunch.com/2026/05/
 url_canonical: https://techcrunch.com/2026/05/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: e9d48b7cae668e807e3c35a68b50a7edf3dfad562a2163d4f7ca7fb372625f08
@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
+- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 embedding_id: 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SoftBank insiders are reportedly raising concerns about whether Son's $60B OpenA
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
+**Related:** [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]]
 <!-- graph:end -->

@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
 - 2026-04-07-model-releases
-- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 embedding_id: 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Anthropic released Claude Fable 5 — a Mythos-class model for all users — alo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-07-model-releases]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]]
+**Related:** [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-04-07-model-releases]]
 <!-- graph:end -->

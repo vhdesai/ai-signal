@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: SecurityWeek
 url_original: https://www.securityweek.com/
 url_canonical: https://www.securityweek.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_081053_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: a3549acf229cfcbc89bd27e6f75d76da27f7928b56f3bc695a209be5ffeea20b
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
+- 2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SecurityWeek reported that 1Password and OpenAI are working together to prevent 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
 <!-- graph:end -->

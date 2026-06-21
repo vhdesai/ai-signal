@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
+- 2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever
 - 2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s
-- 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 embedding_id: 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 event_name: ''
 ---
@@ -43,5 +43,5 @@ DeepSeek made its 75% discount on the 1.6-trillion-parameter V4-Pro model perman
 
 **Entities:** [[Amazon]] · [[DeepSeek]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]]
+**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever]] · [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]]
 <!-- graph:end -->

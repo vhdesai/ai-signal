@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: Forbes / Moor Insights
 url_original: https://www.forbes.com/sites/moorinsights/2026/05/19/microsoft-work-trend-index-2026-shows-ai-productivity-is-not-enough/
 url_canonical: https://www.forbes.com/sites/moorinsights/2026/05/19/microsoft-work-trend-index-2026-shows-ai-productivity-is-not-enough/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: b5b18938da81fdd5de2d7f4738b2201a2be49b283c7bfa93b4d0b285037e57d9

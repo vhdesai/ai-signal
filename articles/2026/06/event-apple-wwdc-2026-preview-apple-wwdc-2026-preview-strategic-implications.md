@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: Apple WWDC 2026 Preview
 url_original: https://developer.apple.com/wwdc26/
 url_canonical: https://developer.apple.com/wwdc26/
-url_status: found
+url_status: ok
 digest_source: digests\raw\apple-wwdc-2026-preview.md
 content_hash: 8e83d70025f8299d0ac0716c6d1e5f05d7520f7aaa4cd2f724eaee4267317ca3
 normalized_title_hash: 8a9b5465ff76ad85

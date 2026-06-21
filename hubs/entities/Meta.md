@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 193
+member_count: 198
 ---
 
 # Meta
 
-> Auto-generated entity hub. 193 connected article(s).
+> Auto-generated entity hub. 198 connected article(s).
 
+- `2026-06-18` [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions|### Meta Unveils AI Ad and Commerce Tools at Cannes Lions]]
+- `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|### Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook|New Meta rolls out new AI tools for Facebook]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
 - `2026-06-10` [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance|### Meta Signs First AI Data Center Deal in India with Reliance]]
 - `2026-06-09` [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f|### EU Orders Meta to Reopen WhatsApp to Rival AI Chatbots for Free]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains
 - 2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r
 - 2026-04-27-
-- 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
+- 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 embedding_id: 2026-04-27-3-industry-news-deals
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal]] · [[2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains]] · [[2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r]] · [[2026-04-27-]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]]
+**Related:** [[2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal]] · [[2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains]] · [[2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r]] · [[2026-04-27-]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]]
 <!-- graph:end -->

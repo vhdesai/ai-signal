@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: CNBC
 url_original: https://www.metaintro.com/blog/meta-layoffs-8000-may-2026-zuckerberg-ai-reality-check
 url_canonical: https://www.metaintro.com/blog/meta-layoffs-8000-may-2026-zuckerberg-ai-reality-check
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 9f393f0c0a4720eec3ad035288504cafadd06223ce0e3712f5ee01fbbcaf655e

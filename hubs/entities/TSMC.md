@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 26
+member_count: 27
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 26 connected article(s).
+> Auto-generated entity hub. 27 connected article(s).
 
+- `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|### Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|### Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-04` [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s|TSMC Warns AI Demand Is Straining the Entire Semiconductor Supply Chain]]
 - `2026-05-27` [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn|Trending Cerebras' 68% IPO pop draws fresh ARK buying; CEO warns on US chip catch-up]]

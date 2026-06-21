@@ -5,8 +5,8 @@ title: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026 — Strate
 date: null
 source: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/
+url_status: repaired
 digest_source: digests\raw\02_Google_Microsoft_AI_Models_Comparison.md
 content_hash: 482389f88d7c25f8210b5a11115487a86bb805332b8c71dbde263858dcf38947
 normalized_title_hash: 84aeb5a6ee91472e

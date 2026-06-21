@@ -1,14 +1,53 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1196
+member_count: 1235
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1196 connected article(s).
+> Auto-generated topic hub. 1235 connected article(s).
 
+- `2026-06-21` [[2026-06-21-wsj-record-insider-selling-at-ai-companies-is-a-giant-warnin|### WSJ: Record Insider Selling at AI Companies Is a "Giant Warning Sign"]]
+- `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|### OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|### Nadella: "There Is No Societal Permission" for AI Concentration]]
+- `2026-06-20` [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch|### GPT-5.6 Rumors Build Ahead of Rumored June 23 Launch]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|### NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally|### Micron Earnings Viewed as Critical Test for AI Rally]]
+- `2026-06-19` [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex|### GPT-5.6 Stealth Testing Rumors Intensify; Late-June Launch Expected]]
+- `2026-06-18` [[2026-06-18-tags-policy|**Tags:** `POLICY`]]
+- `2026-06-18` [[2026-06-18-tags-hot|**Tags:** `HOT`]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad|### OpenAI: Small "Beneficial-Trait" RL Training Makes Models Broadly Safer]]
+- `2026-06-18` [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball|### OpenAI Hires Former White House AI Strategist Dean Ball]]
+- `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|### Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
+- `2026-06-18` [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions|### Meta Unveils AI Ad and Commerce Tools at Cannes Lions]]
+- `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|### Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
+- `2026-06-18` [[2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control|### Bipartisan House Demands Answers on Anthropic Export Controls]]
+- `2026-06-18` [[2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months|### Baseten Nears $1.5B Round at $13B — 160% Jump in 6 Months]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|### Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]
+- `2026-06-16` [[2026-06-16-tags-benchmark|**Tags:** `BENCHMARK`]]
+- `2026-06-15` [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin|Trending Salesforce to acquire AI customer-service firm Fin for $3.6B]]
+- `2026-06-15` [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in|New xAI ships Agent Dashboard in Grok Build and "Use Grok in Warp" integration]]
+- `2026-06-15` [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent|New NewCore emerges from stealth with $66M to govern AI-agent identities at enterprise scale]]
+- `2026-06-15` [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook|New Meta rolls out new AI tools for Facebook]]
+- `2026-06-15` [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc|Neura Robotics plans to raise ~$1.2B for humanoid-robot production]]
+- `2026-06-14` [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar|Hot OpenAI launches Partner Network with $150M investment, targets 300K certified consultants]]
+- `2026-06-12` [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona|### SpaceX IPO: $75B at $1.75T; Musk Becomes World's First Trillionaire]]
+- `2026-06-12` [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente|### OpenAI Accuses China of Influence Campaign on U.S. Data Centers]]
+- `2026-06-12` [[2026-06-12-forbes-publishes-2026-ai-50-list|### Forbes Publishes 2026 AI 50 List]]
+- `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie|### Oracle Beat Earnings but Fell 11% — AI Capex Anxiety Intensifies]]
+- `2026-06-11` [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms|### Deezer Launches Free AI Music Detector Across Platforms]]
+- `2026-06-10` [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta|### SoftBank Faces More Friction on $6B Loan Backed by OpenAI Stake]]
+- `2026-06-10` [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex|### Sam Altman Tells Staff OpenAI Could Go Public Within the Next Year]]
+- `2026-06-10` [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness|### Oracle's AI Cloud Surge Is Offset by Software Weakness]]
+- `2026-06-10` [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl|### OpenAI–Anthropic Coding War Turns to Free Credits and One-Click Migration]]
+- `2026-06-10` [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt|### OpenAI Moves Toward Product-Specific Ads on ChatGPT]]
+- `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|### Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
 - `2026-06-10` [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance|### Meta Signs First AI Data Center Deal in India with Reliance]]
+- `2026-06-10` [[2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen|### Google DeepMind Ships DiffusionGemma — 4x Faster Local Inference]]
+- `2026-06-10` [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai|### German Court Says Google Is Responsible for AI Overview Claims]]
 - `2026-06-10` [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup|### Cyera Raises $600M, Becomes Top AI-Era Cybersecurity Startup]]
 - `2026-06-10` [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy|### Cyera Raises $600M, Becomes One of the Most Valuable AI-Era Cybersecurity Startups]]
 - `2026-06-09` [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model|### TechCrunch: Can Tech Companies Learn to Love Cheaper AI Models?]]

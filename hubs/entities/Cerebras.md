@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 64
+member_count: 65
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 64 connected article(s).
+> Auto-generated entity hub. 65 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-07` [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia|### $1.3 Trillion Semiconductor Selloff Rattles AI Stocks; Nvidia CEO Shrugs Off Rout]]
 - `2026-05-28` [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne|General Compute raises $15M seed for inference-specialized neocloud]]
 - `2026-05-28` [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud|General Compute Raises $15M Seed for AI Inference Neocloud]]

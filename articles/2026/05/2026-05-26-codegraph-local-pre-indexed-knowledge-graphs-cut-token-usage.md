@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: AIToolly
 url_original: https://aitoolly.com/ai-news/2026-05-26
 url_canonical: https://aitoolly.com/ai-news/2026-05-26
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: d343c3542a8d9ab626e38235b627a6505eeb9f624185057e6bec5d5ef0681714

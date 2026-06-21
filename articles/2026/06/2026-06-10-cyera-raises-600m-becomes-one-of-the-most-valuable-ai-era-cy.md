@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup
+- 2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever
 - 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
-- 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
-- 2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the
+- 2026-06-18-tags-funding-hot
 embedding_id: 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The NYT reported that Cyera raised $600 million, positioning it as one of the mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the]]
+**Related:** [[2026-06-10-cyera-raises-600m-becomes-top-ai-era-cybersecurity-startup]] · [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-06-18-tags-funding-hot]]
 <!-- graph:end -->

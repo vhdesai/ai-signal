@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Business Standard
 url_original: https://www.business-standard.com/technology/tech-news/microsoft-build-2026-what-to-expect-new-reasoning-ai-model-surface-laptop-ultra-126060200686_1.html
 url_canonical: https://www.business-standard.com/technology/tech-news/microsoft-build-2026-what-to-expect-new-reasoning-ai-model-surface-laptop-ultra-126060200686_1.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: 0cdaf71e54050a1615c924f72731c8a72311c92ae1789f63d061707ff658d1f3

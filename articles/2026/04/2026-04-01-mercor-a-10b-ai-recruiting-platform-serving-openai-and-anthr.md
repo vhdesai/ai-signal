@@ -5,8 +5,8 @@ title: Mercor, a $10B AI recruiting platform serving OpenAI and Anthropic, confi
 date: '2026-04-01'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 3f78f16f46e0e7263cefbc860476a934d5fe98217b3b98a9825ed8329f8b7b01

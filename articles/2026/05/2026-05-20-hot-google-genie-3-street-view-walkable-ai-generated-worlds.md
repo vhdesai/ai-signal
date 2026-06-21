@@ -6,7 +6,7 @@ date: '2026-05-20'
 source: The Decoder
 url_original: https://techcrunch.com/category/artificial-intelligence/
 url_canonical: https://techcrunch.com/category/artificial-intelligence/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: f2c39907114d4fb7846afc602b0cdef7524814f70d7ce832884b1a292590fd8d

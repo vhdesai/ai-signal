@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-- 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 embedding_id: 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 event_name: ''
 ---
@@ -36,5 +36,5 @@ During Huang's Seoul visit, Nvidia announced a multi-year memory partnership wit
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

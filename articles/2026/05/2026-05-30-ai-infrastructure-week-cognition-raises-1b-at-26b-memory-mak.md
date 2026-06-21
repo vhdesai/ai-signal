@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-18-tags-funding-hot
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
 embedding_id: 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A week-in-review of AI infrastructure flagged coding-agent startup Cognition rai
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]]
+**Related:** [[2026-06-18-tags-funding-hot]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]]
 <!-- graph:end -->

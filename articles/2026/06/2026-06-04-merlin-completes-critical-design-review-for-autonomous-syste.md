@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/merlin-successfully-completes-critical-design-200500314.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/merlin-successfully-completes-critical-design-200500314.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: a9295eccdeaa007d94564a3816ab6c040bdcd744f42a77ae1f415bba375468d8
@@ -19,7 +19,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o
 embedding_id: 2026-06-04-merlin-completes-critical-design-review-for-autonomous-syste
 event_name: ''
 ---
@@ -32,4 +33,5 @@ Merlin announced the successful completion of a critical design review for its a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o]]
 <!-- graph:end -->

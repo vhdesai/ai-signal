@@ -23,7 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing
+- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
+- 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 embedding_id: 2026-06-09-reuters-will-ai-become-a-public-utility
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Reuters published an analysis exploring whether AI should be regulated as a publ
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]]
 <!-- graph:end -->

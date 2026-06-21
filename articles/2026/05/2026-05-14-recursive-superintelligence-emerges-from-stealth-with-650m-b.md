@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 - 2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t
+- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-04-27-alphago-creator-david-silver-raises-record-1-1b-to-build-ai
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 embedding_id: 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A new AI lab called Recursive Superintelligence has emerged from stealth with $6
 
 **Entities:** [[Google]] · [[Salesforce]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t]] · [[2026-04-27-alphago-creator-david-silver-raises-record-1-1b-to-build-ai]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Related:** [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-05-14-nvidia-partners-with-david-silver-s-ineffable-intelligence-t]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-04-27-alphago-creator-david-silver-raises-record-1-1b-to-build-ai]]
 <!-- graph:end -->

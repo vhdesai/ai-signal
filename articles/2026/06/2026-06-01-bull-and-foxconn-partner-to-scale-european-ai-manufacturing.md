@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: HPCwire; Yahoo Finance; Focus Taiwan
 url_original: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
 url_canonical: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 11205c9edad40e2f3cd1a1e8f9063c8e02b372e5841cd699bc5db719ac55e430
 normalized_title_hash: d5378fb61249f0e9
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
+- 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 - 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
 - 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 embedding_id: 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Atos subsidiary Bull and Foxconn (Hon Hai) announced a partnership to manufactur
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]]
 <!-- graph:end -->

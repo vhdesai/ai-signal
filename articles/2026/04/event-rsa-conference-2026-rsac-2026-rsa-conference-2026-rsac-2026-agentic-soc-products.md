@@ -5,7 +5,7 @@ date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
 url_canonical: https://www.rsaconference.com/usa
-url_status: found
+url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: 4f7ab30821b16fc7c6bb314dd99bc191ad08e6b12af16263228d13023408badd
 normalized_title_hash: 36221d9aeaadbc59

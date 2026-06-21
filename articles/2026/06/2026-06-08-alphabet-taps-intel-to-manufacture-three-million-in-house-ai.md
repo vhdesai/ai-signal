@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
+- 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
-- 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
-- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 embedding_id: 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Alphabet tapped Intel to manufacture three million in-house AI chips — a signi
 
 **Entities:** [[Google]] · [[Intel]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]]
+**Related:** [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]]
 <!-- graph:end -->

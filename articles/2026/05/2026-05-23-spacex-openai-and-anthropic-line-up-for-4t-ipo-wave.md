@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: Invezz / Financial Times
 url_original: https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-stock-133300896.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-stock-133300896.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 6387f127955b67d2a761191ce802622ed4194a20082b0b2782fd06a01508c22e
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 - 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
-- 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 embedding_id: 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Combined valuations for SpaceX (filed at $1.75T), OpenAI (IPO expected as early 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]]
+**Related:** [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 137
+member_count: 142
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 137 connected article(s).
+> Auto-generated entity hub. 142 connected article(s).
 
+- `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|### Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-11` [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever|### Prometheus Raises $12B — Largest AI Startup Round Ever]]
+- `2026-06-11` [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x|### Chinese AI Models Undercut Frontier Labs by Up to 9x]]
 - `2026-06-09` [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir|### Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aiding China's Military]]
 - `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-09` [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s|### An AI Agent Startup Ditched Anthropic for DeepSeek, Says It's Saving Millions]]

@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
+- 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
+- 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 - 2026-06-09-reuters-will-ai-become-a-public-utility
-- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 embedding_id: 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 event_name: ''
 ---
@@ -39,5 +40,5 @@ CNN filed a copyright and trademark suit against Perplexity in the Southern Dist
 
 **Entities:** [[OpenAI]] · [[Perplexity]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
+**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]]
 <!-- graph:end -->

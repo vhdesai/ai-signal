@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-06-compiled-from-inbox-messages-received-june-4-6-2026
 - 2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026
 - 2026-06-07-compiled-from-inbox-messages-received-june-5-7-2026
-- 2026-06-02-compiled-from-inbox-messages-received-may-31-june-2-2026
+- 2026-06-16-sources-scanned-june-15-16-2026
 embedding_id: 2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p
 event_name: ''
 ---
@@ -45,5 +45,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-06-compiled-from-inbox-messages-received-june-4-6-2026]] · [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026]] · [[2026-06-07-compiled-from-inbox-messages-received-june-5-7-2026]] · [[2026-06-02-compiled-from-inbox-messages-received-may-31-june-2-2026]]
+**Related:** [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-06-compiled-from-inbox-messages-received-june-4-6-2026]] · [[2026-06-05-compiled-from-inbox-messages-received-june-3-5-2026]] · [[2026-06-07-compiled-from-inbox-messages-received-june-5-7-2026]] · [[2026-06-16-sources-scanned-june-15-16-2026]]
 <!-- graph:end -->

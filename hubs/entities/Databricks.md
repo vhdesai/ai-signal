@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 41
+member_count: 43
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 41 connected article(s).
+> Auto-generated entity hub. 43 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b|### Databricks Closes Data+AI Summit 2026 With Genie One, Agent Bricks, and Unity AI Gateway GA]]
 - `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]

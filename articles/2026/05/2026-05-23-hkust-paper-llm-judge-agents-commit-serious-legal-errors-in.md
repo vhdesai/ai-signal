@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Springer / Artificial Intelligence and Law
 url_original: https://link.springer.com/article/10.1007/s10506-026-09518-5
 url_canonical: https://link.springer.com/article/10.1007/s10506-026-09518-5
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 6d9a4e8164a1808ffd65de7d39313f31dd7a74e88e394ac64bea36a08e4c0dbe

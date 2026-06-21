@@ -1,13 +1,32 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 349
+member_count: 368
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 349 connected article(s).
+> Auto-generated entity hub. 368 connected article(s).
 
+- `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|### Nadella: "There Is No Societal Permission" for AI Concentration]]
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|### Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-18` [[2026-06-18-tags-policy|**Tags:** `POLICY`]]
+- `2026-06-18` [[2026-06-18-tags-hot|**Tags:** `HOT`]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-tags-breaking-policy|**Tags:** `BREAKING` `POLICY`]]
+- `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|### Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]
+- `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|### Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot-policy|**Tags:** `BREAKING` `HOT` `POLICY`]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot|**Tags:** `BREAKING` `HOT`]]
+- `2026-06-17` [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure|### NVIDIA Advances France's National AI Factory Infrastructure at VivaTech]]
+- `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|### Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]
+- `2026-06-16` [[2026-06-16-tags-benchmark|**Tags:** `BENCHMARK`]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b|### Databricks Closes Data+AI Summit 2026 With Genie One, Agent Bricks, and Unity AI Gateway GA]]
+- `2026-06-14` [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar|Hot OpenAI launches Partner Network with $150M investment, targets 300K certified consultants]]
+- `2026-06-10` [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt|### OpenAI Moves Toward Product-Specific Ads on ChatGPT]]
+- `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|### Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
 - `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications]]
 - `2026-06-08` [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat|Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Overview]]

@@ -5,8 +5,8 @@ title: CoreWeave, the GPU cloud specialist, closed more than $21 billion in mult
 date: '2026-04-10'
 source: TSMC · CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://lanceum.com/news/coreweave-anthropic-multi-year-gpu-cloud-deal
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 58342674c36d421293c63fb7c6442441bd55b66f820c77515b3284ee0e8eac97

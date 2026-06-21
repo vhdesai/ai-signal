@@ -5,8 +5,8 @@ title: Replit's Agent 4 can now build, test, and deploy complete full-stack web 
 date: '2026-04-10'
 source: 🔥 TRENDING Apple
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mindstudio.ai/blog/what-is-replit-agent
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 3768d907b427d0c8239f074efeede3d7d10517ce15aa1fafc456d241e7235a8e

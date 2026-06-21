@@ -1,13 +1,55 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1101
+member_count: 1143
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1101 connected article(s).
+> Auto-generated topic hub. 1143 connected article(s).
 
+- `2026-06-21` [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine|### Politico: "The AI Ghost in the Nuclear War Machine"]]
+- `2026-06-20` [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research|### OpenAI Testing "ChatGPT for Science" Subscription for Research Institutions]]
+- `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|### Nadella: "There Is No Societal Permission" for AI Concentration]]
+- `2026-06-19` [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat|### Trump: Anthropic No Longer a National Security Threat]]
+- `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|### Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|### NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally|### Micron Earnings Viewed as Critical Test for AI Rally]]
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|### Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|### Commerce Department Claims Unprecedented Power Over AI Models]]
+- `2026-06-19` [[2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and|### Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini]]
+- `2026-06-18` [[2026-06-18-tags-hot|**Tags:** `HOT`]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model|### Zhipu AI's GLM-5.2 Ranked Leading Open-Weights Model]]
+- `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|### Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]
+- `2026-06-18` [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad|### OpenAI: Small "Beneficial-Trait" RL Training Makes Models Broadly Safer]]
+- `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|### Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]
+- `2026-06-18` [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai|### Noam Shazeer Leaves Google Gemini for OpenAI]]
+- `2026-06-18` [[2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control|### Bipartisan House Demands Answers on Anthropic Export Controls]]
+- `2026-06-18` [[2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months|### Baseten Nears $1.5B Round at $13B — 160% Jump in 6 Months]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot|**Tags:** `BREAKING` `HOT`]]
+- `2026-06-17` [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o|### Nvidia ENPIRE: AI Agents Autonomously Run Robotics Research on Real Hardware]]
+- `2026-06-17` [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure|### NVIDIA Advances France's National AI Factory Infrastructure at VivaTech]]
+- `2026-06-17` [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve|### Foxconn Reveals Closed-Loop Physical AI Stack with Nvidia Vera Rubin]]
+- `2026-06-16` [[2026-06-16-tags-benchmark|**Tags:** `BENCHMARK`]]
+- `2026-06-15` [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers|arXiv June 15 listing: ICML, UAI, and COLT 2026-accepted papers]]
+- `2026-06-15` [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin|New Peer-reviewed agentic AI review articles published (Springer, June 15)]]
+- `2026-06-15` [[2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t|New Flash-KMeans: IO-aware exact K-Means claimed >200× faster than FAISS on GPUs]]
+- `2026-06-15` [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason|Meituan discloses six ACL 2026 papers and General 365 reasoning benchmark]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-14` [[2026-06-14-trending-baai-unveils-physis-v0-1-described-as-the-world-s-f|Trending BAAI unveils Physis-v0.1, described as the world's first general "world foundation model"]]
+- `2026-06-13` [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd|### Amazon CEO Jassy's Talks with U.S. Officials Triggered Crackdown on Anthropic]]
+- `2026-06-12` [[2026-06-12-forbes-publishes-2026-ai-50-list|### Forbes Publishes 2026 AI 50 List]]
+- `2026-06-11` [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever|### Prometheus Raises $12B — Largest AI Startup Round Ever]]
+- `2026-06-11` [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x|### Chinese AI Models Undercut Frontier Labs by Up to 9x]]
+- `2026-06-10` [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta|### SoftBank Faces More Friction on $6B Loan Backed by OpenAI Stake]]
+- `2026-06-10` [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex|### Sam Altman Tells Staff OpenAI Could Go Public Within the Next Year]]
+- `2026-06-10` [[2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models|### OpenAI Opens an Oracle Cloud Purchasing Path for Its Models and Codex]]
+- `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|### Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
+- `2026-06-10` [[2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen|### Google DeepMind Ships DiffusionGemma — 4x Faster Local Inference]]
+- `2026-06-10` [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai|### German Court Says Google Is Responsible for AI Overview Claims]]
+- `2026-06-10` [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab|### Anthropic Releases Claude Fable 5 — A Guarded, Publicly Available Mythos-Class Model]]
 - `2026-06-09` [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model|### TechCrunch: Can Tech Companies Learn to Love Cheaper AI Models?]]
 - `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
 - `2026-06-09` [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models|### Can Tech Companies Learn to Love Cheaper AI Models?]]

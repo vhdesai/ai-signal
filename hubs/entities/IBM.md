@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 54
+member_count: 55
 ---
 
 # IBM
 
-> Auto-generated entity hub. 54 connected article(s).
+> Auto-generated entity hub. 55 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-08` [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap|### IBM Study Finds a Widening Enterprise "AI Control Gap"]]
 - `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-04` [[2026-06-04-ibm-and-google-cloud-announce-strategic-ai-partnership|IBM and Google Cloud Announce Strategic AI Partnership]]

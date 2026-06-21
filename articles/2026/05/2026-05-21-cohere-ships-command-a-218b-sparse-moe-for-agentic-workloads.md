@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: c486ce51b07d91e9d3a27dfc37475e5e1d495952d94ec3c2838878e62389e91e

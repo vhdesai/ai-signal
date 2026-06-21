@@ -37,8 +37,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-source-tech-insider-updated-april-2026
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
+- 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
 embedding_id: 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 event_name: ''
 ---
@@ -52,5 +52,5 @@ recent Northern District of California ruling has opened significant legal expos
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]]
+**Related:** [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
 <!-- graph:end -->

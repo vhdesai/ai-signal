@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: MIT CSAIL Alliances
 url_original: https://cap.csail.mit.edu/
 url_canonical: https://cap.csail.mit.edu/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 0592e14f733f43f235225b903a06aa6321eaf09bdd0d3c0c0289662a5d354608

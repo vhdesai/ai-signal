@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
+- 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 embedding_id: 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
 event_name: ''
@@ -37,5 +38,5 @@ MedAIBase released AntAngelMed, a 103B-parameter open-source medical model using
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]]
+**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]]
 <!-- graph:end -->

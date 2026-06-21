@@ -5,8 +5,8 @@ title: MIT released a testing framework identifying when AI decision-support sys
 date: '2026-03-30'
 source: Salesforce AI Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://dig.watch/updates/mit-ai-framework-test-ethics-autonomous-systems
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 334bcfe01b3206731a37db903cc6f7dca36c9c289d88d2ca6806da3bae228f0a

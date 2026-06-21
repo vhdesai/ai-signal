@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 54
+member_count: 55
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 54 connected article(s).
+> Auto-generated entity hub. 55 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
 - `2026-05-26` [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu|Palantir Stock Watched as AIP Adoption Lifts 2026 Revenue Guide to $7.65B]]

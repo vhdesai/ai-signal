@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+- 2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 embedding_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ STMicroelectronics raised its 2026 data-center revenue target to roughly $1 bill
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
+**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

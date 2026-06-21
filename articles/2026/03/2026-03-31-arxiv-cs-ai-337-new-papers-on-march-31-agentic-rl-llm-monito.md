@@ -5,8 +5,8 @@ title: 'arXiv cs.AI: 337 New Papers on March 31 — Agentic RL, LLM Monitorabili
 date: '2026-03-31'
 source: arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2502.02649v3
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 9ff3ddb8626ccacc81ee420532334159eeda06c21789910eb32dbd25008e76d0
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
 - 2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n
-- 2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion
 embedding_id: 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The March 31 arXiv cs.AI listing included 337 new submissions, reflecting Q1 202
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n]] · [[2026-05-05-arxiv-cs-ai-385-new-submissions-with-an-alignment-contagion]]
+**Related:** [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-05-05-arxiv-cs-ai-surfaces-an-alignment-contagion-cluster-in-385-n]]
 <!-- graph:end -->

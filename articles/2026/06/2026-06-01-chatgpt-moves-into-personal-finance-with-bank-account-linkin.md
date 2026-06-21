@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Goodreturns (secondary outlet)**
 url_original: https://www.goodreturns.in/personal-finance/chatgpt-now-can-manage-your-money-here-s-everything-you-need-to-know-1512133.html
 url_canonical: https://www.goodreturns.in/personal-finance/chatgpt-now-can-manage-your-money-here-s-everything-you-need-to-know-1512133.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: b744343948c5d79f6fd207a0c855259a9f7952e541a3dbe47a1861ebb776f3ed
 normalized_title_hash: 1abb44b442308030

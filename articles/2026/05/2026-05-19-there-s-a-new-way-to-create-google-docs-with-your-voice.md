@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 - 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
-- 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 embedding_id: 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The WSJ daily roundup highlights a hands-on review of Google's new voice-driven 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
+**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]]
 <!-- graph:end -->

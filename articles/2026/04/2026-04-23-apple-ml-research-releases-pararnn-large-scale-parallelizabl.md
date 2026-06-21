@@ -5,7 +5,7 @@ date: '2026-04-23'
 source: Apple Machine Learning Research
 url_original: https://machinelearning.apple.com/
 url_canonical: https://machinelearning.apple.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 111d8a7847988235899d3fc57275b00ff84d7b381470e96db956481597f19d5b
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
 - 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
+- 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi
-- 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
 embedding_id: 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple researchers published ParaRNN, an advancement that makes RNN training dram
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]]
+**Related:** [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma]] · [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-12-tilde-research-introduces-aurora-leverage-aware-optimizer-fi]]
 <!-- graph:end -->

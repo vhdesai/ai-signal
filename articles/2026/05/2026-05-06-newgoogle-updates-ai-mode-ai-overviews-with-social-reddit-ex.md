@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
+- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 embedding_id: 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google today updated its AI Mode and AI Overviews products to surface firsthand 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
+**Related:** [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]]
 <!-- graph:end -->

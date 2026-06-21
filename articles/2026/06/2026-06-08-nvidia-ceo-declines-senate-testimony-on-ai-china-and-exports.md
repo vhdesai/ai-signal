@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 embedding_id: 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
@@ -38,5 +39,5 @@ Jensen Huang declined an invitation to testify before the Senate on AI, China, a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]]
+**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]]
 <!-- graph:end -->

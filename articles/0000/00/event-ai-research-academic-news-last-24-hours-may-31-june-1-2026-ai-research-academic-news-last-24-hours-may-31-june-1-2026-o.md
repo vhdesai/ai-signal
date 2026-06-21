@@ -4,8 +4,8 @@ title: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026) — O
 date: null
 source: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/
+url_status: repaired
 digest_source: digests\raw\academic-ai-news-24h-report.md
 content_hash: 163bb94e9de4c8b4e53346743ee0dc587f1a34661273b865051c8cf9c92b8491
 normalized_title_hash: 1557b0a989fdc20b
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-20-ai-news-digest-may-20-2026
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
-- 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
+- 2026-06-16-sources-scanned-june-15-16-2026
 embedding_id: event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ---
@@ -36,5 +36,5 @@ event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]]
+**Related:** [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-06-16-sources-scanned-june-15-16-2026]]
 <!-- graph:end -->

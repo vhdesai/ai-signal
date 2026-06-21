@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: Bloomberg**
 url_original: https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos
 url_canonical: https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: eee03c1777cda4bf82121ebe0ac2fe07dd34fb28783821eabf4f3b7f32bb8dd5
 normalized_title_hash: ee6542b49f734dd4

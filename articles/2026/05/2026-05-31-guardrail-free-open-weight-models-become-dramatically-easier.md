@@ -33,9 +33,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
+- 2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 embedding_id: 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 event_name: ''
 ---
@@ -49,5 +49,5 @@ Open-weight models with capabilities close to proprietary frontier systems — f
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
 <!-- graph:end -->

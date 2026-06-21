@@ -6,8 +6,8 @@ title: Anthropic launched Project Glasswing, partnering with AWS, Apple, Broadco
 date: '2026-04-11'
 source: ⚡ BREAKING CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://securitybrief.com.au/story/anthropic-launches-project-glasswing-for-cyber-defence
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 553cea70c4bf69157938617e07dc231aa148fcad06c31452c82a83d1ef7da30a

@@ -5,8 +5,8 @@ title: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2,
 date: null
 source: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2, 2026)
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/AINewsJune2026.aspx
+url_status: repaired
 digest_source: digests\raw\academic-ai-news-report.md
 content_hash: 9cfa5d53f07a809fa20977422703c006422f3f3facce3c1d736c149dce7d38c4
 normalized_title_hash: 1c21a01e0e90f03f
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
+- 2026-06-16-sources-scanned-june-15-16-2026
 - event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-- 2026-05-20-ai-news-digest-may-20-2026
 embedding_id: event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june
 event_name: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2,
   2026)
@@ -38,5 +38,5 @@ This digest covers AI items from the **academic and research** world confirmed p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-20-ai-news-digest-may-20-2026]]
+**Related:** [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-16-sources-scanned-june-15-16-2026]] · [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

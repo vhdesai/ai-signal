@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
-- 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
+- 2026-06-18-tags-policy
 embedding_id: 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The White House and congressional allies are relaunching a coordinated effort to
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance]]
+**Related:** [[2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-18-tags-policy]]
 <!-- graph:end -->

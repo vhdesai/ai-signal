@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm
 url_canonical: https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: dd85c8ac1373ca9065783b8091b358ab845626e63552d7ee397ec4dfa710c396

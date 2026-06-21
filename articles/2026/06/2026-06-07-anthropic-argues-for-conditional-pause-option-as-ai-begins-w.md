@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80
+- 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
+- 2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl
 - 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
-- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 embedding_id: 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Anthropic's Jack Clark and Marina Favaro argued that labs should preserve the op
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
+**Related:** [[2026-06-07-anthropic-labs-should-retain-option-to-pause-as-ai-writes-80]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]] · [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]]
 <!-- graph:end -->

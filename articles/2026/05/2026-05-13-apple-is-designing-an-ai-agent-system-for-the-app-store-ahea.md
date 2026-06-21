@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/05/13/apple-is-working-to-incorporate-ai-agents-on-the-app-store-per-report/
 url_canonical: https://9to5mac.com/2026/05/13/apple-is-working-to-incorporate-ai-agents-on-the-app-store-per-report/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 979670918da290f85f04c2baea8cbf445033d5a7fa8fa9bf6da665f372dc8c77

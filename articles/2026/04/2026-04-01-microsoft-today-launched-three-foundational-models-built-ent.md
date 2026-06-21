@@ -5,8 +5,8 @@ title: Microsoft today launched three foundational models built entirely in-hous
 date: '2026-04-01'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2f48843d58fb95e5207c399d9e1aa5a89234170e45070cd27afbe225fc94df1a

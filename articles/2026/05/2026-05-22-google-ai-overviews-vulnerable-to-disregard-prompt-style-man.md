@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
 - 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully
 embedding_id: 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Verge reports that Google's AI Overviews can be coaxed into chatbot-style re
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-20-google-s-threat-intelligence-group-disclosed-it-successfully]]
+**Related:** [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]]
 <!-- graph:end -->

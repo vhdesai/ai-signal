@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CTech**
 url_original: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
 url_canonical: https://www.calcalistech.com/ctechnews/article/zzhjwk3b8
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 4d700e03884ae8ea8e8788d91483cfcbb03d7681949466c3c255d7cc7f14807b
 normalized_title_hash: 6f23295a059d71c7
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-18-tags-funding-hot
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
-- 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
-- 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 embedding_id: 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Networking-software firm DriveNets closed a $410M Series D at an $8.5B valuation
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-06-18-tags-funding-hot]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Tech-ish
 url_original: https://tech-ish.com/2026/06/05/gemini-lyria-music-purchase-track-watermark/
 url_canonical: https://tech-ish.com/2026/06/05/gemini-lyria-music-purchase-track-watermark/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 22a52575416a1bef037b0715978e25709f247f53c85c107f3390a2910a756a4f

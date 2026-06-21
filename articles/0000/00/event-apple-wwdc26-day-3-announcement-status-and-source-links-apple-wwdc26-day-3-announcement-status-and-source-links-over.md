@@ -4,8 +4,8 @@ title: 'Apple WWDC26 Day 3: Announcement Status and Source Links — Overview'
 date: null
 source: 'Apple WWDC26 Day 3: Announcement Status and Source Links'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://developer.apple.com/wwdc26/
+url_status: repaired
 digest_source: digests\raw\13_Apple_WWDC26_Day3_Status_and_Links.md
 content_hash: d0e15c4a3bcae79b6cc3ce8d77f090bb2b577ce521b0852b4a9834c162d9141e
 normalized_title_hash: 947235aac27d7ba3

@@ -6,7 +6,7 @@ date: '2026-05-20'
 source: MIT News
 url_original: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
 url_canonical: https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 2cbf09218b9c0c27d53a234e9b4ccac96703b4452e021c47eb3d06e3d85bc6f2

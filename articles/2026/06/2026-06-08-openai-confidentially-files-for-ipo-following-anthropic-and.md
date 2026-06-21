@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
-- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 embedding_id: 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI confirmed it has submitted a confidential draft S-1 to the SEC, joining A
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]]
+**Related:** [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
 <!-- graph:end -->

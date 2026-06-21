@@ -4,8 +4,8 @@ title: AI News Digest — Monday, June 1, 2026 — Overview
 date: null
 source: AI News Digest — Monday, June 1, 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://unrot.co/blogs/ai-news-today-top-10-ai-stories-june-1-2026
+url_status: repaired
 digest_source: digests\raw\ai-news-digest-2026-06-01-report.md
 content_hash: b1693ccaab84919340e21e2d7f9608deca8c9155ecedb75f7b56869d8719b31c
 normalized_title_hash: 756d287a11985ee4

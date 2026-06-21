@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch; [June 1, 2026] · Reuters; Yahoo Finance
 url_original: https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
 url_canonical: https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: a2a1dee4e8ffa62e9e68e6c411aba25db8722d2438e3fe6186b7f6d830925c6b
 normalized_title_hash: e16b2ec59a60adb4
@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
+- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
-- 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 embedding_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 event_name: ''
 ---
@@ -35,5 +35,5 @@ At the Choose France 2026 summit, SoftBank announced plans to invest up to €75
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]]
+**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
 <!-- graph:end -->

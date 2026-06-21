@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
+- 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Khosla Ventures led a $10M seed round in Synthetic AI, co-founded by Ian Crosby 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]]
 <!-- graph:end -->

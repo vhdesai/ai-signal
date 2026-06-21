@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
+- 2026-06-18-tags-policy
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 embedding_id: 2026-05-01-ai-regulation-proxy-war-crypto-investor-spends-3-5m-backing
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Ripple Labs investor and executive Chris Larsen plans to spend $3.5 million to s
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]]
+**Related:** [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-06-18-tags-policy]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
 <!-- graph:end -->

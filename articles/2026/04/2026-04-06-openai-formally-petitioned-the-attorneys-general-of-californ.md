@@ -5,8 +5,8 @@ title: OpenAI formally petitioned the Attorneys General of California and Delawa
 date: '2026-04-06'
 source: Unite.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: aec04f7525fd37e2c00907f5aa8adcf8d17bb491d26e4072e8f976bbed933e95

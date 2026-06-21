@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: TechStartups
 url_original: https://techstartups.com/2026/06/05/switch-in-talks-to-raise-funding-at-50-billion-plus-valuation-as-ai-data-center-demand-surges/
 url_canonical: https://techstartups.com/2026/06/05/switch-in-talks-to-raise-funding-at-50-billion-plus-valuation-as-ai-data-center-demand-surges/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 2fd3a6a81d9672edd908f4221acac4c6e32a11161f9f0517d420f17e1ef8df17

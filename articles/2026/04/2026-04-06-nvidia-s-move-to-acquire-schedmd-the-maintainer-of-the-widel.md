@@ -5,8 +5,8 @@ title: Nvidia's move to acquire SchedMD — the maintainer of the widely used Sl
 date: '2026-04-06'
 source: GlobalPublicist24
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 1e42bdd62e277a97a5424cc262c26731eca02dbb23635f63c45e2a34e16c513a

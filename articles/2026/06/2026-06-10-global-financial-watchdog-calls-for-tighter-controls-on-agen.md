@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
+- 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-06-09-reuters-will-ai-become-a-public-utility
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
+- 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 embedding_id: 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Global financial regulators are calling for tighter controls on agentic AI in fi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]]
+**Related:** [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Meta has debuted Muse Spark, its first major proprietary AI model since i
 date: '2026-04-10'
 source: Alibaba · CNBC / Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 56ea33cba474126763ec2a8b86cce6ac08edceb9d175f243e0334c759dcd14b0

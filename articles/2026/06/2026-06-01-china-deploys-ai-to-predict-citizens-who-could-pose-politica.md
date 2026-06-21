@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The New York Times
 url_original: https://www.nytimes.com/2026/06/01/world/asia/china-ai-political-risk.html
 url_canonical: https://www.nytimes.com/2026/06/01/world/asia/china-ai-political-risk.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 014b46e7656363fd18202c7b65e64d190d249fd333d547b8baa3ced3fa63fb8c
 normalized_title_hash: f1e542183f54d592

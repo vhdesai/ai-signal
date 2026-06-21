@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: AI Weekly
 url_original: https://aiweekly.co/
 url_canonical: https://aiweekly.co/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: a310d3856698d7add35b79c0ab4ec0b102720a4d5964e656070d96629d377504

@@ -1,14 +1,36 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 587
+member_count: 609
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 587 connected article(s).
+> Auto-generated entity hub. 609 connected article(s).
 
+- `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|### OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|### Forbes: Energy Sovereignty Will Decide the AI Race]]
+- `2026-06-19` [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat|### Trump: Anthropic No Longer a National Security Threat]]
+- `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|### Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|### NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|### Commerce Department Claims Unprecedented Power Over AI Models]]
+- `2026-06-19` [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code|### Anthropic Brings Live, Shareable Artifacts to Claude Code]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-tags-breaking-policy|**Tags:** `BREAKING` `POLICY`]]
+- `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|### Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]
+- `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|### Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
+- `2026-06-18` [[2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control|### Bipartisan House Demands Answers on Anthropic Export Controls]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot-policy|**Tags:** `BREAKING` `HOT` `POLICY`]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen|Breaking Anthropic to meet Trump officials over US government export-control order on Fable 5 and Mythos 5]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-14` [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar|Hot OpenAI launches Partner Network with $150M investment, targets 300K certified consultants]]
+- `2026-06-13` [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd|### Amazon CEO Jassy's Talks with U.S. Officials Triggered Crackdown on Anthropic]]
+- `2026-06-11` [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing|### Anthropic Pursues Data Center Leases; Seeks Google Backing]]
+- `2026-06-10` [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl|### OpenAI–Anthropic Coding War Turns to Free Credits and One-Click Migration]]
 - `2026-06-10` [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in|### Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026]]
+- `2026-06-10` [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab|### Anthropic Releases Claude Fable 5 — A Guarded, Publicly Available Mythos-Class Model]]
 - `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
 - `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]

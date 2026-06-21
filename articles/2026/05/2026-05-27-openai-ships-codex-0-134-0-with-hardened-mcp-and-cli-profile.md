@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Releasebot
 url_original: https://lifeboat.com/blog/2026/05/yann-lecun-on-what-comes-after-llms
 url_canonical: https://lifeboat.com/blog/2026/05/yann-lecun-on-what-comes-after-llms
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 8857eb6e45cfebb4929bfbb1a25f8288e826fe08ccef5cf00624cf72d5cd1786

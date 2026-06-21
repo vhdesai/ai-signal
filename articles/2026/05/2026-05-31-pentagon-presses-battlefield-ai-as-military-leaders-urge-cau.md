@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: The Associated Press
 url_original: https://lasvegassun.com/news/2026/may/31/as-the-pentagon-pushes-for-battlefield-ai-some-mil/
 url_canonical: https://lasvegassun.com/news/2026/may/31/as-the-pentagon-pushes-for-battlefield-ai-some-mil/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 37d7fb7f176531a519a4c9d59013bc7cdd6a74b0c4fa36ff030ebadb36787f3d
 normalized_title_hash: dce5d6f4e4e81c3e
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
+- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
+- 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 - 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 - 2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026
-- 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
-- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -37,5 +37,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]] · [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026]]
 <!-- graph:end -->

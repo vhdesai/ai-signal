@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: TechCrunch; Forbes
 url_original: https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/
 url_canonical: https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 9856cf23557dd244bc673d50c432190328f111f100b76edf4a9332dcc143e065

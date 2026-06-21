@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Alternatives Watch; W.Media; fundsforNGOs News
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-65-billion-series-h
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=anthropic-65-billion-series-h
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 531b9b1787cbb8f8639825177ec29dc00611b0c300f4d2e780e1d5170dad21ec
 normalized_title_hash: 7dbb307dc5f3e10d

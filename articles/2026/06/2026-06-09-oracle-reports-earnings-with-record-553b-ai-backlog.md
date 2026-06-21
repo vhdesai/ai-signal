@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
-- 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
+- 2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
+- 2026-06-18-tags-funding-hot
 embedding_id: 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Oracle reports Q4 earnings with a record $553 billion AI backlog. Barron's noted
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-06-18-tags-funding-hot]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch; June 1, 2026 · The Information
 url_original: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
 url_canonical: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: af76b15abd6e753bd5ffaf6f5721cc21b1f251fdddf90f4cb80c7fe118f16c94

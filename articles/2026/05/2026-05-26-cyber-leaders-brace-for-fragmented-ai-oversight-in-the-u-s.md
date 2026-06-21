@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: WSJ Pro CyberSecurity
 url_original: https://www.wsj.com/pro/cybersecurity/cyber-officials-brace-for-lax-ai-oversight-e98a7189
 url_canonical: https://www.wsj.com/pro/cybersecurity/cyber-officials-brace-for-lax-ai-oversight-e98a7189
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-26_080127_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: fdc2622e3a6d477b40ef0d02a18da9e53423c65890efabab2e03342b91daf6b7

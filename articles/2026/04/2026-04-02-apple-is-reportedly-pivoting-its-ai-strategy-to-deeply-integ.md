@@ -5,8 +5,8 @@ title: Apple is reportedly pivoting its AI strategy to deeply integrate third-pa
 date: '2026-04-02'
 source: 🔥 TRENDING IBM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://michaelparekh.substack.com/p/ai-apple-flexes-its-distribution
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 7ea1551875b6fbbafbcab44180c56c832714dc734c875bc0272e46d9efee6576

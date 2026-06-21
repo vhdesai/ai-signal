@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
+- 2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing
 - 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
-- 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 embedding_id: 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic confirmed the close of a $65B Series H that values the company at roug
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

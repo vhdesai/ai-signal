@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: UC San Diego Today
 url_original: https://today.ucsd.edu/story/ai-can-seem-more-human-than-real-humans-in-a-classic-turing-test-study-finds
 url_canonical: https://today.ucsd.edu/story/ai-can-seem-more-human-than-real-humans-in-a-classic-turing-test-study-finds
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: defb39be15cf236959b979fc6a962321fd8e4e9095b373b3f4f6249b185368b4

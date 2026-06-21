@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
-- 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
 embedding_id: 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The WSJ explores the emerging concept of "digital twins" for knowledge workers �
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]]
+**Related:** [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
 <!-- graph:end -->

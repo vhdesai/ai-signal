@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: WSJ
 url_original: https://www.wsj.com/tech/ai/mistral-ai-takes-aim-at-legal-sector-through-expanded-harvey-ai-partnership-2a8dc703
 url_canonical: https://www.wsj.com/tech/ai/mistral-ai-takes-aim-at-legal-sector-through-expanded-harvey-ai-partnership-2a8dc703
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 8a3e5d47ec60e6a4d32b2800bc6e6d8a6e8e022cbaee01f01cb2e708a2641f6a

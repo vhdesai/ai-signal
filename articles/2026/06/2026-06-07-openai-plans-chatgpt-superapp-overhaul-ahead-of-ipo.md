@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
+- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
-- 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 embedding_id: 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reuters reported that OpenAI is planning a major overhaul of ChatGPT into a cons
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
+**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
+- 2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers
+- 2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 embedding_id: 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon will pay Corning billions for optical fiber to connect its AI data center
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
+**Related:** [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers]] · [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]]
 <!-- graph:end -->

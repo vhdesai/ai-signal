@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 190
+member_count: 195
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 190 connected article(s).
+> Auto-generated entity hub. 195 connected article(s).
 
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|### Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-18` [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers|### Amazon Weighs Selling Trainium Chips to Outside Data Centers]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-13` [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd|### Amazon CEO Jassy's Talks with U.S. Officials Triggered Crackdown on Anthropic]]
+- `2026-06-10` [[2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models|### OpenAI Opens an Oracle Cloud Purchasing Path for Its Models and Codex]]
 - `2026-06-08` [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai|### Amazon Strikes Multibillion-Dollar Corning Fiber Deal for AI Data Centers]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative|### Anthropic expands Project Glasswing cybersecurity initiative]]
 - `2026-06-01` [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra|Xage pushes zero-trust controls deeper into agentic AI infrastructure]]

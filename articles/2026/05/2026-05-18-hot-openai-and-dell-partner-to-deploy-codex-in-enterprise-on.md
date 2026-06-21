@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: OpenAI News
 url_original: https://openai.com/news/
 url_canonical: https://openai.com/news/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: a4c477585eb9bd0a04701949db93aca77703170725da0d0d689b29c782c2f424

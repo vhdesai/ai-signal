@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Google DeepMind Blog
 url_original: https://deepmind.google/blog/
 url_canonical: https://deepmind.google/blog/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: e15cdc8250f3f86b76be617a4703c401af88f56e7d04205bd7ecb72d8f84ade6

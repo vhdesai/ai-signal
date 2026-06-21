@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
+- 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 embedding_id: 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
 event_name: ''
 ---
@@ -44,5 +44,5 @@ xAI made Grok 4.3 the default model option inside the NVIDIA-backed OpenClaw age
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
+**Related:** [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]]
 <!-- graph:end -->

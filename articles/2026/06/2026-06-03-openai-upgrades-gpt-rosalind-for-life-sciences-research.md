@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: OpenAI
 url_original: https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
 url_canonical: https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: c1bac4ce41efaa1e780f3d3c1c8d01cc91d6df23086884a676336fbeec243d04

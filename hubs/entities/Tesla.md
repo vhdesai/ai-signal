@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 21
+member_count: 22
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 21 connected article(s).
+> Auto-generated entity hub. 22 connected article(s).
 
+- `2026-06-15` [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc|Neura Robotics plans to raise ~$1.2B for humanoid-robot production]]
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
 - `2026-06-07` [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan|### Notion Temporarily Disables Anthropic Models After Performance Issues]]
 - `2026-06-04` [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu|Meta Builds Data Centers in Tents to Keep Pace with AI Compute Demand]]

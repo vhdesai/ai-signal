@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 24dae4c60733e43d67f2b89c951f8cc2e7c09526411dc4c089b128949cb2a6e4
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
+- 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
 - 2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1
 - 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
-- 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 embedding_id: 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX's $75B offering — 555.55M shares at $135 — is oversubscribed. Morgan 
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]]
+**Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]]
 <!-- graph:end -->

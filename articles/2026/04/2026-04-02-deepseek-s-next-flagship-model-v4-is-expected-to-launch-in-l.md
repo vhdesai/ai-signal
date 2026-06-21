@@ -5,8 +5,8 @@ title: DeepSeek's next flagship model, V4, is expected to launch in late April 2
 date: '2026-04-02'
 source: 🌶 HOT Alibaba
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: dcc3c8b26ae66de690d1a29323e1340cf3f088c17ad6e1818745d1aa667a527e

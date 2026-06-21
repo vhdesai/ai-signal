@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Mistral Blog
 url_original: https://mistral.ai/news/science-to-win-industrial-ai
 url_canonical: https://mistral.ai/news/science-to-win-industrial-ai
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 5e96b27ad7b612cd474911e7c4a0fea8023d3921566a7e43c95d9396fe20c42e

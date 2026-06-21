@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
+- 2026-06-18-tags-funding-hot
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 embedding_id: 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI CFO Sarah Friar told Bloomberg that the company is actively evaluating ad
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]]
+**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-06-18-tags-funding-hot]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

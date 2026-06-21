@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The Motley Fool**
 url_original: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
 url_canonical: https://www.fool.com/investing/2026/05/31/nvda-stock-jensen-huang-keynote-computex/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: c094fff5f129b0605c21ffeeda83d49e4a93d30aac14730d6d9087a392a19d75
 normalized_title_hash: 9afc4cf7d3335321
@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 embedding_id: 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Jensen Huang delivered Nvidia's GTC Taipei keynote on Monday, June 1 (11 a.m. Ta
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]]
+**Related:** [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]]
 <!-- graph:end -->

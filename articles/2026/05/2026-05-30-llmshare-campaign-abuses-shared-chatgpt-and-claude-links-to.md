@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
+- 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
 - 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
-- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 embedding_id: 2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Researchers at Push Security detailed a live campaign, dubbed "LLMShare," that a
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]]
+**Related:** [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
 <!-- graph:end -->

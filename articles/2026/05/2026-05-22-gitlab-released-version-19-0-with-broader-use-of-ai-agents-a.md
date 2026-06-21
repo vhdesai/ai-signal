@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
+- 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-04-15-model-releases
 embedding_id: 2026-05-22-gitlab-released-version-19-0-with-broader-use-of-ai-agents-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ GitLab released version 19.0 with broader use of AI agents across issue triage, 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-04-15-model-releases]]
+**Related:** [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

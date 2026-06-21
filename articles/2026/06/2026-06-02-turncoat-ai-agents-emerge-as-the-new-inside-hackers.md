@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 - 2026-05-20-when-hackers-act-like-insiders-and-firms-slow-on-patching
-- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
+- 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 embedding_id: 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ Pro Cybersecurity reports AI agents that go rogue, drift, or get hijacked ar
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-05-20-when-hackers-act-like-insiders-and-firms-slow-on-patching]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]]
+**Related:** [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-05-20-when-hackers-act-like-insiders-and-firms-slow-on-patching]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
 <!-- graph:end -->

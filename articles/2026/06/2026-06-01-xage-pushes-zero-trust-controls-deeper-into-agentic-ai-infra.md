@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/security/xage-security-supercharges-its-just-announced-zero-trust-for-agentic-ai-solution-with-nvidia-vera-bluefield-4-stx-security-innovations/
 url_canonical: https://aithority.com/security/xage-security-supercharges-its-just-announced-zero-trust-for-agentic-ai-solution-with-nvidia-vera-bluefield-4-stx-security-innovations/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: c9044d1749bf07553fc979b21316b590ffd294d0439f865c35f27355a0116bcd

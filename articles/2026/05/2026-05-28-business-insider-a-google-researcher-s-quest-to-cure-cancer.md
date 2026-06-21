@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import
+- 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
 - 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 embedding_id: 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider profiled a Google researcher working to apply foundation models
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
+**Related:** [[2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

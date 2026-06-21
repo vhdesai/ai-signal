@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 85
+member_count: 87
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 85 connected article(s).
+> Auto-generated entity hub. 87 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
 - `2026-06-02` [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense|Airbus Partners with Mistral AI for Sovereign AI in Defense and Design]]
 - `2026-05-29` [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk|CEOs now fear cyberattacks more than any other business risk; Duke pays $3.7M settlement]]
 - `2026-05-28` [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands|Mistral signs Airbus and BMW, defends military-AI use, expands French data centers]]

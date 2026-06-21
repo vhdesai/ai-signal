@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/enterprise-data-shadow-AI/821292/
 url_canonical: https://www.ciodive.com/news/enterprise-data-shadow-AI/821292/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: acfcb66121afd2be8e52d88dcfa475ce698d84e3cd5a867d9ab095eb95487972

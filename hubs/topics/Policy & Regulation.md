@@ -1,16 +1,40 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 536
+member_count: 560
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 536 connected article(s).
+> Auto-generated topic hub. 560 connected article(s).
 
+- `2026-06-21` [[2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war|### US States Forge Ahead with AI Regulation Despite Trump's Warnings]]
+- `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|### OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|### Forbes: Energy Sovereignty Will Decide the AI Race]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|### NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|### Commerce Department Claims Unprecedented Power Over AI Models]]
+- `2026-06-18` [[2026-06-18-tags-policy|**Tags:** `POLICY`]]
+- `2026-06-18` [[2026-06-18-tags-breaking-policy|**Tags:** `BREAKING` `POLICY`]]
+- `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|### Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]
+- `2026-06-18` [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad|### OpenAI: Small "Beneficial-Trait" RL Training Makes Models Broadly Safer]]
+- `2026-06-18` [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball|### OpenAI Hires Former White House AI Strategist Dean Ball]]
+- `2026-06-18` [[2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control|### Bipartisan House Demands Answers on Anthropic Export Controls]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot-policy|**Tags:** `BREAKING` `HOT` `POLICY`]]
+- `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|### Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen|Breaking Anthropic to meet Trump officials over US government export-control order on Fable 5 and Mythos 5]]
+- `2026-06-13` [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd|### Amazon CEO Jassy's Talks with U.S. Officials Triggered Crackdown on Anthropic]]
+- `2026-06-12` [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo|### Nvidia Begins Vera CPU Pitch to Chinese Clients Despite Export Controls]]
+- `2026-06-11` [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day|### Grok Still Hosting Deepfakes on SpaceX's First Trading Day]]
+- `2026-06-11` [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing|### Anthropic Pursues Data Center Leases; Seeks Google Backing]]
+- `2026-06-10` [[2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china|### Taiwan Weighs Tighter AI-Chip Export Controls on China]]
 - `2026-06-10` [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea|### Senate Republicans Break with Trump on AI Equity-Stake Idea]]
+- `2026-06-10` [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex|### Sam Altman Tells Staff OpenAI Could Go Public Within the Next Year]]
+- `2026-06-10` [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl|### OpenAI–Anthropic Coding War Turns to Free Credits and One-Click Migration]]
 - `2026-06-10` [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in|### Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026]]
 - `2026-06-10` [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen|### Global Financial Watchdog Calls for Tighter Controls on Agentic AI in Finance]]
+- `2026-06-10` [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai|### German Court Says Google Is Responsible for AI Overview Claims]]
 - `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
 - `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
 - `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]

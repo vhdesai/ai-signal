@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: CNBC; Reuters; Yahoo Finance; The Guardian
 url_original: https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/
 url_canonical: https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: 2667852466ebe16d1cf6de0f91355a6cb7393d231350641000be5fd4b66f17c4

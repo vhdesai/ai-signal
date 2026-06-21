@@ -5,8 +5,8 @@ title: OpenAI closed the largest private capital raise in history — $122B at a
 date: '2026-04-01'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 72851602f247afa0d1433110813b3566dc75eef78a4c82a070fbc33facbcc2bd

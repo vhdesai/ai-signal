@@ -5,8 +5,8 @@ title: Amazon CEO Andy Jassy's annual shareholder letter disclosed that AWS has 
 date: '2026-04-01'
 source: ⚡ BREAKING Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: a43b4adc16413c089aeba032e0540a3839f98dbe6957f1f901e7bb41ccd8f1b5

@@ -4,8 +4,8 @@ title: Apple to Open Siri to Claude and Gemini in iOS 27 — Ending OpenAI Exclu
 date: '2026-03-26'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gadgets.beebom.com/news/apple-may-open-siri-to-gemini-claude-in-ios-27-ending-chatgpt-exclusivity
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: aec5ae96ce71afddd929f68945428253ed23637c5db3a0772201d844522aa684

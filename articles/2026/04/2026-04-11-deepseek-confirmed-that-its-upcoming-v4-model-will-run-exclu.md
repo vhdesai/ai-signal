@@ -5,8 +5,8 @@ title: DeepSeek confirmed that its upcoming V4 model will run exclusively on Hua
 date: '2026-04-11'
 source: 'Source: Big Hat Group China AI Weekly'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: c89de66030efc5819a801f7870ddc7bba922f589335414e8a8a44b722a11c30c

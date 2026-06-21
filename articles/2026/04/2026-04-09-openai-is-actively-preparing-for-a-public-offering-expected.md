@@ -5,8 +5,8 @@ title: OpenAI is actively preparing for a public offering expected in Q4 2026, w
 date: '2026-04-09'
 source: 🌶 HOT Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 8c0c3a2d55b9bed458bbac8f5dd6c3cdce0ad10b4458eae2cc1eb8e22c519f6c

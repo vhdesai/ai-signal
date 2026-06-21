@@ -5,8 +5,8 @@ title: Iran's IRGC declared 18 American and Gulf technology companies "legitimat
 date: '2026-04-01'
 source: Wired
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: ae23a5882b8b53d9329f2af1e31b56f5f88675fe10f387d2ffef83c49504a6b6

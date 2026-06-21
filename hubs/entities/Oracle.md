@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 67
+member_count: 72
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 67 connected article(s).
+> Auto-generated entity hub. 72 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie|### Oracle Beat Earnings but Fell 11% — AI Capex Anxiety Intensifies]]
+- `2026-06-10` [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness|### Oracle's AI Cloud Surge Is Offset by Software Weakness]]
+- `2026-06-10` [[2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models|### OpenAI Opens an Oracle Cloud Purchasing Path for Its Models and Codex]]
+- `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|### Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
 - `2026-06-09` [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog|### Oracle Reports Earnings with Record $553B AI Backlog]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]

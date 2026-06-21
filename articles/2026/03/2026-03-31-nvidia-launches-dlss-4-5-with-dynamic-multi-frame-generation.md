@@ -4,8 +4,8 @@ title: Nvidia Launches DLSS 4.5 with Dynamic Multi Frame Generation — Up to 6x
 date: '2026-03-31'
 source: Nvidia
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nvidia.com/en-us/geforce/news/dlss-4-5-dynamic-multi-frame-generation-6x-mode-released/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: c4925c802224225e8037033120d5ab31e0f9425f15268fc4bec0484c24a2f3bc

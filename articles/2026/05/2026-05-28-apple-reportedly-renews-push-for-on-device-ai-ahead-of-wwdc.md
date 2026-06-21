@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=apple-renews-push-on-device-ai
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=apple-renews-push-on-device-ai
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: 372543b0dd1e8c8820c4245baedc1a574d4ab3295ce12d7b6ba7de121c699b8b

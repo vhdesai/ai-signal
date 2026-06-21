@@ -5,8 +5,8 @@ title: Elon Musk's xAI has filed suit against the State of Colorado, challenging
 date: '2026-04-11'
 source: Plural Policy
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.hrdive.com/news/colorado-ai-bias-law-unconstitutional-elon-musks-xai/817258/
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 8071eae7c19d06735636c190f14850887a45e38b22602f252b3d48704493fd24

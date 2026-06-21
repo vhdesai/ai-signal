@@ -5,8 +5,8 @@ title: Anthropic disclosed it has reached a $30 billion annualized revenue run r
 date: '2026-04-06'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: c210abc3373c52697075c12ba1e4aa1c2e6a92c8aa0eb1304bb3793e6768c463

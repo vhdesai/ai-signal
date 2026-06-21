@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: Yahoo Finance / TechCrunch
 url_original: https://investors.cerebras.ai/
 url_canonical: https://investors.cerebras.ai/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 01c480bfad407519c28c922d81a56346193f9a32373892cd2c9f8908ef7932ee

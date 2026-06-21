@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: VentureBeat; CIO.com
 url_original: https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
 url_canonical: https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
 content_hash: 223a2bb6bef7945eb3fa4bea9462ad16e0a9b8e1168ed69ea6cb7e43bf89835d

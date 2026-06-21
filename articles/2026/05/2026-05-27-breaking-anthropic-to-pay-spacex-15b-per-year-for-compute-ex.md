@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: Axios AI+
 url_original: https://www.axios.com/
 url_canonical: https://www.axios.com/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: d4c7590f8a12dc24e19eb0a278dd4d7d7aec64c6dad5e379d61428e9ef5c13c4

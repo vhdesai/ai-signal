@@ -5,8 +5,8 @@ title: suspect threw a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco
 date: '2026-04-09'
 source: 🔥 TRENDING TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://apnews.com/article/chatgpt-sam-altman-fire-arrest-b10d8ae447dbddb1a1a6e72bec13a02d
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 80aea44324dbf2e5fdbfc2ae367fa27a90d7e761ead5e59e38fabab7d5a03e8d
@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
 - 2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i
-- 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
 embedding_id: 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ suspect threw a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home a
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens]]
+**Related:** [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-05-13-sam-altman-s-personal-investments-trigger-gop-probe-and-sec]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]]
 <!-- graph:end -->

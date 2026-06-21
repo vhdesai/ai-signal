@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: TIME
 url_original: https://www.businesstoday.in/technology/artificial-intelligence/story/indian-government-tech-firm-join-forces-to-test-anthropics-claude-mythos-report-533512-2026-05-27
 url_canonical: https://www.businesstoday.in/technology/artificial-intelligence/story/indian-government-tech-firm-join-forces-to-test-anthropics-claude-mythos-report-533512-2026-05-27
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: e3242a2daf8e87d2b97e0aee9c495813c8a28125bf0f5905b65edae072eac74b
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope
 embedding_id: 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In a candid TIME interview, Sam Altman publicly steps back from his earlier proj
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope]]
+**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Anthropic has quietly deployed a next-generation model internally codenam
 date: '2026-04-08'
 source: Meta · Meta Blog / CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://claudeapi.com/en/blog/news/anthropic-project-glasswing-mythos-10000-vulnerabilities-2026-05/
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 5f43db2896f41a2c75da24ed92d334305317bb5cec1aeb21729288b39b7ff538

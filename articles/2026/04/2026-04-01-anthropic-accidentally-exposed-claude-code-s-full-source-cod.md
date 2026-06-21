@@ -5,8 +5,8 @@ title: Anthropic accidentally exposed Claude Code's full source code — includi
 date: '2026-04-01'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html?m=1
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: e21b8f7998a7f576e00cf2d055e9e77c11d637f82e85c5cf8a5c8c4028a2208b

@@ -24,11 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
 - 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
-- 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut
 embedding_id: 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Commerce Department took steps to extend export controls to cover advanced A
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]]
+**Related:** [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
 <!-- graph:end -->

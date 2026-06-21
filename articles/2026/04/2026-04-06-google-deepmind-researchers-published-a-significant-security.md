@@ -5,8 +5,8 @@ title: Google DeepMind researchers published a significant security paper catalo
 date: '2026-04-06'
 source: Euronews
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: c9df2581443b0b3472700e8afe246010d49dc3a9cf7f65af5c04b805cca62803

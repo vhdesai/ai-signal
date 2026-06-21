@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: Firstpost**
 url_original: https://www.firstpost.com/tech/openai-is-hiring-robotics-engineers-as-sam-altman-lays-out-vision-for-ai-powered-humanoids-ws-e-14017360.html
 url_canonical: https://www.firstpost.com/tech/openai-is-hiring-robotics-engineers-as-sam-altman-lays-out-vision-for-ai-powered-humanoids-ws-e-14017360.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: 40412cd420483676f3eef69b71f87eca654454325e63dc11fd2eaecf29adaf27
 normalized_title_hash: f386c32afe8a1fe7
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
 - 2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s
-- 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is hiring robotics engineers for a new division spun out of its world-sim
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]]
+**Related:** [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]]
 <!-- graph:end -->

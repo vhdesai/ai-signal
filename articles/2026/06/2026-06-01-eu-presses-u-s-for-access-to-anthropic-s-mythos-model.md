@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
+- 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
-- 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 embedding_id: 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The European Commission is intensifying talks with Washington and Anthropic over
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]]
+**Related:** [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
 url_canonical: https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 4b8cabbb011ba67c245aff2c3a38f7de273b226e891c0a12a5aa8b0a14ca3e81

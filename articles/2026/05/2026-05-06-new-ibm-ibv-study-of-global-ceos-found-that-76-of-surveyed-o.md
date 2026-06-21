@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up
 - 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
-- 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
+- 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 embedding_id: 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
 event_name: ''
 ---
@@ -39,5 +39,5 @@ new IBM IBV study of global CEOs found that 76% of surveyed organizations now ha
 
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up]] · [[2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]]
+**Related:** [[2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up]] · [[2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]]
 <!-- graph:end -->

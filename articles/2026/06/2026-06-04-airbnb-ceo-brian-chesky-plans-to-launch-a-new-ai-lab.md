@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: TechCrunch; Bloomberg; Fortune
 url_original: https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/
 url_canonical: https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 597b42aa9914040475325fa3ad8328ea6ff84b87078d21c18ec2fa42e83c27ff

@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-broadcom-shares-plunge-after-ai-outlook-misses-high-investor-expectations/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-broadcom-shares-plunge-after-ai-outlook-misses-high-investor-expectations/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: aa0aadc56799d3221bf5e8361d75de979141169b4c780fdc1b24d6751236e34b
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
+- 2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie
 - 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
-- 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
-- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 embedding_id: 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Broadcom fell ~12–13% after fiscal Q2 results paired strong AI revenue growth 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]]
+**Related:** [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie]] · [[2026-06-02-u-s-futures-slip-after-ai-driven-record-highs]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

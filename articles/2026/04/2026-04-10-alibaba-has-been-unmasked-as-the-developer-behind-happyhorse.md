@@ -5,8 +5,8 @@ title: Alibaba has been unmasked as the developer behind HappyHorse-1.0, the ste
 date: '2026-04-10'
 source: DeepSeek · CnTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 6473b9772bd465ffe43ec750d65aff93859b07acee9e757663854d95967e022e

@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: TechCrunch
 url_original: https://www.firstpost.com/tech/wwdc-2026-apples-mysterious-new-gen-ai-website-hints-at-major-ai-announcements-14014766.html
 url_canonical: https://www.firstpost.com/tech/wwdc-2026-apples-mysterious-new-gen-ai-website-hints-at-major-ai-announcements-14014766.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-25_071611_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 1fb03c2f4d214425521eb0d494a3b4bbf591ba107a3961bd0d54073988fb810f

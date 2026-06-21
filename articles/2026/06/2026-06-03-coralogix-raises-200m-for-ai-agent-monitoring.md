@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: TechCrunch; N2K CyberWire
 url_original: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
 url_canonical: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: be24301bb39c946aff9de6f6afbb97bb7e32eac5787cbe3afd274fd938f6972d

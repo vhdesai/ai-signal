@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 embedding_id: 2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash
 event_name: ''
@@ -38,5 +39,5 @@ DuckDuckGo reported a roughly 30% surge in app installs over the past month as a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]]
+**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: MarkTechPost
 url_original: https://hai.stanford.edu/ai-index/2026-ai-index-report
 url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 83d825044435f1b0748199ec32f8788051fe4c50d926a444e5c3e1c0f7a271bd

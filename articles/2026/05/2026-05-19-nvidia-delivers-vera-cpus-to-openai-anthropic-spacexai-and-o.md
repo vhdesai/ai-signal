@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Benzinga
 url_original: https://www.benzinga.com/markets/tech/26/05/52653879/nvidia-vera-ai-cpus-spacex-anthropic-openai-elon-musk
 url_canonical: https://www.benzinga.com/markets/tech/26/05/52653879/nvidia-vera-ai-cpus-spacex-anthropic-openai-elon-musk
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 4b15b45965c3f9ed83cf45f669145d63c50fb0142123cc426c195f0a46495d99

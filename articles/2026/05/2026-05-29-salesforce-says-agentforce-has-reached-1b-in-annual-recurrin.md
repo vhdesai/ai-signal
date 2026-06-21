@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/salesforce-agentforce-earnings-saas-pocalypse/821413/
 url_canonical: https://www.ciodive.com/news/salesforce-agentforce-earnings-saas-pocalypse/821413/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 4026270ae1fa3de72fdf24254acfcf9afccf69eb307988e08e06017e2958cf3f
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
+- 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 - 2026-04-13-products-tools
-- 2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w
 embedding_id: 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIO Dive reported that Salesforce is leaning on Agentforce to sustain growth, wi
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-04-13-products-tools]] · [[2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-04-13-products-tools]]
 <!-- graph:end -->

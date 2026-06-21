@@ -6,8 +6,8 @@ title: OpenAI published a sweeping 13-page economic policy proposal advocating f
 date: '2026-04-06'
 source: Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/openai-robot-taxes-wealth-fund-superintelligence-policy
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: e849164c583553a1ea9b78bfd44ddf5573ab74d0681af1d11ca7c7a457dccf8a

@@ -5,8 +5,8 @@ title: Oracle notified 20,000–30,000 employees (~18% of its workforce) via pre
 date: '2026-04-01'
 source: Crunchbase
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/oracle-fired-30-000-workers-174000364.html
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: d6139b08631b10955e2c8a37c298bef2a6e15fede7cb6fd3fa1d61936351ad70

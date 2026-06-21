@@ -1,13 +1,39 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 608
+member_count: 634
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 608 connected article(s).
+> Auto-generated entity hub. 634 connected article(s).
 
+- `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|### OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-20` [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research|### OpenAI Testing "ChatGPT for Science" Subscription for Research Institutions]]
+- `2026-06-20` [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch|### GPT-5.6 Rumors Build Ahead of Rumored June 23 Launch]]
+- `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|### Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|### NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex|### GPT-5.6 Stealth Testing Rumors Intensify; Late-June Launch Expected]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad|### OpenAI: Small "Beneficial-Trait" RL Training Makes Models Broadly Safer]]
+- `2026-06-18` [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball|### OpenAI Hires Former White House AI Strategist Dean Ball]]
+- `2026-06-18` [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai|### Noam Shazeer Leaves Google Gemini for OpenAI]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot-policy|**Tags:** `BREAKING` `HOT` `POLICY`]]
+- `2026-06-17` [[2026-06-17-tags-breaking-hot|**Tags:** `BREAKING` `HOT`]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc|Neura Robotics plans to raise ~$1.2B for humanoid-robot production]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-14` [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar|Hot OpenAI launches Partner Network with $150M investment, targets 300K certified consultants]]
+- `2026-06-12` [[2026-06-12-state-attorneys-general-open-investigation-into-openai|### State Attorneys General Open Investigation into OpenAI]]
+- `2026-06-12` [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente|### OpenAI Accuses China of Influence Campaign on U.S. Data Centers]]
+- `2026-06-11` [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing|### Anthropic Pursues Data Center Leases; Seeks Google Backing]]
+- `2026-06-10` [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta|### SoftBank Faces More Friction on $6B Loan Backed by OpenAI Stake]]
+- `2026-06-10` [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex|### Sam Altman Tells Staff OpenAI Could Go Public Within the Next Year]]
+- `2026-06-10` [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl|### OpenAI–Anthropic Coding War Turns to Free Credits and One-Click Migration]]
+- `2026-06-10` [[2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models|### OpenAI Opens an Oracle Cloud Purchasing Path for Its Models and Codex]]
+- `2026-06-10` [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt|### OpenAI Moves Toward Product-Specific Ads on ChatGPT]]
+- `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|### Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
 - `2026-06-09` [[2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars|### Google Fires Warning Shot in AI Subscription Price Wars]]
 - `2026-06-09` [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac|### Axios: Anthropic and OpenAI Spark New Race for Frontier AI Access]]
 - `2026-06-09` [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access|### Anthropic and OpenAI Spark New Race for Frontier AI Access]]

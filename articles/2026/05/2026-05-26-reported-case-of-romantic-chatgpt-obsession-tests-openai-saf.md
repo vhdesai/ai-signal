@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: WinBuzzer
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 82df46c21e74efc7c99d0d6d4c477936590433ee94b41db1159e41cf8fd41b27
@@ -47,7 +47,7 @@ related_article_ids:
 - 2026-04-02-academic-research
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
+- 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
 embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
@@ -61,5 +61,5 @@ A reported case of romantic ChatGPT obsession has sharpened concerns over AI com
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-04-02-academic-research]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]]
+**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-04-02-academic-research]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]]
 <!-- graph:end -->

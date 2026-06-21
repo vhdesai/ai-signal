@@ -5,8 +5,8 @@ title: Florida Attorney General James Uthmeier announced a formal investigation 
 date: '2026-04-10'
 source: xAI · Insurance Journal / Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-launches-criminal-investigation-openai-chatgpt
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 29991e2fa4ecf2ae0bdf158bc96b206572b2ab17384ced7efb5b54903cea646e

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-academic-research
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
+- 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 embedding_id: 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The accepted-papers list for the 58th ACM Symposium on Theory of Computing was u
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-academic-research]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]]
+**Related:** [[2026-04-22-academic-research]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]]
 <!-- graph:end -->

@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 362
+member_count: 371
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 362 connected article(s).
+> Auto-generated entity hub. 371 connected article(s).
 
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|### Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|### Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
+- `2026-06-18` [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers|### Amazon Weighs Selling Trainium Chips to Outside Data Centers]]
+- `2026-06-17` [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o|### Nvidia ENPIRE: AI Agents Autonomously Run Robotics Research on Real Hardware]]
+- `2026-06-17` [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure|### NVIDIA Advances France's National AI Factory Infrastructure at VivaTech]]
+- `2026-06-17` [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve|### Foxconn Reveals Closed-Loop Physical AI Stack with Nvidia Vera Rubin]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-12` [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo|### Nvidia Begins Vera CPU Pitch to Chinese Clients Despite Export Controls]]
 - `2026-06-08` [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con|### Nvidia Signs Sweeping South Korea AI Deals; Memory Is the Constraint]]
 - `2026-06-08` [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports|### Nvidia CEO Declines Senate Testimony on AI, China, and Exports]]
 - `2026-06-08` [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai|### Amazon Strikes Multibillion-Dollar Corning Fiber Deal for AI Data Centers]]

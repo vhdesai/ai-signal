@@ -5,8 +5,8 @@ title: Microsoft launched its first-party MAI model suite — Transcribe-1 (spee
 date: '2026-04-02'
 source: 🔥 TRENDING Cursor
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: da3dc6bada62a33d9c5436735d38471928bc04f5350510acde2cda67b7c3d99b

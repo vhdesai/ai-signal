@@ -5,8 +5,8 @@ title: Oracle is reportedly planning layoffs of between 20,000 and 30,000 employ
 date: '2026-04-06'
 source: McKinsey
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 296f12518f2aa319ef1f4240883fe2a2df2536fd20bb3d3121cc66d06240257e

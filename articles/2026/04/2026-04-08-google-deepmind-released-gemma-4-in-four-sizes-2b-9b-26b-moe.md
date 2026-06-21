@@ -5,8 +5,8 @@ title: Google DeepMind released Gemma 4 in four sizes (2B, 9B, 26B MoE, 72B) und
 date: '2026-04-08'
 source: 🔥 TRENDING Mistral AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: fa9f12959dbee11ed2494a2ecf882211372596825c95647f96c07797a58d75e9

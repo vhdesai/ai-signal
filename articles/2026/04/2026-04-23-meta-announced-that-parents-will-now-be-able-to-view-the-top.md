@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
 - 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
+- 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
-- 2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what
 embedding_id: 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta announced that parents will now be able to view the topics their children h
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]]
+**Related:** [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
 <!-- graph:end -->

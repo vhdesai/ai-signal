@@ -5,8 +5,8 @@ title: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 
 date: null
 source: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://informedclearly.com/en/ai/56291/ai-industry-lawsuits-ipos-buildout-2026
+url_status: repaired
 digest_source: digests\raw\ai-news-digest-2026-06-02-2.md
 content_hash: 98822783215113d5e00761bfeaaadee8e7c2766b9f820a2343ed8a4a6d53b8cf
 normalized_title_hash: 21591d254ea68be4
@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 - 2026-05-20-ai-news-digest-may-20-2026
-- 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
+- 2026-06-17-daily-ai-news-digest-june-18-2026
 embedding_id: event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 event_name: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 ---
@@ -44,5 +44,5 @@ This pass covers AI **company and industry** news confirmed published within the
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]]
+**Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]]
 <!-- graph:end -->

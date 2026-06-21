@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: ACM CAIS 2026
 url_original: https://www.caisconf.org/
 url_canonical: https://www.caisconf.org/
-url_status: found
+url_status: ok
 digest_source: digests\raw\acm-cais-2026.md
 content_hash: 825ccc769faba2c6b4d0365c7bab447712406015189db63b2d185b376f7da3f0
 normalized_title_hash: 12298fc4091b8407

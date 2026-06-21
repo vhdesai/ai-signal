@@ -6,7 +6,7 @@ date: '2026-06-03'
 source: The New York Times; TechRepublic; Anadolu Agency
 url_original: https://www.techrepublic.com/article/news-spacex-ipo-price-valuation/
 url_canonical: https://www.techrepublic.com/article/news-spacex-ipo-price-valuation/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: d21e76d370742de54ec92b240d3e2a4807faa4311fd66afcac6b82292235a51b

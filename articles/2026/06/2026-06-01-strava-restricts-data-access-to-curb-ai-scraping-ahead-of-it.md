@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: TechCrunch**
 url_original: https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
 url_canonical: https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: b7c2f0d382124f3029f08800f5f716d99102f1213cffdcbbcce37a6fa7bd912a
 normalized_title_hash: 0549515f2530a047
@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
-- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to
-- 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
+- 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
+- 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
+- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 embedding_id: 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Strava announced tighter limits on how third parties can access its activity dat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]]
+**Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]]
 <!-- graph:end -->

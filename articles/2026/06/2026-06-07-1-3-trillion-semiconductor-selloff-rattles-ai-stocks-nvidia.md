@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 - 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
-- 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
-- 2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend
+- 2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three
 embedding_id: 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 event_name: ''
 ---
@@ -39,5 +40,5 @@ A sharp semiconductor selloff wiped ~$1.3 trillion from AI chip stocks, ending W
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-05-nvidia-authorizes-record-80b-buyback-and-raises-dividend]]
+**Related:** [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Forbes
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ab1fb1bef7b12a8515691f0b142ed613ee3b8d82e8e70a4fc9bbeb8a8db63412
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc
 - 2026-04-08-source-forbes-msn-the-neuron
+- 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 - 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
-- 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
 embedding_id: 2026-05-26-inside-openai-s-new-founder-experience-team-led-by-laura-mod
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI formalized a dedicated Founder Experience team under Laura Modiano (ex-Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]]
+**Related:** [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]]
 <!-- graph:end -->

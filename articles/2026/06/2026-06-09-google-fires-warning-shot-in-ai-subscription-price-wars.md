@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
+- 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
 embedding_id: 2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google cut pricing on AI subscriptions, in what TechCrunch called "a warning sho
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]]
+**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]]
 <!-- graph:end -->

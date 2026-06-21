@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: Axios
 url_original: https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access
 url_canonical: https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-10_060030_Daily-AI-News-Digest.md
 content_hash: 8221f1d6bdcd82dbad182fb838bd154dfecb796740a8ed8a4375805e3d0c4bee
 normalized_title_hash: 7b1687801ece7eca

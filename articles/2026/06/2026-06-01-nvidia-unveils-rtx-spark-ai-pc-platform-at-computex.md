@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: PCWorld
 url_original: https://www.pcworld.com/article/3152460/nvidia-rtx-spark-chip-reinvents-laptops-for-agentic-ai.html
 url_canonical: https://www.pcworld.com/article/3152460/nvidia-rtx-spark-chip-reinvents-laptops-for-agentic-ai.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: a8878977ad2f5084d68eb6a692dbd2e34239942d486721af430bdca13bbabc87
 normalized_title_hash: 68bd79613384c5f2

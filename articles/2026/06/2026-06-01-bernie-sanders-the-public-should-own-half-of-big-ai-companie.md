@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: The New York Times
 url_original: https://www.nytimes.com/2026/06/01/opinion/bernie-sanders-ai-companies.html
 url_canonical: https://www.nytimes.com/2026/06/01/opinion/bernie-sanders-ai-companies.html
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 1634779b11da0559828be68b9e08b255b15679d93b41df6adbf7402056021f7b
 normalized_title_hash: f19c2d65e94f3016

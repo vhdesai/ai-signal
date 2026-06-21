@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: x.ai News
 url_original: https://x.ai/news
 url_canonical: https://x.ai/news
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 5e77748f999b5cabcf1845c131d5f3fccd8870fe02201131e9c49aaba57cc4f5

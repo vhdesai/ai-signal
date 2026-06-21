@@ -5,8 +5,8 @@ title: 'Four independent keynotes at RSAC 2026 converged on the same conclusion:
 date: '2026-04-09'
 source: Google / Intel · CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://shellwire.com/article/four-separate-rsac-2026-keynotes-arrived-at-the-same-conclusion-this-week-withou
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 883a29f70d4208250f9762dbb019f9d912f1dd9e581ebbcd1309e0f8e1a85b7b

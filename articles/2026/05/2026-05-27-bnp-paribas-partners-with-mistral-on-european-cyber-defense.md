@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Bloomberg
 url_original: https://aiweekly.co/
 url_canonical: https://aiweekly.co/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 8ac48762cefb0c40f0be83219ab76677142da3324f5cd510609327071f0d7c7d

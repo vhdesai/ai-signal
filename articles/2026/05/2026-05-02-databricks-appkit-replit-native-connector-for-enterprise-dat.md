@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins
+- 2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-- 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
 embedding_id: 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Databricks announced AppKit, a new accelerator for enterprise apps, and a privat
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]]
+**Related:** [[2026-05-26-replit-databricks-lakebase-launch-partner-vibe-code-apps-ins]] · [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]]
 <!-- graph:end -->

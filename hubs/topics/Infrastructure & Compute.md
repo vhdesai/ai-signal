@@ -1,15 +1,46 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 623
+member_count: 654
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 623 connected article(s).
+> Auto-generated topic hub. 654 connected article(s).
 
+- `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|### OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|### Forbes: Energy Sovereignty Will Decide the AI Race]]
+- `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|### Nadella: "There Is No Societal Permission" for AI Concentration]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|### NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|### Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|### Commerce Department Claims Unprecedented Power Over AI Models]]
+- `2026-06-18` [[2026-06-18-tags-policy|**Tags:** `POLICY`]]
+- `2026-06-18` [[2026-06-18-tags-funding-hot|**Tags:** `FUNDING` `HOT`]]
+- `2026-06-18` [[2026-06-18-midjourney-launches-medical-division-with-full-body-ultrasou|### Midjourney Launches Medical Division with Full-Body Ultrasound Scanner]]
+- `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|### Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
+- `2026-06-18` [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions|### Meta Unveils AI Ad and Commerce Tools at Cannes Lions]]
+- `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|### Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
+- `2026-06-18` [[2026-06-18-ferc-fast-tracks-data-center-power-requests|### FERC Fast-Tracks Data-Center Power Requests]]
+- `2026-06-18` [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers|### Amazon Weighs Selling Trainium Chips to Outside Data Centers]]
+- `2026-06-17` [[2026-06-17-daily-ai-news-digest-june-18-2026|Daily AI News Digest – June 18, 2026]]
+- `2026-06-17` [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure|### NVIDIA Advances France's National AI Factory Infrastructure at VivaTech]]
+- `2026-06-17` [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve|### Foxconn Reveals Closed-Loop Physical AI Stack with Nvidia Vera Rubin]]
+- `2026-06-16` [[2026-06-16-tags-benchmark|**Tags:** `BENCHMARK`]]
+- `2026-06-12` [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente|### OpenAI Accuses China of Influence Campaign on U.S. Data Centers]]
+- `2026-06-12` [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo|### Nvidia Begins Vera CPU Pitch to Chinese Clients Despite Export Controls]]
+- `2026-06-11` [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever|### Prometheus Raises $12B — Largest AI Startup Round Ever]]
+- `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie|### Oracle Beat Earnings but Fell 11% — AI Capex Anxiety Intensifies]]
+- `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|### Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
+- `2026-06-11` [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms|### Deezer Launches Free AI Music Detector Across Platforms]]
+- `2026-06-11` [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing|### Anthropic Pursues Data Center Leases; Seeks Google Backing]]
+- `2026-06-10` [[2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china|### Taiwan Weighs Tighter AI-Chip Export Controls on China]]
+- `2026-06-10` [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta|### SoftBank Faces More Friction on $6B Loan Backed by OpenAI Stake]]
+- `2026-06-10` [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex|### Sam Altman Tells Staff OpenAI Could Go Public Within the Next Year]]
+- `2026-06-10` [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness|### Oracle's AI Cloud Surge Is Offset by Software Weakness]]
 - `2026-06-10` [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in|### Morgan Stanley: Global AI Debt Issuance to Top $500 Billion in 2026]]
+- `2026-06-10` [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat|### Microsoft's Xbox Unit Plans Staff Cuts as Margins Deteriorate]]
 - `2026-06-10` [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance|### Meta Signs First AI Data Center Deal in India with Reliance]]
+- `2026-06-10` [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai|### German Court Says Google Is Responsible for AI Overview Claims]]
 - `2026-06-09` [[2026-06-09-reuters-will-ai-become-a-public-utility|### Reuters: Will AI Become a Public Utility?]]
 - `2026-06-09` [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog|### Oracle Reports Earnings with Record $553B AI Backlog]]
 - `2026-06-09` [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe|### Lovable Hits $500M Annualized Revenue with 1M New Projects Per Week]]

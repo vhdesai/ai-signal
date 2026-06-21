@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 130
+member_count: 136
 ---
 
 # xAI
 
-> Auto-generated entity hub. 130 connected article(s).
+> Auto-generated entity hub. 136 connected article(s).
 
+- `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|### Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-06-15` [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in|New xAI ships Agent Dashboard in Grok Build and "Use Grok in Warp" integration]]
+- `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
+- `2026-06-12` [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona|### SpaceX IPO: $75B at $1.75T; Musk Becomes World's First Trillionaire]]
+- `2026-06-11` [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing|### Anthropic Pursues Data Center Leases; Seeks Google Backing]]
 - `2026-06-07` [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake|### Over 100 Campaigners Back UK MP Suing xAI Over Grok Deepfake Images]]
 - `2026-06-06` [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump|### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge]]
 - `2026-06-05` [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june|SpaceX's Record $75B IPO Already Oversubscribed; Pricing June 11]]

@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
+- 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
 - 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
-- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 embedding_id: 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
+**Related:** [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]]
 <!-- graph:end -->

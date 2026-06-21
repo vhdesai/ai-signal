@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
+- 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
+- 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 - 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
-- 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
-- 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
 embedding_id: 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The EU ordered Meta to allow rival AI assistants back onto WhatsApp under Digita
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]]
+**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]]
 <!-- graph:end -->

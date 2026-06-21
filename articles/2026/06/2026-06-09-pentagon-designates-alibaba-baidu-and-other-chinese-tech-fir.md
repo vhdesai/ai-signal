@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
+- 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
-- 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
-- 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
-- 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 embedding_id: 2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Pentagon added Alibaba, Baidu, and other Chinese tech companies to its CMC L
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[DeepSeek]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]] · [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]]
+**Related:** [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]]
 <!-- graph:end -->

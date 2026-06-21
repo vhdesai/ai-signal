@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 - 2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
-- 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 embedding_id: 2026-05-31-microsoft-confirms-no-windows-12-teases-nvidia-n1x-arm-pc-ah
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft clarified it is not launching a "Windows 12" branded release, while te
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]]
+**Related:** [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super]] · [[2026-05-30-first-windows-pcs-using-nvidia-chips-as-main-processor-debut]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]]
 <!-- graph:end -->

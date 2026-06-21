@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: Forbes
 url_original: https://www.forbes.com/
 url_canonical: https://www.forbes.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: d7f1211d98a7ae3ca883315a4b6baa74794b1d68a5b0ffdcc85062a2e56d6e97

@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 - 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 - 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
-- 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
+- 2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe
 embedding_id: 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 event_name: ''
 ---
@@ -37,5 +38,5 @@ More than 100 campaigners and organizations are now backing a UK MP's lawsuit ag
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post]]
+**Related:** [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-06-04'
 source: Politico; FedScoop; Nextgov/FCW
 url_original: https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920
 url_canonical: https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: f20524bc1122e3922846d49805e1527a31a9e02e55708420a4f9f780634a55f1

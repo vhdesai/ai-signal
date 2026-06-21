@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 77
+member_count: 78
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 77 connected article(s).
+> Auto-generated entity hub. 78 connected article(s).
 
+- `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|### Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu|### Huawei Confirms Ascend 950DT AI Chip for August; Pledges Annual Chip Cadence]]

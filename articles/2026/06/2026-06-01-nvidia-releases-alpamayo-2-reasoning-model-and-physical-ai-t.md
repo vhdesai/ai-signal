@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/
 url_canonical: https://nvidianews.nvidia.com/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: d024880acbcb6f34462fe574185463d89b974bacc141f5ea19c62684679d1312
 normalized_title_hash: ca7a5abda7875e75

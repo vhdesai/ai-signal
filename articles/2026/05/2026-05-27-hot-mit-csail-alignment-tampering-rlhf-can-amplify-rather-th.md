@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: arXiv cs.AI · Hahm, Hadfield-Menell (MIT CSAIL), Lee
 url_original: https://arxiv.org/list/cs.AI/recent
 url_canonical: https://arxiv.org/list/cs.AI/recent
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 0a9a70944ac0af1e787556a55a516dff7654c364072c08fccb0bb3e09c517474

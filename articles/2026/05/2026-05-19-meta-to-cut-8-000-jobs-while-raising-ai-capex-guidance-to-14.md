@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: TechRepublic
 url_original: https://www.techrepublic.com/article/news-meta-ai-spending-job-cuts-may-2026/
 url_canonical: https://www.techrepublic.com/article/news-meta-ai-spending-job-cuts-may-2026/
-url_status: found
+url_status: broken
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: f53046382f2326eb4fdc438920d32da82072a227c858635c3d502770cb2d4dec

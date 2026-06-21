@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: Springer Nature
 url_original: https://link.springer.com/subjects/artificial-intelligence
 url_canonical: https://link.springer.com/subjects/artificial-intelligence
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: bca846e65aa51d3da2da1e84421d2b8171c01278845655c84dcba27879e8d099
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
+- 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 embedding_id: 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Springer's AI feed published several peer-reviewed papers, including "Explainabl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
 <!-- graph:end -->

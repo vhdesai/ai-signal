@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/machine-learning/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan/
 url_canonical: https://aithority.com/machine-learning/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 93da8a23776076aad82428d7100a8f766d6982d1e9a77116ee5b7002181ee53f
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications
-- 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
+- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 embedding_id: 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NVIDIA, Foxconn and Taiwan medical centers announced work to bring agentic and p
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]]
+**Related:** [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-strategic-implications]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/deepseek-eyes-7-4-billion-123039218.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/deepseek-eyes-7-4-billion-123039218.html
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 51699de7285249652e5d02d9f8b1e7dd6123d5a1604c28d6040f8baa3a88f5d2

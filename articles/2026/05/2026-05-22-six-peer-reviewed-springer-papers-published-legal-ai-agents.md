@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Springer Machine Learning / AI Journals
 url_original: https://link.springer.com/subjects/machine-learning
 url_canonical: https://link.springer.com/subjects/machine-learning
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: dd60c8902daf5994e88c752e1fb022b1094cabaadb1ec35f4104049db3b0f537
@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
-- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 embedding_id: 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Springer published six peer-reviewed papers in the 24-hour window covering appli
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
+**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
 <!-- graph:end -->

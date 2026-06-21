@@ -5,7 +5,7 @@ date: '2026-05-22'
 source: 'Source: The Motley Fool'
 url_original: https://www.fool.com/investing/2026/05/22/wall-streets-favorite-ai-stock-vs-the-one-theyre-i/
 url_canonical: https://www.fool.com/investing/2026/05/22/wall-streets-favorite-ai-stock-vs-the-one-theyre-i/
-url_status: found
+url_status: ok
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 420135c33d46744f23da25b23c4c3a95d93e756109b8a1a3b9e023870995e3b9
