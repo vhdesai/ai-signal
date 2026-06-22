@@ -1,0 +1,16 @@
+{
+  "run_id": "20260622T163647+0000-400d6f",
+  "started_at": "2026-06-22T16:36:47+00:00",
+  "finished_at": "2026-06-22T16:36:53+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 286,
+      "digests_changed": 2,
+      "changed": [
+        "news\\2026-06-22_000000_Publication-Sources.md",
+        "news\\2026-06-22_070000_Final-Daily-AI-News-Digest.md"
+      ]
+    }
+  }
+}

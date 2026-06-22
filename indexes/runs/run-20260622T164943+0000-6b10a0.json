@@ -1,0 +1,12 @@
+{
+  "run_id": "20260622T164943+0000-6b10a0",
+  "started_at": "2026-06-22T16:49:43+00:00",
+  "finished_at": "2026-06-22T16:49:43+00:00",
+  "summary": {
+    "command": "publish",
+    "result": {
+      "status": "dry-run",
+      "note": "site/ generated locally; no remote publish configured"
+    }
+  }
+}

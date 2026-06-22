@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
+- 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
-- 2026-04-01-products-tools
 embedding_id: 2026-05-06-hotapple-plans-ios-27-as-a-choose-your-own-adventure-of-ai-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple is planning to make iOS 27 a multi-model AI platform, allowing users to se
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-04-01-products-tools]]
+**Related:** [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]]
 <!-- graph:end -->

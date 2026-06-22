@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 347
+member_count: 351
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 347 connected article(s).
+> Auto-generated entity hub. 351 connected article(s).
 
+- `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
+- `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
+- `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
+- `2026-06-22` [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai|Chevron Strikes Power Deal with Microsoft for West Texas AI Data Center]]
 - `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|Nadella: "There Is No Societal Permission" for AI Concentration]]
 - `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]
 - `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]

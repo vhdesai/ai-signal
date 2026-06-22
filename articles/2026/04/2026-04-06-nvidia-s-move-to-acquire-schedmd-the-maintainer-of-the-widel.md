@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
-- 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
 embedding_id: 2026-04-06-nvidia-s-move-to-acquire-schedmd-the-maintainer-of-the-widel
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Oracle Cutting Up to 30,000 Jobs to Fund AI Data Center Expansion
 
 **Entities:** [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]]
+**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]]
 <!-- graph:end -->

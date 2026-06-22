@@ -1,16 +1,19 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 535
+member_count: 538
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 535 connected article(s).
+> Auto-generated topic hub. 538 connected article(s).
 
+- `2026-06-22` [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde|Trump Administration Plans Pre-Release AI Model Testing Under Cybersecurity Order]]
+- `2026-06-22` [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be|Five Eyes Warning Says Destabilizing AI Capabilities May Be Months Away]]
 - `2026-06-21` [[2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war|US States Forge Ahead with AI Regulation Despite Trump's Warnings]]
 - `2026-06-21` [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine|Politico: "The AI Ghost in the Nuclear War Machine"]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
+- `2026-06-21` [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits|Anthropic Crackdown Debate Shifts to Who Benefits]]
 - `2026-06-19` [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat|Trump: Anthropic No Longer a National Security Threat]]
 - `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|Commerce Department Claims Unprecedented Power Over AI Models]]
 - `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]

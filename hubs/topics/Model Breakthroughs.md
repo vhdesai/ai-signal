@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1055
+member_count: 1056
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1055 connected article(s).
+> Auto-generated topic hub. 1056 connected article(s).
 
+- `2026-06-22` [[2026-06-22-nvidia-announces-halos-safety-system-for-robotics|NVIDIA Announces Halos Safety System for Robotics]]
 - `2026-06-20` [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch|GPT-5.6 Rumors Build Ahead of Rumored June 23 Launch]]
 - `2026-06-19` [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex|GPT-5.6 Stealth Testing Rumors Intensify; Late-June Launch Expected]]
 - `2026-06-18` [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model|Zhipu AI's GLM-5.2 Ranked Leading Open-Weights Model]]

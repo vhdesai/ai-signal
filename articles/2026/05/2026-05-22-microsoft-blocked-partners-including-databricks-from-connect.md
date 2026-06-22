@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen
 - 2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi
 - 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
+- 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
 embedding_id: 2026-05-22-microsoft-blocked-partners-including-databricks-from-connect
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Anthropic in Talks to Use Microsoft's Maia 200 AI Chips
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen]] · [[2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]]
+**Related:** [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen]] · [[2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
 <!-- graph:end -->

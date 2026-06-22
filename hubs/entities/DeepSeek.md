@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 140
+member_count: 141
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 140 connected article(s).
+> Auto-generated entity hub. 141 connected article(s).
 
+- `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]

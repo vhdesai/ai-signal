@@ -1,13 +1,16 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 574
+member_count: 577
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 574 connected article(s).
+> Auto-generated topic hub. 577 connected article(s).
 
+- `2026-06-22` [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers|Europe Unveils a Record 35 New NVIDIA AI Supercomputers]]
+- `2026-06-22` [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai|Chevron Strikes Power Deal with Microsoft for West Texas AI Data Center]]
+- `2026-06-21` [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center|Morgan Stanley Pitches Leveraged Loan Market for Data Center Financing]]
 - `2026-06-19` [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally|Micron Earnings Viewed as Critical Test for AI Rally]]
 - `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
 - `2026-06-18` [[2026-06-18-ferc-fast-tracks-data-center-power-requests|FERC Fast-Tracks Data-Center Power Requests]]

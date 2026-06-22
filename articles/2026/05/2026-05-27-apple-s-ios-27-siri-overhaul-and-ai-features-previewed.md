@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
 embedding_id: 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Bloomberg reported new internal images of Apple's redesigned iOS 27 Siri experie
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]]
+**Related:** [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
 <!-- graph:end -->

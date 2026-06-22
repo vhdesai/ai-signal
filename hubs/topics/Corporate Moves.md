@@ -1,15 +1,21 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1222
+member_count: 1228
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1222 connected article(s).
+> Auto-generated topic hub. 1228 connected article(s).
 
+- `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
+- `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
+- `2026-06-22` [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools|Google Invests $75M in A24 for AI-Powered Filmmaking Tools]]
+- `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-21` [[2026-06-21-wsj-record-insider-selling-at-ai-companies-is-a-giant-warnin|WSJ: Record Insider Selling at AI Companies Is a "Giant Warning Sign"]]
+- `2026-06-21` [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic|SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic]]
 - `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-21` [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri|Apple's Practical iOS 27 AI Features Move Beyond Siri]]
 - `2026-06-20` [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research|OpenAI Testing "ChatGPT for Science" Subscription for Research Institutions]]
 - `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|Nadella: "There Is No Societal Permission" for AI Concentration]]
 - `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]

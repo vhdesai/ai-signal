@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 132
+member_count: 133
 ---
 
 # Apple
 
-> Auto-generated entity hub. 132 connected article(s).
+> Auto-generated entity hub. 133 connected article(s).
 
+- `2026-06-21` [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri|Apple's Practical iOS 27 AI Features Move Beyond Siri]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
 - `2026-06-11` [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms|Deezer Launches Free AI Music Detector Across Platforms]]

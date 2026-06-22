@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 488
+member_count: 489
 ---
 
 # Google
 
-> Auto-generated entity hub. 488 connected article(s).
+> Auto-generated entity hub. 489 connected article(s).
 
+- `2026-06-22` [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools|Google Invests $75M in A24 for AI-Powered Filmmaking Tools]]
 - `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
 - `2026-06-18` [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai|Noam Shazeer Leaves Google Gemini for OpenAI]]
 - `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]

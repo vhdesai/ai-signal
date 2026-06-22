@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 368
+member_count: 370
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 368 connected article(s).
+> Auto-generated entity hub. 370 connected article(s).
 
+- `2026-06-22` [[2026-06-22-nvidia-announces-halos-safety-system-for-robotics|NVIDIA Announces Halos Safety System for Robotics]]
+- `2026-06-22` [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers|Europe Unveils a Record 35 New NVIDIA AI Supercomputers]]
 - `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
 - `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
 - `2026-06-17` [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o|Nvidia ENPIRE: AI Agents Autonomously Run Robotics Research on Real Hardware]]

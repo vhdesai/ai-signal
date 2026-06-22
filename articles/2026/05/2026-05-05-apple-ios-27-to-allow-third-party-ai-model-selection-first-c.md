@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-hotapple-plans-ios-27-as-a-choose-your-own-adventure-of-ai-m
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
+- 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
-- 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 embedding_id: 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple announced on May 5 that iOS 27 will allow users to select from multiple th
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-06-hotapple-plans-ios-27-as-a-choose-your-own-adventure-of-ai-m]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]]
+**Related:** [[2026-05-06-hotapple-plans-ios-27-as-a-choose-your-own-adventure-of-ai-m]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]]
 <!-- graph:end -->

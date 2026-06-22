@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
-- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 embedding_id: 2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Taiwan considering tighter export controls on AI chips bound for China to align 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
+**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]]
 <!-- graph:end -->

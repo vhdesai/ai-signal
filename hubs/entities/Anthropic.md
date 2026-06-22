@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 592
+member_count: 595
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 592 connected article(s).
+> Auto-generated entity hub. 595 connected article(s).
 
+- `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
+- `2026-06-21` [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic|SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic]]
 - `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
+- `2026-06-21` [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits|Anthropic Crackdown Debate Shifts to Who Benefits]]
 - `2026-06-19` [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat|Trump: Anthropic No Longer a National Security Threat]]
 - `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
 - `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]

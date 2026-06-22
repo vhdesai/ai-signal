@@ -1,13 +1,14 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 327
+member_count: 328
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 327 connected article(s).
+> Auto-generated topic hub. 328 connected article(s).
 
+- `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
 - `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|Commerce Department Claims Unprecedented Power Over AI Models]]
 - `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]

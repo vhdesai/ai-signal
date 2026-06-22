@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
+- 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 embedding_id: 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The Center for AI Standards and Innovation (CAISI), a Commerce Department body, 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-breakingtrump-administration-signs-pre-deployment-ai-testing]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]]
+**Related:** [[2026-05-05-breakingtrump-administration-signs-pre-deployment-ai-testing]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]]
 <!-- graph:end -->

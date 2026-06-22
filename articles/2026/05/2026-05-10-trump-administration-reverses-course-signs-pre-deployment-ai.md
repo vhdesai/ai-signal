@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 - 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
+- 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 embedding_id: 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a notable policy reversal, the Trump administration signed pre-deployment AI 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
+**Related:** [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]]
 <!-- graph:end -->
