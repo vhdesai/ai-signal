@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-- 2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati
 - 2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de
+- 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 - 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
 embedding_id: 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
 event_name: ''
@@ -42,5 +42,5 @@ DOD CTO Emil Michael disclosed the Pentagon is actively using Anthropic's Mythos
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-06-05-nsa-reportedly-readying-anthropic-s-mythos-for-cyber-operati]] · [[2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]]
+**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]]
 <!-- graph:end -->

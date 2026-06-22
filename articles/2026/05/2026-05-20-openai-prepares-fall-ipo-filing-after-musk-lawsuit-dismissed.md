@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-04-13-industry-news
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
 - 2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation
+- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 embedding_id: 2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed
 event_name: ''
 ---
@@ -39,5 +40,5 @@ With Elon Musk's two-year suit dismissed, OpenAI is preparing to file for an IPO
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]]
+**Related:** [[2026-04-13-industry-news]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-21-openai-files-confidential-ipo-targeting-1-trillion-valuation]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
 <!-- graph:end -->

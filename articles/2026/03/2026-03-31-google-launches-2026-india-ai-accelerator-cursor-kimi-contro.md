@@ -4,8 +4,8 @@ title: Google Launches 2026 India AI Accelerator; Cursor Kimi Controversy Contin
 date: '2026-03-31'
 source: Business News This Week
 url_original: null
-url_canonical: https://blog.google/intl/en-in/inviting-ai-first-startups-to-apply-for-google-for-startups-accelerator-india/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 0de62c04cc9e074e64e6bc375709842a36ed2043794833ba6f7465f8ed9df970
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
 - 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
 - 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
-- 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
+- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
 embedding_id: 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google opened applications for its 2026 India Startups Accelerator — a three-m
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]]
+**Related:** [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 - 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
-- 2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und
 - 2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i
+- 2026-04-13-industry-news
 embedding_id: 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A jury rejected Elon Musk's $150 billion lawsuit against OpenAI and CEO Sam Altm
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und]] · [[2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i]]
+**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i]] · [[2026-04-13-industry-news]]
 <!-- graph:end -->

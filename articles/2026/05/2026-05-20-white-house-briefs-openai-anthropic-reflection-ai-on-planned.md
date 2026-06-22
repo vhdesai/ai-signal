@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
 - 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
+- 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
 embedding_id: 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The White House Office of the National Cyber Director hosted a Tuesday briefing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett]] · [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]]
+**Related:** [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]] · [[2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett]]
 <!-- graph:end -->

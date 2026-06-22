@@ -1,20 +1,20 @@
 ---
 article_id: 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
-title: '### Worldcoin Doing Layoffs as OpenAI Files for IPO'
+title: Worldcoin Doing Layoffs as OpenAI Files for IPO
 date: '2026-06-08'
 source: TechCrunch
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/
+url_canonical: https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/
+url_status: ok
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
-content_hash: bc4c77745bc981b9d8d7e80332828a80bdbda4db72947317f90328055e31ddb9
+content_hash: ab09d8330efddbd5b981e45ccbbbcceca51ddbdb276f95f8b8e5b8c2760f31d6
 normalized_title_hash: 97a0fc28c5633d65
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: dd2fc5523c04b814
+tags:
+- Trending
 entities:
 - OpenAI
 themes:
-- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -24,14 +24,14 @@ embedding_id: 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
 event_name: ''
 ---
 
-# ### Worldcoin Doing Layoffs as OpenAI Files for IPO
+# Worldcoin Doing Layoffs as OpenAI Files for IPO
 
-Altman's eye-scanning identity company Worldcoin is conducting layoffs just as OpenAI files its IPO paperwork. The juxtaposition raises questions about the sustainability of the broader Altman portfolio. - [TechCrunch](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/) --- ## Infrastructure **Tags:** `HOT`
+Altman's eye-scanning identity company Worldcoin is conducting layoffs just as OpenAI files its IPO paperwork. The juxtaposition raises questions about the sustainability of the broader Altman portfolio.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope]]
 <!-- graph:end -->

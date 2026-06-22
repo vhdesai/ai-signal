@@ -10,7 +10,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\Apple WWDC 2026 Preview - Siri Extensions Vision Pro and
   Privacy AI.md
-content_hash: 3d9b64ac84fc02ca2bb4be20d658b0ab0d39ebbe814413f85ae90bf00a5bccb2
+content_hash: d49389fe450624abdb0f9625d2eef4418a43993b7377e8130ba224fff6bd03b0
 normalized_title_hash: 045d79d353941739
 canonical_url_hash: ''
 tags:
@@ -35,7 +35,7 @@ event_name: 'Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation 
 
 # Apple WWDC 2026 Preview: Siri Extensions, Vision Pro 2, Foundation Models, and Privacy AI — Strategic Implications
 
-- **Apple may become a neutral AI distribution layer:** Opening Siri could reduce dependency on any single model provider while monetizing subscriptions through the App Store. - **Privacy remains Apple's AI wedge:** Apple will compete less on raw cloud-model speed and more on trust, device context, and integrated UX. - **Developer APIs are critical:** Foundation Models access gives developers a native path to AI features without third-party cloud costs or privacy tradeoffs. - **Vision Pro stays strategic despite slow adoption:** A Vision Pro 2 would keep Apple's spatial computing platform alive for enterprise and premium use cases. - **Platform control remains the business model:** Even openness to Gemini/Claude would likely be mediated through Apple settings, entitlements, and App Store economics.
+Apple may become a neutral AI distribution layer: Opening Siri could reduce dependency on any single model provider while monetizing subscriptions through the App Store. - Privacy remains Apple's AI wedge: Apple will compete less on raw cloud-model speed and more on trust, device context, and integrated UX. - Developer APIs are critical: Foundation Models access gives developers a native path to AI features without third-party cloud costs or privacy tradeoffs. - Vision Pro stays strategic despite slow adoption: A Vision Pro 2 would keep Apple's spatial computing platform alive for enterprise and premium use cases. - Platform control remains the business model: Even openness to Gemini/Claude would likely be mediated through Apple settings, entitlements, and App Store economics.
 
 <!-- graph:start -->
 ## Connections

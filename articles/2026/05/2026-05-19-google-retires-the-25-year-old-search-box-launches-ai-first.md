@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 - event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
+- 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 embedding_id: 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
 event_name: ''
@@ -36,5 +36,5 @@ Google officially retired the classic search box paradigm — a white rectangle 
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
+**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
 <!-- graph:end -->

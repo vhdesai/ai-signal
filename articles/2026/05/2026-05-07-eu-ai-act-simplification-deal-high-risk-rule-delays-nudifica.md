@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
+canonical_article_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 related_article_ids: []
 embedding_id: 2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica
 event_name: ''
@@ -35,5 +35,5 @@ The EU reached a provisional agreement to simplify the AI Act's compliance oblig
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
+**Canonical:** [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]]
 <!-- graph:end -->

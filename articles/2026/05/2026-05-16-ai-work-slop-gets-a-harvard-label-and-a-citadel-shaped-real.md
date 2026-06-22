@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
-- 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
+- 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
+- 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
-- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 embedding_id: 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Harvard working paper has formalized "AI work slop" — outputs that are polis
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]]
+**Related:** [[2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
 <!-- graph:end -->

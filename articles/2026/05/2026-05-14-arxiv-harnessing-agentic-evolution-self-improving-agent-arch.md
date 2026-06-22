@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
-- 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
+- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 embedding_id: 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 event_name: ''
 ---
@@ -41,5 +41,5 @@ This paper presents a framework in which AI agents use evolutionary search algor
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
+**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

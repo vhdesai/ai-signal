@@ -7,7 +7,7 @@ url_original: https://io.google/2026/
 url_canonical: https://io.google/2026/
 url_status: ok
 digest_source: digests\raw\google-android-show-2026.md
-content_hash: c2149ba0f97abc15bbc1a559b8129b227949ff79797b6d3dc7c0e7a53602b828
+content_hash: 778f99d5f354eb5a863d9dfb487051877e81b3da60c6952fccb9cc01ea0f271e
 normalized_title_hash: 645ae01c3956ef51
 canonical_url_hash: 8e1579ed419494c9
 tags:
@@ -32,7 +32,7 @@ event_name: Google Android Show 2026
 
 # Google Android Show 2026 — Strategic Implications
 
-- **OS-level AI becomes hardware strategy:** Google is not just adding Gemini to apps; it is building device categories around it. - **PC market challenge:** Googlebooks aim at Windows AI PCs and Apple Silicon Macs while using Android app scale as a wedge. - **Developer opportunity:** Android developers could gain a laptop-class AI surface without rewriting for a separate desktop platform. - **Ecosystem risk:** Success depends on OEM execution, app compatibility, enterprise manageability, and whether Gemini-native UX beats traditional desktop workflows.
+OS-level AI becomes hardware strategy: Google is not just adding Gemini to apps; it is building device categories around it. - PC market challenge: Googlebooks aim at Windows AI PCs and Apple Silicon Macs while using Android app scale as a wedge. - Developer opportunity: Android developers could gain a laptop-class AI surface without rewriting for a separate desktop platform. - Ecosystem risk: Success depends on OEM execution, app compatibility, enterprise manageability, and whether Gemini-native UX beats traditional desktop workflows.
 
 <!-- graph:start -->
 ## Connections

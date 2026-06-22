@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
+- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 embedding_id: 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
 event_name: ''
 ---
@@ -38,5 +39,5 @@ At Google's Leaders Connect event, DeepMind senior director Manish Gupta warned 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]]
+**Related:** [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
 <!-- graph:end -->

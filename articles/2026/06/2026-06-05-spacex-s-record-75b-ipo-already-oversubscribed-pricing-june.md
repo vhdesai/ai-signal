@@ -8,7 +8,7 @@ url_canonical: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record
 url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
-content_hash: 24dae4c60733e43d67f2b89c951f8cc2e7c09526411dc4c089b128949cb2a6e4
+content_hash: 6b96bfc25a54ac405a98e71cfef6a2ada34ff8a8043d2f7e98e433097fc97a99
 normalized_title_hash: ccb1caf1e10c95ba
 canonical_url_hash: 29434a59f162f8e5
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # SpaceX's Record $75B IPO Already Oversubscribed; Pricing June 11
 
-SpaceX's $75B offering — 555.55M shares at $135 — is oversubscribed. Morgan Stanley projects $3.4T in revenue by 2040. The deal folds in xAI from February's merger and would be the largest IPO on record, a bellwether for the AI-driven listing pipeline. ________________________________
+SpaceX's $75B offering — 555.55M shares at $135 — is oversubscribed. Morgan Stanley projects $3.4T in revenue by 2040. The deal folds in xAI from February's merger and would be the largest IPO on record, a bellwether for the AI-driven listing pipeline.
 
 <!-- graph:start -->
 ## Connections

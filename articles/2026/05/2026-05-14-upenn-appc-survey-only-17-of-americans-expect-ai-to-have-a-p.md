@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
+- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
+- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 embedding_id: 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new University of Pennsylvania Annenberg Public Policy Center survey finds jus
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]]
+**Related:** [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]]
 <!-- graph:end -->

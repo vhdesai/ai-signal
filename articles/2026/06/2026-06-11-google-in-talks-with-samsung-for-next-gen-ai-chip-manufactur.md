@@ -1,16 +1,18 @@
 ---
 article_id: 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
-title: '### Google in Talks with Samsung for Next-Gen AI Chip Manufacturing'
+title: Google in Talks with Samsung for Next-Gen AI Chip Manufacturing
 date: '2026-06-11'
 source: Reuters
 url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-13_160430_Final-Daily-AI-News-Digest.md
-content_hash: 7cca08b45167f23f2f9f733cadd5f169314c85f126275997eff4284d9786164c
+content_hash: 2c15dfdde522d9a813b2d0559975df6be2af614c12f1b5ca806d5bc6186f02c3
 normalized_title_hash: 00bec83c2299711c
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
+- New
 entities:
 - Google
 - Intel
@@ -22,23 +24,23 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing
+- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
-- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
-- 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
-- 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
+- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 embedding_id: 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
 event_name: ''
 ---
 
-# ### Google in Talks with Samsung for Next-Gen AI Chip Manufacturing
+# Google in Talks with Samsung for Next-Gen AI Chip Manufacturing
 
-Third foundry partner alongside TSMC and Intel. Multi-foundry approach reflects supply chain risk management. --- **Tags:** `HOT`
+Third foundry partner alongside TSMC and Intel. Multi-foundry approach reflects supply chain risk management.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]] · [[Intel]] · [[Samsung]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai]]
+**Related:** [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
 <!-- graph:end -->

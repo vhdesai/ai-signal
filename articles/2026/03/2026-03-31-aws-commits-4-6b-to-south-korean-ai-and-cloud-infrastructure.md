@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-04-09-products-tools
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
+- 2026-04-09-products-tools
 - 2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge
-- 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 embedding_id: 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon Web Services Korea disclosed plans to invest 7 trillion won (~$4.6B) in S
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-09-products-tools]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
+**Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-04-09-products-tools]] · [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
 <!-- graph:end -->

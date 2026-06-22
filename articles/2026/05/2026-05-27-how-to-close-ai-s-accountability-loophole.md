@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
+- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
+- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-04-22-ai-safety-policy
-- 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 embedding_id: 2026-05-27-how-to-close-ai-s-accountability-loophole
 event_name: ''
 ---
@@ -35,5 +36,5 @@ An FT opinion piece argues that current AI liability frameworks let model develo
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-04-22-ai-safety-policy]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]]
+**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-04-22-ai-safety-policy]]
 <!-- graph:end -->

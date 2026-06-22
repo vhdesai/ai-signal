@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
+- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
+- 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
+- 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
 embedding_id: 2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nous Research's open-source self-improving agent "Hermes" reached the number one
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]]
+**Related:** [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

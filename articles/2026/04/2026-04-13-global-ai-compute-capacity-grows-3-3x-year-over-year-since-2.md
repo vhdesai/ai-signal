@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
+- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 embedding_id: 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Per Epoch AI data cited in the 2026 AI Index, global AI compute capacity has tri
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-13-stanford-ai-index-2026-world-ai-compute-growing-3-3-per-year]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
+**Related:** [[2026-04-13-stanford-ai-index-2026-world-ai-compute-growing-3-3-per-year]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
 <!-- graph:end -->

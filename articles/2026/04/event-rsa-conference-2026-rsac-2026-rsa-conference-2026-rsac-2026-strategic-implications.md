@@ -7,7 +7,7 @@ url_original: https://www.rsaconference.com/usa
 url_canonical: https://www.rsaconference.com/usa
 url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
-content_hash: bd247a2220fb6172a00eaac56e2c1f7b8c3ac6f4437a61c58a498f515915f325
+content_hash: 1e4c819eb593478319bf990e07f0978b817cfec34a47f57822ba08be31db2bde
 normalized_title_hash: 7650730c8fb7b5c1
 canonical_url_hash: f67ea98cc6cc2d79
 tags:
@@ -33,7 +33,7 @@ event_name: RSA Conference 2026 / RSAC 2026
 
 # RSA Conference 2026 / RSAC 2026 — Strategic Implications
 
-- **New security category:** Agent security is becoming a standalone enterprise category, analogous to cloud security or endpoint detection. - **Governance lag:** Enterprises are deploying agents faster than security teams can inventory, permission, and monitor them. - **Vendor platform opportunity:** Microsoft, Cisco, CrowdStrike, Splunk, Anthropic, NVIDIA, and SOC vendors can monetize agent controls. - **Board-level risk:** Autonomous agents operating with credentials convert software misconfiguration into business-process compromise.
+New security category: Agent security is becoming a standalone enterprise category, analogous to cloud security or endpoint detection. - Governance lag: Enterprises are deploying agents faster than security teams can inventory, permission, and monitor them. - Vendor platform opportunity: Microsoft, Cisco, CrowdStrike, Splunk, Anthropic, NVIDIA, and SOC vendors can monetize agent controls. - Board-level risk: Autonomous agents operating with credentials convert software misconfiguration into business-process compromise.
 
 <!-- graph:start -->
 ## Connections

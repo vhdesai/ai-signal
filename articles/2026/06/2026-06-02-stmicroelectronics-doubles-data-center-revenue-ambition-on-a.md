@@ -1,41 +1,40 @@
 ---
 article_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
-title: '### STMicroelectronics doubles data-center revenue ambition on AI demand'
+title: STMicroelectronics doubles data-center revenue ambition on AI demand
 date: '2026-06-02'
 source: Business Insider
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353
+url_canonical: https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353
+url_status: ok
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
-content_hash: a033e01718cda32aa421856b35d428121a40cce6f3dbe19d147885628f2a2000
+content_hash: 5a572e77d2acc6b2270f6383742a74a6879167d362c87f097865ab28e9ba9847
 normalized_title_hash: 771d651c7e18355c
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 9db2fe9b9d5e9584
+tags:
+- Infrastructure
 entities: []
 themes:
 - datacenter-infrastructure
-- model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three
+- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+- 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
+- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 embedding_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 event_name: ''
 ---
 
-# ### STMicroelectronics doubles data-center revenue ambition on AI demand
+# STMicroelectronics doubles data-center revenue ambition on AI demand
 
-STMicroelectronics raised its 2026 data-center revenue target to roughly $1 billion, up from "nicely above $500 million," citing strong AI-infrastructure demand and faster capacity ramp-up. The chipmaker said revenues could roughly double again under current engagements. The upgrade is another data point on the durable, broad-based pull-through of AI capex into the semiconductor supply chain. [https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353](https://markets.businessinsider.com/news/stocks/stmicroelectronics-raises-its-revenue-ambition-for-data-centers-amidst-continued-strong-demand-for-ai-infrastructure-1036216353) --- ## Academic Research **Tags:** `RESEARCH`
+STMicroelectronics raised its 2026 data-center revenue target to roughly $1 billion, up from "nicely above $500 million," citing strong AI-infrastructure demand and faster capacity ramp-up. The chipmaker said revenues could roughly double again under current engagements. The upgrade is another data point on the durable, broad-based pull-through of AI capex into the semiconductor supply chain.
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Topics:** [[Infrastructure & Compute]]
+**Related:** [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]]
 <!-- graph:end -->

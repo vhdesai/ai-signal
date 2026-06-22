@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
 - 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
-- 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
+- 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 embedding_id: 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published “A Blueprint for Democratic Governance of Frontier AI,” adv
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]]
+**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a]]
 <!-- graph:end -->

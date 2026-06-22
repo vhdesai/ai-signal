@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 - 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
+- 2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m
 embedding_id: 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 event_name: ''
 ---
@@ -43,5 +43,5 @@ DeepSeek V4 — a 1.6T-parameter Mixture-of-Experts model with a 1M-token contex
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]]
+**Related:** [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m]]
 <!-- graph:end -->

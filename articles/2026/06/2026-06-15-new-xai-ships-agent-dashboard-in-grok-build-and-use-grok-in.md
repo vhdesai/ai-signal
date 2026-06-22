@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
+- 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
 embedding_id: 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 event_name: ''
 ---
@@ -36,5 +36,5 @@ xAI posted two updates to its Grok Build agentic-coding product: an Agent Dashbo
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
+**Related:** [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
 <!-- graph:end -->

@@ -1,44 +1,44 @@
 ---
 article_id: 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-title: '### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders
-  Converge'
+title: Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge
 date: '2026-06-06'
 source: TechCrunch; Semafor; Fortune; NYT; Axios
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
+url_canonical: https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/
+url_status: ok
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
-content_hash: dd7ee46494cc9cebbb0fbb1dc6b7b73d3373320798e6a0f60c8167dade705856
+content_hash: b24d2e48833dba4eaa6257b3f66ed845a384672d75f5819001b4b9932b94d878
 normalized_title_hash: 4c1802e262befc89
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: c97cc39055e28c52
+tags:
+- Hot
 entities:
 - Anthropic
 - OpenAI
 - xAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
-- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
-- 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 - 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
-- 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
+- 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
+- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
+- 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
+- 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 embedding_id: 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 event_name: ''
 ---
 
-# ### Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge
+# Washington Weighs Government Equity Stakes in AI Firms; Trump and Sanders Converge
 
-President Trump told reporters the federal government may take equity "pieces" in leading AI companies, and CNBC confirmed OpenAI and the White House have discussed seeding a "Public Wealth Fund" via donated equity. Senator Sanders proposed a one-time 50% stock tax on OpenAI, Anthropic, and xAI — a rare left-right convergence on government ownership. Semafor detailed Altman's pitch; Sacks expressed concerns. Anthropic says it is not in these talks. For firms eyeing 2026 IPOs, a government on the cap table reprices both the politics and the risk. - [TechCrunch](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/) --- **Tags:** `HOT`
+President Trump told reporters the federal government may take equity "pieces" in leading AI companies, and CNBC confirmed OpenAI and the White House have discussed seeding a "Public Wealth Fund" via donated equity. Senator Sanders proposed a one-time 50% stock tax on OpenAI, Anthropic, and xAI — a rare left-right convergence on government ownership. Semafor detailed Altman's pitch; Sacks expressed concerns. Anthropic says it is not in these talks. For firms eyeing 2026 IPOs, a government on the cap table reprices both the politics and the risk.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]] · [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
 - 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
-- 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
+- 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 embedding_id: 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reports indicate that SpaceXAI — the entity formed by the integration of xAI r
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]]
+**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
 <!-- graph:end -->

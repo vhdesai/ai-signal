@@ -20,8 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
-- 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
+- 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
+- 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
 embedding_id: 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 event_name: ''
 ---
@@ -33,5 +34,5 @@ YouTube announced that it will automatically apply AI-content labels to videos i
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]]
+**Related:** [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]]
 <!-- graph:end -->

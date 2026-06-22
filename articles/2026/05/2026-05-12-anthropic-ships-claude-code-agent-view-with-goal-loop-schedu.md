@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-- 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
-- 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
+- 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
+- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 embedding_id: 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic released Claude Code Agent View — a unified dashboard to manage para
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]]
+**Related:** [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]]
 <!-- graph:end -->

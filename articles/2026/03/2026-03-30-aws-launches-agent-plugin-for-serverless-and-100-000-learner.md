@@ -5,8 +5,8 @@ title: AWS Launches Agent Plugin for Serverless and 100,000-Learner AI/ML Schola
 date: '2026-03-30'
 source: AWS Blog
 url_original: null
-url_canonical: https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: c92b8e165ea0be7b0bcb637480d302f91e8c7f721dcafeda4e10cbe3b87c0bb5
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
+- 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki
-- 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 embedding_id: 2026-03-30-aws-launches-agent-plugin-for-serverless-and-100-000-learner
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AWS released an Agent Plugin for Serverless enabling Claude Code, Cursor, and Am
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]]
+**Related:** [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki]]
 <!-- graph:end -->

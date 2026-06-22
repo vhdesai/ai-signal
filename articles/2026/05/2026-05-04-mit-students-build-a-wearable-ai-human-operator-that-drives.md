@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
+- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
-- 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
+- 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 embedding_id: 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A team won MIT's Hard Mode hackathon with a system that pairs computer-vision go
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-- 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
+- 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 embedding_id: 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI industry groups are alleging Chinese influence behind grassroots resistance t
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
+**Related:** [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]]
 <!-- graph:end -->

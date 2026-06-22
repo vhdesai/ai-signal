@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-- 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
+- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
+- 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
 embedding_id: 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reported that Palo Alto Networks saw strong security potential f
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]]
+**Related:** [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout]]
 <!-- graph:end -->

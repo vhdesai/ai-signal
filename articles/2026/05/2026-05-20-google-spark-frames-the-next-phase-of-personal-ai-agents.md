@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
+- 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
 embedding_id: 2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Business Insider described Spark as a 24/7 digital assistant that will run in Ge
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
+**Related:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h]]
 <!-- graph:end -->

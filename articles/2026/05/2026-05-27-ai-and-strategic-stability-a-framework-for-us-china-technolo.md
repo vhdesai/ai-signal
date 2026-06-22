@@ -27,10 +27,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo
+- 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 embedding_id: 2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Stanford HAI hosted a seminar exploring AI's role in strategic stability and a f
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]] · [[Snowflake]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo]]
+**Related:** [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
 <!-- graph:end -->

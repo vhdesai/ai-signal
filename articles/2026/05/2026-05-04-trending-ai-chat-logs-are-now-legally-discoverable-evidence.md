@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
+- 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 embedding_id: 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 event_name: ''
 ---
@@ -40,5 +40,5 @@ U.S. attorneys are formally advising clients that ChatGPT, Claude, and Gemini co
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]]
+**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
 <!-- graph:end -->

@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+- 2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally
+- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 embedding_id: 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Micron Technology crossed a $1 trillion market capitalization during the May 27 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
-- 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
+- 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
+- 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 embedding_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published an open-source repository of role-specific plugins that let 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
+**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]]
 <!-- graph:end -->

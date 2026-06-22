@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
+- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
+- 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 embedding_id: 2026-06-05-switch-in-talks-to-raise-at-50b-valuation
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Data-center operator Switch is in talks with Brookfield, KKR, Goldman, and JPMor
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]]
+**Related:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]]
 <!-- graph:end -->

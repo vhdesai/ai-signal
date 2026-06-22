@@ -1,22 +1,22 @@
 ---
 article_id: 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
-title: '### "Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos
-  via AI Coding Tools'
+title: '"Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos via
+  AI Coding Tools'
 date: '2026-06-06'
 source: The Hacker News; Rescana
 url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
-content_hash: ab62cf798cd71229bf8e5b4eef1db101141df0d2a6e798429f9313cff63829e7
+content_hash: f9eeb5344bb0bc4a62cc68e9e9c4772fdc85518f11404015a1361d8c0671f1ea
 normalized_title_hash: bb3f354dda28ffcb
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Microsoft
 themes:
-- model-capabilities
-- company-storylines
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
@@ -25,14 +25,14 @@ embedding_id: 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsof
 event_name: ''
 ---
 
-# ### "Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos via AI Coding Tools
+# "Miasma Worm" Supply Chain Attack Compromises 73 Microsoft GitHub Repos via AI Coding Tools
 
-A supply chain attack dubbed "Miasma Worm" compromised 73 Microsoft GitHub repositories by exploiting vulnerabilities in AI coding tools. The attack leverages the trust AI coding assistants place in repository dependencies — a new threat class where AI tool adoption expands the attack surface rather than reducing it. --- ## Academic Research **Tags:** `RESEARCH`
+A supply chain attack dubbed "Miasma Worm" compromised 73 Microsoft GitHub repositories by exploiting vulnerabilities in AI coding tools. The attack leverages the trust AI coding assistants place in repository dependencies — a new threat class where AI tool adoption expands the attack surface rather than reducing it.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]]
 <!-- graph:end -->

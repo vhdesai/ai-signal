@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
-- 2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e
 - 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
+- 2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e
 embedding_id: 2026-05-15-microsoft-names-former-ey-ceo-to-board
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft added the former chief executive of EY to its board of directors, stre
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]]
+**Related:** [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]] · [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]]
 <!-- graph:end -->

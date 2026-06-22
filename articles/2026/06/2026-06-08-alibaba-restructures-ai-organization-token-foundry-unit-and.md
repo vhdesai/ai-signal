@@ -1,23 +1,22 @@
 ---
 article_id: 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
-title: '### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future
-  Research Institute'
+title: 'Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research
+  Institute'
 date: '2026-06-08'
 source: AIBase
 url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
-content_hash: 3f2f67c44a17ed850853531b8274aad8774115eddef6bbb9fa9533668f514326
+content_hash: ace6f7e13ebd9502508f9d7138032d7156b4f6573c05688960072d25bd092cf4
 normalized_title_hash: b545f3fe198ecdb6
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Alibaba
 - Baidu
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -28,14 +27,14 @@ embedding_id: 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit
 event_name: ''
 ---
 
-# ### Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute
+# Alibaba Restructures AI Organization: "Token Foundry" Unit and AI Future Research Institute
 
-Alibaba established a "Token Foundry" business unit and AI Future Research Institute, restructuring to industrialize token production and integrate frontier research with commercial deployment. Alongside Baidu's parallel MEG restructuring, both signal China's major players pivoting from model development to operational scaling. --- ## Infrastructure **Tags:** `HOT` `NEW`
+Alibaba established a "Token Foundry" business unit and AI Future Research Institute, restructuring to industrialize token production and integrate frontier research with commercial deployment. Alongside Baidu's parallel MEG restructuring, both signal China's major players pivoting from model development to operational scaling.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Baidu]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]]
 <!-- graph:end -->

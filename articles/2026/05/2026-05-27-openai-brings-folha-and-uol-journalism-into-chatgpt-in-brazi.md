@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
+- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
-- 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 embedding_id: 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's first major Latin American publisher partnership brings Folha de S.Paul
 
 **Entities:** [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
+**Related:** [[2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]]
 <!-- graph:end -->

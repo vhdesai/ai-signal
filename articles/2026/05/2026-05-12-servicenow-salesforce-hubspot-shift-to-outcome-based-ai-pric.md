@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
+- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 embedding_id: 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A new survey of 230 enterprise software firms by former OpenView partner Kyle Po
 
 **Entities:** [[Adobe]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
 <!-- graph:end -->

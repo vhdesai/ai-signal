@@ -1,17 +1,17 @@
 ---
 article_id: 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
-title: '### SpaceX''s Record $75B IPO Is Already Oversubscribed; Pricing Set for June
-  11'
+title: SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11
 date: '2026-06-05'
 source: Yahoo Finance
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html
+url_status: ok
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
-content_hash: 6cc834240783edcfb48cb6f39913c9d0461a8b68a7e02f5615e95ad5e0ebd1be
+content_hash: 335682d613bb7c31ecda9c36f633dd2427aa56f7351beff90728fbcbe110ef3c
 normalized_title_hash: 4dea9dee1087e9f3
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 29434a59f162f8e5
+tags:
+- Hot
 entities:
 - Anthropic
 - OpenAI
@@ -26,9 +26,9 @@ embedding_id: 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-prici
 event_name: ''
 ---
 
-# ### SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11
+# SpaceX's Record $75B IPO Is Already Oversubscribed; Pricing Set for June 11
 
-SpaceX's $75 billion offering — 555.55 million shares at $135 each — is oversubscribed ahead of pricing expected June 11. Morgan Stanley projects $3.4 trillion in revenue by 2040. The deal, which folds in xAI following February's all-stock merger, would rank as the largest IPO on record and is a bellwether for the AI-driven IPO pipeline that also includes OpenAI and Anthropic. - [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html) --- **Tags:** `HOT`
+SpaceX's $75 billion offering — 555.55 million shares at $135 each — is oversubscribed ahead of pricing expected June 11. Morgan Stanley projects $3.4 trillion in revenue by 2040. The deal, which folds in xAI following February's all-stock merger, would rank as the largest IPO on record and is a bellwether for the AI-driven IPO pipeline that also includes OpenAI and Anthropic.
 
 <!-- graph:start -->
 ## Connections

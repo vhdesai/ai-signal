@@ -7,7 +7,7 @@ url_original: https://www.caisconf.org/
 url_canonical: https://www.caisconf.org/
 url_status: ok
 digest_source: digests\raw\acm-cais-2026.md
-content_hash: 36452c74bad16902bb35d8a75da48acb97be816654aed1a5278a00dd35bd3164
+content_hash: beba0853271ecd1def2278881a8c23d800abccb1d23b0a13737e00956df0df2e
 normalized_title_hash: aef9772c898511bb
 canonical_url_hash: 3e10da7c48897b88
 tags:
@@ -33,7 +33,7 @@ event_name: ACM CAIS 2026
 
 # ACM CAIS 2026: optany / optimize_anything
 
-- A Berkeley/MIT team presented an LLM-based optimization system that frames diverse problems as iteratively improving a text artifact evaluated by a scoring function. - Corpus-reported outcomes include nearly tripling Gemini Flash's ARC-AGI accuracy, cutting cloud scheduling costs 40%, and matching AlphaEvolve on circle packing.
+A Berkeley/MIT team presented an LLM-based optimization system that frames diverse problems as iteratively improving a text artifact evaluated by a scoring function. - Corpus-reported outcomes include nearly tripling Gemini Flash's ARC-AGI accuracy, cutting cloud scheduling costs 40%, and matching AlphaEvolve on circle packing.
 
 <!-- graph:start -->
 ## Connections

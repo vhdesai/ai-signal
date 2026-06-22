@@ -1,39 +1,39 @@
 ---
 article_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
-title: '### SoftBank Commits Up to €75 Billion for French AI Data Centers'
+title: SoftBank Commits Up to €75 Billion for French AI Data Centers
 date: '2026-05-30'
 source: TechCrunch; [June 1, 2026] · Reuters; Yahoo Finance
 url_original: https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
 url_canonical: https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
 url_status: ok
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
-content_hash: a2a1dee4e8ffa62e9e68e6c411aba25db8722d2438e3fe6186b7f6d830925c6b
+content_hash: b2f6d46732becaf498e1da5f19b3adbb45abebef97512bc14d1f5c9a29edf342
 normalized_title_hash: e16b2ec59a60adb4
 canonical_url_hash: d87bbb85d4ffbdaa
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
+- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 embedding_id: 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 event_name: ''
 ---
 
-# ### SoftBank Commits Up to €75 Billion for French AI Data Centers
+# SoftBank Commits Up to €75 Billion for French AI Data Centers
 
-At the Choose France 2026 summit, SoftBank announced plans to invest up to €75 billion to build 5 GW of AI data center capacity in France. Reuters reported that France attracted $108 billion in total foreign investment at the event, with SoftBank's data center commitment accounting for roughly half. The deal underscores how sovereign AI infrastructure is becoming a geopolitical lever, with nations competing for hyperscale compute buildouts. --- **Tags:** `TRENDING`
+At the Choose France 2026 summit, SoftBank announced plans to invest up to €75 billion to build 5 GW of AI data center capacity in France. Reuters reported that France attracted $108 billion in total foreign investment at the event, with SoftBank's data center commitment accounting for roughly half. The deal underscores how sovereign AI infrastructure is becoming a geopolitical lever, with nations competing for hyperscale compute buildouts.
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-30-softbank-to-invest-up-to-75b-in-french-data-centers]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]]
 <!-- graph:end -->

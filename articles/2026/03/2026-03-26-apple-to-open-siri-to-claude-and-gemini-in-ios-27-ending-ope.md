@@ -4,8 +4,8 @@ title: Apple to Open Siri to Claude and Gemini in iOS 27 — Ending OpenAI Exclu
 date: '2026-03-26'
 source: Bloomberg
 url_original: null
-url_canonical: https://gadgets.beebom.com/news/apple-may-open-siri-to-gemini-claude-in-ios-27-ending-chatgpt-exclusivity
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: aec5ae96ce71afddd929f68945428253ed23637c5db3a0772201d844522aa684
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
+- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
 embedding_id: 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Apple will replace ChatGPT's exclusive Siri integration with an open "Extensions
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Related:** [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]]
+**Related:** [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]]
 <!-- graph:end -->

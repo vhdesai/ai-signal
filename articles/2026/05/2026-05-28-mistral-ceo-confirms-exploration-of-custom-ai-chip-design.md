@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
 - 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
+- 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
 embedding_id: 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 event_name: ''
 ---
@@ -41,5 +42,5 @@ France's Mistral confirmed it is exploring designing its own silicon as it build
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]]
+**Related:** [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]]
 <!-- graph:end -->

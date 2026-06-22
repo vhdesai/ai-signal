@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall
 - 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
-- 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
+- 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 embedding_id: 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenBMB released MiniCPM-V 4.6 with 1.3 billion parameters on May 11, the most r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]]
+**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]]
 <!-- graph:end -->

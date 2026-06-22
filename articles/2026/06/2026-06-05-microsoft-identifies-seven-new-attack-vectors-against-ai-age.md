@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
-- 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
+- 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
+- 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 embedding_id: 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft published research identifying seven new ways AI agents can be hacked 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]]
+**Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu
-- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
+- 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
+- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 embedding_id: 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 event_name: ''
 ---
@@ -38,5 +38,5 @@ JPMorgan began logging how employees interact with internal AI tools — usage f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]]
+**Related:** [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
 <!-- graph:end -->

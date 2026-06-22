@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
 - 2026-05-19-anthropic-lets-mythos-users-share-cyber-threats-with-one-ano
-- 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 embedding_id: 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's newest frontier model is leading a fresh round of cybersecurity-spec
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-19-anthropic-lets-mythos-users-share-cyber-threats-with-one-ano]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]]
+**Related:** [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-19-anthropic-lets-mythos-users-share-cyber-threats-with-one-ano]]
 <!-- graph:end -->

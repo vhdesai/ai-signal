@@ -1,7 +1,10 @@
 ---
 article_id: 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 title: Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step
-  reasoning, but its updated tokenizer may result in a 30% increase in token usage…
+  reasoning, but its updated tokenizer may result in a 30% increase in token usage."
+  OpenAI's GPT-5.6 is reportedly scheduled for June 2026 with enhanced multimodal
+  and reasoning capabilities. The roadmap signals a heated frontier-model cadence
+  into summer.
 date: '2026-05-26'
 source: Geeky Gadgets · geeky-gadgets.com
 url_original: null
@@ -9,8 +12,8 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-26_080048_Inbox_Daily AI News Digest –– May 26,
   2026.md
-content_hash: 007407b0971f5656cbfdf7a88ae0947b64d0f5e26db483e4af717e35c444319c
-normalized_title_hash: 57f07dbb10f7bc66
+content_hash: 04f76a5cc3e73aaa30dfad1253516d160e7657599fc6eff8cc475066fa01ca68
+normalized_title_hash: c9751b365968f455
 canonical_url_hash: ''
 tags: []
 entities:
@@ -26,9 +29,9 @@ embedding_id: 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understa
 event_name: ''
 ---
 
-# Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step reasoning, but its updated tokenizer may result in a 30% increase in token usage…
+# Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step reasoning, but its updated tokenizer may result in a 30% increase in token usage." OpenAI's GPT-5.6 is reportedly scheduled for June 2026 with enhanced multimodal and reasoning capabilities. The roadmap signals a heated frontier-model cadence into summer.
 
-Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step reasoning, but its updated tokenizer may result in a 30% increase in token usage." OpenAI's GPT-5.6 is reportedly scheduled for June 2026 with enhanced multimodal and reasoning capabilities. The roadmap signals a heated frontier-model cadence into summer. Google's Gemini 3.5 Flash & Gemini Spark documentation goes fully live
+Google's Gemini 3.5 Flash & Gemini Spark documentation goes fully live
 
 <!-- graph:start -->
 ## Connections

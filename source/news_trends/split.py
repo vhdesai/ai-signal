@@ -42,6 +42,54 @@ _CHINA_KEYWORDS = (
     "export rules", "alibaba", "tencent", "huawei", "u.s.\u2013china", "us-china",
 )
 
+# --- Markdown cleanup -------------------------------------------------------
+# Clawpilot-style digests use '#/##/###' headings, '**bold**', '`code`' tag
+# chips, '---' horizontal rules and '- [Source](url)' citation lines. These are
+# structural markers for parsing but must never leak into reader-facing fields.
+_MD_HEADING_RE = re.compile(r"^\s*#{1,6}\s+")
+_SECTION_HEADING_RE = re.compile(r"^\s*#{1,2}\s+\S")  # h1/h2 only (h3+ = headline)
+_SEPARATOR_RE = re.compile(r"^\s*[-_*]{3,}\s*$")
+_MD_LINK_TEXT_RE = re.compile(r"\[([^\]]+)\]\(\s*https?://[^)]+\)")
+_MD_BULLET_LINK_RE = re.compile(r"^\s*[-*]?\s*\[[^\]]+\]\(\s*https?://")
+_BACKTICK_RE = re.compile(r"`([^`]*)`")
+_BOLD_RE = re.compile(r"\*\*([^*]+)\*\*")
+_ITALIC_US_RE = re.compile(r"__([^_]+)__")
+
+
+def _strip_md_inline(text: str) -> str:
+    """Remove inline markdown decoration while keeping the readable text."""
+    text = _MD_LINK_TEXT_RE.sub(r"\1", text)  # [label](url) -> label
+    text = _BOLD_RE.sub(r"\1", text)          # **bold** -> bold
+    text = _ITALIC_US_RE.sub(r"\1", text)     # __italic__ -> italic
+    text = _BACKTICK_RE.sub(r"\1", text)      # `code` -> code
+    return text.replace("**", "").replace("`", "")
+
+
+def _is_separator(line: str) -> bool:
+    return bool(_SEPARATOR_RE.match(line))
+
+
+def _is_section_heading(line: str) -> bool:
+    return bool(_SECTION_HEADING_RE.match(line))
+
+
+def _is_md_tags_line(line: str) -> bool:
+    s = line.strip().lower()
+    return s.startswith(("**tags", "tags:")) and bool(
+        re.search(r"`|hot|new|trending|breaking|updated|developing|launch", s)
+    )
+
+
+def _tags_from_md_line(line: str) -> list[str] | None:
+    """Extract tag chips from a '**Tags:** `HOT` `NEW`' markdown line."""
+    if not _is_md_tags_line(line):
+        return None
+    toks = re.findall(r"`([^`]+)`", line)
+    if not toks:
+        toks = _TAG_TOKEN_RE.findall(line)
+    out = [t.strip().capitalize() for t in toks if t.strip()]
+    return out or None
+
 
 def _tags_from_line(line: str) -> list[str] | None:
     if _TAG_LINE_RE.match(line.strip()):
@@ -80,7 +128,14 @@ def _is_theme_candidate(line: str) -> bool:
 
 
 def _is_premarker(line: str) -> bool:
-    return bool(_tags_from_line(line)) or _is_acronym_code(line) or _is_theme_candidate(line)
+    return (
+        bool(_tags_from_line(line))
+        or _is_acronym_code(line)
+        or _is_theme_candidate(line)
+        or _is_separator(line)
+        or _is_section_heading(line)
+        or _is_md_tags_line(line)
+    )
 
 
 def _unwrap_safelink(url: str) -> str:
@@ -106,10 +161,12 @@ def _extract_url(*parts: str) -> str | None:
 
 
 def _clean_headline(line: str) -> str:
+    line = _MD_HEADING_RE.sub("", line)
     line = _ANGLE_URL_RE.sub("", line)
     line = _MD_LINK_RE.sub("", line)
     line = _URL_RE.sub("", line)
     line = re.sub(r"^URL:\s*", "", line)
+    line = _strip_md_inline(line)
     line = line.strip().strip("<>").strip(" \u00b7-").strip()
     # strip stray leading/trailing tag tokens left inline on the headline
     tags_alt = "|".join(t.upper() for t in TAG_WORDS)
@@ -123,7 +180,7 @@ def _clean_headline(line: str) -> str:
         prefix_letters = m.group(1).replace(" ", "")
         if prefix_letters not in _REAL_PREFIXES and len(prefix_letters) <= 4:
             line = line[m.end():]
-    return line.strip(" \u00b7-").strip()
+    return _strip_md_inline(line).strip(" \u00b7-").strip()
 
 
 def _looks_like_date(seg: str) -> bool:
@@ -154,13 +211,8 @@ def _parse_source_line(line: str) -> tuple[str, date | None]:
 
 
 def _shorten_title(title: str, summary: str) -> tuple[str, str]:
-    if len(title) <= 160:
-        return title, summary
-    head = re.split(r"(?<=[.!?])\s+", title)[0].strip()
-    if not head or len(head) > 160:
-        head = title[:157].rstrip() + "\u2026"
-    new_summary = (title + " " + summary).strip() if summary else title
-    return head, new_summary
+    # Titles are kept in full; the UI wraps them across lines.
+    return title, summary
 
 
 # Regex to strip leaked tag words from start/end of summaries
@@ -175,14 +227,23 @@ _TAG_NOISE_START_RE = re.compile(
 
 
 def _clean_summary(text: str) -> str:
-    """Remove leaked tag words and digest noise from summaries."""
+    """Remove markdown decoration, leaked tag words and digest noise."""
+    text = _strip_md_inline(text)
+    # Drop structural leftovers that can leak in from adjacent sections.
+    text = re.sub(r"\s*-{3,}\s*", " ", text)          # '---' horizontal rules
+    text = re.sub(r"(?:^|\s)#{1,6}\s+", " ", text)    # stray heading marks (## / ###)
+    text = re.sub(
+        r"(?i)\bTags?:\s*(?:" + "|".join(TAG_WORDS) + r")\b[\s,]*", "", text
+    )
     # Strip trailing tag combos: "... LAUNCH TRENDING", "... Hot New"
     text = _TAG_NOISE_RE.sub("", text).strip()
     # Strip leading tag combos (shouldn't normally happen but just in case)
     text = _TAG_NOISE_START_RE.sub("", text).strip()
     # Strip "Sources: ..." trailing attribution blocks
     text = re.sub(r"\s*Sources?:\s+[A-Z][\w\s,/&·\-]*$", "", text).strip()
-    return text
+    # Drop a leading list bullet and collapse whitespace.
+    text = re.sub(r"^[\-\*\u2022]\s+", "", text).strip()
+    return re.sub(r"\s{2,}", " ", text).strip()
 
 
 def _classify(cfg: Config, title: str, summary: str, theme: str) -> tuple[list[str], list[str], list[str]]:
@@ -250,11 +311,13 @@ def parse_digest(cfg: Config, text: str, issue_date: date | None, digest_source:
         tags: list[str] = []
         j = headline_idx - 1
         while j >= 0 and _is_premarker(items[j]):
-            t = _tags_from_line(items[j])
+            t = _tags_from_line(items[j]) or _tags_from_md_line(items[j])
             if t:
                 tags = t + tags
             elif _is_theme_candidate(items[j]):
                 current_theme = items[j]
+            elif _is_section_heading(items[j]):
+                current_theme = _MD_HEADING_RE.sub("", items[j]).strip()
             j -= 1
 
         # summary spans from after this source up to the next article's marker block
@@ -267,8 +330,10 @@ def parse_digest(cfg: Config, text: str, issue_date: date | None, digest_source:
         url_line_url: str | None = None
         for idx in range(s + 1, max(s + 1, summary_end)):
             ln = items[idx]
-            is_url_line = ln.startswith("URL:") or (
-                bool(_ANGLE_URL_RE.search(ln)) and len(ln.split()) <= 6
+            is_url_line = (
+                ln.startswith("URL:")
+                or bool(_MD_BULLET_LINK_RE.match(ln))
+                or (bool(_ANGLE_URL_RE.search(ln)) and len(ln.split()) <= 6)
             )
             if is_url_line:
                 url_line_url = url_line_url or _extract_url(ln)
@@ -391,6 +456,11 @@ def parse_event(cfg: Config, text: str, digest_source: str) -> list[Article]:
 
     def _make_article(title: str, summary: str, section_theme: str,
                       urls: list[tuple[str, str]] | None = None) -> Article | None:
+        title = _strip_md_inline(title).strip()
+        # Convert markdown list items ("- Label: ...") into readable bullets,
+        # then strip remaining inline markdown / decoration from the summary.
+        summary = re.sub(r"(?:^|\s)[-*]\s+(?=[A-Z][^:\n]{0,48}:)", " \u2022 ", summary)
+        summary = _clean_summary(summary)
         if not title or not summary:
             return None
         full_text = f"{title} {summary} {companies_text}"

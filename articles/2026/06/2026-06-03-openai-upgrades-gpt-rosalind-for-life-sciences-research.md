@@ -8,7 +8,7 @@ url_canonical: https://openai.com/index/introducing-new-capabilities-to-gpt-rosa
 url_status: broken
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
-content_hash: c1bac4ce41efaa1e780f3d3c1c8d01cc91d6df23086884a676336fbeec243d04
+content_hash: b9ac6e67494302514f78331f13ba22c36b36bd51fe256ad45cd95bf77a8bb9bd
 normalized_title_hash: 3c057ca0b2b1b33d
 canonical_url_hash: 93ad6127ac8b6f8f
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # OpenAI Upgrades GPT-Rosalind for Life-Sciences Research
 
-OpenAI updated its GPT-Rosalind life-sciences series with stronger medicinal-chemistry and genomics reasoning, paired with GPT-5.5’s agentic capabilities. It introduced LifeSciBench, an expert-judged benchmark. The model is available in research preview under trusted access, deepening OpenAI’s domain-specific push into drug discovery. ________________________________
+OpenAI updated its GPT-Rosalind life-sciences series with stronger medicinal-chemistry and genomics reasoning, paired with GPT-5.5’s agentic capabilities. It introduced LifeSciBench, an expert-judged benchmark. The model is available in research preview under trusted access, deepening OpenAI’s domain-specific push into drug discovery.
 
 <!-- graph:start -->
 ## Connections

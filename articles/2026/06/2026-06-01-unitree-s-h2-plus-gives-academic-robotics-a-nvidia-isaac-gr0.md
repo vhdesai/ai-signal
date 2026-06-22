@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/robots/humanoid-robots/unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research/
 url_canonical: https://aithority.com/robots/humanoid-robots/unitree-announces-h2-plus-an-nvidia-isaac-gr00t-reference-humanoid-robot-for-academic-research/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: a8db1a4b00793df5194551d5de217a55116f011800d071e27f5e44f7dea60f23

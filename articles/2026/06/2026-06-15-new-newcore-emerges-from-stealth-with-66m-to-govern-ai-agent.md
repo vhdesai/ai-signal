@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
+- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Cybersecurity startup NewCore emerged from stealth with $66M to authenticate, go
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]]
+**Related:** [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

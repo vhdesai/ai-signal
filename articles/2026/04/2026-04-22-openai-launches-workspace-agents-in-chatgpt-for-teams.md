@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-- 2026-06-02-openai-turns-chatgpt-into-a-career-platform
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
+- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 embedding_id: 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 event_name: ''
@@ -39,5 +39,5 @@ OpenAI rolled out Workspace Agents on Business, Enterprise, Edu, and Teachers pl
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-06-02-openai-turns-chatgpt-into-a-career-platform]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]]
+**Related:** [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]]
 <!-- graph:end -->

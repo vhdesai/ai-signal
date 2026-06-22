@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-- 2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two
 - 2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic
 embedding_id: 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
 event_name: ''
@@ -38,5 +37,5 @@ Palantir has sued for the right to bid on the Defense Intelligence Agency's data
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two]] · [[2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic]]
+**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic]]
 <!-- graph:end -->

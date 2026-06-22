@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
+- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
-- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 embedding_id: 2026-05-27-clickhouse-crosses-250m-arr-launches-agentic-analytics-at-op
@@ -37,5 +37,5 @@ At its Open House 2026 user conference, ClickHouse disclosed it has crossed $250
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
+**Related:** [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
 <!-- graph:end -->

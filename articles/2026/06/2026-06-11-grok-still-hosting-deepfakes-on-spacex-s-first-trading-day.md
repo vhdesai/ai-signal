@@ -1,16 +1,17 @@
 ---
 article_id: 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
-title: '### Grok Still Hosting Deepfakes on SpaceX''s First Trading Day'
+title: Grok Still Hosting Deepfakes on SpaceX's First Trading Day
 date: '2026-06-11'
 source: Wired
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/
+url_canonical: https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/
+url_status: ok
 digest_source: digests\raw\2026-06-13_160430_Final-Daily-AI-News-Digest.md
-content_hash: e09dd36aa014ffb09228b68976dc1022281f4c2a065149df87d89194246b2bf1
+content_hash: 8a0e397eae50b2e131ae088f43f60289bf015e54cae147a7be5741b799dae1d1
 normalized_title_hash: e5cc8b7066297254
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 5d052fa633025fcc
+tags:
+- Hot
 entities: []
 themes:
 - policy-regulation
@@ -19,21 +20,21 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
-- 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
-- 2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three
-- 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
-- 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
+- 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
+- 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
+- 2026-05-15-deepfake-voice-scam-snares-cushman-wakefield
+- 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 embedding_id: 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 event_name: ''
 ---
 
-# ### Grok Still Hosting Deepfakes on SpaceX's First Trading Day
+# Grok Still Hosting Deepfakes on SpaceX's First Trading Day
 
-Sexualized deepfakes persist despite UK lawsuit and whistleblower case. Maximum reputational risk at maximum investor scrutiny. - [Wired](https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/) --- **Tags:** `NEW`
+Sexualized deepfakes persist despite UK lawsuit and whistleblower case. Maximum reputational risk at maximum investor scrutiny.
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]] · [[2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock]]
+**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-15-deepfake-voice-scam-snares-cushman-wakefield]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]]
 <!-- graph:end -->

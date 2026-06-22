@@ -19,8 +19,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids:
-- 2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o
+related_article_ids: []
 embedding_id: 2026-06-04-merlin-completes-critical-design-review-for-autonomous-syste
 event_name: ''
 ---
@@ -33,5 +32,4 @@ Merlin announced the successful completion of a critical design review for its a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o]]
 <!-- graph:end -->

@@ -18,9 +18,14 @@ themes:
 - model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi
+- 2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica
+- 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
+- 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
+- 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 embedding_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 event_name: ''
 ---
@@ -33,5 +38,5 @@ The European Union reached a provisional deal to simplify its AI Act implementat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
+**Related:** [[2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]]
 <!-- graph:end -->

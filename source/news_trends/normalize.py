@@ -24,6 +24,8 @@ _FOOTER_MARKERS = (
     "curated for",
     "sent by copilot",
     "## web source links",
+    "compiled from",
+    "compiled for",
 )
 
 
@@ -53,7 +55,7 @@ def strip_footer(text: str) -> str:
     lines = text.splitlines()
     out: list[str] = []
     for line in lines:
-        if line.strip().lower().startswith(_FOOTER_MARKERS):
+        if line.strip().lstrip("*_# ").lower().startswith(_FOOTER_MARKERS):
             break
         out.append(line)
     return "\n".join(out)

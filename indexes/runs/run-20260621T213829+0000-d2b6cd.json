@@ -1,0 +1,14 @@
+{
+  "run_id": "20260621T213829+0000-d2b6cd",
+  "started_at": "2026-06-21T21:38:29+00:00",
+  "finished_at": "2026-06-21T21:48:00+00:00",
+  "summary": {
+    "command": "validate-urls",
+    "result": {
+      "checked": 692,
+      "ok": 527,
+      "broken": 165,
+      "missing": 1710
+    }
+  }
+}

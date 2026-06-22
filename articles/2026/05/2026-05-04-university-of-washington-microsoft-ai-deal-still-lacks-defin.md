@@ -25,10 +25,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
+- 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
+- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: 2026-05-04-university-of-washington-microsoft-ai-deal-still-lacks-defin
 event_name: ''
@@ -43,5 +43,5 @@ An investigation finds UW's “many millions” Microsoft AI partnership has no 
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

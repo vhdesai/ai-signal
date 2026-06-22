@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
-- 2026-06-18-tags-funding-hot
 - 2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu
 embedding_id: 2026-05-25-lucra-sports-lands-ark-invest-as-lead-for-20m-series-b-not-a
 event_name: ''
@@ -35,5 +35,5 @@ Lucra Sports founder Dylan Robbins landed Cathie Wood and her ARK Invest Venture
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-06-18-tags-funding-hot]] · [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]]
+**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-27-cognition-devin-raises-1b-at-26b-post-money-more-than-2-valu]]
 <!-- graph:end -->

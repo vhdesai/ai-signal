@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-11-hotgoogle-reveals-7-hidden-gemini-live-models-ahead-of-i-o-2
 - 2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o
-- 2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
+- 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
 embedding_id: 2026-05-09-hot-7-hidden-gemini-live-models-revealed-ahead-of-google-i-o
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A teardown of Google App v17.18.22 uncovered a hidden model selector for Gemini 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-11-hotgoogle-reveals-7-hidden-gemini-live-models-ahead-of-i-o-2]] · [[2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o]] · [[2026-05-19-google-launches-gemini-3-5-flash-gemini-omni-at-i-o-2026]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]]
+**Related:** [[2026-05-11-hotgoogle-reveals-7-hidden-gemini-live-models-ahead-of-i-o-2]] · [[2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]] · [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]]
 <!-- graph:end -->

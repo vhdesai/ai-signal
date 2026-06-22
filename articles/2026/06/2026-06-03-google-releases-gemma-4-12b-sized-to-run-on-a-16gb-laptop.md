@@ -1,16 +1,17 @@
 ---
 article_id: 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
-title: '### Google Releases Gemma 4 12B, Sized to Run on a 16GB Laptop'
+title: Google Releases Gemma 4 12B, Sized to Run on a 16GB Laptop
 date: '2026-06-03'
 source: Ars Technica
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
+url_canonical: https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/
+url_status: ok
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
-content_hash: e008fb13f959d87318dd0d51d0e44ad19fdc5bad37f5a0ed2bff32635eb26885
+content_hash: ca2aec76259a893b1af86c13bb287131af43f0d598355bd853c2fe75f1fef2df
 normalized_title_hash: d932b6d2b168feaf
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 67ad581ec8099f3d
+tags:
+- New
 entities:
 - Google
 themes:
@@ -23,9 +24,9 @@ embedding_id: 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-lapt
 event_name: ''
 ---
 
-# ### Google Releases Gemma 4 12B, Sized to Run on a 16GB Laptop
+# Google Releases Gemma 4 12B, Sized to Run on a 16GB Laptop
 
-Google filled the mid-tier gap in Gemma 4 with a ~12B-parameter open model under Apache 2.0, engineered to run locally on consumer hardware with 16GB of RAM. An encoder-free unified architecture feeds raw audio and visual patches directly into the language backbone, natively handling text, image, audio, and video. A notable push toward private, on-device AI as memory costs climb. - [Ars Technica](https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/) --- **Tags:** `HOT` `NEW`
+Google filled the mid-tier gap in Gemma 4 with a ~12B-parameter open model under Apache 2.0, engineered to run locally on consumer hardware with 16GB of RAM. An encoder-free unified architecture feeds raw audio and visual patches directly into the language backbone, natively handling text, image, audio, and video. A notable push toward private, on-device AI as memory costs climb.
 
 <!-- graph:start -->
 ## Connections

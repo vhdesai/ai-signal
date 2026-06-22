@@ -21,7 +21,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te
+canonical_article_id: 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 related_article_ids: []
 embedding_id: 2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai
 event_name: ''
@@ -36,5 +36,5 @@ An internal ByteDance update revealed the company cut roughly 30% of its AI appl
 
 **Entities:** [[ByteDance]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te]]
+**Canonical:** [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]]
 <!-- graph:end -->

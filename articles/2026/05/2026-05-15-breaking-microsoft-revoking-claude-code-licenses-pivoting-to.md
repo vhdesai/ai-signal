@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
+- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
-- 2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+- 2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi
 embedding_id: 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft is revoking internal licenses for Anthropic's Claude Code and directin
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]]
+**Related:** [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-microsoft-scaled-back-internal-claude-code-access-as-ai-codi]]
 <!-- graph:end -->

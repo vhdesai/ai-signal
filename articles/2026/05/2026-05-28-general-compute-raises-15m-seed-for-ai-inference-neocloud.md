@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne
-- 2026-06-18-tags-funding-hot
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp
+- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
+- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 event_name: ''
 ---
@@ -37,5 +38,5 @@ General Compute closed a $15M seed at $60M post-money, led by FUSE VC with Carya
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne]] · [[2026-06-18-tags-funding-hot]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp]]
+**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

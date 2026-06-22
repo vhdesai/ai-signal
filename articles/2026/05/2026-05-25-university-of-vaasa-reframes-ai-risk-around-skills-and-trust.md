@@ -8,7 +8,7 @@ url_canonical: https://www.sciencedaily.com/releases/2026/05/260525000448.htm
 url_status: ok
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
-content_hash: 355b566022e6a9eb48820ed013ae7a49ce5473ee0de2c057c1afb0ffff8d6c6f
+content_hash: b37011e60bff4c32aabbe357c11a760a8918a299516d91fb9de8088c4caa349c
 normalized_title_hash: c8fe371cd1e6db53
 canonical_url_hash: c49f3ca5c144121a
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # University of Vaasa reframes AI risk around skills and trust
 
-University of Vaasa research suggests generative AI can increase employee engagement and adaptability when workers view it as a collaborator rather than a threat. The research also warns that over-trust and under-trust both create risk: one weakens judgment, while the other leaves productivity gains unused. URL verification pass: Public URLs retained in this corrected edition returned valid content during review. Paywalled publisher URLs from WSJ, Bloomberg, PitchBook, and The Information returned access-restricted 401/403 responses in automated checks; these are retained only where they are clean publisher URLs or the requested The Information search-link format. Items with confirmed 404 URLs were removed. Compiled from the Cowork Daily AI News Digest, the 8:01 digest, and original source emails received within the last 24–48 hours. Sent by Copilot Cowork.
+University of Vaasa research suggests generative AI can increase employee engagement and adaptability when workers view it as a collaborator rather than a threat. The research also warns that over-trust and under-trust both create risk: one weakens judgment, while the other leaves productivity gains unused. URL verification pass: Public URLs retained in this corrected edition returned valid content during review. Paywalled publisher URLs from WSJ, Bloomberg, PitchBook, and The Information returned access-restricted 401/403 responses in automated checks; these are retained only where they are clean publisher URLs or the requested The Information search-link format. Items with confirmed 404 URLs were removed.
 
 <!-- graph:start -->
 ## Connections

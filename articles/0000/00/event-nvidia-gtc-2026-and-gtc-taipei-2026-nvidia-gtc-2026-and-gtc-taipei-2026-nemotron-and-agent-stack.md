@@ -7,7 +7,7 @@ url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
 url_status: ok
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
-content_hash: e6d22e92239084ffb15e44561bdb2712bcbe2ef82307cf06e9442dc70c728a86
+content_hash: ba14a58d8570a703c974fd9832cbbf36b9f7d58c1ca93f8676be514d864e2539
 normalized_title_hash: 86756afeab08eac4
 canonical_url_hash: 54b0fed1c5988780
 tags:
@@ -41,7 +41,7 @@ event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 
 # NVIDIA GTC 2026 and GTC Taipei 2026: Nemotron and agent stack
 
-- **Nemotron 3 Nano Omni:** Covered as a unified multimodal reasoning model released at GTC. - **OpenClaw and NemoClaw:** The corpus links NVIDIA's GTC narrative to cross-vendor agent runtime work and safer agents that run locally, in cloud VMs, and at the edge. - **SAP partnership:** Several entries describe enterprise agent runtime collaboration with SAP.
+Nemotron 3 Nano Omni: Covered as a unified multimodal reasoning model released at GTC. - OpenClaw and NemoClaw: The corpus links NVIDIA's GTC narrative to cross-vendor agent runtime work and safer agents that run locally, in cloud VMs, and at the edge. - SAP partnership: Several entries describe enterprise agent runtime collaboration with SAP.
 
 <!-- graph:start -->
 ## Connections

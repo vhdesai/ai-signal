@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-- 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
-- 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
+- 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
+- 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 embedding_id: 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon is leaving the door open to blending its Rufus AI assistant directly into
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]]
+**Related:** [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
 <!-- graph:end -->

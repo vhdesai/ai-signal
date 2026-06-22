@@ -21,8 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
+- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
+- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Boston is actively recruiting AI founders and senior engineers in response to Ca
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]]
+**Related:** [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

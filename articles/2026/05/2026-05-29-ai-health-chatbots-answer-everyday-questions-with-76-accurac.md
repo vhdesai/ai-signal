@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
+- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
+- 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 embedding_id: 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 event_name: ''
 ---
@@ -37,5 +37,5 @@ research found that AI-powered chatbots correctly answer everyday health questio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-04-02-daily-ai-news-digest
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
-- 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
+- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-04-02-daily-ai-news-digest
 embedding_id: 2026-04-02-market-signals-context
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft Targets Frontier-Scale Large AI Models by 2027 — The Microsoft vs. O
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-04-02-daily-ai-news-digest]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]]
+**Related:** [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-04-02-daily-ai-news-digest]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 - 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
+- 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 embedding_id: 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft has lagged the rest of the Magnificent Seven this year even as its AI 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
+**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

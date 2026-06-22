@@ -7,7 +7,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
-content_hash: 4047ae8494b5df44ba0aadbd9cadf8f500ae0520e486f7134bd5efd1b5a046ad
+content_hash: 4c20025225298bf307d66a80da011fd017e81976d19a6431076eca980af301aa
 normalized_title_hash: 62acf33287e3259c
 canonical_url_hash: ''
 tags:
@@ -34,7 +34,7 @@ event_name: Microsoft Build 2026
 
 # Microsoft Build 2026: Security, trust, governance, and responsible AI
 
-- **Agent 365 for local agents / Windows 365 for Agents:** Control plane and managed Cloud PC approach for observing, governing, and securing agents across frameworks and hosting environments. - **Agent Control Specification:** Open specification for where and how to apply controls in agent loops and runtime governance. Link: [Agent Control Specification](https://commandline.microsoft.com/agent-control-specification-runtime-governance/). - **ASSERT:** Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open-source approach to turning written intent and policies into executable agent evaluations. Link: [ASSERT](https://commandline.microsoft.com/assert-written-intent-executable-evals/). - **Build agents you can trust:** Microsoft described a new open trust stack for AI agents on any framework. Link: [Responsible AI / trust stack](https://aka.ms/BuildFoundryRAI). - **MDASH:** Multi-model agentic security system with 100+ agents to identify exploitable bugs and provide context-aware fixes through Defender Portal. Link: [MDASH](https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/). - **Security Build recap:** Security updates across agentic SDLC and Agent 365. Link: [Build security blog](https://aka.ms/BUILD_SecurityBlog). - **Foundry IQ security and governance:** Links: [Foundry IQ security](https://aka.ms/FoundryIQ-security), [Foundry IQ data pipelines and extraction](https://aka.ms/foundryIQ-data), [Foundry IQ evaluations](https://aka.ms/FoundryIQ-evals).
+Agent 365 for local agents / Windows 365 for Agents: Control plane and managed Cloud PC approach for observing, governing, and securing agents across frameworks and hosting environments. - Agent Control Specification: Open specification for where and how to apply controls in agent loops and runtime governance. Link: Agent Control Specification. - ASSERT: Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open-source approach to turning written intent and policies into executable agent evaluations. Link: ASSERT. - Build agents you can trust: Microsoft described a new open trust stack for AI agents on any framework. Link: Responsible AI / trust stack. - MDASH: Multi-model agentic security system with 100+ agents to identify exploitable bugs and provide context-aware fixes through Defender Portal. Link: MDASH. - Security Build recap: Security updates across agentic SDLC and Agent 365. Link: Build security blog. - Foundry IQ security and governance: Links: Foundry IQ security, Foundry IQ data pipelines and extraction, Foundry IQ evaluations.
 
 <!-- graph:start -->
 ## Connections

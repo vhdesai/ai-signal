@@ -4,8 +4,8 @@ title: Anthropic Claude Code Source Leaked Again — Exposes "Capybara" Model Fa
 date: '2026-03-31'
 source: TechStartups
 url_original: null
-url_canonical: https://techstartups.com/2026/03/31/anthropics-claude-source-code-leak-goes-viral-again-after-full-source-hits-npm-registry-revealing-hidden-capybara-models-and-ai-pet/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 5d4a8370876b291847a789cd441b3742001d180503a1a2fa80c549962cc852ec
@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
+- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 embedding_id: 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Security researcher Chaofan Shou found that Claude Code v2.1.88 contained a 57MB
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

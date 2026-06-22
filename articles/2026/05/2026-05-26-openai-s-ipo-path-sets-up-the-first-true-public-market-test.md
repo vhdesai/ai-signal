@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga
-- 2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies
 - 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
+- 2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies
 - 2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation
 - 2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation
 embedding_id: 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
@@ -39,5 +39,5 @@ The Cowork newsletter highlighted OpenAI’s confidential S-1 process as a defin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga]] · [[2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]] · [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]]
+**Related:** [[2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies]] · [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation]] · [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]]
 <!-- graph:end -->

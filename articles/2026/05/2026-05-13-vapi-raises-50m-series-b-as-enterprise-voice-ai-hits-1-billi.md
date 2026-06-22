@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: AiThority
 url_original: https://aithority.com/machine-learning/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai/
 url_canonical: https://aithority.com/machine-learning/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 9c6c3fcef61ca04d606218f8e10cccfced26a276f5b69cd3b94a54ff29a36ca9
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
+- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 embedding_id: 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Voice-agent platform Vapi closed a $50M Series B led by Peak XV, with participat
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]]
+**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

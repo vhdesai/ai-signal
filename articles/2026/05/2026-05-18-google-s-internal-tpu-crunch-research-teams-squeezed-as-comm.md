@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight
+- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
+- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 embedding_id: 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Sources inside Google report that internal competition for TPU allocations has i
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]]
+**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
+- 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
+- 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 embedding_id: 2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Following the March 20 release of the National Policy Framework for AI, the DOJ'
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]]
+**Related:** [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]]
 <!-- graph:end -->

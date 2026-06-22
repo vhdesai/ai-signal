@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
+- 2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 embedding_id: 2026-05-26-university-of-california-establishes-systemwide-ai-steering
 event_name: ''
@@ -35,5 +36,5 @@ UC President Michael Drake and UCSD Chancellor Pradeep Khosla announced a new sy
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
+**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
 <!-- graph:end -->

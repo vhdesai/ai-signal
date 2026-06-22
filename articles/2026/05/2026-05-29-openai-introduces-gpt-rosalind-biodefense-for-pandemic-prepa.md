@@ -1,20 +1,20 @@
 ---
 article_id: 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-prepa
-title: '### OpenAI introduces GPT-Rosalind Biodefense for pandemic-preparedness research'
+title: OpenAI introduces GPT-Rosalind Biodefense for pandemic-preparedness research
 date: '2026-05-29'
 source: OpenAI*
 url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-31_163732_Daily-AI-News-Digest.md
-content_hash: 5dee2d33b0db3641cd435ed2c0acadd43131791d5c46d419b742bd6b10c9a76f
+content_hash: 782e3f89232a606e8f33fb10087f3415f68cdadfa8d664e28c0bb67a4d93b1cc
 normalized_title_hash: 23912773e3d8bf81
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - OpenAI
 themes:
-- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -24,14 +24,14 @@ embedding_id: 2026-05-29-openai-introduces-gpt-rosalind-biodefense-for-pandemic-
 event_name: ''
 ---
 
-# ### OpenAI introduces GPT-Rosalind Biodefense for pandemic-preparedness research
+# OpenAI introduces GPT-Rosalind Biodefense for pandemic-preparedness research
 
-OpenAI announced a Biodefense-focused variant in its Rosalind life-sciences line, positioned for pathogen surveillance and pandemic-preparedness workflows with added safety guardrails for dual-use biology. The move extends OpenAI's vertical push into regulated scientific domains. Details on access tiers and partner institutions were limited at announcement. --- **Tags:** `NEW`
+OpenAI announced a Biodefense-focused variant in its Rosalind life-sciences line, positioned for pathogen surveillance and pandemic-preparedness workflows with added safety guardrails for dual-use biology. The move extends OpenAI's vertical push into regulated scientific domains. Details on access tiers and partner institutions were limited at announcement.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-29-openai-briefs-the-white-house-on-gpt-rosalind-biodefense-pro]]
 <!-- graph:end -->

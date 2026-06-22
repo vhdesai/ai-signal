@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
-- 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
+- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 embedding_id: 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Ars Technica unpacks the SpaceX S-1, which positions the SpaceXAI division (form
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]]
+**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

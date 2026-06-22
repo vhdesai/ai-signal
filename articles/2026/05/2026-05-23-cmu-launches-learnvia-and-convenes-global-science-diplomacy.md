@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-05-11-openai-launches-campus-network-global-student-ai-ambassador
+- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
-- 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 embedding_id: 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CMU's AI portal pushed updates this weekend covering the launch of Learnvia (an 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-11-openai-launches-campus-network-global-student-ai-ambassador]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]]
+**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-11-openai-launches-campus-network-global-student-ai-ambassador]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
 <!-- graph:end -->

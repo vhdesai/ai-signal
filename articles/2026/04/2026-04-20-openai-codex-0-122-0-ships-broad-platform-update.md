@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
-- 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
-- 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
+- 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
+- 2026-05-29-openai-brings-codex-computer-use-to-windows
 embedding_id: 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI released Codex 0.122.0 with more self-contained installs, richer Plan Mod
 
 **Entities:** [[Intel]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]]
+**Related:** [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]]
 <!-- graph:end -->

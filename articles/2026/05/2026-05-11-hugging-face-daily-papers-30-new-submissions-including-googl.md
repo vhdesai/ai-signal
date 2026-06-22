@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
-content_hash: 28f1cdd1044519a0c0add1f83bfc03b5c874d17f51825b4b160c8320506109b2
+content_hash: d1b6d1adf0e3c39a6111a513124148a6984043b4dd03f32c7831f50abe6f5c3c
 normalized_title_hash: c03d0b390817ef80
 canonical_url_hash: ''
 tags:
@@ -26,21 +26,21 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
-- 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
-- event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
 embedding_id: 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 event_name: ''
 ---
 
 # Hugging Face Daily Papers: ~30 New Submissions Including Google DeepMind, Tencent Hunyuan, Georgia Tech
 
-The May 11 Hugging Face Daily Papers panel aggregated approximately 30 new preprints, with institutional contributions from Google DeepMind (including a 10,101-participant study on AI manipulation), Tencent Hunyuan, Tsinghua University, Georgia Tech, and UIUC. Highlights include the AI Co-Mathematician framework, Cola DLM (a distillation approach for diffusion language models), and SteerEval, a controllability evaluation benchmark. The breadth of the panel signals continued high research velocity entering the summer conference season. ________________________________
+The May 11 Hugging Face Daily Papers panel aggregated approximately 30 new preprints, with institutional contributions from Google DeepMind (including a 10,101-participant study on AI manipulation), Tencent Hunyuan, Tsinghua University, Georgia Tech, and UIUC. Highlights include the AI Co-Mathematician framework, Cola DLM (a distillation approach for diffusion language models), and SteerEval, a controllability evaluation benchmark. The breadth of the panel signals continued high research velocity entering the summer conference season.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
+**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]]
 <!-- graph:end -->

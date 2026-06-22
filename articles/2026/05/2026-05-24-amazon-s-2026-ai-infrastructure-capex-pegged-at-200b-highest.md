@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
+- 2026-04-09-products-tools
 embedding_id: 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Amazon's 2026 AI infrastructure capex is now estimated at roughly $200B — the 
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-04-09-products-tools]]
 <!-- graph:end -->

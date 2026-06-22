@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 embedding_id: 2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers led by CMU's Ding Zhao and Cleveland Clinic's David Chen introduced 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
+**Related:** [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
 <!-- graph:end -->

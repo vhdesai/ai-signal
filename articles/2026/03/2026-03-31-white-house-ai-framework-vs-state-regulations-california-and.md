@@ -5,8 +5,8 @@ title: White House AI Framework vs. State Regulations — California and Others 
 date: '2026-03-31'
 source: White House
 url_original: null
-url_canonical: https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: ffb012a90777f8d50a39976e1899b5783882292240642218bb2e2f42c00d22b3
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
+- 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 embedding_id: 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Trump administration's national AI framework calling for federal preemption 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Related:** [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
 <!-- graph:end -->

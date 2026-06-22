@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
+- 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
 embedding_id: 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
@@ -38,5 +38,5 @@ A multi-institution paper from Harvard, MIT, Stanford, Carnegie Mellon, and Nort
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
+**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
 <!-- graph:end -->

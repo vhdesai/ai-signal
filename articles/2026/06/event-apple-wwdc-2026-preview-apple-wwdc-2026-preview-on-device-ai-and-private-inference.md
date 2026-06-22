@@ -7,7 +7,7 @@ url_original: https://developer.apple.com/wwdc26/
 url_canonical: https://developer.apple.com/wwdc26/
 url_status: ok
 digest_source: digests\raw\apple-wwdc-2026-preview.md
-content_hash: 910146e03b1e65fb382c30c63bf1a84081c08a88c48ff784b8bb201c3a957d98
+content_hash: 283e360c3f102190cb25a6e9fc0f799683002498858531ca57ba399d7c8c7e81
 normalized_title_hash: 048a6e0d8a9be1cc
 canonical_url_hash: a5a90cec5e33ef64
 tags:
@@ -36,7 +36,7 @@ event_name: Apple WWDC 2026 Preview
 
 # Apple WWDC 2026 Preview: On-device AI and private inference
 
-- Multiple late-May entries say Apple will make on-device AI the centerpiece of WWDC, positioning custom silicon as a privacy and cost advantage. - The corpus reports Apple may use a large Gemini model to train or distill smaller models that can run on iPhone, Watch, and Mac. - Apple ML Research is referenced as publishing privacy evaluations for on-device foundation models.
+Multiple late-May entries say Apple will make on-device AI the centerpiece of WWDC, positioning custom silicon as a privacy and cost advantage. - The corpus reports Apple may use a large Gemini model to train or distill smaller models that can run on iPhone, Watch, and Mac. - Apple ML Research is referenced as publishing privacy evaluations for on-device foundation models.
 
 <!-- graph:start -->
 ## Connections

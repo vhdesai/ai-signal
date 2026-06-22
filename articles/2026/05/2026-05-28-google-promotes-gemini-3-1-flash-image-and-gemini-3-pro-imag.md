@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 - 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-- 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
 embedding_id: 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Google moved its native visual models — Gemini 3.1 Flash Image (Nano Banana 2)
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]]
+**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
 <!-- graph:end -->

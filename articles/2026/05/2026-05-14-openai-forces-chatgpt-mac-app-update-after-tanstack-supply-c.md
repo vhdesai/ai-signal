@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
-- 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
-- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
+- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 embedding_id: 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 event_name: ''
@@ -38,5 +38,5 @@ OpenAI is revoking existing code-signing certificates and forcing all ChatGPT Ma
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]]
+**Related:** [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]]
 <!-- graph:end -->

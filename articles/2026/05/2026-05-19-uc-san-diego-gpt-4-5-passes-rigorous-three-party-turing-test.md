@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te
 - 2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 embedding_id: 2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UC San Diego cognitive scientists Cameron Jones and Ben Bergen published in PNAS
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

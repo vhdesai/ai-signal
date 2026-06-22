@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-04-15-model-releases
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
+- 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
 embedding_id: 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is granting qualified cybersecurity researchers access to GPT-5.5-Cyber, 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]]
+**Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]]
 <!-- graph:end -->

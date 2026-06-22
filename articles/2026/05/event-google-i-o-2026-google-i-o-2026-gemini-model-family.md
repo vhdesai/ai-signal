@@ -7,7 +7,7 @@ url_original: https://io.google/2026/
 url_canonical: https://io.google/2026/
 url_status: ok
 digest_source: digests\raw\google-io-2026.md
-content_hash: 880cc2ed5e3c98ff9585dd3c2e342e4eebfabf43092c46504d4b537e0fecb1da
+content_hash: 98330bcb1b5cda09373cc0e06c1d663125a570d84ab1af5b3b25bb3828318170
 normalized_title_hash: 36a022dd29aa46c8
 canonical_url_hash: 8e1579ed419494c9
 tags:
@@ -28,7 +28,7 @@ event_name: Google I/O 2026
 
 # Google I/O 2026: Gemini model family
 
-- **Gemini 3.5 Flash:** The corpus describes Gemini 3.5 Flash as an agent-optimized, cost/performance-focused frontier model launched at I/O and powering AI Mode, Workspace features, Antigravity 2.0, and Gemini Spark. - **Gemini Omni:** Presented as Google's unified any-to-any multimodal model for text, image, audio, and video input, with video output grounded in real-world knowledge. - **Gemini Live model expansion:** Pre-I/O reporting surfaced multiple hidden Gemini Live variants, including personalization-oriented and voice-focused models.
+Gemini 3.5 Flash: The corpus describes Gemini 3.5 Flash as an agent-optimized, cost/performance-focused frontier model launched at I/O and powering AI Mode, Workspace features, Antigravity 2.0, and Gemini Spark. - Gemini Omni: Presented as Google's unified any-to-any multimodal model for text, image, audio, and video input, with video output grounded in real-world knowledge. - Gemini Live model expansion: Pre-I/O reporting surfaced multiple hidden Gemini Live variants, including personalization-oriented and voice-focused models.
 
 <!-- graph:start -->
 ## Connections

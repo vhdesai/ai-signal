@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 - 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 embedding_id: 2026-05-26-genai-apple-com-domain-spotted-ahead-of-wwdc
 event_name: ''
@@ -38,5 +38,5 @@ Domain watchers spotted Apple registering or activating genai.apple.com, fuellin
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]]
+**Related:** [[2026-05-25-apple-s-mysterious-genai-apple-com-subdomain-hints-at-major]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]]
 <!-- graph:end -->

@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
-- 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
-- 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
+- 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
+- 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
 embedding_id: 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Researchers released ZAYA1-8B, a strong open reasoning model whose defining char
 
 **Entities:** [[AMD]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]]
+**Related:** [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]]
 <!-- graph:end -->

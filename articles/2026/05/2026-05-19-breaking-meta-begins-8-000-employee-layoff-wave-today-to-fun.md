@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14
-- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
+- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 embedding_id: 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta begins cutting approximately 8,000 employees this week — roughly 10% of i
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
+**Related:** [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-capex-guidance-to-14]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

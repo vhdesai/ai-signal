@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
-- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+- 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
 embedding_id: 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Meta Reality Labs released Sapiens2, a high-resolution foundation model family p
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
+**Related:** [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]]
 <!-- graph:end -->

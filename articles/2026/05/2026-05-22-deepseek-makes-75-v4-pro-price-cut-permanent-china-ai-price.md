@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-deepseek-v4-pro-makes-its-75-discount-permanent
 - 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
+- 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
 embedding_id: 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 event_name: ''
@@ -40,5 +41,5 @@ DeepSeek announced it will permanently reduce flagship V4-Pro AI model prices by
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-deepseek-v4-pro-makes-its-75-discount-permanent]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
+**Related:** [[2026-05-22-deepseek-v4-pro-makes-its-75-discount-permanent]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 embedding_id: 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 event_name: ''
@@ -38,5 +39,5 @@ Stanford's 2026 AI Index — the year's most-cited independent measurement — r
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
+**Related:** [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
 <!-- graph:end -->

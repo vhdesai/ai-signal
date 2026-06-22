@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 - 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
+- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 embedding_id: 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic is set to close a funding round exceeding $30 billion at a valuation a
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]]
+**Related:** [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
 <!-- graph:end -->

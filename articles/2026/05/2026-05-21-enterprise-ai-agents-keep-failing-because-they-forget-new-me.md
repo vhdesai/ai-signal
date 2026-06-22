@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
+- 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
 embedding_id: 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Multiple academic groups published the same week converging on a single finding:
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
+**Related:** [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]]
 <!-- graph:end -->

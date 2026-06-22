@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
+- 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 embedding_id: 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Federal AI policy remains unsettled: the White House delayed its proposed AI cyb
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]]
+**Related:** [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]]
 <!-- graph:end -->

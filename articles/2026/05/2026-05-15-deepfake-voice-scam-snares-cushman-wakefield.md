@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 - 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
-- 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 embedding_id: 2026-05-15-deepfake-voice-scam-snares-cushman-wakefield
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A deepfake voice-cloning attack successfully targeted real-estate giant Cushman 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
+**Related:** [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]]
 <!-- graph:end -->

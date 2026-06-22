@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin
 - 2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 embedding_id: 2026-05-18-research-big-ai-uses-big-tobacco-style-lobbying-tactics-to-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from the University of Edinburgh, Trinity College Dublin, TU Delft, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
+**Related:** [[2026-05-19-cmu-edinburgh-tu-delft-study-big-ai-uses-big-tobacco-lobbyin]] · [[2026-05-01-survey-9-in-10-u-s-and-european-policy-experts-say-ai-govern]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
 <!-- graph:end -->

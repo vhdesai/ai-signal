@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
+- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-- 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
-- 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
+- 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 embedding_id: 2026-05-05-hotmeta-deploys-ai-height-bone-structure-analysis-for-age-ve
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Meta is using AI to analyze user height and bone structure to identify users it 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]]
+**Related:** [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]]
 <!-- graph:end -->

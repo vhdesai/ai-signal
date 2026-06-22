@@ -23,7 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-- 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
+- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
+- 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
 embedding_id: 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Gemini 3.5 Flash continues rolling out across Search, the Gemini app, and the AP
 ## Connections
 
 **Entities:** [[Google]] · [[Samsung]]
-**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail]]
+**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout]]
 <!-- graph:end -->

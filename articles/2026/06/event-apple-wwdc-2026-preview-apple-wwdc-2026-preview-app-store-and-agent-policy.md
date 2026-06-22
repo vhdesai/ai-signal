@@ -7,7 +7,7 @@ url_original: https://developer.apple.com/wwdc26/
 url_canonical: https://developer.apple.com/wwdc26/
 url_status: ok
 digest_source: digests\raw\apple-wwdc-2026-preview.md
-content_hash: 902d85ee97fa6ee9a2e24f77e539b19dbf816c75453a7a3a231d437ed30400c7
+content_hash: 73954f770aded79331159df4679df53e6a24a6e563d51e21c89c8d8fa7e8a8ee
 normalized_title_hash: 69af8a146a4fc47f
 canonical_url_hash: a5a90cec5e33ef64
 tags:
@@ -34,7 +34,7 @@ event_name: Apple WWDC 2026 Preview
 
 # Apple WWDC 2026 Preview: App Store and agent policy
 
-- A 9to5Mac/The Information item in the corpus says Apple is designing a system for AI agents to interoperate with App Store apps while maintaining privacy, security, and revenue rules. - This is a key platform question: whether agents can act through apps without bypassing app distribution and payment economics.
+A 9to5Mac/The Information item in the corpus says Apple is designing a system for AI agents to interoperate with App Store apps while maintaining privacy, security, and revenue rules. • This is a key platform question: whether agents can act through apps without bypassing app distribution and payment economics.
 
 <!-- graph:start -->
 ## Connections

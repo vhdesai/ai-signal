@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
-- 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
+- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
 embedding_id: 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor 3.0's Agents Window — launched in late April 2026 — fundamentally cha
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]]
+**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]]
 <!-- graph:end -->

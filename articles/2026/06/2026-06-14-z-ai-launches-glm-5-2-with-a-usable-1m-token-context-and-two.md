@@ -28,8 +28,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
+- 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 embedding_id: 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
@@ -45,5 +45,5 @@ Zhipu AI's Z.ai released GLM-5.2, notable for a genuinely usable 1M-token contex
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
+**Related:** [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
 <!-- graph:end -->

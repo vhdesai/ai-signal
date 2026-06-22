@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-- 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
+- 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 embedding_id: 2026-05-26-eu-rolls-out-mandatory-ai-inventory-compliance-artifact
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The European Commission published the specification for the mandatory "AI Invent
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]]
+**Related:** [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]]
 <!-- graph:end -->

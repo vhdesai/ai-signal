@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 - 2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic
-- 2026-04-09-the-u-s
 - 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
 - 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
 embedding_id: 2026-04-08-ai-safety-policy
@@ -38,5 +38,5 @@ DC Appeals Court Denies Anthropic Bid to Block Pentagon Blacklist
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic]] · [[2026-04-09-the-u-s]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]]
+**Related:** [[2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-07-new-pentagon-tech-chief-no-near-term-resolution-on-anthropic]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]]
 <!-- graph:end -->

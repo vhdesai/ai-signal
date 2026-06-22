@@ -20,7 +20,10 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+- 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
 embedding_id: 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
 event_name: ''
 ---
@@ -34,4 +37,5 @@ Apple confirmed that CEO Tim Cook will step down later in 2026, with SVP of Hard
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]]
 <!-- graph:end -->

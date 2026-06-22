@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
+- 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 embedding_id: 2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Google and Blackstone unveiled a joint venture to offer AI data-center capacity,
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]]
+**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]]
 <!-- graph:end -->

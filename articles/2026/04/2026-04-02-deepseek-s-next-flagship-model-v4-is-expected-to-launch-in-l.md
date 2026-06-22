@@ -1,16 +1,21 @@
 ---
 article_id: 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 title: DeepSeek's next flagship model, V4, is expected to launch in late April 2026
-  and will run natively on Huawei's Ascend 950PR chips, marking a landmark milesto…
+  and will run natively on Huawei's Ascend 950PR chips, marking a landmark milestone
+  for China's push for AI compute independence from Nvidia. The model is rumored to
+  feature a ~1 trillion parameter Mixture-of-Experts architecture with approximately
+  37 billion active parameters — comparable to GPT-5.4's efficiency profile. The announcement
+  is generating substantial anticipation in both AI research and geopolitical circles
+  as a proof of concept for the domestic Chinese AI stack.
 date: '2026-04-02'
 source: 🌶 HOT Alibaba
 url_original: null
-url_canonical: https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
-content_hash: dcc3c8b26ae66de690d1a29323e1340cf3f088c17ad6e1818745d1aa667a527e
-normalized_title_hash: b33d80edef36d38a
+content_hash: 1aac1c7265c9c560d6e4081839f21fa8bba39596c75c47b7b7646b2a33196adb
+normalized_title_hash: acfd8f7e1440d7c6
 canonical_url_hash: ''
 tags: []
 entities:
@@ -35,9 +40,9 @@ embedding_id: 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch
 event_name: ''
 ---
 
-# DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milesto…
+# DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milestone for China's push for AI compute independence from Nvidia. The model is rumored to feature a ~1 trillion parameter Mixture-of-Experts architecture with approximately 37 billion active parameters — comparable to GPT-5.4's efficiency profile. The announcement is generating substantial anticipation in both AI research and geopolitical circles as a proof of concept for the domestic Chinese AI stack.
 
-DeepSeek's next flagship model, V4, is expected to launch in late April 2026 and will run natively on Huawei's Ascend 950PR chips, marking a landmark milestone for China's push for AI compute independence from Nvidia. The model is rumored to feature a ~1 trillion parameter Mixture-of-Experts architecture with approximately 37 billion active parameters — comparable to GPT-5.4's efficiency profile. The announcement is generating substantial anticipation in both AI research and geopolitical circles as a proof of concept for the domestic Chinese AI stack. Alibaba Releases Qwen3.6-Plus (Open Source, Apache 2.0) and Previews HappyHorse-1.0 Video Generation Model
+Alibaba Releases Qwen3.6-Plus (Open Source, Apache 2.0) and Previews HappyHorse-1.0 Video Generation Model
 
 <!-- graph:start -->
 ## Connections

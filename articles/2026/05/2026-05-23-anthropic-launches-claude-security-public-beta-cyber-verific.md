@@ -6,7 +6,7 @@ date: '2026-05-23'
 source: Cybersecurity News
 url_original: https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/
 url_canonical: https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: ad5bb98a85984eee6e85cad85314833bb5c1b62f774d4ff644ca4d37c8ed03b0
@@ -27,7 +27,8 @@ related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
+- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 embedding_id: 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Alongside the Glasswing update, Anthropic announced Claude Security in public be
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]]
 <!-- graph:end -->

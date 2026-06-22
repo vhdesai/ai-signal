@@ -18,7 +18,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
+canonical_article_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 related_article_ids: []
 embedding_id: 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
 event_name: ''
@@ -33,5 +33,5 @@ Anthropic is in the final stages of a funding round expected to raise roughly $3
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]]
+**Canonical:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

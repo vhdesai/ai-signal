@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
+- 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
-- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo
 embedding_id: 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 event_name: ''
@@ -39,5 +39,5 @@ OpenAI has quietly enabled marketing cookies and ad-targeting tracking by defaul
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]]
+**Related:** [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]]
 <!-- graph:end -->

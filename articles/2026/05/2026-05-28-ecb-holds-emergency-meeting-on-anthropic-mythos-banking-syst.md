@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-13-ai-safety-policy
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-- 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
+- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 embedding_id: 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The European Central Bank held an ad-hoc emergency meeting after Anthropic's Myt
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]]
+**Related:** [[2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
 <!-- graph:end -->

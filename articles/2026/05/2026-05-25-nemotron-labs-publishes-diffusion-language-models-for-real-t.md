@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: Hugging Face Blog
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: dcf27f5025a7b9c9a24eebf088e1b39d96855fe3d0a148638393267b00244385
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
+- 2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen
 embedding_id: 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new wave of Nemotron-Labs diffusion language models claims to compress text-ge
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
+**Related:** [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen]]
 <!-- graph:end -->

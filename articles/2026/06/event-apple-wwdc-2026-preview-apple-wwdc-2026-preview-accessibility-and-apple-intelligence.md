@@ -7,7 +7,7 @@ url_original: https://developer.apple.com/wwdc26/
 url_canonical: https://developer.apple.com/wwdc26/
 url_status: ok
 digest_source: digests\raw\apple-wwdc-2026-preview.md
-content_hash: 93e556deb3c8b1533308b11b9807d0f62ee647eae697a67dfa26c002d84c3383
+content_hash: 52b73701e4784e99690a6d378bf546792fffb6eaab2bbdc9635c18cdb3e3c4cb
 normalized_title_hash: 9acbb124e20d8ed6
 canonical_url_hash: a5a90cec5e33ef64
 tags:
@@ -34,7 +34,7 @@ event_name: Apple WWDC 2026 Preview
 
 # Apple WWDC 2026 Preview: Accessibility and Apple Intelligence
 
-- Corpus links include Apple accessibility updates with Apple Intelligence features, suggesting WWDC may frame AI as an accessibility, productivity, and device-personalization layer.
+Corpus links include Apple accessibility updates with Apple Intelligence features, suggesting WWDC may frame AI as an accessibility, productivity, and device-personalization layer.
 
 <!-- graph:start -->
 ## Connections

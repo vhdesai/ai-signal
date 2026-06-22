@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
+- 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 embedding_id: 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Intel introduced rack-scale AI infrastructure for agentic and inference workload
 
 **Entities:** [[Intel]] · [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
+**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]]
 <!-- graph:end -->

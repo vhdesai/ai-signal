@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
-- 2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und
+- 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 embedding_id: 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Sam Altman took the stand in the Musk-OpenAI trial to defend the company's for-p
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-19-elon-musk-loses-openai-lawsuit-unanimous-jury-verdict-in-und]]
+**Related:** [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]]
 <!-- graph:end -->

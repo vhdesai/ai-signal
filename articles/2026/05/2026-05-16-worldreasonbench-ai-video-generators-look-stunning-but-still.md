@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-openai-unveils-image-provenance-tool-making-ai-generated-con
 - 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
 - 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 - 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
+- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 embedding_id: 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A new benchmark called WorldReasonBench tests AI video generators not on image f
 
 **Entities:** [[ByteDance]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-openai-unveils-image-provenance-tool-making-ai-generated-con]] · [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]]
+**Related:** [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
 <!-- graph:end -->

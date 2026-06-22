@@ -1,40 +1,40 @@
 ---
 article_id: 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
-title: '### Bull and Foxconn Partner to Scale European AI Manufacturing'
+title: Bull and Foxconn Partner to Scale European AI Manufacturing
 date: '2026-06-01'
 source: HPCwire; Yahoo Finance; Focus Taiwan
 url_original: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
 url_canonical: https://www.yahoo.com/finance/news/bull-foxconn-partner-scale-europes-063000548.html
 url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
-content_hash: 11205c9edad40e2f3cd1a1e8f9063c8e02b372e5841cd699bc5db719ac55e430
+content_hash: b5052e9b72d3c1e37c30f243cbc192591d238ca4f6ba3a05a3755bb81013d6d1
 normalized_title_hash: d5378fb61249f0e9
 canonical_url_hash: 5c3e7ab4888bf94e
-tags: []
+tags:
+- Trending
 entities: []
 themes:
-- datacenter-infrastructure
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
-- 2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and
-- 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
+- 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 embedding_id: 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
 event_name: ''
 ---
 
-# ### Bull and Foxconn Partner to Scale European AI Manufacturing
+# Bull and Foxconn Partner to Scale European AI Manufacturing
 
-Atos subsidiary Bull and Foxconn (Hon Hai) announced a partnership to manufacture AI infrastructure systems in Europe. Foxconn is also expanding its French presence through a separate chip-packaging venture (Tessalia). The deal reflects a broader trend of AI hardware supply chain diversification beyond Asia and the U.S., driven by European industrial policy and data sovereignty requirements. --- ## Infrastructure **Tags:** `NEW`
+Atos subsidiary Bull and Foxconn (Hon Hai) announced a partnership to manufacture AI infrastructure systems in Europe. Foxconn is also expanding its French presence through a separate chip-packaging venture (Tessalia). The deal reflects a broader trend of AI hardware supply chain diversification beyond Asia and the U.S., driven by European industrial policy and data sovereignty requirements.
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-08-alibaba-restructures-ai-organization-token-foundry-unit-and]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
-content_hash: 15a1b5e32a964c3989202ab6fe6c1aeb8f8b2a7a0d0f9bedeaf73fd7fbd47d29
+content_hash: bdfc42138e7020667765eef9cb06de2125bb0ea87a3605b744d5c7a9410333dd
 normalized_title_hash: 36eb44688047a231
 canonical_url_hash: ''
 tags: []
@@ -27,7 +27,7 @@ event_name: ''
 
 # Oracle Fusion Data Intelligence Goes Live at Heathrow, MTN, and Kent New
 
-Oracle announced May 21 that Heathrow Airport, the Kent county council, and MTN Group are now live on Oracle Fusion Data Intelligence, using AI-embedded analytics to accelerate decision-making across finance, operations, and customer experience. The announcement extends Oracle's May enterprise footprint, following its May 1 classified cloud agreement with the U.S. Department of War. Oracle is positioning Fusion Data Intelligence as a turnkey AI analytics layer on top of its ERP infrastructure — a strategy designed to retain and deepen existing ERP customers rather than require net-new greenfield deployments. ________________________________
+Oracle announced May 21 that Heathrow Airport, the Kent county council, and MTN Group are now live on Oracle Fusion Data Intelligence, using AI-embedded analytics to accelerate decision-making across finance, operations, and customer experience. The announcement extends Oracle's May enterprise footprint, following its May 1 classified cloud agreement with the U.S. Department of War. Oracle is positioning Fusion Data Intelligence as a turnkey AI analytics layer on top of its ERP infrastructure — a strategy designed to retain and deepen existing ERP customers rather than require net-new greenfield deployments.
 
 <!-- graph:start -->
 ## Connections

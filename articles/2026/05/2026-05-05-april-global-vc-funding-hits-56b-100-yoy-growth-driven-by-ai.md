@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
-- 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
+- 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
-- 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
+- 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 embedding_id: 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Global startup funding doubled year-over-year to $56B in April — the third-hig
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]]
+**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]]
 <!-- graph:end -->

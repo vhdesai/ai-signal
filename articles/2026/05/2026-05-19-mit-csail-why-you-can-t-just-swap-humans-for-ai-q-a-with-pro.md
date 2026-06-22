@@ -43,10 +43,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
-- 2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 - 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
+- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro
 event_name: ''
 ---
@@ -60,5 +60,5 @@ MIT CSAIL Professor Armando Solar-Lezama argues in a published Q&A that the most
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]]
+**Related:** [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
 <!-- graph:end -->

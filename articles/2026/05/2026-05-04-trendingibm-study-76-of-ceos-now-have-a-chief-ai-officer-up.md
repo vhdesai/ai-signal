@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
 - 2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
+- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 embedding_id: 2026-05-04-trendingibm-study-76-of-ceos-now-have-a-chief-ai-officer-up
 event_name: ''
@@ -33,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-05-04-ibm-ceo-study-c-suite-roles-being-reshaped-for-the-ai-era]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
 <!-- graph:end -->

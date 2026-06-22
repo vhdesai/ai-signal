@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
+- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
-- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 embedding_id: 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Linux Foundation announced DNS-AID — a project to build decentralized disc
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]]
+**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
 <!-- graph:end -->

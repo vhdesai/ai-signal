@@ -1,7 +1,12 @@
 ---
 article_id: 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 title: Anthropic has signed a landmark agreement committing over $100 billion to Amazon's
-  AWS cloud platform over the next decade to train and run its Claude models.
+  AWS cloud platform over the next decade to train and run its Claude models. Amazon
+  will invest $5 billion immediately plus up to $20 billion more — on top of a prior
+  $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal
+  grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips.
+  This positions AWS as the primary compute backbone for one of the world's leading
+  AI labs, a significant competitive coup against Microsoft Azure and Google Cloud.
 date: '2026-04-22'
 source: 🔥 Hot DeepSeek / Tencent / Alibaba
 url_original: null
@@ -9,8 +14,8 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
-content_hash: 322ebf8a9f868d6956ac5d9204a6ec324a0809537e9fa32dca28751bfaf9182e
-normalized_title_hash: fc21aa24f41d85ac
+content_hash: 75a3aef19b6f2492887e9f94f07f597ee87b0b23fe3c1cbe8d21b64d12ecf757
+normalized_title_hash: 31e1a39dbddade34
 canonical_url_hash: ''
 tags: []
 entities:
@@ -39,9 +44,9 @@ embedding_id: 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-ov
 event_name: ''
 ---
 
-# Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models.
+# Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models. Amazon will invest $5 billion immediately plus up to $20 billion more — on top of a prior $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips. This positions AWS as the primary compute backbone for one of the world's leading AI labs, a significant competitive coup against Microsoft Azure and Google Cloud.
 
-Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models. Amazon will invest $5 billion immediately plus up to $20 billion more — on top of a prior $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips. This positions AWS as the primary compute backbone for one of the world's leading AI labs, a significant competitive coup against Microsoft Azure and Google Cloud. Tencent & Alibaba in Talks to Invest in DeepSeek at $20B+ Valuation
+Tencent & Alibaba in Talks to Invest in DeepSeek at $20B+ Valuation
 
 <!-- graph:start -->
 ## Connections

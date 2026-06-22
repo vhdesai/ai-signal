@@ -1,7 +1,11 @@
 ---
 article_id: 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 title: Anthropic released a curated GitHub-hosted directory of verified plugins extending
-  Claude Code, alongside an open-source "knowledge-work-plugins" repository…
+  Claude Code, alongside an open-source "knowledge-work-plugins" repository that maps
+  Claude Cowork to specific job roles and team structures. The releases deepen Anthropic's
+  bet that an extensible developer ecosystem — not raw model capability alone — will
+  determine enterprise lock-in, directly challenging GitHub Copilot's marketplace
+  and Microsoft 365 Copilot.
 date: '2026-05-26'
 source: Anthropic · anthropic.com/news
 url_original: null
@@ -9,8 +13,8 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-26_080048_Inbox_Daily AI News Digest –– May 26,
   2026.md
-content_hash: b3537caa9e73a7598175590b3699770ebb9ed52e96d5625a6bf00d0a02615869
-normalized_title_hash: 93da19412ae411c4
+content_hash: 5c4f2ad09062785ab3eea33ed34883c5c9b6f610907aece12d235681b1e4d4c7
+normalized_title_hash: 0ed1f61ca42d11e9
 canonical_url_hash: ''
 tags: []
 entities:
@@ -28,9 +32,9 @@ embedding_id: 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of
 event_name: ''
 ---
 
-# Anthropic released a curated GitHub-hosted directory of verified plugins extending Claude Code, alongside an open-source "knowledge-work-plugins" repository…
+# Anthropic released a curated GitHub-hosted directory of verified plugins extending Claude Code, alongside an open-source "knowledge-work-plugins" repository that maps Claude Cowork to specific job roles and team structures. The releases deepen Anthropic's bet that an extensible developer ecosystem — not raw model capability alone — will determine enterprise lock-in, directly challenging GitHub Copilot's marketplace and Microsoft 365 Copilot.
 
-Anthropic released a curated GitHub-hosted directory of verified plugins extending Claude Code, alongside an open-source "knowledge-work-plugins" repository that maps Claude Cowork to specific job roles and team structures. The releases deepen Anthropic's bet that an extensible developer ecosystem — not raw model capability alone — will determine enterprise lock-in, directly challenging GitHub Copilot's marketplace and Microsoft 365 Copilot. OpenAI ships ChatGPT add-in for Microsoft PowerPoint
+OpenAI ships ChatGPT add-in for Microsoft PowerPoint
 
 <!-- graph:start -->
 ## Connections

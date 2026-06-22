@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
+- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
+- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
-- 2026-04-02-source-all-about-lawyer-the-neuron
 embedding_id: 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 event_name: ''
 ---
@@ -41,5 +41,5 @@ data shows Microsoft has earned more than $30B in revenue from OpenAI-tied servi
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
+**Related:** [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
 <!-- graph:end -->

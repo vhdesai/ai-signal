@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-1
 url_status: ok
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
-content_hash: 5b770b4ef2564f15520312f3b6fce8239e0095ed9e14ee1d9365ca0c8a796748
+content_hash: d591330a93ffe283c5bc516407e4cdfb87bfc3af31ecc6131e64ac5704e5b988
 normalized_title_hash: b77d25fc2d13d499
 canonical_url_hash: 50ebcae2965c10e8
 tags:
@@ -24,18 +24,18 @@ related_article_ids:
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-- 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
 event_name: ''
 ---
 
 # Supabase Doubles to ~$10.5B on AI Coding Tool Adoption
 
-Supabase raised $500M at ~$10.5B, doubling for the third time in two years. CEO credits Claude Code and Codex for driving database launches up 600%+ YoY — 60%+ now initiated by an AI tool. The company serves ~10M developers as the default backend for Bolt, Figma, Lovable, and Replit. ________________________________
+Supabase raised $500M at ~$10.5B, doubling for the third time in two years. CEO credits Claude Code and Codex for driving database launches up 600%+ YoY — 60%+ now initiated by an AI tool. The company serves ~10M developers as the default backend for Bolt, Figma, Lovable, and Replit.
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]]
+**Related:** [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
 <!-- graph:end -->

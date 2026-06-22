@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
+- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 embedding_id: 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CIO Dive led with Dell revenue jumping 88% as the company rides enterprise AI de
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
+**Related:** [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]]
 <!-- graph:end -->

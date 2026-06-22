@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 - 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
+- 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 - 2026-05-15-deepfake-voice-scam-snares-cushman-wakefield
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 embedding_id: 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
@@ -37,5 +38,5 @@ YouTube rolled out an expanded likeness-detection system that lets creators flag
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-05-15-deepfake-voice-scam-snares-cushman-wakefield]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
+**Related:** [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-05-15-deepfake-voice-scam-snares-cushman-wakefield]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
 <!-- graph:end -->

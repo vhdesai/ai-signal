@@ -7,7 +7,7 @@ url_original: https://www.caisconf.org/
 url_canonical: https://www.caisconf.org/
 url_status: ok
 digest_source: digests\raw\acm-cais-2026.md
-content_hash: 825ccc769faba2c6b4d0365c7bab447712406015189db63b2d185b376f7da3f0
+content_hash: 46ca4b4d12f95755a52fff659418b79f475df71260093f24c17107d490b85f60
 normalized_title_hash: 12298fc4091b8407
 canonical_url_hash: 3e10da7c48897b88
 tags:
@@ -34,7 +34,7 @@ event_name: ACM CAIS 2026
 
 # ACM CAIS 2026 — Strategic Implications
 
-- **Research-to-product pipeline:** CAIS research maps directly onto enterprise agent pain points: optimization, evaluation, architecture, safety, and reproducibility. - **Agent engineering discipline:** The field is moving from demos to repeatable blueprints, benchmarks, and systems papers. - **Open ecosystem:** Participation from universities, Databricks, Google, Anthropic-adjacent practitioners, and open-source communities suggests no single vendor owns the agent stack. - **Benchmark competition:** Terminal-Bench, ARC-AGI, and optimization tasks become strategic proxies for agent utility.
+Research-to-product pipeline: CAIS research maps directly onto enterprise agent pain points: optimization, evaluation, architecture, safety, and reproducibility. - Agent engineering discipline: The field is moving from demos to repeatable blueprints, benchmarks, and systems papers. - Open ecosystem: Participation from universities, Databricks, Google, Anthropic-adjacent practitioners, and open-source communities suggests no single vendor owns the agent stack. - Benchmark competition: Terminal-Bench, ARC-AGI, and optimization tasks become strategic proxies for agent utility.
 
 <!-- graph:start -->
 ## Connections

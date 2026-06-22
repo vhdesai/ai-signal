@@ -18,7 +18,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
+canonical_article_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 related_article_ids: []
 embedding_id: 2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi
 event_name: ''
@@ -32,5 +32,5 @@ The EU reached a provisional deal on May 7 to simplify portions of the AI Act, e
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
+**Canonical:** [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]]
 <!-- graph:end -->

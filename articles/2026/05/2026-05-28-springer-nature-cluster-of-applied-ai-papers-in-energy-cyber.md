@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
 embedding_id: 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Springer's AI feed published several peer-reviewed papers, including "Explainabl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]]
 <!-- graph:end -->

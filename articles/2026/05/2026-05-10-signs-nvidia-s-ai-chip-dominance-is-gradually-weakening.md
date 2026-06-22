@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
+- 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 embedding_id: 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
@@ -43,5 +43,5 @@ Despite controlling an estimated 81% of the AI data center chip market, Nvidia f
 
 **Entities:** [[Amazon]] · [[Arm]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
+**Related:** [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

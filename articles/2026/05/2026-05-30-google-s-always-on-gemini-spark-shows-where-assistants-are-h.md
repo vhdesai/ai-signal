@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents
+- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 embedding_id: 2026-05-30-google-s-always-on-gemini-spark-shows-where-assistants-are-h
 event_name: ''
 ---
@@ -34,5 +35,5 @@ A TechCrunch test drive of Google’s 24/7 Gemini Spark assistant found the prod
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents]]
+**Related:** [[2026-05-20-google-spark-frames-the-next-phase-of-personal-ai-agents]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
 <!-- graph:end -->

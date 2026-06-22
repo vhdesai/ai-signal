@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-- 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
 - 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
+- 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
 embedding_id: 2026-05-26-hot-xai-counsel-warns-staff-to-limit-cursor-contacts-amid-po
 event_name: ''
 ---
@@ -38,5 +38,5 @@ xAI's general counsel warned employees to limit contact with Cursor staff to avo
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]]
+**Related:** [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]] · [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]]
 <!-- graph:end -->

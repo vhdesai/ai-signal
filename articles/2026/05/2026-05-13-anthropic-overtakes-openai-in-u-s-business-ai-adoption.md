@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
+- 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
-- 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 embedding_id: 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The May 2026 Ramp AI Index — drawn from 50,000+ U.S. businesses — shows Clau
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
 <!-- graph:end -->

@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-17-tags-breaking-hot
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 embedding_id: 2026-05-28-dealbook-google-employee-charged-in-polymarket-insider-tradi
 event_name: ''
@@ -36,5 +35,5 @@ A Google employee, Michele Spagnuolo, was charged by the CFTC after making more 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-17-tags-breaking-hot]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
+**Related:** [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
 <!-- graph:end -->

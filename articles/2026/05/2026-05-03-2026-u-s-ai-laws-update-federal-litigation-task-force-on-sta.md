@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen
+- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 embedding_id: 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new analysis posted today flags the formation of a federal litigation task for
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Related:** [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-04-13-white-house-national-ai-policy-framework-moves-into-implemen]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]]
 <!-- graph:end -->

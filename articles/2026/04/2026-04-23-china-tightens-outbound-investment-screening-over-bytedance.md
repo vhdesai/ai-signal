@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te
 - 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
 - 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
+- 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 embedding_id: 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Beijing is moving to restrict additional US investment into leading Chinese AI l
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-18-china-ai-self-correction-bytedance-cuts-30-of-ai-projects-te]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]]
+**Related:** [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]]
 <!-- graph:end -->

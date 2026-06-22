@@ -19,7 +19,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 embedding_id: 2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t
 event_name: ''
 ---
@@ -31,5 +30,5 @@ A new repo by multica-ai consolidates Andrej Karpathy's documented LLM-coding he
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
+**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]]
 <!-- graph:end -->

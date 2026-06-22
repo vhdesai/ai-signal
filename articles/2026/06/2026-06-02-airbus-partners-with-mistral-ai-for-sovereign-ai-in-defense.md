@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
 - 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
+- 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 embedding_id: 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Airbus announced a partnership with Mistral AI to deploy sovereign AI across air
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]]
+**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]]
 <!-- graph:end -->

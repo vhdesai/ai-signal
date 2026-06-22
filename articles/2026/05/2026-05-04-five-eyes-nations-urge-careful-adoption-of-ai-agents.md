@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-- 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 - 2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers
+- 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 embedding_id: 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Cybersecurity authorities across the Five Eyes alliance issued joint guidance wa
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]]
+**Related:** [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]]
 <!-- graph:end -->

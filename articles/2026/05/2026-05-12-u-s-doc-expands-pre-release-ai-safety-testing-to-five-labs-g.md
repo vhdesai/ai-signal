@@ -26,7 +26,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-13-the-u-s
+- 2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
@@ -43,5 +43,5 @@ The U.S. Department of Commerce expanded its pre-release AI safety testing acces
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-the-u-s]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]]
+**Related:** [[2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]]
 <!-- graph:end -->

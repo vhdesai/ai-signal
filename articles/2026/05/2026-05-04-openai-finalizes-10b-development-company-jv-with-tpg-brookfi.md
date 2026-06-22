@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
+- 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 embedding_id: 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Hours before Anthropic's announcement, OpenAI revealed its parallel $10B venture
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]]
+**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

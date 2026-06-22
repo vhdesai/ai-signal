@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
+- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
 - 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
-- 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 embedding_id: 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Speculation is mounting around Anthropic's unreleased "Mythos" model, with analy
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
+**Related:** [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]]
 <!-- graph:end -->

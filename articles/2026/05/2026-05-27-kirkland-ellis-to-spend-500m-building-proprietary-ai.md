@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 - 2026-04-09-products-tools
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
+- 2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever
+- 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 embedding_id: 2026-05-27-kirkland-ellis-to-spend-500m-building-proprietary-ai
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Kirkland & Ellis disclosed plans to spend $500M building its own internal AI pla
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-04-09-products-tools]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative]]
+**Related:** [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-04-09-products-tools]] · [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]]
 <!-- graph:end -->

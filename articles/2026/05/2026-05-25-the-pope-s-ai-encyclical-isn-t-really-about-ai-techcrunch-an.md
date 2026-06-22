@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
+- 2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le
 - 2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity
-- 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
 embedding_id: 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai-techcrunch-an
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Bellan argues Magnifica Humanitas is less a technology policy document and more 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]]
+**Related:** [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le]] · [[2026-05-18-pope-leo-xiv-to-release-first-ai-encyclical-on-human-dignity]]
 <!-- graph:end -->

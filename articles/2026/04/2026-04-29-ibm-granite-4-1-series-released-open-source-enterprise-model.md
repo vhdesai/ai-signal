@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
+- 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 - 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
-- 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 embedding_id: 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM released the Granite 4.1 series — available in 3B, 8B, and 30B parameter v
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]]
+**Related:** [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]]
 <!-- graph:end -->

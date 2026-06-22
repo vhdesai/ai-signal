@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-- 2026-05-13-the-u-s
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 embedding_id: 2026-05-12-u-s-commerce-expands-pre-release-safety-testing-to-five-fron
 event_name: ''
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-13-the-u-s]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]]
+**Related:** [[2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]]
 <!-- graph:end -->

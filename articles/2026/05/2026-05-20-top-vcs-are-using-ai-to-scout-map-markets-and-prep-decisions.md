@@ -8,7 +8,7 @@ url_canonical: https://l.businessinsider.com/a/sc/2CN7-Vmx-RO0OjURDw99WFoD1qLySP
 url_status: ok
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
-content_hash: 805e46e1507a0a6e88bfa2a346665eb06e63ff2b63fbf64eda7503ddcd4c46dc
+content_hash: 6fccaafb3d063c866fb7409317926202264030e2e720b4d0f60dbb50c8bff9f3
 normalized_title_hash: 5da49fe1bb23ed77
 canonical_url_hash: b22b87e4e47c2bf6
 tags:
@@ -21,19 +21,19 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 - 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
-- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 - 2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+- 2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies
 embedding_id: 2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions
 event_name: ''
 ---
 
 # Top VCs are using AI to scout, map markets and prep decisions
 
-Business Insider’s Today newsletter pointed to reporting on how top venture investors are using AI to scout deals, map markets, stress-test ideas and prepare board materials. The item is a practical reminder that AI adoption is changing professional-service workflows beyond engineering and support functions. In venture capital, AI appears to be augmenting pattern recognition and diligence throughput while leaving judgment and network access as differentiators. ---
+Business Insider’s Today newsletter pointed to reporting on how top venture investors are using AI to scout deals, map markets, stress-test ideas and prepare board materials. The item is a practical reminder that AI adoption is changing professional-service workflows beyond engineering and support functions. In venture capital, AI appears to be augmenting pattern recognition and diligence throughput while leaving judgment and network access as differentiators.
 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]]
+**Related:** [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-26-two-of-the-world-s-most-consequential-ai-adjacent-companies]]
 <!-- graph:end -->

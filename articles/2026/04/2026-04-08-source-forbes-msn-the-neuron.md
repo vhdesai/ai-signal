@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
+- 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
 embedding_id: 2026-04-08-source-forbes-msn-the-neuron
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta Launches Muse Spark — First Proprietary Model from Superintelligence Labs
 
 **Entities:** [[Meta]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]]
+**Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]]
 <!-- graph:end -->

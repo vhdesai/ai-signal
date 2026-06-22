@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-06-18-tags-funding-hot
 - 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
+- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
+- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 embedding_id: 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Geordie AI raised a $30M Series A to build observability and orchestration for t
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-18-tags-funding-hot]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]]
+**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

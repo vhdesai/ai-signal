@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 embedding_id: 2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford is merging the Stanford Institute for Human-Centered AI (HAI) and the S
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
+**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]]
 <!-- graph:end -->

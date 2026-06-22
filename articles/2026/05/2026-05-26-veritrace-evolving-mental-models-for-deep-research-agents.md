@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-20-scaling-laws-for-embodied-ai
 embedding_id: 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Introduces an architecture letting long-running research agents maintain a verif
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-20-scaling-laws-for-embodied-ai]]
+**Related:** [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

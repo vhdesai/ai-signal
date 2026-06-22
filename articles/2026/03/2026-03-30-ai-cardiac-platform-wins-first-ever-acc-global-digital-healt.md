@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
 - 2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label
-- 2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
 embedding_id: 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
 event_name: ''
 ---
@@ -38,5 +38,5 @@ An AI clinical platform received the American College of Cardiology's inaugural 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]]
-**Related:** [[2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-06-01-cornell-researcher-launches-health-ai-policy-index-hapi]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
+**Related:** [[2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in]] · [[2026-05-21-cmu-cleveland-clinic-ai-interprets-cardiac-mri-without-label]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]]
 <!-- graph:end -->

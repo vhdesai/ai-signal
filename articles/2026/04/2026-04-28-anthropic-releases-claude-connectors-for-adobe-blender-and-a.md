@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-06-
 - 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
-- 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
+- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 embedding_id: 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic expanded its Claude Connectors program to cover Adobe's creative suite
 
 **Entities:** [[Adobe]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-06-]] · [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]]
+**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-06-]] · [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]]
 <!-- graph:end -->

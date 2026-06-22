@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
+- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 embedding_id: 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Startup Subquadratic launched on May 5 with $29 million in seed funding to devel
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
+**Related:** [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
 <!-- graph:end -->

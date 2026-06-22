@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
+- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 embedding_id: 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
 event_name: ''
 ---
@@ -36,5 +37,5 @@ A new O'Reilly piece highlights persistent agent-memory failures in production d
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
+**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
 <!-- graph:end -->

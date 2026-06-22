@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal
 embedding_id: 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Jensen Huang announced Nvidia will invest roughly $150 billion annually in Taiwa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal]]
 <!-- graph:end -->

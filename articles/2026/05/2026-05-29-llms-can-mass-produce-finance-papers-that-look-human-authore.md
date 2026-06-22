@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-- 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
+- 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
+- 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
+- 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
+- 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 embedding_id: 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Recent academic work shows large language models can mass-produce finance papers
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]]
+**Related:** [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]]
 <!-- graph:end -->

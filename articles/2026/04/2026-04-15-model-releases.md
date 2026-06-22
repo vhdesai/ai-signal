@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
-- 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
+- 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
 embedding_id: 2026-04-15-model-releases
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI Launches GPT-5.4-Cyber — A Frontier Model Built for Defense OpenAI unve
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]]
+**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]]
 <!-- graph:end -->

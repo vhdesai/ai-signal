@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
 - 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 - 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
-- 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 embedding_id: 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon Web Services confirmed on May 20 that it has acquired fal, a fast-growing
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]]
+**Related:** [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
 <!-- graph:end -->

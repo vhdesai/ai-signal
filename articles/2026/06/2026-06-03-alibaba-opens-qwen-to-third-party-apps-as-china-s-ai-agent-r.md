@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
-content_hash: 00ab21b14c9afe59e157da54fc2e9fb743cf579726f3f8e971cb6fd08752cfed
+content_hash: 4fd1ea2963bc0b4a2091a4121e1bed5dc569b0a1f88cc5b816574477f6abd5a9
 normalized_title_hash: 2f72a05fdea86cea
 canonical_url_hash: ''
 tags:
@@ -33,7 +33,7 @@ event_name: ''
 
 # Alibaba Opens Qwen to Third-Party Apps as China’s AI Agent Race Intensifies
 
-Alibaba Cloud unveiled an expanded agentic AI ecosystem built on its Qwen model, opening it to external brands and applications. The move parallels Tencent’s recent WeChat agent plans and signals that China’s consumer AI competition is shifting from model benchmarks to agent-platform integration. URL not verified. ________________________________
+Alibaba Cloud unveiled an expanded agentic AI ecosystem built on its Qwen model, opening it to external brands and applications. The move parallels Tencent’s recent WeChat agent plans and signals that China’s consumer AI competition is shifting from model benchmarks to agent-platform integration. URL not verified.
 
 <!-- graph:start -->
 ## Connections

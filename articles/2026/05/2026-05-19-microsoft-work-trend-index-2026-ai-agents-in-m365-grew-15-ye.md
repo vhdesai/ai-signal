@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-- 2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
+- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's 2026 Work Trend Index — drawn from trillions of M365 signals and a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-20-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

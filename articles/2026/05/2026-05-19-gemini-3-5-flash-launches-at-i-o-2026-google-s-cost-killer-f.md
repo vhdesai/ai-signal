@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
+- 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 embedding_id: 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Google launched Gemini 3.5 Flash at its I/O 2026 keynote on May 19, positioning 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-promises-1b-ent]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]]
+**Related:** [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-promises-1b-ent]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]]
 <!-- graph:end -->

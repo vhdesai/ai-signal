@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout
+- 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
+- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
-- 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
 embedding_id: 2026-05-14-latest-anthropic-mythos-ai-is-even-better-at-hacking-uk-aisi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The U.K. AI Security Institute reported "notable capability jumps" in Anthropic'
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]]
+**Related:** [[2026-05-18-anthropic-s-seed-100-cohort-and-mythos-cybersecurity-rollout]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]]
 <!-- graph:end -->

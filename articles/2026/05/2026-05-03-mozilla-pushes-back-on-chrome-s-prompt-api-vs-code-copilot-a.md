@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
+- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
-- 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 embedding_id: 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Two governance flashpoints surfaced this weekend: Mozilla raised concerns over G
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]]
+**Related:** [[2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]]
 <!-- graph:end -->

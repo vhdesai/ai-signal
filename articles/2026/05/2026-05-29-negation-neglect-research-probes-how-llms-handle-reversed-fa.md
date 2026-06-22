@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 - 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
-- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
+- 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
 embedding_id: 2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ work on "negation neglect" examines whether large language models correctly inte
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]]
+**Related:** [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]]
 <!-- graph:end -->

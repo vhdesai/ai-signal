@@ -18,9 +18,14 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
+- 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
+- 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
+- 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
+- 2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma
 embedding_id: 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
 event_name: ''
 ---
@@ -34,5 +39,5 @@ The Vatican confirmed that Christopher Olah, an Anthropic co-founder and the fie
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal]]
+**Related:** [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]] · [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma]]
 <!-- graph:end -->

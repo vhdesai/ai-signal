@@ -7,7 +7,7 @@ url_original: https://www.caisconf.org/
 url_canonical: https://www.caisconf.org/
 url_status: ok
 digest_source: digests\raw\acm-cais-2026.md
-content_hash: c2b838835b0a4b270787bc3cee642a05abd847b33d1ea0083f8cf22e2641b74a
+content_hash: 11830e866ad713e3fc41f78205636bac69ccb67a57a1b784b69cd3676874eff6
 normalized_title_hash: bc0072a1cd1fc94d
 canonical_url_hash: 3e10da7c48897b88
 tags:
@@ -34,7 +34,7 @@ event_name: ACM CAIS 2026
 
 # ACM CAIS 2026: Tressoir
 
-- MIT researchers presented Tressoir, a system for designing and evolving multi-agent architectures, prompts, tools, and knowledge through human-readable “Interpretable Blueprints.” - The goal is reproducible, systematic construction of multi-agent systems instead of ad hoc prompt chains.
+MIT researchers presented Tressoir, a system for designing and evolving multi-agent architectures, prompts, tools, and knowledge through human-readable “Interpretable Blueprints.” - The goal is reproducible, systematic construction of multi-agent systems instead of ad hoc prompt chains.
 
 <!-- graph:start -->
 ## Connections

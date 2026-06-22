@@ -40,7 +40,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
+- 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
 event_name: ''
 ---
@@ -54,5 +55,5 @@ Modal Labs closed a $355M Series C in a two-tranche structure (first at $2.5B, s
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[ByteDance]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
-- 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
+- 2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety
 embedding_id: 2026-04-02-academic-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT/Berkeley Study: AI Chatbots Can Trigger "Delusional Spiraling" in Users A jo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-04-14-source-uc-berkeley-rdi-blog-the-neuron]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]]
 <!-- graph:end -->

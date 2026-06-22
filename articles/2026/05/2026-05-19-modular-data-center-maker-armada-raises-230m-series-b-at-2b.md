@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 - 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
+- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 embedding_id: 2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b
 event_name: ''
@@ -37,5 +38,5 @@ Armada, maker of modular and rapidly deployable edge data centers, raised a $230
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
+**Related:** [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
 <!-- graph:end -->

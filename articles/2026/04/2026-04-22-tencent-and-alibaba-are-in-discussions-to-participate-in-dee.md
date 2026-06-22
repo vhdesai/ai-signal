@@ -1,7 +1,12 @@
 ---
 article_id: 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
-title: Tencent and Alibaba are in discussions to participate in DeepSeek's first-ever
-  capital raise, which would value the Chinese AI startup at more than $20 billi…
+title: 'Tencent and Alibaba are in discussions to participate in DeepSeek''s first-ever
+  capital raise, which would value the Chinese AI startup at more than $20 billion,
+  according to The Information (Bloomberg, Apr 22). This is a dramatic step up from
+  an earlier $10 billion floor reported just days prior. Despite going 140 days without
+  a new model release, DeepSeek retains the #3 spot globally on OpenRouter with 5.35
+  trillion monthly calls — driven by its ultra-low pricing of $0.28/million input
+  tokens.'
 date: '2026-04-22'
 source: 📈 Trending Apple
 url_original: null
@@ -9,8 +14,8 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
-content_hash: c18a9e2c24f767eb1f81905d7482bbd9c24011e3b6a30f15e0de8f6a21654c91
-normalized_title_hash: 8229289d7018b749
+content_hash: 16aab2fbf8b94d95c8d4c4635e6de0acdb18e55e95c23f15735829b2c3c1f95f
+normalized_title_hash: c4017c7f3698b037
 canonical_url_hash: ''
 tags: []
 entities:
@@ -34,9 +39,9 @@ embedding_id: 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-i
 event_name: ''
 ---
 
-# Tencent and Alibaba are in discussions to participate in DeepSeek's first-ever capital raise, which would value the Chinese AI startup at more than $20 billi…
+# Tencent and Alibaba are in discussions to participate in DeepSeek's first-ever capital raise, which would value the Chinese AI startup at more than $20 billion, according to The Information (Bloomberg, Apr 22). This is a dramatic step up from an earlier $10 billion floor reported just days prior. Despite going 140 days without a new model release, DeepSeek retains the #3 spot globally on OpenRouter with 5.35 trillion monthly calls — driven by its ultra-low pricing of $0.28/million input tokens.
 
-Tencent and Alibaba are in discussions to participate in DeepSeek's first-ever capital raise, which would value the Chinese AI startup at more than $20 billion, according to The Information (Bloomberg, Apr 22). This is a dramatic step up from an earlier $10 billion floor reported just days prior. Despite going 140 days without a new model release, DeepSeek retains the #3 spot globally on OpenRouter with 5.35 trillion monthly calls — driven by its ultra-low pricing of $0.28/million input tokens. Analysis: Apple's Walled-Garden Strengths Are Becoming AI Constraints
+Analysis: Apple's Walled-Garden Strengths Are Becoming AI Constraints
 
 <!-- graph:start -->
 ## Connections

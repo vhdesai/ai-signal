@@ -1,7 +1,11 @@
 ---
 article_id: 2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b
 title: After launching ChatGPT ads earlier this year with marquee brands (Adobe, Ford,
-  Target), OpenAI is now courting small local businesses — car washes, dry clea…
+  Target), OpenAI is now courting small local businesses — car washes, dry cleaners
+  — and launching action-oriented ad formats (book an appointment, submit a contact
+  form). The move puts OpenAI directly into competition with Meta's small-business
+  advertising machine and signals an intent to scale ads from prestige media buy to
+  mass-market platform.
 date: '2026-05-26'
 source: The Information (Ann Gehan) · theinformation.com
 url_original: null
@@ -9,8 +13,8 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-26_080048_Inbox_Daily AI News Digest –– May 26,
   2026.md
-content_hash: ca4ea201365e68aeaeef7d3b41b438543dd6764a19bcd81325b2ec2649a4d95d
-normalized_title_hash: a281dbd94dd84988
+content_hash: 8b57cb0cda01a2f223cec579fc67ad2326d181bc406374c8dd07ef1fb739ab5f
+normalized_title_hash: d86cd4518b3b748b
 canonical_url_hash: ''
 tags: []
 entities:
@@ -35,9 +39,9 @@ embedding_id: 2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marq
 event_name: ''
 ---
 
-# After launching ChatGPT ads earlier this year with marquee brands (Adobe, Ford, Target), OpenAI is now courting small local businesses — car washes, dry clea…
+# After launching ChatGPT ads earlier this year with marquee brands (Adobe, Ford, Target), OpenAI is now courting small local businesses — car washes, dry cleaners — and launching action-oriented ad formats (book an appointment, submit a contact form). The move puts OpenAI directly into competition with Meta's small-business advertising machine and signals an intent to scale ads from prestige media buy to mass-market platform.
 
-After launching ChatGPT ads earlier this year with marquee brands (Adobe, Ford, Target), OpenAI is now courting small local businesses — car washes, dry cleaners — and launching action-oriented ad formats (book an appointment, submit a contact form). The move puts OpenAI directly into competition with Meta's small-business advertising machine and signals an intent to scale ads from prestige media buy to mass-market platform. Is AI killing enterprise software? Salesforce, Snowflake earnings will set the tone
+Is AI killing enterprise software? Salesforce, Snowflake earnings will set the tone
 
 <!-- graph:start -->
 ## Connections

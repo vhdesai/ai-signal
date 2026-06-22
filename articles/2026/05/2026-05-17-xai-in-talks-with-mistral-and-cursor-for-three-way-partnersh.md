@@ -27,10 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
+- 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
+- 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
 embedding_id: 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 event_name: ''
 ---
@@ -44,5 +45,5 @@ Elon Musk's xAI — now part of SpaceX following a $1.25 trillion merger — is 
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-xai-in-talks-with-mistral-and-cursor-for-three-way-alliance]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]]
+**Related:** [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]]
 <!-- graph:end -->

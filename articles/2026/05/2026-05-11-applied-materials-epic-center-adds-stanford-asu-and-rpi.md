@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
@@ -35,5 +36,5 @@ Stanford, Arizona State, and RPI joined Applied Materials' EPIC Center in Silico
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
+**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
 <!-- graph:end -->

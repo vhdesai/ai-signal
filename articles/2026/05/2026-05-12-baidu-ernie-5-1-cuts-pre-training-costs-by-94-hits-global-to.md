@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
+- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 embedding_id: 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Baidu officially released ERNIE 5.1 with a striking efficiency claim: roughly 94
 
 **Entities:** [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-05-11-baidu-ernie-5-1-tops-chinese-ai-leaderboards-at-94-lower-tra]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]]
 <!-- graph:end -->

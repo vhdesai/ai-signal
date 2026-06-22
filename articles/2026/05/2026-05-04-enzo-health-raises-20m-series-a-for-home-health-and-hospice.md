@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 - 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
+- 2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring
 - 2026-04-01-products-tools
-- 2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai
 embedding_id: 2026-05-04-enzo-health-raises-20m-series-a-for-home-health-and-hospice
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Enzo Health closed a $20M Series A led by N47 to scale AI tools that automate pa
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]] · [[2026-04-01-products-tools]] · [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]]
+**Related:** [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]] · [[2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

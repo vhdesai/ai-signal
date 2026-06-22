@@ -25,10 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
+- 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
 - 2026-04-23-
-- 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
-- 2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex
 embedding_id: 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Startup Datacurve released DeepSWE — a 113-task evaluation across 91 open-sour
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-04-23-]] · [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex]]
+**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-04-23-]]
 <!-- graph:end -->

@@ -1,43 +1,43 @@
 ---
 article_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
-title: '### AWS Reportedly in Talks to Add SpaceX/xAI''s Grok to Bedrock'
+title: AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock
 date: '2026-05-29'
 source: The Register
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/
+url_canonical: https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/
+url_status: broken
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
-content_hash: bc3440982d2ca9fb015f08a039ec2cbbe1ce4d4d7361c648d21db8c2be3b9dab
+content_hash: 9a8ba4716ef5feddfc97dbb4e0258ec677b0141ef996584749bd5af1272f5bb3
 normalized_title_hash: d164b896dba8b4db
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: a3c44b1b2d3a3390
+tags:
+- Trending
 entities:
 - Amazon
 - xAI
 themes:
-- datacenter-infrastructure
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
-- 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
-- 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon
+- 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
+- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+- 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
+- 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 embedding_id: 2026-05-29-aws-reportedly-in-talks-to-add-spacex-xai-s-grok-to-bedrock
 event_name: ''
 ---
 
-# ### AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock
+# AWS Reportedly in Talks to Add SpaceX/xAI's Grok to Bedrock
 
-Business Insider reported, and The Register analyzed, that AWS is in talks to add xAI's Grok models to Amazon Bedrock alongside its existing model catalog. The Register's reporting flags weak enterprise demand and reputational concerns as the central tension — making this less a competitive threat to incumbent Bedrock models than a distribution play for xAI, with adoption far from assured among regulated buyers. [https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/](https://www.theregister.com/ai-ml/2026/05/29/aws_reportedly_to_tuck_elon/) --- ## 2. Infrastructure **Tags:** `BREAKING`
+Business Insider reported, and The Register analyzed, that AWS is in talks to add xAI's Grok models to Amazon Bedrock alongside its existing model catalog. The Register's reporting flags weak enterprise demand and reputational concerns as the central tension — making this less a competitive threat to incumbent Bedrock models than a distribution play for xAI, with adoption far from assured among regulated buyers.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Amazon]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]]
 <!-- graph:end -->

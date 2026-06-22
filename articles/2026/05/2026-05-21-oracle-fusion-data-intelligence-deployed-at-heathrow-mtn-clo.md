@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an
 - 2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor
+- 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e
-- 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 embedding_id: 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
 event_name: ''
@@ -41,5 +41,5 @@ Oracle's official newsroom highlighted Heathrow, Kent, and MTN as enterprise ref
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
+**Related:** [[2026-05-21-oracle-fusion-data-intelligence-goes-live-at-heathrow-mtn-an]] · [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
 <!-- graph:end -->

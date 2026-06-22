@@ -22,7 +22,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced
 - 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
-- 2026-05-20-uc-berkeley-s-responsible-decentralized-intelligence-rdi-ins
 embedding_id: 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Higgsfield AI premiered Hell Grind — a 95-minute feature film generated entire
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]] · [[2026-05-20-uc-berkeley-s-responsible-decentralized-intelligence-rdi-ins]]
+**Related:** [[2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]]
 <!-- graph:end -->

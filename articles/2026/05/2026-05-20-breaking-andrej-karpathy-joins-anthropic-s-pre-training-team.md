@@ -21,7 +21,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc
+canonical_article_id: 2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team
 related_article_ids: []
 embedding_id: 2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team
 event_name: ''
@@ -36,5 +36,5 @@ OpenAI co-founder and AI luminary Andrej Karpathy has announced he is joining An
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]]
+**Canonical:** [[2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team]]
 <!-- graph:end -->

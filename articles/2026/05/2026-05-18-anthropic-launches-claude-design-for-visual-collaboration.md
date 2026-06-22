@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board
-- 2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows
 embedding_id: 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic released Claude Design, an Anthropic Labs product that extends Claude 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows]]
+**Related:** [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board]]
 <!-- graph:end -->

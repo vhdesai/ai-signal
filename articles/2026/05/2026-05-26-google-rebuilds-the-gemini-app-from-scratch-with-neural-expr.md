@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 - 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
+- 2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in
 - 2026-05-13-
 embedding_id: 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
 event_name: ''
@@ -37,5 +38,5 @@ Google unveiled a fully rebuilt Gemini app at I/O 2026, anchored by a new design
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign]] · [[2026-05-13-]]
+**Related:** [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign]] · [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in]] · [[2026-05-13-]]
 <!-- graph:end -->

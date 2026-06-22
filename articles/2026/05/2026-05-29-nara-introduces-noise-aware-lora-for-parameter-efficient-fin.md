@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
 - 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
+- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 embedding_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new arXiv preprint introduces NaRA, a noise-aware Low-Rank Adaptation method t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]]
+**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
 <!-- graph:end -->

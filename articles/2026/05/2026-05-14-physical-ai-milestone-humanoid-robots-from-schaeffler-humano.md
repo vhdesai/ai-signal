@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
-- 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 embedding_id: 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Two separate physical AI ventures — a Schaeffler/Humanoid joint venture and RL
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]]
+**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]]
 <!-- graph:end -->

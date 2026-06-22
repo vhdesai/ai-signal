@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-- 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 embedding_id: 2026-05-11-anthropic-refuses-china-access-to-mythos-pentagon-already-de
 event_name: ''
 ---
@@ -42,5 +42,5 @@ In what Politico described as a "China-summit flashpoint," representatives from 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]]
+**Related:** [[2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang]]
 <!-- graph:end -->

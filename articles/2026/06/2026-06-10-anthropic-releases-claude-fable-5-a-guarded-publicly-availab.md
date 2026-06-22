@@ -1,17 +1,18 @@
 ---
 article_id: 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
-title: '### Anthropic Releases Claude Fable 5 — A Guarded, Publicly Available Mythos-Class
-  Model'
+title: Anthropic Releases Claude Fable 5 — A Guarded, Publicly Available Mythos-Class
+  Model
 date: '2026-06-10'
 source: Business Standard
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://www.business-standard.com/technology/tech-news/claude-fable-5-explained-what-anthropic-s-guarded-frontier-ai-model-can-do-126061000776_1.html
+url_canonical: https://www.business-standard.com/technology/tech-news/claude-fable-5-explained-what-anthropic-s-guarded-frontier-ai-model-can-do-126061000776_1.html
+url_status: broken
 digest_source: digests\raw\2026-06-11_064809_Final-Daily-AI-News-Digest.md
-content_hash: 7767d67efe405643194f35fd0a60a7653a014c6899654272fcec58b3ac33eea0
+content_hash: 4f951c1abce60fd1b8c1c9be779f920cbb62bf9cd202eef9249d305ca47ffcaf
 normalized_title_hash: 7ae821234ef06bed
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: d65cf498fb60ad5b
+tags:
+- Hot
 entities:
 - Anthropic
 themes:
@@ -26,9 +27,9 @@ embedding_id: 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-av
 event_name: ''
 ---
 
-# ### Anthropic Releases Claude Fable 5 — A Guarded, Publicly Available Mythos-Class Model
+# Anthropic Releases Claude Fable 5 — A Guarded, Publicly Available Mythos-Class Model
 
-Anthropic made Claude Fable 5 generally available, bringing Mythos-class capability to public users while keeping full Mythos 5 restricted. Positioned for sustained, agent-style work with a 1M-token context window. - [Business Standard](https://www.business-standard.com/technology/tech-news/claude-fable-5-explained-what-anthropic-s-guarded-frontier-ai-model-can-do-126061000776_1.html) --- **Tags:** `NEW`
+Anthropic made Claude Fable 5 generally available, bringing Mythos-class capability to public users while keeping full Mythos 5 restricted. Positioned for sustained, agent-style work with a 1M-token context window.
 
 <!-- graph:start -->
 ## Connections

@@ -10,7 +10,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 Preview - Agents Copilot and Open
   Models.md
-content_hash: aa47a5c871125babf320be0e97e45a79c74a0cb1772623af0eff3ca8a0e257a6
+content_hash: bcd3a2ab4e152768744d79a7bf78d161723f5e20db72edbfc841d43b87c1803e
 normalized_title_hash: 9e557ca9347db9c2
 canonical_url_hash: ''
 tags:
@@ -38,7 +38,7 @@ event_name: 'Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, an
 
 # Microsoft Build 2026 Preview: Agents, Copilot, Azure AI Foundry, and Open Models — Strategic Implications
 
-- **Microsoft is productizing agentic work:** Copilot and GitHub are becoming platforms for delegated work, not just code suggestions or chat. - **Azure AI Foundry becomes the enterprise agent control plane:** Model routing and governance address enterprise concerns about cost, risk, and model sprawl. - **Windows is being repositioned as an AI runtime:** Local AI APIs give developers a reason to target Windows and Copilot+ hardware. - **Open standards are ecosystem strategy:** NLWeb and MCP make Microsoft a shaper of the agentic web while still benefiting Azure and Copilot. - **Governance is the selling point for production agents:** Identity, auditability, security, and compliance become core product features rather than add-ons.
+Microsoft is productizing agentic work: Copilot and GitHub are becoming platforms for delegated work, not just code suggestions or chat. - Azure AI Foundry becomes the enterprise agent control plane: Model routing and governance address enterprise concerns about cost, risk, and model sprawl. - Windows is being repositioned as an AI runtime: Local AI APIs give developers a reason to target Windows and Copilot+ hardware. - Open standards are ecosystem strategy: NLWeb and MCP make Microsoft a shaper of the agentic web while still benefiting Azure and Copilot. - Governance is the selling point for production agents: Identity, auditability, security, and compliance become core product features rather than add-ons.
 
 <!-- graph:start -->
 ## Connections

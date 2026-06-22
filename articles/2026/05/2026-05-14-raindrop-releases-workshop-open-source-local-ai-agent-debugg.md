@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
+- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
+- 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
 embedding_id: 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Raindrop has open-sourced "Workshop," a local-first debugging and evaluation fra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
 <!-- graph:end -->

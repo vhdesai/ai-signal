@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
+- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 embedding_id: 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Workday and Google Cloud expanded their strategic partnership to bring AI agents
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]]
+**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
 <!-- graph:end -->

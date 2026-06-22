@@ -23,9 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 related_article_ids:
-- 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
 - 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
-- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 embedding_id: 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
 event_name: ''
 ---
@@ -40,5 +38,5 @@ Anthropic is reportedly in advanced talks for a funding round of approximately $
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
-**Related:** [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
+**Related:** [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]]
 <!-- graph:end -->

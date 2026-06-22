@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
-- 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
+- 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
+- 2026-05-24-amazon-s-bee-ai-wearable-an-always-listening-personal-assist
 embedding_id: 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Amazon launched "Alexa for Shopping" as the consumer-facing assistant for purcha
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu]]
+**Related:** [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-24-amazon-s-bee-ai-wearable-an-always-listening-personal-assist]]
 <!-- graph:end -->

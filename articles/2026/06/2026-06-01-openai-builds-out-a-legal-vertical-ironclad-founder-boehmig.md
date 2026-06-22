@@ -1,44 +1,41 @@
 ---
 article_id: 2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig
-title: '### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins'
+title: OpenAI builds out a legal vertical; Ironclad founder Boehmig joins
 date: '2026-06-01'
 source: Artificial Lawyer
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/
+url_canonical: https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/
+url_status: ok
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
-content_hash: c0746c06d7e4bc190b7f4463488f141c56afd796cf5dea58c84a961c8db7fe98
+content_hash: ddb62527e59fc262ccd9ee5a2993f760ea00f0c0d09c4a815a4fbfd5b18d40b3
 normalized_title_hash: 06e45919e7bcd3c9
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 1742b1fad8b8fc48
+tags:
+- Product
 entities:
 - Anthropic
 - OpenAI
 themes:
-- datacenter-infrastructure
-- policy-regulation
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical
-- 2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to
+- 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 embedding_id: 2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig
 event_name: ''
 ---
 
-# ### OpenAI builds out a legal vertical; Ironclad founder Boehmig joins
+# OpenAI builds out a legal vertical; Ironclad founder Boehmig joins
 
-Jason Boehmig, founder of contract-management pioneer Ironclad, has joined OpenAI to lead product for a new legal vertical, with his stated focus "building AGI for law." The hire signals OpenAI is moving to launch domain-specific legal tooling, mirroring Anthropic's enterprise vertical push. It points to intensifying competition for high-value professional-services workflows. [https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/](https://www.artificiallawyer.com/2026/06/01/ironclad-founder-jason-boehmig-joins-openai-for-legal-vertical-launch/) --- ## Infrastructure **Tags:** `LAUNCH` `HOT`
+Jason Boehmig, founder of contract-management pioneer Ironclad, has joined OpenAI to lead product for a new legal vertical, with his stated focus "building AGI for law." The hire signals OpenAI is moving to launch domain-specific legal tooling, mirroring Anthropic's enterprise vertical push. It points to intensifying competition for high-value professional-services workflows.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical]] · [[2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
 <!-- graph:end -->

@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai
 - 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
+- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-- 2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe
-- 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 embedding_id: 2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Osaurus is a new macOS application that provides a single interface for managing
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-03-30-microsoft-open-sources-harrier-oss-v1-sota-multilingual-embe]] · [[2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem]]
+**Related:** [[2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
 <!-- graph:end -->

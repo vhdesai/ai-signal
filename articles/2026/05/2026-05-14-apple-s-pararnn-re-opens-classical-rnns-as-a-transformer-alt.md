@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 embedding_id: 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple researchers published ParaRNN, work that argues parallelized recurrent arc
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]]
+**Related:** [[2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
 <!-- graph:end -->

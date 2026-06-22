@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal
 - 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
+- 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
 - 2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu
+- 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
 embedding_id: 2026-05-25-anthropic-s-chris-olah-joins-pope-leo-xiv-for-magnifica-huma
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic published Olah's Vatican remarks delivered alongside Pope Leo XIV at t
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-pope-leo-xiv-and-anthropic-co-founder-to-launch-first-papal]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu]]
+**Related:** [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l]] · [[2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e]]
 <!-- graph:end -->

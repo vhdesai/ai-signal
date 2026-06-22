@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
-- event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
-- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
+- event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through
+- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 embedding_id: 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Apple–Google partnership announced January 12, 2026 — granting Apple acc
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]]
+**Related:** [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[event-google-cloud-next-2026-google-cloud-next-2026-siri-gemini-enterprise-read-through]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
 <!-- graph:end -->

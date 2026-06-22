@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
 - 2026-05-01-6-ai-safety-policy
+- 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
 - 2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex
 embedding_id: 2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]]
+**Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]]
 <!-- graph:end -->

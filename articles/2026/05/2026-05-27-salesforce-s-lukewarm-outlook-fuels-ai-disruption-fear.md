@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
+- 2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps
 embedding_id: 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Salesforce posted softer-than-expected forward guidance, prompting renewed conce
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]]
+**Related:** [[2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps]]
 <!-- graph:end -->

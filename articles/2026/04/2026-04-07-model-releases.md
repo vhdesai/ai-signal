@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
+- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
-- 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 embedding_id: 2026-04-07-model-releases
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic Deploys Claude Mythos (Project Glasswing) Under Strict Restrictions
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]]
+**Related:** [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]]
 <!-- graph:end -->

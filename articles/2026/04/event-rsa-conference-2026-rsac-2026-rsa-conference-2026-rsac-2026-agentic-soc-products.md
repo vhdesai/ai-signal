@@ -7,7 +7,7 @@ url_original: https://www.rsaconference.com/usa
 url_canonical: https://www.rsaconference.com/usa
 url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
-content_hash: 4f7ab30821b16fc7c6bb314dd99bc191ad08e6b12af16263228d13023408badd
+content_hash: ceaaee9a78e62289a83e80768331f523df7c355c39987de7799dff9053a3deb7
 normalized_title_hash: 36221d9aeaadbc59
 canonical_url_hash: f67ea98cc6cc2d79
 tags:
@@ -33,7 +33,7 @@ event_name: RSA Conference 2026 / RSAC 2026
 
 # RSA Conference 2026 / RSAC 2026: Agentic SOC products
 
-- Pondurance launched Kanati, described in corpus as an agentic AI SOC with faster threat response and fewer false positives. - This shows how vendors are using agents defensively while warning customers about agent misuse.
+Pondurance launched Kanati, described in corpus as an agentic AI SOC with faster threat response and fewer false positives. - This shows how vendors are using agents defensively while warning customers about agent misuse.
 
 <!-- graph:start -->
 ## Connections

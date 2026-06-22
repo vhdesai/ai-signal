@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
 - 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
+- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 embedding_id: 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alibaba is integrating its Qwen models with Taobao and Tmall storefronts, giving
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]] · [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
+**Related:** [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]] · [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
 <!-- graph:end -->

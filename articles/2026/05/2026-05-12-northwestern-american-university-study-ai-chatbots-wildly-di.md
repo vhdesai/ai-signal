@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-14-daily-ai-news-digest-may-14-2026
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-04-01-products-tools
-- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 embedding_id: 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 event_name: ''
@@ -45,5 +45,5 @@ A joint study by researchers at Northwestern University and American University 
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-04-01-products-tools]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-04-01-products-tools]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

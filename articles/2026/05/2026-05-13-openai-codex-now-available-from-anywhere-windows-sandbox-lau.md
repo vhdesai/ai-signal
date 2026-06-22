@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
-- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 - 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
+- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
 embedding_id: 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
@@ -37,5 +37,5 @@ OpenAI announced that Codex is now accessible beyond ChatGPT — including via A
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]]
+**Related:** [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]]
 <!-- graph:end -->

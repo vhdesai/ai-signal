@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 - 2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e
 - 2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l
+- 2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in
 embedding_id: 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
 event_name: ''
 ---
@@ -37,5 +38,5 @@ At its first annual conference in Paris, Mistral formally launched a physics-awa
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]]
+**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e]] · [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l]] · [[2026-05-19-hot-mistral-ai-acquires-emmi-ai-building-europe-s-leading-in]]
 <!-- graph:end -->

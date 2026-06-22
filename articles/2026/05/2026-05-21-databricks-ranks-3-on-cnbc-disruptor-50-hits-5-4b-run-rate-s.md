@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
-- 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
+- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 embedding_id: 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Databricks holds the #3 spot on CNBC's 2026 Disruptor 50 (behind Anthropic and O
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
+**Related:** [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
 <!-- graph:end -->

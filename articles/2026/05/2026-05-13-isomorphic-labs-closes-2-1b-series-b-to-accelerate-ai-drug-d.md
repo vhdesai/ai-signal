@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
+- 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
 embedding_id: 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Isomorphic Labs — the Google DeepMind spinout behind AlphaFold — closed a $2
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
+**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]]
 <!-- graph:end -->

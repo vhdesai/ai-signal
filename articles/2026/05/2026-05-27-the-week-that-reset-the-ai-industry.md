@@ -42,9 +42,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo
-- 2026-05-19-vik-desai-corp-dev-microsoft
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 - 2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f
+- 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: 2026-05-27-the-week-that-reset-the-ai-industry
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Good morning. The past 24 hours close out what is shaping up to be the most cons
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Cohere]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Salesforce]] · [[SAP]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]] · [[2026-05-19-vik-desai-corp-dev-microsoft]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]]
+**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-05-19-gemini-3-5-flash-launches-at-i-o-2026-google-s-cost-killer-f]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

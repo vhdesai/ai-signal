@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
 - 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
-- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
+- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 embedding_id: 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
 event_name: ''
@@ -41,5 +41,5 @@ Meta announced Incognito Chat for Meta AI on WhatsApp and the standalone Meta AI
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]]
+**Related:** [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]]
 <!-- graph:end -->

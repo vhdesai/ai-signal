@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 - 2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali
-- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 embedding_id: 2026-05-13-deeplearning-ai-launches-ai-prompting-for-everyone-targeting
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Andrew Ng and DeepLearning.AI announced "AI Prompting for Everyone," a new cours
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]]
+**Related:** [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad]] · [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-18-import-ai-457-ai-stuxnet-the-muon-optimizer-and-positive-ali]]
 <!-- graph:end -->

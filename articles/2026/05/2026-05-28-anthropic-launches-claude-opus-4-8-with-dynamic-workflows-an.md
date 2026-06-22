@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows
+- 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
 - 2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow
 - 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-- 2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t
 - 2026-05-28-anthropic-ships-claude-opus-4-8-with-new-dynamic-workflow-to
 embedding_id: 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 event_name: ''
@@ -41,5 +41,5 @@ Anthropic officially launched Claude Opus 4.8 on May 28, its newest flagship mod
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t]] · [[2026-05-28-anthropic-ships-claude-opus-4-8-with-new-dynamic-workflow-to]]
+**Related:** [[2026-05-28-anthropic-releases-claude-opus-4-8-with-dynamic-workflows]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-a-dynamic-workflow-t]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-28-anthropic-ships-claude-opus-4-8-with-new-dynamic-workflow-to]]
 <!-- graph:end -->

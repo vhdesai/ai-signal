@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
-- 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
+- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 embedding_id: 2026-05-18-trending-malta-offers-residents-a-year-of-free-chatgpt-plus
 event_name: ''
@@ -40,5 +40,5 @@ Malta's Ministry of Economy announced "AI for All" — a program giving any Malt
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[Scale AI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
 <!-- graph:end -->

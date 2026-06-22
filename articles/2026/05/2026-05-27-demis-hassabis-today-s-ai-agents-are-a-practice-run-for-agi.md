@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 - 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
+- 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 embedding_id: 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Google DeepMind CEO Demis Hassabis told Axios that current-generation AI agents 
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]]
+**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]]
 <!-- graph:end -->

@@ -1,20 +1,20 @@
 ---
 article_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-title: '### The Token Bill Comes Due: Inside the Industry Scramble to Manage AI''s
-  Runaway Costs'
+title: 'The Token Bill Comes Due: Inside the Industry Scramble to Manage AI''s Runaway
+  Costs'
 date: '2026-06-05'
 source: TechCrunch
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
+url_canonical: https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/
+url_status: ok
 digest_source: digests\raw\2026-06-06_070013_Final-Daily-AI-News-Digest.md
-content_hash: 703e9ca44a40db633f57763066f3ea9a10240164597b87701cac03a0bc339321
+content_hash: c729ad49cf3703fa8fbc298a18346e87c5ebbc3bcf560f6bce9efd520db99fa3
 normalized_title_hash: 561599f81eac2a72
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: be8abe6f7bf0dfa0
+tags:
+- Hot
 entities: []
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -24,13 +24,13 @@ embedding_id: 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-t
 event_name: ''
 ---
 
-# ### The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs
+# The Token Bill Comes Due: Inside the Industry Scramble to Manage AI's Runaway Costs
 
-TechCrunch published an in-depth investigation into the enterprise AI cost crisis, synthesizing Uber's budget blowout, Altman's "huge issue" admission, and GitHub Copilot billing backlash into a systemic narrative: usage-based AI pricing is creating a cost management challenge the industry has not yet solved. - [TechCrunch](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/) --- ## Model Releases **Tags:** `HOT` `NEW`
+TechCrunch published an in-depth investigation into the enterprise AI cost crisis, synthesizing Uber's budget blowout, Altman's "huge issue" admission, and GitHub Copilot billing backlash into a systemic narrative: usage-based AI pricing is creating a cost management challenge the industry has not yet solved.
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]]
 <!-- graph:end -->

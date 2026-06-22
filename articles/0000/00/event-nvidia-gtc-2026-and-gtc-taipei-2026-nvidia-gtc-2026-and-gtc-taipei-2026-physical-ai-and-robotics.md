@@ -7,7 +7,7 @@ url_original: https://www.nvidia.com/gtc/
 url_canonical: https://www.nvidia.com/gtc/
 url_status: ok
 digest_source: digests\raw\nvidia-gtc-2026-gtc-taipei-2026.md
-content_hash: 5423aaf5b836f6b7e3d2604e7ccd7676d6b7ecf7108db397c4376b1eee9be730
+content_hash: 75b67613e9a0b32fe182f9c71a0b60863995ea84b19e35f6d2af37e7121055ee
 normalized_title_hash: 837f090f603272f3
 canonical_url_hash: 54b0fed1c5988780
 tags:
@@ -41,7 +41,7 @@ event_name: NVIDIA GTC 2026 and GTC Taipei 2026
 
 # NVIDIA GTC 2026 and GTC Taipei 2026: Physical AI and robotics
 
-- GTC 2026 is consistently framed as NVIDIA's pivot from model acceleration to embodied AI: robotics, simulation, factory autonomy, autonomous workloads, and GR00T/humanoid foundation-model updates. - Later corpus entries connect GTC's physical-AI narrative to NVIDIA Research's ICRA robotics papers and to Jetson Thor edge robotics.
+GTC 2026 is consistently framed as NVIDIA's pivot from model acceleration to embodied AI: robotics, simulation, factory autonomy, autonomous workloads, and GR00T/humanoid foundation-model updates. - Later corpus entries connect GTC's physical-AI narrative to NVIDIA Research's ICRA robotics papers and to Jetson Thor edge robotics.
 
 <!-- graph:start -->
 ## Connections

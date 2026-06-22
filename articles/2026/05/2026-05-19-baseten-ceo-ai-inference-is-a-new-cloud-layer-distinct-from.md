@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
-- 2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months
-- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
+- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 embedding_id: 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Baseten CEO Tuhin Srivastava told Business Insider's Tech Memo that the cloud ma
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]]
 <!-- graph:end -->

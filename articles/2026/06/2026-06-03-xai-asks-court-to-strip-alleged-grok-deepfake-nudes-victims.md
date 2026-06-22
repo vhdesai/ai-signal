@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 - 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-- 2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe
+- 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 embedding_id: 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI filed a motion requiring alleged victims of Grok-generated deepfake nudes to
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe]]
+**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]]
 <!-- graph:end -->

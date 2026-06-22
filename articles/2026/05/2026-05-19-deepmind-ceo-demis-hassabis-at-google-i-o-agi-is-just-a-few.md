@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
+- 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
 embedding_id: 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google DeepMind CEO Demis Hassabis took the main stage at I/O 2026 and stated: "
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]]
+**Related:** [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]]
 <!-- graph:end -->

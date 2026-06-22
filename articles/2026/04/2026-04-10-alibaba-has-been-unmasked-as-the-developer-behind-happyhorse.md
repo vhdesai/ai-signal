@@ -1,16 +1,20 @@
 ---
 article_id: 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
 title: Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth
-  AI video generation model that debuted at the top of global benchmarks.
+  AI video generation model that debuted at the top of global benchmarks. The model
+  was initially released anonymously before Alibaba confirmed its ownership, underscoring
+  the company's aggressive push in multimodal generative AI. This positions Alibaba
+  as a serious competitor to Sora, Runway, and Google Veo in the rapidly expanding
+  AI video space.
 date: '2026-04-10'
 source: DeepSeek · CnTechPost
 url_original: null
-url_canonical: https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
-content_hash: 6473b9772bd465ffe43ec750d65aff93859b07acee9e757663854d95967e022e
-normalized_title_hash: 7bec012b2dba1f25
+content_hash: 8b3f76e0ea7918c1389e188c43c1bb3a3ecf9c0dafcc57d5ec651eff1bed041e
+normalized_title_hash: e458606dc4cdbe2a
 canonical_url_hash: ''
 tags: []
 entities:
@@ -36,9 +40,9 @@ embedding_id: 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happy
 event_name: ''
 ---
 
-# Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks.
+# Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks. The model was initially released anonymously before Alibaba confirmed its ownership, underscoring the company's aggressive push in multimodal generative AI. This positions Alibaba as a serious competitor to Sora, Runway, and Google Veo in the rapidly expanding AI video space.
 
-Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks. The model was initially released anonymously before Alibaba confirmed its ownership, underscoring the company's aggressive push in multimodal generative AI. This positions Alibaba as a serious competitor to Sora, Runway, and Google Veo in the rapidly expanding AI video space. DeepSeek V4 Confirmed for Late April — Running Entirely on Huawei Chips
+DeepSeek V4 Confirmed for Late April — Running Entirely on Huawei Chips
 
 <!-- graph:start -->
 ## Connections

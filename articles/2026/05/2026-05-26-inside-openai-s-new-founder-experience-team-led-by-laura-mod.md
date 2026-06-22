@@ -23,10 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
+- 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 - 2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc
 - 2026-04-08-source-forbes-msn-the-neuron
-- 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
-- 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 embedding_id: 2026-05-26-inside-openai-s-new-founder-experience-team-led-by-laura-mod
 event_name: ''
 ---
@@ -40,5 +39,5 @@ OpenAI formalized a dedicated Founder Experience team under Laura Modiano (ex-Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]]
+**Related:** [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]] · [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-04-08-source-forbes-msn-the-neuron]]
 <!-- graph:end -->

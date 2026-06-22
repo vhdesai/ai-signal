@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
+- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
-- 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 embedding_id: 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 event_name: ''
 ---
@@ -36,5 +36,5 @@ As of March 2026, lawmakers in 45 US states introduced 1,561 AI-related bills 鈥
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] 路 [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] 路 [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] 路 [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] 路 [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]]
+**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] 路 [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] 路 [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] 路 [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] 路 [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]]
 <!-- graph:end -->

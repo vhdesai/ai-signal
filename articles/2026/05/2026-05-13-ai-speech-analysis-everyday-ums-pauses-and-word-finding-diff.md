@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
+- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
-- 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 embedding_id: 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers used AI to analyze natural conversations and found that subtle speec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
+**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]]
 <!-- graph:end -->

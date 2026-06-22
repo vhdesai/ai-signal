@@ -7,7 +7,7 @@ url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icr
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_status: broken
 digest_source: digests\raw\icra-2026.md
-content_hash: 084d875d42e113f9c51770956e151b7f26360a6e38ccbf2e6cb6631ad6e83a63
+content_hash: 69cde347f60a20117122d8a6abda1505d63e7e661f05f2c6c470b62abf54b56e
 normalized_title_hash: acf3ce3a6ab2e40e
 canonical_url_hash: fb1b360309b0c1bf
 tags:
@@ -31,7 +31,7 @@ event_name: ICRA 2026
 
 # ICRA 2026: Multi-task policy learning
 
-- Corpus coverage suggests the field is moving toward reusable policy learning across tasks instead of narrow, scripted automation. - This mirrors the broader agent trend: systems must generalize across workflows, not only solve fixed demos.
+Corpus coverage suggests the field is moving toward reusable policy learning across tasks instead of narrow, scripted automation. • This mirrors the broader agent trend: systems must generalize across workflows, not only solve fixed demos.
 
 <!-- graph:start -->
 ## Connections

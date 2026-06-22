@@ -4,8 +4,8 @@ title: 'Agentic AI: Biggest Opportunity AND Biggest New Attack Surface at RSAC 2
 date: '2026-03-28'
 source: CRN
 url_original: null
-url_canonical: https://www.crn.com/news/security/2026/10-cool-ai-and-agentic-tools-unveiled-at-rsac-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: d5cef17fade3820e72daf8e7e40c311502981d05f2a98db2623ff2fbaed48757

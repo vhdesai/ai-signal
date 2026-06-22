@@ -44,7 +44,7 @@ related_article_ids:
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 embedding_id: 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Ivanti research found that organizational leaders are nearly twice as likely as 
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Salesforce]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]]
 <!-- graph:end -->

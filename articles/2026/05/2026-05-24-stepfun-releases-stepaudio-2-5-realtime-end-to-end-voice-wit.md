@@ -5,7 +5,7 @@ date: '2026-05-24'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 76b5129905db9cae917fd9c7e2561e46ffa5ce12bd67e05e72f034866753f6c2
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice
 - 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
+- 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
 embedding_id: 2026-05-24-stepfun-releases-stepaudio-2-5-realtime-end-to-end-voice-wit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ StepFun shipped StepAudio 2.5 Realtime, an end-to-end voice model with roleplay-
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model]] · [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice]] · [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]]
+**Related:** [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model]] · [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice]] · [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]]
 <!-- graph:end -->

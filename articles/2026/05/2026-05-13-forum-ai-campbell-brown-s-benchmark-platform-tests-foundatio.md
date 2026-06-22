@@ -36,8 +36,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo
+- 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
-- 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 embedding_id: 2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio
@@ -53,5 +53,5 @@ Former Meta news chief Campbell Brown detailed Forum AI at StrictlyVC: a benchma
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Tencent]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
+**Related:** [[2026-05-27-ai-and-strategic-stability-a-framework-for-us-china-technolo]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
 <!-- graph:end -->

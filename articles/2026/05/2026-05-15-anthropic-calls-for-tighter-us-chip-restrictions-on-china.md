@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi
-- 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
+- 2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi
 embedding_id: 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic publicly urged Washington to tighten restrictions on advanced US chip 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
+**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]] · [[2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi]]
 <!-- graph:end -->

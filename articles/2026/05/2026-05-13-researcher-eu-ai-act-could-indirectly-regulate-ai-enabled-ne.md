@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-13-source-the-neuron-apr-13-2026
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
+- 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 - 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
-- 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 embedding_id: 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A study by UOC researcher Miguel Angel Elizalde, published in The Age of Human R
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]]
+**Related:** [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]]
 <!-- graph:end -->

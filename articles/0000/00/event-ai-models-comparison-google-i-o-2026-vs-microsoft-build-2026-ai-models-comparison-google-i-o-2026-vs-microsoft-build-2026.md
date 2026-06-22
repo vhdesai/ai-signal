@@ -5,10 +5,10 @@ title: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026 — Strate
 date: null
 source: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026'
 url_original: null
-url_canonical: https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\02_Google_Microsoft_AI_Models_Comparison.md
-content_hash: 482389f88d7c25f8210b5a11115487a86bb805332b8c71dbde263858dcf38947
+content_hash: 9b34c9cf3cb9310577779230fe757e0ad8b8d6cf82ba240a57d7b0c525398399
 normalized_title_hash: 84aeb5a6ee91472e
 canonical_url_hash: ''
 tags:
@@ -33,7 +33,7 @@ event_name: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026'
 
 # AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026 — Strategic Implications
 
-1. **Google's Bet**: Speed + integration beats raw reasoning capability - Designed for task completion in real-time systems - Agent-friendly (supports tool use, long contexts) 2. **Microsoft's Bet**: Enterprise reasoning + choice + governance beats speed alone - Designed for complex decision-making workflows - Multi-provider support reduces switching costs 3. **The Gap**: Video generation (Google advantage) vs. Reasoning (Microsoft advantage) represent orthogonal strengths ---
+1. Google's Bet: Speed + integration beats raw reasoning capability - Designed for task completion in real-time systems - Agent-friendly (supports tool use, long contexts) 2. Microsoft's Bet: Enterprise reasoning + choice + governance beats speed alone - Designed for complex decision-making workflows - Multi-provider support reduces switching costs 3. The Gap: Video generation (Google advantage) vs. Reasoning (Microsoft advantage) represent orthogonal strengths
 
 <!-- graph:start -->
 ## Connections

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
+- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
-- 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
+- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 embedding_id: 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported developer backlash to GitHub Copilot’s shift from flat sub
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]]
+**Related:** [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
 <!-- graph:end -->

@@ -1,7 +1,10 @@
 ---
 article_id: 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
 title: scalable interactive sandbox lets LLM agents perform causal discovery on synthetic
-  and real systems with controllable ground truth.
+  and real systems with controllable ground truth. The authors position it as the
+  first benchmark combining causal interventions with agent-style behavior at scale
+  — directly relevant to the autonomous-research-agent thesis already being commercialized
+  by DeepMind's Co-Scientist and Lila Sciences.
 date: '2026-05-26'
 source: arXiv (Yang et al.) · arxiv.org
 url_original: null
@@ -9,8 +12,8 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-26_080048_Inbox_Daily AI News Digest –– May 26,
   2026.md
-content_hash: 28fbcbb3e0b13737c0daf6506a5ff4ca756ba4cf9701e71a1b80bbd1581ded6a
-normalized_title_hash: 8c70cd10ead27c23
+content_hash: 0b1bd6324b8bfc69869a9a55242d2d34938d57473daf2adcc8da5187df6dbd74
+normalized_title_hash: 77ee11bd4dd3007a
 canonical_url_hash: ''
 tags: []
 entities: []
@@ -24,9 +27,9 @@ embedding_id: 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-ca
 event_name: ''
 ---
 
-# scalable interactive sandbox lets LLM agents perform causal discovery on synthetic and real systems with controllable ground truth.
+# scalable interactive sandbox lets LLM agents perform causal discovery on synthetic and real systems with controllable ground truth. The authors position it as the first benchmark combining causal interventions with agent-style behavior at scale — directly relevant to the autonomous-research-agent thesis already being commercialized by DeepMind's Co-Scientist and Lila Sciences.
 
-scalable interactive sandbox lets LLM agents perform causal discovery on synthetic and real systems with controllable ground truth. The authors position it as the first benchmark combining causal interventions with agent-style behavior at scale — directly relevant to the autonomous-research-agent thesis already being commercialized by DeepMind's Co-Scientist and Lila Sciences. MobileGym: verifiable, parallel simulator for mobile GUI agents
+MobileGym: verifiable, parallel simulator for mobile GUI agents
 
 <!-- graph:start -->
 ## Connections

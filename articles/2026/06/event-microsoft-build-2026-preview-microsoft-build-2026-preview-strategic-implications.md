@@ -7,7 +7,7 @@ url_original: https://build.microsoft.com/
 url_canonical: https://build.microsoft.com/
 url_status: ok
 digest_source: digests\raw\microsoft-build-2026-preview.md
-content_hash: dd7de660b1189225de7a7908fcd7b56713fb2c7902f7b05d172b96d410ffe603
+content_hash: 75cc1f422bf4a8ef07727411e1178442d5b02cfab5cd6ffb862aa55b9491e69f
 normalized_title_hash: 4a878143a52487c5
 canonical_url_hash: c84ecbecae2aa07e
 tags:
@@ -31,7 +31,7 @@ event_name: Microsoft Build 2026 Preview
 
 # Microsoft Build 2026 Preview — Strategic Implications
 
-- **Windows as an agent surface:** Build may define how deeply Microsoft embeds AI into the OS, file system, shell, and app model. - **First-party model independence:** The MAI suite gives Microsoft fallback leverage alongside OpenAI, Anthropic, and open models in Foundry. - **Enterprise control plane:** The real differentiator may be governance: inventory, policy, permissions, audit, and cost controls for agent fleets. - **Developer lock-in:** If AI-native Windows tooling becomes the best path to distribute agents, Microsoft can convert OS share into agent-platform share.
+Windows as an agent surface: Build may define how deeply Microsoft embeds AI into the OS, file system, shell, and app model. - First-party model independence: The MAI suite gives Microsoft fallback leverage alongside OpenAI, Anthropic, and open models in Foundry. - Enterprise control plane: The real differentiator may be governance: inventory, policy, permissions, audit, and cost controls for agent fleets. - Developer lock-in: If AI-native Windows tooling becomes the best path to distribute agents, Microsoft can convert OS share into agent-platform share.
 
 <!-- graph:start -->
 ## Connections

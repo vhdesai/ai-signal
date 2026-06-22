@@ -4,8 +4,8 @@ title: OpenAI Shuts Down Sora — $1M/Day Burn, $1B Disney Deal Collapses
 date: '2026-03-24'
 source: CNBC
 url_original: null
-url_canonical: https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 6ecda0ebaf3636f9795f2bb8c97592e0b02b54719f787f9fcca5f4d05d8fb3d4
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+- 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
 - 2026-03-31-industry-news-funding
-- 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
+- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 embedding_id: 2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI discontinued Sora after six months, citing ~$1M/day compute costs against
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-03-31-industry-news-funding]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]]
+**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]] · [[2026-03-31-industry-news-funding]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
 <!-- graph:end -->

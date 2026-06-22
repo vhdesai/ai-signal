@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 - 2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt
-- 2026-05-19-google-deepmind-s-genie-world-model-now-simulates-real-stree
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
+- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 embedding_id: 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat's enterprise-facing research roundup highlights four trends: continu
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt]] · [[2026-05-19-google-deepmind-s-genie-world-model-now-simulates-real-stree]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
+**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
 <!-- graph:end -->

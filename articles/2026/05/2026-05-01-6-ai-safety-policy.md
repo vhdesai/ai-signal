@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
 - 2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits
+- 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
+- 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
 - 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
-- 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
 embedding_id: 2026-05-01-6-ai-safety-policy
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]]
+**Related:** [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]]
 <!-- graph:end -->

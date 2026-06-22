@@ -1,41 +1,37 @@
 ---
 article_id: 2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and
-title: '### Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini'
+title: Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini
 date: '2026-06-19'
 source: Forbes
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://www.forbes.com/sites/davidphelan/2026/06/19/adobe-brings-its-firefly-ai-creative-agent-directly-into-chatgpt-and-claude/
+url_canonical: https://www.forbes.com/sites/davidphelan/2026/06/19/adobe-brings-its-firefly-ai-creative-agent-directly-into-chatgpt-and-claude/
+url_status: ok
 digest_source: digests\raw\2026-06-20_070303_Final-Daily-AI-News-Digest.md
-content_hash: 0e12b131a356ee923bfc28e42c125e7c16f24530286cbb85368a53b2636c27e5
+content_hash: 73bcd3c82a41e159aab86442256660b0110a0feba6c4e8c62754c19f35151209
 normalized_title_hash: fa406ce787df6d2c
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: 74523a6101bc58c1
+tags:
+- Hot
+- New
 entities:
 - Adobe
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids:
-- 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
-- 2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to
-- 2026-05-06-
-- 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
-- 2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows
+related_article_ids: []
 embedding_id: 2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and
 event_name: ''
 ---
 
-# ### Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini
+# Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini
 
-Firefly-native output remains commercially safe; content routed through third-party models may not carry same indemnification. Positions Adobe as an interoperable creative layer rather than a closed suite. - [Forbes](https://www.forbes.com/sites/davidphelan/2026/06/19/adobe-brings-its-firefly-ai-creative-agent-directly-into-chatgpt-and-claude/) --- **Tags:** `NEW`
+Firefly-native output remains commercially safe; content routed through third-party models may not carry same indemnification. Positions Adobe as an interoperable creative layer rather than a closed suite.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Adobe]]
-**Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to]] · [[2026-05-06-]] · [[2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules]] · [[2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows]]
+**Topics:** [[Corporate Moves]]
 <!-- graph:end -->

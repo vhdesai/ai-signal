@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
+- event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
-- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
+- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 embedding_id: 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Microsoft is expected to launch its homegrown MAI model family at Build today, i
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]]
+**Related:** [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
 <!-- graph:end -->

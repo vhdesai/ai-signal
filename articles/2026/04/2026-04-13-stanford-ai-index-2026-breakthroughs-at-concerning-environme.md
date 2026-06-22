@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
-- 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 embedding_id: 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Stanford Human-Centered AI Institute released its 2026 AI Index Report, docu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
+**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
 <!-- graph:end -->

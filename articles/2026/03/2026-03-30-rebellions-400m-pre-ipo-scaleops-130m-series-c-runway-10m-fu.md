@@ -5,8 +5,8 @@ title: Rebellions $400M Pre-IPO · ScaleOps $130M Series C · Runway $10M Fund �
 date: '2026-03-30'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 3bde4e3270eb1cae3f530ebc42ffa456416b84f23ea255afa33d236d4335364f
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-06-18-tags-funding-hot
+- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 embedding_id: 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 event_name: ''
@@ -42,5 +42,5 @@ South Korean AI chip startup Rebellions raised $400M pre-IPO ($850M total), laun
 
 **Entities:** [[Adobe]] · [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-06-18-tags-funding-hot]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

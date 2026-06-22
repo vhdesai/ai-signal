@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-21-california-s-governor-signed-a-state-level-executive-order-f
 - 2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 embedding_id: 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
 event_name: ''
@@ -37,5 +36,5 @@ Governor Newsom issued an executive order directing California state agencies to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-california-s-governor-signed-a-state-level-executive-order-f]] · [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]]
+**Related:** [[2026-05-21-california-s-governor-signed-a-state-level-executive-order-f]] · [[2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]]
 <!-- graph:end -->

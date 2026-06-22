@@ -24,7 +24,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r
 - 2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n
-- 2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next
 - event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation
 embedding_id: 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
@@ -40,5 +39,5 @@ Gemini Spark is the most ambitious agentic product announced by any lab in 2026 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[2026-05-19-google-launches-gemini-spark-the-most-concrete-24-7-ai-agent]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]]
+**Related:** [[2026-05-19-google-launches-gemini-spark-a-24-7-personal-ai-agent-that-r]] · [[2026-05-19-hot-gemini-spark-google-s-24-7-personal-ai-agent-launching-n]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launching-next]] · [[event-google-i-o-2026-google-i-o-2026-agents-and-workflow-automation]]
 <!-- graph:end -->

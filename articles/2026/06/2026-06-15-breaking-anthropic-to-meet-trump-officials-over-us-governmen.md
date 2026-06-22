@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
 - 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 - 2026-06-19-trump-anthropic-no-longer-a-national-security-threat
 - 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
 - 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
+- 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 embedding_id: 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bloomberg reported Anthropic is set to meet Trump administration officials over 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]] · [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]]
+**Related:** [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]] · [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat]] · [[2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]]
 <!-- graph:end -->

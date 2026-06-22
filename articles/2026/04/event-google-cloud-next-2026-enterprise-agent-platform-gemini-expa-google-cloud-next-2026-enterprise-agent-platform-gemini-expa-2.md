@@ -10,7 +10,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\Google Cloud Next 2026 - Enterprise Agent Platform and
   Gemini Expansion.md
-content_hash: 72fac598c1614cc800b759b6a87307559372514cf6b8e79f2f3711ebb0caee88
+content_hash: 1f0e136f6e1c1108b07affbe844c9a0ab9f9844c116556cce5e14e9046fc68f8
 normalized_title_hash: 81bb3e5a5833d2b5
 canonical_url_hash: ''
 tags:
@@ -38,7 +38,7 @@ event_name: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion
 
 # Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and Partner Fund — Strategic Implications
 
-- **Enterprise agents become platform products:** Google is packaging agents as managed enterprise infrastructure rather than one-off prototypes. - **Google is subsidizing ecosystem formation:** A $750 million partner fund is a direct attempt to buy adoption, integrations, and reference deployments. - **Workspace is an agent surface:** Productivity automation turns Gmail, Docs, and collaboration tools into daily enterprise agent endpoints. - **Regulated industries are priority targets:** Citi Sky shows Google competing for finance-sector AI transformation under cloud governance. - **Next complements I/O:** I/O sells Gemini as a broad product platform; Cloud Next sells Gemini as enterprise infrastructure.
+Enterprise agents become platform products: Google is packaging agents as managed enterprise infrastructure rather than one-off prototypes. - Google is subsidizing ecosystem formation: A $750 million partner fund is a direct attempt to buy adoption, integrations, and reference deployments. - Workspace is an agent surface: Productivity automation turns Gmail, Docs, and collaboration tools into daily enterprise agent endpoints. - Regulated industries are priority targets: Citi Sky shows Google competing for finance-sector AI transformation under cloud governance. - Next complements I/O: I/O sells Gemini as a broad product platform; Cloud Next sells Gemini as enterprise infrastructure.
 
 <!-- graph:start -->
 ## Connections

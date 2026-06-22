@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
+- 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 embedding_id: 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SoftBank insiders are reportedly raising concerns about whether Son's $60B OpenA
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]]
+**Related:** [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
 <!-- graph:end -->

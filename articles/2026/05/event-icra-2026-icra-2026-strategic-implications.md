@@ -7,7 +7,7 @@ url_original: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icr
 url_canonical: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 url_status: broken
 digest_source: digests\raw\icra-2026.md
-content_hash: 10d06355255ac6304f1f56841902222270831b09c27d96e802798442529adebc
+content_hash: 8ef5b72e43dda8d271e080f2ee4f015fb68ea4827f09da9ed26411f378eb774e
 normalized_title_hash: 6365dd5cf38d597b
 canonical_url_hash: fb1b360309b0c1bf
 tags:
@@ -29,7 +29,7 @@ event_name: ICRA 2026
 
 # ICRA 2026 — Strategic Implications
 
-- **Embodied AI frontier:** Robotics is becoming a major proving ground for foundation-model capability because the physical world punishes hallucination and brittle planning. - **Hardware/software co-design:** GPUs, simulation, robot policies, sensors, and edge compute must evolve together. - **Industrial relevance:** Logistics, warehousing, construction, and manufacturing are near-term beneficiaries if sim-to-real reliability improves. - **Governance challenge:** Physical agents raise safety and liability issues beyond software-only AI governance.
+Embodied AI frontier: Robotics is becoming a major proving ground for foundation-model capability because the physical world punishes hallucination and brittle planning. - Hardware/software co-design: GPUs, simulation, robot policies, sensors, and edge compute must evolve together. - Industrial relevance: Logistics, warehousing, construction, and manufacturing are near-term beneficiaries if sim-to-real reliability improves. - Governance challenge: Physical agents raise safety and liability issues beyond software-only AI governance.
 
 <!-- graph:start -->
 ## Connections

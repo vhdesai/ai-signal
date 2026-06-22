@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling
 - 2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber
 embedding_id: 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
@@ -37,5 +38,5 @@ Speaking at a Los Angeles event, Google Cloud COO Francis de Souza urged enterpr
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling]] · [[2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber]]
+**Related:** [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling]] · [[2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
+- 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
 - 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 embedding_id: 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
@@ -41,5 +42,5 @@ Anthropic is in talks to adopt Microsoft's custom Maia 200 AI chip for Claude mo
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
 <!-- graph:end -->

@@ -7,7 +7,7 @@ url_original: https://www.rsaconference.com/usa
 url_canonical: https://www.rsaconference.com/usa
 url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
-content_hash: 2b0be5b933d9e14aad413775ed1a9a94f2faec709ffb1171ff032445d542e74e
+content_hash: ecbd9feeec4319138d5763377761950d7ec0d38901ff739e5bb7f9bf9b1c5df4
 normalized_title_hash: 29e8eb9ea54b6cd0
 canonical_url_hash: f67ea98cc6cc2d79
 tags:
@@ -34,7 +34,7 @@ event_name: RSA Conference 2026 / RSAC 2026
 
 # RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk
 
-- The corpus says 15 cybersecurity CEOs, including leaders from CrowdStrike, SentinelOne, and Netskope, converged on the view that agentic AI creates a major new market and a major new attack surface. - The core risk is uncontrolled agent access to files, credentials, SaaS systems, and corporate workflows.
+The corpus says 15 cybersecurity CEOs, including leaders from CrowdStrike, SentinelOne, and Netskope, converged on the view that agentic AI creates a major new market and a major new attack surface. - The core risk is uncontrolled agent access to files, credentials, SaaS systems, and corporate workflows.
 
 <!-- graph:start -->
 ## Connections

@@ -7,7 +7,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
-content_hash: 34decff5da4fcd6959b778beb9a24e5221753e0e85fe88c64948852a85b30a9e
+content_hash: 289b9d6ef9088cb911fdd01a0a79c47c1d8e38fd67b302d9ec6d66cceeb3ad15
 normalized_title_hash: 3426a17d409a5971
 canonical_url_hash: ''
 tags:
@@ -35,7 +35,7 @@ event_name: Microsoft Build 2026
 
 # Microsoft Build 2026: GitHub and developer workflow
 
-- **GitHub Copilot app:** Preview of a native desktop app for agentic development. It can start from issues, pull requests, existing sessions, or ideas; uses git worktrees to separate agent sessions; supports pausing and resuming work; and can orchestrate multiple agent sessions in parallel through review, CI, and merge. Link: [GitHub Copilot app](https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/?utm_source=live-blog-copilot-app-desktop-blog-cta&utm_medium=blog&utm_campaign=msbuild-2026). - **GitHub Copilot CLI / Build CLI:** Microsoft pointed developers to a GitHub Copilot CLI experience for connecting local projects to Build sessions. Link: [Microsoft Build CLI](https://github.com/microsoft/Build-CLI). - **Agentic modernization:** Microsoft announced agentic modernization updates for using GitHub Copilot and agents to modernize applications. Link: [Agentic modernization](https://aka.ms/agentic-modernization/build-blog).
+GitHub Copilot app: Preview of a native desktop app for agentic development. It can start from issues, pull requests, existing sessions, or ideas; uses git worktrees to separate agent sessions; supports pausing and resuming work; and can orchestrate multiple agent sessions in parallel through review, CI, and merge. Link: GitHub Copilot app. - GitHub Copilot CLI / Build CLI: Microsoft pointed developers to a GitHub Copilot CLI experience for connecting local projects to Build sessions. Link: Microsoft Build CLI. - Agentic modernization: Microsoft announced agentic modernization updates for using GitHub Copilot and agents to modernize applications. Link: Agentic modernization.
 
 <!-- graph:start -->
 ## Connections

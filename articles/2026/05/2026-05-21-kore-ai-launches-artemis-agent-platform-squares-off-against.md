@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
 - 2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
-- 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
+- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 embedding_id: 2026-05-21-kore-ai-launches-artemis-agent-platform-squares-off-against
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Kore.ai's Artemis platform enters a crowded enterprise-agent infrastructure fiel
 
 **Entities:** [[Google]] · [[Microsoft]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
+**Related:** [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
-- 2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c
+- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
 embedding_id: 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple plans to use next month's WWDC to position 15 years of custom silicon as a
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-19-gemini-will-power-the-next-generation-of-siri-google-cloud-c]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]]
 <!-- graph:end -->

@@ -22,8 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-google-slashes-ai-ultra-subscription-from-250-to-100-biggest
+- 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 - 2026-05-26-gemini-user-hits-5-hour-usage-cap-on-a-single-prompt-google
+- 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
 embedding_id: 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google CEO Sundar Pichai marked ten years of AI-first strategy at I/O 2026, reve
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-slashes-ai-ultra-subscription-from-250-to-100-biggest]] · [[2026-05-26-gemini-user-hits-5-hour-usage-cap-on-a-single-prompt-google]]
+**Related:** [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-05-26-gemini-user-hits-5-hour-usage-cap-on-a-single-prompt-google]] · [[2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail]]
 <!-- graph:end -->

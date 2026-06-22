@@ -19,8 +19,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai
-- 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
 - 2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le
+- 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
 - 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 - 2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o
 embedding_id: 2026-05-25-techcrunch-analysis-the-pope-s-ai-encyclical-isn-t-really-ab
@@ -34,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai]] · [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]] · [[2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le]] · [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]] · [[2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o]]
+**Related:** [[2026-05-25-the-pope-s-ai-encyclical-isn-t-really-about-ai]] · [[2026-05-26-rebecca-bellan-s-analysis-argues-the-pope-s-encyclical-is-le]] · [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]] · [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]] · [[2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o]]
 <!-- graph:end -->

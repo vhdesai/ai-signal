@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-04-14-source-uc-berkeley-rdi-blog-the-neuron
+- 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 embedding_id: 2026-04-30-trendingopenai-postmortem-on-gpt-5-1-s-goblin-affinity
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI published a detailed postmortem explaining how GPT-5.1 developed an unexp
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-04-14-source-uc-berkeley-rdi-blog-the-neuron]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]]
+**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-04-14-source-uc-berkeley-rdi-blog-the-neuron]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
 <!-- graph:end -->

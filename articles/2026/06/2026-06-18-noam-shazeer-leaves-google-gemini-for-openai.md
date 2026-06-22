@@ -1,41 +1,43 @@
 ---
 article_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
-title: '### Noam Shazeer Leaves Google Gemini for OpenAI'
+title: Noam Shazeer Leaves Google Gemini for OpenAI
 date: '2026-06-18'
 source: TechCrunch; CNBC
-url_original: null
-url_canonical: null
-url_status: missing
+url_original: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
+url_canonical: https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
+url_status: ok
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
-content_hash: 823b2457a29e8ce9780fa9dbc94f007f8de828e8e2ed963dacc04ea628faf480
+content_hash: 2609ac64951b5446e54a51778e33e63af5bb8c70f901fca3c98a0e0907bee737
 normalized_title_hash: f277533be002b80b
-canonical_url_hash: ''
-tags: []
+canonical_url_hash: f53aff1afeef2419
+tags:
+- Breaking
+- Hot
 entities:
 - Google
 - OpenAI
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-17-tags-breaking-hot
+- 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
 - 2026-06-17-daily-ai-news-digest-june-18-2026
-- 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
-- 2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever
+- 2026-05-27-the-week-that-reset-the-ai-industry
+- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
 embedding_id: 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 event_name: ''
 ---
 
-# ### Noam Shazeer Leaves Google Gemini for OpenAI
+# Noam Shazeer Leaves Google Gemini for OpenAI
 
-Transformer co-author and Gemini VP departs 22 months after Google paid $2.7B to bring him back from Character.AI. The highest-profile talent move in AI history, strengthening OpenAI's research bench ahead of IPO. - [TechCrunch](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/) --- **Tags:** `HOT`
+Transformer co-author and Gemini VP departs 22 months after Google paid $2.7B to bring him back from Character.AI. The highest-profile talent move in AI history, strengthening OpenAI's research bench ahead of IPO.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-17-tags-breaking-hot]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]] · [[2026-06-11-prometheus-raises-12b-largest-ai-startup-round-ever]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-05-27-the-week-that-reset-the-ai-industry]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

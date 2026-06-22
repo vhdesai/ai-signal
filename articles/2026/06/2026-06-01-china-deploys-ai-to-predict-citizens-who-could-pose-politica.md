@@ -1,41 +1,41 @@
 ---
 article_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
-title: '### China Deploys AI to Predict Citizens Who Could Pose Political Risk'
+title: China Deploys AI to Predict Citizens Who Could Pose Political Risk
 date: '2026-06-01'
 source: The New York Times
 url_original: https://www.nytimes.com/2026/06/01/world/asia/china-ai-political-risk.html
 url_canonical: https://www.nytimes.com/2026/06/01/world/asia/china-ai-political-risk.html
 url_status: broken
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
-content_hash: 014b46e7656363fd18202c7b65e64d190d249fd333d547b8baa3ced3fa63fb8c
+content_hash: 510db3746c0fba9ce204a70af6d89921d42d38abc3092120dd412ef59b4a2fa2
 normalized_title_hash: f1e542183f54d592
 canonical_url_hash: 53f945487433d95a
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - policy-regulation
-- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-- 2026-06-09-reuters-will-ai-become-a-public-utility
+- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
+- 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re
-- 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
+- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
+- 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 embedding_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 event_name: ''
 ---
 
-# ### China Deploys AI to Predict Citizens Who Could Pose Political Risk
+# China Deploys AI to Predict Citizens Who Could Pose Political Risk
 
-The New York Times reported that Chinese authorities are deploying AI systems designed to identify individuals who could pose political risks before they act. The system represents an escalation of predictive policing into preemptive political surveillance, raising fundamental questions about the use of frontier AI capabilities by authoritarian governments and strengthening the case for export controls on advanced model architectures. --- **Tags:** `TRENDING`
+The New York Times reported that Chinese authorities are deploying AI systems designed to identify individuals who could pose political risks before they act. The system represents an escalation of predictive policing into preemptive political surveillance, raising fundamental questions about the use of frontier AI capabilities by authoritarian governments and strengthening the case for export controls on advanced model architectures.
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-06-09-reuters-will-ai-become-a-public-utility]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-07-politico-openai-research-blog-releasebot-openai-anthropic-re]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Related:** [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]]
 <!-- graph:end -->

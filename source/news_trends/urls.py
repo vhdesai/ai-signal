@@ -248,13 +248,38 @@ def run_validate_urls(cfg: Config, limit: int | None = None) -> dict:
     return {"checked": checked, "ok": ok, "broken": broken, "missing": missing}
 
 
+# Search backends to skip during URL repair. Yandex is unreachable behind some
+# corporate networks (e.g. Microsoft IT controls) and the ddgs backend rotation
+# blocks on it until timeout, stalling the whole repair stage.
+_EXCLUDED_SEARCH_BACKENDS = {"yandex"}
+
+# Fallback backend list (yandex deliberately omitted) used if the installed ddgs
+# version does not expose its engine registry for introspection.
+_FALLBACK_SEARCH_BACKENDS = "duckduckgo,google,brave,mojeek,startpage,yahoo,wikipedia"
+
+
+def _search_backends() -> str:
+    """Comma-delimited text backends for ddgs, excluding blocked engines."""
+    try:
+        from ddgs.ddgs import ENGINES
+
+        keys = [k for k in ENGINES["text"].keys() if k not in _EXCLUDED_SEARCH_BACKENDS]
+        if keys:
+            return ",".join(keys)
+    except Exception:
+        pass
+    return _FALLBACK_SEARCH_BACKENDS
+
+
 def _search_candidates(query: str, max_results: int = 5) -> list[str]:
     from ddgs import DDGS
 
     hrefs: list[str] = []
     try:
-        with DDGS() as ddgs:
-            for result in ddgs.text(query, max_results=max_results):
+        with DDGS(timeout=10) as ddgs:
+            for result in ddgs.text(
+                query, backend=_search_backends(), max_results=max_results
+            ):
                 href = result.get("href") or result.get("url")
                 if href and href not in hrefs:
                     hrefs.append(href)

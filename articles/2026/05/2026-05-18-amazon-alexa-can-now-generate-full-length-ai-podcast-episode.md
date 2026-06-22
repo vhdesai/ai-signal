@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-18-amazon-alexa-now-generates-ai-podcasts-on-any-topic
 - 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
+- 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 embedding_id: 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon's Alexa+ now includes a feature that generates full-length, conversationa
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-amazon-alexa-now-generates-ai-podcasts-on-any-topic]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]]
+**Related:** [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
 <!-- graph:end -->

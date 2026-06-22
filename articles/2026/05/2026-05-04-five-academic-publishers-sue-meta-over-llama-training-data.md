@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
-- 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
+- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
+- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 embedding_id: 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
 event_name: ''
 ---
@@ -38,5 +39,5 @@ A consortium of five academic publishers filed suit against Meta alleging unauth
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie]]
+**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
 <!-- graph:end -->

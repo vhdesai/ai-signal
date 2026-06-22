@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu
+- 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 embedding_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-campaigns
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google is consolidating its standalone Display Ads product into its AI-driven De
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-19-google-reinvents-search-ai-mode-universal-cart-and-ask-youtu]]
+**Related:** [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

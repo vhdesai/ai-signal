@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 embedding_id: 2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Q1 2026 hyperscaler cloud market share data shows AWS, Microsoft Azure, and Goog
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]]
-**Related:** [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]]
 <!-- graph:end -->

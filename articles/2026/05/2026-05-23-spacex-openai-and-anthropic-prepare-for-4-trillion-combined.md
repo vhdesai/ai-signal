@@ -21,14 +21,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
-- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
-- 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
-- 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
-- 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
+dedupe_status: duplicate
+canonical_article_id: 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
+related_article_ids: []
 embedding_id: 2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined
 event_name: ''
 ---
@@ -42,5 +37,5 @@ Following SpaceX's S-1 filing on May 20 and OpenAI's confidential S-1 filing on 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]]
+**Canonical:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 embedding_id: 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT researchers (Wang, Isola, Cheung) demonstrate that mean pooling the hidden s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-29-two-speeds-of-learning-a-representation-readout-decompositio]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
 <!-- graph:end -->

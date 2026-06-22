@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i
 - 2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave
 - 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
+- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 embedding_id: 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google, Amazon, Meta, and Microsoft are collectively spending $725B on AI capita
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
+**Related:** [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

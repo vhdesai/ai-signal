@@ -21,8 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
 - 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
-- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
+- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
+- 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 embedding_id: 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Meta's newsroom published "New AI Tools to Help You Make Things Happen on Facebo
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]]
+**Related:** [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]]
 <!-- graph:end -->

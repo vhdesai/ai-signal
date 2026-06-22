@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b
+- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 embedding_id: 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
@@ -40,5 +40,5 @@ The Information reports that OpenAI is moving beyond large-brand launch partners
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]]
+**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]]
 <!-- graph:end -->

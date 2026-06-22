@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
-- 2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
+- 2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
+- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 embedding_id: 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 event_name: ''
 ---
@@ -43,5 +43,5 @@ A Zacks analyst summary tallies Oracle's recent stack: a May 1 Department of War
 
 **Entities:** [[Amazon]] · [[Google]] · [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
+**Related:** [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]]
 <!-- graph:end -->

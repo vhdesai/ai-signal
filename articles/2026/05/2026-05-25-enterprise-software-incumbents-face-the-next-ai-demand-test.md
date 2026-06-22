@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
-- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
+- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 embedding_id: 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 event_name: ''
@@ -39,5 +40,5 @@ Salesforce, Snowflake, and Asana earnings are being watched as a referendum on w
 
 **Entities:** [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]]
+**Related:** [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]]
 <!-- graph:end -->

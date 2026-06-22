@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
-- 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
+- 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
+- 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
 embedding_id: 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Amazon launched Alexa Podcasts for Alexa+ subscribers, generating AI-narrated au
 
 **Entities:** [[Amazon]] · [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]]
+**Related:** [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]]
 <!-- graph:end -->

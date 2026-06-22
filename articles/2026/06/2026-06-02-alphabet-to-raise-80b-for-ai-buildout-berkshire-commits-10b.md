@@ -1,21 +1,21 @@
 ---
 article_id: 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
-title: '### Alphabet to raise $80B for AI buildout; Berkshire commits $10B'
+title: Alphabet to raise $80B for AI buildout; Berkshire commits $10B
 date: '2026-06-02'
 source: Yahoo Finance
 url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-02_061120_Daily-AI-News-Digest.md
-content_hash: 5375846d807735d3035741bb25ff033ecfd62a9bbe9d1b49891c98c606051caf
+content_hash: 354aa333c57949c1c19a9a8b7236bbe594653801b633f938a63969aac144b8a5
 normalized_title_hash: ff5384428fa06cfa
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
+- Infrastructure
 entities:
 - Scale AI
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -25,14 +25,14 @@ embedding_id: 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits
 event_name: ''
 ---
 
-# ### Alphabet to raise $80B for AI buildout; Berkshire commits $10B
+# Alphabet to raise $80B for AI buildout; Berkshire commits $10B
 
-Alphabet is raising roughly $80B to scale AI infrastructure, backed by a $10B private investment from Warren Buffett's Berkshire Hathaway — a notable entry into AI infrastructure from a historically tech-cautious investor. The company expects 2026 capital spending to reach approximately $190B. The commitment signals that mainstream institutional capital now views frontier compute as core infrastructure. URL not verified --- ## Model Releases **Tags:** `RELEASE`
+Alphabet is raising roughly $80B to scale AI infrastructure, backed by a $10B private investment from Warren Buffett's Berkshire Hathaway — a notable entry into AI infrastructure from a historically tech-cautious investor. The company expects 2026 capital spending to reach approximately $190B. The commitment signals that mainstream institutional capital now views frontier compute as core infrastructure.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Scale AI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]]
 <!-- graph:end -->

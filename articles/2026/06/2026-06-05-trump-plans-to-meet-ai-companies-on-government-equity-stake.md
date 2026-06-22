@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
-content_hash: 724daa0b9c13eba5412654281c09a9b17b60e22f18e0e3faf93eeaf4b169cac4
+content_hash: c389e7cc7aa20a7277a02adde5b38a849761fa89dc49f0be816f0de35ba3358b
 normalized_title_hash: 37f09c3ffb9757c9
 canonical_url_hash: ''
 tags:
@@ -23,23 +23,23 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
 - 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
+- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
-- 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
 embedding_id: 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 event_name: ''
 ---
 
 # Trump Plans to Meet AI Companies on Government Equity-Stake Proposal
 
-Trump plans to meet AI companies next week on government profit-sharing or equity stakes. Senior officials are eyeing shares in OpenAI and Anthropic. Forbes framed it as "Universal Basic Capital" — bipartisan convergence around public ownership in companies built on publicly funded research. ________________________________
+Trump plans to meet AI companies next week on government profit-sharing or equity stakes. Senior officials are eyeing shares in OpenAI and Anthropic. Forbes framed it as "Universal Basic Capital" — bipartisan convergence around public ownership in companies built on publicly funded research.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie]]
+**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
 <!-- graph:end -->

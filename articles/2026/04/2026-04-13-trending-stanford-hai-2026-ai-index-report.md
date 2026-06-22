@@ -20,10 +20,10 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 related_article_ids:
+- 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
-- 2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica
 embedding_id: 2026-04-13-trending-stanford-hai-2026-ai-index-report
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford's 2026 AI Index documents a "jagged frontier": top models now match PhD
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
-**Related:** [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica]]
+**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
 <!-- graph:end -->

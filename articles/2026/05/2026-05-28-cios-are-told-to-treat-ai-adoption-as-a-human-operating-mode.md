@@ -20,8 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
@@ -37,5 +37,5 @@ CIO Dive’s enterprise adoption coverage argued that AI rollouts often stall be
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]]
+**Related:** [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]]
 <!-- graph:end -->

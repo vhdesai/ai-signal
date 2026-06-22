@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r
 - 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 embedding_id: 2026-06-03-anthropic-picks-morgan-stanley-and-goldman-sachs-to-lead-ipo
@@ -36,5 +37,5 @@ Anthropic selected Morgan Stanley and Goldman Sachs as lead underwriters, signal
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

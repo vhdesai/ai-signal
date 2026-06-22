@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
+- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
-- 2026-04-13-products-tools
 embedding_id: 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIO Dive reported that Salesforce is leaning on Agentforce to sustain growth, wi
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-04-13-products-tools]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]]
 <!-- graph:end -->

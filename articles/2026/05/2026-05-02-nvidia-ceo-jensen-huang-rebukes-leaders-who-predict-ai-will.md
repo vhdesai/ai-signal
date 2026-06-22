@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
+- 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
 embedding_id: 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia CEO Jensen Huang publicly criticized tech industry leaders for what he ca
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]]
+**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]]
 <!-- graph:end -->

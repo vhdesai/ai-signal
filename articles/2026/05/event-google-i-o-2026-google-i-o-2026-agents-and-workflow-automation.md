@@ -7,7 +7,7 @@ url_original: https://io.google/2026/
 url_canonical: https://io.google/2026/
 url_status: ok
 digest_source: digests\raw\google-io-2026.md
-content_hash: 752694f96025014f03aea59e9436377889796c2c42f2540b6aa8f9a63b04870f
+content_hash: ff8dbbb24ca0ba6568a7c1f985cd85c6660000789a241ccf4565210ddb4b2f17
 normalized_title_hash: 92fa7d512d867d4c
 canonical_url_hash: 8e1579ed419494c9
 tags:
@@ -28,7 +28,7 @@ event_name: Google I/O 2026
 
 # Google I/O 2026: Agents and workflow automation
 
-- **Gemini Spark:** A persistent personal AI agent running on Google Cloud VMs, designed to work across Gmail, Docs, Sheets, Slides, third-party apps, and the web while surfacing user approvals before sensitive actions. - **Antigravity 2.0 / AI Studio updates:** The corpus links I/O to app-generation and coding workflows, including Android app creation from natural language and agentic CLI tooling.
+Gemini Spark: A persistent personal AI agent running on Google Cloud VMs, designed to work across Gmail, Docs, Sheets, Slides, third-party apps, and the web while surfacing user approvals before sensitive actions. - Antigravity 2.0 / AI Studio updates: The corpus links I/O to app-generation and coding workflows, including Android app creation from natural language and agentic CLI tooling.
 
 <!-- graph:start -->
 ## Connections

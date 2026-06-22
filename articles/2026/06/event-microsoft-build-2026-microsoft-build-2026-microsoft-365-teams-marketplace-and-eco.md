@@ -7,7 +7,7 @@ url_original: null
 url_canonical: null
 url_status: missing
 digest_source: digests\raw\Microsoft Build 2026 - Agentic Developer Platform Announcements.md
-content_hash: 22d4b1e1948d7e3116a55cfdbff6e0c712899d82d1f311ffd0cbba4cd1ccde04
+content_hash: fa2abd71b946a96e7cb22a3c478fb98c4f90dd32babc91ebca25f20bc2417b4f
 normalized_title_hash: f51d86b0ec8090d5
 canonical_url_hash: ''
 tags:
@@ -35,7 +35,7 @@ event_name: Microsoft Build 2026
 
 # Microsoft Build 2026: Microsoft 365, Teams, Marketplace, and ecosystem
 
-- **Teams platform for collaborative agents:** Build collaborative agents where work happens. Link: [Teams Platform Build](http://aka.ms/TeamsPlatform-Build). - **Microsoft Marketplace:** Updates to help developers build, scale, and monetize apps and agents through Microsoft Marketplace. Link: [Marketplace Build blog](https://aka.ms/MarketplaceBuildBlog2026). - **Microsoft for Startups:** Clearer path from AI development to enterprise growth. Link: [Microsoft for Startups program updates](https://aka.ms/mfs-program-updates). - **Copilot design for work:** Microsoft highlighted a new look/design direction for Copilot. Link: [Designing Copilot for work](https://aka.ms/designing-copilot-for-work). - **Mayo Clinic collaboration:** Mayo Clinic and Microsoft are collaborating on a frontier AI model for healthcare. Link: [Mayo Clinic and Microsoft](https://news.microsoft.com/source/?p=24971).
+Teams platform for collaborative agents: Build collaborative agents where work happens. Link: Teams Platform Build. - Microsoft Marketplace: Updates to help developers build, scale, and monetize apps and agents through Microsoft Marketplace. Link: Marketplace Build blog. - Microsoft for Startups: Clearer path from AI development to enterprise growth. Link: Microsoft for Startups program updates. - Copilot design for work: Microsoft highlighted a new look/design direction for Copilot. Link: Designing Copilot for work. - Mayo Clinic collaboration: Mayo Clinic and Microsoft are collaborating on a frontier AI model for healthcare. Link: Mayo Clinic and Microsoft.
 
 <!-- graph:start -->
 ## Connections

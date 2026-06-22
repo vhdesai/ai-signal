@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 - 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
+- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 - 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-- 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 embedding_id: 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI is consolidating product, research-deployment, and growth functions under
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]]
+**Related:** [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]]
 <!-- graph:end -->

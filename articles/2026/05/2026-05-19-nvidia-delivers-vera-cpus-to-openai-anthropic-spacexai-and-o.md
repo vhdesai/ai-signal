@@ -27,8 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
+- 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 embedding_id: 2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Nvidia confirmed that SpaceXAI, Oracle Cloud Infrastructure, Anthropic, and Open
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
+**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
 <!-- graph:end -->

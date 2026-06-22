@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+- 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
+- 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 embedding_id: 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 event_name: ''
 ---
@@ -35,5 +35,5 @@ JPMorgan, Morgan Stanley, and other major banks are reportedly looking for ways 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
+**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
 <!-- graph:end -->

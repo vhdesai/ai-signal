@@ -21,6 +21,7 @@ canonical_article_id: 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-
 related_article_ids:
 - 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 embedding_id: 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Anthropic released an officially curated, GitHub-hosted directory of verified pl
 
 **Entities:** [[Anthropic]]
 **Canonical:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]]
-**Related:** [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
+- 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 embedding_id: 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 event_name: ''
@@ -38,5 +38,5 @@ WiWynn executives told Bloomberg the next AI server-build bottleneck is no longe
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
 <!-- graph:end -->

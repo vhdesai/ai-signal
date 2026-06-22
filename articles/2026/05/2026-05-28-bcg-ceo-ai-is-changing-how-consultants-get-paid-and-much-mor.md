@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 - 2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai
+- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 embedding_id: 2026-05-28-bcg-ceo-ai-is-changing-how-consultants-get-paid-and-much-mor
 event_name: ''
@@ -37,5 +37,5 @@ In a feature interview, BCG CEO Christoph Schweizer told the WSJ that AI is resh
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
+**Related:** [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
 <!-- graph:end -->

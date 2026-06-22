@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
 embedding_id: 2026-05-18-lake-tahoe-residents-to-lose-75-of-power-supply-as-nv-energy
@@ -36,5 +35,5 @@ NV Energy notified Liberty Utilities that it will end the bulk of its wholesale 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-nextera-s-67-billion-dominion-merger-ai-power-demand-drives]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]]
+**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]]
 <!-- graph:end -->

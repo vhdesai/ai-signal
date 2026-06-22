@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
-- 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
 embedding_id: 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
 event_name: ''
 ---
@@ -39,5 +38,5 @@ The Information reported that Google announced a new video model, Gemini Omni, a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]]
+**Related:** [[2026-05-12-google-gemini-omni-video-model-reportedly-in-testing-ahead-o]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]]
 <!-- graph:end -->

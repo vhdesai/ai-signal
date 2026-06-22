@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
-- 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
+- 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
+- 2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war
 embedding_id: 2026-05-18-connecticut-becomes-the-latest-u-s-state-to-enact-an-ai-acco
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Connecticut enacted an AI accountability statute requiring impact assessments fo
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]]
+**Related:** [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war]]
 <!-- graph:end -->

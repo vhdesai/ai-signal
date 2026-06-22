@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
+- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 embedding_id: 2026-05-12-former-alibaba-qwen-lead-junyang-lin-raises-for-2b-valued-ai
 event_name: ''
@@ -42,5 +42,5 @@ Junyang Lin, former lead researcher of Alibaba's Qwen models, is raising several
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
+**Related:** [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
 <!-- graph:end -->

@@ -7,7 +7,7 @@ url_original: https://io.google/2026/
 url_canonical: https://io.google/2026/
 url_status: ok
 digest_source: digests\raw\google-io-2026.md
-content_hash: 8464a237e9eefd1d67bc94aeb62bdf8cf463f23d435e81dce7dd13820cc29dd6
+content_hash: 60ba24a3a2e614914129c2cddce31409a56f41188c906b8c8abdeb1619e6914f
 normalized_title_hash: 9d5ba9627d196001
 canonical_url_hash: 8e1579ed419494c9
 tags:
@@ -30,7 +30,7 @@ event_name: Google I/O 2026
 
 # Google I/O 2026: Android XR and hardware
 
-- **Android XR smart glasses:** Google used I/O to position Gemini-powered XR glasses as a direct answer to Meta's Ray-Ban-style AI wearables, with Samsung, Qualcomm, Gentle Monster, and Warby Parker surfaced as partners in corpus coverage. - **Developer implications:** Android, Chrome, Workspace, and XR were treated as extension points for Gemini-native applications.
+Android XR smart glasses: Google used I/O to position Gemini-powered XR glasses as a direct answer to Meta's Ray-Ban-style AI wearables, with Samsung, Qualcomm, Gentle Monster, and Warby Parker surfaced as partners in corpus coverage. - Developer implications: Android, Chrome, Workspace, and XR were treated as extension points for Gemini-native applications.
 
 <!-- graph:start -->
 ## Connections
