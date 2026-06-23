@@ -3,7 +3,7 @@
 A daily AI news trends aggregator that generates a static website from markdown news digests.
 Powered by NLP, semantic search (ChromaDB), and automated URL validation.
 
-**Live site:** Deployed on [Cloudflare Pages](https://ai-signal.pages.dev)
+**Live site:** Deployed on [Cloudflare Pages](https://ai-signal-72f.pages.dev/)
 
 ## Features
 
