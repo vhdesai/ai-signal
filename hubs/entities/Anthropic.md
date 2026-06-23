@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 595
+member_count: 600
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 595 connected article(s).
+> Auto-generated entity hub. 600 connected article(s).
 
+- `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
+- `2026-06-22` [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ|OpenAI Launches GPT-5.5-Cyber and "Patch the Planet" Initiative]]
+- `2026-06-22` [[2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in|Micron and Anthropic Sign Memory Supply Pact and Series H Investment]]
+- `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
+- `2026-06-22` [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme|Anthropic Says Claude May Ask Users to Verify Their Government ID]]
 - `2026-06-21` [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic|SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic]]
 - `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]

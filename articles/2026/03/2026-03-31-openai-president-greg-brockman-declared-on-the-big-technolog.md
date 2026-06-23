@@ -12,8 +12,8 @@ title: 'OpenAI President Greg Brockman declared on the Big Technology Podcast (A
 date: '2026-03-31'
 source: Nvidia IR
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://getpodcast.com/it/podcast/the-top-ai-news-from-the-past-week-every-thursdai/agi-is-here-jensen-says-yes-arc-agi-3-says-ai-scores-under-1_c71abcb6b2
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: c818916cba7f82ea346ccb944ccc8a58098e6d5b50c4043d497af3b694f0f08b

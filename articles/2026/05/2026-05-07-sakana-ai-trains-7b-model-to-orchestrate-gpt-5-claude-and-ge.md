@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt
+- 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
 - 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 - 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 embedding_id: 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sakana AI published research demonstrating a compact 7B-parameter model trained 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Related:** [[2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

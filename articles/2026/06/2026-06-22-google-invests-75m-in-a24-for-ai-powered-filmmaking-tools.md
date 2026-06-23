@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools
 - 2026-04-25-google-plans-up-to-40b-anthropic-investment
 - 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 embedding_id: 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google is investing $75 million in A24 to develop AI-powered filmmaking tools, w
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]]
+**Related:** [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

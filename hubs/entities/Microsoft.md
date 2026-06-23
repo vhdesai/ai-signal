@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 351
+member_count: 352
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 351 connected article(s).
+> Auto-generated entity hub. 352 connected article(s).
 
 - `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
 - `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
+- `2026-06-22` [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex|Microsoft Signs 20-Year Power Deal with Chevron for West Texas AI Data Center]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-22` [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai|Chevron Strikes Power Deal with Microsoft for West Texas AI Data Center]]
 - `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|Nadella: "There Is No Societal Permission" for AI Concentration]]

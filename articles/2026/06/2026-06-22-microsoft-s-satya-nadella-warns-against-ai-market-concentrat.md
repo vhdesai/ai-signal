@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
 - 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
-- 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 embedding_id: 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ reported remarks from Satya Nadella arguing that the AI economy should not c
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]]
+**Related:** [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]]
 <!-- graph:end -->

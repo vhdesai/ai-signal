@@ -11,8 +11,8 @@ title: recent Northern District of California ruling has opened significant lega
 date: '2026-04-14'
 source: 'Source: Bloomberg Law'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://crypto.news/us-court-rules-ai-ads-make-meta-liable-for-fraud/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 0aba9759973c5db7b3e67c568ecf44e324e6ff1c3a0d767bb368001a5d1e6513

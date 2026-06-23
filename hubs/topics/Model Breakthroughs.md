@@ -1,14 +1,21 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1056
+member_count: 1063
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1056 connected article(s).
+> Auto-generated topic hub. 1063 connected article(s).
 
+- `2026-06-23` [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps|MIT's Low-Power "Gleanmer" Chip Lets Tiny Robots Build 3D Maps on an LED's Worth of Power]]
+- `2026-06-22` [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro|Sakana AI Launches Fugu — Orchestration Model That Routes Across Frontier LLMs]]
+- `2026-06-22` [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ|OpenAI Launches GPT-5.5-Cyber and "Patch the Planet" Initiative]]
 - `2026-06-22` [[2026-06-22-nvidia-announces-halos-safety-system-for-robotics|NVIDIA Announces Halos Safety System for Robotics]]
+- `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
+- `2026-06-22` [[2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse|GPT-5.6 Launch Timing Uncertain — Prediction Markets Collapse]]
+- `2026-06-22` [[2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model|Alibaba Ships HappyHorse 1.1 Image-to-Video Model]]
+- `2026-06-22` [[2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva|AI Reportedly Cracks 18 Unsolved Rare-Disease Cases at Harvard/Boston Children's]]
 - `2026-06-20` [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch|GPT-5.6 Rumors Build Ahead of Rumored June 23 Launch]]
 - `2026-06-19` [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex|GPT-5.6 Stealth Testing Rumors Intensify; Late-June Launch Expected]]
 - `2026-06-18` [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model|Zhipu AI's GLM-5.2 Ranked Leading Open-Weights Model]]

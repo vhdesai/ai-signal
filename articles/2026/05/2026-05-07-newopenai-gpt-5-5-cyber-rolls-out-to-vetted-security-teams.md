@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
+- 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-04-15-model-releases
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
 embedding_id: 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI launched GPT-5.5-Cyber in limited preview to pre-approved cybersecurity o
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-15-model-releases]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]]
+**Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-15-model-releases]]
 <!-- graph:end -->

@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 370
+member_count: 376
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 370 connected article(s).
+> Auto-generated entity hub. 376 connected article(s).
 
+- `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
+- `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
+- `2026-06-22` [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u|Nvidia Unveils Warm-Water Cooling to Cut Data-Center Water Use]]
+- `2026-06-22` [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste|Nvidia Introduces Halos for Robotics — Full-Stack Safety System for Physical AI]]
 - `2026-06-22` [[2026-06-22-nvidia-announces-halos-safety-system-for-robotics|NVIDIA Announces Halos Safety System for Robotics]]
+- `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
+- `2026-06-22` [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud|Groq Confirms $650M Raise and Pivots to Inference "Neocloud"]]
 - `2026-06-22` [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers|Europe Unveils a Record 35 New NVIDIA AI Supercomputers]]
 - `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
 - `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]

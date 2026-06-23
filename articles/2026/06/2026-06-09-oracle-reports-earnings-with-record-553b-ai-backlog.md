@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
+- 2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad
 - 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 embedding_id: 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Oracle reports Q4 earnings with a record $553 billion AI backlog. Barron's noted
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

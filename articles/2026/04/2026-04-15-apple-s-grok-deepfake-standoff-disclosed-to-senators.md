@@ -4,8 +4,8 @@ title: Apple's Grok Deepfake Standoff Disclosed to Senators
 date: '2026-04-15'
 source: NBC News / MacRumors / CNET
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnet.com/tech/services-and-software/apple-grok-app-store-removal-threat/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: f94efa393593298a2b123210b8e75f6f233d72263edc8225956633364a2004fd

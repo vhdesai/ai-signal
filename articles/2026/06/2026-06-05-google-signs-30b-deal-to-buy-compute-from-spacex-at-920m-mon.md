@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
+- 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
 - 2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s
-- 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 embedding_id: 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google will pay SpaceX $920M/month for AI compute at xAI data centers, totaling 
 
 **Entities:** [[Google]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]]
+**Related:** [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]] · [[2026-05-20-anthropic-to-pay-xai-1-25b-per-month-for-compute-under-40b-s]]
 <!-- graph:end -->

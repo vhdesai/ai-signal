@@ -1,14 +1,21 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 618
+member_count: 625
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 618 connected article(s).
+> Auto-generated entity hub. 625 connected article(s).
 
+- `2026-06-22` [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s|Samsung Deploys ChatGPT Enterprise and Codex — One of OpenAI's Largest Rollouts]]
+- `2026-06-22` [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro|Sakana AI Launches Fugu — Orchestration Model That Routes Across Frontier LLMs]]
 - `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
+- `2026-06-22` [[2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de|OpenAI and Getty Images Strike Multi-Year Content Display Deal]]
+- `2026-06-22` [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ|OpenAI Launches GPT-5.5-Cyber and "Patch the Planet" Initiative]]
+- `2026-06-22` [[2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse|GPT-5.6 Launch Timing Uncertain — Prediction Markets Collapse]]
+- `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
+- `2026-06-22` [[2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva|AI Reportedly Cracks 18 Unsolved Rare-Disease Cases at Harvard/Boston Children's]]
 - `2026-06-21` [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic|SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic]]
 - `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
 - `2026-06-20` [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research|OpenAI Testing "ChatGPT for Science" Subscription for Research Institutions]]

@@ -10,8 +10,8 @@ title: MIT CSAIL published research demonstrating sparse activation pruning that
 date: '2026-04-12'
 source: 🔥 TRENDING Princeton CITP
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ei.csail.mit.edu/seminars.html
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 6e61c69d87b4f95b7e79a11b3638e7e2f649aeede6bbe362d976320e0bf67909

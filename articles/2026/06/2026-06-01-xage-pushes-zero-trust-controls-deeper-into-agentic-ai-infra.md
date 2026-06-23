@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/security/xage-security-supercharges-its-just-announced-zero-trust-for-agentic-ai-solution-with-nvidia-vera-bluefield-4-stx-security-innovations/
 url_canonical: https://aithority.com/security/xage-security-supercharges-its-just-announced-zero-trust-for-agentic-ai-solution-with-nvidia-vera-bluefield-4-stx-security-innovations/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: e18ff5ded03108909ea62aa1a84d5ba708938406161fd2434116b0a59da4fa29
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
+- 2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age
 - event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
 - event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
-- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Xage Security announced enhancements to its zero-trust solution for agentic AI u
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
+**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]]
 <!-- graph:end -->

@@ -83,6 +83,22 @@ def _is_blocked_domain(url: str) -> bool:
     return any(domain == s or domain.endswith("." + s) for s in _BLOCKED_DOMAIN_SUFFIXES)
 
 
+# Domains skipped during URL validation. Yandex is unreachable behind some
+# corporate networks (e.g. Microsoft IT controls), so HTTP checks against it
+# time out and falsely mark otherwise-fine links as broken.
+_VALIDATION_EXCLUDED_DOMAIN_SUFFIXES = (
+    "yandex.com", "yandex.ru", "yandex.net", "yandex.eu", "ya.ru",
+)
+
+
+def _is_validation_excluded(url: str) -> bool:
+    domain = _registrable_domain(url)
+    return any(
+        domain == s or domain.endswith("." + s)
+        for s in _VALIDATION_EXCLUDED_DOMAIN_SUFFIXES
+    )
+
+
 def _is_homepage(url: str) -> bool:
     """A site root / section landing page is never an article-specific source."""
     parsed = urlparse(url)
@@ -223,13 +239,21 @@ def run_validate_urls(cfg: Config, limit: int | None = None) -> dict:
     cfg.ensure_dirs()
     db.init_db(cfg.db_path)
     articles = [a for _, a in iter_articles(cfg)]
-    checked = ok = broken = missing = 0
+    checked = ok = broken = missing = skipped = 0
 
     with httpx.Client(timeout=10.0, follow_redirects=True) as client, db.connect(cfg.db_path) as conn:
         for art in articles:
             if not art.url_canonical:
                 art.url_status = "missing"
                 missing += 1
+                continue
+            if _is_validation_excluded(art.url_canonical):
+                # Treat as reachable without an HTTP request: keeps the link in
+                # the site and prevents the repair stage from touching it.
+                art.url_status = "ok"
+                art._http_status = None
+                skipped += 1
+                _persist(cfg, conn, art)
                 continue
             if limit is not None and checked >= limit:
                 break
@@ -245,7 +269,7 @@ def run_validate_urls(cfg: Config, limit: int | None = None) -> dict:
                 db.queue_review(conn, art.article_id, "broken-url", art.url_canonical or "")
             _persist(cfg, conn, art)
 
-    return {"checked": checked, "ok": ok, "broken": broken, "missing": missing}
+    return {"checked": checked, "ok": ok, "broken": broken, "missing": missing, "skipped": skipped}
 
 
 # Search backends to skip during URL repair. Yandex is unreachable behind some

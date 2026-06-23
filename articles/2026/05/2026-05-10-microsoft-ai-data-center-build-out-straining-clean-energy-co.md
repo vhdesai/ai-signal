@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 - 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
-- 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
 embedding_id: 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft is having internal discussions about whether to delay or scale back it
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]]
+**Related:** [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]]
 <!-- graph:end -->

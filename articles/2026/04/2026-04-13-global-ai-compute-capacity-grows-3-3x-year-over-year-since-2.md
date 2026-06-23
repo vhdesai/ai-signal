@@ -4,8 +4,8 @@ title: Global AI Compute Capacity Grows ~3.3x Year-Over-Year Since 2022
 date: '2026-04-13'
 source: Stanford 2026 AI Index / IEEE Spectrum
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://epoch.ai/data-insights/ai-chip-production
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 5470820fd860b4bb84c80706de1e8ea7bb0eaa97d7c9a4c80ad9ee397fe7281e

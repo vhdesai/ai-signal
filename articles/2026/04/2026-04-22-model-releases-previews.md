@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-04-23-
+- 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
 - 2026-04-15-model-releases
-- 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
 embedding_id: 2026-04-22-model-releases-previews
 event_name: ''
 ---
@@ -38,5 +38,5 @@ GPT-5.5 Family Leaked via OpenAI Codex Platform
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-23-]] · [[2026-04-15-model-releases]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]]
+**Related:** [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-23-]] · [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]] · [[2026-04-15-model-releases]]
 <!-- graph:end -->

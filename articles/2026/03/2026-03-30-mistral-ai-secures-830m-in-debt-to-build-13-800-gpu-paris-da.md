@@ -4,8 +4,8 @@ title: Mistral AI Secures $830M in Debt to Build 13,800-GPU Paris Data Center
 date: '2026-03-30'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://explore.n1n.ai/blog/mistral-ai-secures-830-million-debt-financing-paris-data-center-2026-03-30
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: f9e13b8703cfc38686cd42297ca70dd3da6850848c388dbd52e1ae01c323a18a

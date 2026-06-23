@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
+- 2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 embedding_id: 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
 event_name: ''
@@ -36,5 +37,5 @@ Meta signed its first AI data center deal in India through Reliance Industries. 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
+**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
 <!-- graph:end -->

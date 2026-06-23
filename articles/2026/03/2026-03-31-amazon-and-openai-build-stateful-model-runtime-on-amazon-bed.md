@@ -4,8 +4,8 @@ title: Amazon and OpenAI Build Stateful Model Runtime on Amazon Bedrock
 date: '2026-03-31'
 source: The Motley Fool
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.fool.com/investing/2026/03/31/amazon-stock-investors-great-news-openai-robotaxis/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: c340bbf136a1f501fe642d9d280a9847abbb92afe1bf594162daf1047642414b

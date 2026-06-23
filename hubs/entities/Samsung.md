@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 20
+member_count: 21
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 20 connected article(s).
+> Auto-generated entity hub. 21 connected article(s).
 
+- `2026-06-22` [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s|Samsung Deploys ChatGPT Enterprise and Codex — One of OpenAI's Largest Rollouts]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]
 - `2026-05-31` [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op|Anthropic Closes $65B Series H at $965B Valuation, Overtakes OpenAI as Most Valuable AI Company]]

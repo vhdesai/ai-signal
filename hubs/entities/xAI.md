@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 132
+member_count: 133
 ---
 
 # xAI
 
-> Auto-generated entity hub. 132 connected article(s).
+> Auto-generated entity hub. 133 connected article(s).
 
+- `2026-06-22` [[2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi|xAI Adds /goal to Grok Build for Long-Running Autonomous Coding]]
 - `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-15` [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in|New xAI ships Agent Dashboard in Grok Build and "Use Grok in Warp" integration]]

@@ -10,8 +10,8 @@ title: MiniMax officially open-sourced MiniMax M2.7 on Hugging Face, notable as 
 date: '2026-04-11'
 source: 🔥 TRENDING Liquid AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: c21876e380c908d56c0dcd9c47cefd5ee9c3f72acd9864fdd0e7ca37aa87589b

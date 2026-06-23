@@ -6,7 +6,7 @@ date: '2026-05-30'
 source: Sophic Capital*
 url_original: https://sophiccapital.com/may-30-2026-ai-infrastructure-week/
 url_canonical: https://sophiccapital.com/may-30-2026-ai-infrastructure-week/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 78813cbd115da6b9b9777926db3636bff827375a2080fd4b075f36b19dd4faac
 normalized_title_hash: 83075196609c7048

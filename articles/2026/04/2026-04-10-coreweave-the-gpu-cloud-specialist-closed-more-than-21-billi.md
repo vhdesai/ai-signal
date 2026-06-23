@@ -9,8 +9,8 @@ title: CoreWeave, the GPU cloud specialist, closed more than $21 billion in mult
 date: '2026-04-10'
 source: TSMC · CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/article/coreweave-stock-climbs-10-on-anthropic-deal-141357017.html
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 504674cf0a6f12b6620546cc4a4a7cd32a34aef25ccfb48e74e8dcd203d4888a

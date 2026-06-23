@@ -11,8 +11,8 @@ title: Anthropic disclosed it has reached a $30 billion annualized revenue run r
 date: '2026-04-06'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://intuitionlabs.ai/articles/oracle-openai-300b-deal-analysis
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 5b41764189c6bf8dcb6bc53bbc10cc2a3c412c37feddccd00742caf00e30f099

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 187
+member_count: 189
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 187 connected article(s).
+> Auto-generated entity hub. 189 connected article(s).
 
+- `2026-06-22` [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste|Nvidia Introduces Halos for Robotics — Full-Stack Safety System for Physical AI]]
+- `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
 - `2026-06-18` [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers|Amazon Weighs Selling Trainium Chips to Outside Data Centers]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-13` [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd|Amazon CEO Jassy's Talks with U.S. Officials Triggered Crackdown on Anthropic]]

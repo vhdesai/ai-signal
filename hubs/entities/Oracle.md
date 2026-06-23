@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 70
+member_count: 71
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 70 connected article(s).
+> Auto-generated entity hub. 71 connected article(s).
 
+- `2026-06-22` [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad|Oracle Discloses ~21,000 Job Cuts Over 12 Months, Citing AI Adoption]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie|Oracle Beat Earnings but Fell 11% — AI Capex Anxiety Intensifies]]
 - `2026-06-10` [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness|Oracle's AI Cloud Surge Is Offset by Software Weakness]]

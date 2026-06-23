@@ -4,8 +4,8 @@ title: Microsoft MAI-Image-2-Efficient Arrives at 41% Lower Cost
 date: '2026-04-14'
 source: Microsoft AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/technology/microsoft-says-mai-image-2-efficient-cuts-image-ai-costs-and-latency/ar-AA20YJrP
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072002_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 151f640b5511681d228c04e1decec7160f5a3161031c46777646aa57d2378e37

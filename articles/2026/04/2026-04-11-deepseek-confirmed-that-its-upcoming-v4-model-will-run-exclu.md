@@ -10,8 +10,8 @@ title: DeepSeek confirmed that its upcoming V4 model will run exclusively on Hua
 date: '2026-04-11'
 source: 'Source: Big Hat Group China AI Weekly'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/nvidia-h200-chip-sales-china-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 4da0d2babd08e55f1b27a0a041dbcd1a116251bba6fa4481e2e4a3491500cd17

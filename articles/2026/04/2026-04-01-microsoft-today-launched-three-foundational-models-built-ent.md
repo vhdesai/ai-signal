@@ -12,8 +12,8 @@ title: Microsoft today launched three foundational models built entirely in-hous
 date: '2026-04-01'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://kersai.com/microsoft-mai-models-2026-transcribe-voice-image-openai-independence/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 3ab8a5168d3c3d667d6cc1302088c2d610bd8467cf1fc2d27d14d093fbe74f44

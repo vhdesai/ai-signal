@@ -1,15 +1,23 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 538
+member_count: 546
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 538 connected article(s).
+> Auto-generated topic hub. 546 connected article(s).
 
+- `2026-06-23` [[2026-06-23-claude-fable-5-free-window-closes-usage-credits-required-fro|Claude Fable 5 Free Window Closes; Usage Credits Required from June 23]]
 - `2026-06-22` [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde|Trump Administration Plans Pre-Release AI Model Testing Under Cybersecurity Order]]
+- `2026-06-22` [[2026-06-22-palo-alto-networks-frames-delegated-authority-as-core-agenti|Palo Alto Networks Frames "Delegated Authority" as Core Agentic AI Risk]]
+- `2026-06-22` [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission|Nadella Warns AI Industry Must Earn Public "Social Permission"]]
+- `2026-06-22` [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea|Meituan's "General 365" Benchmark Exposes Broad Gaps in AI Reasoning]]
 - `2026-06-22` [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be|Five Eyes Warning Says Destabilizing AI Capabilities May Be Months Away]]
+- `2026-06-22` [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on|Five Eyes Intelligence Alliance Issues Rare Joint Warning on AI Cyber Threats]]
+- `2026-06-22` [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age|DHS/CISA Urged to Mandate Minimum Security Standards for Agentic AI]]
+- `2026-06-22` [[2026-06-22-claude-suffers-90-minute-multi-model-global-outage-third-thi|Claude Suffers ~90-Minute Multi-Model Global Outage — Third This Month]]
+- `2026-06-22` [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme|Anthropic Says Claude May Ask Users to Verify Their Government ID]]
 - `2026-06-21` [[2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war|US States Forge Ahead with AI Regulation Despite Trump's Warnings]]
 - `2026-06-21` [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine|Politico: "The AI Ghost in the Nuclear War Machine"]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]

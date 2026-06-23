@@ -12,8 +12,8 @@ title: OpenAI closed the largest private capital raise in history — $122B at a
 date: '2026-04-01'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.bitcoin.com/chatgpt-maker-openai-valued-at-852b-after-record-122b-funding-round/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 2c11ad20e976d66a78212593b795d86f248ac9caf2d824e9b59aed90abe20273

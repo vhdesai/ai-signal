@@ -10,8 +10,8 @@ title: 'Stanford''s HAI released its annual AI Index for 2026, finding that AI s
 date: '2026-04-15'
 source: 'Source: Stanford HAI'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: a43bc2e61b6285dfe6f53e9a6d9f4e62b7b628eb2e274c10b6a4646ffb1e3b2b

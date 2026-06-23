@@ -11,8 +11,8 @@ title: suspect threw a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco
 date: '2026-04-09'
 source: 🔥 TRENDING TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/sam-altman-home-shooting-arrest-molotov-openai
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: abea5824a9118943d3c9df37b2be2b337b71ac6a9350a03785acb287b25c838a

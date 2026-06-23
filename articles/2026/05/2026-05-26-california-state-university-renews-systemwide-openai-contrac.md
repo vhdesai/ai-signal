@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
 - 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
-- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 embedding_id: 2026-05-26-california-state-university-renews-systemwide-openai-contrac
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CSU renewed its disputed system-wide ChatGPT contract despite faculty pushback o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
+**Related:** [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]]
 <!-- graph:end -->

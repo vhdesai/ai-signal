@@ -9,8 +9,8 @@ title: Axios reported that Meta is developing open-source variants of its next g
 date: '2026-04-06'
 source: TechWire Asia
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.mitsloanme.com/article/meta-readies-new-ai-models-to-take-on-openai-and-google/
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 65c7640a672f7f3f07e2c3494927c0ee83bacb08bfc3bf47ee1def03caeaa43a

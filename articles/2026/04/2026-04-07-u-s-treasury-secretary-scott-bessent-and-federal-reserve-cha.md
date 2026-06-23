@@ -12,8 +12,8 @@ title: U.S. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Po
 date: '2026-04-07'
 source: ⚡ BREAKING Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.sullcrom.com/insights/memo/2026/April/Treasury-Secretary-Federal-Reserve-Chair-Warn-Bank-CEOs-About-Cybersecurity-Risks-Posed-Anthropics-New-AI-Model
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: eae16b3ac9ea7f55e46ca2edf61b997b434fef269a79cf0c5dbbed252581b7bd

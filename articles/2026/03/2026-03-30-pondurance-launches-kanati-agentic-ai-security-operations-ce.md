@@ -4,8 +4,8 @@ title: Pondurance Launches "Kanati" — Agentic AI Security Operations Center
 date: '2026-03-30'
 source: AiThority
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cioinfluence.com/security/pondurance-launches-pondurance-kanati-the-industrys-first-agentic-ai-soc-designed-for-autonomous-operations-in-a-next-generation-managed-detection-and-response-service/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 039a84f465c304bcdbf5829579c0fed453a53493f4c2916098a6a0c147998b34

@@ -10,8 +10,8 @@ title: Cursor released Cursor 3 with both cloud-hosted and local desktop AI agen
 date: '2026-04-12'
 source: 🔥 TRENDING Nvidia
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://systemprompt.io/guides/claude-code-vs-cursor
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: a8854eb69dec51ab0a09bdbdeaee09d6e63fd47e3818d49cd779f49b28d89b85

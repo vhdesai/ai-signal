@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 31
+member_count: 32
 ---
 
 # AMD
 
-> Auto-generated entity hub. 31 connected article(s).
+> Auto-generated entity hub. 32 connected article(s).
 
+- `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe|UK Invests in Billion-Dollar AI Supercomputer to Reduce Dependence on U.S. Tech]]
 - `2026-06-08` [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week|AMD Commits £2B to Accelerate UK AI at London Tech Week]]

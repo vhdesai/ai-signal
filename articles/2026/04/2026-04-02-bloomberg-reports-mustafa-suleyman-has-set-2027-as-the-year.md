@@ -11,8 +11,8 @@ title: 'Bloomberg reports Mustafa Suleyman has set 2027 as the year Microsoft wi
 date: '2026-04-02'
 source: Motley Fool
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-february-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: d4c26f408fbf2704a436d8268390475ddc4acda45488c9e82348f11847a42f64

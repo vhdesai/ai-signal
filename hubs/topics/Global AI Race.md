@@ -1,14 +1,16 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 328
+member_count: 330
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 328 connected article(s).
+> Auto-generated topic hub. 330 connected article(s).
 
+- `2026-06-22` [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro|Sakana AI Launches Fugu — Orchestration Model That Routes Across Frontier LLMs]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
+- `2026-06-22` [[2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model|Alibaba Ships HappyHorse 1.1 Image-to-Video Model]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
 - `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|Commerce Department Claims Unprecedented Power Over AI Models]]
 - `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]

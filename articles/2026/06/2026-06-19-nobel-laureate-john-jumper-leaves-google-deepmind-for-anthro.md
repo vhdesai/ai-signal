@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
+- 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
-- 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 embedding_id: 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AlphaFold creator and 2024 Nobel laureate departs after nearly nine years — th
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]]
+**Related:** [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
 <!-- graph:end -->

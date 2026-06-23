@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 193
+member_count: 195
 ---
 
 # Meta
 
-> Auto-generated entity hub. 193 connected article(s).
+> Auto-generated entity hub. 195 connected article(s).
 
+- `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
+- `2026-06-22` [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead|Meta Backs CRED in ~$900M Round; Taps Founder for WhatsApp Leadership]]
 - `2026-06-18` [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions|Meta Unveils AI Ad and Commerce Tools at Cannes Lions]]
 - `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]

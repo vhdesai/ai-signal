@@ -1,16 +1,27 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1228
+member_count: 1239
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1228 connected article(s).
+> Auto-generated topic hub. 1239 connected article(s).
 
+- `2026-06-23` [[2026-06-23-prime-intellect-releases-prime-rl-0-6-0-for-trillion-paramet|Prime Intellect Releases prime-rl 0.6.0 for Trillion-Parameter Agentic RL]]
+- `2026-06-23` [[2026-06-23-abu-dhabi-s-mgx-raises-50b-to-accelerate-ai-deals|Abu Dhabi's MGX Raises ~$50B to Accelerate AI Deals]]
+- `2026-06-22` [[2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi|xAI Adds /goal to Grok Build for Long-Running Autonomous Coding]]
+- `2026-06-22` [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s|Samsung Deploys ChatGPT Enterprise and Codex — One of OpenAI's Largest Rollouts]]
+- `2026-06-22` [[2026-06-22-palantir-secures-foundational-role-in-u-s-army-ngc2-data-lay|Palantir Secures Foundational Role in U.S. Army NGC2 Data Layer]]
+- `2026-06-22` [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad|Oracle Discloses ~21,000 Job Cuts Over 12 Months, Citing AI Adoption]]
 - `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
+- `2026-06-22` [[2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de|OpenAI and Getty Images Strike Multi-Year Content Display Deal]]
+- `2026-06-22` [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste|Nvidia Introduces Halos for Robotics — Full-Stack Safety System for Physical AI]]
 - `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
+- `2026-06-22` [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead|Meta Backs CRED in ~$900M Round; Taps Founder for WhatsApp Leadership]]
 - `2026-06-22` [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools|Google Invests $75M in A24 for AI-Powered Filmmaking Tools]]
+- `2026-06-22` [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools|Google DeepMind Invests ~$75M in A24 for AI Filmmaking Tools]]
+- `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-21` [[2026-06-21-wsj-record-insider-selling-at-ai-companies-is-a-giant-warnin|WSJ: Record Insider Selling at AI Companies Is a "Giant Warning Sign"]]
 - `2026-06-21` [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic|SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic]]

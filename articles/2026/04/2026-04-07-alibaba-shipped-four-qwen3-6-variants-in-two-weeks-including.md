@@ -6,8 +6,8 @@ title: Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B ope
 date: '2026-04-07'
 source: Mistral Medium 3.5, GLM-5.1, Meta Muse Spark, Tencent Hy3 Preview — Various
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.alibabagroup.com/document-1853940226976645120
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: a73a9e9a3b86d5135858dcdb23effb635b9510d7f3b4af08ed10e8c6a121f751
 normalized_title_hash: 2b49afdc9a1e4f13

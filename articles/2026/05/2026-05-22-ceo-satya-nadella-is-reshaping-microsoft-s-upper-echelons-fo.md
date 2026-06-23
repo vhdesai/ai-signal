@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
 - 2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman
 - 2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could
+- 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-06-08-alibaba-restructures-ai-organization-establishes-token-found
 embedding_id: 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Microsoft Opens a New Front in the AI Data Wars — Blocks Partners from Power B
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found]]
+**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-05-22-microsoft-launches-new-copilot-agents-platform-team-suleyman]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
 <!-- graph:end -->

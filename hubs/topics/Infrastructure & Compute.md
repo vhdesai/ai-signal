@@ -1,13 +1,19 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 577
+member_count: 583
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 577 connected article(s).
+> Auto-generated topic hub. 583 connected article(s).
 
+- `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
+- `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
+- `2026-06-22` [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u|Nvidia Unveils Warm-Water Cooling to Cut Data-Center Water Use]]
+- `2026-06-22` [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex|Microsoft Signs 20-Year Power Deal with Chevron for West Texas AI Data Center]]
+- `2026-06-22` [[2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in|Micron and Anthropic Sign Memory Supply Pact and Series H Investment]]
+- `2026-06-22` [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud|Groq Confirms $650M Raise and Pivots to Inference "Neocloud"]]
 - `2026-06-22` [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers|Europe Unveils a Record 35 New NVIDIA AI Supercomputers]]
 - `2026-06-22` [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai|Chevron Strikes Power Deal with Microsoft for West Texas AI Data Center]]
 - `2026-06-21` [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center|Morgan Stanley Pitches Leveraged Loan Market for Data Center Financing]]

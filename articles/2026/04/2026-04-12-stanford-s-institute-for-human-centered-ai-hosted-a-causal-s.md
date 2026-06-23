@@ -10,8 +10,8 @@ title: Stanford's Institute for Human-Centered AI hosted a Causal Science Confer
 date: '2026-04-12'
 source: 🔥 TRENDING Purdue University
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://datascience.stanford.edu/causal/stanford-causal-science-conference
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: e76dffd94f33c6f0e0fabb12752045b7db47c9b3d6ec70316fb68fd688eb3842

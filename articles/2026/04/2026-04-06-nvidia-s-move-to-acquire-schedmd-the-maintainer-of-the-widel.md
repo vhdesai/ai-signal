@@ -10,8 +10,8 @@ title: Nvidia's move to acquire SchedMD — the maintainer of the widely used Sl
 date: '2026-04-06'
 source: GlobalPublicist24
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://dokumen.pub/high-performance-computing-isc-high-performance-2020-international-workshops-frankfurt-germany-june-2125-2020-revised-selected-papers-1st-ed-9783030598501-9783030598518.html
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 49eecf524db3e21b3e0af23131d52bd5253b510659524b5b59fb420209ae3b41

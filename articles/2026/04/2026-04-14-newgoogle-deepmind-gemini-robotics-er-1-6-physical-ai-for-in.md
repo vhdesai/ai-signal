@@ -4,8 +4,8 @@ title: NewGoogle DeepMind Gemini Robotics-ER 1.6 — Physical AI for Industrial 
 date: '2026-04-14'
 source: Google DeepMind / TestingCatalog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-model-thinking-updates-march-2025/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 3087915605cc201230be20912035bab2d7eb5bd46ffede3e981a1c5676f6fc26
