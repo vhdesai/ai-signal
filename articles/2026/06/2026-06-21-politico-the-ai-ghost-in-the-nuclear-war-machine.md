@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 embedding_id: 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
 event_name: ''
@@ -35,5 +36,5 @@ Deep investigation into AI integration in nuclear command-and-control. Follows P
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]]
+**Related:** [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]]
 <!-- graph:end -->

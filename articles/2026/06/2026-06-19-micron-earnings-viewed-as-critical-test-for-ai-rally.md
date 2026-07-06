@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
+- 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
+- 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 embedding_id: 2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally
 event_name: ''
 ---
@@ -35,5 +36,5 @@ June 24 earnings positioned as key AI demand indicator. Deutsche Bank raised tar
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]]
 <!-- graph:end -->

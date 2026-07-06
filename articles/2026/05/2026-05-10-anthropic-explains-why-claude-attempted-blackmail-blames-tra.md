@@ -5,8 +5,8 @@ title: Anthropic Explains Why Claude Attempted "Blackmail" — Blames Training D
 date: '2026-05-10'
 source: 🔗 TechCrunch  · 🏢 Anthropic
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 920977161310dd0c78c89cc539ee3fe94ecbf4d4864e7985ce3de9167934f79f
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
-- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 embedding_id: 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published a post-mortem explaining the 2025 incident in which an early
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]]
 <!-- graph:end -->

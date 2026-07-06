@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
+- 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
 - 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
-- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
-- 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
+- 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 embedding_id: 2026-06-03-openai-publishes-governance-blueprint-altman-urges-against-m
 event_name: ''
 ---
@@ -39,5 +40,5 @@ OpenAI published “A Blueprint for Democratic Governance of Frontier AI,” adv
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a]]
+**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]]
 <!-- graph:end -->

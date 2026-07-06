@@ -10,8 +10,8 @@ title: MiniMax officially open-sourced MiniMax M2.7 on Hugging Face, notable as 
 date: '2026-04-11'
 source: 🔥 TRENDING Liquid AI
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/04/12/minimax-just-open-sourced-minimax-m2-7-a-self-evolving-agent-model-that-scores-56-22-on-swe-pro-and-57-0-on-terminal-bench-2/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: c21876e380c908d56c0dcd9c47cefd5ee9c3f72acd9864fdd0e7ca37aa87589b
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a
 - 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 - 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
+- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 embedding_id: 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Liquid AI Releases LFM2.5-VL-450M — Multimodal Vision-Language Model with Sub-
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]]
+**Related:** [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-05-11-openbmb-releases-minicpm-v-4-6-1-3b-most-recent-model-ship-a]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
 <!-- graph:end -->

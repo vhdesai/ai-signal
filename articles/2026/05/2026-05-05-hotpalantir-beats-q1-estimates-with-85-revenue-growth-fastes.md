@@ -5,8 +5,8 @@ title: HotPalantir Beats Q1 Estimates with 85% Revenue Growth — Fastest Since 
 date: '2026-05-05'
 source: The Next Web / CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: a38459e6d87602a16be141fc8a9bebef87fc1a9bf143c58f9dbc4c15f1a67f26
 normalized_title_hash: 737b96b86d42e8ff

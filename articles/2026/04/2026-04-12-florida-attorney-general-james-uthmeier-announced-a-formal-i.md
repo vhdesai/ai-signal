@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
 - 2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-- 2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo
+- 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 embedding_id: 2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Progressive Legislators Push Nationwide AI Data Center Construction Moratorium B
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]]
+**Related:** [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]]
 <!-- graph:end -->

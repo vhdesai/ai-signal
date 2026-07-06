@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
+- 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
-- 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 embedding_id: 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet spinout SandboxAQ — backed by Eric Schmidt — is embedding its scien
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]]
+**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

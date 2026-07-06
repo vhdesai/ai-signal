@@ -4,8 +4,8 @@ title: OpenAI launches GPT-5.5 with step-change agentic coding performance
 date: '2026-04-23'
 source: OpenAI Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/02/05/openai-just-launched-gpt-5-3-codex-a-faster-agentic-coding-model-unifying-frontier-code-performance-and-professional-reasoning-into-one-system/
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: b3a8a3e4c187e0cd70dda1ea0f7d9bb0b7c427d7e2e4214a57f02fd7fb1de37f

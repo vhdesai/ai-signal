@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 21
+member_count: 30
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 21 connected article(s).
+> Auto-generated entity hub. 30 connected article(s).
 
+- `2026-07-03` [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen|Meta reportedly taps Samsung for ~$6.5B to build its next-gen MTIA AI chips]]
+- `2026-07-03` [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch|Anthropic in talks with Samsung to co‑develop a custom AI chip]]
+- `2026-07-02` [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p|Anthropic explores a custom AI chip built on Samsung's 2nm process]]
+- `2026-06-29` [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p|South Korea unveils ~$518B Samsung/SK Hynix AI and chip mega-project]]
+- `2026-06-29` [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu|South Korea commits ~$1T to memory fabs, AI data centers, and humanoid robots]]
+- `2026-06-29` [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave|CoreWeave debuts ARIA research agent as Weights & Biases Weave hits GA]]
+- `2026-06-26` [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea|Samsung Group to unveil ~$648B (1,000 trillion won) South Korea investment in chips and AI]]
+- `2026-06-25` [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents|Patronus AI raises $50M Series B to stress-test AI agents]]
+- `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-22` [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s|Samsung Deploys ChatGPT Enterprise and Codex — One of OpenAI's Largest Rollouts]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-02` [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai|Anthropic Expands Glasswing to ~200 Partners; Maps Year of AI Cyberattacks onto MITRE ATT&CK]]

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
 - 2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed
+- 2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
-- 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 embedding_id: 2026-06-08-worldcoin-altman-s-eye-scanning-company-doing-layoffs-as-ope
 event_name: ''
 ---
@@ -39,5 +39,5 @@ As OpenAI filed its IPO paperwork, reports emerged that Worldcoin—Sam Altman's
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo]] · [[2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
+**Related:** [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo]] · [[2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed]] · [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]]
 <!-- graph:end -->

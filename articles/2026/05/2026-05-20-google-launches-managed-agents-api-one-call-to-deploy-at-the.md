@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 embedding_id: 2026-05-20-google-launches-managed-agents-api-one-call-to-deploy-at-the
 event_name: ''
@@ -39,5 +40,5 @@ Google's new Managed Agents API in the Gemini platform provisions an autonomous 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]]
+**Related:** [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]]
 <!-- graph:end -->

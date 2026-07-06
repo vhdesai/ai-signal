@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 32
+member_count: 33
 ---
 
 # AMD
 
-> Auto-generated entity hub. 32 connected article(s).
+> Auto-generated entity hub. 33 connected article(s).
 
+- `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]
 - `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe|UK Invests in Billion-Dollar AI Supercomputer to Reduce Dependence on U.S. Tech]]

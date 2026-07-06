@@ -4,8 +4,8 @@ title: Hot 7 Hidden Gemini Live Models Revealed Ahead of Google I/O 2026
 date: '2026-05-09'
 source: Forbes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.forbes.com/sites/paulmonckton/2026/05/12/7-hidden-gemini-live-ai-models-revealed-ahead-of-google-io-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: fc222283fb0f29f3372bb7e0d2ef6297f67f002cdc5846a0f02830199dabe056

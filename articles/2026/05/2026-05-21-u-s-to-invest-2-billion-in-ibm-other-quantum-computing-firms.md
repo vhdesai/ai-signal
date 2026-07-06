@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
-- 2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com
-- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
-- 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
+- 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
+- 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
+- 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-to-defuse
 embedding_id: 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Trump administration has agreed to take $2 billion in equity stakes across n
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-05-21-ibm-commerce-dept-launch-anderon-america-s-first-quantum-com]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]]
+**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-to-defuse]]
 <!-- graph:end -->

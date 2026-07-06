@@ -4,8 +4,8 @@ title: Palantir's AI pricing power becomes the next software-stock test
 date: '2026-05-03'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/palantir-q1-2026-earnings-software-selloff
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: dbbff2a3743849b0664b4c41eacc649c0705c93fde015635594ac1b814be3f24
@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
+- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-04-13-products-tools
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 embedding_id: 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Ahead of Palantir's earnings, Laura Bratton argues the company is better positio
 
 **Entities:** [[Palantir]] · [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-04-13-products-tools]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-04-13-products-tools]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]]
 <!-- graph:end -->

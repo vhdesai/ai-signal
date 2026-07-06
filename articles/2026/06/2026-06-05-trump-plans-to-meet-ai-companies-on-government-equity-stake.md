@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
 - 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
-- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
-- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
+- 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
+- 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
 embedding_id: 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Trump plans to meet AI companies next week on government profit-sharing or equit
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
+**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]]
 <!-- graph:end -->

@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 133
+member_count: 140
 ---
 
 # Apple
 
-> Auto-generated entity hub. 133 connected article(s).
+> Auto-generated entity hub. 140 connected article(s).
 
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-26` [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw|OpenAI reveals "Jalapeño" inference chip as Big Tech hedges away from Nvidia]]
+- `2026-06-26` [[2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul|OpenAI hires Apple's Vision Pro and smart-glasses chief Paul Meade for hardware push]]
+- `2026-06-26` [[2026-06-26-daily-ai-news-digest-june-26-2026|Daily AI News Digest — June 26, 2026]]
+- `2026-06-25` [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp|Apple and Microsoft raise prices as AI-driven chip demand spikes component costs]]
+- `2026-06-25` [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive|Apple and Microsoft raise hardware prices as AI demand drives up chip costs]]
 - `2026-06-21` [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri|Apple's Practical iOS 27 AI Features Move Beyond Siri]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]

@@ -5,7 +5,7 @@ title: White House AI Framework vs. State Regulations — California and Others 
 date: '2026-03-31'
 source: White House
 url_original: null
-url_canonical: https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+url_canonical: https://www.latimes.com/business/story/2026-03-20/white-house-moves-to-strip-california-other-states-of-ai-regulation-power
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

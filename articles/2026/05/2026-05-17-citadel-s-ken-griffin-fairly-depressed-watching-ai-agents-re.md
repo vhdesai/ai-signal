@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
+- 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 - 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 - 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
-- 2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to
 embedding_id: 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Speaking at Stanford GSB's Leadership Forum, Citadel founder Ken Griffin — unt
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6]] · [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]] · [[2026-05-19-meta-cuts-8-000-jobs-while-raising-ai-capital-expenditure-to]]
+**Related:** [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6]] · [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]]
 <!-- graph:end -->

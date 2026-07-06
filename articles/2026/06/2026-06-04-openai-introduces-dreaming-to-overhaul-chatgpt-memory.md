@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
+- 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 embedding_id: 2026-06-04-openai-introduces-dreaming-to-overhaul-chatgpt-memory
 event_name: ''
@@ -39,5 +40,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
+**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
 <!-- graph:end -->

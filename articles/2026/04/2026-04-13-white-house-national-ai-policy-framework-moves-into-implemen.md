@@ -4,7 +4,7 @@ title: White House National AI Policy Framework Moves Into Implementation
 date: '2026-04-13'
 source: Baker Botts AI Legal Watch
 url_original: null
-url_canonical: https://www.whitehouse.gov/wp-content/uploads/2026/03/03.20.26-National-Policy-Framework-for-Artificial-Intelligence-Legislative-Recommendations.pdf
+url_canonical: https://www.klgates.com/White-House-Releases-National-AI-Policy-Framework-3-24-2026
 url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md

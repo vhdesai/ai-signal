@@ -9,8 +9,8 @@ title: OpenAI shipped ChatGPT Images 2.0 (GPT Image 2), delivering notable impro
 date: '2026-04-23'
 source: 'Source: TechCrunch'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 539ce60721add81b3283cf6d8bab2a276c3d901579441056bd83ccd80dba4d89
@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
+- 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
-- 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 embedding_id: 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
 event_name: ''
 ---
@@ -44,5 +44,5 @@ OpenAI Workspace Agents Launch in Research Preview
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]]
+**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]]
 <!-- graph:end -->

@@ -4,7 +4,7 @@ title: Anthropic Paid Subscriptions More Than Doubled in 2026
 date: '2026-03-30'
 source: Free Press Journal
 url_original: null
-url_canonical: https://techjacksolutions.com/ai-brief/anthropic-confirms-claude-paid-subscriptions-more-than-doubl/
+url_canonical: https://www.freepressjournal.in/tech/anthropics-claude-sees-record-subscriber-growth-paid-users-more-than-double-in-2026
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

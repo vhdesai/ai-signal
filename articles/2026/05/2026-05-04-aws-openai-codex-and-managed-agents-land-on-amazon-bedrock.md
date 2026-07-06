@@ -4,8 +4,8 @@ title: 'AWS × OpenAI: Codex and Managed Agents land on Amazon Bedrock'
 date: '2026-05-04'
 source: AWS News Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: c0b78c7e7f83d4be92e73a371ea794771c28f6ba5d0f6db066e0f5e1b5e7682a
 normalized_title_hash: 19764cb9e584ea50

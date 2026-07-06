@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 embedding_id: 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 event_name: ''
 ---
@@ -35,5 +35,5 @@ cs.AI preprints surfaced over May 30–31, including "How LoRA Remembers? A Para
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
+**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
 <!-- graph:end -->

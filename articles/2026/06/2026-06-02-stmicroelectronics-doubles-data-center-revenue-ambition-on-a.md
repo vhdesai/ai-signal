@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
+- 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 embedding_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ STMicroelectronics raised its 2026 data-center revenue target to roughly $1 bill
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]]
+**Related:** [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]]
 <!-- graph:end -->

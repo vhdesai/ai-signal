@@ -83,19 +83,21 @@ def _is_blocked_domain(url: str) -> bool:
     return any(domain == s or domain.endswith("." + s) for s in _BLOCKED_DOMAIN_SUFFIXES)
 
 
-# Domains skipped during URL validation. Yandex is unreachable behind some
-# corporate networks (e.g. Microsoft IT controls), so HTTP checks against it
-# time out and falsely mark otherwise-fine links as broken.
-_VALIDATION_EXCLUDED_DOMAIN_SUFFIXES = (
+# Domains blocked by Microsoft corporate networks (IT controls). Requests to
+# these hang or time out, falsely marking otherwise-fine links as broken and
+# stalling the URL stages. They are excluded from the entire URL rebuild: skipped
+# during validation and never accepted as a repaired canonical URL.
+_NETWORK_BLOCKED_DOMAIN_SUFFIXES = (
     "yandex.com", "yandex.ru", "yandex.net", "yandex.eu", "ya.ru",
+    "softonic.com",
 )
 
 
-def _is_validation_excluded(url: str) -> bool:
+def _is_network_blocked_domain(url: str) -> bool:
     domain = _registrable_domain(url)
     return any(
         domain == s or domain.endswith("." + s)
-        for s in _VALIDATION_EXCLUDED_DOMAIN_SUFFIXES
+        for s in _NETWORK_BLOCKED_DOMAIN_SUFFIXES
     )
 
 
@@ -247,7 +249,7 @@ def run_validate_urls(cfg: Config, limit: int | None = None) -> dict:
                 art.url_status = "missing"
                 missing += 1
                 continue
-            if _is_validation_excluded(art.url_canonical):
+            if _is_network_blocked_domain(art.url_canonical):
                 # Treat as reachable without an HTTP request: keeps the link in
                 # the site and prevents the repair stage from touching it.
                 art.url_status = "ok"
@@ -320,19 +322,77 @@ def _revert(art: Article) -> None:
     art.url_status = "broken" if art.url_original else "missing"
 
 
-def run_repair_urls(cfg: Config, limit: int | None = None) -> dict:
+DEFAULT_REPAIR_TIME_BUDGET_S = 1800.0  # 30 minutes
+DEFAULT_REPAIR_WORKERS = 10
+
+
+def run_repair_urls(
+    cfg: Config,
+    limit: int | None = None,
+    time_budget_s: float | None = DEFAULT_REPAIR_TIME_BUDGET_S,
+    max_workers: int = DEFAULT_REPAIR_WORKERS,
+    stop_file: str | Path | None = None,
+) -> dict:
+    """Repair broken/missing URLs via parallel, time-boxed live web search.
+
+    The stage is cooperative and resumable:
+
+    * ``max_workers`` (>= 10 by default) search/fetch threads run concurrently.
+      Only the network-bound search+fetch happens off-thread; every SQLite write
+      stays on the main thread (single writer, no lock contention).
+    * ``time_budget_s`` (default 30 min) caps the network phase. Once the budget
+      is spent the stage stops dispatching new results and drains in-flight work.
+    * A ``stop_file`` sentinel (default ``indexes/repair.stop``) lets an operator
+      request early graceful termination: create the file and the stage finishes
+      the current results, then exits.
+    * Progress is durable: each repaired/reverted article is persisted and
+      committed immediately, and a rolling snapshot is written to
+      ``indexes/repair-status.json``. An interrupted run therefore loses nothing —
+      already-repaired links are skipped on the next invocation, and still-broken
+      ones are simply retried.
+    """
     import httpx
+    import json
+    import time
+    from concurrent.futures import ThreadPoolExecutor, as_completed
 
     cfg.ensure_dirs()
     db.init_db(cfg.db_path)
+    max_workers = max(1, int(max_workers))
+    stop_path = Path(stop_file) if stop_file else (cfg.indexes_dir / "repair.stop")
+    status_path = cfg.indexes_dir / "repair-status.json"
+    started = time.monotonic()
+    deadline = started + time_budget_s if time_budget_s and time_budget_s > 0 else None
+
     articles = [a for _, a in iter_articles(cfg)]
     repaired = unresolved = attempted = skipped = reverted = 0
+    to_repair: list[Article] = []
 
-    with httpx.Client(timeout=10.0, follow_redirects=True) as client, db.connect(cfg.db_path) as conn:
+    def _write_status(state: str) -> None:
+        payload = {
+            "state": state,
+            "to_repair": len(to_repair),
+            "attempted": attempted,
+            "deferred": max(0, len(to_repair) - attempted),
+            "repaired": repaired,
+            "unresolved": unresolved,
+            "reverted": reverted,
+            "skipped": skipped,
+            "elapsed_s": round(time.monotonic() - started, 1),
+            "time_budget_s": time_budget_s,
+            "max_workers": max_workers,
+            "updated_at": db.now_iso(),
+        }
+        try:
+            status_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+        except OSError:
+            pass
+
+    # Phase 1 (offline, serial): self-heal bad repairs, drop non-repairable
+    # headings, and collect the articles that still need a live web search.
+    with db.connect(cfg.db_path) as conn:
         for art in articles:
             dirty = False
-
-            # Self-heal: undo a previously written low-quality repair before retrying.
             if art.url_status == "repaired":
                 if _is_bad_repair(art):
                     _revert(art)
@@ -341,44 +401,84 @@ def run_repair_urls(cfg: Config, limit: int | None = None) -> dict:
                     db.queue_review(conn, art.article_id, "repair-reverted", art.url_canonical or "")
                 else:
                     continue  # keep a good existing repair
-
             if art.url_status in ("ok", "found"):
                 continue
-
             if not _is_repairable(art):
                 if dirty:
                     _persist(cfg, conn, art)
                 skipped += 1
                 continue
+            if dirty:
+                _persist(cfg, conn, art)
+            to_repair.append(art)
 
-            if limit is not None and attempted >= limit:
-                if dirty:
-                    _persist(cfg, conn, art)
-                break
-            attempted += 1
+    if limit is not None:
+        to_repair = to_repair[:limit]
+    _write_status("running")
 
-            chosen = None
-            for candidate in _search_candidates(_clean_query(art)):
-                valid, status, page_title = _fetch(client, candidate)
-                if valid and _is_relevant(art, candidate, page_title):
-                    chosen = (candidate, status)
+    def _stop_requested() -> bool:
+        if stop_path.exists():
+            return True
+        return deadline is not None and time.monotonic() >= deadline
+
+    def _worker(client, art: Article) -> tuple[str, int | None] | None:
+        for candidate in _search_candidates(_clean_query(art)):
+            if _is_network_blocked_domain(candidate):
+                continue  # never accept a network-blocked URL as a repaired link
+            valid, status, page_title = _fetch(client, candidate)
+            if valid and _is_relevant(art, candidate, page_title):
+                return (candidate, status)
+        return None
+
+    terminated = "completed"
+    # Phase 2 (parallel, network): search/fetch off-thread, persist on-thread.
+    with httpx.Client(timeout=10.0, follow_redirects=True) as client, db.connect(cfg.db_path) as conn:
+        executor = ThreadPoolExecutor(max_workers=max_workers)
+        futures = {executor.submit(_worker, client, art): art for art in to_repair}
+        try:
+            for fut in as_completed(futures):
+                art = futures[fut]
+                attempted += 1
+                try:
+                    chosen = fut.result()
+                except Exception:
+                    chosen = None
+                if chosen:
+                    art.url_canonical, art._http_status = chosen
+                    art._repair_method = "web-search"
+                    art.url_status = "repaired"
+                    repaired += 1
+                else:
+                    # Do not fabricate: keep the original (often empty) and flag it.
+                    _revert(art)
+                    unresolved += 1
+                    db.queue_review(conn, art.article_id, "repair-failed", _clean_query(art))
+                _persist(cfg, conn, art)
+                conn.commit()  # durable, incremental progress
+                if attempted % 10 == 0:
+                    _write_status("running")
+                # Stop *after* banking the just-completed result so no search is
+                # wasted; in-flight work is then drained by shutdown() below.
+                if _stop_requested():
+                    terminated = "stop-file" if stop_path.exists() else "timeout"
                     break
+        finally:
+            # Drain in-flight searches, cancel any not yet started.
+            executor.shutdown(wait=True, cancel_futures=True)
 
-            if chosen:
-                art.url_canonical, art._http_status = chosen
-                art._repair_method = "web-search"
-                art.url_status = "repaired"
-                repaired += 1
-            else:
-                # Do not fabricate: keep the original (often empty) and flag for review.
-                _revert(art)
-                unresolved += 1
-                db.queue_review(conn, art.article_id, "repair-failed", _clean_query(art))
-            _persist(cfg, conn, art)
+    deferred = max(0, len(to_repair) - attempted)
+    _write_status(terminated)
+    if terminated == "stop-file":  # consume the honoured sentinel
+        try:
+            stop_path.unlink()
+        except OSError:
+            pass
 
     return {
         "attempted": attempted, "repaired": repaired, "unresolved": unresolved,
-        "skipped": skipped, "reverted": reverted,
+        "skipped": skipped, "reverted": reverted, "deferred": deferred,
+        "terminated": terminated, "elapsed_s": round(time.monotonic() - started, 1),
+        "max_workers": max_workers,
     }
 
 

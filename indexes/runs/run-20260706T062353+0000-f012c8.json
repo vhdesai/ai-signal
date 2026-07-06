@@ -1,0 +1,19 @@
+{
+  "run_id": "20260706T062353+0000-f012c8",
+  "started_at": "2026-07-06T06:23:53+00:00",
+  "finished_at": "2026-07-06T06:24:34+00:00",
+  "summary": {
+    "command": "repair-urls",
+    "result": {
+      "attempted": 12,
+      "repaired": 6,
+      "unresolved": 6,
+      "skipped": 64,
+      "reverted": 0,
+      "deferred": 0,
+      "terminated": "completed",
+      "elapsed_s": 41.7,
+      "max_workers": 12
+    }
+  }
+}

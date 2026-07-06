@@ -28,10 +28,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
+- 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-04-07-research-breakthroughs
 - 2026-05-12-anthropic-mythos-triggers-us-bank-rush-to-plug-cyber-vulnera
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 embedding_id: 2026-04-23-separate-report-from-the-verge-reveals-that-cisa-the-u-s-age
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Mozilla: Anthropic's Mythos Found 271 Zero-Day Vulnerabilities in Firefox 150
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-07-research-breakthroughs]] · [[2026-05-12-anthropic-mythos-triggers-us-bank-rush-to-plug-cyber-vulnera]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
+**Related:** [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-07-research-breakthroughs]] · [[2026-05-12-anthropic-mythos-triggers-us-bank-rush-to-plug-cyber-vulnera]]
 <!-- graph:end -->

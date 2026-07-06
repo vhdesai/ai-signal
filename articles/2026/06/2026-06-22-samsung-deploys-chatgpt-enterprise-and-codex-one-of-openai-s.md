@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 embedding_id: 2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Samsung Electronics will make ChatGPT Enterprise and Codex available to all empl
 
 **Entities:** [[OpenAI]] · [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]]
+**Related:** [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-06-25-openai-brings-codex-remote-to-general-availability-across-al]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]]
 <!-- graph:end -->

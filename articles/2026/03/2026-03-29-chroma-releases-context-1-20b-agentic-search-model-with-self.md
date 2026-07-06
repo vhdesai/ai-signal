@@ -4,7 +4,7 @@ title: 'Chroma Releases Context-1: 20B Agentic Search Model with Self-Editing Co
 date: '2026-03-29'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/03/29/chroma-releases-context-1-a-20b-agentic-search-model-for-multi-hop-retrieval-context-management-and-scalable-synthetic-task-generation/
+url_canonical: https://www.trychroma.com/research/context-1
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

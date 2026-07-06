@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
+- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc
+- 2026-07-02-xai-launches-grok-voice-ai-agent-builder
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
-- 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
-- 2026-05-16-openai-acquires-weights-gg-voice-cloning-startup
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 embedding_id: 2026-05-22-andrew-ng-stanford-launches-ai-andrew-voice-avatar-pushes-ba
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In his weekly Batch column, Andrew Ng unveiled AI Andrew — a voice-to-voice ag
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-05-16-openai-acquires-weights-gg-voice-cloning-startup]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
 <!-- graph:end -->

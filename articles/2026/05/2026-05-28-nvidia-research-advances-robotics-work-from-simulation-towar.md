@@ -22,7 +22,7 @@ canonical_article_id: 2026-05-28-nvidia-research-advances-robotics-from-simulati
 related_article_ids:
 - 2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight
 - event-icra-2026-icra-2026-nvidia-research-robotics-papers
-- event-icra-2026-icra-2026-overview
+- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 embedding_id: 2026-05-28-nvidia-research-advances-robotics-work-from-simulation-towar
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Daily AI Digest entries highlighted NVIDIA Research’s ICRA work on sim-to-real
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]]
-**Related:** [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[event-icra-2026-icra-2026-overview]]
+**Related:** [[2026-05-28-icra-2026-puts-embodied-autonomy-in-the-spotlight]] · [[event-icra-2026-icra-2026-nvidia-research-robotics-papers]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
 <!-- graph:end -->

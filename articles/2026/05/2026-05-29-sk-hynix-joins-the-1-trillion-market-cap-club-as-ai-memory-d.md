@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+- 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
+- 2026-06-24-sk-hynix-targets-29b-nasdaq-listing-as-soon-as-july-10
+- 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
-- 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 embedding_id: 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI-driven demand for high-bandwidth memory continues to reprice the semiconducto
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]]
+**Related:** [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-06-24-sk-hynix-targets-29b-nasdaq-listing-as-soon-as-july-10]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

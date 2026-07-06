@@ -24,7 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-- 2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding
+- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 embedding_id: 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 event_name: ''
 ---
@@ -38,5 +38,5 @@ DeepSeek V4, Kimi K2.6, GLM-5.1, and MiniMax M2.7 are now competitive with U.S. 
 
 **Entities:** [[DeepSeek]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-03-breakingkimi-k2-6-beats-claude-gpt-5-5-and-gemini-in-coding]]
+**Related:** [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]]
 <!-- graph:end -->

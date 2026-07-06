@@ -4,8 +4,8 @@ title: Meta cuts ~8,000 roles; Microsoft offers buyout to up to 7% of US staff
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/general/meta-microsoft-plan-cuts-buyouts-that-could-affect-23-000-jobs/ar-AA21zuj2
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 94929f56bfca020a14d1d4e880a54737bb8300b30b3360b5bcd8349c6dd00871

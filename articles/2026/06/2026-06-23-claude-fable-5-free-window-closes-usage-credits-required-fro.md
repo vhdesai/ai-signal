@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
-- 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
-- 2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl
-- 2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model
-- 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
+- 2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho
+- 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
+- 2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab
+- 2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat
 embedding_id: 2026-06-23-claude-fable-5-free-window-closes-usage-credits-required-fro
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fable 5 exits its free-inclusion window today — usage now requires credits at 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model]] · [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]]
+**Related:** [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab]] · [[2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat]]
 <!-- graph:end -->

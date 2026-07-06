@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
-- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
+- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 embedding_id: 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 event_name: ''
 ---
@@ -39,5 +39,5 @@ In an unusual moment of transparency, Anthropic publicly acknowledged a recent q
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]]
+**Related:** [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
 <!-- graph:end -->

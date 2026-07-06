@@ -5,8 +5,8 @@ title: Pentagon inks classified-network AI deals with seven vendors — Anthropi
 date: '2026-05-04'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 127db314d976eac92508786903c61144a2873519f6d45d47cd480f466f62c18a

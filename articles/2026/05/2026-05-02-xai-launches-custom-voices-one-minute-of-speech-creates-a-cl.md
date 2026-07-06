@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
+- 2026-07-02-xai-launches-grok-voice-ai-agent-builder
 - 2026-05-16-openai-acquires-weights-gg-voice-cloning-startup
-- 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
-- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- 2026-05-27-omnivoice-studio-debuts-as-an-open-source-elevenlabs-alterna
+- 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
 embedding_id: 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI introduced "Custom Voices," allowing developers to create a usable voice clo
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-16-openai-acquires-weights-gg-voice-cloning-startup]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-05-27-omnivoice-studio-debuts-as-an-open-source-elevenlabs-alterna]]
+**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-05-16-openai-acquires-weights-gg-voice-cloning-startup]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: 'Source: Business Wire / Yahoo Finance'
 url_original: https://finance.yahoo.com/sectors/technology/articles/zflow-ais-simulation-guided-optimization-133000714.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/zflow-ais-simulation-guided-optimization-133000714.html
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 77a372ee57fcabf062a5b8baa155a5fca6007ee1f58c6b2ecb20391ca6c7c82e

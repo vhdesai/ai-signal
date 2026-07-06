@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
 - 2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
-- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 embedding_id: 2026-05-26-claw-anything-benchmark-for-always-on-personal-assistants
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The first benchmark evaluating always-on assistants with continuous read/write a
 
 **Entities:** [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
+**Related:** [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
 <!-- graph:end -->

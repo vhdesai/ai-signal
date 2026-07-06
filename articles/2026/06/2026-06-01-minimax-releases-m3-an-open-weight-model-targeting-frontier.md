@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok
+- 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-- 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 embedding_id: 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MiniMax launched M3, positioned as the first open-weight model to combine fronti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
+**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
 <!-- graph:end -->

@@ -19,9 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
+- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
-- 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
 embedding_id: 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
 event_name: ''
 ---
@@ -34,5 +35,5 @@ A cluster of Meituan disclosures was aggregated under June 15: acceptance of six
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq]]
+**Related:** [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]]
 <!-- graph:end -->

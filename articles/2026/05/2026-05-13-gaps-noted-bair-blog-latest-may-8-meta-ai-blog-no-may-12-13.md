@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 - 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 - 2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
+- 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 - 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
-- event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 embedding_id: 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Verification: Chain-of-Verification protocol · SIFT trust tiering · ≥2 indep
 ## Connections
 
 **Entities:** [[Meta]] · [[OpenAI]]
-**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]] · [[2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia]] · [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]]
+**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia]]
 <!-- graph:end -->

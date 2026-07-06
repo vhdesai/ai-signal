@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 - 2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
+- 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
 - 2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie
-- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
 embedding_id: 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Trump publicly endorsed government equity stakes in major AI companies. CNBC rep
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]]
+**Related:** [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-10-senate-republicans-break-with-trump-on-ai-equity-stake-idea]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]] · [[2026-06-01-bernie-sanders-the-public-should-own-half-of-big-ai-companie]]
 <!-- graph:end -->

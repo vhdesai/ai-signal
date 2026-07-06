@@ -4,8 +4,8 @@ title: TRENDINGDeepSeek V4 — "Almost on the Frontier"
 date: '2026-05-02'
 source: Simon Willison / Hacker News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://simonwillison.net/2026/Apr/24/deepseek-v4/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 1baa7cb06e2d67f36ae47908cbcf344f59e527998b296a99e8b10c65807e549a
 normalized_title_hash: 4013e918004fb54f

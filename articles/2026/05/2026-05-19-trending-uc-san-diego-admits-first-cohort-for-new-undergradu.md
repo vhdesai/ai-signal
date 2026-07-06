@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: EdSource
 url_original: https://edsource.org/2026/uc-san-diego-ai-degrees/757604
 url_canonical: https://edsource.org/2026/uc-san-diego-ai-degrees/757604
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 5751a74b7a6a999a6694935c4eb4048775fb57b43f0568ef87e26162452fd05b

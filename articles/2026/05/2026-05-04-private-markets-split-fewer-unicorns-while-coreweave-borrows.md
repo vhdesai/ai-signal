@@ -4,8 +4,8 @@ title: 'Private markets split: fewer unicorns, while CoreWeave borrows $3.1B for
 date: '2026-05-04'
 source: PitchBook News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.benzinga.com/markets/tech/26/01/50195727/nvidias-ai-boom-is-being-financed-by-wall-streets-newest-asset-class-gpu-debt
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 3004b4fe23cdcfb02aff7cb00d03f30a8120b518c3b473ca9e706a10f0a7caff

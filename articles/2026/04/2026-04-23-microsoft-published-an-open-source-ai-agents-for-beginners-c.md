@@ -10,8 +10,8 @@ title: Microsoft published an open-source "AI Agents for Beginners" curriculum o
 date: '2026-04-23'
 source: 'Source: AIToolly'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://devblogs.microsoft.com/agent-framework/ai-agents-for-beginners-course-10-lessons-teaching-you-how-to-start-building-ai-agents/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 39d33d042bde880f83a285558d199f6f6b303357cfa2504682c956956be35dae

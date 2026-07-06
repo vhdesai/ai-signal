@@ -4,7 +4,7 @@ title: Trending Stanford HAI 2026 AI Index Report
 date: '2026-04-13'
 source: Stanford HAI / MIT Technology Review
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report 
 url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md

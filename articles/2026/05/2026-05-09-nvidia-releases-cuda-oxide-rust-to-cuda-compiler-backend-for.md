@@ -4,8 +4,8 @@ title: 'NVIDIA Releases cuda-oxide: Rust-to-CUDA Compiler Backend for GPU Kernel
 date: '2026-05-09'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/09/nvidia-ai-just-released-cuda-oxide-an-experimental-rust-to-cuda-compiler-backend-that-compiles-simt-gpu-kernels-directly-to-ptx/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6cabbf71839e18b766185b45bff361d0132d8fee0712f881f8593251095eb95f
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 - 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc
 - 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
-- 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA released cuda-oxide, an experimental compiler backend that lets AI infras
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]]
+**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]]
 <!-- graph:end -->

@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 141
+member_count: 155
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 141 connected article(s).
+> Auto-generated entity hub. 155 connected article(s).
 
+- `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off|China's DeepSeek-V4 heads to official release with "peak/off-peak" surge pricing; Tencent Cloud to distribute]]
+- `2026-07-02` [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western|Inexpensive Chinese model GLM-5.2 gains ground with Western developers]]
+- `2026-07-02` [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on|China's low‑cost GLM‑5.2 (Z.ai) rivals OpenAI and Anthropic on coding — a "mini‑DeepSeek moment"]]
+- `2026-07-01` [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation|Together AI raises $800M Series C at an $8.3B valuation]]
+- `2026-07-01` [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api|DeepSeek introduces peak-hour surge pricing on its V4 API]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in|DeepSeek open-sources DSpark, claiming up to 85% faster LLM inference]]
+- `2026-06-27` [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85|DeepSeek open-sources DSpark, accelerating V4 inference 60–85%]]
+- `2026-06-26` [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost|Startup Lindy drops Claude entirely for DeepSeek as AI cost pressure mounts on Anthropic]]
+- `2026-06-26` [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a|As enterprises curb "tokenmaxxing," OpenAI and Anthropic face a new spending reality]]
+- `2026-06-25` [[2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a|Italy’s Domyn to launch open-source frontier model within a year]]
+- `2026-06-25` [[2026-06-25-anthropic-asks-congress-to-act-alleging-a-large-scale-alibab|Anthropic asks Congress to act, alleging a large-scale Alibaba "distillation attack"]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]

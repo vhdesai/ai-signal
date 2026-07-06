@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
+- 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
-- 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
-- 2026-05-04-1-model-releases-frontier-research
+- 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
+- 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
 embedding_id: 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft and Mayo Clinic announced a joint effort to build a frontier AI model 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt]] · [[2026-05-04-1-model-releases-frontier-research]]
+**Related:** [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]]
 <!-- graph:end -->

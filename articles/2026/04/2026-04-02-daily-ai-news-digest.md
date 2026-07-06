@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 - 2026-05-20-ai-news-digest-may-20-2026
+- 2026-06-26-daily-ai-news-digest-june-26-2026
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
-- 2026-04-23-the-most-important-ai-developments-across-industry-research
-- 2026-05-14-daily-ai-news-digest-may-14-2026
+- 2026-06-27-daily-ai-news-digest-june-27-2026
 embedding_id: 2026-04-02-daily-ai-news-digest
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Today: Microsoft launches its first in-house AI models, OpenAI declares "line of
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-04-23-the-most-important-ai-developments-across-industry-research]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
 <!-- graph:end -->

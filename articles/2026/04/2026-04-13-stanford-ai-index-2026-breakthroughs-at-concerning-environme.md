@@ -5,8 +5,8 @@ title: 'Stanford AI Index 2026: Breakthroughs at Concerning Environmental & Tale
 date: '2026-04-13'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: b631adf7977a73f0042e6e6b56ed3c4a4f73d254971c7eabd17cf93efeae249a
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
+- 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
-- 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 embedding_id: 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Stanford Human-Centered AI Institute released its 2026 AI Index Report, docu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
+**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]] · [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]]
 <!-- graph:end -->

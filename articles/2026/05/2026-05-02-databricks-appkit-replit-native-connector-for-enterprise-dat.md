@@ -4,8 +4,8 @@ title: 'Databricks AppKit + Replit: Native Connector for Enterprise Data Apps'
 date: '2026-05-02'
 source: Databricks Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.databricks.com/blog/ship-enterprise-apps-faster-databricks-appkit-and-replit
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 70da72b03ef6b6ac65ea3ecb071f0b712f75055b0941ee1f81b08fe9d0323577
 normalized_title_hash: d20dccf5b68b3390

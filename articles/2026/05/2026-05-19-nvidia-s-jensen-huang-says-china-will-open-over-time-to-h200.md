@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 embedding_id: 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 event_name: ''
@@ -40,5 +41,5 @@ In a Bloomberg Television interview, Nvidia CEO Jensen Huang said he expects Chi
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
+**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
 <!-- graph:end -->

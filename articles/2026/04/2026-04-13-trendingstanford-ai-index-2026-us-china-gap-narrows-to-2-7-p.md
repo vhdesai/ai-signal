@@ -4,7 +4,7 @@ title: 'TRENDINGStanford AI Index 2026: US–China Gap Narrows to 2.7 Points'
 date: '2026-04-13'
 source: Stanford HAI / IEEE Spectrum
 url_original: null
-url_canonical: https://spectrum.ieee.org/state-of-ai-index-2026
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
 url_status: repaired
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: af301c968e0ba4f06734d7e459cdecca58d3203cf9741a544a789c9e1f6ac170

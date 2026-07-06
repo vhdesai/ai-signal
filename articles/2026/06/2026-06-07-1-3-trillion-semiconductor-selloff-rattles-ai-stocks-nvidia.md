@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 - 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 embedding_id: 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A sharp semiconductor selloff wiped ~$1.3 trillion from AI chip stocks, ending W
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
+**Related:** [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
 <!-- graph:end -->

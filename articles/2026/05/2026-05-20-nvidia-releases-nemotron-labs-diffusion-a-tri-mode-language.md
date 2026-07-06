@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
+- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
-- 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
+- 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 embedding_id: 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 event_name: ''
 ---
@@ -37,5 +38,5 @@ NVIDIA researchers introduced Nemotron-Labs-Diffusion, a model family unifying t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]]
+**Related:** [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
+- 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 embedding_id: 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft released Fara1.5, a family of browser computer-use agents in 4B, 9B, a
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]]
+**Related:** [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash]]
 <!-- graph:end -->

@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 84
+member_count: 92
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 84 connected article(s).
+> Auto-generated entity hub. 92 connected article(s).
 
+- `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
+- `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-02` [[2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c|Mistral releases Leanstral 1.5, an open formal-verification code agent for Lean 4]]
+- `2026-07-02` [[2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof|Mistral releases Leanstral 1.5, an open Lean-4 code-and-proof agent]]
+- `2026-07-02` [[2026-07-02-mistral-open-sources-leanstral-1-5-a-specialist-that-saturat|Mistral open-sources Leanstral 1.5, a specialist that "saturates" formal-math benchmarks]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-25` [[2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a|Italy’s Domyn to launch open-source frontier model within a year]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-14` [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two|Z.ai launches GLM-5.2 with a usable 1M-token context and two reasoning-effort levels]]
 - `2026-06-02` [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense|Airbus Partners with Mistral AI for Sovereign AI in Defense and Design]]

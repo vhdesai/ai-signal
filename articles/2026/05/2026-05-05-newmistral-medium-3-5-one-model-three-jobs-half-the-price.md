@@ -4,8 +4,8 @@ title: NewMistral Medium 3.5 — One Model, Three Jobs, Half the Price
 date: '2026-05-05'
 source: BuildFastWithAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.buildfastwithai.com/blogs/mistral-medium-3-5-review
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: f3c8b7ba1f600ba3f9200bcef55264211a1e8f6c6fbce437b7049f47a4d6b453
 normalized_title_hash: aba568d46309ea1e

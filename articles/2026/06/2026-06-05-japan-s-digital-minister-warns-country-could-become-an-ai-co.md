@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
+- 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
 - 2026-04-13-source-the-neuron-apr-13-2026
 - 2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi
-- 2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to
 embedding_id: 2026-06-05-japan-s-digital-minister-warns-country-could-become-an-ai-co
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Japan's digital minister warned the country risks becoming an "AI colony" if it 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi]] · [[2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to]]
+**Related:** [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-22-south-korea-s-deputy-pm-warns-ai-wealth-must-reach-the-publi]]
 <!-- graph:end -->

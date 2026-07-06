@@ -11,7 +11,7 @@ title: Researchers from UC Berkeley's Center for AI Safety co-authored a widely-
 date: '2026-04-12'
 source: 🔥 TRENDING Georgia Tech
 url_original: null
-url_canonical: https://www.nature.com/articles/s43588-025-00808-7
+url_canonical: https://www.nature.com/articles/s41390-025-04647-0.pdf
 url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md

@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
-- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 embedding_id: 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MIT Technology Review published an incisive analysis arguing that scientific AI 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]]
 <!-- graph:end -->

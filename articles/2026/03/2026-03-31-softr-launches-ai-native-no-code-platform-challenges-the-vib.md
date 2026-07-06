@@ -4,8 +4,8 @@ title: Softr Launches AI-Native No-Code Platform; Challenges the "Vibe Coding" W
 date: '2026-03-31'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://siliconangle.com/2026/03/31/softr-launches-ai-native-no-code-business-software-building-platform/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 7b938fb0365ef7a1b273374c21d89bd16b437a5845d6f6bf33405e336e5b8e0f
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 - 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
+- 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 - 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
-- 2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
+- 2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c
 embedding_id: 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Softr (1M+ builders including Netflix, Google, Stripe) launched an AI Co-Builder
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]]
+**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c]]
 <!-- graph:end -->

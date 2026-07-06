@@ -28,8 +28,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
+- 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
-- event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform
 embedding_id: 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Mistral expands banking and legal AI deployments
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[event-microsoft-build-2026-microsoft-build-2026-azure-fabric-data-and-app-platform]]
+**Related:** [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]]
 <!-- graph:end -->

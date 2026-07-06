@@ -1,13 +1,26 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 133
+member_count: 146
 ---
 
 # xAI
 
-> Auto-generated entity hub. 133 connected article(s).
+> Auto-generated entity hub. 146 connected article(s).
 
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-02` [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder|xAI launches no-code Grok Voice Agent Builder]]
+- `2026-07-02` [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice|xAI launches Grok Voice AI Agent Builder (beta) — build a voice agent in under two minutes]]
+- `2026-07-02` [[2026-07-02-xai-launches-grok-voice-ai-agent-builder|xAI launches Grok Voice AI Agent Builder]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute|Meta plans a cloud business to sell excess AI compute]]
+- `2026-07-01` [[2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar|Investigation finds xAI's Grok bypassing its own safety guardrails]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk|xAI's Grok 4.5 enters private beta at SpaceX and Tesla; Musk pledges monthly from-scratch models]]
+- `2026-06-29` [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra|Meituan open-sources LongCat-2.0, a 1.6T model reportedly trained entirely on Chinese chips]]
+- `2026-06-28` [[2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex|xAI's Grok 4.5 enters private beta at Tesla and SpaceX]]
+- `2026-06-28` [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta|xAI puts a 1.5-trillion-parameter Grok 4.5 into private beta at SpaceX and Tesla]]
+- `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
+- `2026-06-23` [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio|SpaceX secures a $6.3B compute deal from AI startup Reflection]]
 - `2026-06-22` [[2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi|xAI Adds /goal to Grok Build for Long-Running Autonomous Coding]]
 - `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 embedding_id: 2026-04-09-products-tools
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon CEO: $15B AI Revenue, $200B Capex Plan, $20B Custom Chip Business Amazon 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
+**Related:** [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
 <!-- graph:end -->

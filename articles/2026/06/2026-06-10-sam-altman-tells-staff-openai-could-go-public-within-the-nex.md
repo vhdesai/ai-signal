@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 - 2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed
-- 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 embedding_id: 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI CEO Sam Altman told staff in a Slack message that he expects OpenAI to go
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]]
+**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed]]
 <!-- graph:end -->

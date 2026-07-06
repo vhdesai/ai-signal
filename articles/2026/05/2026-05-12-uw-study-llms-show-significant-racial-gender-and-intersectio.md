@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by
 - 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 - 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A University of Washington Information School study tested 550+ real-world resum
 
 **Entities:** [[Mistral]] · [[Salesforce]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
+**Related:** [[2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

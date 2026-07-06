@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 - 2026-04-06-ai-safety-policy
+- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
 embedding_id: 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Direct accusation naming China. Escalates from industry lobbying to national-sec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-04-06-ai-safety-policy]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
+**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-04-06-ai-safety-policy]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]]
 <!-- graph:end -->

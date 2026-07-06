@@ -22,7 +22,8 @@ related_article_ids:
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
 - 2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-- 2026-04-23-
+- 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
+- 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
 embedding_id: 2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Intelligence Index score of 51 — top open-weights model, trailing only closed 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-04-23-]]
+**Related:** [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-06-14-z-ai-launches-glm-5-2-with-a-usable-1m-token-context-and-two]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]]
 <!-- graph:end -->

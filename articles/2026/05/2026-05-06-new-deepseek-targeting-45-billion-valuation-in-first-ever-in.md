@@ -5,8 +5,8 @@ title: New DeepSeek Targeting $45 Billion Valuation in First-Ever Institutional 
 date: '2026-05-06'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: d59851d58b839d27bdf498a95a2891c2b8a6a49696252258d40bcf3be1497070

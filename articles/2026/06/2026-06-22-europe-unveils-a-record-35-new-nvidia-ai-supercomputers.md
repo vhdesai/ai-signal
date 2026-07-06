@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 embedding_id: 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA announced a record 35 AI supercomputers across Europe as part of sovereig
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
+**Related:** [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
 <!-- graph:end -->

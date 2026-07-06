@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
+- 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-05-29-openai-brings-codex-computer-use-to-windows
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
@@ -39,5 +40,5 @@ OpenAI published a knowledge-work report stating Codex now has over 5 million we
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]]
+**Related:** [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 embedding_id: 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Third foundry partner alongside TSMC and Intel. Multi-foundry approach reflects 
 
 **Entities:** [[Google]] · [[Intel]] · [[Samsung]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
+**Related:** [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

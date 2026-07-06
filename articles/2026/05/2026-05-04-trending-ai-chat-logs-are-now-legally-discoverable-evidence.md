@@ -4,8 +4,8 @@ title: Trending AI Chat Logs Are Now Legally Discoverable Evidence in U.S. Court
 date: '2026-05-04'
 source: Smart AI for Biz / ToolsCompare.ai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.jdsupra.com/legalnews/when-chats-become-evidence-court-7484440/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 7d01e3aeb6042058b90518cc4faa602527ff707358ee68abfb2ddd6411ad7bf5

@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 - 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
-- 2026-04-23-the-most-important-ai-developments-across-industry-research
+- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
 event_name: ''
 ---
@@ -57,5 +57,5 @@ Claude Mythos Security Breach Highlights Dual-Use AI Risks at Frontier Labs The 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Microsoft]] · [[NVIDIA]] · [[Tencent]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-04-23-the-most-important-ai-developments-across-industry-research]]
+**Related:** [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Sakana AI Trains 7B Model to Orchestrate GPT-5, Claude, and Gemini via Re
 date: '2026-05-07'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digitalmindnews.com/ai/sakana-ais-rl-conductor-trains-7b-model-to-orchestrate/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 9366e2580fc895643b9c04ceb6f9a1d2ebf1e6c81ed65e61725bd9bceb7e2acf

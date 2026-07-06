@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
+- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 - 2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could
 - 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
-- 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 embedding_id: 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Amazon Web Services CEO publicly disputed forecasts of mass AI-driven white-coll
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
+**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-05-18-trending-microsoft-ai-chief-suleyman-white-collar-jobs-could]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]]
 <!-- graph:end -->

@@ -9,7 +9,7 @@ title: OpenAI is actively preparing for a public offering expected in Q4 2026, w
 date: '2026-04-09'
 source: 🌶 HOT Bloomberg
 url_original: null
-url_canonical: https://www.zacks.com/featured-articles/781/openai-ipo
+url_canonical: https://aitoolsrecap.com/Blog/openai-ipo-2026-valuation-timeline-what-investors-need-to-know
 url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
@@ -29,11 +29,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
 - 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe
-- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u
 embedding_id: 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Palantir Stock Falls 14% as Anthropic's Glasswing Enters Government AI — Micha
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
+**Related:** [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]]
 <!-- graph:end -->

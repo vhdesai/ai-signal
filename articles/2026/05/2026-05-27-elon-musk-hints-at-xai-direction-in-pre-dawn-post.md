@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
+- 2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex
+- 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
 - 2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t
 - 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
-- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent
 embedding_id: 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Elon Musk drew attention with an early-morning post about xAI's future direction
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-15-new-xai-launches-grok-build-its-first-agentic-coding-agent]]
+**Related:** [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-05-26-musk-claims-xai-has-finished-training-grok-v9-medium-at-1-5t]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]]
 <!-- graph:end -->

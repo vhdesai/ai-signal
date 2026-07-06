@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
+- 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
-- 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+- 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 embedding_id: 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
 event_name: ''
 ---
@@ -38,5 +39,5 @@ WiWynn executives told Bloomberg the next AI server-build bottleneck is no longe
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]]
 <!-- graph:end -->

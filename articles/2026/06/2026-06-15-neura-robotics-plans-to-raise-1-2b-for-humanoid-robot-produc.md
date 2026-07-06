@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
+- 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
 embedding_id: 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
 event_name: ''
 ---
@@ -37,5 +38,5 @@ German startup Neura Robotics said it plans to raise up to €1B ($1.2B) in a ne
 
 **Entities:** [[OpenAI]] · [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]]
+**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
 <!-- graph:end -->

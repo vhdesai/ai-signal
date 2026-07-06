@@ -5,8 +5,8 @@ title: 'Trending Cloudflare: AI Made 1,100 Jobs Obsolete — While Revenue Hit a
 date: '2026-05-08'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 4dd3092edd1ae31f5813c384f5857ab74150dc481c4820702ef6ee00bb0eb1b1

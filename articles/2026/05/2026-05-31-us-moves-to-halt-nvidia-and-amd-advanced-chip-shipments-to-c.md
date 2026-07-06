@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 - 2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta
 embedding_id: 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 event_name: ''
@@ -41,5 +42,5 @@ The Commerce Department took steps to extend export controls to cover advanced A
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]]
+**Related:** [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta]]
 <!-- graph:end -->

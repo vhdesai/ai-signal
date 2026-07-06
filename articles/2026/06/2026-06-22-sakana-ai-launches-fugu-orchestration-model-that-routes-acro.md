@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
-- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
+- 2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba
+- 2026-06-27-asian-labs-ship-mythos-class-rivals-to-exploit-anthropic-s-e
+- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 embedding_id: 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Japan's Sakana AI released Fugu and Fugu Ultra, a multi-agent orchestration syst
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]]
+**Related:** [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba]] · [[2026-06-27-asian-labs-ship-mythos-class-rivals-to-exploit-anthropic-s-e]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
 <!-- graph:end -->

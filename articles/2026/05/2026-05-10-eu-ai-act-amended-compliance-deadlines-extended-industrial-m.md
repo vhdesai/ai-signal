@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
+- 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
-- 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 embedding_id: 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The European Parliament and Council reached a provisional agreement to amend the
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]]
+**Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]]
 <!-- graph:end -->

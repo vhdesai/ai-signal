@@ -9,8 +9,8 @@ title: Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultan
 date: '2026-04-22'
 source: 🆕 New DeepSeek / Chinese Labs
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://grokmag.com/colossus-supercomputer/
+url_status: repaired
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
 content_hash: 7568388fe9379ecd820279090acd29ac657fb0f903ff58258e3ea2b1f9f03fd0

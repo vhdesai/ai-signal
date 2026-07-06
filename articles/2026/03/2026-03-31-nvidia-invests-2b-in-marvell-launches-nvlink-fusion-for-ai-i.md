@@ -4,8 +4,8 @@ title: Nvidia Invests $2B in Marvell, Launches NVLink Fusion for AI Infrastructu
 date: '2026-03-31'
 source: Nvidia Newsroom
 url_original: null
-url_canonical: https://investor.marvell.com/news-events/press-releases/detail/1019/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 3328795c671f3a043002a3503c8f41cdc8631dd617dc7496db8b8f2e96ea6217
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia announced a $2B strategic investment in Marvell Technology with a NVLink 
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
+**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

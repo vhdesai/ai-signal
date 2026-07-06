@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 - 2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
-- 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
+- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 embedding_id: 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 event_name: ''
 ---
@@ -43,5 +43,5 @@ US AI-exposed equities — Nvidia, Oracle, Palantir, and IBM — traded higher o
 
 **Entities:** [[IBM]] · [[NVIDIA]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]]
+**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-09-michael-burry-expands-ai-short-palantir-nvidia-oracle-into-2]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]]
 <!-- graph:end -->

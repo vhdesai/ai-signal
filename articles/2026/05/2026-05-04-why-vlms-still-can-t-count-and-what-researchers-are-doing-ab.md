@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
+- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
-- 2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad
 embedding_id: 2026-05-04-why-vlms-still-can-t-count-and-what-researchers-are-doing-ab
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A new survey examines persistent counting failures in vision-language models des
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-06-18-openai-small-beneficial-trait-rl-training-makes-models-broad]]
+**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]]
 <!-- graph:end -->

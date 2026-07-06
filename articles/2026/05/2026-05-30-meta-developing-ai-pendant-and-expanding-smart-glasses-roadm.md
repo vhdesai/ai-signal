@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
+- 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
-- 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 embedding_id: 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Leaked roadmap documents indicate Meta is developing an AI-powered pendant capab
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]]
 <!-- graph:end -->

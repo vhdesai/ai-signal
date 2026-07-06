@@ -4,8 +4,8 @@ title: Google plans up to $40B Anthropic investment
 date: '2026-04-25'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/google-plans-to-invest-in-anthropic/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: e88ddf2a9f1be59298f44a18ada9147a510c7925daff0416be1c489c993a25bb
 normalized_title_hash: b9b4b2bc3bf9a7a4

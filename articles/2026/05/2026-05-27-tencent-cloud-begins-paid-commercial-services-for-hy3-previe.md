@@ -25,8 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
+- 2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
-- 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
 embedding_id: 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tencent shares jumped 4% as the firm transitioned its Hunyuan-3 preview and Deep
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
+**Related:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]]
 <!-- graph:end -->

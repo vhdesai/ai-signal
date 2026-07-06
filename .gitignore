@@ -23,6 +23,10 @@ desktop.ini
 *.db-wal
 *.db-shm
 
+# Transient URL-repair status / control files
+/indexes/repair-status.json
+/indexes/repair.stop
+
 # IDE / editor settings
 .vscode/
 .idea/

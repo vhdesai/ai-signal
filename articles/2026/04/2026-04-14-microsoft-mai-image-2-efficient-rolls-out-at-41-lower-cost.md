@@ -4,7 +4,7 @@ title: Microsoft MAI-Image-2-Efficient Rolls Out at 41% Lower Cost
 date: '2026-04-14'
 source: Microsoft AI
 url_original: null
-url_canonical: https://theaieconomy.substack.com/p/microsoft-two-ai-image-models-mai-image-2-efficient
+url_canonical: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/new-mai-models-in-microsoft-foundry-across-text-image-voice-and-speech/4524632
 url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md

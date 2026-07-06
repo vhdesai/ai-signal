@@ -5,8 +5,8 @@ title: Rebellions $400M Pre-IPO · ScaleOps $130M Series C · Runway $10M Fund �
 date: '2026-03-30'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 3bde4e3270eb1cae3f530ebc42ffa456416b84f23ea255afa33d236d4335364f

@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
 - 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
 - 2026-05-04-1-model-releases-frontier-research
+- 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 - 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 embedding_id: 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The framing — "answering 'what will happen' is useful, but answering 'why' is 
 
 **Entities:** [[SAP]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]] · [[2026-05-04-1-model-releases-frontier-research]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]]
 <!-- graph:end -->

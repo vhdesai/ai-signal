@@ -12,8 +12,8 @@ title: 'At Google Cloud Next in Las Vegas, Google announced its eighth-generatio
 date: '2026-04-22'
 source: 'Source: TechCrunch'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 78f51cd8059198a33100e30da9491fcc108e6dda87709a3c182c7ac0f3168248

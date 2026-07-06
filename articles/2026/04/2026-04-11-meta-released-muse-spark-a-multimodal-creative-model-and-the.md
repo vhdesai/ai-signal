@@ -11,8 +11,8 @@ title: 'Meta released Muse Spark, a multimodal creative model and the first outp
 date: '2026-04-11'
 source: 🌶 HOT Reuters
 url_original: null
-url_canonical: https://lushbinary.com/blog/meta-muse-spark-vs-gpt-5-4-claude-opus-gemini-comparison/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: ae9464372168dc196487558e437ccc46c360d71743c2b79963da6fb62eea3007

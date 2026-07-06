@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
+- 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
-- 2026-04-08-source-forbes-msn-the-neuron
 embedding_id: 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 event_name: ''
 ---
@@ -45,5 +45,5 @@ RAG-Anything: Universal Retrieval-Augmented Generation Framework Released
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-04-08-source-forbes-msn-the-neuron]]
+**Related:** [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]]
 <!-- graph:end -->

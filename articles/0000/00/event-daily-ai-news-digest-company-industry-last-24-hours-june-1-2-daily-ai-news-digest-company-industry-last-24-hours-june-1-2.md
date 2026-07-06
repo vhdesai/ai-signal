@@ -5,8 +5,8 @@ title: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 
 date: null
 source: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 url_original: null
-url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\ai-news-digest-2026-06-02-2.md
 content_hash: ca39762e6e4811609feb872e54ad21419ca5525aeeef325e3c102a2bc1dae645
 normalized_title_hash: 21591d254ea68be4
@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview
+- 2026-06-29-daily-ai-news-digest-june-29-2026
+- 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p
 - 2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-14-daily-ai-news-digest-may-14-2026
 embedding_id: event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 event_name: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 ---
@@ -44,5 +44,5 @@ This pass covers AI company and industry news confirmed published within the las
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
+**Related:** [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p]]
 <!-- graph:end -->

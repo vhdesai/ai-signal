@@ -1,13 +1,30 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 112
+member_count: 129
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 112 connected article(s).
+> Auto-generated entity hub. 129 connected article(s).
 
+- `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
+- `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
+- `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]
+- `2026-07-04` [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne|Alibaba’s DAMO Academy AI discovers — and lab-verifies — four new superconductors]]
+- `2026-07-04` [[2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne|Alibaba's DAMO Academy agent "Elements Claw" discovers four new superconductors, validated in the lab]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac|Anthropic moves to close loopholes that let Chinese firms access Claude]]
+- `2026-07-03` [[2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal|Alibaba to bar staff from Anthropic's Claude Code amid escalating distillation feud]]
+- `2026-07-03` [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing|Alibaba to bar employees from Anthropic's Claude Code, citing security concerns]]
+- `2026-07-02` [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc|Anthropic moves to close loopholes letting Chinese firms access Claude]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-26` [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-largest-ever-claude|Anthropic accuses Alibaba's Qwen lab of largest-ever Claude "distillation" campaign]]
+- `2026-06-26` [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi|Anthropic accuses Alibaba's Qwen lab of distilling Claude via 25,000 fake accounts]]
+- `2026-06-25` [[2026-06-25-anthropic-asks-congress-to-act-alleging-a-large-scale-alibab|Anthropic asks Congress to act, alleging a large-scale Alibaba "distillation attack"]]
+- `2026-06-25` [[2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta|Anthropic accuses Alibaba of “largest known distillation attack” on Claude]]
+- `2026-06-25` [[2026-06-25-anthropic-accuses-alibaba-of-the-largest-known-distillation|Anthropic accuses Alibaba of the largest known “distillation attack” on Claude]]
+- `2026-06-24` [[2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta|Anthropic accuses Alibaba of “largest known distillation attack” on Claude]]
 - `2026-06-22` [[2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model|Alibaba Ships HappyHorse 1.1 Image-to-Video Model]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-09` [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir|Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aiding China's Military]]

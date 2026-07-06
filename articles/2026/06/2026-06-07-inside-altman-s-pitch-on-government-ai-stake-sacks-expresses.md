@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e
 - 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
+- 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau
-- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
+- 2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign
 embedding_id: 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Semafor published details of Sam Altman's pitch to the government on an equity-s
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]]
+**Related:** [[2026-06-07-semafor-inside-altman-s-pitch-on-government-ai-stake-sacks-e]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-06-06-trump-endorses-u-s-equity-stake-in-ai-giants-could-be-a-beau]] · [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]]
 <!-- graph:end -->

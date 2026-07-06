@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
+- 2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice
 - 2026-04-02-model-releases-updates
-- 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 embedding_id: 2026-05-27-ai-studios-expands-tts-lineup-with-1-000-context-aware-expre
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI Studios rolled out a major expansion of its text-to-speech catalog with more 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-04-02-model-releases-updates]] · [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]]
+**Related:** [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice]] · [[2026-04-02-model-releases-updates]]
 <!-- graph:end -->

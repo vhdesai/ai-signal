@@ -9,8 +9,8 @@ title: Alongside its hardware and agent announcements at Cloud Next, Google Clou
 date: '2026-04-22'
 source: 'Source: Bloomberg'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.googlecloudpresscorner.com/2026-04-22-Google-Cloud-Commits-750-Million-to-Accelerate-Partners-Agentic-AI-Development
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: b18743425a9a4b130a2776c04b182e0a8749673001ae1173ab0f9e6a5c8d8be4

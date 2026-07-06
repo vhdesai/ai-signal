@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
+- 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-04-09-products-tools
-- 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 embedding_id: 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon MGM Studios and AWS launched a "GenAI Creators' Fund" that grants filmmak
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-04-09-products-tools]] · [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]]
+**Related:** [[2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-04-09-products-tools]]
 <!-- graph:end -->

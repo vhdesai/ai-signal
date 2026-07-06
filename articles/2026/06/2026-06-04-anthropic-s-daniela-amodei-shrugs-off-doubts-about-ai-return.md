@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
-- 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
+- 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic president Daniela Amodei pushed back on skepticism about AI investment
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
+**Related:** [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

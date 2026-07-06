@@ -32,8 +32,8 @@ related_article_ids:
 - 2026-04-02-ai-safety-security-policy
 - 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
+- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod
-- 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
 embedding_id: 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Anthropic Accidentally Leaks Claude Code Source; Pulls Down Thousands of GitHub 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-04-02-ai-safety-security-policy]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]]
+**Related:** [[2026-04-02-ai-safety-security-policy]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod]]
 <!-- graph:end -->

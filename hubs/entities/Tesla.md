@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 20
+member_count: 24
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 20 connected article(s).
+> Auto-generated entity hub. 24 connected article(s).
 
+- `2026-07-03` [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen|Meta reportedly taps Samsung for ~$6.5B to build its next-gen MTIA AI chips]]
+- `2026-06-29` [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk|xAI's Grok 4.5 enters private beta at SpaceX and Tesla; Musk pledges monthly from-scratch models]]
+- `2026-06-28` [[2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex|xAI's Grok 4.5 enters private beta at Tesla and SpaceX]]
+- `2026-06-28` [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta|xAI puts a 1.5-trillion-parameter Grok 4.5 into private beta at SpaceX and Tesla]]
 - `2026-06-15` [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc|Neura Robotics plans to raise ~$1.2B for humanoid-robot production]]
 - `2026-06-07` [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer|Anthropic Poaches OpenAI's Second-Ever Custom-Chip Engineer]]
 - `2026-06-04` [[2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu|Meta Builds Data Centers in Tents to Keep Pace with AI Compute Demand]]

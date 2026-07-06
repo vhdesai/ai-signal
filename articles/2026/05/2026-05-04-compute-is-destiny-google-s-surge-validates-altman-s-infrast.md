@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
+- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne
 - 2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2
-- 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 embedding_id: 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 event_name: ''
 ---
@@ -38,5 +39,5 @@ A sharp Alphabet stock rally is being read by analysts as proof that compute cap
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]]
+**Related:** [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne]] · [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2]]
 <!-- graph:end -->

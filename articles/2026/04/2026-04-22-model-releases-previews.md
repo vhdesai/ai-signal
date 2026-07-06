@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
+- 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
 - 2026-04-23-
 - 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
-- 2026-04-15-model-releases
 embedding_id: 2026-04-22-model-releases-previews
 event_name: ''
 ---
@@ -38,5 +38,5 @@ GPT-5.5 Family Leaked via OpenAI Codex Platform
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-23-]] · [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]] · [[2026-04-15-model-releases]]
+**Related:** [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-04-23-]] · [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]]
 <!-- graph:end -->

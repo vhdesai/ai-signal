@@ -1,0 +1,79 @@
+{
+  "run_id": "20260706T062452+0000-2af0e2",
+  "started_at": "2026-07-06T06:24:52+00:00",
+  "finished_at": "2026-07-06T07:07:43+00:00",
+  "summary": {
+    "command": "run-all",
+    "stages": {
+      "ingest": {
+        "digests_total": 359,
+        "digests_changed": 5,
+        "changed": [
+          "news\\2026-06-27_180732_Inbox_Your Daily AI News Digest.md",
+          "news\\2026-06-28_060351_Inbox_Daily AI News Digest - June 28, 2026.md",
+          "news\\2026-06-28_060911_Inbox_Daily AI News Digest - June 28, 2026.md",
+          "news\\2026-06-28_061921_Inbox_Daily AI News Digest - June 28, 2026.md",
+          "news\\2026-06-28_062614_Inbox_Daily AI News Digest - June 28, 2026.md"
+        ]
+      },
+      "split": {
+        "digests_parsed": 385,
+        "articles_written": 2959,
+        "events_parsed": 53,
+        "event_articles_written": 84
+      },
+      "index": {
+        "articles_indexed": 2717,
+        "embeddings": {
+          "enabled": true,
+          "added": 20,
+          "total": 2717,
+          "md_rewritten": 2717
+        }
+      },
+      "dedupe": {
+        "articles": 2717,
+        "exact_duplicates": 12,
+        "canonical": 2298,
+        "semantic_duplicates": 407,
+        "related_links": 10067
+      },
+      "build-graph": {
+        "status": "ok",
+        "articles_linked": 2717,
+        "wikilinks_emitted": 19689,
+        "entity_hubs": 34,
+        "topic_hubs": 5,
+        "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+      },
+      "validate-urls": {
+        "checked": 902,
+        "ok": 690,
+        "broken": 212,
+        "missing": 1814,
+        "skipped": 1
+      },
+      "repair-urls": {
+        "attempted": 561,
+        "repaired": 290,
+        "unresolved": 271,
+        "skipped": 64,
+        "reverted": 0,
+        "deferred": 1401,
+        "terminated": "timeout",
+        "elapsed_s": 1835.2,
+        "max_workers": 10
+      },
+      "build-site": {
+        "pages": 169,
+        "articles": 2717,
+        "canonical": 2298,
+        "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+      },
+      "publish": {
+        "status": "dry-run",
+        "note": "site/ generated locally; no remote publish configured"
+      }
+    }
+  }
+}

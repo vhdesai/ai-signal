@@ -4,8 +4,8 @@ title: 'IBM watsonx Orchestrate: unified AI agent management'
 date: '2026-05-05'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ibm.com/new/announcements/manage-all-your-ai-agents-in-one-place-with-watsonx-orchestrate
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: e708c350fc4ce90fe5692ce4354d4a2f1413c642a59738e3e7e0934b56d6fe2c
 normalized_title_hash: 1705379b8b681c07

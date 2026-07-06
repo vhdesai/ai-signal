@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 - 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
-- 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 embedding_id: 2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI's next ad move: going small to scale big
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
+**Related:** [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]]
 <!-- graph:end -->

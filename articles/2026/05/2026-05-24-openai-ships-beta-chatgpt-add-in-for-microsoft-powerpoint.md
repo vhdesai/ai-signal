@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+- 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 - 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-- 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 embedding_id: 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI shipped a beta ChatGPT add-in for Microsoft PowerPoint that lets free and
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
+**Related:** [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
 <!-- graph:end -->

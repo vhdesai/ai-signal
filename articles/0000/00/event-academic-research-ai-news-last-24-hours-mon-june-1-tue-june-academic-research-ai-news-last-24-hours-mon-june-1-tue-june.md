@@ -5,7 +5,7 @@ title: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2,
 date: null
 source: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2, 2026)
 url_original: null
-url_canonical: https://www.devflokers.com/blog/ai-tech-news-model-releases-june-2026
+url_canonical: https://www.devflokers.com/blog/open-source-ai-roundup-june-2026
 url_status: repaired
 digest_source: digests\raw\academic-ai-news-report.md
 content_hash: 2137027c739620e133364b7088b0f06ad94111fc344d70955ba0663efd790b2f
@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
+- 2026-06-27-daily-ai-news-digest-june-27-2026
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
+- 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p
-- 2026-06-16-sources-scanned-june-15-16-2026
-- event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview
 embedding_id: event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june
 event_name: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2,
   2026)
@@ -38,5 +38,5 @@ This digest covers AI items from the academic and research world confirmed publi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-16-sources-scanned-june-15-16-2026]] · [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview]]
+**Related:** [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
+- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's Sam Altman pressed lawmakers to reject mandatory pre-release model sign
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]]
+**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi
+- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 embedding_id: 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic published two landmark AI safety papers on May 7. The first introduces
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-14-anthropic-publicly-acknowledges-claude-code-quality-regressi]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
 <!-- graph:end -->

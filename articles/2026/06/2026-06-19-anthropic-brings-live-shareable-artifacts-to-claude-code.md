@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
 embedding_id: 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 event_name: ''
 ---
@@ -34,5 +35,5 @@ AI coding sessions published as interactive HTML at a private link — teammates
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]]
 <!-- graph:end -->

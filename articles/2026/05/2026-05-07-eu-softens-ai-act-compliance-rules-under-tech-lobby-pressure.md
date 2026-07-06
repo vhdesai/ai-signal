@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
+- 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 embedding_id: 2026-05-07-eu-softens-ai-act-compliance-rules-under-tech-lobby-pressure
@@ -37,5 +38,5 @@ The EU Council and Parliament reached a provisional agreement to simplify parts 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]]
+**Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]]
 <!-- graph:end -->

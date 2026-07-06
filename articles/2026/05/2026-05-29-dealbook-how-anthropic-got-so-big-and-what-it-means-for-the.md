@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r
 embedding_id: 2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DealBook goes behind the numbers on Anthropic's leapfrog past OpenAI, dissecting
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r]]
+**Related:** [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

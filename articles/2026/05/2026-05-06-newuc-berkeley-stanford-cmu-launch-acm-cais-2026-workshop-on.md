@@ -5,8 +5,8 @@ title: NewUC Berkeley, Stanford & CMU Launch ACM CAIS 2026 Workshop on AI Discov
 date: '2026-05-06'
 source: LinkedIn / UC Berkeley
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/pages/workshops/
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 0095267eeb4533da838d7e87e38cd3e11ef78f715e33c6c56812c0ffde13ce97
 normalized_title_hash: ddd61a69ad599c4d

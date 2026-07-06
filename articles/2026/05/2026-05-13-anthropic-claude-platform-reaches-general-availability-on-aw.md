@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
 - 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-- 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
 embedding_id: 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic announced GA of the Claude Platform on AWS, giving enterprise customer
 ## Connections
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Cerebras]] · [[OpenAI]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
 <!-- graph:end -->

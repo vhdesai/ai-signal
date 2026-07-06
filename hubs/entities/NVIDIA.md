@@ -1,13 +1,55 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 376
+member_count: 418
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 376 connected article(s).
+> Auto-generated entity hub. 418 connected article(s).
 
+- `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
+- `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
+- `2026-07-05` [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets|Foxconn's Q2 revenue jumps ~40% on AI-server demand; June sets a record, full-year target raised]]
+- `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
+- `2026-07-04` [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion|Micron breaks ground on a ¥1.5T ($9.3B) Hiroshima HBM expansion for AI memory]]
+- `2026-07-04` [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory|Micron breaks ground on a ~$9.3B Hiroshima plant for AI memory]]
+- `2026-07-03` [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage|The economics and governance of AI took center stage]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen|Meta reportedly taps Samsung for ~$6.5B to build its next-gen MTIA AI chips]]
+- `2026-07-03` [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch|Anthropic in talks with Samsung to co‑develop a custom AI chip]]
+- `2026-07-02` [[2026-07-02-verification-note-every-item-was-drawn-from-live-web-researc|Verification note. Every item was drawn from live web research within the stated source window. Thirteen of fifteen items carry a verified, article-level source link; two (GLM-5.2 and NVIDIA Nemotron-Labs-TwoTower) are story-verified but had no confirmed article-level URL at compile time and are marked accordingly. Items dated June 30 (TabFM) are included under the 24–48 hour freshness exception. Citations reference the original publication, not any search surface.]]
+- `2026-07-02` [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n|Nvidia turns compute scarcity into a financing product for "neocloud" partners]]
+- `2026-07-02` [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da|Nvidia and Valar Atomics demo a nuclear-powered, "waterless" data center in Utah]]
+- `2026-07-02` [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42|NVIDIA releases Nemotron-Labs-TwoTower, a diffusion LLM 2.42× faster without retraining]]
+- `2026-07-02` [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat|NVIDIA bets on "neoclouds" with a GPU-financing platform strategy]]
+- `2026-07-02` [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p|Anthropic explores a custom AI chip built on Samsung's 2nm process]]
+- `2026-07-01` [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation|Together AI raises $800M Series C at an $8.3B valuation]]
+- `2026-07-01` [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin|Nvidia unveils revenue-sharing "capital partners" model to finance AI-factory buildout]]
+- `2026-07-01` [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr|Nvidia launches "AI Compute Partnership" — revenue‑share plus credit backstop for neocloud "AI factories"]]
+- `2026-07-01` [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation|Neocloud Together AI raises $800M, leaps to an $8.3B valuation]]
+- `2026-07-01` [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation|Neocloud Together AI raises $800M at an $8.3B valuation]]
+- `2026-07-01` [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus|NVIDIA releases Nemotron-Labs-TwoTower, an open-weight diffusion language model]]
+- `2026-07-01` [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco|Agentic AI Gets Cheaper — and Cost, Deployment & Reliability Become the Real Story]]
+- `2026-06-30` [[2026-06-30-tuesday-june-30-2026|Tuesday, June 30, 2026]]
+- `2026-06-30` [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science|NVIDIA brings its BioNeMo Agent Toolkit into Claude Science]]
+- `2026-06-30` [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro|NVIDIA and university partners introduce ASPIRE, a self-improving robotics framework]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-30` [[2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n|Claude reaches GA in Microsoft Foundry on Azure, running on Nvidia GB300]]
+- `2026-06-29` [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c|Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze Bites]]
+- `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead|Nvidia's China AI-chip sales stall as Huawei takes the lead]]
+- `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home|Nvidia's China AI-chip sales stall as Huawei takes the home market lead]]
+- `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival|Nvidia's China AI-chip sales stall as Huawei and local rivals take the lead]]
+- `2026-06-29` [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra|Meituan open-sources LongCat-2.0, a 1.6T model reportedly trained entirely on Chinese chips]]
+- `2026-06-28` [[2026-06-28-baidu-s-kunlunxin-targets-a-50b-hong-kong-ipo-ties-chip-orde|Baidu's Kunlunxin targets a ~$50B Hong Kong IPO, ties chip orders to allocations]]
+- `2026-06-26` [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw|OpenAI reveals "Jalapeño" inference chip as Big Tech hedges away from Nvidia]]
+- `2026-06-26` [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o|NVIDIA ships a Nemotron 3 Ultra NVFP4 checkpoint that runs on both Hopper and Blackwell]]
+- `2026-06-25` [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10|SK Hynix confirms ~$29.4B US IPO, trading expected July 10]]
+- `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]
+- `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in|OpenAI and Broadcom unveil "Jalapeño," their first custom AI inference chip]]
+- `2026-06-24` [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s|Nvidia’s Huang calls smuggled-chip data centers a “dead end,” says AI ROI is “answered”]]
+- `2026-06-23` [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio|SpaceX secures a $6.3B compute deal from AI startup Reflection]]
+- `2026-06-23` [[2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public|Cerebras shares fall ~10% on first earnings report as a public company]]
 - `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
 - `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
 - `2026-06-22` [[2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u|Nvidia Unveils Warm-Water Cooling to Cut Data-Center Water Use]]

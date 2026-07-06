@@ -4,8 +4,8 @@ title: TRENDINGMeta acquires humanoid robotics startup Assured Robot Intelligenc
 date: '2026-05-02'
 source: Engadget / Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: d6a95a20b43052fa1ba7b2e3a473663c47811a699b280ebef757f888aecbcb28
 normalized_title_hash: ac71bcb4038cda4f

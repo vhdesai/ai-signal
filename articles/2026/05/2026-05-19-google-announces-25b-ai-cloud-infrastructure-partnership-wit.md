@@ -28,10 +28,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 embedding_id: 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Just hours before today's I/O keynote, Google and Blackstone Inc. announced a la
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
+**Related:** [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]]
 <!-- graph:end -->

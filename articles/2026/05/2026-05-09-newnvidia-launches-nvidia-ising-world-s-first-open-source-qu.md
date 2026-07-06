@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-nvidia-ising-open-models-for-quantum-error-correction
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Jensen Huang announced Nvidia Ising, described as the world's first family of op
 
 **Entities:** [[IBM]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-04-14-nvidia-ising-open-models-for-quantum-error-correction]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]]
 <!-- graph:end -->

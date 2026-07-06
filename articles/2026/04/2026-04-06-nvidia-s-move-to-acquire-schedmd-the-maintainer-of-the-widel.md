@@ -10,8 +10,8 @@ title: Nvidia's move to acquire SchedMD — the maintainer of the widely used Sl
 date: '2026-04-06'
 source: GlobalPublicist24
 url_original: null
-url_canonical: https://dokumen.pub/high-performance-computing-isc-high-performance-2020-international-workshops-frankfurt-germany-june-2125-2020-revised-selected-papers-1st-ed-9783030598501-9783030598518.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 49eecf524db3e21b3e0af23131d52bd5253b510659524b5b59fb420209ae3b41
@@ -31,10 +31,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
+- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
-- 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 embedding_id: 2026-04-06-nvidia-s-move-to-acquire-schedmd-the-maintainer-of-the-widel
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Oracle Cutting Up to 30,000 Jobs to Fund AI Data Center Expansion
 
 **Entities:** [[NVIDIA]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]]
+**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

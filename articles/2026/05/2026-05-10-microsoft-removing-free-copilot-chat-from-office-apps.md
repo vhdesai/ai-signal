@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
+- 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
-- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 embedding_id: 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Starting May 16, Microsoft will remove free Copilot Chat access from Word, Excel
 
 **Entities:** [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]]
+**Related:** [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]]
 <!-- graph:end -->

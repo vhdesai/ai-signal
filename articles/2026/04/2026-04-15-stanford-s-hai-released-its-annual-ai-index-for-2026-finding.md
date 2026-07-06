@@ -10,8 +10,8 @@ title: 'Stanford''s HAI released its annual AI Index for 2026, finding that AI s
 date: '2026-04-15'
 source: 'Source: Stanford HAI'
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: a43bc2e61b6285dfe6f53e9a6d9f4e62b7b628eb2e274c10b6a4646ffb1e3b2b
@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
+- 2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 embedding_id: 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 event_name: ''
 ---
@@ -44,5 +44,5 @@ RuView: WiFi Signals Enable Privacy-Preserving Human Pose Estimation
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
+**Related:** [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
 <!-- graph:end -->

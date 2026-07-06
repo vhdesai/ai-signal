@@ -5,8 +5,8 @@ date: '2026-05-04'
 source: SAP to acquire Prior Labs to establish a frontier AI lab in Europe — SAP News
   Center / TMCnet
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.prnewswire.com/news-releases/sap-to-acquire-prior-labs-to-establish-a-globally-leading-frontier-ai-lab-in-europe-302761284.html
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: de1749633080435eb3b41ed090c7d718a24cdb79fbdabe8901f7a702dce24388
 normalized_title_hash: 4a39d97edfc1e2be
@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
 - 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
+- 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 - 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 embedding_id: 2026-05-04-1-model-releases-frontier-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
+**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]]
 <!-- graph:end -->

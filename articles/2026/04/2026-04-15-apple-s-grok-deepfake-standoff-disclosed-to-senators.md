@@ -4,8 +4,8 @@ title: Apple's Grok Deepfake Standoff Disclosed to Senators
 date: '2026-04-15'
 source: NBC News / MacRumors / CNET
 url_original: null
-url_canonical: https://www.cnet.com/tech/services-and-software/apple-grok-app-store-removal-threat/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: f94efa393593298a2b123210b8e75f6f233d72263edc8225956633364a2004fd
@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
+- 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
-- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
-- 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
 embedding_id: 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A letter from Apple to U.S. senators revealed Apple privately threatened to pull
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Meta]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]]
+**Related:** [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]]
 <!-- graph:end -->

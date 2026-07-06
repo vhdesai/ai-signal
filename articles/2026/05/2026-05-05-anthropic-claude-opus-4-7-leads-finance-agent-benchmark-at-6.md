@@ -5,8 +5,8 @@ title: Anthropic Claude Opus 4.7 — Leads Finance Agent Benchmark at 64.37%, Be
 date: '2026-05-05'
 source: Anthropic / AI Tools Recap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aitrove.ai/blog/claude-finance-agents-wall-street-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: f064fb5645c22aba54693d25a160b12a624cb8d1874e0d13241a7ca70383330a
@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-05-06-
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow
 embedding_id: 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Claude Opus 4.7 powers Anthropic's 10 new financial services AI agents, launched
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-06-]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-28-anthropic-releases-claude-opus-4-8-with-new-dynamic-workflow]]
+**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-06-]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

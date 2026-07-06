@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
 - 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 - 2026-04-15-model-releases
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-- 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 embedding_id: 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI shipped GPT-5.5-Cyber, a cybersecurity-specialized model scoring 85.6% on
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-15-model-releases]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]]
+**Related:** [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-04-15-model-releases]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]]
 <!-- graph:end -->

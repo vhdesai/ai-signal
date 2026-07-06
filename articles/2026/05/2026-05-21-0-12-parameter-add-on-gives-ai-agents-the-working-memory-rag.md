@@ -4,8 +4,8 @@ title: 0.12% Parameter Add-On Gives AI Agents the Working Memory RAG Can't
 date: '2026-05-21'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.dataworldbank.net/2026/05/21/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: dd0b99397daf3f822ea63f59c3349dbc07babb895437e792edfce3132217d7aa
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
+- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 embedding_id: 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers published a memory module that lets AI agents retain context across 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
+**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-27-o-reilly-your-ai-agent-already-forgot-half-of-what-you-told]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
 <!-- graph:end -->

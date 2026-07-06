@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Coralogix raised $200M in Series F, positioning as the observability platform fo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

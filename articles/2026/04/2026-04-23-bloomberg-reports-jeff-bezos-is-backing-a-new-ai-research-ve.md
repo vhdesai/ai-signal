@@ -10,8 +10,8 @@ title: Bloomberg reports Jeff Bezos is backing a new AI research venture dubbed 
 date: '2026-04-23'
 source: 'Source: Bloomberg'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech-insider.org/project-prometheus-bezos-10-billion-38-billion-valuation-2026/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 10dee80495c86de13f195e41295d0bad0209035c255477d99d0c0fd25d6a0984

@@ -1,13 +1,39 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 195
+member_count: 221
 ---
 
 # Meta
 
-> Auto-generated entity hub. 195 connected article(s).
+> Auto-generated entity hub. 221 connected article(s).
 
+- `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
+- `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
+- `2026-07-03` [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage|The economics and governance of AI took center stage]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake|OpenAI proposes giving the U.S. government a 5% equity stake]]
+- `2026-07-03` [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen|Meta reportedly taps Samsung for ~$6.5B to build its next-gen MTIA AI chips]]
+- `2026-07-03` [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the|Enterprises Move In: Big Tech Builds Deployment Armies as the AI Stack Splinters]]
+- `2026-07-02` [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast|Zuckerberg tells staff AI agents haven't progressed as fast as he'd hoped]]
+- `2026-07-02` [[2026-07-02-meta-says-its-next-model-watermelon-now-matches-gpt-5-5-on-i|Meta says its next model, "Watermelon," now matches GPT‑5.5 on internal benchmarks]]
+- `2026-07-02` [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex|Meta restricts engineers from using Claude Code and Codex]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute|Meta plans a cloud business to sell excess AI compute]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c|Meta plans a cloud business ("Meta Compute") to sell excess AI capacity]]
+- `2026-07-01` [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus|Meta moves to sell excess AI compute through a new cloud business]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c|Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze Bites]]
+- `2026-06-29` [[2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si|Meta's Brain2Qwerty v2 decodes typed sentences from brain signals — no implant]]
+- `2026-06-29` [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch|Google caps Meta's Gemini usage amid a compute crunch]]
+- `2026-06-29` [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits|Google capped Meta's Gemini usage as the compute crunch hits even hyperscalers]]
+- `2026-06-29` [[2026-06-29-daily-ai-news-digest-june-29-2026|Daily AI News Digest – June 29, 2026]]
+- `2026-06-28` [[2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp|Google rations Gemini capacity to Meta amid a deepening compute crunch]]
+- `2026-06-28` [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites|Google caps Meta's Gemini usage as compute scarcity bites]]
+- `2026-06-25` [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents|Patronus AI raises $50M Series B to stress-test AI agents]]
+- `2026-06-25` [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation|Meta accelerates plan to automate 90%+ of content moderation]]
+- `2026-06-24` [[2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100|Qualcomm enters the data-center CPU race with Dragonfly C1000 and Meta as customer]]
+- `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
+- `2026-06-23` [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses|Meta and EssilorLuxottica launch $299 AI smart glasses]]
 - `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
 - `2026-06-22` [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead|Meta Backs CRED in ~$900M Round; Taps Founder for WhatsApp Leadership]]
 - `2026-06-18` [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions|Meta Unveils AI Ad and Commerce Tools at Cannes Lions]]

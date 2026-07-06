@@ -11,8 +11,8 @@ title: OpenAI formally petitioned the Attorneys General of California and Delawa
 date: '2026-04-06'
 source: Unite.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techbuzz.ai/articles/openai-asks-state-ags-to-probe-musk-s-anti-competitive-tactics
+url_status: repaired
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 0a42d0003ddff9d1db9bcebdd9c27af16d424dd02a1e7c55ca0d5f97fd356768

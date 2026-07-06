@@ -8,8 +8,8 @@ date: '2026-04-16'
 source: 'Qwen3.6 wave: 27B and 35B-A3B open weights, Max-Preview closed — Alibaba
   / Qwen Team'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://freedeepseekapi.com/v4
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: f68e804affac530554ad93a9a7c6a3c3fc7cf1cc11afd92debefbbedac825879
 normalized_title_hash: e2c7e1f5320b3c8e

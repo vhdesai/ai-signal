@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
-- 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
+- 2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by
 embedding_id: 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers tested GPT-5, Gemini 2.5, and Claude 4.5 on which occupations face t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]]
+**Related:** [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by]]
 <!-- graph:end -->

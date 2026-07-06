@@ -4,8 +4,8 @@ title: Chinese Labs Release Four Frontier Open-Weights Coding Models in 12 Days
 date: '2026-05-04'
 source: AI Tools Recap / TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiinasia.com/asian-ai/china-open-weights-coding-models-12-day-wave-2026-05-12
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: bc196968353f75ab9e2868fa07c4d0a4b4cde483cdf4243b97e53da16460f8cc
@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee
+- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
+- 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
-- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 embedding_id: 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 event_name: ''
 ---
@@ -39,5 +40,5 @@ In a remarkable 12-day window in early May, four Chinese labs released competiti
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]]
+**Related:** [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]]
 <!-- graph:end -->

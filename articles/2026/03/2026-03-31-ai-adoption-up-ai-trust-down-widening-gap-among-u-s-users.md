@@ -4,7 +4,7 @@ title: AI Adoption Up, AI Trust Down — Widening Gap Among U.S. Users
 date: '2026-03-31'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2019/03/08/who-are-the-next-billion-users-and-what-do-they-want/
+url_canonical: https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

@@ -8,7 +8,7 @@ title: DeepSeek has confirmed its V4 model is targeting a late-April 2026 releas
 date: '2026-04-11'
 source: Zhipu AI · OfficeChai
 url_original: null
-url_canonical: https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html
+url_canonical: https://tech-insider.org/deepseek-v4-huawei-ascend-1-6-trillion-parameter-moe-2026/
 url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md

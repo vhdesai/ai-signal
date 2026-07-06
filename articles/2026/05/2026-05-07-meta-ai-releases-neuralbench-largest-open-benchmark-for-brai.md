@@ -4,8 +4,8 @@ title: Meta AI Releases NeuralBench — Largest Open Benchmark for Brain-Signal 
 date: '2026-05-07'
 source: Meta AI / MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://ai.meta.com/research/publications/neuralbench-a-unifying-framework-to-benchmark-neuroai-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: d1232147c608236c64b42ad603fadeff40c2857f8af5d95f37766e1bdeb23ff5
@@ -29,10 +29,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
+- 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-04-23-
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-- 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
 embedding_id: 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 event_name: ''
 ---
@@ -46,5 +47,5 @@ Meta AI released NeuralBench-EEG v1.0, the largest open-source framework for ben
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-04-23-]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g]]
+**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-04-23-]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
 <!-- graph:end -->

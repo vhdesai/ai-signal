@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-04-15-model-releases
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-- 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
+- 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 embedding_id: 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Japan's Financial Services Agency Raises Concerns Over AI Cybersecurity Models
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]]
+**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]]
 <!-- graph:end -->

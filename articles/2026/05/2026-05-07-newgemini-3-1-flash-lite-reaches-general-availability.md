@@ -4,8 +4,8 @@ title: NewGemini 3.1 Flash-Lite Reaches General Availability
 date: '2026-05-07'
 source: Google AI Developer Changelog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cloud.google.com/blog/products/ai-machine-learning/gemini-2-5-flash-lite-flash-pro-ga-vertex-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: e96d7d31a2d704773ee2ea95627939ec3313bc6e1478ee1275ca7b4fec684ce0

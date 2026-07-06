@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 - 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
 - 2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans
+- 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
-- 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 embedding_id: 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Langford introduced NextLat, which extends next-token training with self-supervi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]]
+**Related:** [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-05-28-resae-residualized-sparse-autoencoders-for-multi-layer-trans]] · [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]]
 <!-- graph:end -->

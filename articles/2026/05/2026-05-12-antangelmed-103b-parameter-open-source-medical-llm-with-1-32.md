@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
-- 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
-- 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
+- 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
+- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 embedding_id: 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MedAIBase released AntAngelMed, a 103B-parameter open-source medical model using
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]]
+**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
+- 2026-07-02-xai-launches-grok-voice-ai-agent-builder
 - 2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay
 - 2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
 embedding_id: 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 event_name: ''
 ---
@@ -42,5 +42,5 @@ xAI released Grok Voice Think Fast 1.0, a full-duplex voice agent purpose-built 
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay]] · [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]]
+**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay]] · [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
 <!-- graph:end -->

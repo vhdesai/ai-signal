@@ -5,8 +5,8 @@ title: 'Cornell Research: AI Chatbots Are Shifting Voter Opinions at Statistical
 date: '2026-05-10'
 source: 🔗 Business Insider / Markets  · 🏛 Cornell University
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaiinsider.tech/2025/12/06/cornell-ai-chatbots-can-effectively-sway-voters-in-either-direction/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 4065b92dd93c6d7b959038b46f343b67ed2ed64aec68fefd47cc9605913cb908

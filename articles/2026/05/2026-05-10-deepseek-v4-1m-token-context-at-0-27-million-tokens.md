@@ -4,8 +4,8 @@ title: DeepSeek V4 — 1M Token Context at $0.27/Million Tokens
 date: '2026-05-10'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/deepseek-v4-launch-models-million-token-context-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 34dd1145fadfd7b673d2a7a2f89a6e35d86306f5ba7019914e4908e9d677ead9

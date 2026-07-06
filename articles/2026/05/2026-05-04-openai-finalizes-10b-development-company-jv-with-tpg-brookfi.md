@@ -5,8 +5,8 @@ title: OpenAI finalizes $10B “Development Company” JV with TPG, Brookfield, 
 date: '2026-05-04'
 source: Bloomberg
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/general/openai-launches-10b-ai-venture-backed-by-tpg-bain-softbank-bloomberg/ar-AA22miSj
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 0b327c8517dc296548245b9f6d343d22be6bbc67889785c93a64b5015fd95a7b
 normalized_title_hash: 60e7228746160d48
@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
-- 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
+- 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 embedding_id: 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Hours before Anthropic's announcement, OpenAI revealed its parallel $10B venture
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Meta signs multi-billion-dollar chip agreement with AWS on Graviton
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 2abf2c0050bb9f01c6cf62ec1be3976e07b497f77ff7c23768eb7ffa18ed8c8b
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 - 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
-- 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
+- 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
 embedding_id: 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta agreed to a multi-year, multi-billion-dollar deal to run inference workload
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]]
+**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-27-snowflake-signs-6b-five-year-deal-with-aws-for-graviton-gpu]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]]
 <!-- graph:end -->

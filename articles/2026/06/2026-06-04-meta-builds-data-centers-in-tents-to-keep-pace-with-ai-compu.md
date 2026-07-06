@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru
+- 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
+- 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
-- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
+- 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
 embedding_id: 2026-06-04-meta-builds-data-centers-in-tents-to-keep-pace-with-ai-compu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta is deploying data center infrastructure in tent structures — borrowing a 
 
 **Entities:** [[Meta]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]]
+**Related:** [[2026-06-08-meta-launches-workforce-academy-to-train-data-center-constru]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
+- 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-- 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 embedding_id: 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek confirmed it will permanently maintain the 75% discount on its flagship
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]]
+**Related:** [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]]
 <!-- graph:end -->

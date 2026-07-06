@@ -4,8 +4,8 @@ title: OpenAI raises $4B+ for "The Deployment Company" at $10B pre-money
 date: '2026-05-04'
 source: Bloomberg / The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aesopacademy.org/ai-news/articles/2026-05-05-openai-deployment-company-4b-raise.html
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: c88fb15b07ab2cdd890fdf98e48699e4c9dd5408d9b5e2f4562c1182d27fb5a8
 normalized_title_hash: 88230a54256817bd

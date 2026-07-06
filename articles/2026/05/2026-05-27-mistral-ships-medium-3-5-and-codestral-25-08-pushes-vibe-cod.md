@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
 - 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
 - 2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price
+- 2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c
 - 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
-- 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 embedding_id: 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral updated its public news page on May 27 with the release of Mistral Mediu
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c]] · [[2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
+**Related:** [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c]] · [[2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price]] · [[2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]]
 <!-- graph:end -->

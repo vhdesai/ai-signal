@@ -10,8 +10,8 @@ title: Google Cloud unveiled a comprehensive AI agent-building platform at Cloud
 date: '2026-04-22'
 source: 'Source: Bloomberg'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: a3390f46b8bad3370cf29fd1afeb19c94849343f05beed80c34f5af67595aed4

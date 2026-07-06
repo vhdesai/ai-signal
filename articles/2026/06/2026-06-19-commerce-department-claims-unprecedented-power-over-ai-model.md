@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
-- 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
-- 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
-- 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
+- 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
+- 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
+- 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
+- 2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab
 embedding_id: 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The order forcing Anthropic to disable Fable 5 and Mythos 5 relies on an unprece
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
+- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu
 embedding_id: 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Four-time CFO Amy Butte (NYSE, Navan) tells Business Insider that AI is forcing 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]]
+**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

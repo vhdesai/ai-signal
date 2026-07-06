@@ -4,8 +4,8 @@ title: EU Reaches Provisional AI Act Omnibus Deal — High-Risk Deadline Restruc
 date: '2026-05-07'
 source: IAPP
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://iapp.org/news/a/eu-agrees-to-amend-ai-act-clarifies-overlap-with-machinery-rules
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 4f6f81d31f180113b90431917f4726afd096e8a83d2345b94eb2f477876d187b
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
+- 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
-- 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
 embedding_id: 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In an early-morning marathon session on May 7, the European Parliament and Counc
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece]]
+**Related:** [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]]
 <!-- graph:end -->

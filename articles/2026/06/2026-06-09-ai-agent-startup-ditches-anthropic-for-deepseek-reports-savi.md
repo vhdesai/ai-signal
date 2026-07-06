@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s
+- 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 - 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
+- 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
-- 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
 embedding_id: 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 event_name: ''
 ---
@@ -39,5 +40,5 @@ An AI agent startup switched from Anthropic to DeepSeek and reports saving milli
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]]
+**Related:** [[2026-06-09-an-ai-agent-startup-ditched-anthropic-for-deepseek-says-it-s]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a]]
 <!-- graph:end -->

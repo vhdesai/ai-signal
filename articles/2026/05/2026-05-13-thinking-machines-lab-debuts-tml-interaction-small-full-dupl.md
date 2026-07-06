@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
 - 2026-05-11-
 - 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
-- 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
+- 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
 embedding_id: 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mira Murati's Thinking Machines Lab released a closed research preview of TML-In
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-11-]] · [[2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]]
+**Related:** [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-11-]] · [[2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera]] · [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]]
 <!-- graph:end -->

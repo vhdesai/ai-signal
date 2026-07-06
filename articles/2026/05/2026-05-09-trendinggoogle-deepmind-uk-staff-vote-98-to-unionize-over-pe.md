@@ -4,8 +4,8 @@ title: TrendingGoogle DeepMind UK Staff Vote 98% to Unionize Over Pentagon AI Co
 date: '2026-05-09'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://startupfortune.com/google-deepmind-workers-just-voted-to-unionize-over-a-pentagon-deal-and-the-implications-extend-well-beyond-one-ai-lab/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 91ce26bd1a3bf0562bdda91c5d46863f9ee7124e8575da11edcc0cb23c3ed13e

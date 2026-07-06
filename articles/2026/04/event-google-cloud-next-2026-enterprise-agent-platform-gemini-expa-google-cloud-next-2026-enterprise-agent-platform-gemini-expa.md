@@ -6,8 +6,8 @@ date: '2026-04-22'
 source: 'Google Cloud Next 2026: Enterprise Agent Platform, Gemini Expansion, and
   Partner Fund'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26
+url_status: repaired
 digest_source: digests\raw\Google Cloud Next 2026 - Enterprise Agent Platform and
   Gemini Expansion.md
 content_hash: 10c9ca644aa1901bdeda73024e5d8b649bb246d99f571de522f8cc17083ea39a

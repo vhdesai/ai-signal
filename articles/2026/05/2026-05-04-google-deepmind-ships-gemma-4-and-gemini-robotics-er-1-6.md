@@ -4,8 +4,8 @@ title: Google DeepMind ships Gemma 4 and Gemini Robotics-ER 1.6
 date: '2026-05-04'
 source: Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/models/gemini-robotics/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 29a85bbb11fff3b8d63db443583f5d0551d602032f2828c4feda387605943e87

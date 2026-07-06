@@ -4,8 +4,8 @@ title: 'Aggregators: GitHub Trending (via AIToolly) · InforCapital AI Funding T
 date: '2026-05-10'
 source: 'University newsrooms: UC Berkeley'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://orangebot.ai/github-trending-today
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 15ab68466723933b5e83c35563b3f212baf14d258a0c1d8a97e90590faa24904

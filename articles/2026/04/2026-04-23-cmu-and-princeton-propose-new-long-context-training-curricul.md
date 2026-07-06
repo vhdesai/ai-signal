@@ -4,8 +4,8 @@ title: CMU and Princeton propose new long-context training curriculum
 date: '2026-04-23'
 source: The Batch / MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2410.02660v3
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 150ad3621b58fd8d4a766ac660e4981cbe11ce7a786f7f40f6b6b89fc15e4fa3

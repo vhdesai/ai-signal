@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 - 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
@@ -37,5 +38,5 @@ OpenAI offering enterprises two months of free Codex usage to switch off rival c
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]]
+**Related:** [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]]
 <!-- graph:end -->

@@ -18,7 +18,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 embedding_id: 2026-04-23-nothing-ships-ai-native-dictation-tool-across-its-phones
 event_name: ''
 ---
@@ -31,4 +32,5 @@ Nothing launched an on-device dictation feature powered by a small speech-to-tex
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]]
 <!-- graph:end -->

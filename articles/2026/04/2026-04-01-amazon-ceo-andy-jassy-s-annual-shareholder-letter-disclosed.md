@@ -11,8 +11,8 @@ title: Amazon CEO Andy Jassy's annual shareholder letter disclosed that AWS has 
 date: '2026-04-01'
 source: ⚡ BREAKING Reuters
 url_original: null
-url_canonical: https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 7fc8d233c3566885ba50362a66d7c8283bbaec72b19913476d10ac8c3c44deaf
@@ -32,10 +32,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-09-products-tools
+- 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
-- 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 embedding_id: 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 event_name: ''
 ---
@@ -49,5 +49,5 @@ event_name: ''
 
 **Entities:** [[Amazon]] · [[Baidu]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-09-products-tools]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
+**Related:** [[2026-04-09-products-tools]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
 <!-- graph:end -->

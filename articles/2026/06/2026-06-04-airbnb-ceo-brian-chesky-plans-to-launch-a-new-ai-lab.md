@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers
 - 2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
+- 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 embedding_id: 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Chesky announced plans for an AI lab focused on travel and hospitality AI — re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
+**Related:** [[2026-05-26-bloomberg-china-restricts-overseas-travel-for-ai-researchers]] · [[2026-05-27-boston-tries-to-lure-ai-talent-with-california-billionaire-t]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]]
 <!-- graph:end -->

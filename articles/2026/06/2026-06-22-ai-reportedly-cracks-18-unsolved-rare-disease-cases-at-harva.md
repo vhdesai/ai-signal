@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
-- 2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32
 embedding_id: 2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers at Harvard and Boston Children's Hospital used OpenAI's o3 Deep Rese
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-12-antangelmed-103b-parameter-open-source-medical-llm-with-1-32]]
+**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]]
 <!-- graph:end -->

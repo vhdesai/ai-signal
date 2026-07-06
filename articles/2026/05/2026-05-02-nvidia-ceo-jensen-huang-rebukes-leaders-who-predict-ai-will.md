@@ -5,8 +5,8 @@ title: Nvidia CEO Jensen Huang Rebukes Leaders Who Predict AI Will Eliminate Mos
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: ef2261cb5530f270ef38ef05d46e9d33c82c910798f9b9c36653a21ef535ab6b
 normalized_title_hash: 1dad4574159afa19
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 - 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
+- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 embedding_id: 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia CEO Jensen Huang publicly criticized tech industry leaders for what he ca
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]]
+**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
 <!-- graph:end -->

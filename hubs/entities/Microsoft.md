@@ -1,13 +1,47 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 352
+member_count: 386
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 352 connected article(s).
+> Auto-generated entity hub. 386 connected article(s).
 
+- `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
+- `2026-07-04` [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa|Microsoft reportedly plans a unified Copilot app and an always-on "Autopilot" agent]]
+- `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
+- `2026-07-04` [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne|Alibaba’s DAMO Academy AI discovers — and lab-verifies — four new superconductors]]
+- `2026-07-04` [[2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne|Alibaba's DAMO Academy agent "Elements Claw" discovers four new superconductors, validated in the lab]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer|Microsoft plans an August Copilot overhaul, merging consumer and enterprise apps with background "AutoPilot" agents]]
+- `2026-07-03` [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0|Microsoft launches $2.5B "Frontier" enterprise‑AI unit with 6,000 forward‑deployed engineers]]
+- `2026-07-03` [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the|Enterprises Move In: Big Tech Builds Deployment Armies as the AI Stack Splinters]]
+- `2026-07-03` [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac|Anthropic moves to close loopholes that let Chinese firms access Claude]]
+- `2026-07-02` [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep|Microsoft launches “Frontier Company,” an outcome-driven AI-deployment engineering org]]
+- `2026-07-02` [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d|Microsoft launches "Microsoft Frontier," a $2.5B enterprise AI-deployment business]]
+- `2026-07-02` [[2026-07-02-microsoft-launches-frontier-company-a-6-000-person-forward-d|Microsoft launches "Frontier Company," a 6,000-person forward-deployed AI unit]]
+- `2026-07-02` [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed|Microsoft launches "Frontier Company," a $2.5B forward-deployed AI engineering unit]]
+- `2026-07-02` [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a|Microsoft and AWS stand up rival "forward-deployed engineer" armies to make enterprise AI pay off]]
+- `2026-07-01` [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da|National Grid invests $1.75B for 35% of Joulent to power AI data centers]]
+- `2026-07-01` [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l|Microsoft recaps June's Microsoft 365 Copilot feature drop, led by Copilot Cowork GA]]
+- `2026-07-01` [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho|Anthropic ships Claude Sonnet 5 and restores Fable and Mythos after export-control review]]
+- `2026-07-01` [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e|Anthropic restores Claude Fable 5 globally after U.S. lifts emergency export controls]]
+- `2026-06-30` [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t|White House AI crackdown “opens the door” for Chinese models to close the gap]]
+- `2026-06-30` [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s|Ramp/Revelio study: heavy AI adopters grew headcount ~10%, not shrank it]]
+- `2026-06-30` [[2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b|Microsoft prepares fresh layoffs as AI capex passes $100B]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-30` [[2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n|Claude reaches GA in Microsoft Foundry on Azure, running on Nvidia GB300]]
+- `2026-06-26` [[2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti|Italy opens antitrust probe into Microsoft 365 price hike tied to Copilot integration]]
+- `2026-06-26` [[2026-06-26-daily-ai-news-digest-june-26-2026|Daily AI News Digest — June 26, 2026]]
+- `2026-06-26` [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros|Chevron signals more AI data-center power deals after Microsoft's West Texas pact]]
+- `2026-06-25` [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co|Microsoft slides as Stifel cuts target on AI-spend margin concerns]]
+- `2026-06-25` [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far|MIT and Microsoft build a tool to make agentic workflows far cheaper]]
+- `2026-06-25` [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp|Apple and Microsoft raise prices as AI-driven chip demand spikes component costs]]
+- `2026-06-25` [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive|Apple and Microsoft raise hardware prices as AI demand drives up chip costs]]
+- `2026-06-25` [[2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai|Amazon, Microsoft back RAISE US — a $1B nonprofit to retrain AI-displaced workers]]
+- `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud|Amazon commits an additional $13B to India AI and cloud]]
+- `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
 - `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
 - `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
 - `2026-06-22` [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex|Microsoft Signs 20-Year Power Deal with Chevron for West Texas AI Data Center]]

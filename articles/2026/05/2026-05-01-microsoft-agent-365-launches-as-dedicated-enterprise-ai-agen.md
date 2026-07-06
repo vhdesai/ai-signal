@@ -5,8 +5,8 @@ title: Microsoft Agent 365 Launches as Dedicated Enterprise AI Agent Control Pla
 date: '2026-05-01'
 source: DataNorth AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 6d25d56cd2121349cdc6b1ce89fc965f671c09f371bc5f5a98af134445500e64
 normalized_title_hash: 311ed309103707d2

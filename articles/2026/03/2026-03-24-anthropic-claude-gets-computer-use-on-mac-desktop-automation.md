@@ -4,8 +4,8 @@ title: Anthropic Claude Gets Computer Use on Mac — Desktop Automation from iPh
 date: '2026-03-24'
 source: CNBC
 url_original: null
-url_canonical: https://www.anthropic.com/news/claude-opus-4-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: d8a4854bdbda70d3d67df49bd82a542a55e8d0b290c239c2f60e90f705d1c8a9
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
-- 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+- 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
+- 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
 embedding_id: 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's Computer Use feature — in research preview for Claude Pro and Max 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]]
 <!-- graph:end -->

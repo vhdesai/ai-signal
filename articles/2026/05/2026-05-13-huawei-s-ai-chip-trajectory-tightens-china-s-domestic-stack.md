@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o
-- 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
 embedding_id: 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Huawei's domestic AI chip line is closing the gap with mid-range Nvidia parts on
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-23-nvidia-concedes-china-ai-chip-market-to-huawei-china-races-o]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]]
+**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]]
 <!-- graph:end -->

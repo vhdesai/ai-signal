@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
+- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
 embedding_id: 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA published results for NVFP4, a 4-bit floating-point format designed for f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]]
 <!-- graph:end -->

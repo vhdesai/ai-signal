@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 71
+member_count: 76
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 71 connected article(s).
+> Auto-generated entity hub. 76 connected article(s).
 
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
+- `2026-06-26` [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri|Ten major tech leaders are already deep in bear-market territory]]
+- `2026-06-25` [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co|Microsoft slides as Stifel cuts target on AI-spend margin concerns]]
 - `2026-06-22` [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad|Oracle Discloses ~21,000 Job Cuts Over 12 Months, Citing AI Adoption]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-11` [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie|Oracle Beat Earnings but Fell 11% — AI Capex Anxiety Intensifies]]

@@ -4,8 +4,8 @@ title: EU AI Act Simplification Deal Delays High-Risk Rules, Bans Nudification A
 date: '2026-05-07'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 184dba9d26b63892b671a290f51cc1bd6fa4a26b45bfff63b80ee055aa3136ec
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica
 - 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
-- 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
+- 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
 embedding_id: 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The European Union reached a provisional deal to simplify its AI Act implementat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]]
+**Related:** [[2026-05-07-eu-ai-act-simplification-high-risk-deadlines-extended-nudifi]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]]
 <!-- graph:end -->

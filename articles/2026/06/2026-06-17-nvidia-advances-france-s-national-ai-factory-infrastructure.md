@@ -21,8 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
+- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 embedding_id: 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Activation of France's national AI compute infrastructure — AI factories, nati
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]]
+**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]]
 <!-- graph:end -->

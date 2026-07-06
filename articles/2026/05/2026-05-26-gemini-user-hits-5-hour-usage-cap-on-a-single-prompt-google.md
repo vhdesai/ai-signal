@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
+- 2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch
 - 2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail
-- 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 embedding_id: 2026-05-26-gemini-user-hits-5-hour-usage-cap-on-a-single-prompt-google
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Gemini 3.5 Pro user on the AI Ultra plan exhausted their 5-hour allotment on a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
+**Related:** [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch]] · [[2026-05-26-all-85-on-demand-sessions-from-google-i-o-2026-are-now-avail]]
 <!-- graph:end -->

@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 - 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
 - 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
-- 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
+- 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
 embedding_id: 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic is reportedly negotiating to rent servers powered by Microsoft's in-ho
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa]]
+**Related:** [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: OpenAI Releases GPT-5.5 and GPT-5.5 Pro, Now Available on Databricks Hot
 date: '2026-04-22'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.databricks.com/blog/run-openai-models-directly-databricks
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 02487bd9598391bc323ced3ed6c0ea9668502d14cd8acdc8c58bc760c9da8978

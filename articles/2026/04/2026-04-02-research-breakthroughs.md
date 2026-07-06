@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
+- 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit
 embedding_id: 2026-04-02-research-breakthroughs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Brain-Inspired Memristor Chip Achieves up to 2,000× Greater AI Energy Efficienc
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit]]
 <!-- graph:end -->

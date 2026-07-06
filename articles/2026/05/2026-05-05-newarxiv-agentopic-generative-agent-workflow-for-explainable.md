@@ -4,8 +4,8 @@ title: 'NEWarXiv: Agentopic — generative agent workflow for explainable topic 
 date: '2026-05-05'
 source: arXiv:2605.00833
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2605.00833
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 7f3d9c4123fa1bc85d94a3a9096baa5c8a083ef4391fcc52204280069ab74078
 normalized_title_hash: ed3eaec8c485eae2

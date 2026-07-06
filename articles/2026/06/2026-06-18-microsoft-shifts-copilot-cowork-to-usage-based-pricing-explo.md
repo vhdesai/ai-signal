@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
-- 2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int
+- 2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api
 embedding_id: 2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Usage-based billing replaces flat-rate (unsustainable power-user costs). Activel
 
 **Entities:** [[DeepSeek]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int]]
+**Related:** [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-07-01-deepseek-introduces-peak-hour-surge-pricing-on-its-v4-api]]
 <!-- graph:end -->

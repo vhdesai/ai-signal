@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 - 2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai
-- 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
+- 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 embedding_id: 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ's daily roundup highlights employers reporting that AI is creating new entry
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]]
+**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]] · [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]]
 <!-- graph:end -->

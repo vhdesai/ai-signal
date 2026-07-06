@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
 - 2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what
-- 2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans
+- 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 embedding_id: 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Bloomberg reported Meta is exploring paid AI subscription tiers – a notable st
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-05-28-meta-launches-paid-social-subscriptions-plus-tiered-ai-plans]]
+**Related:** [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-28-meta-launches-paid-subscriptions-for-instagram-facebook-what]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]]
 <!-- graph:end -->

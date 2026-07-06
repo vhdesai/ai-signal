@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-05-22-microsoft-blocked-partners-including-databricks-from-connect
-- 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
-- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
+- 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 embedding_id: 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chevron reached a power agreement with Microsoft for a West Texas AI data center
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
+**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]]
 <!-- graph:end -->

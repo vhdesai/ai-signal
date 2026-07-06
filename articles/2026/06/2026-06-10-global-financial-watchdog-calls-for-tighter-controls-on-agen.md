@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
+- 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
+- 2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
-- 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
-- 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 embedding_id: 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Global financial regulators are calling for tighter controls on agentic AI in fi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]]
+**Related:** [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]]
 <!-- graph:end -->

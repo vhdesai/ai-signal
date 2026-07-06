@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
+- 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
 - 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
-- 2026-05-06-newgemini-3-2-flash-what-we-know-before-google-i-o-2026
 embedding_id: 2026-06-15-new-flash-kmeans-io-aware-exact-k-means-claimed-200-faster-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MarkTechPost's lead June 15 research item describes Flash-KMeans, an IO-aware ex
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-06-newgemini-3-2-flash-what-we-know-before-google-i-o-2026]]
+**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that]] · [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
 - 2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward
@@ -37,5 +38,5 @@ Approaching $1T valuations while burning billions on compute. OpenAI: .7B cash b
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward]]
+**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-05-openai-and-anthropic-share-90-investors-as-both-race-toward]]
 <!-- graph:end -->

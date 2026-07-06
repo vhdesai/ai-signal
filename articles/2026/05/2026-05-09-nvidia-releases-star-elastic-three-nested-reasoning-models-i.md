@@ -4,8 +4,8 @@ title: 'NVIDIA Releases Star Elastic: Three Nested Reasoning Models in One Check
 date: '2026-05-09'
 source: MarkTechPost
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marktechpost.com/2026/05/09/nvidia-ai-releases-star-elastic-one-checkpoint-that-contains-30b-23b-and-12b-reasoning-models-with-zero-shot-slicing/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 2d645b69729863d95eb609af489956a6110bb39274fdb8a6100bdaebb549ed8c
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
-- 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 embedding_id: 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA's researchers introduced Star Elastic, a post-training method that embeds
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]]
+**Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso]]
 <!-- graph:end -->

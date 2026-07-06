@@ -11,8 +11,8 @@ title: OpenAI disclosed on April 11 that a widely-used third-party developer lib
 date: '2026-04-11'
 source: ⚡ BREAKING TechCrunch
 url_original: null
-url_canonical: https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html?m=1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 028737f157c8d5d44f6826b2b6d59623e420bf0bdc144a3053b8cbe21b75f432

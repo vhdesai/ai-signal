@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-- 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
+- 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 embedding_id: 2026-05-28-claude-opus-4-8-dynamic-workflows-target-multi-agent-enterpr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Beyond raw capability gains, Opus 4.8 introduces "Dynamic Workflows," letting a 
 
 **Entities:** [[Intel]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]]
+**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]]
 <!-- graph:end -->

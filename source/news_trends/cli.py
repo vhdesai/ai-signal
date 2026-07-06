@@ -34,6 +34,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="Cap the number of URLs processed by validate-urls/repair-urls.",
     )
     parser.add_argument(
+        "--repair-timeout", type=float, default=1800.0,
+        help="Time budget in seconds for the repair-urls network phase "
+             "(default 1800 = 30 min). Set to 0 to disable the time box.",
+    )
+    parser.add_argument(
+        "--repair-workers", type=int, default=10,
+        help="Number of concurrent search/fetch workers used by repair-urls "
+             "(default 10).",
+    )
+    parser.add_argument(
+        "--repair-stop-file", type=Path, default=None,
+        help="Sentinel file that requests graceful early termination of "
+             "repair-urls (default: indexes/repair.stop).",
+    )
+    parser.add_argument(
         "--no-embeddings", action="store_true",
         help="Skip Chroma/semantic embedding work in the index stage.",
     )
@@ -63,7 +78,13 @@ def run_stage(command: str, cfg: Config, args: argparse.Namespace) -> dict:
     if command == "validate-urls":
         return run_validate_urls(cfg, limit=args.limit)
     if command == "repair-urls":
-        return run_repair_urls(cfg, limit=args.limit)
+        return run_repair_urls(
+            cfg,
+            limit=args.limit,
+            time_budget_s=args.repair_timeout,
+            max_workers=args.repair_workers,
+            stop_file=args.repair_stop_file,
+        )
     if command == "clean-repairs":
         return run_clean_repairs(cfg)
     if command == "build-site":

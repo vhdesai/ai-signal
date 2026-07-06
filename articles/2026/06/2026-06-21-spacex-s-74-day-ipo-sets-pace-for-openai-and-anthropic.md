@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 - 2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and
-- 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
 embedding_id: 2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SpaceX went from confidential filing to listing in just 74 days—far faster tha
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
+**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]] · [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and]]
 <!-- graph:end -->

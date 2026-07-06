@@ -1,13 +1,35 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 189
+member_count: 211
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 189 connected article(s).
+> Auto-generated entity hub. 211 connected article(s).
 
+- `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
+- `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0|Microsoft launches $2.5B "Frontier" enterprise‑AI unit with 6,000 forward‑deployed engineers]]
+- `2026-07-03` [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the|Enterprises Move In: Big Tech Builds Deployment Armies as the AI Stack Splinters]]
+- `2026-07-02` [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d|Microsoft launches "Microsoft Frontier," a $2.5B enterprise AI-deployment business]]
+- `2026-07-02` [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a|Microsoft and AWS stand up rival "forward-deployed engineer" armies to make enterprise AI pay off]]
+- `2026-07-01` [[2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab|U.S. lifts export controls on Claude Fable 5 and Mythos 5; Fable 5 restored globally]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute|Meta plans a cloud business to sell excess AI compute]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c|Meta plans a cloud business ("Meta Compute") to sell excess AI capacity]]
+- `2026-07-01` [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho|Anthropic ships Claude Sonnet 5 and restores Fable and Mythos after export-control review]]
+- `2026-07-01` [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e|Anthropic restores Claude Fable 5 globally after U.S. lifts emergency export controls]]
+- `2026-07-01` [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng|Amazon's AWS commits $1 billion to a new "Forward Deployed Engineering" organization]]
+- `2026-07-01` [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco|Agentic AI Gets Cheaper — and Cost, Deployment & Reliability Become the Real Story]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-30` [[2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n|Claude reaches GA in Microsoft Foundry on Azure, running on Nvidia GB300]]
+- `2026-06-28` [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on|OpenAI weighs a 2027 IPO delay as Anthropic overtakes it on valuation]]
+- `2026-06-26` [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request|OpenAI to stagger GPT-5.6 release at White House request]]
+- `2026-06-25` [[2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai|Amazon, Microsoft back RAISE US — a $1B nonprofit to retrain AI-displaced workers]]
+- `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud|Amazon commits an additional $13B to India AI and cloud]]
+- `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct|Amazon commits an additional $13B to AI and cloud infrastructure in India]]
+- `2026-06-24` [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia|Amazon’s Zoox unveils redesigned robotaxi ahead of commercial launch]]
 - `2026-06-22` [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste|Nvidia Introduces Halos for Robotics — Full-Stack Safety System for Physical AI]]
 - `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
 - `2026-06-18` [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers|Amazon Weighs Selling Trainium Chips to Outside Data Centers]]

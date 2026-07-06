@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: SAP
-member_count: 20
+member_count: 21
 ---
 
 # SAP
 
-> Auto-generated entity hub. 20 connected article(s).
+> Auto-generated entity hub. 21 connected article(s).
 
+- `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-27` [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps|Snowflake jumps 35% as it shows immunity to the SaaS-pocalypse; Salesforce dips on softer outlook]]

@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 - 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports
-- 2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji
-- 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
+- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 embedding_id: 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia CEO Jensen Huang was personally invited by President Trump to join the U.
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]]
+**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
 <!-- graph:end -->

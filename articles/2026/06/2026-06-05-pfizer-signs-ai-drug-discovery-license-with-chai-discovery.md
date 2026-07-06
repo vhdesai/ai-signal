@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
 - 2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i
+- 2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
-- 2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for
 embedding_id: 2026-06-05-pfizer-signs-ai-drug-discovery-license-with-chai-discovery
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Pfizer signed a license agreement with Chai Discovery to accelerate drug discove
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai]] · [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for]]
+**Related:** [[2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai]] · [[2026-05-18-new-sandboxaq-integrates-drug-discovery-ai-models-directly-i]] · [[2026-07-02-takeda-signs-ai-drug-discovery-pact-with-insilico-worth-up-t]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]]
 <!-- graph:end -->

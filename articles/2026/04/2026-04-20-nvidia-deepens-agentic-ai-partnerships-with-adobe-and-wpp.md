@@ -4,8 +4,8 @@ title: NVIDIA Deepens Agentic AI Partnerships With Adobe and WPP
 date: '2026-04-20'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/
+url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: d7e9a62d182ab8e813351d8d713ab85524d42a866f718dc3061b21a1af3435f9
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
+- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
+- 2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin
 - 2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to
-- 2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea
-- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 embedding_id: 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA expanded strategic collaborations with Adobe and WPP to embed agentic AI 
 
 **Entities:** [[Adobe]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]] · [[2026-06-01-nvidia-foxconn-and-taiwan-medical-centers-push-agentic-ai-in]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-05-28-nvidia-research-advances-robotics-from-simulation-to-the-rea]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]]
+**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-05-28-nvidia-research-presents-eight-icra-papers-advancing-sim-to]]
 <!-- graph:end -->

@@ -1,13 +1,46 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 491
+member_count: 524
 ---
 
 # Google
 
-> Auto-generated entity hub. 491 connected article(s).
+> Auto-generated entity hub. 524 connected article(s).
 
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-03` [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake|OpenAI proposes giving the U.S. government a 5% equity stake]]
+- `2026-07-03` [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol|Anthropic taps Freshfields to steer a potential trillion-dollar IPO as AI concentrates venture capital]]
+- `2026-07-02` [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice|xAI launches Grok Voice AI Agent Builder (beta) — build a voice agent in under two minutes]]
+- `2026-07-02` [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c|Z.ai launches ZCode, a free GLM-5.2 coding IDE, to challenge Cursor and Claude Code]]
+- `2026-07-02` [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel|US nears voluntary standards for how frontier models get released]]
+- `2026-07-02` [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code|China's Z.ai launches ZCode to challenge Cursor, Claude Code, and Copilot]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute|Meta plans a cloud business to sell excess AI compute]]
+- `2026-07-01` [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c|Meta plans a cloud business ("Meta Compute") to sell excess AI capacity]]
+- `2026-07-01` [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho|Anthropic ships Claude Sonnet 5 and restores Fable and Mythos after export-control review]]
+- `2026-07-01` [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e|Anthropic restores Claude Fable 5 globally after U.S. lifts emergency export controls]]
+- `2026-06-30` [[2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu|Virginia Tech's RNAbpFlow matches AlphaFold 3 on RNA structure with far less data]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-30` [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab|Google introduces TabFM, a zero-shot foundation model for tabular data]]
+- `2026-06-30` [[2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de|Google brings Nano Banana 2 Lite and Gemini Omni Flash to developers]]
+- `2026-06-30` [[2026-06-30-google-deepmind-ships-nano-banana-2-lite-and-brings-gemini-o|Google DeepMind ships Nano Banana 2 Lite and brings Gemini Omni Flash to developers]]
+- `2026-06-30` [[2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n|Claude reaches GA in Microsoft Foundry on Azure, running on Nvidia GB300]]
+- `2026-06-29` [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c|Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze Bites]]
+- `2026-06-29` [[2026-06-29-google-makes-personalized-gemini-image-generation-free-for-u|Google makes personalized Gemini image generation free for U.S. users]]
+- `2026-06-29` [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch|Google caps Meta's Gemini usage amid a compute crunch]]
+- `2026-06-29` [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits|Google capped Meta's Gemini usage as the compute crunch hits even hyperscalers]]
+- `2026-06-29` [[2026-06-29-daily-ai-news-digest-june-29-2026|Daily AI News Digest – June 29, 2026]]
+- `2026-06-28` [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai|Washington, Capital & Compute Now Set the Ceiling on AI]]
+- `2026-06-28` [[2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp|Google rations Gemini capacity to Meta amid a deepening compute crunch]]
+- `2026-06-28` [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites|Google caps Meta's Gemini usage as compute scarcity bites]]
+- `2026-06-27` [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre|A24's $75M Google DeepMind "AI research partnership" sparks creative-industry backlash]]
+- `2026-06-26` [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw|OpenAI reveals "Jalapeño" inference chip as Big Tech hedges away from Nvidia]]
+- `2026-06-26` [[2026-06-26-daily-ai-news-digest-june-26-2026|Daily AI News Digest — June 26, 2026]]
+- `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud|Amazon commits an additional $13B to India AI and cloud]]
+- `2026-06-24` [[2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas|Google makes computer use a built-in tool in Gemini 3.5 Flash]]
+- `2026-06-24` [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash|Google builds "computer use" into Gemini 3.5 Flash]]
+- `2026-06-24` [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor|AI's Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War]]
+- `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
 - `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
 - `2026-06-22` [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools|Google Invests $75M in A24 for AI-Powered Filmmaking Tools]]
 - `2026-06-22` [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools|Google DeepMind Invests ~$75M in A24 for AI Filmmaking Tools]]

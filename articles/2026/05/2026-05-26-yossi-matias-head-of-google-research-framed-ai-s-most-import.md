@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 - 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 - 2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 embedding_id: 2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import
 event_name: ''
 ---
@@ -44,5 +44,5 @@ event_name: ''
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-22-ai-ipo-cluster-spacex-openai-anthropic-draws-dot-com-bubble]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
 <!-- graph:end -->

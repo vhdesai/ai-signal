@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 27
+member_count: 29
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 27 connected article(s).
+> Auto-generated entity hub. 29 connected article(s).
 
+- `2026-06-26` [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea|Samsung Group to unveil ~$648B (1,000 trillion won) South Korea investment in chips and AI]]
+- `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-04` [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s|TSMC Warns AI Demand Is Straining the Entire Semiconductor Supply Chain]]

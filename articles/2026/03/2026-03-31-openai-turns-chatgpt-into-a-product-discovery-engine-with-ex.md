@@ -4,7 +4,7 @@ title: OpenAI Turns ChatGPT into a Product Discovery Engine with Expanded Shoppi
 date: '2026-03-31'
 source: AI News Daily
 url_original: null
-url_canonical: https://www.pymnts.com/commerce/ecommerce/2026/openai-enhances-product-discovery-with-visual-shopping/
+url_canonical: https://www.cnbc.com/2026/03/24/openai-revamps-shopping-experience-in-chatgpt-after-instant-checkout.html
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

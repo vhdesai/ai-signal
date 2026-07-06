@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
-- 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 embedding_id: 2026-05-25-nvidia-flare-tutorial-spotlights-resurgent-fedavg-vs-fedprox
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MarkTechPost published a hands-on guide comparing FedAvg and FedProx federated-l
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]]
 <!-- graph:end -->

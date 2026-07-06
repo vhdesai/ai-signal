@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 77
+member_count: 85
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 77 connected article(s).
+> Auto-generated entity hub. 85 connected article(s).
 
+- `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-02` [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code|China's Z.ai launches ZCode to challenge Cursor, Claude Code, and Copilot]]
+- `2026-06-30` [[2026-06-30-tuesday-june-30-2026|Tuesday, June 30, 2026]]
+- `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c|Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze Bites]]
+- `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead|Nvidia's China AI-chip sales stall as Huawei takes the lead]]
+- `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home|Nvidia's China AI-chip sales stall as Huawei takes the home market lead]]
+- `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival|Nvidia's China AI-chip sales stall as Huawei and local rivals take the lead]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden|Huawei Confirms Ascend 950DT for August; Annual AI Chip Cadence]]
 - `2026-06-06` [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled|Huawei Confirms Ascend 950DT AI Chip to Debut in August; Pledges Annual Chip Cadence]]

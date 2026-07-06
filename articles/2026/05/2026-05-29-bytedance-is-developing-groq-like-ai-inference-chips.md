@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
 - 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
 - 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
+- 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 embedding_id: 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information reported that ByteDance is developing a new AI inference chip wi
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
+**Related:** [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
-- 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 embedding_id: 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reflection AI agreed to pay SpaceX $150M/month from July 2026 through 2029 for N
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]]
+**Related:** [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: 'Musk on the Stand: "Fool," a Terminator Warning, and xAI''s Covert Use o
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: b5ab446b59094d1cde966922e502d11ed54155e412886cc63bc106345862c7eb
 normalized_title_hash: 8b8a4e55ce3b589d

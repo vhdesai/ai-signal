@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
+- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 - 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 embedding_id: 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ One year after Huang and PM Starmer framed Britain as "an AI maker, not an AI ta
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]]
+**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]]
 <!-- graph:end -->

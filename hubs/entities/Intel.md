@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 31
+member_count: 33
 ---
 
 # Intel
 
-> Auto-generated entity hub. 31 connected article(s).
+> Auto-generated entity hub. 33 connected article(s).
 
+- `2026-06-26` [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw|OpenAI reveals "Jalapeño" inference chip as Big Tech hedges away from Nvidia]]
+- `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
 - `2026-06-08` [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally|Intel's Full-Stack AI Pivot Drives ~8.5% Rally]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]

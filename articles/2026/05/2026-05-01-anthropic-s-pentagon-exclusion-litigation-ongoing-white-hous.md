@@ -4,8 +4,8 @@ title: 'Anthropic''s Pentagon Exclusion: Litigation Ongoing, White House Weighs 
 date: '2026-05-01'
 source: TechCrunch / Decrypt / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://apnews.com/article/anthropic-pentagon-ai-hegseth-dario-amodei-b72d1894bc842d9acf026df3867bee8a
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: b19f157ed0c35ee9493437a03d77e75d6d2161c245aafc88d0b1b5a6b924ae15

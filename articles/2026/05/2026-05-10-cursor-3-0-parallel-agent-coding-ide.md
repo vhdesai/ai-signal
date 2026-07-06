@@ -4,8 +4,8 @@ title: Cursor 3.0 — Parallel Agent Coding IDE
 date: '2026-05-10'
 source: MSN
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://forum.cursor.com/t/parallel-agent-execution-via-internal-branching/51060
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: f7973510137e30ea85b002b2fbe4795e12f096c40146e811e75d74263ae4df0e
@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 - 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
-- 2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co
+- 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
 embedding_id: 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor 3.0 launched an "Agents Window" as a central workspace for orchestrating 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co]]
+**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]]
 <!-- graph:end -->

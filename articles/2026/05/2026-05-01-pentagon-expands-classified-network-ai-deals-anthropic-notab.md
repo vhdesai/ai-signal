@@ -4,8 +4,8 @@ title: Pentagon expands classified-network AI deals — Anthropic notably absent
 date: '2026-05-01'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 0c79d4e09cb5cbead8e9213212e30f4320e5288f2451bccdb9ee7a717a929503
 normalized_title_hash: 9ca610d4e03bec10

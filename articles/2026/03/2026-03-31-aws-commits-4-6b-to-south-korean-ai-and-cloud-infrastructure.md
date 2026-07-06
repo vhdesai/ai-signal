@@ -4,8 +4,8 @@ title: AWS Commits $4.6B to South Korean AI and Cloud Infrastructure by 2031
 date: '2026-03-31'
 source: Korea JoongAng Daily
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.asiae.co.kr/en/article/2025102914360064371
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 39cc5465e154617fc69daec5c9c1e2e3829268682d71250ea6bb0d9f4121e243
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
+- 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
+- 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
-- 2026-04-09-products-tools
-- 2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge
-- 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
+- 2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng
 embedding_id: 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon Web Services Korea disclosed plans to invest 7 trillion won (~$4.6B) in S
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-04-09-products-tools]] · [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]]
 <!-- graph:end -->

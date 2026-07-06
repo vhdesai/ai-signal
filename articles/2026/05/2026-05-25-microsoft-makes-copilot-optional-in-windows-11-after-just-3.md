@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
 - 2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+- 2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 embedding_id: 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Windows 11 April 2026 update adds an official uninstall path for Copilot thr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]]
+**Related:** [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-05-30-github-copilot-shifts-to-token-based-billing-sparking-develo]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
 <!-- graph:end -->

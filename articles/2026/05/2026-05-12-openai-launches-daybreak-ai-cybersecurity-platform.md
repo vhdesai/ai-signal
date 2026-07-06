@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
-- 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
+- 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
 embedding_id: 2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced Daybreak, an AI security system that detects software vulnerabi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
+**Related:** [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
+- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
-- 2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber
 embedding_id: 2026-05-27-qumulo-introduces-cloud-ai-accelerator-for-unstructured-data
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Qumulo announced a Cloud AI Accelerator service that connects its unstructured-d
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber]]
+**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]]
 <!-- graph:end -->

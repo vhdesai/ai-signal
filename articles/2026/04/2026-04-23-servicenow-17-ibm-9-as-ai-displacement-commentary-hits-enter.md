@@ -4,8 +4,8 @@ title: ServiceNow −17%, IBM −9% as AI-displacement commentary hits enterpris
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hoodline.com/2026/04/ai-panic-turns-servicenow-ibm-into-wall-street-s-new-punching-bags/
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 7a0b0696b781a2eec5c7f2826c9293e16e0da0fe30c895d63dd6ca8ece069840
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
+- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
-- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 embedding_id: 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow shares fell 17% and IBM dropped 9% after earnings-call commentary sug
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]]
+**Related:** [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
 <!-- graph:end -->

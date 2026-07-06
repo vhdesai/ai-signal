@@ -23,7 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
+- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
+- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Axios framed simultaneous IPO filings and model releases as igniting a new race 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
+**Related:** [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
 <!-- graph:end -->

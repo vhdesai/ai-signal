@@ -13,7 +13,7 @@ title: Anthropic launched Project Glasswing, partnering with AWS, Apple, Broadco
 date: '2026-04-11'
 source: ⚡ BREAKING CNBC
 url_original: null
-url_canonical: https://www.brside.com/blog/what-project-glasswing-means-for-cisos
+url_canonical: https://www.anthropic.com/project/glasswing
 url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md

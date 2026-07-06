@@ -5,8 +5,8 @@ title: Subquadratic AI Raises $29M Seed for SubQ — 12M-Token Context with Subq
 date: '2026-05-05'
 source: FutureAGI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: b3bd81ad3f347bce584bdf8ff97a3d8dd354d7b141913ee28f8cc517a9eaf2f5

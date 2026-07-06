@@ -4,7 +4,7 @@ title: Salesforce Releases VoiceAgentRAG — 316x Faster Retrieval for Voice AI
 date: '2026-03-30'
 source: MarkTechPost
 url_original: null
-url_canonical: https://note.com/lucky_allium8251/n/n45dbc0b7269f?hl=en
+url_canonical: https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

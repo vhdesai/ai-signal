@@ -9,8 +9,8 @@ title: 'Arm Holdings — whose ISA underpins chips from Apple, Amazon, Nvidia, a
 date: '2026-04-02'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html
+url_status: repaired
 digest_source: digests\raw\2026-04-02_082458_Inbox_Daily AI News Digest – April 2,
   2026.md
 content_hash: 4b44bfd1df5a361db48425e10276bf2c0ff09e6dd691e4865d917d8daefb5795

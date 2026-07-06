@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
+- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - 2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
@@ -37,5 +38,5 @@ Unitree announced H2 Plus, a humanoid robot positioned as an NVIDIA Isaac GR00T 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
 <!-- graph:end -->

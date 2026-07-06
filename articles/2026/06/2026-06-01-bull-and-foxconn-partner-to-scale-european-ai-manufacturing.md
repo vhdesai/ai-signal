@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
+- 2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 embedding_id: 2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Atos subsidiary Bull and Foxconn (Hon Hai) announced a partnership to manufactur
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
+**Related:** [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]] · [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]]
 <!-- graph:end -->

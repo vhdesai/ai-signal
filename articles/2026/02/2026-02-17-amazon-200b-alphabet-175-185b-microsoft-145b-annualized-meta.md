@@ -8,8 +8,8 @@ title: Amazon $200B, Alphabet $175–185B, Microsoft ~$145B annualized, Meta $11
 date: '2026-02-17'
 source: Meta–NVIDIA expand into Vera Rubin generation — NVIDIA Investor Relations
 url_original: null
-url_canonical: https://www.useluminix.com/reports/industry-analysis/is-the-ai-bubble-bursting-a-bear-case-on-openai-anthropic-and-alphabet
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: a80e09248d68607213d8b25fbfea3c2fa8e62ff1dcc96e8128808ed5ec8daefb
 normalized_title_hash: 862ba89960fc9674

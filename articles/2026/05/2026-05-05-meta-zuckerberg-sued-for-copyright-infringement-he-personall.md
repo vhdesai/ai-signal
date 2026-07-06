@@ -5,8 +5,8 @@ title: Meta & Zuckerberg Sued for Copyright Infringement — He "Personally Auth
 date: '2026-05-05'
 source: Variety
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 6478f3eeebe2d9e10969de1c2ab974681a64af016dfd23cecb2bc85c5aa73851
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
+- 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 embedding_id: 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Five major publishers and author Scott Turow filed suit against Meta and CEO Mar
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]]
+**Related:** [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]]
 <!-- graph:end -->

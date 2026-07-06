@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
 - 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
+- 2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain
 embedding_id: 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Foxconn and Intel announced a strategic collaboration spanning silicon, rack, sy
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]]
+**Related:** [[2026-06-01-bull-and-foxconn-partner-to-scale-european-ai-manufacturing]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain]]
 <!-- graph:end -->

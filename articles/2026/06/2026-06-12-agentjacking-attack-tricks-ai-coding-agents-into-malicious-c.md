@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu
-- 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 embedding_id: 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 event_name: ''
 ---
@@ -36,5 +36,5 @@ attack class: autonomous agents remain systematically exploitable.
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]]
+**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]]
 <!-- graph:end -->

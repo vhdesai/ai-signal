@@ -5,8 +5,8 @@ title: Jensen Huang Delivers CMU Commencement Keynote, Receives Honorary Doctora
 date: '2026-05-10'
 source: 🔗 CMU News  · 🏛 Carnegie Mellon University / NVIDIA
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cmu.edu/leadership/president/campus-comms/03-24-26
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: f32340a964fd39745488c291323c89a683092432e05319c46ba891545faded33

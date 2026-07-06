@@ -5,8 +5,8 @@ title: DeepSeek Eyes $50B Valuation in First External Round as Huawei Chip Migra
 date: '2026-05-08'
 source: Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://mlq.ai/news/deepseek-raises-74-billion-at-50-billion-valuation-in-first-outside-funding-round/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 4cc842b1fd12dbd32e8997a98d9e7ce0fa17f94aca0bc835272dc652ef6c96f9

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 embedding_id: 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A position paper by Bensalem, Dong, Franzle, Huang, Kroger, Nickovic, Nouri, Roy
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
+**Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]]
 <!-- graph:end -->

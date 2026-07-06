@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
+- 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
 - 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
-- 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 embedding_id: 2026-05-27-alpha-modus-launches-claude-sonnet-4-6-powered-retail-ai-pla
 event_name: ''
 ---
@@ -40,5 +40,5 @@ ARIA — a PaaS for physical retail — ingests POS, in-store camera, Wi-Fi, loy
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
+**Related:** [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]]
 <!-- graph:end -->

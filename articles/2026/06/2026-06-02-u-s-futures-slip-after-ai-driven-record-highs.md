@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
+- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
-- 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 embedding_id: 2026-06-02-u-s-futures-slip-after-ai-driven-record-highs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ U.S. stock futures pointed lower Tuesday after major indexes hit all-time highs 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
+**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]]
 <!-- graph:end -->

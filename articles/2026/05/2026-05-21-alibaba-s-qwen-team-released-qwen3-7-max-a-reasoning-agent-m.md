@@ -7,8 +7,8 @@ title: Alibaba's Qwen team released Qwen3.7-Max, a reasoning-agent model with a 
 date: '2026-05-21'
 source: MarkTechPost | MarkTechPost
 url_original: null
-url_canonical: https://www.mindstudio.ai/blog/what-is-qwen-3-6-plus-agentic-coding-model
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: e527dbbf30a2a78c7dec6694993ccfb187352370095c2cf9cb9c3a0ea981bfc8

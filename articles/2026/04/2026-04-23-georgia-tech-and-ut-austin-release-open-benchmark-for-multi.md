@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
+- 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 - 2026-04-15-research-breakthroughs
-- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Researchers at Georgia Tech and UT Austin published MA-Bench, an evaluation suit
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-04-15-research-breakthroughs]]
 <!-- graph:end -->

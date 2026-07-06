@@ -9,7 +9,7 @@ title: Elon Musk's xAI has filed suit against the State of Colorado, challenging
 date: '2026-04-11'
 source: Plural Policy
 url_original: null
-url_canonical: https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination
+url_canonical: https://coloradosun.com/2026/04/10/elon-musk-colorado-ai-law-federal-court-lawsuit/
 url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md

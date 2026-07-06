@@ -5,7 +5,7 @@ title: 'arXiv cs.AI: 337 New Papers on March 31 — Agentic RL, LLM Monitorabili
 date: '2026-03-31'
 source: arXiv
 url_original: null
-url_canonical: https://arxiv.org/list/cs.AI/new
+url_canonical: https://arxiv.org/abs/2602.04813
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

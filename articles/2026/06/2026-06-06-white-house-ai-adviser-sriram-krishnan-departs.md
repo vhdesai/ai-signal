@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat
 - 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
@@ -37,5 +38,5 @@ Krishnan is leaving as the administration negotiates equity stakes, implements a
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]] · [[2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours]]
+**Related:** [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]] · [[2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours]]
 <!-- graph:end -->

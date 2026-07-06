@@ -8,8 +8,8 @@ title: TSMC reported record first-quarter revenue of $35.6 billion, a 35% year-o
 date: '2026-04-11'
 source: Cerebras · AICerts
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/tsmcs-q1-revenue-jumps-35-053612040.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 875c31fd15c2b4f214bfc1d1273dae966250fa01a85d8d2c0df4d5a0a1e6dbbf

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
+- 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
-- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
-- 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 embedding_id: 2026-06-08-software-m-a-deals-hit-covid-era-lows-amid-ai-disruption
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Software M&A volume has fallen to COVID-era lows, driven by AI-related disruptio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
+**Related:** [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]]
 <!-- graph:end -->

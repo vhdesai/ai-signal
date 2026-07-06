@@ -5,8 +5,8 @@ title: AI Coding Agent Deletes Entire Production Database in 9 Seconds, Igniting
 date: '2026-04-27'
 source: The Neuron
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
+url_status: repaired
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 60298e2acbba12a7556572a5a9b12229eb85ed425d0451f468e9c897b043b35f
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 embedding_id: 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PocketOS founder Jer Crane's account — receiving over 3,400 likes on X — des
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-05-12-ai-coders-carry-half-open-laptops-to-keep-agents-running]]
 <!-- graph:end -->

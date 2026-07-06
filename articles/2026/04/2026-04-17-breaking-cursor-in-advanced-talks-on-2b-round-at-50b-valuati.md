@@ -4,7 +4,7 @@ title: Breaking Cursor in Advanced Talks on $2B Round at $50B+ Valuation
 date: '2026-04-17'
 source: Bloomberg / OpenTools
 url_original: null
-url_canonical: https://doolpa.com/news/cursor-2b-funding-50b-valuation-anysphere-andreessen-horowitz-april-2026
+url_canonical: https://techstartups.com/2026/04/17/cursor-in-talks-to-raise-2b-at-50b-valuation-as-revenue-surges-and-ai-coding-wars-heat-up/
 url_status: repaired
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
