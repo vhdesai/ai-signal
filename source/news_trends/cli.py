@@ -34,9 +34,9 @@ def build_parser() -> argparse.ArgumentParser:
         help="Cap the number of URLs processed by validate-urls/repair-urls.",
     )
     parser.add_argument(
-        "--repair-timeout", type=float, default=1800.0,
+        "--repair-timeout", type=float, default=3600.0,
         help="Time budget in seconds for the repair-urls network phase "
-             "(default 1800 = 30 min). Set to 0 to disable the time box.",
+             "(default 3600 = 60 min). Set to 0 to disable the time box.",
     )
     parser.add_argument(
         "--repair-workers", type=int, default=10,

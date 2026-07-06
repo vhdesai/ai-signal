@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: AiThority
 url_original: https://aithority.com/machine-learning/smartbear-advances-testcomplete-with-vision-ai-enabling-automated-testing-for-highly-critical-visual-applications/
 url_canonical: https://aithority.com/machine-learning/smartbear-advances-testcomplete-with-vision-ai-enabling-automated-testing-for-highly-critical-visual-applications/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 3c81d65fedadbfc214d6f9175d432b23082c37753382c9ff11159929b7de6001

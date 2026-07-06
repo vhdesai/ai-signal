@@ -4,8 +4,8 @@ title: The American rebellion against AI is gaining steam
 date: '2026-05-19'
 source: The Wall Street Journal · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/money/other/the-american-rebellion-against-ai-is-gaining-steam/ar-AA23w1HH
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 24c2ea493b9bc8c29c0c0500e7b43b14eea021a39b802d88135b159ce130a3f0

@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
+- 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
-- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-- 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 embedding_id: 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ May's AI funding tally jumped to roughly $25B across 37 disclosed deals, with GP
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
+**Related:** [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]]
 <!-- graph:end -->

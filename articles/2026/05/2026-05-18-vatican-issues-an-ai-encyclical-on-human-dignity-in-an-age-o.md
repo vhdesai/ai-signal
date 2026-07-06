@@ -4,8 +4,8 @@ title: Vatican issues an AI encyclical on human dignity in an age of automation
 date: '2026-05-18'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: a8664eeccdcae079bb786ef6d000ad921b84dfa0be28ddc6de4203e1fda453a1

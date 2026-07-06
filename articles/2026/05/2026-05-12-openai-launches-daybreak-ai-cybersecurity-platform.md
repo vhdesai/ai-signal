@@ -4,8 +4,8 @@ title: OpenAI Launches "Daybreak" AI Cybersecurity Platform
 date: '2026-05-12'
 source: LinkedIn AI Global News Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 11dc8df1e9d01bf340a8de27338835b4a218ce0e18a95ba5cd14a0a843fffd88

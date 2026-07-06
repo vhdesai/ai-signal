@@ -4,8 +4,8 @@ title: Databricks and Palantir each announce new enterprise agent frameworks
 date: '2026-04-23'
 source: AiThority / AI News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.databricks.com/company/newsroom/press-releases/palantir-and-databricks-announce-strategic-product-partnership
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 6b961fc9f3c434d10a6da1172fde3cd4e9efddb0a19bbff45d5841da3291d0a4

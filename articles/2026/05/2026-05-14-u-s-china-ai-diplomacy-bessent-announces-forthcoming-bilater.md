@@ -5,8 +5,8 @@ title: 'U.S.–China AI Diplomacy: Bessent Announces Forthcoming Bilateral AI Sa
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiweekly.co/alerts/us-china-sign-first-bilateral-ai-safety-pact-in-beijing
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 917649f40d0c676e0e50a07a6c6c15fc1ffed1575f89bb3979c857b811ec717a

@@ -6,8 +6,8 @@ source: The Guardian
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: cedcab477c9d91f1e6043f1234810149374577dadd525a254f267faeea84458f
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: d9e11853dfe2d49778215b2120c478703d6b6c87ca3cf6a50ec214aef9344ca6
 normalized_title_hash: 17b6e45d26c1da43
 canonical_url_hash: ''
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # Five Eyes Warning Says Destabilizing AI Capabilities May Be Months Away
 
-The Five Eyes intelligence alliance issued a rare joint warning that AI models capable of materially disrupting governments and businesses may be only months from deployment. The statement signals compressed timelines for frontier-risk planning and may accelerate evaluation mandates, deployment restrictions, and mandatory government testing regimes.
+The Five Eyes intelligence alliance issued a rare joint warning that AI models capable of materially disrupting governments and businesses may be only months from deployment. The statement signals that national-security agencies are compressing their timelines for frontier-risk planning and may accelerate evaluation mandates, deployment restrictions, and mandatory government testing regimes. For enterprise leaders, the implication is heightened regulatory uncertainty and potential new compliance burdens for any organization deploying frontier models.
 
 <!-- graph:start -->
 ## Connections

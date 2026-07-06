@@ -5,8 +5,8 @@ title: 'Analytics Vidhya: Top 10 LLM Research Papers of 2026 — DeepMind, Huggi
 date: '2026-05-11'
 source: 🔗 Analytics Vidhya  · 🏛 Multiple institutions
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.analyticsvidhya.com/blog/2026/05/top-llm-research-papers-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: cc316a330acf93e6efd352ef55dd2551b9fa3a868a08d6cab60999e2a5751f54

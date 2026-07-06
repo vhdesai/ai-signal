@@ -8,8 +8,8 @@ title: Business Insider reported from Omaha on Berkshire Hathaway's first annual
 date: '2026-05-04'
 source: All items dated May 3 or May 4, 2026. Compiled for Vik Desai
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cbsnews.com/news/berkshire-hathaway-annual-meeting-warren-buffet-profits-shareholders/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 9bfcbf0fcaa45e030e4c902464a14a91759c46e73d9e791ea8db811f5bb35382

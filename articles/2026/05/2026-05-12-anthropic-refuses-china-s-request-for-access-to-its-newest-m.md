@@ -5,8 +5,8 @@ title: Anthropic refuses China's request for access to its newest model at Singa
 date: '2026-05-12'
 source: The Neuron
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/other/anthropic-rejects-china-linked-request-for-access-to-mythos-ai/gm-GM4395E0AF
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 6624c85da3f686d79f82101fe5f4d8c62d6cd585945d5ec9eada087b73637b73

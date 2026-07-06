@@ -5,8 +5,8 @@ title: SpaceXAI Hemorrhaging Research Staff Following xAI–SpaceX Integration �
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 6435ab34e0f95d1bcdf31f40e733b519d9ab281c6d9fc2f65fa7caa9558ada09

@@ -10,8 +10,8 @@ title: The U.S. Court of Appeals for the D.C. Circuit denied Anthropic's emergen
 date: '2026-04-09'
 source: OpenAI · TechCrunch / Politico
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bankinfosecurity.com/court-backs-pentagon-anthropic-ban-but-fight-continues-a-31383
+url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: cf8fe376e847a04058e74951a8ed5ad948c0d30cdd1602c816c8545b734bf292

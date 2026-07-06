@@ -5,8 +5,8 @@ title: Google Launches Managed Agents API — One Call to Deploy, at the Cost of
 date: '2026-05-20'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.progressiverobot.com/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 561425882b7ae2956a9360c99d071326d748f4f653e734093398989230f34223

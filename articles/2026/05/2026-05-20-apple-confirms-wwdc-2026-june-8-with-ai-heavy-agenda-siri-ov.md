@@ -5,8 +5,8 @@ title: 'Apple confirms WWDC 2026 (June 8) with AI-heavy agenda: Siri overhaul, C
 date: '2026-05-20'
 source: Geeky Gadgets  · Apple
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.macrumors.com/2026/06/08/wwdc-2026-recap/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 3e9638b1edee786d2b00647042418a6197ba257daa84580d5ebdc1f6077d339d

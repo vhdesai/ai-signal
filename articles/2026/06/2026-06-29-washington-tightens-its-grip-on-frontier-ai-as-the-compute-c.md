@@ -30,9 +30,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
+- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
-- 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
 embedding_id: 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 event_name: ''
 ---
@@ -46,5 +46,5 @@ The past day was defined by Washington's deepening role as gatekeeper to frontie
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Huawei]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]]
+**Related:** [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]]
 <!-- graph:end -->

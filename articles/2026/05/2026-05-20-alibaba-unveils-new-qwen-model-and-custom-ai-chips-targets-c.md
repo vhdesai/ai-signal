@@ -4,8 +4,8 @@ title: Alibaba unveils new Qwen model and custom AI chips, targets "China's AI f
 date: '2026-05-20'
 source: South China Morning Post  · Alibaba
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.scmp.com/tech/big-tech/article/3354212/alibaba-unveils-new-qwen-model-custom-chips-bid-become-chinas-ai-factory
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 0774b2d255cc0a0092fd219ed342a13368fbac45c01c98dad31b66d99a3885ae

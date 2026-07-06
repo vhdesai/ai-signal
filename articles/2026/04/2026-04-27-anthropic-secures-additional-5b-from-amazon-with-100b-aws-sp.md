@@ -5,8 +5,8 @@ title: Anthropic Secures Additional $5B from Amazon with $100B AWS Spending Pled
 date: '2026-04-27'
 source: The Neuron
 url_original: null
-url_canonical: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: de2cb2ee412aa464fa792fccf602d20017d75eaeb10db09f1b881921096b27a1

@@ -4,8 +4,8 @@ title: Responsible AI Reporting Still Trails Capability Releases
 date: '2026-05-14'
 source: Stanford 2026 AI Index
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report/responsible-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 9497b987831b37a36fe242309a9e9746886b475d0b9fd6fff8cf9f2115a8449e

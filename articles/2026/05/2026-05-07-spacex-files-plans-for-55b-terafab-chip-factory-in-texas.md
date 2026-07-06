@@ -4,8 +4,8 @@ title: SpaceX Files Plans for $55B "Terafab" Chip Factory in Texas
 date: '2026-05-07'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techstartups.com/2026/05/06/spacex-files-55b-terafab-chip-factory-plan-in-texas-as-musk-doubles-down-on-ai-chips/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 6e7160af2a1f5026246dfc9981b73b18a06b30fabfe6b13d2d45636e3cf9423f

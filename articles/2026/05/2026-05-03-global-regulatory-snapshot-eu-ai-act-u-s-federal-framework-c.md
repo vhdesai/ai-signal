@@ -4,8 +4,8 @@ title: Global Regulatory Snapshot — EU AI Act, U.S. Federal Framework, China C
 date: '2026-05-03'
 source: GDPR Local / Programming Helper
 url_original: null
-url_canonical: https://sustainableatlas.org/post/comparison-eu-us-china-data-sovereignty-privacy-frameworks-1609
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: b36ecb3add3ae3a6ce2db0efc231860f3b00903841b563fc73c31a7c3f162835
 normalized_title_hash: 83bb30a9f100e5d3

@@ -4,8 +4,8 @@ title: U.S. to Invest $2 Billion in IBM, Other Quantum Computing Firms
 date: '2026-05-21'
 source: U.S. News & World Report
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.forbes.com/sites/zacharyfolk/2026/05/21/us-will-invest-2-billion-in-quantum-computing-firms-and-take-equity-report-says/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: cf08bc5868364925d73d90d30a3f68c3716cdbb8661306f448b823f876f7c164
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
+- 2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders
 - 2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
 - 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
-- 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-to-defuse
 embedding_id: 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Trump administration has agreed to take $2 billion in equity stakes across n
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-to-defuse]]
+**Related:** [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders]] · [[2026-06-05-trump-plans-to-meet-ai-companies-on-government-equity-stake]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Claude Agents Can Now Connect to Enterprise APIs Without Leaking Credenti
 date: '2026-05-19'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.acm-cp.com/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: b734760daaf2a1aed842ff8845a7ca74e7bb1729ac24eda040e8d8ce44ec87b2

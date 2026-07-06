@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/latest-claude-opus-leak/
 url_canonical: https://www.geeky-gadgets.com/latest-claude-opus-leak/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 61736264613d46bf10c24dda0411eae0029142d8877c61822eb3259b7479b2b5
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
+- 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
 - 2026-04-23-
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
-- 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 embedding_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step rea
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-23-]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
+**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la]] · [[2026-04-23-]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
 <!-- graph:end -->

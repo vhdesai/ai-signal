@@ -5,8 +5,8 @@ title: 'The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Ma
 date: '2026-05-15'
 source: 📰 The Batch · DeepLearning.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.deeplearning.ai/the-batch/issue-353
+url_status: repaired
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 840a0922fc358b4db2fe4b1d56218b3c0a39eb11b9e1ab1a605b94dd0ad43b7b

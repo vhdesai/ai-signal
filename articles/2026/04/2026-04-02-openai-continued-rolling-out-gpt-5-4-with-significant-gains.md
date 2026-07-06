@@ -9,8 +9,8 @@ title: 'OpenAI continued rolling out GPT-5.4 with significant gains on coding be
 date: '2026-04-02'
 source: 🔥 TRENDING Google DeepMind
 url_original: null
-url_canonical: https://www.unifiedaihub.com/ai-news/openai-launches-gpt-5-codex-agentic-coding-upgrades
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: ca6afa8eb04900c4106a49d2f3cb037d902a1bcbbb343196a47590b7d7a62195

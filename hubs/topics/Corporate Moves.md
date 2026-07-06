@@ -1,17 +1,27 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1342
+member_count: 1364
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1342 connected article(s).
+> Auto-generated topic hub. 1364 connected article(s).
 
+- `2026-07-06` [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim|UK startups raised ~$17B in H1 2026, with AI capturing an estimated 74% of venture capital]]
+- `2026-07-06` [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc|UK Startups Raise ~$17B in H1 2026, AI Captures 74% of VC]]
+- `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
+- `2026-07-06` [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of|SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor appetite]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
+- `2026-07-05` [[2026-07-05-sakana-ai-launches-sakana-translate-a-namazu-powered-ja-en-z|Sakana AI launches "Sakana Translate," a Namazu-powered JA–EN–ZH tool]]
+- `2026-07-05` [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet|SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite]]
 - `2026-07-05` [[2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa|NHS to embed an AI triage tool in the NHS App for 200,000+ patients]]
+- `2026-07-05` [[2026-07-05-llamaindex-ships-legal-kb-an-agentic-retrieval-reference-app|LlamaIndex ships "legal-kb," an agentic retrieval reference app on Index v2]]
 - `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
 - `2026-07-04` [[2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui|OpenAI's Brockman sketches an "almost no interface" future built on Codex-style agents]]
+- `2026-07-04` [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one|Microsoft to Merge Consumer and Enterprise Copilot Into One App]]
 - `2026-07-04` [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa|Microsoft reportedly plans a unified Copilot app and an always-on "Autopilot" agent]]
 - `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]
 - `2026-07-03` [[2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied|Singapore's dConstruct raises a $125M Series A for GPS-denied robotics]]
@@ -107,18 +117,27 @@ member_count: 1342
 - `2026-06-24` [[2026-06-24-ai-memory-startup-engram-emerges-from-stealth-with-98m|AI-memory startup Engram emerges from stealth with $98M]]
 - `2026-06-24` [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor|AI's Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War]]
 - `2026-06-23` [[2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation|Sovereign-AI startup Dream raises $260M at a $3B valuation]]
+- `2026-06-23` [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system|Sakana AI Launches "Fugu" Multi-Agent Orchestration System]]
 - `2026-06-23` [[2026-06-23-prime-intellect-releases-prime-rl-0-6-0-for-trillion-paramet|Prime Intellect Releases prime-rl 0.6.0 for Trillion-Parameter Agentic RL]]
+- `2026-06-23` [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption|Oracle Cuts ~21,000 Jobs (~13% of Workforce), Cites AI Adoption]]
+- `2026-06-23` [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount|OpenAI Launches GPT-5.5-Cyber and "Patch the Planet" Bug Bounty]]
 - `2026-06-23` [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses|Meta and EssilorLuxottica launch $299 AI smart glasses]]
+- `2026-06-23` [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24|Google DeepMind Invests ~$75M in Film Studio A24]]
 - `2026-06-23` [[2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public|Cerebras shares fall ~10% on first earnings report as a public company]]
+- `2026-06-23` [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model|ByteDance Unveils Seedance 2.5 Video Generation Model]]
 - `2026-06-23` [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate|Anthropic launches Claude Tag, embedding Claude as a teammate in Slack]]
 - `2026-06-23` [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i|Anthropic launches Claude Tag, a persistent Claude teammate inside Slack]]
+- `2026-06-23` [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model|Anthropic and OpenAI Customers Switching to Cheaper AI Models]]
 - `2026-06-23` [[2026-06-23-abu-dhabi-s-mgx-raises-50b-to-accelerate-ai-deals|Abu Dhabi's MGX Raises ~$50B to Accelerate AI Deals]]
+- `2026-06-23` [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface|AI Tech Stocks Tumble Globally as Rate Fears Resurface]]
 - `2026-06-22` [[2026-06-22-xai-adds-goal-to-grok-build-for-long-running-autonomous-codi|xAI Adds /goal to Grok Build for Long-Running Autonomous Coding]]
 - `2026-06-22` [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s|Samsung Deploys ChatGPT Enterprise and Codex — One of OpenAI's Largest Rollouts]]
 - `2026-06-22` [[2026-06-22-palantir-secures-foundational-role-in-u-s-army-ngc2-data-lay|Palantir Secures Foundational Role in U.S. Army NGC2 Data Layer]]
 - `2026-06-22` [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad|Oracle Discloses ~21,000 Job Cuts Over 12 Months, Citing AI Adoption]]
 - `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i|OpenAI's Light Balance Sheet Could Face a Hard Look Before IPO]]
+- `2026-06-22` [[2026-06-22-openai-s-light-balance-sheet-faces-scrutiny-ahead-of-ipo|OpenAI's "Light" Balance Sheet Faces Scrutiny Ahead of IPO]]
 - `2026-06-22` [[2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de|OpenAI and Getty Images Strike Multi-Year Content Display Deal]]
+- `2026-06-22` [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal|OpenAI Strikes Multi-Year Getty Images Licensing Deal]]
 - `2026-06-22` [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste|Nvidia Introduces Halos for Robotics — Full-Stack Safety System for Physical AI]]
 - `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
 - `2026-06-22` [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead|Meta Backs CRED in ~$900M Round; Taps Founder for WhatsApp Leadership]]
@@ -131,9 +150,12 @@ member_count: 1342
 - `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
 - `2026-06-21` [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri|Apple's Practical iOS 27 AI Features Move Beyond Siri]]
 - `2026-06-20` [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research|OpenAI Testing "ChatGPT for Science" Subscription for Research Institutions]]
+- `2026-06-20` [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re|OpenAI Testing "ChatGPT for Science" Subscription Targeting Research Institutions]]
 - `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|Nadella: "There Is No Societal Permission" for AI Concentration]]
+- `2026-06-20` [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo|Nadella Warns AI Industry: "There Is No Societal Permission" for Concentration]]
 - `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
 - `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th|NYU's Damodaran Warns AI Correction Could Be More Painful Than Dot-Com Bust]]
 - `2026-06-19` [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code|Anthropic Brings Live, Shareable Artifacts to Claude Code]]
 - `2026-06-19` [[2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and|Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini]]
 - `2026-06-18` [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball|OpenAI Hires Former White House AI Strategist Dean Ball]]

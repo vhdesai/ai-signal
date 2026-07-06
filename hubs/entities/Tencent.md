@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 72
+member_count: 74
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 72 connected article(s).
+> Auto-generated entity hub. 74 connected article(s).
 
+- `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE)]]
 - `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-03` [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off|China's DeepSeek-V4 heads to official release with "peak/off-peak" surge pricing; Tencent Cloud to distribute]]

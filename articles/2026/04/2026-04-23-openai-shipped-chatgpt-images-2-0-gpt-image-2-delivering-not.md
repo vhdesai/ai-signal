@@ -9,8 +9,8 @@ title: OpenAI shipped ChatGPT Images 2.0 (GPT Image 2), delivering notable impro
 date: '2026-04-23'
 source: 'Source: TechCrunch'
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 539ce60721add81b3283cf6d8bab2a276c3d901579441056bd83ccd80dba4d89

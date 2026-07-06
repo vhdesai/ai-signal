@@ -4,8 +4,8 @@ title: Alibaba unveils new AI chip and Qwen model as China pushes domestic AI st
 date: '2026-05-20'
 source: The Information
 url_original: https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-china-accelerates
-url_canonical: https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-china-accelerates
-url_status: broken
+url_canonical: https://www.scmp.com/tech/big-tech/article/3354212/alibaba-unveils-new-qwen-model-custom-chips-bid-become-chinas-ai-factory
+url_status: repaired
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 2c3e5b63e2bac07a1deb22873b2a299303d382f4cab3f79e64d5941f77ab3e58

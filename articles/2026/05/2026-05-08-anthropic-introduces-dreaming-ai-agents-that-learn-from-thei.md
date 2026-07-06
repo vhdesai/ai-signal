@@ -4,8 +4,8 @@ title: Anthropic Introduces "Dreaming" — AI Agents That Learn From Their Own M
 date: '2026-05-08'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.claudeainews.com/news/anthropic-dreaming-ai-agents-learn-mistakes
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 0fe4d37033bcec4cbdbba41bcc2dff7205362f62f03d4f18f34eadb304b1d968

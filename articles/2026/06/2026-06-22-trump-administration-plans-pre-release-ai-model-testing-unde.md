@@ -7,8 +7,8 @@ source: MSN
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: 08f41f0ff818e5405429b207f0c0ba619d20ed8e2f7d4e8220e45434a48f78c5
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: 2904195f08a74e40ab1044e3ed5d32d9ddef08b733afdb814ba0aaed333783d5
 normalized_title_hash: 21e64dcd830397d0
 canonical_url_hash: ''
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # Trump Administration Plans Pre-Release AI Model Testing Under Cybersecurity Order
 
-The Trump administration is reportedly preparing to require AI models be tested before public release under a new cybersecurity executive order. Mandatory pre-release government testing would materially change launch timelines and compliance costs for frontier labs, creating a new gating function for model deployment.
+The Trump administration is reportedly preparing to require AI models be tested before public release under a new cybersecurity executive order. If implemented, mandatory pre-release government testing would materially change launch timelines and compliance costs for frontier labs. The move could create a new gating function for model deployment that enterprise buyers will need to factor into procurement and integration schedules.
 
 <!-- graph:start -->
 ## Connections

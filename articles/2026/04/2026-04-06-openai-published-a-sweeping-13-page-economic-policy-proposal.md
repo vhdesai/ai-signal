@@ -11,8 +11,8 @@ title: OpenAI published a sweeping 13-page economic policy proposal advocating f
 date: '2026-04-06'
 source: Google DeepMind
 url_original: null
-url_canonical: https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-07_070904_Inbox_Daily AI News Digest – April 7,
   2026.md
 content_hash: 9d9357a6c14b63ae805f48054cdf9d16e2fef432785d0dfd9ba9788ecbe4f5ad

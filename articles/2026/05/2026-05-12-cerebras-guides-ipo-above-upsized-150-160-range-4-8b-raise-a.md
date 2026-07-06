@@ -4,8 +4,8 @@ title: Cerebras guides IPO above upsized $150–$160 range; $4.8B raise at ~$34B
 date: '2026-05-12'
 source: Bloomberg  · eWeek
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.bloomberglaw.com/artificial-intelligence/ai-chipmaker-cerebras-seeks-4-8-billion-in-upsized-us-ipo-1
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 9180cc3111bce4622daff365a3acc51a86a2b0b66779d68fcdea7260ead6eca0

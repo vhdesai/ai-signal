@@ -4,8 +4,8 @@ title: xAI Ships Grok Voice Think Fast 1.0 via API
 date: '2026-05-12'
 source: The Neuron
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.tun.com/home/xai-launches-grok-voice-think-fast-1-0-via-api/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: c237ed086c277bc2eccb2fe3de3940139892b48fc7601b888ff8c37eb71693de

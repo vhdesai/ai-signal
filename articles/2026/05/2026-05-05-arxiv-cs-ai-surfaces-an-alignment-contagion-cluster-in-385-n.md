@@ -4,7 +4,7 @@ title: arXiv cs.AI surfaces an "alignment-contagion" cluster in 385 new submissi
 date: '2026-05-05'
 source: arXiv cs.AI
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.02751v2
+url_canonical: https://arxiv.org/list/cs/recent
 url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md

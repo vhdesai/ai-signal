@@ -5,8 +5,8 @@ title: 'Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbo
 date: '2026-04-13'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2025-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070904_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 0209cea2793920cf40a549b9a0649720e3ae924937e31ae4cbef035391b28c91

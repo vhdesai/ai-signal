@@ -322,7 +322,7 @@ def _revert(art: Article) -> None:
     art.url_status = "broken" if art.url_original else "missing"
 
 
-DEFAULT_REPAIR_TIME_BUDGET_S = 1800.0  # 30 minutes
+DEFAULT_REPAIR_TIME_BUDGET_S = 3600.0  # 60 minutes
 DEFAULT_REPAIR_WORKERS = 10
 
 
@@ -340,7 +340,7 @@ def run_repair_urls(
     * ``max_workers`` (>= 10 by default) search/fetch threads run concurrently.
       Only the network-bound search+fetch happens off-thread; every SQLite write
       stays on the main thread (single writer, no lock contention).
-    * ``time_budget_s`` (default 30 min) caps the network phase. Once the budget
+    * ``time_budget_s`` (default 60 min) caps the network phase. Once the budget
       is spent the stage stops dispatching new results and drains in-flight work.
     * A ``stop_file`` sentinel (default ``indexes/repair.stop``) lets an operator
       request early graceful termination: create the file and the stage finishes

@@ -4,7 +4,7 @@ title: DeepSeek Closing $45–50B First External Funding Round
 date: '2026-05-09'
 source: AI in Asia  · South China Morning Post
 url_original: null
-url_canonical: https://www.scmp.com/tech/big-tech/article/3355818/deepseek-nears-us7b-haul-first-ever-funding-round-backing-tencent-catl
+url_canonical: https://www.scmp.com/tech/tech-trends/article/3352945/deepseek-soon-close-first-external-fundraising-us50b-valuation-sources
 url_status: repaired
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md

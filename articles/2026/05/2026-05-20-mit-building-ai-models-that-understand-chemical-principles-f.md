@@ -4,8 +4,8 @@ title: 'MIT: Building AI models that understand chemical principles for drug dis
 date: '2026-05-20'
 source: MIT News  · Massachusetts Institute of Technology
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.avantgardenews.com/news/mit-ai-models-fast-track-new-drug-discovery-20260520
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: ddfd3c8bf4173c558020b11fcaca8a04f43791e2cc4a741c2436fc0e85d655f2

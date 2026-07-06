@@ -4,8 +4,8 @@ title: '"LLM Agents for Science" — multi-agent systems automate experimental l
 date: '2026-05-20'
 source: arXiv · View on arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/abs/2503.03800
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: bc4b9da4c3698bf025eea5900bc8d60de30bd72f44a4e8b78d2bf09d7ea3c85f

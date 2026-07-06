@@ -5,8 +5,8 @@ title: BreakingTrump Administration Signs Pre-Deployment AI Testing Agreements w
 date: '2026-05-05'
 source: Ars Technica / Reuters / Tech Xplore
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 9f96811ad9e2ee8d5c0da087486f63b9e16da1f47f400b94946f104b98bf247b

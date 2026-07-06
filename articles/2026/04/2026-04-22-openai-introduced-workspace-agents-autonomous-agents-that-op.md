@@ -11,8 +11,8 @@ title: OpenAI introduced Workspace Agents — autonomous agents that operate on 
 date: '2026-04-22'
 source: 'Source: TechCrunch'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ubergizmo.com/2026/04/openai-introduces-workspace-agents/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 6733b45d9b2da4f6a6216adc5bdc1a35fd3e9f3917a5615b08ad5a31db7472c8

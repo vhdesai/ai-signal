@@ -4,8 +4,8 @@ title: April global VC funding hits $56B — 100% YoY growth driven by AI megade
 date: '2026-05-05'
 source: Crunchbase News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.crunchbase.com/venture/global-startup-funding-april-2026-anthropic-jeff-bezos-project-prometheus-biggest-deals/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 2bcba5411ac45f0680d2ff67ebc5b748794155e83528c8787ac1758782349220
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
+- 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
 - 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
-- 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 embedding_id: 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Global startup funding doubled year-over-year to $56B in April — the third-hig
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]]
+**Related:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

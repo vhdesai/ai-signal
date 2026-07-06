@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc
 - 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
 - 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
-- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
+- 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 embedding_id: 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba plans to prohibit staff from using Anthropic's Claude Code for any work-
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal]] · [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]]
+**Related:** [[2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal]] · [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]]
 <!-- graph:end -->

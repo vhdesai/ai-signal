@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 33
+member_count: 34
 ---
 
 # AMD
 
-> Auto-generated entity hub. 33 connected article(s).
+> Auto-generated entity hub. 34 connected article(s).
 
+- `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]
 - `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
 - `2026-06-08` [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s|UK Invests in Billion-Dollar AI Supercomputer to Reduce U.S. Tech Dependence]]

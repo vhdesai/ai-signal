@@ -4,8 +4,8 @@ title: Nvidia's Jensen Huang Says China Will "Open Over Time" to H200 AI Chips
 date: '2026-05-19'
 source: Bloomberg / Tech Xplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.straitstimes.com/world/united-states/china-will-open-its-market-to-ai-chips-from-us-nvidias-ceo-jensen-huang-says
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: ead6893fb1c35c1749214a25ee37a22669fd01d8c52822ec278be7f4b4534c58

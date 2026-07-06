@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
+- 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 - 2026-04-02-research-breakthroughs
 - 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 embedding_id: 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers unveiled a system-on-chip that generates real-time 3D navigation
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Anthropic Overtakes OpenAI in U.S. Business AI Adoption for the First Tim
 date: '2026-05-13'
 source: VentureBeat / Ramp AI Index
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/anthropic-tops-openai-business-ai-adoption-ramp-index-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: a98dc52349c77ed83be8a4a5ee80edaf0cbb44b7e2f740118318044d95da7fcc

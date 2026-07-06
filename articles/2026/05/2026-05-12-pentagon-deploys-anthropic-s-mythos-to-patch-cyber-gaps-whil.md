@@ -5,8 +5,8 @@ title: Pentagon deploys Anthropic's Mythos to patch cyber gaps — while racing 
 date: '2026-05-12'
 source: Reuters / U.S. News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/tech/artificial-intelligence/us-pentagon-deploys-anthropics-mythos-to-patch-cyber-gaps-while-planning-to-ditch-firm/articleshow/131043145.cms
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 98f4f8bdbb7bf6ed0fbfa46717c1def69311ea7724ed2e323cccd35d5689de7f

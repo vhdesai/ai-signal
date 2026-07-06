@@ -5,8 +5,8 @@ title: 'Cornell Research: AI Chatbots Are Shifting Voter Opinions at Statistical
 date: '2026-05-10'
 source: 🔗 Business Insider / Markets  · 🏛 Cornell University
 url_original: null
-url_canonical: https://theaiinsider.tech/2025/12/06/cornell-ai-chatbots-can-effectively-sway-voters-in-either-direction/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 4065b92dd93c6d7b959038b46f343b67ed2ed64aec68fefd47cc9605913cb908
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-academic-research
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 embedding_id: 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cornell researchers released data from press releases circulated May 10–11 sho
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-02-academic-research]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
+**Related:** [[2026-04-02-academic-research]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]]
 <!-- graph:end -->

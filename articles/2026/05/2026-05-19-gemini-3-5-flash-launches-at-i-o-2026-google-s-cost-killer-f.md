@@ -4,8 +4,8 @@ title: Gemini 3.5 Flash Launches at I/O 2026 — Google's "Cost-Killer" Frontier
 date: '2026-05-19'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: ebba886a51ec611d40f0c1b7c6c98544723d212fd21865afb0be3f4e29514c1e

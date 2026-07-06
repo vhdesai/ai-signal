@@ -4,8 +4,8 @@ title: Isomorphic Labs Closes $2.1B Series B to Accelerate AI Drug Discovery
 date: '2026-05-13'
 source: AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 5ab0fd5d4d6bcd3928d45f248ae71df94623e8e0e86ff5d35a3daa3bd6e2b35f

@@ -4,8 +4,8 @@ title: OpenAI Model Disproves Erdős Unit Distance Conjecture After 80 Years
 date: '2026-05-21'
 source: The AI Track / ToolsCompare
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theaitrack.com/openai-disproves-unit-distance-problem/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 79f996ce1a8f55e07ca45a211f6b51572071c40ad5260cf9f382e3d4535a8c76

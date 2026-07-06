@@ -1,13 +1,21 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1162
+member_count: 1173
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1162 connected article(s).
+> Auto-generated topic hub. 1173 connected article(s).
 
+- `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE)]]
+- `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc|Gemini 3.5 Pro Specs Surface Ahead of Reported July 17 Launch]]
+- `2026-07-06` [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s|"SkillCloak" Study: Malicious Agent Skills Evade Every Tested Scanner >90% of the Time]]
+- `2026-07-05` [[2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic|Synthetic Sciences open-sources "OpenScience," a model-agnostic research workbench]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
 - `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
 - `2026-07-04` [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that|Poolside open-weights Laguna XS 2.1, a 33B coding model that runs on a single GPU]]
@@ -108,6 +116,8 @@ member_count: 1162
 - `2026-06-23` [[2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre|OpenAI details how GPT-5 helped an immunologist crack a three-year-old mystery]]
 - `2026-06-23` [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world|MIT's ultra-efficient chip lets tiny robots map their world on an LED's worth of power]]
 - `2026-06-23` [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps|MIT's Low-Power "Gleanmer" Chip Lets Tiny Robots Build 3D Maps on an LED's Worth of Power]]
+- `2026-06-23` [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m|MIT Unveils Ultra-Low-Power Navigation Chip for Autonomous Micro-Robots]]
+- `2026-06-23` [[2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail|Gartner: Two-Thirds of AI-Led Legacy Migrations Will Fail]]
 - `2026-06-22` [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro|Sakana AI Launches Fugu — Orchestration Model That Routes Across Frontier LLMs]]
 - `2026-06-22` [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ|OpenAI Launches GPT-5.5-Cyber and "Patch the Planet" Initiative]]
 - `2026-06-22` [[2026-06-22-nvidia-announces-halos-safety-system-for-robotics|NVIDIA Announces Halos Safety System for Robotics]]
@@ -115,6 +125,7 @@ member_count: 1162
 - `2026-06-22` [[2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse|GPT-5.6 Launch Timing Uncertain — Prediction Markets Collapse]]
 - `2026-06-22` [[2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model|Alibaba Ships HappyHorse 1.1 Image-to-Video Model]]
 - `2026-06-22` [[2026-06-22-ai-reportedly-cracks-18-unsolved-rare-disease-cases-at-harva|AI Reportedly Cracks 18 Unsolved Rare-Disease Cases at Harvard/Boston Children's]]
+- `2026-06-20` [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la|GPT-5.6 Rumors Continue to Build Ahead of Rumored June 23 Launch]]
 - `2026-06-20` [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch|GPT-5.6 Rumors Build Ahead of Rumored June 23 Launch]]
 - `2026-06-19` [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex|GPT-5.6 Stealth Testing Rumors Intensify; Late-June Launch Expected]]
 - `2026-06-18` [[2026-06-18-zhipu-ai-s-glm-5-2-ranked-leading-open-weights-model|Zhipu AI's GLM-5.2 Ranked Leading Open-Weights Model]]

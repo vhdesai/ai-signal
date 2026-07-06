@@ -4,8 +4,8 @@ title: Alibaba and Tencent in Advanced Talks to Invest in DeepSeek at $20B Valua
 date: '2026-05-22'
 source: AI in Asia
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiinasia.com/greater-china/alibaba-tencent-deepseek-20-billion-valuation-china-ai-map-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: c869e0bcb48c3a2913918d4d89226c96ce1f4a45ec85461b11cdbb52496ed03e

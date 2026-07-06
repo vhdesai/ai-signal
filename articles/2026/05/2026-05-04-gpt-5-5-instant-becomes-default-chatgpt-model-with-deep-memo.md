@@ -5,7 +5,7 @@ title: GPT-5.5 Instant Becomes Default ChatGPT Model with Deep Memory & Gmail In
 date: '2026-05-04'
 source: MSN
 url_original: null
-url_canonical: https://www.msn.com/en-us/technology/artificial-intelligence/openai-says-gpt-5-5-instant-to-be-default-model-for-chatgpt-widens-memory-sources/ar-AA22rzvh
+url_canonical: https://www.msn.com/en-us/news/other/openai-makes-gpt-55-instant-default-chatgpt-model-with-accuracy-boost/gm-GM92AD3D9D
 url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 524
+member_count: 533
 ---
 
 # Google
 
-> Auto-generated entity hub. 524 connected article(s).
+> Auto-generated entity hub. 533 connected article(s).
 
+- `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
+- `2026-07-06` [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of|SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor appetite]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc|Gemini 3.5 Pro Specs Surface Ahead of Reported July 17 Launch]]
+- `2026-07-05` [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet|SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite]]
+- `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-03` [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake|OpenAI proposes giving the U.S. government a 5% equity stake]]
 - `2026-07-03` [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol|Anthropic taps Freshfields to steer a potential trillion-dollar IPO as AI concentrates venture capital]]
@@ -41,7 +47,10 @@ member_count: 524
 - `2026-06-24` [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash|Google builds "computer use" into Gemini 3.5 Flash]]
 - `2026-06-24` [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor|AI's Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War]]
 - `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
+- `2026-06-23` [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai|SpaceX Signs Up to $6.3B Compute Deal with Reflection AI]]
+- `2026-06-23` [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24|Google DeepMind Invests ~$75M in Film Studio A24]]
 - `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
+- `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
 - `2026-06-22` [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools|Google Invests $75M in A24 for AI-Powered Filmmaking Tools]]
 - `2026-06-22` [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools|Google DeepMind Invests ~$75M in A24 for AI Filmmaking Tools]]
 - `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]

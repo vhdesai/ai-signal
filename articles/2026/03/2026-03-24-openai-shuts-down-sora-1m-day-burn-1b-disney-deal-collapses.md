@@ -4,8 +4,8 @@ title: OpenAI Shuts Down Sora — $1M/Day Burn, $1B Disney Deal Collapses
 date: '2026-03-24'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/
+url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 6ecda0ebaf3636f9795f2bb8c97592e0b02b54719f787f9fcca5f4d05d8fb3d4

@@ -3,13 +3,13 @@ article_id: 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-cen
 title: Morgan Stanley Pitches Leveraged Loan Market for Data Center Financing
 date: '2026-06-21'
 source: The Information
-url_original: null
-url_canonical: null
-url_status: missing
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: 9e178aaa78662ade932adeb7097070748ec7470fa11d16634d27c4eed920c5e1
+url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Morgan+Stanley+data+center+loans
+url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Morgan+Stanley+data+center+loans
+url_status: broken
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: baf5098640f62ee50db88069b164056d356400428361ee8f1c6c39d5257cf8ec
 normalized_title_hash: 154b3e50887000e7
-canonical_url_hash: ''
+canonical_url_hash: 21aec088e9ed9c87
 tags:
 - Infrastructure
 - Finance
@@ -31,7 +31,7 @@ event_name: ''
 
 # Morgan Stanley Pitches Leveraged Loan Market for Data Center Financing
 
-Morgan Stanley is pitching data center developers on tapping the leveraged loan market—traditionally used for buyouts—to finance AI infrastructure. The move signals that developers are exploring every available debt market, introducing new risk profiles into AI infrastructure financing.
+Morgan Stanley is pitching data center developer clients on tapping the leveraged loan market—traditionally used for buyouts—to finance AI infrastructure projects. The move signals that in the race to raise capital for AI compute, developers and their advisors are exploring every available debt market, potentially introducing new risk profiles into AI infrastructure financing.
 
 <!-- graph:start -->
 ## Connections

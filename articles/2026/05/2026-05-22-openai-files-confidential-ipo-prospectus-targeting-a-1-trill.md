@@ -4,8 +4,8 @@ title: OpenAI files confidential IPO prospectus targeting a $1 trillion valuatio
 date: '2026-05-22'
 source: Multiple wires via AIToolsRecap
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://noqta.tn/en/news/openai-confidential-ipo-filing-trillion-valuation-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: c4e7a5975ad64960ce4ee9e682ef599f75dbaf44e6fe4e162a46842518acb103

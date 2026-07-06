@@ -5,8 +5,8 @@ title: xAI ships "Grok Build" — a coding agent aimed squarely at Cursor and Cl
 date: '2026-05-18'
 source: CIO Dive
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aiincider.com/xai-grok-build-coding-agent/
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: aac3baa5e2c7ee0229ebd67c0844cedde3dc2efee823fca8ffa47e3a05aae884

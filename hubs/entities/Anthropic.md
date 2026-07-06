@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 683
+member_count: 696
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 683 connected article(s).
+> Auto-generated entity hub. 696 connected article(s).
 
+- `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic|TeraWulf Signs ~$19B AI-Infrastructure Lease With Anthropic]]
+- `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
 - `2026-07-03` [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage|The economics and governance of AI took center stage]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
@@ -88,22 +93,30 @@ member_count: 683
 - `2026-06-25` [[2026-06-25-anthropic-accuses-alibaba-of-the-largest-known-distillation|Anthropic accuses Alibaba of the largest known “distillation attack” on Claude]]
 - `2026-06-24` [[2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta|Anthropic accuses Alibaba of “largest known distillation attack” on Claude]]
 - `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
+- `2026-06-23` [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai|SpaceX Signs Up to $6.3B Compute Deal with Reflection AI]]
+- `2026-06-23` [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system|Sakana AI Launches "Fugu" Multi-Agent Orchestration System]]
 - `2026-06-23` [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec|OpenAI ships full GPT-5.5-Cyber and expands its Daybreak security program]]
 - `2026-06-23` [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate|Anthropic launches Claude Tag, embedding Claude as a teammate in Slack]]
 - `2026-06-23` [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i|Anthropic launches Claude Tag, a persistent Claude teammate inside Slack]]
+- `2026-06-23` [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model|Anthropic and OpenAI Customers Switching to Cheaper AI Models]]
 - `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
 - `2026-06-22` [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ|OpenAI Launches GPT-5.5-Cyber and "Patch the Planet" Initiative]]
+- `2026-06-22` [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat|Microsoft's Satya Nadella Warns Against AI-Market Concentration]]
 - `2026-06-22` [[2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in|Micron and Anthropic Sign Memory Supply Pact and Series H Investment]]
 - `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-22` [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme|Anthropic Says Claude May Ask Users to Verify Their Government ID]]
 - `2026-06-21` [[2026-06-21-spacex-s-74-day-ipo-sets-pace-for-openai-and-anthropic|SpaceX's 74-Day IPO Sets Pace for OpenAI and Anthropic]]
 - `2026-06-21` [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u|OpenAI and Anthropic IPOs Approaching $1T While Both Remain Unprofitable]]
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus|Forbes: Energy Sovereignty Will Decide the AI Race — Europe Must Compete or Become a "Colony"]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
 - `2026-06-21` [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits|Anthropic Crackdown Debate Shifts to Who Benefits]]
+- `2026-06-20` [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la|GPT-5.6 Rumors Continue to Build Ahead of Rumored June 23 Launch]]
 - `2026-06-19` [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat|Trump: Anthropic No Longer a National Security Threat]]
+- `2026-06-19` [[2026-06-19-trump-tells-axios-he-no-longer-views-anthropic-as-national-s|Trump Tells Axios He No Longer Views Anthropic as National Security Threat]]
 - `2026-06-19` [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro|Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic]]
 - `2026-06-19` [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot|NYU's Damodaran: AI Correction Could Be More Painful Than Dot-Com Bust]]
+- `2026-06-19` [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th|NYU's Damodaran Warns AI Correction Could Be More Painful Than Dot-Com Bust]]
 - `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|Commerce Department Claims Unprecedented Power Over AI Models]]
 - `2026-06-19` [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code|Anthropic Brings Live, Shareable Artifacts to Claude Code]]
 - `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]

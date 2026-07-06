@@ -5,8 +5,8 @@ title: 'Northwestern & American University Study: AI Chatbots Wildly Disagree on
 date: '2026-05-12'
 source: ToolsCompare.AI / TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-in/news/other/study-finds-ai-models-sharply-disagree-on-job-risk-rankings/gm-GM74CEE47C
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 3ec4ab1fe6c0a196266ff29e145016366317a5c8510ba9bbfbf45bb7cac43f03

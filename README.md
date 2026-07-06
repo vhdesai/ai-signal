@@ -52,6 +52,29 @@ pwsh ./scripts/run-pipeline.ps1    # Windows
 
 This runs the full pipeline: `ingest → split → index → dedupe → build-graph → validate-urls → repair-urls → build-site`
 
+#### Tuning URL repair
+
+The `repair-urls` stage searches the live web for broken/missing links using
+concurrent workers, and is **time-boxed to 60 minutes by default** so a rebuild
+always finishes in bounded time. Anything not reached is saved and resumed on the
+next run. Configure it via the run scripts (applies to `run-all` too):
+
+```pwsh
+pwsh ./scripts/run-pipeline.ps1 -RepairTimeout 7200   # 2-hour time box
+pwsh ./scripts/run-pipeline.ps1 -RepairTimeout 0      # disable the time box
+pwsh ./scripts/run-pipeline.ps1 -RepairWorkers 16     # 16 concurrent workers
+```
+
+```bash
+REPAIR_TIMEOUT=7200 ./scripts/run-pipeline.sh         # 2-hour time box
+REPAIR_TIMEOUT=0 ./scripts/run-pipeline.sh            # disable the time box
+REPAIR_WORKERS=16 ./scripts/run-pipeline.sh           # 16 concurrent workers
+```
+
+Raw CLI flags: `--repair-timeout <seconds>` (0 disables), `--repair-workers <n>`,
+`--repair-stop-file <path>`. Create `indexes/repair.stop` at any time to stop the
+stage gracefully; live progress is written to `indexes/repair-status.json`.
+
 ### 4. View the Site
 
 Open `site/index.html` in a browser, or push to `main` to auto-deploy to Cloudflare Pages.

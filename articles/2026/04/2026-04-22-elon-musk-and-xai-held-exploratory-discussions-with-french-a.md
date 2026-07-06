@@ -10,8 +10,8 @@ title: Elon Musk and xAI held exploratory discussions with French AI startup Mis
 date: '2026-04-22'
 source: 'Source: Business Insider'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/elon-musk-xai-explored-collaborating-with-mistral-cursor-2026-4
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 2c8b0b12bf30cabd1b2715b1ed3aa59bbe6ff5daa72a829ae57a53d2373cfe67

@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 612
+member_count: 619
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 612 connected article(s).
+> Auto-generated topic hub. 619 connected article(s).
 
+- `2026-07-06` [[2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva|UN Opens First Global Dialogue on AI Governance in Geneva]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg|FCA Weighs Bringing General-Purpose AI Models Inside the Regulatory Perimeter]]
+- `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-04` [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t|Midjourney moves to force Disney, Universal and Warner Bros. to disclose their own AI use]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-03` [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat|Trump administration will oppose a centralized US AI regulator, says outgoing adviser]]
@@ -73,6 +77,7 @@ member_count: 612
 - `2026-06-24` [[2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta|Anthropic accuses Alibaba of “largest known distillation attack” on Claude]]
 - `2026-06-24` [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor|AI's Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War]]
 - `2026-06-23` [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models|Trump administration presses Meta to submit frontier models for federal testing]]
+- `2026-06-23` [[2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders|Trump Signs Sweeping Quantum Computing Executive Orders]]
 - `2026-06-23` [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m|Five Eyes alliance warns AI will outpace cyber defenses "in months, not years"]]
 - `2026-06-23` [[2026-06-23-claude-fable-5-free-window-closes-usage-credits-required-fro|Claude Fable 5 Free Window Closes; Usage Credits Required from June 23]]
 - `2026-06-22` [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde|Trump Administration Plans Pre-Release AI Model Testing Under Cybersecurity Order]]
@@ -86,9 +91,11 @@ member_count: 612
 - `2026-06-22` [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme|Anthropic Says Claude May Ask Users to Verify Their Government ID]]
 - `2026-06-21` [[2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war|US States Forge Ahead with AI Regulation Despite Trump's Warnings]]
 - `2026-06-21` [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine|Politico: "The AI Ghost in the Nuclear War Machine"]]
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus|Forbes: Energy Sovereignty Will Decide the AI Race — Europe Must Compete or Become a "Colony"]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
 - `2026-06-21` [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits|Anthropic Crackdown Debate Shifts to Who Benefits]]
 - `2026-06-19` [[2026-06-19-trump-anthropic-no-longer-a-national-security-threat|Trump: Anthropic No Longer a National Security Threat]]
+- `2026-06-19` [[2026-06-19-trump-tells-axios-he-no-longer-views-anthropic-as-national-s|Trump Tells Axios He No Longer Views Anthropic as National Security Threat]]
 - `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|Commerce Department Claims Unprecedented Power Over AI Models]]
 - `2026-06-18` [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe|Pentagon Filing Confirms xAI's Grok Was Used in Lethal Targeting]]
 - `2026-06-18` [[2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control|Bipartisan House Demands Answers on Anthropic Export Controls]]

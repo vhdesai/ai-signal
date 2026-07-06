@@ -5,8 +5,8 @@ title: Meta offers rival AI chatbots free WhatsApp Business API access to defuse
 date: '2026-05-12'
 source: WSJ  · Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bbc.com/news/articles/cn8qj8wjgxwo
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 77bd1887a6476ec1f783e33a39614a8daafee223f08c8bd5c03b94ab365a91f6

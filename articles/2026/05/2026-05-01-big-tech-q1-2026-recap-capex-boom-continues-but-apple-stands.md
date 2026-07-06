@@ -4,8 +4,8 @@ title: 'Big Tech Q1 2026 Recap: Capex Boom Continues, but Apple Stands Out'
 date: '2026-05-01'
 source: The Motley Fool
 url_original: null
-url_canonical: https://betafinch.com/blog/big-tech-ai-capex-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: a292eba93659ea363a2ef256ed1db418cd4c283757459c9c65211399ca672545

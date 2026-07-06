@@ -4,8 +4,8 @@ title: 'Microsoft Q1 2026 Global AI Diffusion Report: Enterprise Adoption Keeps 
 date: '2026-05-13'
 source: Microsoft / LinkedIn AI Global News Briefing
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: ea0097d6c44b9419f2b38c27da10e260a707db62b8a3fbab052dd64a27c4a2f9

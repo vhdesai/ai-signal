@@ -4,8 +4,8 @@ title: Anthropic Publicly Acknowledges Claude Code Quality Regression After User
 date: '2026-05-14'
 source: ToolsCompare.AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/engineering/april-23-postmortem
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 2993ae84e71b17a6b05f7e3534fd4611e05a0a0ced3adbe7fca9bb0d1a8741fa

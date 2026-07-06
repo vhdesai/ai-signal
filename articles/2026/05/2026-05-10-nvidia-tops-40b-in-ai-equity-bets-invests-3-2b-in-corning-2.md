@@ -4,8 +4,8 @@ title: Nvidia Tops $40B in AI Equity Bets — Invests $3.2B in Corning, $2.1B in
 date: '2026-05-10'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: fa6e508ea56aacf6af2e4008117942fd7cb4dcaa471bed6fe9d789f5111cd836

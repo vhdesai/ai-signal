@@ -5,8 +5,8 @@ title: Anthropic Acquires Stainless, the SDK Infrastructure Powering OpenAI's De
 date: '2026-05-19'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.anthropic.com/news/anthropic-acquires-stainless
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 04a48315f37d2a2cf22ea1d1773c46a69936f38b794ead74c5a875f30dc522f7

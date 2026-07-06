@@ -4,8 +4,8 @@ title: Pentagon Signs Eight Vendors to AI Frameworks
 date: '2026-05-03'
 source: Dev Weekly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.beri.net/article/pentagon-deploys-8-ai-vendors-classified-networks
+url_status: repaired
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: e063765aafff1741280c48a8a7aab80b1e55f59e919c29e6709148988c886b28
 normalized_title_hash: ce0683e7e9d6a5fc

@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
+- 2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 embedding_id: 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX signed a compute-capacity agreement with open-source AI startup Reflectio
 
 **Entities:** [[NVIDIA]] · [[Scale AI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]]
+**Related:** [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]] · [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

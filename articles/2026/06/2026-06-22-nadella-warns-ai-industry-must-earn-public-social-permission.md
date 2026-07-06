@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 - 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
-- 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
 embedding_id: 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 event_name: ''
 ---
@@ -37,5 +36,5 @@ In a WSJ interview, Nadella cautioned that AI leaders cannot simultaneously clai
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]]
+**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]]
 <!-- graph:end -->

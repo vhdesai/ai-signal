@@ -5,8 +5,8 @@ title: Amazon launches Alexa AI Podcasts — on-demand audio built on licensed n
 date: '2026-05-19'
 source: TheWrap
 url_original: https://www.thewrap.com/industry-news/tech/amazon-ai-podcasts-alexa-plus-on-demand/
-url_canonical: https://www.thewrap.com/industry-news/tech/amazon-ai-podcasts-alexa-plus-on-demand/
-url_status: broken
+url_canonical: https://www.aboutamazon.com/news/devices/alexa-podcasts-ai-generated-audio-episodes
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 75242b3996d6b30d6c0efbc386e0594e4abf2788d9087ad49cbc01a9938c7d0f

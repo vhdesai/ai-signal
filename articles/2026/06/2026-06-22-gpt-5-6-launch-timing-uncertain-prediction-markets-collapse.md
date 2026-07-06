@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
-- 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
 embedding_id: 2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Prediction-market odds that OpenAI ships GPT-5.6 by June 28 collapsed from ~83% 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
+**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]]
 <!-- graph:end -->

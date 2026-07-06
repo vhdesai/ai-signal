@@ -4,8 +4,8 @@ title: Hot Nvidia Commits $40 Billion to Equity AI Deals in 2026 — Before Midy
 date: '2026-05-09'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techechelon.com/post/nvidia-commits-more-than-40-billion-to-equity-ai-deals-in-early-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: dc2cae457e25a9b2edf52ff7d54e244335cbee9b99f258f182082b24dd0f7557

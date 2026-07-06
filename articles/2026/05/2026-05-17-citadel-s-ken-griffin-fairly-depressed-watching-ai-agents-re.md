@@ -5,8 +5,8 @@ title: 'Citadel''s Ken Griffin: "fairly depressed" watching AI agents replace Ph
 date: '2026-05-17'
 source: Business Insider (via AOL) | May 17, 2026 · RealClearPolitics
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/ken-griffin-citadel-ai-skeptic-changes-tune-hype-jobs-finance-2026-5
+url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: d28e7ebe32c9633bbfa8f8e96dfd88cbd7133e0ce89ad9635baddfca69ead006

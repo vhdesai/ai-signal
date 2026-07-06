@@ -4,8 +4,8 @@ title: There's a new way to create Google Docs with your voice
 date: '2026-05-19'
 source: The Wall Street Journal · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/technology/there-s-a-new-way-to-create-google-docs-with-your-voice-watch-me-try-it/ar-AA23zVRC
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: e2032d9e8ca104381c75c9f6923f2fad7f092f80156615a5ae6ec35d4d8cd7f7
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 - 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
-- 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
 embedding_id: 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The WSJ daily roundup highlights a hands-on review of Google's new voice-driven 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]]
+**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]]
 <!-- graph:end -->

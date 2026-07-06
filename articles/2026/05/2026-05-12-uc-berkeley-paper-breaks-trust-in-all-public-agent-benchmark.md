@@ -4,8 +4,8 @@ title: UC Berkeley Paper "Breaks Trust" in All Public Agent Benchmarks Breaking
 date: '2026-05-12'
 source: UC Berkeley / FutureAGI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: dc752d3dabb8431a01840590eca2ac895b866b1a450a0419a5c75bd1b6d302ce

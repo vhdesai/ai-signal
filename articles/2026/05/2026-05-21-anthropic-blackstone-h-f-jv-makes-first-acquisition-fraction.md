@@ -4,8 +4,8 @@ title: 'Anthropic–Blackstone–H&F JV Makes First Acquisition: Fractional AI B
 date: '2026-05-21'
 source: Bloomberg / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.blackstone.com/news/press/the-ai-native-enterprise-services-firm-backed-by-anthropic-blackstone-and-hellman-friedman-announces-acquisition-of-fractional-ai/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 9308de966c4af8c3f624f1d7f8af1268ce5ff053468a0127a7727f41c54ca0cc

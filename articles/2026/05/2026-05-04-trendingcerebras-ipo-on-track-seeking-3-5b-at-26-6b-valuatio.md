@@ -4,7 +4,7 @@ title: TrendingCerebras IPO on Track — Seeking $3.5B at $26.6B Valuation
 date: '2026-05-04'
 source: SiliconANGLE / TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/
+url_canonical: https://siliconangle.com/2026/05/04/ai-chip-provider-cerebras-seeks-raise-3-5b-ipo-26-6b-valuation/
 url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 1d6ccf7b80f6ac2145504fc641398c49f0cc28bb77b2ce007418e499f72bc67d

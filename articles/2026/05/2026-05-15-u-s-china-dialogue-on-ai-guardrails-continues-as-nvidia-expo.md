@@ -5,8 +5,8 @@ title: U.S.–China dialogue on AI guardrails continues as NVIDIA export rules r
 date: '2026-05-15'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.studioglobal.ai/ca/discover/answers/what-did-donald-trump-and-chinese-officials-6a073a1577ab35ad68ba268a
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: c36905c35d79156e34425a975816ff5cb0dacb453662cecdb390880c1d15426e

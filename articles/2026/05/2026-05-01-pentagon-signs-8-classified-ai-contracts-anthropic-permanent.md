@@ -5,8 +5,8 @@ title: Pentagon Signs 8 Classified AI Contracts — Anthropic Permanently Exclud
 date: '2026-05-01'
 source: TechSpot / Forbes / WSJ
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnn.com/2026/05/01/tech/pentagon-ai-anthropic
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: cc725b8b5466780f97166ff0431047c216f856ad2c49213413d306adabe82388

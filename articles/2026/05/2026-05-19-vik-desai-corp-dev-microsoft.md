@@ -4,8 +4,8 @@ title: Vik Desai · Corp Dev · Microsoft
 date: '2026-05-19'
 source: 22 confirmed items · 6 themes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://happenstance.ai/u/352caa08-f7ab-421c-b67c-5cba356de3e2
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 0c592e2f1b21a083087e77d264274e0255e87ef6284cb547e81881d92935541f

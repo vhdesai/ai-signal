@@ -5,8 +5,8 @@ title: Breaking White House Expected to Sign AI Frontier Model Vetting Executive
 date: '2026-05-07'
 source: The Daily Signal / New York Times
 url_original: null
-url_canonical: https://www.dailysignal.com/2026/06/02/trump-executive-order-ai/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 273c4d711541739af8a93502784b1b03a74daf76d01151e137762387fd07a738

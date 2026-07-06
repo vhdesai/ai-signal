@@ -4,8 +4,8 @@ title: Musk v. OpenAI Dismissed; Pope Leo XIV's AI Encyclical Coming
 date: '2026-05-17'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/world/tech-titans-mostly-silent-after-pope-leo-s-warning-about-risks-of-ai/ar-AA247d6N
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 26837fb1cad0461a837658b2df95c8383faa1f67aa9e1f5f6499d4489bed18e3

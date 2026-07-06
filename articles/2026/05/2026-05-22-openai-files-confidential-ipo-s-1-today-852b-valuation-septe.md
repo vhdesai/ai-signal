@@ -4,8 +4,8 @@ title: OpenAI Files Confidential IPO S-1 Today — $852B Valuation, September Ta
 date: '2026-05-22'
 source: CNBC / Reuters / Axios
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.vktr.com/ai-news/openai-files-confidential-ipo-at-852b-valuation/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b659e6307b82b7f67c7a57e80eab2ec98d4af43f4a0383e5736b2b162ba7aec2

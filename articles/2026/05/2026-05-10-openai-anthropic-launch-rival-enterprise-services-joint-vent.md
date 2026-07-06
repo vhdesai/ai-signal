@@ -4,8 +4,8 @@ title: OpenAI & Anthropic Launch Rival Enterprise Services Joint Ventures
 date: '2026-05-10'
 source: TechCrunch / CNBC / Reuters
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 8fbf445c3ce1df2a8c98c957c2fec401e0b0f4d4059f2ae02e0905bdf03b7a21

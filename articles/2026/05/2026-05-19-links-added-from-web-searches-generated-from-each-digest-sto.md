@@ -6,8 +6,8 @@ title: Links added from web searches generated from each digest story heading an
 date: '2026-05-19'
 source: Business Insider**
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/2024/8/15/24220581/google-search-ai-overviews-links-citations-expanded-rollout
+url_status: repaired
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: d0e35ad3b8047b2695647668edc634c79fc1c9744d30deccd5cfa6246b555e91

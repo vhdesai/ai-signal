@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: Pandaily
 url_original: https://pandaily.com/alibaba-damo-elementsclaw-ai-superconductors-28-gpu-hours-jul2026
 url_canonical: https://pandaily.com/alibaba-damo-elementsclaw-ai-superconductors-28-gpu-hours-jul2026
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 894c2c48fccfbb996498ced2c329584b3284c7fe2dd4abf9e973e75e3cd7fab1
@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
+- 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-- 2026-04-23-the-most-important-ai-developments-across-industry-research
 embedding_id: 2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba DAMO Academy, with Renmin University and the University of Chinese Acade
 
 **Entities:** [[Alibaba]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-04-23-the-most-important-ai-developments-across-industry-research]]
+**Related:** [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

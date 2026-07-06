@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou
 - 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
@@ -38,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
+**Related:** [[2026-06-19-nyu-s-damodaran-warns-ai-correction-could-be-more-painful-th]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-26-wsj-wealth-adviser-highlights-how-stock-frenzy-dynamics-arou]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-while-both-remain-u]]
 <!-- graph:end -->

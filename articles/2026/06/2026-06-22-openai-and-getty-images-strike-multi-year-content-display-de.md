@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
 - 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 - 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
 - 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 embedding_id: 2026-06-22-openai-and-getty-images-strike-multi-year-content-display-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Getty Images and OpenAI announced a multi-year agreement to surface Getty's lice
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
+**Related:** [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]]
 <!-- graph:end -->

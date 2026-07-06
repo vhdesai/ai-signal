@@ -4,8 +4,8 @@ title: Sam Altman's Personal Investments Trigger GOP Probe and SEC Referral
 date: '2026-05-13'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://theideamagazine.com/business-industry/sam-altman-s-personal-investments-prompt-gop-probe-call-for-sec-investigation/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 9323a8ff4940cb9f3ba5d89e5385bbd3bdcc406863ed3bac7678a4dede37e0c6

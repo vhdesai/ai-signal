@@ -43,6 +43,38 @@ python -X utf8 -m news_trends --root .. run-all
 
 Additional maintenance stage: `clean-repairs` (offline revert of wrong URL repairs).
 
+## URL repair (parallel, time-boxed, resumable)
+
+`repair-urls` searches the live web for broken/missing article links. It runs
+concurrent search/fetch workers and is capped by a time box so a rebuild always
+finishes in bounded time. Whatever it doesn't reach is durably saved and picked
+up on the next run (already-repaired links are skipped).
+
+- **Default time box: 60 minutes.** Configure it (both as a standalone stage and
+  inside `run-all`):
+
+  ```pwsh
+  pwsh ./scripts/run-pipeline.ps1 -RepairTimeout 7200   # 2-hour time box
+  pwsh ./scripts/run-pipeline.ps1 -RepairTimeout 0      # disable the time box
+  pwsh ./scripts/run-pipeline.ps1 -RepairWorkers 16     # 16 concurrent workers
+  ```
+
+  ```bash
+  REPAIR_TIMEOUT=7200 ./scripts/run-pipeline.sh         # 2-hour time box
+  REPAIR_TIMEOUT=0 ./scripts/run-pipeline.sh            # disable the time box
+  REPAIR_WORKERS=16 ./scripts/run-pipeline.sh           # 16 concurrent workers
+  ```
+
+  Raw CLI: `--repair-timeout <seconds>` (0 disables), `--repair-workers <n>`,
+  `--repair-stop-file <path>`.
+
+- **Graceful early stop:** create the sentinel file `indexes/repair.stop` (or the
+  path given to `--repair-stop-file`) to make the stage finish its in-flight work
+  and exit before the time box elapses.
+- **Live progress:** a rolling snapshot is written to `indexes/repair-status.json`
+  (state, attempted, repaired, unresolved, deferred, elapsed). Both files are
+  git-ignored.
+
 ## Data sync
 
 Copy pipeline data (SQLite DB + ChromaDB) from the internal Obsidian pipeline:

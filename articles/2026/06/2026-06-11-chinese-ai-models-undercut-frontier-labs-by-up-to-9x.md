@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
@@ -38,5 +39,5 @@ DeepSeek and Kimi leading. Frontier economics repriced downward from all directi
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
 <!-- graph:end -->

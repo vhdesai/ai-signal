@@ -85,10 +85,18 @@ news/*.md (input)
 
 ### 7. Repair URLs (`urls.py`)
 
-- For broken/missing URLs, searches DuckDuckGo for the article title + source
+- For broken/missing URLs, searches the live web (ddgs) for the article title + source
 - Validates candidates against a relevance gate (blocked domains, homepage detection, title token overlap)
 - Self-heals: reverts previously-written low-quality repairs
 - Deliberately conservative to avoid incorrect URL assignments
+- **Parallel:** runs concurrent search/fetch workers (`--repair-workers`, default 10); all SQLite writes stay on a single main thread
+- **Time-boxed:** the network phase is capped (`--repair-timeout`, default 3600 s / 60 min; `0` disables). On timeout it drains in-flight work and exits
+- **Gracefully interruptible:** an operator can create the `indexes/repair.stop` sentinel (or `--repair-stop-file`) to stop early
+- **Resumable:** progress is committed incrementally and a rolling snapshot is written to `indexes/repair-status.json`; deferred URLs are retried on the next run
+
+> **Network-blocked domains:** Yandex and Softonic are unreachable behind some
+> corporate networks (Microsoft IT controls). They are skipped during validation
+> (kept as-is, not marked broken) and never accepted as repaired canonical URLs.
 
 ### 8. Build Site (`site.py`)
 

@@ -4,8 +4,8 @@ title: Osaurus Brings Unified Local + Cloud AI Model Management to macOS
 date: '2026-05-15'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: ca211580c4d2a6f0d25c05e2c9c5a4c3bc0ebba92a91566ee6143d50d59fd43d

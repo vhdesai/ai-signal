@@ -5,8 +5,8 @@ title: Advanced Cybersecurity AI Capabilities Spark Global Alarm — Claude Myth
 date: '2026-05-22'
 source: The Asahi Shimbun
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.asahi.com/ajw/articles/16560540
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 5e809e86d60f645bb287524fe5109c5333a8019db2272d7d87371be1775349fe

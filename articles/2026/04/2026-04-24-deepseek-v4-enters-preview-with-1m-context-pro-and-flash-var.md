@@ -4,8 +4,8 @@ title: DeepSeek V4 enters preview with 1M-context Pro and Flash variants
 date: '2026-04-24'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thenextweb.com/news/deepseek-v4-pro-flash-launch-open-source
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
   2026.md
 content_hash: e0fb811154f4388d54c11a98aa3738d2b62233f0bdbb42cc85e401e3d55346f2

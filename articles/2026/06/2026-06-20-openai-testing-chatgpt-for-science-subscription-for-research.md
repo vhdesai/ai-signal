@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
 - 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
-- 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 embedding_id: 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Leaked UI suggests a specialized tier for universities and research institutions
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]]
+**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
 <!-- graph:end -->

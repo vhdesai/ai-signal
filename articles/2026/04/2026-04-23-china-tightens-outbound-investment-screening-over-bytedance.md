@@ -5,7 +5,7 @@ title: China tightens outbound-investment screening over ByteDance, Moonshot, St
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: https://developmentstoday.com/ai-robotics/china-tightens-gate-us-capital-domestic-tech-deals
+url_canonical: https://economictimes.indiatimes.com/tech/technology/china-to-curb-us-investment-in-tech-companies-report/articleshow/130496655.cms
 url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md

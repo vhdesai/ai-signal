@@ -4,8 +4,8 @@ title: MIT releases MIGHTY — open-source path planning for mobile robots
 date: '2026-05-19'
 source: MIT News
 url_original: https://news.mit.edu/topic/computers
-url_canonical: https://news.mit.edu/topic/computers
-url_status: broken
+url_canonical: https://www.avantgardenews.com/news/mit-and-penn-unveil-mighty-robot-navigation-system-20260519
+url_status: repaired
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: d010fe696fa56f5ce3ee730154dde27121f9de147c0018d7567d0151427b2466
@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
+- 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
-- 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
 embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers unveiled MIGHTY, an open-source path-planning system that rapidl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]]
 <!-- graph:end -->

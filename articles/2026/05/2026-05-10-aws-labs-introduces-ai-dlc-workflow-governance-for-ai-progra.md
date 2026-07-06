@@ -4,8 +4,8 @@ title: 'AWS Labs Introduces AI-DLC: Workflow Governance for AI Programming Agent
 date: '2026-05-10'
 source: AIToolly
 url_original: null
-url_canonical: https://aitoolly.com/ai-news/article/2026-05-10-aws-labs-introduces-ai-dlc-new-adaptive-workflow-guidance-rules-for-ai-programming-agents
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: fefd0ac4788652f04065407c2ce28a3de021324f283f3baa4c54727316371d3f

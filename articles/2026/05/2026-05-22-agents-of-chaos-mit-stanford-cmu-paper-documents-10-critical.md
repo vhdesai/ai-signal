@@ -5,8 +5,8 @@ title: '"Agents of Chaos": MIT, Stanford & CMU Paper Documents 10 Critical Agent
 date: '2026-05-22'
 source: Constellation Research / Multiple Institutions
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.constellationr.com/insights/news/agents-chaos-paper-raises-agentic-ai-questions
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 48e2ced1c39b0d1435b4a5c56cb9df416d2d855c2c6a248547313eb45527f6dd

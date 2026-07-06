@@ -4,8 +4,8 @@ title: HotPentagon Signs AI Contracts with 8 Vendors — Conspicuously Excluding
 date: '2026-05-02'
 source: The Neuron / CNN / Reuters
 url_original: null
-url_canonical: https://aibizinsider.com/2026/05/07/pentagon-ai-contracts-anthropic-excluded-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 761063d872eca6d044e46f74a589d5a65389595c878ab61594aa4ef88fcd4a30

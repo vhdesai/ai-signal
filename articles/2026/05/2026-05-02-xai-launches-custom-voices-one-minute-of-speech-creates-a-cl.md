@@ -5,8 +5,8 @@ title: 'xAI Launches Custom Voices: One Minute of Speech Creates a Cloneable Voi
 date: '2026-05-02'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: a01502b61546a12512a319b5d097e5f936e5efe7710abb0a4cf5e739967b25fb
 normalized_title_hash: 671efc862c7d941a

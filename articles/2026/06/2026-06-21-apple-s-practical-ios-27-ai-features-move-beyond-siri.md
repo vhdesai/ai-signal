@@ -6,8 +6,8 @@ source: TechCrunch
 url_original: https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
 url_canonical: https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
 url_status: ok
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: eeb5bee81409cde96d884613a65dee0c976e9c59ae17b103c9f2320a81dd29c2
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: e500e2b3e052b78d381e570f4fe0c63f5d3bfe18dbdf82210c6616e2993bd968
 normalized_title_hash: 905253ee997630f7
 canonical_url_hash: 7f055dff129a6d7e
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Apple's Practical iOS 27 AI Features Move Beyond Siri
 
-iOS 27 introduces pragmatic device-level AI features outside the Siri overhaul. Apple continues to route AI through OS utility and privacy-sensitive workflows where adoption can be broad, even as the company remains behind in frontier-model branding.
+TechCrunch detailed a set of iOS 27 AI features outside the headline Siri overhaul, emphasizing pragmatic device-level functionality rather than a single chatbot interface. Apple is continuing to route AI through operating-system utility and privacy-sensitive user workflows, where adoption can be broad even if the company remains behind in frontier-model branding.
 
 <!-- graph:start -->
 ## Connections

@@ -4,8 +4,8 @@ title: China Blocks Meta's Manus Deal; Founders Eye $1B Buyout
 date: '2026-05-21'
 source: News.az
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.az/news/china-blocks-meta-s-manus-deal-founders-eye-1b-buyout
+url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 2f271accbcfe91fd27f2a61ddc86237e9021348cde9de6ef81800703fd1c44ab

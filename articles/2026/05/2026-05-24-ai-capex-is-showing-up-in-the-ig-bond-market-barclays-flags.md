@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 - 2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
-- 2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot
 embedding_id: 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The May 24 brief aggregates Nvidia's ~$90B deal spree, Barclays' warning that Bi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-19-nyu-s-damodaran-ai-correction-could-be-more-painful-than-dot]]
+**Related:** [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-05-13-cerebras-could-be-2026-s-hottest-ipo-sovereigns-backstop-the]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
 <!-- graph:end -->

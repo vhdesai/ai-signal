@@ -4,8 +4,8 @@ title: Ex-Google CEO Booed While Discussing AI in Commencement Speech
 date: '2026-05-18'
 source: The Wall Street Journal
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: ec9c033bc63cffa8fd52b3f481c4e7082be1cfed700d186c0ea50f383199fd26

@@ -5,8 +5,8 @@ title: EU Softens AI Act Compliance Rules Under Tech Lobby Pressure — "Omnibus
 date: '2026-05-07'
 source: ILKHA / EU Council
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: f8887f095c0f6368db09250c5dedf924c6c5735b975de04b24d4cfc27768da34

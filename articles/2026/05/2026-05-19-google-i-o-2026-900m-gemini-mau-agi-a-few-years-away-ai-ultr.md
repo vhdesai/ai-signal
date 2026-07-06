@@ -4,8 +4,8 @@ title: 'Google I/O 2026: 900M Gemini MAU, AGI "a Few Years Away," AI Ultra Now $
 date: '2026-05-19'
 source: Build Fast With AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digitalbrightfuture.com/googl-io-2026-ai/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 8f65b9aebba3ec80f35fe9c1070a408cd1d69bdc28244dd05074fbcb900bf753

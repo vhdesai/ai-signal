@@ -10,8 +10,8 @@ title: Reuters analysis published today examines how Apple's tightly controlled 
 date: '2026-04-22'
 source: Microsoft
 url_original: null
-url_canonical: https://finance.yahoo.com/sectors/technology/articles/analysis-ai-era-apples-strengths-100211972.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
 content_hash: 7e53afce8d11389ba2487e52bc347bb8ae6ad57bab6eebd4680dc8b81dc06e2d

@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 129
+member_count: 133
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 129 connected article(s).
+> Auto-generated entity hub. 133 connected article(s).
 
+- `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
 - `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
 - `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]

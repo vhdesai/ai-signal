@@ -4,7 +4,7 @@ title: SpaceX’s $500B premium gets harder to sell as Cursor option lands
 date: '2026-04-23'
 source: PitchBook
 url_original: null
-url_canonical: https://www.digitalapplied.com/blog/spacex-acquires-cursor-anysphere-60b-ai-coding-2026
+url_canonical: https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
 url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md

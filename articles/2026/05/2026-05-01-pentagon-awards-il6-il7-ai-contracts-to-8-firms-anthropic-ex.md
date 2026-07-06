@@ -5,8 +5,8 @@ title: Pentagon Awards IL6/IL7 AI Contracts to 8 Firms — Anthropic Excluded Ov
 date: '2026-05-01'
 source: idlen.io / CNN Business
 url_original: null
-url_canonical: https://www.idlen.io/news/pentagon-8-classified-ai-contracts-openai-google-spacex-anthropic-excluded-may-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 7e01eb5e3b46016fb6be5468fa40d3b7be13d6ba03626d40fec5b093f8a38789

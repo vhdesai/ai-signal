@@ -4,8 +4,8 @@ title: 'Apple WWDC26 Day 3: Announcement Status and Source Links — Overview'
 date: null
 source: 'Apple WWDC26 Day 3: Announcement Status and Source Links'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/
+url_status: repaired
 digest_source: digests\raw\13_Apple_WWDC26_Day3_Status_and_Links.md
 content_hash: e43e549f757069fea8c9e51b662aa0d050ddf85ec5e24f25705bd999c59ddf0a
 normalized_title_hash: 947235aac27d7ba3

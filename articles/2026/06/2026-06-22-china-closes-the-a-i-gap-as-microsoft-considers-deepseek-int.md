@@ -6,8 +6,8 @@ source: DealBook
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: 9b0eaf12ebca2664961ba6e2fdc03cdd6ed8d10305162048750b97f33e18eaac
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: 5084f86bb6d60d91db4c65eeaf49ee26814f8122fc6b1fc39e7f54c66bdc2073
 normalized_title_hash: 0fc36120d82a099c
 canonical_url_hash: ''
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration
 
-Corporate America is increasingly willing to adopt Chinese AI models even as policy tightens against Anthropic. Microsoft may make DeepSeek's V4 model available for Copilot Cowork as a lower-cost alternative, potentially exposing millions of enterprise users to one of China's most capable models. The tension between national-security posture and enterprise cost optimization is sharpening.
+DealBook reported that corporate America is increasingly willing to adopt Chinese AI models even as the Trump administration clamps down on Anthropic. Microsoft may make DeepSeek's V4 model available for its Copilot Cowork product as a lower-cost alternative, potentially exposing millions of enterprise users to one of China's most disruptive models. The story highlights the growing tension between national-security policy and enterprise cost optimization.
 
 <!-- graph:start -->
 ## Connections

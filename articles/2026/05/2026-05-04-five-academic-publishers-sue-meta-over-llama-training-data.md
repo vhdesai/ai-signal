@@ -4,7 +4,7 @@ title: Five academic publishers sue Meta over Llama training data
 date: '2026-05-04'
 source: Reuters
 url_original: null
-url_canonical: https://www.usatoday.com/story/tech/news/2026/05/05/meta-ai-training-piracy-lawsuit/89947090007/
+url_canonical: https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai
 url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md

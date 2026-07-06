@@ -4,8 +4,8 @@ title: Google Gemini Omni Video Model Reportedly in Testing Ahead of I/O 2026
 date: '2026-05-12'
 source: Gadgets360
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.explainx.ai/blog/google-gemini-omni-video-model-io-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 3dabe29adeab4f5d55a8f9b18d5b7edd801332b599e64f21a75ecc20661a846d

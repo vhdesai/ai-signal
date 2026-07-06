@@ -4,8 +4,8 @@ title: TRENDINGTencent and Alibaba close in on DeepSeek round at $20B+ valuation
 date: '2026-04-22'
 source: Bloomberg / The Information
 url_original: null
-url_canonical: https://techfundingnews.com/deepseek-20b-valuation-tencent-alibaba-first-funding-round/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 3ede7ee15653d3ae96034501221c20a641de40ff1955edc37e5bf174386d62e9
 normalized_title_hash: 75f17820a3484e3c

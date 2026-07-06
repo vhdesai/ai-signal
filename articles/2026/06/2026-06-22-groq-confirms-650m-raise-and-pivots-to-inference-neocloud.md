@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-groq-confirms-650m-funding-round
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 - 2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 embedding_id: 2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Groq closed a $650M round led by Disruptive and Infinitum, ~6 months after Nvidi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-06-23-groq-confirms-650m-funding-round]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]]
 <!-- graph:end -->

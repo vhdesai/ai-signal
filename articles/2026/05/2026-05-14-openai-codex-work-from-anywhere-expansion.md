@@ -4,8 +4,8 @@ title: 'OpenAI Codex: "Work From Anywhere" Expansion'
 date: '2026-05-14'
 source: OpenAI Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hundredtabs.com/blog/openai-codex-explained-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: b344f6c6219de83c18d3e7a2c69140ec1b4befff45a6f2a2fca6688569641d5d

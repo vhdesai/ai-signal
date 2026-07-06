@@ -4,8 +4,8 @@ title: NewOpenAI, Microsoft, AMD, Broadcom & Nvidia Publish MRC Compute Protocol
 date: '2026-05-06'
 source: The Deep View / Techmeme
 url_original: null
-url_canonical: https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 10895b6a105cea8d0aa30470ce0d52155466cc5dae4ec32add586dbbd64f31fc
 normalized_title_hash: 9c2bb00e19a8e9c8

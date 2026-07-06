@@ -5,7 +5,7 @@ title: 'Trending Sakana AI: 7B Model Learns to Route Tasks Across GPT-5, Claude 
 date: '2026-05-07'
 source: VentureBeat
 url_original: null
-url_canonical: https://digitalmindnews.com/ai/sakana-ai-launches-rl-conductor-to-orchestrate-gpt-5-and-claude/
+url_canonical: https://niteagent.com/blog/sakana-rl-conductor-orchestration-2026/
 url_status: repaired
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md

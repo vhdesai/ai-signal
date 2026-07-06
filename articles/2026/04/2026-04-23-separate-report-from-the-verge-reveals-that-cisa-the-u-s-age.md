@@ -10,8 +10,8 @@ title: 'separate report from The Verge reveals that CISA — the U.S. agency pri
 date: '2026-04-23'
 source: 'Source: The Verge'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 28d9024f39289f6c665c9db6685bc395954eb31feaef8c3b208df10bade43971

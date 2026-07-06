@@ -4,8 +4,8 @@ title: '"AI Alignment via Debate" — fresh empirical results'
 date: '2026-05-20'
 source: arXiv · View on arXiv
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arxiv.org/html/2509.00091v1
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: a158c026e7ced4dfd8926057249ef354ad120deae2cc0d2c92c245cb9ad0f71d

@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 386
+member_count: 388
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 386 connected article(s).
+> Auto-generated entity hub. 388 connected article(s).
 
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
+- `2026-07-04` [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one|Microsoft to Merge Consumer and Enterprise Copilot Into One App]]
 - `2026-07-04` [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa|Microsoft reportedly plans a unified Copilot app and an always-on "Autopilot" agent]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-04` [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne|Alibaba’s DAMO Academy AI discovers — and lab-verifies — four new superconductors]]
@@ -48,6 +49,7 @@ member_count: 386
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-22` [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai|Chevron Strikes Power Deal with Microsoft for West Texas AI Data Center]]
 - `2026-06-20` [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration|Nadella: "There Is No Societal Permission" for AI Concentration]]
+- `2026-06-20` [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo|Nadella Warns AI Industry: "There Is No Societal Permission" for Concentration]]
 - `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]
 - `2026-06-18` [[2026-06-18-microsoft-shifts-copilot-cowork-to-usage-based-pricing-explo|Microsoft Shifts Copilot Cowork to Usage-Based Pricing; Explores DeepSeek V4]]
 - `2026-06-17` [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar|Meta's Applied AI Unit Faces Internal Unrest as Engineers Are Reassigned to Data Labeling]]

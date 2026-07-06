@@ -4,8 +4,8 @@ title: 'EU AI Act Simplification Deal: High-Risk Rule Delays, Nudification App B
 date: '2026-05-07'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.europarl.europa.eu/news/en/press-room/20260427IPR42011/ai-act-deal-on-simplification-measures-ban-on-nudifier-apps
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 66095687ae2d78a6caccfaa433f057e55c94692ce41299ba9f6bc6ef5c0c6934

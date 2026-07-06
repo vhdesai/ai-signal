@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b
+- 2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo
 - 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 embedding_id: 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Microsoft's Xbox gaming unit plans to cut staff in the coming months as its fina
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b]] · [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]]
 <!-- graph:end -->

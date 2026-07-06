@@ -4,8 +4,8 @@ title: Recursive Superintelligence Raises $650M at $4.65B Valuation — Stealth 
 date: '2026-05-13'
 source: AIHub
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://tech.eu/2026/05/13/recursive-superintelligence-emerges-from-stealth-with-650m-raise/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 468c32b12cc1e1fd8cf36066299b981e007e72f37f7b7a2ca933f8c835c1d20e

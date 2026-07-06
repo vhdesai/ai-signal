@@ -4,8 +4,8 @@ title: EY and Microsoft Announce $1 Billion Enterprise AI Initiative Over Five Y
 date: '2026-05-22'
 source: Analytics India Magazine
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://analyticsindiamag.com/ai-news-updates/microsoft-commits-17-5-bn-to-advance-indias-ai-ambition/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: c2ce4fb9c58da26f3bfc14f6cae41474def33ee5933bd61da48379d803794712

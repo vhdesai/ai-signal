@@ -10,8 +10,8 @@ title: Microsoft announced it will embed Anthropic's Claude Mythos Preview into 
 date: '2026-04-23'
 source: 'Source: Reuters'
 url_original: null
-url_canonical: https://www.idlen.io/news/microsoft-claude-mythos-security-development-lifecycle-anthropic-april-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: f102ed6a0a0877594b00ee7b692c54f6bd761cd092d291c6245a04a8e514a62d

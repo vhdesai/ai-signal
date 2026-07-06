@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
+- 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 - 2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
-- 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 embedding_id: 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Equities fell Friday in a global technology sell-off as investors questioned str
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]]
+**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]]
 <!-- graph:end -->

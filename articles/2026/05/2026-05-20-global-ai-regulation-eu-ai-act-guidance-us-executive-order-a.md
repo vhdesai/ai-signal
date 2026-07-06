@@ -5,8 +5,8 @@ title: 'Global AI regulation: EU AI Act guidance, US Executive Order, and China'
 date: '2026-05-20'
 source: CIO Dive · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.bloominglobal.com/media/detail/new-us-regulation-takes-effect-to-restrict-chinas-access-to-sensitive-data
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 537bbf3e27e8dc284acb2881d24645351b9a144f4d39a8c869131ab64541b8d4

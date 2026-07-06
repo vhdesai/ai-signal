@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
 - 2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to
+- 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-04-15-model-releases
 embedding_id: 2026-05-22-gitlab-released-version-19-0-with-broader-use-of-ai-agents-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI Deploys Advanced Cybersecurity AI Model to Japanese Enterprises
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-04-15-model-releases]]
+**Related:** [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to]] · [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

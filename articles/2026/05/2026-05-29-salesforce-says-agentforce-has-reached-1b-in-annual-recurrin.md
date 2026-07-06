@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
 - 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
+- 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
-- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 embedding_id: 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIO Dive reported that Salesforce is leaning on Agentforce to sustain growth, wi
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]]
 <!-- graph:end -->

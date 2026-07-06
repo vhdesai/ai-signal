@@ -4,8 +4,8 @@ title: Google I/O 2026 Keynote Live — Gemini 4.0, Android XR Glasses & Alumini
 date: '2026-05-19'
 source: AIToolsRecap / Engadget / Times Now
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://pasqualepillitteri.it/en/news/2894/google-io-2026-recap-official-keynote-announcements
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 5c236a4a49c9cd44d8d34c6d3353f6eb8e21bbc8086147aef3bf58e060651b08

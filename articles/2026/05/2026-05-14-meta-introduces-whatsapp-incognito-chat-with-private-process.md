@@ -4,8 +4,8 @@ title: Meta Introduces WhatsApp "Incognito Chat" with Private Processing TEE Arc
 date: '2026-05-14'
 source: Meta AI Blog
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.whatsapp.com/introducing-incognito-chat-with-meta-ai-a-completely-private-way-to-chat-with-ai
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: d510ed73e6945fd5a0aa8cdb166b6f84752bf9d4709f9ebae4c145123f7e1d20

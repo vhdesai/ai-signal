@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 418
+member_count: 426
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 418 connected article(s).
+> Auto-generated entity hub. 426 connected article(s).
 
+- `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of|SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor appetite]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
+- `2026-07-05` [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet|SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite]]
+- `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-05` [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets|Foxconn's Q2 revenue jumps ~40% on AI-server demand; June sets a record, full-year target raised]]
 - `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
@@ -49,6 +55,7 @@ member_count: 418
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in|OpenAI and Broadcom unveil "Jalapeño," their first custom AI inference chip]]
 - `2026-06-24` [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s|Nvidia’s Huang calls smuggled-chip data centers a “dead end,” says AI ROI is “answered”]]
 - `2026-06-23` [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio|SpaceX secures a $6.3B compute deal from AI startup Reflection]]
+- `2026-06-23` [[2026-06-23-groq-confirms-650m-funding-round|Groq Confirms $650M Funding Round]]
 - `2026-06-23` [[2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public|Cerebras shares fall ~10% on first earnings report as a public company]]
 - `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
 - `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
@@ -59,6 +66,7 @@ member_count: 418
 - `2026-06-22` [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud|Groq Confirms $650M Raise and Pivots to Inference "Neocloud"]]
 - `2026-06-22` [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers|Europe Unveils a Record 35 New NVIDIA AI Supercomputers]]
 - `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget|Hyperscaler AI Capex Framed as "Twice the U.S. Defense Budget"]]
 - `2026-06-18` [[2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu|Google Borrows Nvidia's Playbook to Build a Rival AI-Chip Business]]
 - `2026-06-17` [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o|Nvidia ENPIRE: AI Agents Autonomously Run Robotics Research on Real Hardware]]
 - `2026-06-17` [[2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure|NVIDIA Advances France's National AI Factory Infrastructure at VivaTech]]

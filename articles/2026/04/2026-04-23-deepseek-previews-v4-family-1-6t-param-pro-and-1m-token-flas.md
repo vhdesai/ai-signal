@@ -4,8 +4,8 @@ title: 'DeepSeek previews V4 family: 1.6T-param Pro and 1M-token Flash'
 date: '2026-04-23'
 source: DeepSeek / MarkTechPost
 url_original: null
-url_canonical: https://deepseekai.guide/models/deepseek-v4-flash/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 989156251934bad1bd79f974bced78c4ae53d2814d0fbee4f22588281bea138e

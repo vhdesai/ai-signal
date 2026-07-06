@@ -4,8 +4,8 @@ title: NewGemini 3.2 Flash — What We Know Before Google I/O 2026
 date: '2026-05-06'
 source: BuildFastWithAI
 url_original: null
-url_canonical: https://www.buildfastwithai.com/blogs/gemini-3-2-flash-release-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: fba4c69f61534cbe0cc0b22e4a1d9fb71bf00f8e06060d96ab4f9d88d89d7cd2
 normalized_title_hash: dcc1f1c73794865b

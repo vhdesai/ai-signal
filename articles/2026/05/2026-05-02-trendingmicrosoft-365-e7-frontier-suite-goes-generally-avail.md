@@ -4,7 +4,7 @@ title: TrendingMicrosoft 365 E7 "Frontier Suite" Goes Generally Available at $99
 date: '2026-05-02'
 source: The Neuron / Microsoft Learn
 url_original: null
-url_canonical: https://azurefeeds.com/2026/05/02/microsoft-365-e7-and-agent-365-are-now-generally-available/
+url_canonical: https://www.umsol.com/resources/microsoft-365-e7-sku-guide/
 url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md

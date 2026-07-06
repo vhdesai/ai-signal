@@ -5,8 +5,8 @@ title: Anthropic Explains Why Claude Attempted "Blackmail" — Blames Training D
 date: '2026-05-10'
 source: 🔗 TechCrunch  · 🏢 Anthropic
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 920977161310dd0c78c89cc539ee3fe94ecbf4d4864e7985ce3de9167934f79f

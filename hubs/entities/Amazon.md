@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 211
+member_count: 212
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 211 connected article(s).
+> Auto-generated entity hub. 212 connected article(s).
 
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]

@@ -5,8 +5,8 @@ title: Missouri AI Safeguards Bill Killed 11-0 in Committee, Same Day Iowa Enact
 date: '2026-05-13'
 source: Missouri Independent
 url_original: https://missouriindependent.com/2026/05/13/missouri-ai-regulations-founder-in-house-committee-despite-white-house-go-ahead/
-url_canonical: https://missouriindependent.com/2026/05/13/missouri-ai-regulations-founder-in-house-committee-despite-white-house-go-ahead/
-url_status: broken
+url_canonical: https://house.mo.gov/billcentral.aspx
+url_status: repaired
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: be55b0d2fdba8edf9c381c8ccb269febae03ec95c459c1a513b52ee0a788b717

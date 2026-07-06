@@ -5,8 +5,8 @@ title: 'Stanford AI Index: US AI Researcher Inflow Drops 89% Since 2017, Raising
 date: '2026-05-22'
 source: Stanford HAI / MIT Technology Review
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 42c56fcd76c2757aaeadf816d8c39662d3eac20819baba65aa100c3b4ebc31d1

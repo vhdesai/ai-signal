@@ -4,8 +4,8 @@ title: EU Reaches Provisional AI Act Omnibus Deal — High-Risk Deadline Restruc
 date: '2026-05-07'
 source: IAPP
 url_original: null
-url_canonical: https://iapp.org/news/a/eu-agrees-to-amend-ai-act-clarifies-overlap-with-machinery-rules
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 4f6f81d31f180113b90431917f4726afd096e8a83d2345b94eb2f477876d187b

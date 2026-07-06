@@ -4,7 +4,7 @@ title: Google Launches 2026 India AI Accelerator; Cursor Kimi Controversy Contin
 date: '2026-03-31'
 source: Business News This Week
 url_original: null
-url_canonical: https://www.nationpress.com/business/googles-2026-ai-accelerator-opens-applications
+url_canonical: https://businessnewsthisweek.com/technology/google-launches-2026-india-accelerator-for-ai-startups/
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

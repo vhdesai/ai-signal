@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s
 - 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
-- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
+- 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 embedding_id: 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Wired reported that the UK is making a major investment in a billion-dollar AI s
 
 **Entities:** [[AMD]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
+**Related:** [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-u-s]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
 <!-- graph:end -->

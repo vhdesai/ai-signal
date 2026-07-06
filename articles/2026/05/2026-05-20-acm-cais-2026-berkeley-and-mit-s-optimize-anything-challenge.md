@@ -5,8 +5,8 @@ title: 'ACM CAIS 2026: Berkeley and MIT''s "optimize_anything" Challenges Domain
 date: '2026-05-20'
 source: ACM CAIS 2026
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.caisconf.org/program/2026/papers/optany-unified-text-optimization-can-outperform-specialized-systems/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 2ecd2da25fd4399344bed3675182d8ace75c8f2390edbb431d9b5bab00ed49f9

@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-05-19-standard-chartered-plans-7-800-job-cuts-by-2030-explicitly-c
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 embedding_id: 2026-06-07-banks-lay-groundwork-for-mass-ai-driven-workforce-cuts
@@ -34,5 +35,5 @@ Major global banks are preparing large-scale workforce reductions driven by AI, 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-standard-chartered-plans-7-800-job-cuts-by-2030-explicitly-c]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]]
+**Related:** [[2026-06-07-bloomberg-banks-lay-groundwork-for-mass-workforce-cuts-as-ai]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-19-standard-chartered-plans-7-800-job-cuts-by-2030-explicitly-c]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]]
 <!-- graph:end -->

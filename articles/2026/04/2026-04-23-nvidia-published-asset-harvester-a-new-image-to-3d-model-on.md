@@ -8,8 +8,8 @@ title: NVIDIA published Asset-Harvester, a new image-to-3D model, on Hugging Fac
 date: '2026-04-23'
 source: 'Source: AIFlashReport'
 url_original: null
-url_canonical: https://huggingface.co/nvidia/asset-harvester
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 3f9104d230e0b83fe4367880bb82ed1ab9cf114e684838c52292e9396463f834

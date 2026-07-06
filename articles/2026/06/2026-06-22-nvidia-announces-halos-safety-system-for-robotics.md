@@ -6,8 +6,8 @@ source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai
 url_canonical: https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai
 url_status: ok
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: 1959c438ce4d4b74d034ee48a0d2446905ba3fd247b1bef73ef7e19949ffb6bc
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: fb63ebc809230b373d6d2d9f3069d79122e34961054244cfb7633a159d8cacca
 normalized_title_hash: f16dd57ecec24a61
 canonical_url_hash: e1b092213890de8d
 tags:
@@ -30,7 +30,7 @@ event_name: ''
 
 # NVIDIA Announces Halos Safety System for Robotics
 
-NVIDIA introduced Halos for Robotics, a full-stack functional safety system for physical AI spanning chips, simulation, software, and runtime controls. The system positions NVIDIA to own the safety architecture for autonomous systems as part of the platform layer.
+NVIDIA introduced Halos for Robotics, a full-stack functional safety system for physical AI spanning chips, simulation, software, and runtime controls. The announcement is strategically important because it positions NVIDIA to own the safety architecture for robotics and autonomous systems as part of the platform layer, not just the accelerator.
 
 <!-- graph:start -->
 ## Connections

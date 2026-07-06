@@ -4,7 +4,7 @@ title: DeepSeek V4 reshapes Chinese AI compute demand on Huawei Ascend silicon
 date: '2026-05-01'
 source: Reuters / Financial Times
 url_original: null
-url_canonical: https://www.ainchina.com/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/
+url_canonical: https://aiinasia.com/greater-china/china-domestic-ai-stack-deepseek-v4-huawei-ascend-greater-china-2026-06-05
 url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md

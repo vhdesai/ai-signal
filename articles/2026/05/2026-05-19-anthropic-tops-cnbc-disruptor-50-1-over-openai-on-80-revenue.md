@@ -4,8 +4,8 @@ title: 'Anthropic Tops CNBC Disruptor 50 — #1 Over OpenAI on 80× Revenue Grow
 date: '2026-05-19'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/19/anthropic-cnbc-disruptor-50-ranking.html
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: ef0410c971a7aa6f41d326999f5129a2d13d720a7802f09f4a2ffeff9fae3a93

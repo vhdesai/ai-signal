@@ -4,8 +4,8 @@ title: Anthropic Closes $30B Round at $900B+ Valuation, Hires Karpathy for Pretr
 date: '2026-05-19'
 source: AIToolsRecap / CNBC / Dev Weekly
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 94ea5ea69261ddbecf7aa7ae454d1e4bbb54528b7309e8c7824266f2b426e3f2

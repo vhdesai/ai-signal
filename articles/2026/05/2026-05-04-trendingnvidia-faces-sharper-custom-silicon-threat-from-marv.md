@@ -4,8 +4,8 @@ title: TRENDINGNvidia faces sharper custom-silicon threat from Marvell
 date: '2026-05-04'
 source: Motley Fool
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.fool.com/investing/2026/06/16/custom-ai-chips-are-coming-for-nvidias-crown-here/
+url_status: repaired
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 6180e540ae09418c02030a4ea0bcbd095c1c344ab384d1e19727cd1a2bf959b2
 normalized_title_hash: 1d6266582e4ba617

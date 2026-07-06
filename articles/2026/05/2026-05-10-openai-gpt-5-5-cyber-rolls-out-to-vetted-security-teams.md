@@ -4,8 +4,8 @@ title: OpenAI GPT-5.5-Cyber Rolls Out to Vetted Security Teams
 date: '2026-05-10'
 source: CNBC
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html
+url_status: repaired
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6d836f3a1df0d6b06d257b8fa55942c0c309f7f255524a50ef72374266c34b12
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-04-15-model-releases
-- 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
+- 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
 embedding_id: 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI launched GPT-5.5-Cyber in limited preview to vetted cybersecurity organiz
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]]
+**Related:** [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]]
 <!-- graph:end -->

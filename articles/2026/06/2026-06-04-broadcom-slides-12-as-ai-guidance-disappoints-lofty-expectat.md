@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+- 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl
 embedding_id: 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Broadcom fell ~12–13% after fiscal Q2 results paired strong AI revenue growth 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]]
+**Related:** [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
 <!-- graph:end -->

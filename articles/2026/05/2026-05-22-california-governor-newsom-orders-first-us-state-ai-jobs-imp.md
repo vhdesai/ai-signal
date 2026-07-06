@@ -4,8 +4,8 @@ title: California Governor Newsom Orders First US State AI Jobs Impact Plan
 date: '2026-05-22'
 source: TechXplore
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.gov.ca.gov/2026/05/21/governor-newsom-signs-first-of-its-kind-executive-order-to-prepare-workers-and-businesses-for-potential-ai-disruption/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 6ea319e8299b79576bbc3895acad4867b727be12ab9cc67e7592f2074749284f

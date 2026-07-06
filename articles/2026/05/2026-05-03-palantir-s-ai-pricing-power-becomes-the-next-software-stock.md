@@ -4,8 +4,8 @@ title: Palantir's AI pricing power becomes the next software-stock test
 date: '2026-05-03'
 source: The Information
 url_original: null
-url_canonical: https://thenextweb.com/news/palantir-q1-2026-earnings-software-selloff
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: dbbff2a3743849b0664b4c41eacc649c0705c93fde015635594ac1b814be3f24

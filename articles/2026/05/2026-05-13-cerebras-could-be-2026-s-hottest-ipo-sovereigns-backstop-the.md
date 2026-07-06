@@ -4,8 +4,8 @@ title: Cerebras Could Be 2026's Hottest IPO; Sovereigns Backstop the AI Boom
 date: '2026-05-13'
 source: PitchBook News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.morningstar.com/stocks/why-ai-chip-designer-cerebras-is-2026s-hottest-ipo-yet
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: c141ef147eaab48cc629e5a2b41f976dc2ba1e2f0f29f9249c83af645ee4ea66

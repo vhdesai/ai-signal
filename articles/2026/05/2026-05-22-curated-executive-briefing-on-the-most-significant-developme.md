@@ -8,8 +8,8 @@ title: curated executive briefing on the most significant developments in artifi
 date: '2026-05-22'
 source: 20 stories across 5 categories
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.globaldata.com/store/report/ai-theme-analysis-executive-briefing/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070811_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: c041f3635911bf5edd5e53b58f4aa737d298ca21df7794a771bf025d1db7c408

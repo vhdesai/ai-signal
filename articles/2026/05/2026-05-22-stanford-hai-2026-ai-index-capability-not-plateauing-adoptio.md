@@ -4,8 +4,8 @@ title: 'Stanford HAI 2026 AI Index: capability "not plateauing," adoption hits 8
 date: '2026-05-22'
 source: Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 0ad0befc1cf03cd55582af87321553d8fef3b7c51595d816d9c70d36806034d3

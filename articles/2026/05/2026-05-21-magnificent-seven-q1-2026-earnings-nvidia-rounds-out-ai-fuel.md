@@ -4,8 +4,8 @@ title: 'Magnificent Seven Q1 2026 Earnings: Nvidia Rounds Out AI-Fueled Results 
 date: '2026-05-21'
 source: Reuters / U.S. News Money
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.marketscreener.com/news/major-takeaways-from-magnificent-seven-s-ai-fueled-earnings-ce7f5adedc8bf22d
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: b2865c841981300dc6ba35d78badf1cf2ad3b98007a76d7f1af00266551ab58a

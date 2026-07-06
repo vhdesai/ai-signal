@@ -5,8 +5,8 @@ title: Anthropic Releases Claude Connectors for Adobe, Blender, and Autodesk Fus
 date: '2026-04-28'
 source: The AI Track
 url_original: null
-url_canonical: https://manufactur3dmag.com/anthropic-claude-for-cad-fusion-blender/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 4fbcf6da79cd916c3d4276e95e839b9773e01aa6910365f42408cdef5bb80f9b
 normalized_title_hash: 710f22ba0dbe7786

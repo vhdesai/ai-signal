@@ -4,8 +4,8 @@ title: OpenAI Reportedly Solves an 80-Year-Old Mathematical Problem Breaking
 date: '2026-05-21'
 source: The Rundown AI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nature.com/articles/d41586-026-01651-0
+url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 7571a706cfa424e7a43b2b5837a7c95a668adbcb3099c2c780313853ddc60437

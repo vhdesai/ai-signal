@@ -1,0 +1,90 @@
+{
+  "run_id": "20260706T161827+0000-3eb801",
+  "started_at": "2026-07-06T16:18:27+00:00",
+  "finished_at": "2026-07-06T17:32:10+00:00",
+  "summary": {
+    "command": "run-all",
+    "stages": {
+      "ingest": {
+        "digests_total": 375,
+        "digests_changed": 16,
+        "changed": [
+          "news\\2026-06-20_070006_Final-Daily-AI-News-Digest.md",
+          "news\\2026-06-21-daily-ai-news-digest.md",
+          "news\\2026-06-21_070014_Final-Daily-AI-News-Digest.md",
+          "news\\2026-06-22_085442_Final-Daily-AI-News-Digest.md",
+          "news\\2026-06-23_065425_Final-Daily-AI-News-Digest.md",
+          "news\\2026-07-05_181154_Inbox_Your Daily AI News Digest.md",
+          "news\\2026-07-06_000000_Publication-Sources.md",
+          "news\\2026-07-06_060841_Inbox_Daily AI News Digest - July 6, 2026.md",
+          "news\\2026-07-06_062258_Inbox_Daily AI News Digest - July 6, 2026.md",
+          "news\\2026-07-06_062502_Inbox_Daily AI News Digest - July 6, 2026.md",
+          "news\\2026-07-06_063900_Inbox_Daily AI News Digest - July 6, 2026.md",
+          "news\\2026-07-06_084400_Final-Daily-AI-News-Digest.md",
+          "news\\daily-ai-news-digest-2026-06-19.md",
+          "news\\daily-ai-news-digest-2026-06-21.md",
+          "news\\daily-ai-news-digest-2026-06-22.md",
+          "news\\daily-ai-news-digest-2026-07-06.md"
+        ]
+      },
+      "split": {
+        "digests_parsed": 401,
+        "articles_written": 3025,
+        "events_parsed": 57,
+        "event_articles_written": 84
+      },
+      "index": {
+        "articles_indexed": 2759,
+        "embeddings": {
+          "enabled": true,
+          "added": 42,
+          "total": 2759,
+          "md_rewritten": 2759
+        }
+      },
+      "dedupe": {
+        "articles": 2759,
+        "exact_duplicates": 12,
+        "canonical": 2328,
+        "semantic_duplicates": 419,
+        "related_links": 10192
+      },
+      "build-graph": {
+        "status": "ok",
+        "articles_linked": 2759,
+        "wikilinks_emitted": 19960,
+        "entity_hubs": 34,
+        "topic_hubs": 5,
+        "hubs_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\hubs"
+      },
+      "validate-urls": {
+        "checked": 929,
+        "ok": 707,
+        "broken": 222,
+        "missing": 1829,
+        "skipped": 1
+      },
+      "repair-urls": {
+        "attempted": 1255,
+        "repaired": 675,
+        "unresolved": 580,
+        "skipped": 64,
+        "reverted": 0,
+        "deferred": 732,
+        "terminated": "timeout",
+        "elapsed_s": 3631.9,
+        "max_workers": 10
+      },
+      "build-site": {
+        "pages": 170,
+        "articles": 2759,
+        "canonical": 2328,
+        "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+      },
+      "publish": {
+        "status": "dry-run",
+        "note": "site/ generated locally; no remote publish configured"
+      }
+    }
+  }
+}

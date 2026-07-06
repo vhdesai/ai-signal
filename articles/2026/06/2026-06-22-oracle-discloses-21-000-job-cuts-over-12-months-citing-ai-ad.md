@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
@@ -38,5 +39,5 @@ In an annual regulatory filing, Oracle disclosed it reduced headcount by ~21,000
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]]
+**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue]]
 <!-- graph:end -->

@@ -1,14 +1,21 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 392
+member_count: 401
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 392 connected article(s).
+> Auto-generated topic hub. 401 connected article(s).
 
+- `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE)]]
+- `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
+- `2026-07-05` [[2026-07-05-sakana-ai-launches-sakana-translate-a-namazu-powered-ja-en-z|Sakana AI launches "Sakana Translate," a Namazu-powered JA–EN–ZH tool]]
 - `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
 - `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]
 - `2026-07-04` [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne|Alibaba’s DAMO Academy AI discovers — and lab-verifies — four new superconductors]]
@@ -70,9 +77,11 @@ member_count: 392
 - `2026-06-24` [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s|Nvidia’s Huang calls smuggled-chip data centers a “dead end,” says AI ROI is “answered”]]
 - `2026-06-24` [[2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta|Anthropic accuses Alibaba of “largest known distillation attack” on Claude]]
 - `2026-06-24` [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor|AI's Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War]]
+- `2026-06-23` [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system|Sakana AI Launches "Fugu" Multi-Agent Orchestration System]]
 - `2026-06-22` [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro|Sakana AI Launches Fugu — Orchestration Model That Routes Across Frontier LLMs]]
 - `2026-06-22` [[2026-06-22-china-closes-the-a-i-gap-as-microsoft-considers-deepseek-int|China Closes the A.I. Gap as Microsoft Considers DeepSeek Integration]]
 - `2026-06-22` [[2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model|Alibaba Ships HappyHorse 1.1 Image-to-Video Model]]
+- `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus|Forbes: Energy Sovereignty Will Decide the AI Race — Europe Must Compete or Become a "Colony"]]
 - `2026-06-21` [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race|Forbes: Energy Sovereignty Will Decide the AI Race]]
 - `2026-06-19` [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model|Commerce Department Claims Unprecedented Power Over AI Models]]
 - `2026-06-18` [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed|Open-Source AI Stocks Surge as Fable 5 Ban Spotlights Closed-Model Risk]]

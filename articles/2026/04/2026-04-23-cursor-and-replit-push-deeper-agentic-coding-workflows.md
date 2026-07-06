@@ -4,8 +4,8 @@ title: Cursor and Replit push deeper agentic coding workflows
 date: '2026-04-23'
 source: TechCrunch / VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/
+url_status: repaired
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: f3168b16a487020b3de1cdcd2baacbd088b7316d5d6b8c566ec5764ea16ccbd2

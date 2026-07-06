@@ -4,8 +4,8 @@ title: 🟢 NEW Google DeepMind Unveils Gemini-Powered AI Mouse Cursor
 date: '2026-05-14'
 source: Moneycontrol / Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://deepmind.google/blog/ai-pointer/
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 9b8b051b280dc6064f35f43b1a4929fc4e8c96a291660e22ccb0a30c532af318

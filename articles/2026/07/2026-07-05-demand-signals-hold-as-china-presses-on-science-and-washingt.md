@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
+- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-30-tuesday-june-30-2026
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut
-- 2026-07-04-deployment-silicon-power-take-center-stage
-- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
 embedding_id: 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Over the US Independence Day weekend, hard demand signals outweighed new product
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
+**Related:** [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-30-tuesday-june-30-2026]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]]
 <!-- graph:end -->

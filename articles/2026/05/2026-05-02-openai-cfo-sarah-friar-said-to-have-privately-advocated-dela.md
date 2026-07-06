@@ -5,8 +5,8 @@ title: OpenAI CFO Sarah Friar Said to Have Privately Advocated Delaying IPO Unti
 date: '2026-05-02'
 source: Wall Street Journal / Techmeme
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-gb/money/technology/openai-ipo-delay-to-2027-sarah-friar-flags-600-billion-risk-as-sam-altman-pushes-2026-listing/ar-AA22mBSV
+url_status: repaired
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 43139a3d95594f00b4e3a906e4ec21ab66ef9f82552e6adcefc574cf7d6d54ec
 normalized_title_hash: fc4cbf30b4e04fe2

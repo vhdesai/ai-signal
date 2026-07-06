@@ -6,8 +6,8 @@ source: NVIDIA Newsroom
 url_original: https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 url_canonical: https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 url_status: ok
-digest_source: digests\raw\2026-06-22_070000_Final-Daily-AI-News-Digest.md
-content_hash: 2a8917d80d04ee1236de59a84adbfe6bbf4647e9ec2deeaac1a42fc379c17555
+digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
+content_hash: 5e87eb2fd8979d955af20ff6ab47a64428824a19dd47af8f3f86587aee04ffbd
 normalized_title_hash: 2ab3cab820a1fa9c
 canonical_url_hash: 9a99f41188b7bc48
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Europe Unveils a Record 35 New NVIDIA AI Supercomputers
 
-NVIDIA announced a record 35 AI supercomputers across Europe as part of sovereign-AI and scientific-computing buildouts. AI infrastructure competition is increasingly regional and policy-linked, with governments seeking local capacity rather than relying on U.S.-hosted hyperscale clouds.
+NVIDIA announced a record slate of 35 AI supercomputers across Europe as part of the continent's sovereign-AI and scientific-computing buildout. The deployment reinforces that AI infrastructure competition is increasingly regional and policy-linked, with governments and research institutions seeking local capacity rather than relying solely on U.S.-hosted hyperscale clouds.
 
 <!-- graph:start -->
 ## Connections

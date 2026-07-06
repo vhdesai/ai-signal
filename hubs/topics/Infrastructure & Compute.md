@@ -1,13 +1,17 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 655
+member_count: 662
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 655 connected article(s).
+> Auto-generated topic hub. 662 connected article(s).
 
+- `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic|TeraWulf Signs ~$19B AI-Infrastructure Lease With Anthropic]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-05` [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets|Foxconn's Q2 revenue jumps ~40% on AI-server demand; June sets a record, full-year target raised]]
 - `2026-07-04` [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that|Poolside open-weights Laguna XS 2.1, a 33B coding model that runs on a single GPU]]
@@ -78,7 +82,9 @@ member_count: 655
 - `2026-06-24` [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui|Memory chips turn from cyclical to high-growth on the AI buildout]]
 - `2026-06-24` [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor|AI's Last 24 Hours: Talent Shocks, Capital, and a Two-Way Export War]]
 - `2026-06-23` [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio|SpaceX secures a $6.3B compute deal from AI startup Reflection]]
+- `2026-06-23` [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai|SpaceX Signs Up to $6.3B Compute Deal with Reflection AI]]
 - `2026-06-23` [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world|MIT's ultra-efficient chip lets tiny robots map their world on an LED's worth of power]]
+- `2026-06-23` [[2026-06-23-groq-confirms-650m-funding-round|Groq Confirms $650M Funding Round]]
 - `2026-06-23` [[2026-06-23-cerebras-shares-fall-10-on-first-earnings-report-as-a-public|Cerebras shares fall ~10% on first earnings report as a public company]]
 - `2026-06-22` [[2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r|Venture Capital Concentrates on AI "Bottlenecks" — $3.37B in 10 Rounds]]
 - `2026-06-22` [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal|SpaceX Signs $6.3B Compute Deal with Reflection AI; Shares Fall 10%]]
@@ -91,6 +97,7 @@ member_count: 655
 - `2026-06-21` [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center|Morgan Stanley Pitches Leveraged Loan Market for Data Center Financing]]
 - `2026-06-19` [[2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally|Micron Earnings Viewed as Critical Test for AI Rally]]
 - `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three|Hyperscaler AI Capex: "Twice the U.S. Defense Budget" Over Three Years]]
+- `2026-06-19` [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget|Hyperscaler AI Capex Framed as "Twice the U.S. Defense Budget"]]
 - `2026-06-18` [[2026-06-18-ferc-fast-tracks-data-center-power-requests|FERC Fast-Tracks Data-Center Power Requests]]
 - `2026-06-18` [[2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months|Baseten Nears $1.5B Round at $13B — 160% Jump in 6 Months]]
 - `2026-06-17` [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve|Foxconn Reveals Closed-Loop Physical AI Stack with Nvidia Vera Rubin]]

@@ -5,8 +5,8 @@ title: OpenAI Launches Ads Manager Beta — Monetizing the ChatGPT Surface with 
 date: '2026-05-12'
 source: FutureAGI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.searchenginejournal.com/openai-launches-self-serve-ads-manager-for-chatgpt/573971/
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 557efd82e84243c67b4d4b81f114df904573e80f749caac474c25d8981818dcb

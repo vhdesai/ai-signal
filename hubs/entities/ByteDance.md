@@ -1,18 +1,22 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 32
+member_count: 36
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 32 connected article(s).
+> Auto-generated entity hub. 36 connected article(s).
 
+- `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-03` [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi|ByteDance opens the public launch window for Seedance 2.5 video model]]
 - `2026-07-03` [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac|Anthropic moves to close loopholes that let Chinese firms access Claude]]
 - `2026-07-02` [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc|Anthropic moves to close loopholes letting Chinese firms access Claude]]
 - `2026-06-29` [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip|Baidu jumps 7% as chip arm Kunlunxin targets ~$50B Hong Kong IPO]]
 - `2026-06-27` [[2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi|ByteDance and Renmin University release iLLaDA, an 8B diffusion language model]]
+- `2026-06-23` [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model|ByteDance Unveils Seedance 2.5 Video Generation Model]]
 - `2026-05-29` [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part|China's ByteDance developing AI chips modeled on Nvidia partner Groq]]
 - `2026-05-29` [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips|ByteDance is developing Groq-like AI inference chips]]
 - `2026-05-27` [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for|ByteDance Weighs Up to $70B in 2026 AI Capex, ~$100B Planned for 2027 Hot Breaking]]

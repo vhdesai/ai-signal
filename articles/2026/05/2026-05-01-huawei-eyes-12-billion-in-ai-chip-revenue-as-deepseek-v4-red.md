@@ -5,8 +5,8 @@ title: Huawei Eyes $12 Billion in AI Chip Revenue as DeepSeek V4 Redirects Chine
 date: '2026-05-01'
 source: The Deep Dive / Financial Times
 url_original: null
-url_canonical: https://www.tomshardware.com/tech-industry/huawei-expects-12-billion-in-ai-chip-revenue-this-year-as-nvidias-china-market-share-hits-zero
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: d40aa2b55b59a571c472cf15f1bf48df96aa952ad81e7d8f41f2ba2f34715e72
 normalized_title_hash: 7788b77adef85761

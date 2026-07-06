@@ -4,8 +4,8 @@ title: TrendingxAI Pursues Triple Alliance with Cursor and Mistral to Challenge 
 date: '2026-05-11'
 source: MSN / TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.msn.com/en-us/news/insight/xai-in-talks-with-mistral-cursor-amid-60b-buy-option/gm-GMEC2573A2
+url_status: repaired
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 21f82f6d9b31325de3d374ae9b52fcf0e3afc8d4a318e37612b376b1c982468e

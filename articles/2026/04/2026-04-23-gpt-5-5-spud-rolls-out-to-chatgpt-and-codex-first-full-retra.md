@@ -5,8 +5,8 @@ title: GPT-5.5 (“Spud”) rolls out to ChatGPT and Codex — first full retrai
 date: '2026-04-23'
 source: OpenAI / Build Fast with AI
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/openai-gpt-5-5-release-chatgpt-codex-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081856_Inbox_Daily AI News Digest –– May 4,
   2026.md
 content_hash: 0f2fd50d977619bf336428dea66d41a12ff987c175a1c9c45ee88349a87f07ff

@@ -4,8 +4,8 @@ title: Amp raises $1.3B to build a shared AI "Grid" democratizing compute access
 date: '2026-05-12'
 source: NYT / DNyuz  · AI Business
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://dnyuz.com/2026/05/12/start-up-raises-1-3-billion-for-an-a-i-grid/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: a06b41dcf1830065c0cc7b4d5b037f90dc109c8dffdc6d6d77abfeb0a092bf69

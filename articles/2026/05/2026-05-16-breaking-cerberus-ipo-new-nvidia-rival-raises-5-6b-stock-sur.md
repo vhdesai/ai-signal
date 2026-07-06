@@ -5,8 +5,8 @@ title: '🔴 BREAKING Cerberus IPO: New Nvidia Rival Raises $5.6B, Stock Surges 
 date: '2026-05-16'
 source: Yahoo Finance
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/article/cerebras-stock-slides-after-near-70-surge-in-biggest-ipo-of-2026-130757084.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: 631545868594eb53e91e12e31e95df4daf581bd94fe4a1c31de731dc0cc0dba6

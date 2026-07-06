@@ -4,8 +4,8 @@ title: AI Adoption Up, AI Trust Down — Widening Gap Among U.S. Users
 date: '2026-03-31'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 7ad5543f5d1b70b063ced31b4e3f2e4e0c0dbd852d4b6f8669d13b1ec2f4ba8c

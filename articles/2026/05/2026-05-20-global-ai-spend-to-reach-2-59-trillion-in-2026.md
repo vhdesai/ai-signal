@@ -4,8 +4,8 @@ title: Global AI spend to reach $2.59 trillion in 2026
 date: '2026-05-20'
 source: CIO Dive · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.ciodive.com/news/gartner-global-IT-spend-2026/803460/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: b2eb912ac750526fc0d87e96f28790318b492a328dd4565514bd1e5b261cd716

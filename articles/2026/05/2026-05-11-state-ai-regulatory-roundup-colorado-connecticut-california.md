@@ -5,8 +5,8 @@ title: 'State AI Regulatory Roundup: Colorado, Connecticut & California Advancin
 date: '2026-05-11'
 source: JD Supra / Kelley Drye & Warren LLP
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.jdsupra.com/legalnews/ai-regulatory-roundup-recent-1608362/
+url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: a47b5f6f71dab88b50bd946e1e7696e32c12210c352b8eec066ec7250142d557

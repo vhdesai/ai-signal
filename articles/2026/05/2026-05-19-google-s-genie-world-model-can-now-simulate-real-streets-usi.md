@@ -4,8 +4,8 @@ title: Google's Genie World Model Can Now Simulate Real Streets Using Street Vie
 date: '2026-05-19'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: dd3d78fb7e7bdbd361d5e209a3d43df570255fce553804c1bc2407f423c138ba

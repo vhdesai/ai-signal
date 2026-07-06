@@ -4,8 +4,8 @@ title: Big Tech's $725B AI capex vs. 2026 layoff wave
 date: '2026-05-04'
 source: Invezz
 url_original: null
-url_canonical: https://techjournal.org/tech-layoffs-2026-ai-spending
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 27ec8140bb3dee9fe2013221dae8b63129a38be633e7d3f3b0768a75b68c6a5a
 normalized_title_hash: b97bc9b65a4a1198

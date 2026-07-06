@@ -5,8 +5,8 @@ title: 'Nature: AI-Designed Peptide Antibiotics Show Activity Against Multi-Drug
 date: '2026-05-13'
 source: Nature
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.nature.com/articles/s41467-020-16950-x
+url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: e82dcc50973d0fee048361d55bfbea8544dfb8ce417dcd0828f4169342ede261

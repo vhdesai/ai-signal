@@ -5,8 +5,8 @@ title: 'MIT study: Technology usually creates jobs for young, skilled workers �
 date: '2026-05-21'
 source: MIT News  · Massachusetts Institute of Technology
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blueprintlabs.mit.edu/news/technology-usually-creates-jobs-for-young-skilled-workers-will-ai-do-the-same/
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: b95bf60385c9cb7ce63f83cd527cd83b01691a73ddce8fce22163aad0b9481ae

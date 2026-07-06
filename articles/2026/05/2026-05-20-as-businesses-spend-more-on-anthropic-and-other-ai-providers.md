@@ -9,8 +9,8 @@ title: As businesses spend more on Anthropic and other AI providers, they are de
 date: '2026-05-20'
 source: The Information | Article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_072032_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: f22a26bd7ed481b5b4e04c2d3a4702f0874fa776d7af3e8b65f6be99885f5cf1

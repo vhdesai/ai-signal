@@ -4,8 +4,8 @@ title: Goldman Sachs to lead SpaceX IPO; AI-adjacent infra continues to soak up 
 date: '2026-05-20'
 source: Yahoo Finance · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/article/inside-spacexs-ipo-goldman-sachs-takes-prestigious-lead-spot-while-morgan-stanley-plays-a-major-role-for-retail-investors-143633819.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 7882fab525ce7c5fbb72df62d1c967a9a9bc93bcb384e4cd25549dfcc9ba164f

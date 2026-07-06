@@ -4,8 +4,8 @@ title: 'Adobe Sneaks 2026: Project Face Off wins Summit audience favorite'
 date: '2026-04-24'
 source: The Letter Two
 url_original: null
-url_canonical: https://theaieconomy.substack.com/p/adobe-sneaks-2026-five-ai-prototypes-worth-watching
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: b42ec3abe1e2733c05f94fdc2c9681b4c9fb03f5a5d9e876a850ec8054182432
 normalized_title_hash: e4c5f34e355f4503

@@ -4,8 +4,8 @@ title: Trump Cancels AI Safety-Testing EO After CEO Snub
 date: '2026-05-22'
 source: Ars Technica
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 0c7bd01cd605fb4918fcf08cc1b277279491b49d054b8892ffc7a2d390689fa0

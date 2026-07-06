@@ -4,8 +4,8 @@ title: 'IBM Sovereign Core GA: digital sovereignty for AI'
 date: '2026-05-05'
 source: IBM Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://newsroom.ibm.com/2026-01-15-ibm-introduces-new-software-to-address-growing-digital-sovereignty-imperative
+url_status: repaired
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: d46fe20aa88cb45fc6f34ce138f439a919b34825f7666bfe37e24aebba2747e6
 normalized_title_hash: e943353b9a71b71d

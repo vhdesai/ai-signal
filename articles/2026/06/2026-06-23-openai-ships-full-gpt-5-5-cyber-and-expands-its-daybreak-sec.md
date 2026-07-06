@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ
+- 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
-- 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 embedding_id: 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI released the full version of GPT-5.5-Cyber to vetted "trusted defenders,"
 
 **Entities:** [[Anthropic]] · [[IBM]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]]
+**Related:** [[2026-06-22-openai-launches-gpt-5-5-cyber-and-patch-the-planet-initiativ]] · [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]]
 <!-- graph:end -->

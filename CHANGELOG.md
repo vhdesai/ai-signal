@@ -5,6 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- **Parallel, time-boxed, resumable URL repair** — `repair-urls` now runs
+  concurrent search/fetch workers (`--repair-workers`, default 10) with a single
+  SQLite writer, capped by a configurable time box (`--repair-timeout`, **default
+  60 min**; `0` disables). Progress is committed incrementally and mirrored to
+  `indexes/repair-status.json`; deferred URLs resume on the next run.
+- Graceful early termination via a stop-file sentinel (`indexes/repair.stop` or
+  `--repair-stop-file <path>`).
+- Repair tuning exposed through `run-pipeline.ps1` (`-RepairTimeout`,
+  `-RepairWorkers`, `-RepairStopFile`) and `run-pipeline.sh` (`REPAIR_TIMEOUT`,
+  `REPAIR_WORKERS`, `REPAIR_STOP_FILE`).
+
+### Changed
+
+- Default repair time box increased from 30 to 60 minutes.
+- Network-blocked domains (Yandex, Softonic) are skipped during URL validation
+  and never accepted as repaired canonical URLs (unreachable behind corporate IT).
+
 ## [0.4.0] — 2026-06-09
 
 ### Added

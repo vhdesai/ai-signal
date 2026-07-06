@@ -4,8 +4,8 @@ title: Hot OpenAI and Dell Partner to Deploy Codex in Enterprise On-Premises Env
 date: '2026-05-18'
 source: OpenAI News
 url_original: https://openai.com/news/
-url_canonical: https://openai.com/news/
-url_status: broken
+url_canonical: https://www.forbes.com/sites/janakirammsv/2026/05/18/dell-becomes-openais-on-prem-channel-for-frontier-models/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: a4c477585eb9bd0a04701949db93aca77703170725da0d0d689b29c782c2f424

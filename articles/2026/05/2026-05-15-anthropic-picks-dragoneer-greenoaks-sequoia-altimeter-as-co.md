@@ -5,8 +5,8 @@ title: Anthropic Picks Dragoneer, Greenoaks, Sequoia, Altimeter as Co-Leads for 
 date: '2026-05-15'
 source: The Information AM
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://economictimes.indiatimes.com/tech/funding/anthropic-has-agreed-terms-for-30-billion-funding-deal-at-900-billion-valuation-ft/articleshow/131111652.cms
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 0b0ebe26135f940e42fd603865042e369aee6cbe7075d662119f0f8fccc3262a

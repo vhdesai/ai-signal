@@ -5,8 +5,8 @@ title: Google Announces Biggest Search Overhaul in 25 Years — AI-Driven Intera
 date: '2026-05-22'
 source: AiThority / Multiple Sources
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/
+url_status: repaired
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: d1a3643b75db6244236887a088e43b953ab76358cfad2d7feccf613decf58d6a

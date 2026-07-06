@@ -4,8 +4,8 @@ title: California jury rejects Elon Musk's lawsuit against OpenAI in under two h
 date: '2026-05-18'
 source: KYMA · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 6bbd7e9225038018799af7255f4134b2030e0d878bb498ccdca1ccf25b126294

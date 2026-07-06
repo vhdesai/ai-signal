@@ -4,8 +4,8 @@ title: Apple releases PPML 2026 workshop recordings on privacy-preserving AI
 date: '2026-05-12'
 source: Apfelpatient  · Apple ML Research
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.apfelpatient.de/en/news/apple-releases-recordings-from-the-pml-workshop-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 6eb25e6d0972cf7d99c2f46c1a126a4328fd2d8265f9f1644af3c0ea063c17f7

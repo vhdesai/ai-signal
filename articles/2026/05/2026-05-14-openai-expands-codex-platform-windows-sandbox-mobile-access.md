@@ -5,8 +5,8 @@ title: 'OpenAI Expands Codex Platform: Windows Sandbox, Mobile Access & ChatGPT 
 date: '2026-05-14'
 source: OpenAI Blog  · TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://aitoolsrecap.com/Blog/openai-codex-windows-computer-use-mobile-remote-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: a889af227921de4dd4227cc3a28384408249a32048712d47e69121d0ddd4b0d1

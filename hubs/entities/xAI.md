@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 146
+member_count: 147
 ---
 
 # xAI
 
-> Auto-generated entity hub. 146 connected article(s).
+> Auto-generated entity hub. 147 connected article(s).
 
+- `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-02` [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder|xAI launches no-code Grok Voice Agent Builder]]
 - `2026-07-02` [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice|xAI launches Grok Voice AI Agent Builder (beta) — build a voice agent in under two minutes]]

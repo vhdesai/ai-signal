@@ -5,8 +5,8 @@ title: Cohere Ships Command A+ — First Apache 2.0 Open Model with Lossless Qua
 date: '2026-05-20'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cohere.com/blog/command-a-plus
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 6a9597f645cb580d443dc596a6ef088feb245b3d8d8a3c6bc2dc35b1ca68f153

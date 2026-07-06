@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
+- 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 embedding_id: 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Developers reporting sharper outputs, longer response times in ChatGPT. A/B test
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
 <!-- graph:end -->

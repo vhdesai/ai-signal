@@ -5,7 +5,7 @@ title: Meta & Zuckerberg Sued for Copyright Infringement — He "Personally Auth
 date: '2026-05-05'
 source: Variety
 url_original: null
-url_canonical: https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/
+url_canonical: https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-personally-authorised-metas-copyright-infringement-publishers-allege/articleshow/130835750.cms
 url_status: repaired
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md

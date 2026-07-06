@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
+- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks
 - 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
-- 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 embedding_id: 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
 event_name: ''
 ---
@@ -44,5 +44,5 @@ A nine-year-old Linux kernel root bug went public, cPanel patched a 9.8 auth-byp
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[SAP]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]]
+**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]]
 <!-- graph:end -->

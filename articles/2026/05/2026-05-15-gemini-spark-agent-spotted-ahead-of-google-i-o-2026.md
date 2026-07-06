@@ -4,8 +4,8 @@ title: Gemini Spark Agent Spotted Ahead of Google I/O 2026
 date: '2026-05-15'
 source: Gadgets 360
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gemini.google/overview/agent/spark/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4461e588d1cdf163059df22e0fea8d97f4a820b21a43f0902d0f3085ca1f0aa7

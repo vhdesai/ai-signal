@@ -4,8 +4,8 @@ title: Anthropic Mythos triggers US bank rush to plug cyber vulnerabilities
 date: '2026-05-12'
 source: Reuters / U.S. News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.technology.org/2026/05/13/mythos-banks-cyber-vulnerabilities/
+url_status: repaired
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 622e3f9c31521d5fc23ed2f2b095aa2c33f0843e51a24ce3f7ab6c7e7d7c787c

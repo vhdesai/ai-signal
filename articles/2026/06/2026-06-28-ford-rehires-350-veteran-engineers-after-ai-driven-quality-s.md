@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m
 - 2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te
 - 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
-- 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
 embedding_id: 2026-06-28-ford-rehires-350-veteran-engineers-after-ai-driven-quality-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Ford executives told Bloomberg the automaker brought back about 350 experienced 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]] · [[2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]]
+**Related:** [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]] · [[2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]]
 <!-- graph:end -->

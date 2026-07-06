@@ -4,8 +4,8 @@ title: Kimi K2.6 beats Claude, GPT-5.5, and Gemini in coding challenge
 date: '2026-05-03'
 source: TLDL
 url_original: null
-url_canonical: https://baikal-server.com/articles/kimi-k2-6-outperforms-claude-gpt5-5-gemini-coding-challenge/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: e354db6db491541ec0ede946d5d4806a329fa607338a4c87603388582b60a8d8

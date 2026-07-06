@@ -4,8 +4,8 @@ title: 'Harvard study: OpenAI o1 beats two attending physicians on ER triage dia
 date: '2026-05-03'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/
+url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 6aba36aaa1ce0d52218ab46b7d1915dd343e374b4975ce3fa7617e3fe734e5e8
 normalized_title_hash: 273ded49213d20ae

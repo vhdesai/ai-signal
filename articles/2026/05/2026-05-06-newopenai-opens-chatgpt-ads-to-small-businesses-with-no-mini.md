@@ -4,8 +4,8 @@ title: NewOpenAI Opens ChatGPT Ads to Small Businesses with No Minimum Budget
 date: '2026-05-06'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/chatgpt-ads-are-now-open-to-small-businesses-as-openai-builds-a-full-self-serve-ad-platform/
+url_status: repaired
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 7144cc5f648564368b4c1778b09bcd9cc6c2dd959af5bbf25795efd6ade5904c
 normalized_title_hash: 0f1116f147e57bda

@@ -11,8 +11,8 @@ title: The Verge reports that on April 7th — the same day Anthropic publicly a
 date: '2026-04-23'
 source: 'Source: The Verge'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 652a9d164649632bc599e8946306bd1aeb6bdb71086dd6a1722d63aca78ee6f9

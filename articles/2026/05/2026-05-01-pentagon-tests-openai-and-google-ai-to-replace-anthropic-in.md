@@ -5,8 +5,8 @@ title: Pentagon tests OpenAI and Google AI to replace Anthropic in classified de
 date: '2026-05-01'
 source: Defense
 url_original: https://breakingdefense.com/2026/05/pentagon-clears-7-tech-firms-to-deploy-their-ai-on-its-classified-networks/
-url_canonical: https://www.techtimes.com/articles/317998/20260608/pentagon-racing-replace-anthropics-claude-because-it-was-too-safe-war.htm
-url_status: repaired
+url_canonical: https://breakingdefense.com/2026/05/pentagon-clears-7-tech-firms-to-deploy-their-ai-on-its-classified-networks/
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: e69b72e921296159b81295e94a02b75fa3858e433a115e64931d48306fb970d4

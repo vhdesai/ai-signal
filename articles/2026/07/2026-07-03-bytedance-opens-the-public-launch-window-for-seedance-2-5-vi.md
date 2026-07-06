@@ -21,10 +21,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
 - 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
 - 2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr
 - 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
-- 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
 embedding_id: 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ByteDance began the public rollout of Seedance 2.5, which it claims can natively
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]] · [[2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]]
+**Related:** [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]] · [[2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]]
 <!-- graph:end -->

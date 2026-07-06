@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
-- 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
+- 2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal
 embedding_id: 2026-05-26-openai-strikes-journalism-partnership-with-folha-and-uol-in
 event_name: ''
 ---
@@ -35,5 +35,5 @@ OpenAI's first media partnership in Brazil surfaces attributed Folha/UOL summari
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]]
+**Related:** [[2026-05-27-openai-brings-folha-and-uol-journalism-into-chatgpt-in-brazi]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-06-22-openai-strikes-multi-year-getty-images-licensing-deal]]
 <!-- graph:end -->

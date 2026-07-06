@@ -4,8 +4,8 @@ title: Four Chinese Open-Weight Coding Models Match Western Frontier Capability
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nerdleveltech.com/china-open-weight-coding-models-cost-war
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 486fb8e6d783a680f6126f58064bf93ebda5a7f57dced0fea549b64181d69536

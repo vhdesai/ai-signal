@@ -4,7 +4,7 @@ title: EU AI Act Simplification Deal Delays High-Risk Rules, Bans Nudification A
 date: '2026-05-07'
 source: The AI Track
 url_original: null
-url_canonical: https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens
+url_canonical: https://www.europarl.europa.eu/news/en/press-room/20260427IPR42011/ai-act-deal-on-simplification-measures-ban-on-nudifier-apps
 url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md

@@ -4,8 +4,8 @@ title: Anthropic Claude Code Auto Mode + Agent SDK Opens to All Developers
 date: '2026-05-06'
 source: Anthropic / AIToolsRecap
 url_original: null
-url_canonical: https://code.claude.com/docs/en/agent-sdk/overview
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 23d2415a14a6633aea1da641ae364170457952ee3911c291c51fa44aaf7a6de6

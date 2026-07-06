@@ -9,8 +9,8 @@ title: Anthropic has launched an internal investigation after reports emerged th
 date: '2026-04-22'
 source: 📈 Trending xAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://cybersecuritynews.com/anthropic-mythos-access/
+url_status: repaired
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
 content_hash: c7f05ede3027d1b966765b5aa939ba9b818d7a1b87e24882fa5fe84430cf2f38

@@ -5,8 +5,8 @@ title: HOTPentagon picks 8 AI vendors for classified networks; Anthropic conspic
 date: '2026-05-02'
 source: CNN / Reuters / TechCrunch
 url_original: null
-url_canonical: https://pick-right.com/news/pentagon-ai-deals-anthropic-excluded-2026-05-01/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 3b6a2dd7cbd6accc5938a2b94a1d8660ed8af2d790fc33b1d7f9639f1858b502
 normalized_title_hash: ea4ff270de5ca312

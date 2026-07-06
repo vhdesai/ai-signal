@@ -4,8 +4,8 @@ title: OpenAI prepares fall IPO filing after Musk lawsuit dismissed
 date: '2026-05-20'
 source: Bloomberg  · OpenAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://news.bloomberglaw.com/california-brief/openai-faces-ipo-unknowns-even-after-victory-over-elon-musk
+url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: a3e0735807e28eefe03dbce49ddbcd393df60c7fdc688d6efa2fab40ce4d72f3

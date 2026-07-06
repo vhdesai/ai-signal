@@ -4,8 +4,8 @@ title: DeepSeek V4-Pro makes its 75% discount permanent
 date: '2026-05-22'
 source: 'Source: Codersera / Tech Times'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://codersera.com/blog/deepseek-v4-pro-permanent-price-cut-may-2026/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 7884701cbd1fc7e51e4ce5966f7a06df5500c32228f2027759734f6cb31c3f64

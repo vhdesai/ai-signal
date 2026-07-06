@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-- 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 embedding_id: 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI engineers developed optimization techniques — a combination of quantiza
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
+**Related:** [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
 <!-- graph:end -->
