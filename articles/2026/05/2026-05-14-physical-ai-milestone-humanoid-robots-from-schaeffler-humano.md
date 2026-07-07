@@ -5,7 +5,7 @@ title: 'Physical AI Milestone: Humanoid Robots from Schaeffler/Humanoid and RLWR
 date: '2026-05-14'
 source: AI News
 url_original: null
-url_canonical: https://biped.news/article/humanoid-schaeffler-2000-factory-robots-2026
+url_canonical: https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/
 url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md

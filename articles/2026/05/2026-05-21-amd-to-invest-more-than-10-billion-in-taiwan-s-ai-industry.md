@@ -4,8 +4,8 @@ title: AMD to Invest More Than $10 Billion in Taiwan's AI Industry
 date: '2026-05-21'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/21/amd-taiwan-ai-chips-sector-10-billion.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 4af56709afade8a004f18533ab3f01d1e5bea1365b0a7430bd63fa6991803c32

@@ -11,7 +11,7 @@ title: Purdue University announced that all undergraduate students entering in F
 date: '2026-04-12'
 source: 🔥 TRENDING UT Austin
 url_original: null
-url_canonical: https://www.purdue.edu/newsroom/2025/Q4/purdue-unveils-comprehensive-ai-strategy-trustees-approve-ai-working-competency-graduation-requirement/
+url_canonical: https://www.purdue.edu/home/become-a-student/
 url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md

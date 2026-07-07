@@ -5,8 +5,8 @@ title: 'Stanford 2026 AI Index: US–China Model Gap Closes to 2.7%; Agentic AI 
 date: '2026-05-19'
 source: Stanford HAI
 url_original: null
-url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070904_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 2688a987e522b64a0277bf6bf2bb0b021981bb060b3cfd103cc82c7db9fcc81b

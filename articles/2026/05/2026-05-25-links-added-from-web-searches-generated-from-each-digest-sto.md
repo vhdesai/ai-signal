@@ -6,8 +6,8 @@ title: Links added from web searches generated from each digest story heading an
 date: '2026-05-25'
 source: TechCrunch; May 26, 2026 · The Information**
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://lalinks.org/linksweb/main.jsp
+url_status: repaired
 digest_source: digests\raw\2026-05-26_080127_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: d0e35ad3b8047b2695647668edc634c79fc1c9744d30deccd5cfa6246b555e91

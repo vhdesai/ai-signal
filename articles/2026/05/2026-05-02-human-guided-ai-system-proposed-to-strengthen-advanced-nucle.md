@@ -5,8 +5,8 @@ title: Human-Guided AI System Proposed to Strengthen Advanced Nuclear Reactor Mo
 date: '2026-05-02'
 source: TechXplore
 url_original: null
-url_canonical: https://www.msn.com/en-us/news/other/human-guided-ai-aims-to-improve-advanced-reactor-safety/gm-GMB7CB036F
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 7e5cfef645c6570f1d1838afa4a9b3da7213384d9d3954abf595ac8268a8629f
 normalized_title_hash: 6e1366818af50cbd

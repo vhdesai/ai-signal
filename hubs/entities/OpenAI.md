@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 720
+member_count: 725
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 720 connected article(s).
+> Auto-generated entity hub. 725 connected article(s).
 
+- `2026-07-07` [[2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi|OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups]]
+- `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-06` [[2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t|OpenAI Ships GPT-Realtime-2.1 and GPT-Realtime-2.1-mini on the API]]
+- `2026-07-06` [[2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb|OpenAI Rolls Out GPT-5.5 Instant Mini as ChatGPT's New Fallback Model]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc|Gemini 3.5 Pro Specs Surface Ahead of Reported July 17 Launch]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s|"SkillCloak" Study: Malicious Agent Skills Evade Every Tested Scanner >90% of the Time]]
 - `2026-07-04` [[2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui|OpenAI's Brockman sketches an "almost no interface" future built on Codex-style agents]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]

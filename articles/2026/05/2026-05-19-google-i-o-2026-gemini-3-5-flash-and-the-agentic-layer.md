@@ -4,8 +4,8 @@ title: 'Google I/O 2026: Gemini 3.5 Flash and the Agentic Layer'
 date: '2026-05-19'
 source: Google DeepMind / The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/products-and-platforms/products/search/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 70e939fc66748cf62b642af9af0e5656f6b5e53de9766dee77bd0b2c05f45bf5

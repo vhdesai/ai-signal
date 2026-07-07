@@ -4,8 +4,8 @@ title: NVIDIA's NVFP4 pretraining format promises ~2× throughput at parity
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 93bddee2a132e6eb4279de7111c1c9663362cecf9eff286e3698387bfe27e867

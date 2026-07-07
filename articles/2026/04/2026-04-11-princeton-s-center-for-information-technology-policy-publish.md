@@ -10,8 +10,8 @@ title: Princeton's Center for Information Technology Policy published a study de
 date: '2026-04-11'
 source: 🔥 TRENDING UC San Diego
 url_original: null
-url_canonical: https://www.livescience.com/technology/artificial-intelligence/not-how-you-build-a-digital-mind-reasoning-failures-are-preventing-ai-models-from-achieving-human-level-intelligence
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: cf98431e2e69f4ca8dc35de261ec914890f981626115c938db8109685a561a1a

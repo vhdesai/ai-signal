@@ -5,8 +5,8 @@ title: SpaceX, OpenAI, and Anthropic Prepare for $4 Trillion Combined IPO Wave â
 date: '2026-05-23'
 source: Invezz
 url_original: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
-url_canonical: https://invezz.com/news/2026/05/23/fears-and-frenzy-mount-as-spacex-openai-and-anthropic-prepare-for-a-4t-ai-ipo-wave/
-url_status: broken
+url_canonical: https://www.fool.com/investing/2026/04/22/spacex-ipo-5000-investment-five-year-outlook/
+url_status: repaired
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest â€“ May 24,
   2026.md
 content_hash: d7008a5d553a61cd672d96c0c577e037ade0076c3b47d10748f6f9453c4a051a

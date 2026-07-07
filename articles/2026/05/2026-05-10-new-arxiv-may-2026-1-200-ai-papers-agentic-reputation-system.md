@@ -5,8 +5,8 @@ title: 'New arXiv May 2026: 1,200+ AI Papers — Agentic Reputation Systems, Jai
 date: '2026-05-10'
 source: arXiv.org
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.00073
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 98cd5ae810325d7d71f5732d6def3dc071d058142bfbf6bd87b37770df97c746

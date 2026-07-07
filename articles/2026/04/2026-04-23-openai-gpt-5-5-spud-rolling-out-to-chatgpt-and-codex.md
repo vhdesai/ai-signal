@@ -4,8 +4,8 @@ title: OpenAI GPT-5.5 ("Spud") rolling out to ChatGPT and Codex
 date: '2026-04-23'
 source: The AI Track
 url_original: null
-url_canonical: https://theaitrack.com/openai-gpt-5-5-chatgpt-codex-super-app/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 109b0014145ffd16db4c55b6a9321470ca51e513ecb4b2be8ac8b26b69692b25
 normalized_title_hash: 928391f05f6f462b

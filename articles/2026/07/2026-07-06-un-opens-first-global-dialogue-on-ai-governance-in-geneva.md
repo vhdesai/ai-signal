@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene
 - 2026-04-13-source-the-neuron-apr-13-2026
 - 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
+- 2026-07-07-cost-compute-and-consolidation-set-the-tone
 - 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
-- 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
 embedding_id: 2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva
 event_name: ''
 ---
@@ -36,5 +37,5 @@ The UN's first Global Dialogue on AI Governance opened July 6–7 at Geneva's Pa
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]]
+**Related:** [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]]
 <!-- graph:end -->

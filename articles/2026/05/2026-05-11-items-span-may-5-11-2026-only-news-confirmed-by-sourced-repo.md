@@ -5,8 +5,8 @@ title: Items span May 5–11, 2026. Only news confirmed by sourced reporting is 
 date: '2026-05-11'
 source: Prepared by Microsoft Copilot
 url_original: null
-url_canonical: https://techcommunity.microsoft.com/blog/microsoft365copilotblog/what’s-new-in-microsoft-365-copilot--may-2026/4522010
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 9490966fc0bb77d665ccffbcaf6f4866f0b18854fdccc058abdd8690071954e9

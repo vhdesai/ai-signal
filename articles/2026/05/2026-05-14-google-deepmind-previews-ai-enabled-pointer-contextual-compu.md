@@ -4,7 +4,7 @@ title: Google DeepMind Previews AI-Enabled Pointer — Contextual Computing Rein
 date: '2026-05-14'
 source: YourStory / Google DeepMind
 url_original: null
-url_canonical: https://bloomtechdaily.com/stories/2026-05-12-deepmind-ai-pointer.html
+url_canonical: https://blog.google/products-and-platforms/products/search/
 url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md

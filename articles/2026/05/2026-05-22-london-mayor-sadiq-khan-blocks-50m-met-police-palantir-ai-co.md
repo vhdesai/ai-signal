@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Britain Today News
 url_original: https://britaintodaynews.com/business/sadiq-khan-blocks-50m-met-police-palantir-ai-deal
 url_canonical: https://britaintodaynews.com/business/sadiq-khan-blocks-50m-met-police-palantir-ai-deal
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 9691ddbf16956456429717657a2a98eec85a775ad455bc369eae249efe8bc827

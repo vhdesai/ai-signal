@@ -4,8 +4,8 @@ title: Moonshot AI Restructures for Hong Kong IPO as Chinese AI Funding Surges
 date: '2026-05-19'
 source: Bloomberg / TechCrunch
 url_original: null
-url_canonical: https://news.bloomberglaw.com/capital-markets/moonshot-ai-to-overhaul-structure-to-win-nod-for-hong-kong-ipo
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: e4d7429d5b1ac5b0cd2f0841bc12db80679c1f14be438905fbd2e0b5be0ff4af

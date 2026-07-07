@@ -10,8 +10,8 @@ title: Legislators including Bernie Sanders and Alexandria Ocasio-Cortez pushed 
 date: '2026-04-10'
 source: 🔥 TRENDING VentureBeat
 url_original: null
-url_canonical: https://apnews.com/article/data-centers-ai-electricity-sanders-aoc-65651bd28c3d911d18eeb46cd54f4c75
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 498c734015b8fdf9bc7d4d245b4433e0441da73510640af387a56b3ef599b695

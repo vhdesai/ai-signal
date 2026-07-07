@@ -4,7 +4,7 @@ title: Cursor 2.5 and Replit Agent Push Coding Tools Past $2B ARR
 date: '2026-05-18'
 source: Tech-Insider / Codersera
 url_original: null
-url_canonical: https://tech-insider.org/replit-vs-cursor-2026/
+url_canonical: https://zapier.com/blog/replit-vs-cursor/
 url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md

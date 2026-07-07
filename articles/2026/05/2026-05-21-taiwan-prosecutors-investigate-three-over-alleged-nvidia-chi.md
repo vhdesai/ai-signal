@@ -5,8 +5,8 @@ title: Taiwan Prosecutors Investigate Three Over Alleged Nvidia Chip Smuggling t
 date: '2026-05-21'
 source: SFGATE
 url_original: null
-url_canonical: https://www.techtimes.com/articles/317083/20260524/nvidia-ai-chip-smuggling-draws-taiwans-first-criminal-prosecution-jensen-huang-rebukes-supermicro.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: e6758733099c927f8bd4ba40ac9848fe1e9e3720b0dc79863565307ccdbe5f61

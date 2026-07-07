@@ -5,8 +5,8 @@ title: 'Frontier Benchmark Snapshot: Gemini 3.1 Pro Leads at 94.1% GPQA — Top 
 date: '2026-05-12'
 source: AI Flash Report / FutureAGI
 url_original: null
-url_canonical: https://glia.ca/2026/frontier/06-03-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: c45b34216e7fb36826ba011d4cd642474320aa5e6fe196ece2b85cb7918b17c1

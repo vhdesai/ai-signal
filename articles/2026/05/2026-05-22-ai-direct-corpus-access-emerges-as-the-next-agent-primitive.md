@@ -4,8 +4,8 @@ title: AI direct-corpus access emerges as the next agent primitive
 date: '2026-05-22'
 source: 'Source: VentureBeat'
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.05242
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: ab4ad2178998c1089cd230be171d764edc8cef75e8046a42d5c868f40f241892

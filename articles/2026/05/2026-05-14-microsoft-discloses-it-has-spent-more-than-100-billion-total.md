@@ -4,8 +4,8 @@ title: Microsoft Discloses It Has Spent More Than $100 Billion Total on OpenAI
 date: '2026-05-14'
 source: The Information AM
 url_original: null
-url_canonical: https://letsdatascience.com/news/microsoft-spent-over-100-billion-on-openai-partnership-7d4d1ace
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 0008332ebc67f3d6782fd8580f233b8546f37d1ff927a4f8252a1da153853af4

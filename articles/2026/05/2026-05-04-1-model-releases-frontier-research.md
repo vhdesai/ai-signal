@@ -5,8 +5,8 @@ date: '2026-05-04'
 source: SAP to acquire Prior Labs to establish a frontier AI lab in Europe — SAP News
   Center / TMCnet
 url_original: null
-url_canonical: https://www.prnewswire.com/news-releases/sap-to-acquire-prior-labs-to-establish-a-globally-leading-frontier-ai-lab-in-europe-302761284.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: de1749633080435eb3b41ed090c7d718a24cdb79fbdabe8901f7a702dce24388
 normalized_title_hash: 4a39d97edfc1e2be

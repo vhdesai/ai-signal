@@ -4,8 +4,8 @@ title: Meta releases Muse Spark model amid restructuring
 date: '2026-05-20'
 source: TechRepublic · Read article
 url_original: null
-url_canonical: https://ai.meta.com/blog/introducing-muse-spark-msl/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: b2d2306ea3ca409b4b532b7d5a1d52f1ca085a19113d340dbdf574bbb2eef516

@@ -4,7 +4,7 @@ title: Why VLMs still can't count — and what researchers are doing about it
 date: '2026-05-04'
 source: TechXplore
 url_original: null
-url_canonical: https://arxiv.org/html/2510.04401
+url_canonical: https://www.definitions.net/definition/WHY
 url_status: repaired
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 723535474a7ee1ead404ef490571eb6c6fb208979a08dc26da8ef4fe4d4ab1e9

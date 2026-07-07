@@ -5,8 +5,8 @@ title: Anthropic Targets $900 Billion Valuation in ~$30B Funding Round — PwC a
 date: '2026-05-15'
 source: Forbes / The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/news/anthropic-targets-900-billion-valuation-220005674.html
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: b1bd5e95f46d3cce43d3a97dfd27b788d2e02bbc866ca7a303492b5e12f92f39

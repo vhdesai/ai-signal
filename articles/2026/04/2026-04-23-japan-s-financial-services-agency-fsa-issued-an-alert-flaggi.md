@@ -11,8 +11,8 @@ title: Japan's Financial Services Agency (FSA) issued an alert flagging cybersec
 date: '2026-04-23'
 source: 'Source: AIFlashReport'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://thejapantravelblog.com/best-places-to-visit-in-japan/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 9bfd0866903227546a5d97548f6dd6e512f8b021474f09d26d852f1672fd42ad

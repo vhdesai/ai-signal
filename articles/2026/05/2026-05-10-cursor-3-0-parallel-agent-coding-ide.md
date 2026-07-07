@@ -4,8 +4,8 @@ title: Cursor 3.0 — Parallel Agent Coding IDE
 date: '2026-05-10'
 source: MSN
 url_original: null
-url_canonical: https://forum.cursor.com/t/parallel-agent-execution-via-internal-branching/51060
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: f7973510137e30ea85b002b2fbe4795e12f096c40146e811e75d74263ae4df0e

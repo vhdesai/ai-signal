@@ -4,8 +4,8 @@ title: Huawei's AI Chip Trajectory Tightens China's Domestic Stack
 date: '2026-05-13'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://semiconductorx.com/spotlight-huawei-hisilicon.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 1a96b2c1a1a5b7722f37ff219ff0ceccac4ff54dce8c496989c70c1077186e0c

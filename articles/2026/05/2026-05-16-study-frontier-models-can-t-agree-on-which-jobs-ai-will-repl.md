@@ -4,8 +4,8 @@ title: 'Study: Frontier Models Can''t Agree on Which Jobs AI Will Replace'
 date: '2026-05-16'
 source: ToolsCompare summary
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://metr.org/time-horizons/
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: 9cb9829fbfd900d43c91cb0daf87d421209d215a378ffff50541f4f6eba32a06

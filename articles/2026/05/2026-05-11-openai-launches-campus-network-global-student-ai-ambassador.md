@@ -4,8 +4,8 @@ title: OpenAI Launches Campus Network — Global Student AI Ambassador Program
 date: '2026-05-11'
 source: 🔗 OpenAI Blog  · 🏢 OpenAI
 url_original: null
-url_canonical: https://ai-brainer.com/news/openai-launches-campus-network-for-students-worldwide-2026-05-15
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 782b132e82cfeb488d463b5e9e8c27ff4234bc8eb32875d35f1e66e8c64fd432

@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: eWeek
 url_original: https://www.eweek.com/news/xai-grok-build-coding-agent/
 url_canonical: https://www.eweek.com/news/xai-grok-build-coding-agent/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: e37fe07df0b2f0d174e1ee2011be37b638de5b0f89be1bc476fb5b1a5507ebd6

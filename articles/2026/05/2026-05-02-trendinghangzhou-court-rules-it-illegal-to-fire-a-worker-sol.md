@@ -5,8 +5,8 @@ title: TRENDINGHangzhou court rules it illegal to fire a worker solely because A
 date: '2026-05-02'
 source: The Neuron
 url_original: null
-url_canonical: https://www.msn.com/en-us/technology/artificial-intelligence/chinese-court-rules-companies-cannot-fire-workers-just-to-replace-them-with-ai/ar-AA22j3BL
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 11608085374f7eb16490675bda09ba4534bd39b6d4046dedf8e7be6a42a86975
 normalized_title_hash: 1142008ecb6685a1

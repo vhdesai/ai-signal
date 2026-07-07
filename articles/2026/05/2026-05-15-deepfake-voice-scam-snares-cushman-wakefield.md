@@ -4,8 +4,8 @@ title: Deepfake Voice Scam Snares Cushman & Wakefield
 date: '2026-05-15'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.brside.com/blog/deepfake-ceo-fraud-50m-voice-cloning-threat-cfos
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 01b61f798d1cc667cf3f477562f60edf4133e25356195efe67042b74cb587528

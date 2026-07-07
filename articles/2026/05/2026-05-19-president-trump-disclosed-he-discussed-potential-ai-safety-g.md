@@ -11,8 +11,8 @@ title: President Trump disclosed he discussed potential AI safety guardrails wit
 date: '2026-05-19'
 source: Daily AI News Digest
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_070632_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 496686c49877fd33ca7cc9696cbe44d907d643f9bf1c81100a62d28e622a1887

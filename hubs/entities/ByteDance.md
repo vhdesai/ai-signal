@@ -1,16 +1,18 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 36
+member_count: 38
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 36 connected article(s).
+> Auto-generated entity hub. 38 connected article(s).
 
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user|ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services.]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
+- `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
 - `2026-07-03` [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi|ByteDance opens the public launch window for Seedance 2.5 video model]]
 - `2026-07-03` [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac|Anthropic moves to close loopholes that let Chinese firms access Claude]]
 - `2026-07-02` [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc|Anthropic moves to close loopholes letting Chinese firms access Claude]]

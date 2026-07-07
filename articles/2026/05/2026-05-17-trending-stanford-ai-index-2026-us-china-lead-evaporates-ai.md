@@ -5,8 +5,8 @@ title: '💜 TRENDING Stanford AI Index 2026: US-China Lead Evaporates; AI Agent
 date: '2026-05-17'
 source: IEEE Spectrum / Stanford HAI
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://spectrum.ieee.org/state-of-ai-index-2026
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: f658609b7928c6948450d81d154effa28795680a565f39f4fc350a8105c8e5e7

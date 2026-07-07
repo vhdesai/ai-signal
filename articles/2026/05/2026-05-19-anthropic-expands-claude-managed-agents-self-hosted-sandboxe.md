@@ -5,8 +5,8 @@ title: Anthropic Expands Claude Managed Agents — Self-Hosted Sandboxes and MCP
 date: '2026-05-19'
 source: Anthropic / The Decoder
 url_original: null
-url_canonical: https://platform.claude.com/docs/en/managed-agents/self-hosted-sandboxes
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 520c8c6a939036126ca1f241a1668bf9730bad6b6d239efccf08498fd2d38db2

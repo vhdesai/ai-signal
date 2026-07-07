@@ -5,7 +5,7 @@ title: ⚡ BREAKING arXiv Cracks Down on Unchecked AI-Generated Content in Resea
 date: '2026-05-15'
 source: The Decoder / LLM Stats
 url_original: null
-url_canonical: https://www.pcmag.com/news/major-scientific-repository-arxiv-cracks-down-on-ai-generated-papers
+url_canonical: https://the-decoder.com/arxiv-tightens-penalties-for-ai-bungling-in-scientific-papers/
 url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md

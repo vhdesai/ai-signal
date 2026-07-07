@@ -4,8 +4,8 @@ title: Big Tech $725B AI Capex in 2026 — Up 77% — Funded by 150,000+ Layoffs
 date: '2026-05-04'
 source: Invezz
 url_original: null
-url_canonical: https://investornetworkai.com/2026/05/04/is-big-techs-725b-ai-splurge-being-funded-by-mass-layoffs/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 50455b523ff58f641e989b2f1826852db70119896ed3bda44ea29d45e0ea5b04

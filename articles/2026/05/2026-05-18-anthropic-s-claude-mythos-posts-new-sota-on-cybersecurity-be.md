@@ -4,7 +4,7 @@ title: Anthropic's Claude Mythos posts new SOTA on cybersecurity benchmarks
 date: '2026-05-18'
 source: Business Insider
 url_original: null
-url_canonical: https://www.anthropic.com/claude/mythos
+url_canonical: https://red.anthropic.com/2026/mythos-preview/
 url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md

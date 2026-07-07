@@ -8,8 +8,8 @@ title: UC Berkeley's Responsible Decentralized Intelligence (RDI) institute anno
 date: '2026-05-20'
 source: Berkeley RDI | Berkeley RDI
 url_original: null
-url_canonical: https://rdi.berkeley.edu/events/agentic-ai-summit-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: 1ded5e5862a7f75007262a1ea4a07f3105a5f0fb73132cc5327fe0915e907387

@@ -4,8 +4,8 @@ title: Nvidia Heads Into Q1 Earnings With Chip Stocks at Fresh Highs
 date: '2026-05-14'
 source: Yahoo Finance
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/article/chip-stocks-are-hitting-fresh-records-but-nvidia-isnt-the-driver-190738738.html?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 75d6786730f4059bfe07e979a44c7ae4736246a3b3f3b0732cb4ff51e1d235cf

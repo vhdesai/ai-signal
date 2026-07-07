@@ -4,8 +4,8 @@ title: Google's unreleased Gemini 3.2 Flash surfaces on Eleuther AI Arena
 date: '2026-05-03'
 source: Geeky Gadgets
 url_original: null
-url_canonical: https://opentech-ailab.org/news/google-gemini-3-2-flash-leak-eleuther-ai-arena
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: ae390ff71edcfa16875aac90b6e74cf44e3ee375bda176995656d2c58921dec5

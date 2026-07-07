@@ -4,8 +4,8 @@ title: 'Stanford HAI: 200+ global teams submit to AI for Organizations Grand Cha
 date: '2026-05-12'
 source: Stanford HAI News
 url_original: null
-url_canonical: https://hai.stanford.edu/industry/ai-for-organizations-grand-challenge
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: b11c77d9419bba29bd5259d9da4a235031fc8d607783e80619bb5418fa6291be

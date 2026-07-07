@@ -5,8 +5,8 @@ title: 4TB of Voice Data Stolen from 40,000 AI Contractors at Mercor; Offered fo
 date: '2026-04-27'
 source: The Neuron
 url_original: null
-url_canonical: https://aibreakingwire.com/news/mercor-breach-exposes-4tb-of-data-from-40000-ai-contractors
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 9e001adb7e3e500ec785829c6c5ba9af45ade9fb049122280bf6e46274ade4de

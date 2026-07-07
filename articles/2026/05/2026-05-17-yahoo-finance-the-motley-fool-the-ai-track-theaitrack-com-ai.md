@@ -7,8 +7,8 @@ title: Yahoo Finance · The Motley Fool · The AI Track (theaitrack.com) · AI T
 date: '2026-05-17'
 source: 'Digest compiled: Sunday, May 17, 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.techmeme.com/250408/p2
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: dc372abcc56c68a19eca941281d0fadc2b437e2d5e55527223fa0999aea0736c

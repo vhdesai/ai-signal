@@ -4,8 +4,8 @@ title: '"Recursive self-improvement" framing gains traction in research circles'
 date: '2026-05-04'
 source: Import AI
 url_original: null
-url_canonical: https://www.anthropic.com/institute/recursive-self-improvement
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: f39a04e219127966b1d273083954ee25b45ba1d20b26678cb11185c0839e7b09
 normalized_title_hash: dca9822faca23852

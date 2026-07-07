@@ -4,8 +4,8 @@ title: 'NewCursor 3.0 Agents Window: Parallel AI Coding Agents Now Standard'
 date: '2026-05-11'
 source: MSN / TechCrunch
 url_original: null
-url_canonical: https://evermx.com/case/cursor-3-parallel-agents-ide-launch
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_070544_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: ae402c039eda8c9736687db54ef55af341f8c637969d09be2fe5c0466b860d26

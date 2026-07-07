@@ -10,8 +10,8 @@ title: Anthropic is in talks to rent servers powered by Microsoft's custom-desig
 date: '2026-05-21'
 source: The Information, CNBC | CNBC  · The Information
 url_original: null
-url_canonical: https://www.cnbc.com/video/2026/05/05/anthropic-commits-to-spending-200-billion-on-googles-cloud-and-chips-according-to-the-information.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: 88fd94033c964f0ac397c3ea496ce02c67617f45254076c21a482c145769423c

@@ -4,8 +4,8 @@ title: 'The Briefing: Microsoft Faces Renewed Activist Risk as Shares Lag'
 date: '2026-05-12'
 source: Martin Peers
 url_original: null
-url_canonical: https://www.edgen.tech/news/post/microsoft-faces-securities-class-action-after-copilot-issues-trigger-10-stock-drop
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: cf9882cc163eb7178879f6345d37e58b5dd9f35fb627e4a57898b0b6c38f2838

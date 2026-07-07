@@ -4,8 +4,8 @@ title: Companies say AI is reviving entry-level jobs, not killing them
 date: '2026-05-19'
 source: The Wall Street Journal · Read article
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/economy/these-companies-say-ai-is-reviving-entry-level-jobs-not-killing-them/ar-AA23zV6i
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 2cf53ccd362a555e3f26cae311ce6dd89219fbe1040b360124d7d5ac5871ec3a

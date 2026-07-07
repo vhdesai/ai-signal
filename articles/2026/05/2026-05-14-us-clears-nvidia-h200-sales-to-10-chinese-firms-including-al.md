@@ -4,7 +4,7 @@ title: US Clears Nvidia H200 Sales to 10 Chinese Firms Including Alibaba and Ten
 date: '2026-05-14'
 source: AIHub
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/14/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough.html
+url_canonical: https://thenextweb.com/news/nvidia-h200-china-licences-huang-beijing-trip
 url_status: repaired
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md

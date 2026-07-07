@@ -12,8 +12,8 @@ title: Palantir Technologies shares fell approximately 14% over two sessions aft
 date: '2026-04-12'
 source: 🌶 HOT The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.wired.com/story/palantir-what-the-company-does/
+url_status: repaired
 digest_source: digests\raw\2026-04-12_071242_Inbox_Daily AI News Digest – April 12,
   2026.md
 content_hash: 0a38c3dd144ed431430a5fd7d9567622f5185b92116c6f2b440eb867866fed03

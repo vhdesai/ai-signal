@@ -6,7 +6,7 @@ date: '2026-06-25'
 source: AlleyWatch
 url_original: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
 url_canonical: https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-25-2026/
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: dcdb4e596749c967cdddbe0b973b7b0797d4562b70cffd8a2eb9364e2b3cb20d
@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1
 - 2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m
+- 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 embedding_id: 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
@@ -36,5 +37,5 @@ Despite cooling public-market sentiment, private capital kept flowing into appli
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1]] · [[2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1]] · [[2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

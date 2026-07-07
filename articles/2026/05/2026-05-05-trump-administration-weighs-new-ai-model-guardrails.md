@@ -4,7 +4,7 @@ title: Trump administration weighs new AI model guardrails
 date: '2026-05-05'
 source: The Information AM
 url_original: null
-url_canonical: https://www.ibtimes.com/trump-imposed-export-controls-anthropic-now-company-adding-new-ai-guardrails-lift-them-3804813
+url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
 url_status: repaired
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md

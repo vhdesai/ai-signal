@@ -4,8 +4,8 @@ title: OpenAI reasoning model disproves an 80-year-old Erdős conjecture
 date: '2026-05-21'
 source: The AI Track
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 768d43925c431519ccdf1e89b69525f5d056ee23298e0d637ed4622df81b268b

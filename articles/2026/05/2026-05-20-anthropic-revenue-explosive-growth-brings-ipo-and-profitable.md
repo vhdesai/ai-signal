@@ -4,8 +4,8 @@ title: Anthropic Revenue Explosive Growth Brings IPO and Profitable Quarter Into
 date: '2026-05-20'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: ea097da4614e69b0164e7015cc0d41ff5f1af642c2bdb112ab028f373a7de14f

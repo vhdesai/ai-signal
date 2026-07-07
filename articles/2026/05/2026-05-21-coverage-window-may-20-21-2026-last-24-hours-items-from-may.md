@@ -5,8 +5,8 @@ title: 'Coverage window: May 20–21, 2026 (last 24 hours). Items from May 19 in
 date: '2026-05-21'
 source: 'Stories covered: 13 items across 6 themes'
 url_original: null
-url_canonical: https://searchengineland.com/google-may-2026-core-update-rollout-is-now-complete-479119
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 4414de7a237ef4b8d4375a25fdf473a06573e9a8cb1854a0c36c96cac7101e71

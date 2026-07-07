@@ -4,8 +4,8 @@ title: SpaceX S-1 Reveals Anthropic Will Pay $45B for Colossus Compute Through 2
 date: '2026-05-20'
 source: TechCrunch / AIToolsRecap
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: feaabf99fabea59161386db99fba9eaf71cecac0c6b9e12cfdd11e9a25ad1e4e

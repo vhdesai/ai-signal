@@ -4,8 +4,8 @@ title: LinkedIn Layoffs and a New "Creator-Led Events" Pivot
 date: '2026-05-14'
 source: Business Insider
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessnewsdaily.com/2489-linkedin.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 9ed049a1b75376104b44524e3f8be72f93a8d58c2faaee17b76cef336e4d8e9e

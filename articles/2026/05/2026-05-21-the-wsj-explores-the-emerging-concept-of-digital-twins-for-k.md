@@ -8,8 +8,8 @@ title: The WSJ explores the emerging concept of "digital twins" for knowledge wo
 date: '2026-05-21'
 source: The Wall Street Journal | WSJ
 url_original: null
-url_canonical: https://www.wsj.com/digital-print-edition
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: 0ad6840a4fb2cc3e4ae88e432a8ff3e2d989a49eae946d72f9bcdb06fbf97683

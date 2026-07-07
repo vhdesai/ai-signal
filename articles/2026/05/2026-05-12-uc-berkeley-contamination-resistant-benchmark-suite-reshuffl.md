@@ -5,8 +5,8 @@ title: UC Berkeley Contamination-Resistant Benchmark Suite Reshuffles Model Rank
 date: '2026-05-12'
 source: UC Berkeley / FutureAGI
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.19999v1
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 43e9d63823da42d62dc15c6d3aefcd813d8df6b8424d1e8d3edba0201d561d21

@@ -4,8 +4,8 @@ title: Cursor 3.4 Introduces Cloud Agent Dev Environments with Full Audit & Gove
 date: '2026-05-13'
 source: Cursor Changelog
 url_original: null
-url_canonical: https://cursor.com/changelog/05-13-26
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 445f42a00e19d1385081c717f84a9681ee915349a5678250e923f485fbaf7d5e

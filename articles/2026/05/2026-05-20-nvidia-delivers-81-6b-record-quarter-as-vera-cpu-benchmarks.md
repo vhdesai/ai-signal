@@ -4,8 +4,8 @@ title: NVIDIA delivers $81.6B record quarter as Vera CPU benchmarks debut
 date: '2026-05-20'
 source: NVIDIA Newsroom
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: http://www.nvidia.com/page/home.html
+url_status: repaired
 digest_source: digests\raw\2026-05-29_073357_Inbox_Daily AI News Digest – May 29,
   2026.md
 content_hash: 1d81cf3e985ca127567293ed775d713b327a700abec4d02f6c5aa3ead73ae6d2

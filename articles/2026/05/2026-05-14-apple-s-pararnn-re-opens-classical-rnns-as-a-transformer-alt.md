@@ -4,8 +4,8 @@ title: Apple's ParaRNN Re-Opens Classical RNNs as a Transformer Alternative
 date: '2026-05-14'
 source: arXiv
 url_original: null
-url_canonical: https://machinelearning.apple.com/research/large-scale-rnns
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 67fa1c86512f0fad7f907e4431348daf2b09997924d97a8bff69864e327805e9

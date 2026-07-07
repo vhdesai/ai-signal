@@ -4,8 +4,8 @@ title: Amazon's AI Race and the Reshaping of Wealth Management
 date: '2026-05-19'
 source: WSJ Wealth Adviser Briefing
 url_original: null
-url_canonical: https://aws.amazon.com/marketplace/solutions/generative-ai/what-is/ai-wealth-management/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 55cd8156873e75cd6d9e0e9d487052036556e688bbb763439d5ad828fff54872

@@ -10,8 +10,8 @@ title: Research preprint repository ArXiv announced a new enforcement policy und
 date: '2026-05-18'
 source: Daily AI News Digest
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070515_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: eccda9380116a2c2c4caf01121e457703d9b1c46903cb229b78ecfd96302c3ca

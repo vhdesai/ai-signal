@@ -4,8 +4,8 @@ title: MIT Tressoir — Unified Design and Evolution of Multi-Agent Systems
 date: '2026-05-10'
 source: ACM CAIS 2026
 url_original: null
-url_canonical: https://www.caisconf.org/program/2026/papers/tressoir-unifying-online-offline-and-hil-design-and-evolution-of-multi-agent-sys/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 2d797509dbe6e36adc0774ac8ec287913be2911547f7616fb6ad251822638d37

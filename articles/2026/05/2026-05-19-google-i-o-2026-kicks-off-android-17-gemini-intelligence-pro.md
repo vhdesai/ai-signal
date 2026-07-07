@@ -5,8 +5,8 @@ title: Google I/O 2026 Kicks Off — Android 17, Gemini Intelligence, Project As
 date: '2026-05-19'
 source: Google / The Financial Express
 url_original: null
-url_canonical: https://9to5google.com/2026/05/19/google-io-2026-news/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 96718448e15ba63f0cf85e40ad2bb3517692e4166cf967955617a1c924fd4eea

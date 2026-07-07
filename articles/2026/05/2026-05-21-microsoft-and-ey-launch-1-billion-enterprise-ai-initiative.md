@@ -4,8 +4,8 @@ title: Microsoft and EY Launch $1 Billion Enterprise AI Initiative
 date: '2026-05-21'
 source: The Official Microsoft Blog
 url_original: null
-url_canonical: https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 6fbb72be7a407c5fb565b0bf023d1c0fe1d67451bfd111c7256bceaf6a16b205

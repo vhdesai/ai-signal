@@ -5,7 +5,7 @@ title: Google Gemini 3.1 Ultra — 2M Token Context, Native Multimodal, Built-In
 date: '2026-05-19'
 source: Google / AI Tools Recap
 url_original: null
-url_canonical: https://www.aitrove.ai/blog/google-gemini-3-1-ultra-2m-context-review
+url_canonical: https://blog.google/products-and-platforms/products/search/
 url_status: repaired
 digest_source: digests\raw\2026-05-19_070742_Inbox_Daily AI News Digest – May 19,
   2026.md

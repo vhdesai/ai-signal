@@ -4,8 +4,8 @@ title: Anthropic Eyes $900 Billion Valuation in New $30 Billion Funding Round
 date: '2026-05-15'
 source: The AI Track
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.forbes.com/sites/jonmarkman/2026/05/04/anthropics-900b-funding-round-set-to-surpass-openai/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: bb77d3ed422a3dbfaba45403e56668ff6ad8fafce00fb70cd253c6dd43eba703

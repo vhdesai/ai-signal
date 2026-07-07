@@ -4,8 +4,8 @@ title: 'RSA Conference 2026 / RSAC 2026: Agentic SOC products'
 date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
-url_canonical: https://www.crn.com/rsa-2026
-url_status: repaired
+url_canonical: https://www.rsaconference.com/usa
+url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: ceaaee9a78e62289a83e80768331f523df7c355c39987de7799dff9053a3deb7
 normalized_title_hash: 36221d9aeaadbc59

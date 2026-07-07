@@ -4,8 +4,8 @@ title: Cerebras Targets up to $4B IPO at $40B Valuation
 date: '2026-05-02'
 source: The Next Web
 url_original: null
-url_canonical: https://thenextweb.com/news/cerebras-ipo-4-billion-40-billion-valuation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080843_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 033429c07c4824a494e7db3a43c4fb6aa3ef99efd1951070357cf00754026be5
 normalized_title_hash: '1114338036400132'

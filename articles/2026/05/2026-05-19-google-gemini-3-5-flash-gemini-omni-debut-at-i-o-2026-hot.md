@@ -4,7 +4,7 @@ title: Google Gemini 3.5 Flash & Gemini Omni Debut at I/O 2026 Hot
 date: '2026-05-19'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/
+url_canonical: https://blog.google/products-and-platforms/products/search/
 url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md

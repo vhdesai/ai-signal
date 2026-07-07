@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 388
+member_count: 390
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 388 connected article(s).
+> Auto-generated entity hub. 390 connected article(s).
 
+- `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-04` [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one|Microsoft to Merge Consumer and Enterprise Copilot Into One App]]
 - `2026-07-04` [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa|Microsoft reportedly plans a unified Copilot app and an always-on "Autopilot" agent]]

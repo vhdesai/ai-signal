@@ -4,8 +4,8 @@ title: AWS Commits $4.6B to South Korean AI and Cloud Infrastructure by 2031
 date: '2026-03-31'
 source: Korea JoongAng Daily
 url_original: null
-url_canonical: https://www.asiae.co.kr/en/article/2025102914360064371
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: 39cc5465e154617fc69daec5c9c1e2e3829268682d71250ea6bb0d9f4121e243

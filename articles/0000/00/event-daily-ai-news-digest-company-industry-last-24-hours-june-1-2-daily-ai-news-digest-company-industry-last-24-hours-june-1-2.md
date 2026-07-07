@@ -5,8 +5,8 @@ title: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 
 date: null
 source: 'Daily AI News Digest — Company & Industry (Last 24 Hours: June 1–2, 2026)'
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/AINewsJune2026.aspx
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\ai-news-digest-2026-06-02-2.md
 content_hash: ca39762e6e4811609feb872e54ad21419ca5525aeeef325e3c102a2bc1dae645
 normalized_title_hash: 21591d254ea68be4

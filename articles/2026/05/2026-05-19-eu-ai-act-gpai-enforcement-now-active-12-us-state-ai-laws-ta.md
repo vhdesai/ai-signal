@@ -5,8 +5,8 @@ title: EU AI Act GPAI Enforcement Now Active; 12+ US State AI Laws Taking Effect
 date: '2026-05-19'
 source: Beyond Tomorrow
 url_original: null
-url_canonical: https://beyondtmrw.org/article/ai-regulation-update-2026-eu-ai-act-enforcement-and-us-state-rules
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 0209df3b46abd4693695dcb043a274698f8186c524e68e0ec2b493f10be473b4

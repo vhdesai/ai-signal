@@ -4,8 +4,8 @@ title: 'AI Search Startups Surge: Exa Labs at $2.2B, Parallel Web at $2B'
 date: '2026-05-20'
 source: TechCrunch / Bloomberg
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: cccb2d54b4f354970d6d30733237c8a70ef8995434020b7fb36425874a25786b

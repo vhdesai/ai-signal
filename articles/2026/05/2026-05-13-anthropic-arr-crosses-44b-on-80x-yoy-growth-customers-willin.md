@@ -5,8 +5,8 @@ title: Anthropic ARR Crosses $44B on 80x YoY Growth — Customers "Willingly Eat
 date: '2026-05-13'
 source: The Information
 url_original: null
-url_canonical: https://officechai.com/ai/anthropics-arr-has-touched-44-billion-says-semi-analysis-report/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 56820fb1ad50b9e3c59dc126fbf4b27293bd583e8829e74eedb4b0e058295a75

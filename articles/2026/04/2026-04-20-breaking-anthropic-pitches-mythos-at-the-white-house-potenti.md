@@ -4,8 +4,8 @@ title: Breaking Anthropic Pitches Mythos at the White House; Potential DoD Deal
 date: '2026-04-20'
 source: AI Flash Report / Reuters
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/cyv10e1d13po
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 3eac7682815576f616a26649653cf052a28239cece87e3173d89ad311537dc57

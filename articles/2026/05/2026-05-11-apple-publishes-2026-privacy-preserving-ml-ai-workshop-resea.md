@@ -4,8 +4,8 @@ title: Apple publishes 2026 Privacy-Preserving ML & AI workshop research
 date: '2026-05-11'
 source: Apple ML Research / 9to5Mac
 url_original: null
-url_canonical: https://machinelearning.apple.com/updates/ppml-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 21cb83f643f029c3aa042e315f0bc4657eb4c01e27f6385a22ba5e3c68748bb7

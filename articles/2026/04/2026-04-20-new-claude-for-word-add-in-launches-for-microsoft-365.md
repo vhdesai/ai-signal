@@ -4,8 +4,8 @@ title: New Claude for Word Add-In Launches for Microsoft 365
 date: '2026-04-20'
 source: Anthropic / The Neuron
 url_original: null
-url_canonical: https://claude.com/claude-for-microsoft-365
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 226cb3503badd0745c41549becc2c9e8d87059afb49d1e8360c391a4f1cfadf1

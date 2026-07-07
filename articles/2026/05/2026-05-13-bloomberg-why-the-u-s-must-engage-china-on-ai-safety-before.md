@@ -5,8 +5,8 @@ title: 'Bloomberg: "Why the U.S. Must Engage China on AI Safety Before It''s ''G
 date: '2026-05-13'
 source: Bloomberg / Trumponomics Podcast
 url_original: https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over
-url_canonical: https://www.iheart.com/podcast/1308-trumponomics-30972791/episode/why-the-us-must-engage-china-333558822/
-url_status: repaired
+url_canonical: https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: bfcecd01757b32371abf70472346f421f307a420d94bea7d38d90dd51731e879

@@ -4,8 +4,8 @@ title: HOTMayo Clinic AI flags pancreatic cancer three years before diagnosis
 date: '2026-05-02'
 source: The Neuron / Mayo Clinic
 url_original: null
-url_canonical: https://www.digitalhealthnews.com/mayo-clinic-ai-flags-pancreatic-cancer-years-before-diagnosis
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: e6ef7a2a3b136c12d5f6a23aabde0f185eca738c234d7bed99776eb4a77a6ec8
 normalized_title_hash: ec64c84b9d97209b

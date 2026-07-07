@@ -4,7 +4,7 @@ title: 'SpaceX S-1 Deep Dive: Six Charts on the Largest IPO in History'
 date: '2026-05-20'
 source: PitchBook News
 url_original: null
-url_canonical: https://finance.yahoo.com/markets/stocks/articles/spacex-numbers-six-charts-mapping-100505496.html?fr=sycsrp_catchall
+url_canonical: https://www.fool.com/investing/2026/04/22/spacex-ipo-5000-investment-five-year-outlook/
 url_status: repaired
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md

@@ -4,7 +4,7 @@ title: Tactical Allocation System Confirms Exit Signal — “The System Closed�
 date: '2026-05-18'
 source: The Tactical Allocation Letter
 url_original: null
-url_canonical: https://tacticalallocationdesk.substack.com/p/allocation-update-a-signal-fired-7b1
+url_canonical: https://www.511tactical.com/simi-valley-ca-93065
 url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md

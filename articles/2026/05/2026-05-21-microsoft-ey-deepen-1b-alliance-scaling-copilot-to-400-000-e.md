@@ -5,8 +5,8 @@ title: Microsoft + EY Deepen $1B+ Alliance; Scaling Copilot to 400,000 Enterpris
 date: '2026-05-21'
 source: 'Source: Microsoft Official Blog'
 url_original: https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/
-url_canonical: https://www.ey.com/en_gl/newsroom/2026/05/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprise-wide-value-creation-and-move-beyond-experimentation
-url_status: repaired
+url_canonical: https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/
+url_status: broken
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 24cbbf42fd2a1bcd108549318b644e55b83ccbda6666cb46652128471eb8733e

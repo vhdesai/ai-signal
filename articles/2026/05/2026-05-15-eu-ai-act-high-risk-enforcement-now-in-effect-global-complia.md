@@ -5,7 +5,7 @@ title: EU AI Act High-Risk Enforcement Now in Effect; Global Compliance Complexi
 date: '2026-05-15'
 source: Various sources
 url_original: null
-url_canonical: https://www.ashurstperkinscoie.com/en/insights/corporate-crime-and-investigations-key-enforcement-risks-and-global-trends/
+url_canonical: https://www.foreignpolicyjournal.com/2026/05/16/global-compliance-fines-surge-in-q1-2026-as-data-privacy-and-operational-risk-enforcement-takes-centre-stage/
 url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md

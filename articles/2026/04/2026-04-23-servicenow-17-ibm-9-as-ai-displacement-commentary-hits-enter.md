@@ -4,8 +4,8 @@ title: ServiceNow −17%, IBM −9% as AI-displacement commentary hits enterpris
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: https://hoodline.com/2026/04/ai-panic-turns-servicenow-ibm-into-wall-street-s-new-punching-bags/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 7a0b0696b781a2eec5c7f2826c9293e16e0da0fe30c895d63dd6ca8ece069840

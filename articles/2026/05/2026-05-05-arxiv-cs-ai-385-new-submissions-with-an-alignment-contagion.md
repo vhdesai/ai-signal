@@ -4,8 +4,8 @@ title: 'arXiv cs.AI: 385 new submissions, with an alignment-contagion cluster'
 date: '2026-05-05'
 source: arXiv cs.AI
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.02751
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 75e58198c6326f6c28f21f92fd703a4321a43c66ab2bdc43b31290464b54f4bb
 normalized_title_hash: de1aa8408223cd90

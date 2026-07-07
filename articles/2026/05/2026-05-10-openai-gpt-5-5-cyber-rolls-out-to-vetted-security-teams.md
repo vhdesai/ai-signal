@@ -4,8 +4,8 @@ title: OpenAI GPT-5.5-Cyber Rolls Out to Vetted Security Teams
 date: '2026-05-10'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/07/openai-rolls-out-new-gpt-5point5-cyber-to-vetted-cybersecurity-teams.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 6d836f3a1df0d6b06d257b8fa55942c0c309f7f255524a50ef72374266c34b12

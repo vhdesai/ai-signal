@@ -1,17 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 696
+member_count: 699
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 696 connected article(s).
+> Auto-generated entity hub. 699 connected article(s).
 
+- `2026-07-07` [[2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi|OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups]]
+- `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
 - `2026-07-06` [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic|TeraWulf Signs ~$19B AI-Infrastructure Lease With Anthropic]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
 - `2026-07-03` [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage|The economics and governance of AI took center stage]]

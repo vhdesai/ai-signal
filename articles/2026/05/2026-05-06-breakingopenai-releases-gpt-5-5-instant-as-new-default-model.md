@@ -4,8 +4,8 @@ title: BreakingOpenAI Releases GPT-5.5 Instant as New Default Model for ChatGPT
 date: '2026-05-06'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 183d8dbd001240afaab406aaf2fab51b7eb95138397d271c9d7d6997ce67feb2
 normalized_title_hash: 1798cb4a354d4bf0

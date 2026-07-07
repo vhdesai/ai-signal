@@ -4,7 +4,7 @@ title: OpenAI Launches Personal Finance Experience in ChatGPT
 date: '2026-05-15'
 source: OpenAI Blog
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/
+url_canonical: https://mashable.com/article/openai-announces-personal-finance-tools-chatgpt
 url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md

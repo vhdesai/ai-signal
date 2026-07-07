@@ -4,7 +4,7 @@ title: Trump and Xi Discuss AI Guardrails and Nvidia Chips at Beijing Summit
 date: '2026-05-15'
 source: Bloomberg
 url_original: null
-url_canonical: https://news.bloomberglaw.com/artificial-intelligence/trump-says-he-discussed-ai-guardrails-nvidias-chips-with-xi
+url_canonical: https://www.scmp.com/tech/article/3353764/trump-xi-weigh-ai-guardrails-nvidia-chip-exports-hang-balance
 url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md

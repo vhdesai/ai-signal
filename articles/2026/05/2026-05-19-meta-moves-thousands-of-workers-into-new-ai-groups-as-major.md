@@ -4,8 +4,8 @@ title: Meta Moves Thousands of Workers Into New AI Groups as Major Layoffs Loom
 date: '2026-05-19'
 source: The Information AM
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/companies/meta-shifts-7000-workers-into-ai-roles-as-layoffs-manager-cuts-loom/ar-AA23ApsD
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: db7491b6382023e24263c648c6989eb4d40403acf037da74b2f8820c7c934250

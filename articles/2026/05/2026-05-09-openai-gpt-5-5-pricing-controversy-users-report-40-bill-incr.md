@@ -5,8 +5,8 @@ title: 'OpenAI GPT-5.5 Pricing Controversy: Users Report 40% Bill Increases Desp
 date: '2026-05-09'
 source: AIToolsRecap
 url_original: null
-url_canonical: https://cambridgeanalytica.org/ai-machine-learning/openai-gpt-55-price-increase-may-2026-50949/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070904_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 804082809dd82274ea8560b43bec23437e1e67fafdd8afca2d143d12bd853575

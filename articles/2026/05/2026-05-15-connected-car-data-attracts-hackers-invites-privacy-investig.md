@@ -4,8 +4,8 @@ title: Connected-Car Data Attracts Hackers, Invites Privacy Investigations
 date: '2026-05-15'
 source: WSJ Pro Cybersecurity
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.helpnetsecurity.com/2024/01/22/ivan-reedman-ioactive-connected-vehicles-cybersecurity/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: e519c1a27920c0e037568529eb99310ec91084cb68ec26b67d1237c03059caf4

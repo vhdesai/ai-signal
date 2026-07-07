@@ -4,8 +4,8 @@ title: TRENDINGAI-generated actors and scripts now ineligible for Oscars
 date: '2026-05-02'
 source: TechCrunch
 url_original: null
-url_canonical: https://ai-toolhub.com/news/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: dc0c7f64cf29bf57823197e2ff2c4215576edec613b37f44bc23ee8907a9281a
 normalized_title_hash: 2cf4904305604c91

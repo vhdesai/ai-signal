@@ -4,7 +4,7 @@ title: Anthropic valuation reaches $930B in secondary trades; OpenAI nears parit
 date: '2026-05-18'
 source: PitchBook News
 url_original: null
-url_canonical: https://www.techtimes.com/articles/317066/20260523/anthropic-funding-round-top-30b-900b-valuation-would-surpass-openai-most-valuable-ai-startup.htm
+url_canonical: https://www.bbc.com/news/articles/c0k203kzp10o
 url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md

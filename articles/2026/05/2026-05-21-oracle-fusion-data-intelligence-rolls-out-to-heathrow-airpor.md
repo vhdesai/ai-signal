@@ -5,8 +5,8 @@ title: Oracle Fusion Data Intelligence rolls out to Heathrow Airport, Kent Count
 date: '2026-05-21'
 source: Oracle News  · Oracle
 url_original: null
-url_canonical: https://www.ainvest.com/news/oracle-fusion-data-intelligence-helps-heathrow-kent-mtn-reduce-costs-improve-performance-2605/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 6ca50a0289c6240875457324bf16472575e65f48ffd6779f022c3e369a4bd163

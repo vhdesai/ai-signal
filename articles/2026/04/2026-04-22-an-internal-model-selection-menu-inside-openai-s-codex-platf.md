@@ -9,8 +9,8 @@ title: An internal model selection menu inside OpenAI's Codex platform briefly e
 date: '2026-04-22'
 source: 🔥 Hot Anthropic
 url_original: null
-url_canonical: https://developers.openai.com/codex/models
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
 content_hash: 68a25fd77fde7f6960b7b069876848cf28197ffc9b9eda911f7e752e4c679ffd

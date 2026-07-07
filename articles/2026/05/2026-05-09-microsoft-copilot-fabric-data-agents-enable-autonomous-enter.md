@@ -5,8 +5,8 @@ title: Microsoft Copilot + Fabric "Data Agents" Enable Autonomous Enterprise Dat
 date: '2026-05-09'
 source: MSN
 url_original: null
-url_canonical: https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 6e7dc13260b70d8f5459215e2b3649391327ff435cd5993c733e7f707fc4a657

@@ -5,8 +5,8 @@ title: U.S. DoC Expands Pre-Release AI Safety Testing to Five Labs — Google De
 date: '2026-05-12'
 source: FutureAGI
 url_original: null
-url_canonical: https://aigovernance.com/news/microsoft-google-xai-caisi-pre-deployment-security-review-agreements-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 13294bc40afe4f8d2850c14e5a6ae420f4cb299ac074cb3a0e66a24409c4f8da

@@ -8,8 +8,8 @@ title: 'News & Blogs: TechCrunch AI · VentureBeat AI · Forbes · CNBC · Bloom
 date: '2026-05-11'
 source: Digest compiled by Microsoft Copilot
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://detailed.com/50/
+url_status: repaired
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: db207d0b48b48270f8f7398fff1645ceb21edd757aa8541ff69b7820540b1bea

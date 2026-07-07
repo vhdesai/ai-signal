@@ -4,7 +4,7 @@ title: xAI's Grok V9 Finishes Pre-Training at 1.5 Trillion Parameters
 date: '2026-05-18'
 source: AIBase News
 url_original: null
-url_canonical: https://news.aibase.com/news/28307
+url_canonical: https://huggingface.co/xai-org/grok-1/blob/main/README.md
 url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md

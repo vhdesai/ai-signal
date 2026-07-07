@@ -4,8 +4,8 @@ title: China Blocks Meta's $2B+ Acquisition of AI Agent Startup Manus Trending
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/cj0v0gr2yz7o
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 5d917af2fb2267e6fcf1dacb4c3eb2bb1806c6440615d387ea416dfad688a90e
 normalized_title_hash: d315c3a8615642dc

@@ -5,8 +5,8 @@ title: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026 — Strate
 date: null
 source: 'AI Models Comparison: Google I/O 2026 vs Microsoft Build 2026'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://swimsuit.si.com/swimnews/meet-your-2026-sports-illustrated-swimsuit-cover-models
+url_status: repaired
 digest_source: digests\raw\02_Google_Microsoft_AI_Models_Comparison.md
 content_hash: 9b34c9cf3cb9310577779230fe757e0ad8b8d6cf82ba240a57d7b0c525398399
 normalized_title_hash: 84aeb5a6ee91472e

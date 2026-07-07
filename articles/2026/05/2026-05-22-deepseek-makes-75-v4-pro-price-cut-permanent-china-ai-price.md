@@ -4,8 +4,8 @@ title: DeepSeek makes 75% V4-Pro price cut permanent — China AI price war inte
 date: '2026-05-22'
 source: IBTimes Singapore
 url_original: https://www.ibtimes.sg/deepseek-cuts-v4-pro-ai-model-prices-by-75-amid-china-ai-race-86852
-url_canonical: https://thetechportal.com/2026/05/23/chinas-deepseek-permanently-cuts-prices-of-flagship-v4-pro-ai-model-by-75/
-url_status: repaired
+url_canonical: https://www.ibtimes.sg/deepseek-cuts-v4-pro-ai-model-prices-by-75-amid-china-ai-race-86852
+url_status: ok
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: c9ebb7e7ae9de2306ecab9e10a6c07e1d090571fa1cc256e676ac9f7385aed35

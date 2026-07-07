@@ -4,8 +4,8 @@ title: Mozilla pushes back on Chrome's Prompt API; VS Code Copilot attribution f
 date: '2026-05-03'
 source: The AI Track
 url_original: null
-url_canonical: https://www.theregister.com/software/2026/04/30/mozilla-pushes-back-against-googles-prompt-api/5223409
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 60f761afcfccba7b39b102e69514bcdd3307992a4ccc2ac97d7c84f591017776

@@ -4,7 +4,7 @@ title: NVIDIA Releases Nemotron 3 Nano Omni — Unified Multimodal Reasoning Mod
 date: '2026-05-12'
 source: NVIDIA
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/
+url_canonical: http://www.nvidia.com/page/home.html
 url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md

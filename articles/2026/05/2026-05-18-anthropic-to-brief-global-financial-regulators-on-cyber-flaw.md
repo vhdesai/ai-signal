@@ -5,7 +5,7 @@ title: Anthropic to Brief Global Financial Regulators on Cyber Flaws Found by Cl
 date: '2026-05-18'
 source: The Decoder
 url_original: null
-url_canonical: https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb
+url_canonical: https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/
 url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md

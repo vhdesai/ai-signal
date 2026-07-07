@@ -4,8 +4,8 @@ title: Mistral expands open-weights lineup and Mistral Large API
 date: '2026-05-20'
 source: Mistral · Read article
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://mistral.ai/news/mistral-3/
+url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 2a7598bc491b925bf3498de1b81e4b95a0340d5cd07c05d89142574371d04667

@@ -4,8 +4,8 @@ title: RecursiveMAS Speeds Multi-Agent Inference 2.4x, Cuts Token Usage 75%
 date: '2026-05-15'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.welcome.ai/content/recursivemas-enhances-multi-agent-ai-efficiency-and-cost-effectiveness
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 273a9bbd22ab1c2ce89e77c19f18b7453000017b59a54b4a160b94bf36ed1584

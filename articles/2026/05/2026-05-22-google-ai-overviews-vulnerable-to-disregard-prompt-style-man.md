@@ -4,8 +4,8 @@ title: Google AI Overviews vulnerable to "disregard" prompt-style manipulation
 date: '2026-05-22'
 source: 'Source: The Verge via Creati.ai'
 url_original: null
-url_canonical: https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: f963b10a102aac7a3027b3b2878a0e190841d5be95a311750c1d2da1004400dc

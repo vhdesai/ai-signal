@@ -4,8 +4,8 @@ title: BREAKINGMeta Lifts 2026 AI Spend to $125–145B
 date: '2026-05-02'
 source: Mark McNeilly Substack
 url_original: null
-url_canonical: https://www.edgen.tech/news/post/meta-lifts-2026-ai-spending-to-145-billion-amid-arms-race
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: a0b216fbd0e8bcc9d281f297f846605c498311f360d0191c3d006bb128e1e828
 normalized_title_hash: 6e62090a178eb03e

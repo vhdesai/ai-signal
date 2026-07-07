@@ -1,13 +1,15 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1364
+member_count: 1366
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1364 connected article(s).
+> Auto-generated topic hub. 1366 connected article(s).
 
+- `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-07` [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation|AI legal startup Norm raises $120M at ~$1.2B valuation]]
 - `2026-07-06` [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim|UK startups raised ~$17B in H1 2026, with AI capturing an estimated 74% of venture capital]]
 - `2026-07-06` [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc|UK Startups Raise ~$17B in H1 2026, AI Captures 74% of VC]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]

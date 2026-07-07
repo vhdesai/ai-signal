@@ -5,8 +5,8 @@ title: ⚡ BREAKING Microsoft Revoking Claude Code Licenses, Pivoting to GitHub 
 date: '2026-05-15'
 source: The Decoder / Moneycontrol
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.windowscentral.com/microsoft/microsoft-cancels-claude-code-licenses-shifting-developers-to-github-copilot-cli-a-move-likely-driven-by-financial-motives
+url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 4eb433b571793505e4aa7d3efad60199ac75c4b8461d0fa6ef26aa8be65f6c22

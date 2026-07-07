@@ -4,8 +4,8 @@ title: MIT study reframes which workers tech booms actually create jobs for
 date: '2026-05-21'
 source: 'Source: MIT News'
 url_original: null
-url_canonical: https://shapingwork.mit.edu/news/mit-news-technology-usually-creates/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070540_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: eff078853342ba4770a59a490d5b2f171b4126b56202900be51975803198cab4

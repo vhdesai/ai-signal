@@ -25,6 +25,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 embedding_id: 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
@@ -40,5 +41,5 @@ Chinese models — Kimi K2.6, DeepSeek V4, GLM-5.1, Qwen 3 — now account for 6
 
 **Entities:** [[DeepSeek]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
+**Related:** [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]]
 <!-- graph:end -->

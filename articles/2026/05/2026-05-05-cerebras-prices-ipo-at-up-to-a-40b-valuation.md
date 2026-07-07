@@ -4,8 +4,8 @@ title: Cerebras prices IPO at up to a $40B valuation
 date: '2026-05-05'
 source: Reuters
 url_original: null
-url_canonical: https://www.ainvest.com/news/cerebras-ipo-40b-valuation-survive-public-market-reckoning-2605/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: b42a730db3d8a58e46cc0c25281e1fed6d4648556640158efddc380f28c7ef11

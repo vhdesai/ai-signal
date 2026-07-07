@@ -4,8 +4,8 @@ title: Google “Gemini Spark” Autonomous Agent Leaks Ahead of I/O 2026
 date: '2026-05-15'
 source: Gadgets360
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://nokiapoweruser.com/google-io-2026-gemini-spark-leak/
+url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 0cb68860eb08d58b53b9408aa2bd15888bb6b2c1336b4ad61a8abd02556fc83d

@@ -10,8 +10,8 @@ title: Before the cancellation, the White House's Office of the National Cyber D
 date: '2026-05-20'
 source: The Information | Article
 url_original: null
-url_canonical: https://www.mondaq.com/unitedstates/new-technology/1803440/new-executive-order-sets-voluntary-framework-for-ai-oversight-and-cybersecurity
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_072032_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: fe885480b7d727cff4fd46965800ad03d23ed91ea2f60254a600de6650e30929

@@ -8,8 +8,8 @@ date: '2026-04-27'
 source: Sentry plain-English debugger; IBM Granite 4.1; NVIDIA Nemotron 3 Nano Omni
   — Various
 url_original: null
-url_canonical: https://www.infoworld.com/article/4164173/openais-symphony-spec-pushes-coding-agents-from-prompts-to-orchestration.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 37a24724a1f352278c8e670bcce7fff06dd092ab47059ffcaf72a65f82636113
 normalized_title_hash: 0b6f699568be3f92

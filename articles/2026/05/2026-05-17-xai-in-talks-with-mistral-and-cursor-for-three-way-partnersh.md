@@ -5,8 +5,8 @@ title: xAI in Talks with Mistral and Cursor for Three-Way Partnership — SpaceX
 date: '2026-05-17'
 source: Business Insider / WebProNews
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.businessinsider.com/spacex-confirms-cursor-acquisition-60-billion-ai-coding-startup-2026-6
+url_status: repaired
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: cf9d0714feef1e1e209557b7048c1c45b0be67db33aebe75b15f7dc5a6afd861

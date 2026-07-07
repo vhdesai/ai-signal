@@ -4,8 +4,8 @@ title: Google Gemini 3.1 Ultra Ships with 2M-Token Context and Native Multimodal
 date: '2026-05-14'
 source: Google DeepMind
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://blog.google/products-and-platforms/products/search/
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 8412b2aef8db00778301732823ff0116c7073e017b71f92358f3c9a9c140e847

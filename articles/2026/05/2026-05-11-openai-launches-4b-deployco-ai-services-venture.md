@@ -4,8 +4,8 @@ title: OpenAI Launches $4B "DeployCo" AI Services Venture
 date: '2026-05-11'
 source: CRN
 url_original: null
-url_canonical: https://www.crn.com/news/ai/2026/openai-launches-services-business-on-heels-of-similar-anthropic-announcement
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 3ff8db4165cf4d9be251cb30b41c80de47eb283b2992eecbf4c698647b8e3ae7

@@ -9,8 +9,8 @@ title: The Thunderbird team released Thunderbolt, an open-source AI framework ce
 date: '2026-04-23'
 source: 'Source: AIToolly'
 url_original: null
-url_canonical: https://aitoolly.com/ai-news/article/2026-04-20-thunderbird-launches-thunderbolt-a-user-controlled-ai-platform-for-model-choice-and-data-ownership
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: cde78afd793dd018ccb120e25da068e3d2ab075f3396609aec58f9731063ae51

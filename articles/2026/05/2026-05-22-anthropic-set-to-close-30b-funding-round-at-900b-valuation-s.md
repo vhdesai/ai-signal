@@ -5,8 +5,8 @@ title: Anthropic Set to Close $30B+ Funding Round at $900B+ Valuation — Surpas
 date: '2026-05-22'
 source: Bloomberg
 url_original: https://www.bloomberg.com/
-url_canonical: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
-url_status: repaired
+url_canonical: https://www.bloomberg.com/
+url_status: broken
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 87d605bff5788d31a2c0ca9be9fa332237a6f9d93f4af38d587a88eb936cde02

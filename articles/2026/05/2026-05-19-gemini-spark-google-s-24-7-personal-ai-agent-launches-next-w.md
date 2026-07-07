@@ -5,8 +5,8 @@ title: 'Gemini Spark: Google''s 24/7 Personal AI Agent Launches Next Week for Ul
 date: '2026-05-19'
 source: TechCrunch
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://gemini.google/us/about/?hl=en
+url_status: repaired
 digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 3988068a2b9b43b42349253dcbfdc769382aef2666223b2f86fa55baeba295e0

@@ -4,8 +4,8 @@ title: Google and Blackstone form compute-as-a-service joint venture
 date: '2026-05-19'
 source: CNBC · Read article
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 3b6ebd707e2a8dc4f670142fcdc989a7c0caed784bf26bde37c27e60a935c45a

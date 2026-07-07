@@ -4,8 +4,8 @@ title: Huang Foundation Buys $108M of CoreWeave Compute, Donates It to Researche
 date: '2026-05-13'
 source: Reuters / U.S. News
 url_original: null
-url_canonical: https://www.mitsloanme.com/article/huang-foundation-donates-108m-coreweave-compute-for-ai-research/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 26f0afac4b81a62c16cd6d859863eaee990b10b973ff168cd12a63517a1557e2

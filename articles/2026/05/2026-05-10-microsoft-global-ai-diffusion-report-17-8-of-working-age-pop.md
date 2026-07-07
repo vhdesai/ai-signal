@@ -5,8 +5,8 @@ title: Microsoft Global AI Diffusion Report — 17.8% of Working-Age Population 
 date: '2026-05-10'
 source: Microsoft On the Issues
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/corporate-responsibility/topics/AI-Economy-Institute/reports/Global-AI-Adoption-2025/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071203_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: c1fbb6c02736e1a526333f39ba3c038032ccae097673012163efbfcaaa6b4b45

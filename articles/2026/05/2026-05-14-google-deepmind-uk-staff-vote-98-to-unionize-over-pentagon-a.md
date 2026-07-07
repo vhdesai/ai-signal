@@ -4,8 +4,8 @@ title: Google DeepMind UK Staff Vote 98% to Unionize Over Pentagon AI Contracts
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://www.techbuzz.ai/articles/google-deepmind-workers-vote-to-unionize-over-military-ai-deals
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: df1d2cdeaf186cd89619764c6c73734139ddabcabcf5971180ce196179970812

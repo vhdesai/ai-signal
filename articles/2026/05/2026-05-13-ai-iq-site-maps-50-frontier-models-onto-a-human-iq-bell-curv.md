@@ -5,8 +5,8 @@ title: AI IQ Site Maps 50+ Frontier Models Onto a Human IQ Bell Curve — Splits
 date: '2026-05-13'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech
-url_canonical: https://theaistack.guide/news/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech/
-url_status: repaired
+url_canonical: https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech
+url_status: broken
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 642d3e3bb919cf9f3c02db0227aefecf19cd03d5b31f210ec14a8df31185ec62

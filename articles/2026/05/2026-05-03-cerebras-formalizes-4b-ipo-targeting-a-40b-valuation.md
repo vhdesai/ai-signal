@@ -4,8 +4,8 @@ title: Cerebras formalizes $4B IPO targeting a $40B valuation
 date: '2026-05-03'
 source: Idlen
 url_original: null
-url_canonical: https://www.ainvest.com/news/cerebras-ipo-40b-valuation-hinges-openai-execution-inference-speed-2605/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: f81266aa7bc21fc83b069c7517eea0ea477d6a8514f63d87a2c003f8ce04584e

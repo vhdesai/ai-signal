@@ -4,8 +4,8 @@ title: OpenAI model disproves a central conjecture in discrete geometry
 date: '2026-05-20'
 source: OpenAI News
 url_original: https://openai.com/news/
-url_canonical: https://gigazine.net/gsc_news/en/20260521-openai-model-disproves-discrete-geometry-conjecture/
-url_status: repaired
+url_canonical: https://openai.com/news/
+url_status: broken
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 90285ebd92bb8aed753ebf51aee467ec5751699e8d67c73a5d8cf260225c5837

@@ -5,8 +5,8 @@ title: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2,
 date: null
 source: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2, 2026)
 url_original: null
-url_canonical: https://www.devflokers.com/blog/open-source-ai-roundup-june-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\academic-ai-news-report.md
 content_hash: 2137027c739620e133364b7088b0f06ad94111fc344d70955ba0663efd790b2f
 normalized_title_hash: 1c21a01e0e90f03f

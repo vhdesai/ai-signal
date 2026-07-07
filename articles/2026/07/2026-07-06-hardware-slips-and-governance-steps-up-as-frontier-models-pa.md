@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
+- 2026-07-07-cost-compute-and-consolidation-set-the-tone
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-- 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
 embedding_id: 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The last 24 hours were driven not by new frontier models but by the physical and
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]] · [[2026-07-07-cost-compute-and-consolidation-set-the-tone]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]]
 <!-- graph:end -->

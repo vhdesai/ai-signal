@@ -5,7 +5,7 @@ title: 'Nvidia vs. Cerebras: Chip Market Battle Heats Up After Record-Breaking I
 date: '2026-05-17'
 source: The Motley Fool
 url_original: null
-url_canonical: https://www.fool.com/investing/2026/05/05/nvidia-rival-cerebras-unveils-ipo-details-heres-wh/
+url_canonical: https://www.indexbox.io/blog/nvidia-vs-cerebras-the-new-ai-chip-stock-rivalry/
 url_status: repaired
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md

@@ -4,8 +4,8 @@ title: OpenAI Opens GPT-5.5-Cyber to Vetted Security Researchers
 date: '2026-05-10'
 source: 🔗 WinBuzzer  · 🏢 OpenAI
 url_original: null
-url_canonical: https://winbuzzer.com/2026/05/10/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers-xcxwbn/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 396e894ffe82b3daaed2db9f46102ad5859cfab5653b5bd738d29db5d5187015

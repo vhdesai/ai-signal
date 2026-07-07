@@ -4,8 +4,8 @@ title: AI News Digest — Monday, June 1, 2026 — Overview
 date: null
 source: AI News Digest — Monday, June 1, 2026
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/AINewsJune2026.aspx
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\ai-news-digest-2026-06-01-report.md
 content_hash: c675eb07dcae7b11474adae303066b06d7fddc3b5f24021bda379830a08a7423
 normalized_title_hash: 756d287a11985ee4

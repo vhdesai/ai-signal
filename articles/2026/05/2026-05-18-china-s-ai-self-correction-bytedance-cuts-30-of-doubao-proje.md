@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai
+- 2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user
 - 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
+- 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
-- 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 embedding_id: 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In a widely circulated internal update, ByteDance disclosed it has cut approxima
 
 **Entities:** [[ByteDance]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai]] · [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]]
+**Related:** [[2026-05-18-trending-bytedance-cuts-30-of-ai-app-projects-as-china-s-ai]] · [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user]] · [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]]
 <!-- graph:end -->

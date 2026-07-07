@@ -4,7 +4,7 @@ title: 🟢 NEW xAI Launches Grok Build — Its First Agentic Coding Agent
 date: '2026-05-15'
 source: Android Headlines
 url_original: null
-url_canonical: https://www.eweek.com/news/xai-grok-build-coding-agent/
+url_canonical: https://www.engadget.com/2173482/xai-coding-agent-grok-build/
 url_status: repaired
 digest_source: digests\raw\2026-05-17_070520_Inbox_Daily AI News Digest – May 17,
   2026.md

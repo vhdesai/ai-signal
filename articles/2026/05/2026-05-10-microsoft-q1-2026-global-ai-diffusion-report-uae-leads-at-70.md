@@ -5,8 +5,8 @@ title: 'Microsoft Q1 2026 Global AI Diffusion Report: UAE Leads at 70.1% Enterpr
 date: '2026-05-10'
 source: 🔗 Microsoft / Multiple outlets  · 🏢 Microsoft
 url_original: null
-url_canonical: https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: 4c8e3fe2c453948ae7c0e48350b7c601fda86dae62dcf979dc31b5d5cf6f1fa5

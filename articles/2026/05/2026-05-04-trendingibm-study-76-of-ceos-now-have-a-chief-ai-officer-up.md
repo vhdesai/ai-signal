@@ -5,8 +5,8 @@ title: 'TrendingIBM Study: 76% of CEOs Now Have a Chief AI Officer — Up from 2
 date: '2026-05-04'
 source: IBM Institute for Business Value
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: f7272942e9f40e894503d7ff620cea23b1b5575fe46f6795cf82a836ce925048
 normalized_title_hash: 3d28e3c0eab5ae62

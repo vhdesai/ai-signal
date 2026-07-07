@@ -5,8 +5,8 @@ title: Alibaba's Qwen 3.6 Lands — 27B and 35B Variants Outperform Prior 120B/4
 date: '2026-05-13'
 source: NVIDIA Blog
 url_original: null
-url_canonical: https://localclaw.io/blog/qwen3-6-27b-deep-dive
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 242bb9e0d194681d3b6c16fa8ace4d47830bab2179be465efc7cff5ebb2847ff

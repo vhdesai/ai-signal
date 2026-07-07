@@ -5,8 +5,8 @@ title: Contractors sue Mercor, $10B AI data-labeling startup, over breach exposi
 date: '2026-04-23'
 source: WSJ
 url_original: null
-url_canonical: https://legalclarity.org/mercor-lawsuit-data-breach-allegations-and-status/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 772d27a3172e44b6d973ce0c517b8a6961f6da31b9b955d8d8222c5610a26804

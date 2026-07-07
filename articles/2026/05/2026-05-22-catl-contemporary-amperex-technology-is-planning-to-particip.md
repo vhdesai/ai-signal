@@ -9,7 +9,7 @@ title: CATL (Contemporary Amperex Technology) is planning to participate in Deep
 date: '2026-05-22'
 source: The Information | CnEVPost
 url_original: null
-url_canonical: https://battery-tech.net/how-catls-2026-super-tech-day-raised-the-bar-across-every-dimension-of-ev-battery-performance/
+url_canonical: https://www.catl.com/en/about/profile/
 url_status: repaired
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md

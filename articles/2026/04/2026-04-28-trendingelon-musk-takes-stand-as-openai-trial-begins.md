@@ -4,8 +4,8 @@ title: TRENDINGElon Musk Takes Stand as OpenAI Trial Begins
 date: '2026-04-28'
 source: Multiple outlets
 url_original: null
-url_canonical: https://theaitrack.com/elon-musk-takes-stand-as-openai-trial-begins/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080719_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 660dd5989749da1fd6563e3c0abe47cd9ca87ce57321334cccf10cf466d93871
 normalized_title_hash: 7f8445bddf92ca15

@@ -4,7 +4,7 @@ title: Connecticut becomes the latest U.S. state to enact an AI accountability l
 date: '2026-05-18'
 source: CIO Dive
 url_original: null
-url_canonical: https://www.customerexperiencedive.com/news/connecticut-new-york-dynamic-pricing-bills-grocery-retail/822286/
+url_canonical: https://libguides.ctstatelibrary.org/law/statutes/effectivedates
 url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md

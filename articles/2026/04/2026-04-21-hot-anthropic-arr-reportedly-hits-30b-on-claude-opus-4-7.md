@@ -4,8 +4,8 @@ title: Hot Anthropic ARR Reportedly Hits $30B on Claude Opus 4.7
 date: '2026-04-21'
 source: AI Flash Report
 url_original: null
-url_canonical: https://logicoverdrive.com/anthropic-30-billion-arr-claude-economy-2025/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: a262175989254a18a272e7c021ca599bdf175a4b1549f330a52828837a639b10

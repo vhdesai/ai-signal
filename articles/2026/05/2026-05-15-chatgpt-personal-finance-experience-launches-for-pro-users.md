@@ -4,8 +4,8 @@ title: ChatGPT Personal Finance Experience Launches for Pro Users
 date: '2026-05-15'
 source: OpenAI Official Release Notes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://releasebot.io/updates/openai/chatgpt
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 776fe5521afa6e6dcf7ff71c0905b65a8bffe7fd3649097635b7d1dd3e4cb003

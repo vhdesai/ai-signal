@@ -5,8 +5,8 @@ title: 'WSJ Markets P.M. — “Tomorrow and Tomorrow”: Wall Street''s Pre-Nvi
 date: '2026-05-18'
 source: WSJ Markets P.M.
 url_original: null
-url_canonical: https://www.cnbc.com/markets/pre-markets/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: a4fb5a6e64d975882a11852d553fd8737bc71bf7a3d844547ceb93c6b6ab1989

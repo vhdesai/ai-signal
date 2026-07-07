@@ -9,8 +9,8 @@ title: Google announced that AI Overviews — its AI-generated search summaries 
 date: '2026-04-22'
 source: 'Source: TechCrunch'
 url_original: null
-url_canonical: https://workspaceupdates.googleblog.com/2026/04/search-faster-and-smarter-with-ai-overviews-in-Gmail-search.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 2b99e461dab050961e97cd7f7880270d7e22e828b02b94524386860e22196643

@@ -4,7 +4,7 @@ title: Nvidia Invests $2B in Marvell, Launches NVLink Fusion for AI Infrastructu
 date: '2026-03-31'
 source: Nvidia Newsroom
 url_original: null
-url_canonical: https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion
+url_canonical: http://www.nvidia.com/page/home.html
 url_status: repaired
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md

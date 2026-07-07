@@ -4,8 +4,8 @@ title: SpaceX’s $500B premium gets harder to sell as Cursor option lands
 date: '2026-04-23'
 source: PitchBook
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 5095dd1d376315225ea1d4dd67b5a380dcca138639194ebddcd5620e4fecdefb

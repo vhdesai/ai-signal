@@ -4,7 +4,7 @@ title: xAI Ships Grok Build — Agentic Coding Agent at $300/mo on SuperGrok Hea
 date: '2026-05-15'
 source: 📰 Android Headlines
 url_original: null
-url_canonical: https://www.engadget.com/2173482/xai-coding-agent-grok-build/
+url_canonical: https://www.techtimes.com/articles/318976/20260624/grok-build-ships-autonomous-execution-xai-agent-now-plans-runs-verifies.htm
 url_status: repaired
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md

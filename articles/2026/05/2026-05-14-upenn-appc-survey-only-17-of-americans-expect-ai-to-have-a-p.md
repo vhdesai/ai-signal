@@ -4,8 +4,8 @@ title: 'UPenn/APPC Survey: Only 17% of Americans Expect AI to Have a Positive Im
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.inquirer.com/news/artificial-intelligence-polling-survey-penn-annenberg-20260516.html
+url_status: repaired
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 74bf9d22aa88ff3bbe4953af81178e6ab8950e36a093f75b35493e4d9dfad20c

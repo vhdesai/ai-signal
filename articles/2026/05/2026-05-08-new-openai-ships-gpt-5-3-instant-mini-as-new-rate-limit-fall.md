@@ -4,8 +4,8 @@ title: New OpenAI Ships GPT-5.3 Instant Mini as New Rate-Limit Fallback Model
 date: '2026-05-08'
 source: OpenAI / ToolsCompare.ai
 url_original: null
-url_canonical: https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpts-hidden-backup-model-just-got-smarter-as-openai-adds-a-cheaper-pro-option
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 35df7f219e374c1f65aab28cc2171aa5b1d824a34f81f9c7a601f736baeb1519
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
-- 2026-06-25-openai-updates-gpt-5-5-instant-for-intent-constraints-and-sh
 embedding_id: 2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI replaced GPT-5 Instant Mini with GPT-5.3 Instant Mini as the model served
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-06-25-openai-updates-gpt-5-5-instant-for-intent-constraints-and-sh]]
+**Related:** [[2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]]
 <!-- graph:end -->

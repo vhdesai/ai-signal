@@ -5,8 +5,8 @@ title: 'Meta AI Releases Sapiens2: State-of-the-Art Human-Centric Vision Foundat
 date: '2026-04-27'
 source: MarkTechPost
 url_original: null
-url_canonical: https://briefchain.com/meta-ai-releases-sapiens2-a-high-resolution-human-centric-vision-model-for-pose-segmentation-normals-pointmap-and-albedo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 7a066bf3bb68f5d2e72495e57ed574a3cda3576347bf288d614f5174b9a9f947

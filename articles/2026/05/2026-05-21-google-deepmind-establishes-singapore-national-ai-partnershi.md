@@ -4,7 +4,7 @@ title: Google DeepMind Establishes Singapore National AI Partnership New
 date: '2026-05-21'
 source: Google DeepMind Blog
 url_original: null
-url_canonical: https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/
+url_canonical: https://www.about.google/drive/download/
 url_status: repaired
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md

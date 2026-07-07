@@ -4,8 +4,8 @@ title: Vatican to release papal encyclical on AI alongside Anthropic co-founder
 date: '2026-05-20'
 source: National Catholic Reporter · Read article
 url_original: null
-url_canonical: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: a66af15022d94c750ca7b7466e6b67a24a7bb9f25a201a65bcf96173b8964f16

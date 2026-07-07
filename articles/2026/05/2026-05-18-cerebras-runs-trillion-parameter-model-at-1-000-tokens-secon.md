@@ -5,8 +5,8 @@ title: Cerebras Runs Trillion-Parameter Model at ~1,000 Tokens/Second, ~7× GPU 
 date: '2026-05-18'
 source: VentureBeat
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://digg.com/ai/68ubox4x
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070622_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: f09f3fae14a6e0c15a739545889fdf595dd4855404a977b055b7094ed39cbb70

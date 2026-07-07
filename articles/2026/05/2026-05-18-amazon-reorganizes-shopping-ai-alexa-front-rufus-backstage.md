@@ -4,8 +4,8 @@ title: 'Amazon Reorganizes Shopping AI: Alexa Front, Rufus Backstage'
 date: '2026-05-18'
 source: AI News
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html
+url_status: repaired
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: bfe193f9665d504514fd56484913a6226942794d821fe94f7c96602ad4ed6c1c

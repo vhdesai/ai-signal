@@ -9,7 +9,7 @@ title: Elon Musk's xAI has filed suit against the State of Colorado, challenging
 date: '2026-04-11'
 source: Plural Policy
 url_original: null
-url_canonical: https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump
+url_canonical: https://www.japantimes.co.jp/business/2023/08/18/elon-musk-arrives-in-japan-for-first-visit-in-nine-years/
 url_status: repaired
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md

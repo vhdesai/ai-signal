@@ -5,7 +5,7 @@ title: Cursor ships Composer 2.5 — matches Claude Opus 4.7 and GPT-5.5 at a fr
 date: '2026-05-18'
 source: Winbuzzer · Read article
 url_original: null
-url_canonical: https://lushbinary.com/blog/composer-2-5-vs-claude-opus-4-7-vs-gpt-5-5-coding-comparison/
+url_canonical: https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/
 url_status: repaired
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md

@@ -1,17 +1,23 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 619
+member_count: 625
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 619 connected article(s).
+> Auto-generated topic hub. 625 connected article(s).
 
+- `2026-07-07` [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene|UN's First Global Dialogue on AI Governance Convenes in Geneva]]
+- `2026-07-07` [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe|ECB asks euro-area banks for plans to address AI-driven cyber threats]]
+- `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
 - `2026-07-06` [[2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva|UN Opens First Global Dialogue on AI Governance in Geneva]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
 - `2026-07-06` [[2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg|FCA Weighs Bringing General-Purpose AI Models Inside the Regulatory Perimeter]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
+- `2026-07-06` [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user|ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services.]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
+- `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
 - `2026-07-04` [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t|Midjourney moves to force Disney, Universal and Warner Bros. to disclose their own AI use]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-03` [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat|Trump administration will oppose a centralized US AI regulator, says outgoing adviser]]

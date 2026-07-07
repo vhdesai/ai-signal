@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: WSJ Opinion
 url_original: https://www.wsj.com/
 url_canonical: https://www.wsj.com/
-url_status: ok
+url_status: broken
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 24e01b406b099e1be8abc2332138509185ab674e44d1e58750a0d087613a628b

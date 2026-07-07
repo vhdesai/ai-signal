@@ -5,7 +5,7 @@ title: 'Why Anthropic Is Withholding Its "Mythos" Model: Capability Concerns at 
 date: '2026-05-15'
 source: Hacker News / Various Analysis
 url_original: null
-url_canonical: https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673
+url_canonical: https://www.techpolicy.press/anthropics-mythos-recall-and-the-white-houses-missing-ai-safety-playbook/
 url_status: repaired
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md

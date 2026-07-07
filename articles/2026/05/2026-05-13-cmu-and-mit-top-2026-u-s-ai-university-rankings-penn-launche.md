@@ -4,8 +4,8 @@ title: CMU and MIT Top 2026 U.S. AI University Rankings; Penn Launches $200M AI 
 date: '2026-05-13'
 source: MSN
 url_original: null
-url_canonical: https://www.cmu.edu/news/stories/archives/2026/april/cmu-ranks-no-1-in-2026-us-news-graduate-rankings
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 5fba26eb89eb4c0eddc45b3a805d9efd75ef32a3caa430a92f5379f0296ca576

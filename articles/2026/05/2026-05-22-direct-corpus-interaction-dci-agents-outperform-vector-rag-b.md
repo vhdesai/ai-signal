@@ -5,8 +5,8 @@ title: Direct Corpus Interaction (DCI) Agents Outperform Vector RAG by Giving AI
 date: '2026-05-22'
 source: VentureBeat AI
 url_original: https://venturebeat.com/category/ai/
-url_canonical: https://www.agentflow.academy/blog/direct-corpus-interaction-beyond-rag
-url_status: repaired
+url_canonical: https://venturebeat.com/category/ai/
+url_status: broken
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: f4440af5813a29eecd3ff0cbf6e0de440dc1ffd777e6d9e118000219f709b246

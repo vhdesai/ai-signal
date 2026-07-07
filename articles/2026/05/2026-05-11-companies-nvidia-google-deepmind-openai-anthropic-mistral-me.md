@@ -5,8 +5,8 @@ title: 'Companies: Nvidia · Google DeepMind · OpenAI · Anthropic · Mistral �
 date: '2026-05-11'
 source: 'Universities: CMU'
 url_original: null
-url_canonical: https://understandingyourai.org/ai-industry-connections/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: fd7eb97e3f533980def9f204863eedc7f626617011d45aa62c0559528b1b0c35

@@ -11,8 +11,8 @@ title: new IBM IBV study of global CEOs found that 76% of surveyed organizations
 date: '2026-05-06'
 source: 'Compiled: Wednesday, May 6, 2026'
 url_original: null
-url_canonical: https://newsroom.ibm.com/2026-05-04-ibm-study-ceos-are-reshaping-c-suite-roles-for-the-ai-era
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 34454b05d7a8833b77c8300f93c1b030a939144b7e3d59e8132b05a36cbd5f6b
 normalized_title_hash: 2d4a3f18a01d6f1a

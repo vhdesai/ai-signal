@@ -5,8 +5,8 @@ title: China tightens outbound-investment screening over ByteDance, Moonshot, St
 date: '2026-04-23'
 source: WSJ / Axios
 url_original: null
-url_canonical: https://economictimes.indiatimes.com/tech/technology/china-to-curb-us-investment-in-tech-companies-report/articleshow/130496655.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-24_075241_Inbox_Daily AI News Digest – April 24,
   2026 (Updated).md
 content_hash: 78418c756ac167bce7f81d7f9b495fff09686b00337fd8664f6ad4a1273e8eb3
@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 - 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 - 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
 - 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
-- 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
 embedding_id: 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Beijing is moving to restrict additional US investment into leading Chinese AI l
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]]
+**Related:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]]
 <!-- graph:end -->

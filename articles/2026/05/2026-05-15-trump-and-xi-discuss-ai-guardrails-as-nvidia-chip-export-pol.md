@@ -4,7 +4,7 @@ title: Trump and Xi Discuss AI Guardrails as Nvidia Chip Export Policy Remains U
 date: '2026-05-15'
 source: The AI Track
 url_original: null
-url_canonical: https://www.studioglobal.ai/ca/discover/answers/what-did-donald-trump-and-chinese-officials-6a073a1577ab35ad68ba268a
+url_canonical: https://www.scmp.com/tech/article/3353764/trump-xi-weigh-ai-guardrails-nvidia-chip-exports-hang-balance
 url_status: repaired
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md

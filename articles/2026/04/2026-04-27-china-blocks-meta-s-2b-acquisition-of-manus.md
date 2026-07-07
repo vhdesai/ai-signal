@@ -4,8 +4,8 @@ title: China blocks Meta's $2B+ acquisition of Manus
 date: '2026-04-27'
 source: The AI Track
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/cj0v0gr2yz7o
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 8e8b0c1cafa8189d1480394a23eaf9e3c17e6960f70edb586e1a330958063d2f
 normalized_title_hash: 8df73da56f52b8d4

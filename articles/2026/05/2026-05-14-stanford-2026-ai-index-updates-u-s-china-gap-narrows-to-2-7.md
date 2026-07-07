@@ -4,8 +4,8 @@ title: 'Stanford 2026 AI Index Updates: U.S.–China Gap Narrows to 2.7%'
 date: '2026-05-14'
 source: Stanford HAI / MIT Technology Review
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
+url_status: repaired
 digest_source: digests\raw\2026-05-14_074914_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: cab149ad79248429c38ced400e6174c72ef2324b0528df6a350afb134ff2d84a

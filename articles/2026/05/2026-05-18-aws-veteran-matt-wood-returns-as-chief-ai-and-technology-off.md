@@ -4,7 +4,7 @@ title: AWS Veteran Matt Wood Returns as Chief AI and Technology Officer
 date: '2026-05-18'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/aws-veteran-matt-wood-returns-to-cloud-giant-in-new-role-chief-ai-and-technology-officer/
-url_canonical: https://www.newsbreak.com/news/4657973254055-aws-veteran-matt-wood-returns-to-cloud-giant-in-new-role-chief-ai-and-technology-officer
+url_canonical: https://www.fiduciarytech.com/single-post/aws-veteran-matt-wood-returns-as-chief-ai-and-technology-officer
 url_status: repaired
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md

@@ -4,8 +4,8 @@ title: OpenAI Codex Now Available from Anywhere; Windows Sandbox Launched
 date: '2026-05-13'
 source: OpenAI Blog
 url_original: null
-url_canonical: https://developers.openai.com/codex/app/windows
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: c2ce6eca858b563c49025a0549c9ba3e77c95d08edb8f0005b5daa7bf71b802e

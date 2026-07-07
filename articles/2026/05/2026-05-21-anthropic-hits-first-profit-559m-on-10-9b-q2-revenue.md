@@ -4,8 +4,8 @@ title: 'Anthropic Hits First Profit: $559M on $10.9B Q2 Revenue'
 date: '2026-05-21'
 source: AIToolsRecap
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/anthropic-first-profit-2026-revenue-breakdown
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-25_070542_Inbox_Daily AI News Digest – May 25,
   2026.md
 content_hash: ad058076b1469e933053cba7fd1e203e3b3ff1d7f310bc9983bc032444a146de

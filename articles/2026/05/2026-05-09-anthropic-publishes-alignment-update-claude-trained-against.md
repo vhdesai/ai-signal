@@ -5,8 +5,8 @@ title: 'Anthropic Publishes Alignment Update: Claude Trained Against Manipulativ
 date: '2026-05-09'
 source: Android Headlines
 url_original: null
-url_canonical: https://www.anthropic.com/research/teaching-claude-why
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_071033_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: c84f49e3ee77618a8753ef2face2b5040cece0607ecfb8398e1c2517508a1739

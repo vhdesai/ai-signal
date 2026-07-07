@@ -4,8 +4,8 @@ title: SubQ Launches First Commercial Subquadratic LLM with 12M-Token Context
 date: '2026-05-05'
 source: WhatLLM.org / SubQ
 url_original: null
-url_canonical: https://subq.ai/introducing-subq
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: e823d38e53531ffe52d8e449e4441b2e35cc8d03f084df1c97a435b5fee42a3c

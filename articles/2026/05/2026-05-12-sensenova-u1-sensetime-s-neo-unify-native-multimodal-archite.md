@@ -4,7 +4,7 @@ title: 'SenseNova-U1: SenseTime''s NEO-Unify Native Multimodal Architecture'
 date: '2026-05-12'
 source: arXiv / SenseTime
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.12500
+url_canonical: https://www.sensetime.com/en/news-detail/51167731?categoryId=1072
 url_status: repaired
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md

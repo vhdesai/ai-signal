@@ -9,8 +9,8 @@ title: Anthropic projected a $559M Q2 operating profit on $10.9B in revenue — 
 date: '2026-05-26'
 source: The Information · Link
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://claude.com/platform/api
+url_status: repaired
 digest_source: digests\raw\2026-05-26_075430_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: 6dd2da4c4bf00f4f95e27cfea71bac1c87e524cfb71824870314c811ed4e4cc3

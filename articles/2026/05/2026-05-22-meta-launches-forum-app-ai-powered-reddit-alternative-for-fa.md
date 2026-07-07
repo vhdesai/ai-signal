@@ -4,8 +4,8 @@ title: Meta Launches Forum App — AI-Powered Reddit Alternative for Facebook Gr
 date: '2026-05-22'
 source: Engadget
 url_original: null
-url_canonical: https://www.engadget.com/2179165/meta-forum-groups-app/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_071207_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 232cd025d720dc90d33c8dc9e6a9424d87c944bf9de238e86ca1d760bb479eb9

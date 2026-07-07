@@ -4,8 +4,8 @@ title: Anthropic Claude Gets Computer Use on Mac — Desktop Automation from iPh
 date: '2026-03-24'
 source: CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: d8a4854bdbda70d3d67df49bd82a542a55e8d0b290c239c2f60e90f705d1c8a9

@@ -10,8 +10,8 @@ date: '2026-05-01'
 source: Apple posts best March quarter ever — $111.2B, +17% YoY — The Motley Fool
   / AOL
 url_original: null
-url_canonical: https://aitoolsrecap.com/Blog/microsoft-openai-revenue-share-deal-restructure-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 20d19a4cec7996357cf9604735322d8260cd1ef48748fbb8d6e1cd4981936b96
 normalized_title_hash: ecc5abdedebfe84e

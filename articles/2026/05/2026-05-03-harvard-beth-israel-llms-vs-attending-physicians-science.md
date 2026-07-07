@@ -4,8 +4,8 @@ title: 'Harvard / Beth Israel: LLMs vs. attending physicians (Science)'
 date: '2026-05-03'
 source: Science / TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_081038_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 66b5579684b373426f3098057a81dda8987da2e79de112342fa10267c3087bb2
 normalized_title_hash: a7ca4c217092ac0e

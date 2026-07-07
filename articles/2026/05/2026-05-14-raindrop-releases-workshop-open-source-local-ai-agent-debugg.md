@@ -4,7 +4,7 @@ title: Raindrop Releases "Workshop" — Open-Source Local AI Agent Debugger
 date: '2026-05-14'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.raindrop.ai/docs/workshop/overview/
+url_canonical: https://www.dataworldbank.net/2026/05/14/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop/
 url_status: repaired
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md

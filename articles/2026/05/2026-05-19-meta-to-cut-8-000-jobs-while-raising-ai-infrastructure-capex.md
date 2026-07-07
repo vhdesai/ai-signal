@@ -4,8 +4,8 @@ title: Meta to Cut 8,000 Jobs While Raising AI Infrastructure Capex to $145 Bill
 date: '2026-05-19'
 source: TechRepublic
 url_original: null
-url_canonical: https://www.tomshardware.com/tech-industry/big-tech/mark-zuckerberg-says-meta-is-cutting-8000-jobs-to-pay-for-ai-infrastructure
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 244f0e0ef404adccf7eaebbeea2a316075ad888f46a5e211efc2b265f56098f6

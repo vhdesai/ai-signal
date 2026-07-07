@@ -4,8 +4,8 @@ title: 'Chinese Open-Weight Surge: GLM-5.1, MiniMax M2.7, Kimi K2.6, DeepSeek V4
 date: '2026-05-04'
 source: AIToolsRecap
 url_original: null
-url_canonical: https://ailaradar.com/posts/chinese-open-weights-surge.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: c7f74b060336b9ff6f059d1722eddd5c3ded3b1a5b54bcc470a597f9e3601834

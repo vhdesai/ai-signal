@@ -4,8 +4,8 @@ title: Analog Devices in Advanced Talks to Buy Empower Semiconductor for ~$1.5 B
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/sectors/technology/articles/analog-devices-acquires-empower-semiconductor-132052524.html
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: 08b45851a6245b8cb4bf9ed80c580fee2c65e3a6c52e7e239ae4088f45d839ed

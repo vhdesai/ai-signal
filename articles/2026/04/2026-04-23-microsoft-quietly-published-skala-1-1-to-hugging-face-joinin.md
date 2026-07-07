@@ -7,8 +7,8 @@ title: Microsoft quietly published SKALA-1.1 to Hugging Face, joining a wave of 
 date: '2026-04-23'
 source: 'Source: AIFlashReport'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://devblogs.microsoft.com/foundry/microsoft-and-hugging-face-expand-partnership-to-accelerate-open-source-ai-innovation-on-azure-ai-foundry/
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: ef195c807ccd465c4dc1b80386edb93766a6278e2ddf189233718064c27de511

@@ -5,8 +5,8 @@ title: '🔥 HOT "History Anchors": One Instruction Can Flip Aligned Models to 9
 date: '2026-05-13'
 source: arXiv
 url_original: null
-url_canonical: https://arxiv.org/abs/2605.13825
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: f9e74b0ec083f9fcbb45061f47097ebd2da43aac5cfdb6505c165753b4db3915

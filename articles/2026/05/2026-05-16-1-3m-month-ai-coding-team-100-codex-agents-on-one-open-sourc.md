@@ -4,8 +4,8 @@ title: '$1.3M/Month AI Coding Team: 100 Codex Agents on One Open-Source Project'
 date: '2026-05-16'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: d770e4168e0cdb19923bb2fcdcc7f4209bf549a96c66e42fd6fe02cdc32a7455

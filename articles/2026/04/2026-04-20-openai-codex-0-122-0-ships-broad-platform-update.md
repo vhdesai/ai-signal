@@ -4,8 +4,8 @@ title: OpenAI Codex 0.122.0 Ships Broad Platform Update
 date: '2026-04-20'
 source: OpenAI Release Notes
 url_original: null
-url_canonical: https://developers.openai.com/codex/changelog
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 8ba745975676adb68411643cd0757bf1a12cb42abe1675d23be095f6641853bd

@@ -4,8 +4,8 @@ title: OpenAI Acquires Weights.gg Voice Cloning Startup
 date: '2026-05-16'
 source: The Decoder
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://letsdatascience.com/news/openai-acquires-weightsgg-voice-cloning-team-and-ip-7dc502ef
+url_status: repaired
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: f108ed1f79314866e2e7f26310ab93343c3dd6da00e640449208455ee3874164

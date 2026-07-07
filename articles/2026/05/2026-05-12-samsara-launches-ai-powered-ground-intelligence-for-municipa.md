@@ -5,8 +5,8 @@ title: Samsara launches AI-powered Ground Intelligence for municipal infrastruct
 date: '2026-05-12'
 source: TechCrunch
 url_original: null
-url_canonical: https://www.samsara.com/company/news/press-releases/samsara-new-public-sector-ai-solutions
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 0f1faf51eaacf04f1cb265dbdc700322d0271bf7df20d8900c17c9526b3c652a

@@ -5,7 +5,7 @@ title: Trump Administration Shows Shifting Rhetoric on AI Regulation Amid US-Chi
 date: '2026-05-14'
 source: NPR / WFAE
 url_original: null
-url_canonical: https://legis1.com/news/trump-china-policy-trumps-rhetoric-clashes-with
+url_canonical: https://www.wfae.org/science-technology/2026-05-14/how-trump-may-be-changing-his-stance-on-ai-regulation
 url_status: repaired
 digest_source: digests\raw\2026-05-23_071253_Inbox_Daily AI News Digest – May 23,
   2026.md

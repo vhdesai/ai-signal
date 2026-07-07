@@ -4,8 +4,8 @@ title: Google DeepMind Turns the Mouse Cursor Into a Gemini AI Interface
 date: '2026-05-13'
 source: NewsBytes
 url_original: null
-url_canonical: https://deepmind.google/blog/ai-pointer/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: 3b6544e58437d9c7d18d445a961addef111873bbb0c6ac507295748868c9a1b9

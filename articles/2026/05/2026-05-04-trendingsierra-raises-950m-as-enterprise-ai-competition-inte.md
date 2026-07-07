@@ -4,8 +4,8 @@ title: TRENDINGSierra raises $950M as enterprise AI competition intensifies
 date: '2026-05-04'
 source: TechCrunch
 url_original: null
-url_canonical: https://businessnewswire.org/sierra-raises-950m-to-lead-enterprise-ai-revolution/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_075751_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: c9cbbcf06010e099e6ab4663d795c55a88ce3daf09e9b48cd371eb3964a90ea4
 normalized_title_hash: b04899951aed3e88

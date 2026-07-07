@@ -4,7 +4,7 @@ title: NVIDIA Releases Nemotron 3 Nano Omni at GTC 2026
 date: '2026-05-12'
 source: NVIDIA / GTC 2026
 url_original: null
-url_canonical: https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/
+url_canonical: http://www.nvidia.com/page/home.html
 url_status: repaired
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md

@@ -5,8 +5,8 @@ title: 'Fastino Labs Open-Sources GLiGuard: 300M-Param Safety Moderation Model W
 date: '2026-05-13'
 source: MarkTechPost
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/13/fastino-labs-open-sources-gliguard-a-300m-parameter-safety-moderation-model-that-matches-or-exceeds-accuracy-of-models-23-90x-its-size/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 44e0cb8176f40837ed41054dbbd264914aa0e40445d3f069adea224a20647fae

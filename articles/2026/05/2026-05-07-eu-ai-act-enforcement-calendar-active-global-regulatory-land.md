@@ -5,8 +5,8 @@ title: EU AI Act Enforcement Calendar Active; Global Regulatory Landscape Accele
 date: '2026-05-07'
 source: Cubbbix
 url_original: null
-url_canonical: https://cubbbix.com/blog/ai-regulation-news-2026-global-update/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_070904_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 1ea3cd904fc4791b3ee4bfc170e59e06251c9ce282e8ccc9fe51216214623dd4

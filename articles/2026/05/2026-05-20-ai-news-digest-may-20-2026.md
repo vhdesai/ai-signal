@@ -4,8 +4,8 @@ title: AI News Digest — May 20, 2026
 date: '2026-05-20'
 source: Curated for Vik Desai, Corp Dev, Microsoft
 url_original: null
-url_canonical: https://developer.microsoft.com/blog/build-recap
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 1670eb17ce6e06d261c9842da97d82c5af6ae7b103e228b7d43e06cf0f1de163

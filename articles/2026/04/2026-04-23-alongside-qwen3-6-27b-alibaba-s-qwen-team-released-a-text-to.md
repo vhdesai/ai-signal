@@ -9,8 +9,8 @@ title: Alongside Qwen3.6-27B, Alibaba's Qwen team released a text-to-speech mode
 date: '2026-04-23'
 source: 'Source: ai0.news'
 url_original: null
-url_canonical: https://www.alibabacloud.com/blog/qwen3-6-27b-flagship-level-coding-in-a-27b-dense-model_603063
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: d1f56a633ffb4be8d29082ba39d4213391701bc50e69eb689e2d5e2908d2b06a

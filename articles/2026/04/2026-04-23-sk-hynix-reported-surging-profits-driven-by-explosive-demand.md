@@ -9,8 +9,8 @@ title: SK Hynix reported surging profits driven by explosive demand for High Ban
 date: '2026-04-23'
 source: 'Source: AIFlashReport'
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://finance.yahoo.com/markets/stocks/articles/memory-chipmaker-sk-hynix-kicks-103648704.html?fr=sycsrp_catchall
+url_status: repaired
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 459c671d47c0d2874b08980c809b04d9ca47abc79afa628ae3800d51904a7086

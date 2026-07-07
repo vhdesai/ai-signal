@@ -5,8 +5,8 @@ title: OpenAI Launches $4B+ Deployment Company, Acquires UK AI Consulting Firm T
 date: '2026-05-18'
 source: TechRepublic
 url_original: null
-url_canonical: https://www.constellationr.com/insights/news/openai-launches-openai-deployment-company-acquires-tomoro
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: 90575c5729ff99b2a004e0da3257aba7eaba64f02e5ccf4c453ed9f85bfe6bfa

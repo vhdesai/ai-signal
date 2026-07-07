@@ -4,8 +4,8 @@ title: Cerebras IPO Winners Include Foundation, Benchmark — and OpenAI
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://observer.com/2026/05/cerebras-ipo-create-billions-andrew-feldman-ai-chip-investors/
+url_status: repaired
 digest_source: digests\raw\2026-05-19_075951_Inbox_Daily AI News Digest –– May 19,
   2026.md
 content_hash: ccf9148690562f694802e1c2e1daa8eca2b29920455f665712098eb624f5e9d3

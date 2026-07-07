@@ -4,7 +4,7 @@ title: Cursor Launches Hiring Spree After SpaceX Deal
 date: '2026-05-15'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/cursor-hiring-asia-pacific-singapore-japan-australia-india-roles-gtm-2026-5
+url_canonical: https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
 url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md

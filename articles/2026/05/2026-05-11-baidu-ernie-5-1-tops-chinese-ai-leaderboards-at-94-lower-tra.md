@@ -4,8 +4,8 @@ title: Baidu ERNIE 5.1 Tops Chinese AI Leaderboards at 94% Lower Training Cost H
 date: '2026-05-11'
 source: Decrypt
 url_original: null
-url_canonical: https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-12_070743_Inbox_Daily AI News Digest – May 12,
   2026.md
 content_hash: 6319cd49470df60a4d330f9dc1feea8d8d179a1fcf13eeba045cf43d75b36bec

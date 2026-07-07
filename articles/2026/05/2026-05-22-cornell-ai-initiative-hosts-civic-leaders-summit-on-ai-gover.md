@@ -5,8 +5,8 @@ title: Cornell AI Initiative Hosts Civic-Leaders Summit on AI Governance and Pub
 date: '2026-05-22'
 source: Cornell AI
 url_original: https://ai.cornell.edu/news/
-url_canonical: https://www.miragenews.com/leaders-debate-ai-promise-risks-at-cornell-1679075/
-url_status: repaired
+url_canonical: https://ai.cornell.edu/news/
+url_status: broken
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: adb2c35508441b8a39e218c99c68601c4307caa4e00723a9bfd79b07bac2b160

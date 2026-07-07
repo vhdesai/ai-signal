@@ -4,8 +4,8 @@ title: Breaking Cursor in Advanced Talks on $2B Round at $50B+ Valuation
 date: '2026-04-17'
 source: Bloomberg / OpenTools
 url_original: null
-url_canonical: https://techstartups.com/2026/04/17/cursor-in-talks-to-raise-2b-at-50b-valuation-as-revenue-surges-and-ai-coding-wars-heat-up/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 6731badd704939235d5218378e31fece3b03f139b83f1c90077b142b3a817c26

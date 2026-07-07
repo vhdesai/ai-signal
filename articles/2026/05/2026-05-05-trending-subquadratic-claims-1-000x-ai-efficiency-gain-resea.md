@@ -5,8 +5,8 @@ title: Trending Subquadratic Claims 1,000x AI Efficiency Gain — Researchers De
 date: '2026-05-05'
 source: VentureBeat
 url_original: null
-url_canonical: https://welcome.ai/content/subquadratics-1000x-ai-efficiency-claim-faces-scrutiny-and-validation
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-10_070626_Inbox_Daily AI News Digest – May 10,
   2026.md
 content_hash: 364526ffab649f95b76c5b0dfaf9a9a3e1e52c5e656b34afa6fd53ac4154fdea

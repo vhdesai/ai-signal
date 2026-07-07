@@ -4,7 +4,7 @@ title: Cerebras CEO Andrew Feldman on why he built the world's largest computer 
 date: '2026-05-21'
 source: Bloomberg Odd Lots  · Cerebras Systems
 url_original: null
-url_canonical: https://omny.fm/shows/odd-lots/why-cerebras-ceo-andrew-feldman-built-the-worlds-largest-computer-chip
+url_canonical: https://www.fortuneindia.com/technology/what-is-cerebras-and-why-is-everyone-suddenly-talking-about-it-explained/137202
 url_status: repaired
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md

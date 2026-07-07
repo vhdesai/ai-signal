@@ -5,8 +5,8 @@ title: Anthropic's "Mythos" Cybersecurity AI Model Deemed Too Dangerous to Relea
 date: '2026-05-01'
 source: Fox News / The AI Track
 url_original: null
-url_canonical: https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 063bace83a2949f011e8a18687f8d895f7df3bc57ac89eeb50d31a07b0764c1d
 normalized_title_hash: 6bd75b9370c687b0

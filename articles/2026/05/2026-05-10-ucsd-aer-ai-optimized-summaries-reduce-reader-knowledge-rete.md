@@ -5,8 +5,8 @@ title: 'UCSD (AER): AI-Optimized Summaries Reduce Reader Knowledge Retention by 
 date: '2026-05-10'
 source: 🔗 Sierra Sun Times / UCSD  · 🏛 UC San Diego
 url_original: null
-url_canonical: https://today.ucsd.edu/story/missing-information-can-misinform
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: eb1881f7fcd2157501a97500d355fb1d62d09b71120363fb2ffa3c9cb9a10898

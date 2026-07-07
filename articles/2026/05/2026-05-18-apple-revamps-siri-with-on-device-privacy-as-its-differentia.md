@@ -4,7 +4,7 @@ title: Apple revamps Siri with on-device privacy as its differentiator
 date: '2026-05-18'
 source: The Information
 url_original: null
-url_canonical: https://www.scientificamerican.com/article/inside-the-new-siri-ai-and-the-privacy-paradox-of-apple-intelligence/
+url_canonical: https://www.storyboard18.com/amp/digital/apple-may-position-privacy-first-siri-overhaul-as-key-ai-differentiator-at-wwdc-98426.htm
 url_status: repaired
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md

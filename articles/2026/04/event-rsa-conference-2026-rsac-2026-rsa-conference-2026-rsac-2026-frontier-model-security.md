@@ -4,8 +4,8 @@ title: 'RSA Conference 2026 / RSAC 2026: Frontier model security'
 date: '2026-04-12'
 source: RSA Conference 2026 / RSAC 2026
 url_original: https://www.rsaconference.com/usa
-url_canonical: https://www.crn.com/rsa-2026
-url_status: repaired
+url_canonical: https://www.rsaconference.com/usa
+url_status: broken
 digest_source: digests\raw\rsa-conference-2026.md
 content_hash: a8defaef21041f7421feb9c28a0d1a583e2813beb3ba5db440ed784f2bc24487
 normalized_title_hash: d4be9ae4955b3cf9

@@ -4,7 +4,7 @@ title: 'WSJ: Cerebras IPO Is a “Huge Bet on Nvidia Fatigue”'
 date: '2026-05-15'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://www.msn.com/en-us/money/companies/the-blockbuster-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue/ar-AA23gjJT
+url_canonical: https://www.msn.com/en-us/money/companies/the-blockbuster-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue/ar-AA23gjJT?ocid=finance-verthp-feeds
 url_status: repaired
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md

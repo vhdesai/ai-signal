@@ -8,8 +8,8 @@ date: '2026-04-27'
 source: 'Linux kernel + npm + cPanel: the AI supply-chain pressure ramps up — Dev
   Weekly'
 url_original: null
-url_canonical: https://nexchron.com/government/pentagon-multi-vendor-ai-strategy-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 3acc6ed44772ea94a01a999026e7f77f2756b2ced16bc2367fdcdb39ceced68e
 normalized_title_hash: a612cad2db4776cb

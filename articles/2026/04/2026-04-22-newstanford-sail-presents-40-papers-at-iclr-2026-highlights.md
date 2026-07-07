@@ -5,8 +5,8 @@ title: 'NewStanford SAIL Presents 40+ Papers at ICLR 2026 — Highlights: Agenti
 date: '2026-04-22'
 source: Stanford AI Lab Blog
 url_original: null
-url_canonical: https://ai.stanford.edu/blog/iclr-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-06_080353_Inbox_Daily AI News Digest – May 6, 2026.md
 content_hash: 31d063ca382ddc3f9d850d38e4256174cd140731a5c0bb2cc9cb3427eed6c7fb
 normalized_title_hash: 62195e21b4344e9d

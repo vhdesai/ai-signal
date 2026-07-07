@@ -21,12 +21,9 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
-- 2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje
-- 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
+dedupe_status: duplicate
+canonical_article_id: 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+related_article_ids: []
 embedding_id: 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 event_name: ''
 ---
@@ -40,5 +37,5 @@ ByteDance and Alibaba are disabling features that let users build and chat with 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]] · [[2026-05-18-china-s-ai-self-correction-bytedance-cuts-30-of-doubao-proje]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]]
+**Canonical:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
 <!-- graph:end -->

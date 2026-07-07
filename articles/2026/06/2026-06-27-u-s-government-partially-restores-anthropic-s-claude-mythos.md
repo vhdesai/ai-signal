@@ -6,7 +6,7 @@ date: '2026-06-27'
 source: International Business Times
 url_original: https://www.ibtimes.sg/us-reverses-course-restores-anthropics-claude-mythos-5-critical-infrastructure-fable-5-still-88634
 url_canonical: https://www.ibtimes.sg/us-reverses-course-restores-anthropics-claude-mythos-5-critical-infrastructure-fable-5-still-88634
-url_status: broken
+url_status: ok
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 8eb522fa0cf0804ca2696b2203652c13aa610802ba6dcc7515aeec1d82bbeb32

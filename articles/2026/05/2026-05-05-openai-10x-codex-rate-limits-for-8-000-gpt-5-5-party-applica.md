@@ -4,8 +4,8 @@ title: 'OpenAI: 10x Codex rate limits for 8,000 GPT-5.5 party applicants'
 date: '2026-05-05'
 source: VentureBeat
 url_original: null
-url_canonical: https://digitalmindnews.com/companies/openai/openai-gives-8000-developers-10x-codex-rate-limits-after-gpt-55/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080124_Inbox_Daily AI News Digest – May 5, 2026.md
 content_hash: 1ef16748397d4805c917708ce1fcaf970644e2c7fa70a45856597b7e1bb0a7ee
 normalized_title_hash: 0372c33e20950b1a

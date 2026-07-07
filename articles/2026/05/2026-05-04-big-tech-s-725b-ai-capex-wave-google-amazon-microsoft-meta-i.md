@@ -4,8 +4,8 @@ title: 'Big Tech''s $725B AI Capex Wave: Google, Amazon, Microsoft & Meta in 202
 date: '2026-05-04'
 source: Invezz / MSN
 url_original: null
-url_canonical: https://valueaddvc.com/blog/ai-hyperscaler-capex-compared-why-microsoft-google-meta-and-amazon-are-all-spending-at-once
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4b24ec0f26ad6906dcb3d80060c3b03875245e96533d08d3db63464811d93965

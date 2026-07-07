@@ -4,8 +4,8 @@ title: Anthropic Nears $30B Raise at $900B Valuation — 3× Its February Figure
 date: '2026-05-15'
 source: 📰 EconoTimes
 url_original: null
-url_canonical: null
-url_status: missing
+url_canonical: https://techfundingnews.com/anthropic-30b-fundraise-900b-valuation-mega-round/
+url_status: repaired
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 023dcf302a10e917809542a5ed6fedafc9fb802bfef7b116239b6b586da50844

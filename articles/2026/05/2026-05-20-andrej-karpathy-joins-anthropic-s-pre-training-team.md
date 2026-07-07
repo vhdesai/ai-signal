@@ -4,8 +4,8 @@ title: Andrej Karpathy joins Anthropic's pre-training team
 date: '2026-05-20'
 source: VentureBeat · Read article
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-20_081545_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 7b3ede79832d6b72fc787912eded4f084015a7a397524537ad1c599d4c5a3f85

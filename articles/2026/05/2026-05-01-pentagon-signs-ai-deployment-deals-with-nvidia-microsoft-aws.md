@@ -5,8 +5,8 @@ title: Pentagon Signs AI Deployment Deals With Nvidia, Microsoft, AWS, and Oracl
 date: '2026-05-01'
 source: TechCrunch / Federal News Network
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-02_070834_Inbox_Daily AI News Digest – May 2, 2026.md
 content_hash: 1a46152f7d2468cf15152babaacb141dcc93c6e551a765867d6c5a6eb4c0cb1f
 normalized_title_hash: cb854cbdf7fa9d2b

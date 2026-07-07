@@ -5,8 +5,8 @@ title: Cerebras Runs Trillion-Parameter Kimi K2.6 at 981 Tokens/Second — 6.7×
 date: '2026-05-20'
 source: VentureBeat
 url_original: null
-url_canonical: https://www.cerebras.ai/blog/cerebras-kimi-k2-Enterprise
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: b6d5bdd4f653d8c05213603a6e52e9202dad802ebc8f3b1d8beb3332b9dc346b

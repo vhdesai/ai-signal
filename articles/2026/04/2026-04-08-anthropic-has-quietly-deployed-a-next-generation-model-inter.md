@@ -10,8 +10,8 @@ title: Anthropic has quietly deployed a next-generation model internally codenam
 date: '2026-04-08'
 source: Meta · Meta Blog / CNBC
 url_original: null
-url_canonical: https://www.tallydigital.io/blog/claude-mythos-project-glasswing-everything-you-need-to-know
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-11_071031_Inbox_Daily AI News Digest – April 11,
   2026.md
 content_hash: 8f309aa3bf3e3d15e731f1bec56d5b075c4c707ab8ec9b9f77f1b6e3f185574a

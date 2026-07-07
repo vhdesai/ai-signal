@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
+- 2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi
 - 2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa
-- 2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b
 embedding_id: 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Sam Altman is offering Y Combinator founders $2M in OpenAI tokens in exchange fo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]] · [[2026-07-02-openai-floats-giving-the-u-s-government-a-5-stake-42-6b]]
+**Related:** [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi]] · [[2026-07-02-openai-proposes-donating-5-of-its-equity-to-a-u-s-sovereign]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-07-02-openai-floats-handing-the-us-government-a-5-stake-to-ease-wa]]
 <!-- graph:end -->

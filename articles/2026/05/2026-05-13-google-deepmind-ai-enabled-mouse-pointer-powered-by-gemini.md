@@ -4,8 +4,8 @@ title: Google DeepMind AI-Enabled Mouse Pointer Powered by Gemini
 date: '2026-05-13'
 source: MarkTechPost / Google DeepMind Blog
 url_original: null
-url_canonical: https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: eb66951d18a25ae95436cde74c823692a093f8241716507c2eb50ce677fc6143

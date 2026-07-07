@@ -5,8 +5,8 @@ title: 'AI IQ Benchmark: Frontier Models Converge Near Human IQ 136, Gap Between
 date: '2026-05-13'
 source: VentureBeat
 url_original: null
-url_canonical: https://news.tunx.ai/frontier-models-tracker-every-major-ai-model-benchmark-score-and-release-update-2026/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_070646_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 3cd3b872da750c9f0393c5423ea34fceebb24b2b50fa7b37b7b01abb6cc0f1a8

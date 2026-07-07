@@ -4,8 +4,8 @@ title: SAP moves to block OpenClaw and other unauthorized AI agents
 date: '2026-05-04'
 source: The Information
 url_original: null
-url_canonical: https://metodoviral.com/en/news/sap-blocks-unauthorized-ai-agents-like-openclaw/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 19f8dab71a10a8b042e611a8362c780462f0fb54d0765cb47489f90c01f455ab

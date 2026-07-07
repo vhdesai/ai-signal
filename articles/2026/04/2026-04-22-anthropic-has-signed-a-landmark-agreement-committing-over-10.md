@@ -10,8 +10,8 @@ title: Anthropic has signed a landmark agreement committing over $100 billion to
 date: '2026-04-22'
 source: 🔥 Hot DeepSeek / Tencent / Alibaba
 url_original: null
-url_canonical: https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
 content_hash: 75a3aef19b6f2492887e9f94f07f597ee87b0b23fe3c1cbe8d21b64d12ecf757
