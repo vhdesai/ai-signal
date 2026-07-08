@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: VentureBeat
 url_original: https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85
 url_canonical: https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 52bce8907d1089862080956027bfa5a5a56bd8aa884deecadf49141665425bbf

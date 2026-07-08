@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/alphabet-launches-80-billion-capital-110238365.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/alphabet-launches-80-billion-capital-110238365.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: 7e3f0822714b8dd86e1c859168d09121afd5b916658846f599ab19c9d9408e9e
 normalized_title_hash: 09943b36eb2be036

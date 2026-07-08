@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api
 url_canonical: https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 21a3d5269a497fa1ff2f2a7f0f2d04ee1e13a0544a3501a73cc9ab2e8362d9ef

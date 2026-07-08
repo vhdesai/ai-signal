@@ -4,8 +4,8 @@ title: Connecticut becomes the latest U.S. state to enact an AI accountability l
 date: '2026-05-18'
 source: CIO Dive
 url_original: null
-url_canonical: https://libguides.ctstatelibrary.org/law/statutes/effectivedates
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 1bfa6c2cddb0272242e4ec9c81fbae42385455074e0669080f3391521761ad67

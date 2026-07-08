@@ -6,7 +6,7 @@ date: '2026-05-24'
 source: AIChief
 url_original: https://aichief.com/news/
 url_canonical: https://aichief.com/news/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 3629826640609e50fae5736024ed85c019a6043b4290f0cd59e580f91c7ba003

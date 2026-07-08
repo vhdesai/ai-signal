@@ -10,8 +10,8 @@ title: Elon Musk and xAI held exploratory discussions with French AI startup Mis
 date: '2026-04-22'
 source: 'Source: Business Insider'
 url_original: null
-url_canonical: https://www.japantimes.co.jp/business/2023/08/18/elon-musk-arrives-in-japan-for-first-visit-in-nine-years/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 2c8b0b12bf30cabd1b2715b1ed3aa59bbe6ff5daa72a829ae57a53d2373cfe67
@@ -34,7 +34,7 @@ related_article_ids:
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
 - 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
-- 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
+- 2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f
 embedding_id: 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
 event_name: ''
 ---
@@ -48,5 +48,5 @@ OpenAI Partners with Infosys to Expand Enterprise AI Deployment
 
 **Entities:** [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
+**Related:** [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]] · [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f]]
 <!-- graph:end -->

@@ -5,8 +5,8 @@ title: Trump and Xi Discuss AI Guardrails — Nvidia H200 Chip Exports to China 
 date: '2026-05-15'
 source: NPR / The AI Track
 url_original: null
-url_canonical: https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-17_070524_Inbox_Daily AI News Digest – May 17,
   2026.md
 content_hash: b8f58d0e2f700005a75e20b49964703c289fe80b085c6c3018d6c045dbc5d692

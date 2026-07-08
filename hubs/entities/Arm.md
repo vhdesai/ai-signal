@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Arm
-member_count: 13
+member_count: 16
 ---
 
 # Arm
 
-> Auto-generated entity hub. 13 connected article(s).
+> Auto-generated entity hub. 16 connected article(s).
 
+- `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
+- `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
+- `2026-07-07` [[2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t|NVIDIA Frames Vera CPU as “Max Single-Threaded CPU at Scale”; Teases Next-Gen ‘Rigel’ Cores]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex|Nvidia unveils RTX Spark AI-PC platform at Computex]]
 - `2026-06-01` [[2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super|Nvidia enters the Windows PC market with the RTX Spark superchip at Computex 2026]]
 - `2026-06-01` [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p|Nvidia Unveils RTX Spark Superchip, Reinventing the Windows PC as an Agent Platform]]

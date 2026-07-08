@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: GeekWire
 url_original: https://www.geekwire.com/2026/microsoft-set-to-cut-thousands-of-jobs-next-week-spanning-xbox-sales-and-consulting/
 url_canonical: https://www.geekwire.com/2026/microsoft-set-to-cut-thousands-of-jobs-next-week-spanning-xbox-sales-and-consulting/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: e8379ee0711216773d881a0818737e2777462f40fc4ed889e94dca497ec4a7f7
@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
+- 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 embedding_id: 2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Microsoft is preparing to cut less than 2.5% of its ~220,000-person workforce ne
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
+**Related:** [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work]]
 <!-- graph:end -->

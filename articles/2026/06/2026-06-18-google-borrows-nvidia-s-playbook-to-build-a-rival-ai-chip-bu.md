@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Wall Street Journal
 url_original: https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9
 url_canonical: https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 0f3524200f5df5c0bc810bd3c87c871c2d4f30c0846a4b6f24d1bd4ec5ea94d7
 normalized_title_hash: 10c9b611606a126d

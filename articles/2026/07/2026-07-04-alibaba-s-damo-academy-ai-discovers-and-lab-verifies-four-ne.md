@@ -5,7 +5,7 @@ date: '2026-07-04'
 source: NewsBytes
 url_original: https://www.newsbytesapp.com/news/science/alibaba-s-new-ai-finds-superconducting-materials-could-speed-up-research/story
 url_canonical: https://www.newsbytesapp.com/news/science/alibaba-s-new-ai-finds-superconducting-materials-could-speed-up-research/story
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 8fe8bfe852aa0e1d7011b016e87c6d17584cc544da54443ef16a8e70a3cfb542

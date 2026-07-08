@@ -10,8 +10,8 @@ title: Anthropic closed its $30 billion funding round at a valuation above $900 
 date: '2026-05-21'
 source: The Information, BuildFastWithAI, WSJ | EconoTimes  · The Information
 url_original: null
-url_canonical: https://claude.com/platform/api
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: 8430170880a089f2741d46e1d073c32176079f7b46fd427b0e13888aabf9164d

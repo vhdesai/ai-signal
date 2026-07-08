@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su
+- 2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse
+- 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
+- 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 - 2026-04-02-academic-research
-- 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
 embedding_id: 2026-06-02-hackers-hijack-instagram-accounts-via-meta-s-ai-support-chat
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Attackers took over high-profile Instagram accounts — including the Obama Whit
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su]] · [[2026-04-02-academic-research]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]]
+**Related:** [[2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]] · [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac]] · [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]] · [[2026-04-02-academic-research]]
 <!-- graph:end -->

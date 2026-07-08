@@ -4,8 +4,8 @@ title: UK HMRC Signs £175M, 10-Year AI Fraud Detection Deal with Quantexa
 date: '2026-05-15'
 source: BBC / LLM Stats
 url_original: null
-url_canonical: https://www.bbc.com/news/articles/c7v9ld262n4o
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 2ba4b32c0c9a8b5aacd5429e64daf3ce2d6cc9a9d20beb4dbb8e19a4162ae2b3

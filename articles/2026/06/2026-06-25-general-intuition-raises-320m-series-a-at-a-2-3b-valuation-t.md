@@ -6,7 +6,7 @@ date: '2026-06-25'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
 url_canonical: https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 1a84d17ba28ffd8bf74907169068db05cac9c7fd6427725af22c365d5e805ae0

@@ -5,7 +5,7 @@ date: '2026-05-13'
 source: Peerlist
 url_original: https://peerlist.io/cnyouzige/articles/ai-agents-news--may-14-2026-tencent-cloud-deepseek-upgrade-openai-safety-warnings-and-xiaomi-mimos-global-surge
 url_canonical: https://peerlist.io/cnyouzige/articles/ai-agents-news--may-14-2026-tencent-cloud-deepseek-upgrade-openai-safety-warnings-and-xiaomi-mimos-global-surge
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 98c7bf02410db93c22473fab4777ee7d214fe92a29f6e336745456750546aee4
@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
 - 2026-04-27-
 - 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
+- 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 embedding_id: 2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tencent Cloud announced that three older DeepSeek models — V3-0324, V3.1-Termi
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-04-27-]] · [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]]
+**Related:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-04-27-]] · [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]]
 <!-- graph:end -->

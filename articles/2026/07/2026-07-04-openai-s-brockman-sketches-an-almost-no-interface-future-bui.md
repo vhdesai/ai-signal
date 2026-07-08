@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: The Decoder
 url_original: https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/
 url_canonical: https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 59538406f131588267cacee48a293eee513d5b6060e95b1a60358446ff9d42f7

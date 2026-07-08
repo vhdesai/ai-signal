@@ -4,8 +4,8 @@ title: Google I/O 2026 opens tomorrow with Gemini 3 expected to headline
 date: '2026-05-18'
 source: The Information AM
 url_original: null
-url_canonical: https://www.theverge.com/tech/932454/google-io-2026-news-announcements
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 734ad88c0c81ec40e85944b76bbc5730c923ba8adf46e37718f3b13e5e119f83

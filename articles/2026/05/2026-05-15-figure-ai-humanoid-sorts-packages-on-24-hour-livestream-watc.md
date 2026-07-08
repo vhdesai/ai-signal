@@ -4,8 +4,8 @@ title: Figure AI Humanoid Sorts Packages on 24-Hour Livestream Watched by 3 Mill
 date: '2026-05-15'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: b166a62a0dc16fc530a010a26f03900c564a0c1fe322e7a9aad43bc46769c62b

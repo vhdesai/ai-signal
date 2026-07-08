@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: VentureBeat
 url_original: https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models
 url_canonical: https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: a442bf33415418e88b23fe183a75b162c43b1e8fb20838285f5ac48e8051f301
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
 - 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv
+- 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 embedding_id: 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI and Broadcom unveiled “Jalapeño,” a custom AI accelerator purpose-bu
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
+**Related:** [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: WinBuzzer
 url_original: https://techcrunch.com/2026/05/
 url_canonical: https://techcrunch.com/2026/05/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: e9d48b7cae668e807e3c35a68b50a7edf3dfad562a2163d4f7ca7fb372625f08

@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: 'Source: Machine Learning Mastery'
 url_original: https://machinelearningmastery.com/blog/
 url_canonical: https://machinelearningmastery.com/blog/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: e3f0d3cf844900ca4b439830765dbb85006422108d9467d81ffa9770a31452e5

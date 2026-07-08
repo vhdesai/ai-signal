@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 - 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
+- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
 embedding_id: 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese robotics companies have raised $5.6 billion across 176 deals through mid
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]]
+**Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]]
 <!-- graph:end -->

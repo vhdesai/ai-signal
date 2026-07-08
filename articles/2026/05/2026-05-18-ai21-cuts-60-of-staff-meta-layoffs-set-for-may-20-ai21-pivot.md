@@ -4,8 +4,8 @@ title: AI21 cuts 60% of staff; Meta layoffs set for May 20; AI21 pivots to agent
 date: '2026-05-18'
 source: The Information AM
 url_original: null
-url_canonical: https://layoffhedge.com/company/ai21-labs
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 82cf3147f7396b3c03a42635ac30692d050411dce3f866655b18c6c79510cb4f

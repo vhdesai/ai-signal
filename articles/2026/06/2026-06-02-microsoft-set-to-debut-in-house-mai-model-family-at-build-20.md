@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: Business Standard
 url_original: https://www.business-standard.com/technology/tech-news/microsoft-build-2026-what-to-expect-new-reasoning-ai-model-surface-laptop-ultra-126060200686_1.html
 url_canonical: https://www.business-standard.com/technology/tech-news/microsoft-build-2026-what-to-expect-new-reasoning-ai-model-surface-laptop-ultra-126060200686_1.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: 0cdaf71e54050a1615c924f72731c8a72311c92ae1789f63d061707ff658d1f3
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
-- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 embedding_id: 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft is expected to launch its homegrown MAI model family at Build today, i
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
+**Related:** [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
 <!-- graph:end -->

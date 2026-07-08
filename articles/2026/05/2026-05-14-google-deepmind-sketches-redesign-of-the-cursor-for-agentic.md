@@ -4,8 +4,8 @@ title: Google DeepMind Sketches Redesign of the Cursor for Agentic Interfaces
 date: '2026-05-14'
 source: Google DeepMind
 url_original: null
-url_canonical: https://blog.google/products-and-platforms/products/search/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: c30202a56ef8642c31ecadb2ca3536b79e099b2e55de9df2fcb035245f00facd

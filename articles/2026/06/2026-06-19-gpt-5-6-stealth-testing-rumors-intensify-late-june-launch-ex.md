@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: Decrypt
 url_original: https://decrypt.co/371699/openai-gpt-5-6-chatgpt-stealth-testing-rumors
 url_canonical: https://decrypt.co/371699/openai-gpt-5-6-chatgpt-stealth-testing-rumors
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070303_Final-Daily-AI-News-Digest.md
 content_hash: 29ed40392db880bd8e881aef233a0e415f2f7fd31d2d2c84a496e67bc836f622
 normalized_title_hash: 41eef67821a3043b

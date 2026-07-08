@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Geeky Gadgets
 url_original: https://www.geeky-gadgets.com/google-gemini-3-5-pro-leaks/
 url_canonical: https://www.geeky-gadgets.com/google-gemini-3-5-pro-leaks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: bcc9f52099fd47a3a0f9ddad31e2fb520f2267ab0255de81154207814ed0e444
 normalized_title_hash: b526265cc13ded90
@@ -22,9 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context
+- 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o
 - 2026-05-13-
-- 2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-context-and-nati
 embedding_id: 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Leaked, unconfirmed details describe Google DeepMind's Gemini 3.5 Pro with a 2-m
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o]] · [[2026-05-13-]] · [[2026-05-14-google-gemini-3-1-ultra-ships-with-2m-token-context-and-nati]]
+**Related:** [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-05-11-7-hidden-gemini-live-ai-models-revealed-ahead-of-google-i-o]] · [[2026-05-13-]]
 <!-- graph:end -->

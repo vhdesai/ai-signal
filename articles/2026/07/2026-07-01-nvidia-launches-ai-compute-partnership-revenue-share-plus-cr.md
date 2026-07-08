@@ -6,7 +6,7 @@ date: '2026-07-01'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
 url_canonical: https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: e495a13e5543655d90a5c62ab1be402c6f994bce50f1a87ce47019a218838788

@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/06/26/how-one-ai-tool-is-writing-65-of-anthropics-own-code/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/06/26/how-one-ai-tool-is-writing-65-of-anthropics-own-code/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 13ace118ac2c63b8a752c7cc39faac2a75f4a14eeca59b6c3e24d4cecfd7de6d

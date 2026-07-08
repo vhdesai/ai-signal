@@ -6,7 +6,7 @@ date: '2026-05-27'
 source: The Information / Bloomberg
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=snowflake-immunity-saaspocalypse
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=snowflake-immunity-saaspocalypse
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-28_080341_Inbox_Daily AI News Digest –– May 28,
   2026.md
 content_hash: d3afed24a3a72e7ba072f24e1d7b7c45ce4b8440255c3a5288128f6d0ae68df0

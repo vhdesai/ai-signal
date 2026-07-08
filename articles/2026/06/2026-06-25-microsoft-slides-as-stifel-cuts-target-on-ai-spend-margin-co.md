@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-microsoft-falls-as-ai-spending-concerns-pressure-cloud-margin-outlook/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/25/stock-market-today-june-25-microsoft-falls-as-ai-spending-concerns-pressure-cloud-margin-outlook/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 187d481e28bb9d9a19164bfab46de32b75941c1aa1055493ef83686b6228d8c8

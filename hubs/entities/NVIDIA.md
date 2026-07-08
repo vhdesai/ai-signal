@@ -1,18 +1,42 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 427
+member_count: 451
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 427 connected article(s).
+> Auto-generated entity hub. 451 connected article(s).
 
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips|SambaNova Raises $1B at $11B Valuation for AI Inference Chips]]
+- `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th|Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughout the Day]]
+- `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip|Reuters: DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
+- `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
+- `2026-07-07` [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe|NVIDIA Releases Audex, a Unified Audio-Text LLM (30B MoE)]]
+- `2026-07-07` [[2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t|NVIDIA Frames Vera CPU as “Max Single-Threaded CPU at Scale”; Teases Next-Gen ‘Rigel’ Cores]]
+- `2026-07-07` [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar|LLM-as-a-Verifier: Scaling Verification as a New Axis for Large Language Models]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
+- `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-07` [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework|"LLM-as-a-Verifier: A General-Purpose Verification Framework"]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0]]
 - `2026-07-06` [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of|SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor appetite]]
+- `2026-07-06` [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at|Open models now underpin the bulk of frontier AI research at ICML 2026]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac|NVIDIA and Hugging Face open-source a humanoid-robotics stack via LeRobot]]
+- `2026-07-06` [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero|NVIDIA and Hugging Face bring Isaac GR00T and Teleop to LeRobot]]
+- `2026-07-06` [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks|NVIDIA and Hugging Face Bring New Open Models and Frameworks to LeRobot]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
+- `2026-07-06` [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi|"LLM-as-a-Verifier": Verification Proposed as a New Scaling Axis]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
 - `2026-07-05` [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet|SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite]]
 - `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]

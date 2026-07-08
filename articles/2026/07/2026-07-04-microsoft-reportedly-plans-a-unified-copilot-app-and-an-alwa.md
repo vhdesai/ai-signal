@@ -6,7 +6,7 @@ date: '2026-07-04'
 source: WinBuzzer
 url_original: https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/
 url_canonical: https://winbuzzer.com/2026/07/04/microsoft-plans-copilot-app-merge-to-prove-its-value-xcxwbn/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 42c208fd6a7ae81fc585a7496197fb44efd89c0356b3ed4e949ec4722f3bf3b6

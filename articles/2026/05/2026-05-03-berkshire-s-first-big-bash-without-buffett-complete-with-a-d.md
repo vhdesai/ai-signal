@@ -4,8 +4,8 @@ title: Berkshire's first big bash without Buffett — complete with a deepfake c
 date: '2026-05-03'
 source: Business Insider
 url_original: null
-url_canonical: https://www.cnn.com/2026/05/02/business/berkshire-hathaway-earnings-buffett
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: db871611221fb47fae5f48fb0d7512d66e648321af3b794745cbcd620580e59e

@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: WinBuzzer
 url_original: https://markets.businessinsider.com/news/stocks/farsight-launches-freeform-an-ai-agent-that-produces-client-ready-deal-materials-built-around-your-firm-s-work-1036198061
 url_canonical: https://markets.businessinsider.com/news/stocks/farsight-launches-freeform-an-ai-agent-that-produces-client-ready-deal-materials-built-around-your-firm-s-work-1036198061
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 046ac2eea6a297b2155de6856404c808fdefc443a56cc375a4884616ed3f42ae

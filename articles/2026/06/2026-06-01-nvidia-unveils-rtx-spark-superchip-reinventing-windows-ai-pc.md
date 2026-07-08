@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: NVIDIA
 url_original: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Microsoft-Reinvent-Windows-PCs-for-the-Age-of-Personal-AI/default.aspx
 url_canonical: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Microsoft-Reinvent-Windows-PCs-for-the-Age-of-Personal-AI/default.aspx
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: e75cc4127dc600f8e4e3f079b2c117db1418fce348930aeedf7367d470cf35dd
 normalized_title_hash: 6a1fe74d68487331

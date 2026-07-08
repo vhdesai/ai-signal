@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: The Financial Express; Firstpost
 url_original: https://www.financialexpress.com/business/news/ai-capex-is-immense-aswath-damodaran-warns-ai-correction-may-be-more-painful-than-dot-com-meltdown/4272391/
 url_canonical: https://www.financialexpress.com/business/news/ai-capex-is-immense-aswath-damodaran-warns-ai-correction-may-be-more-painful-than-dot-com-meltdown/4272391/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070006_Final-Daily-AI-News-Digest.md
 content_hash: c6289bdc4209034f954dbbba6a3edc820ed3b050f62edb5aeaff4693a242fefa
 normalized_title_hash: 3fe05ee5ef46d4ac

@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html
 url_canonical: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 0c2b17dfbe1a55c408fbaccc3baf8be50c1736e406d9a83d5fdcf9c59b32c11c
@@ -19,7 +19,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
+canonical_article_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a
 related_article_ids: []
 embedding_id: 2026-06-26-openai-s-gpt-5-6-family-sol-terra-luna-stays-limited-to-gove
 event_name: ''
@@ -34,5 +34,5 @@ OpenAI's new three-tier GPT-5.6 lineup — flagship Sol, balanced Terra, and low
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
+**Canonical:** [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]]
 <!-- graph:end -->

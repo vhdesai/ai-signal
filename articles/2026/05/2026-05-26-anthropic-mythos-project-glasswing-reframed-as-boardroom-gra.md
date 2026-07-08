@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Forbes
 url_original: https://www.artificialintelligence-news.com/categories/inside-ai/new_governance-regulation-and-policy/
 url_canonical: https://www.artificialintelligence-news.com/categories/inside-ai/new_governance-regulation-and-policy/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 14a7cbb0d68ca95e0e0ddab65f33894082c0d10215b20206e5ca6a60149c68d9

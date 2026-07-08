@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html
 url_canonical: https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: d4ddff6ee4c71c01aed49e71259a4377b2dab8402acf2ecb475043fdac75bd45
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
+- 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
-- 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
 embedding_id: 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CNBC reported that Washington's clampdown on U.S. frontier models is functioning
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]]
+**Related:** [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]]
 <!-- graph:end -->

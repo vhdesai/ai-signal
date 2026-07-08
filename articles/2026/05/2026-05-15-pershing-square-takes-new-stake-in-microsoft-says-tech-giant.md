@@ -4,8 +4,8 @@ title: Pershing Square Takes New Stake in Microsoft, Says Tech Giant Is Underpri
 date: '2026-05-15'
 source: The Wall Street Journal
 url_original: null
-url_canonical: https://m.economictimes.com/tech/technology/bill-ackmans-pershing-square-takes-stake-in-microsoft-citing-compelling-valuation/amp_articleshow/131114631.cms
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 8e1d0a3caa6fcd2643fb69194f40d918f57329659b85717ab3a3366d33837925

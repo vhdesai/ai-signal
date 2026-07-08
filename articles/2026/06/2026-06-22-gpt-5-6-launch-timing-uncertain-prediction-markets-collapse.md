@@ -23,7 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-- 2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex
+- 2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9
+- 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 embedding_id: 2026-06-22-gpt-5-6-launch-timing-uncertain-prediction-markets-collapse
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Prediction-market odds that OpenAI ships GPT-5.6 by June 28 collapsed from ~83% 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-06-19-gpt-5-6-stealth-testing-rumors-intensify-late-june-launch-ex]]
+**Related:** [[2026-06-20-gpt-5-6-rumors-build-ahead-of-rumored-june-23-launch]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
 <!-- graph:end -->

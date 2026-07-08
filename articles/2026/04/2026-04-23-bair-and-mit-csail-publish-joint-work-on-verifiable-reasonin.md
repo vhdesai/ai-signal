@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 - 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Researchers at UC Berkeley’s BAIR lab and MIT CSAIL released a paper demonstra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]]
 <!-- graph:end -->

@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
+- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
 - 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 - 2026-04-01-products-tools
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 embedding_id: 2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Luxury phone brand Vertu unveiled an "AI foldable" pitched as a device to "run y
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-04-01-products-tools]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

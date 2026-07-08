@@ -1,14 +1,28 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 390
+member_count: 404
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 390 connected article(s).
+> Auto-generated entity hub. 404 connected article(s).
 
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its|Microsoft joins AI cost-cutting trend by relying more on its own models]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o|Microsoft begins swapping OpenAI and Anthropic out for its own MAI models in some app features]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house|Microsoft Begins Swapping OpenAI and Anthropic for In-House MAI Models]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-07` [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro|Anthropic Expands Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools]]
+- `2026-07-07` [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros|Anthropic Brings Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools]]
+- `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
+- `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
+- `2026-07-06` [[2026-07-06-microsoft-lays-off-nearly-5-000-employees-across-xbox-commer|Microsoft lays off nearly 5,000 employees across Xbox, commercial sales]]
+- `2026-07-06` [[2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control|Microsoft Teams adds a per-meeting "Meeting AI" on/off control]]
+- `2026-07-06` [[2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit|Microsoft Teams adds a "Meeting AI" toggle for Copilot, Facilitator, and Recap]]
+- `2026-07-06` [[2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat|Microsoft Teams Adds "Meeting AI" Toggle for Copilot, Facilitator, and Recap]]
+- `2026-07-06` [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get|Microsoft Eliminates ~4,800 Roles as AI Reshapes How Work Gets Done]]
+- `2026-07-06` [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work|Microsoft Cuts ~4,800 Roles, Citing AI-Driven Changes to Work]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-04` [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one|Microsoft to Merge Consumer and Enterprise Copilot Into One App]]

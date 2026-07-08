@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: TechCrunch
 url_original: https://tera.fm/episodes/techcrunch/2026-05-23
 url_canonical: https://tera.fm/episodes/techcrunch/2026-05-23
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_071254_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 72ba41400b4aab75efdd8b4dabfd319ede1a5176069c7fa417a27a6325349f99

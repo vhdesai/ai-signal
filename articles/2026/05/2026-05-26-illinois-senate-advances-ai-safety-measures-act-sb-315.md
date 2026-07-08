@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
+- 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 - 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
-- 2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc
 embedding_id: 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Illinois State Senate advanced Senate Bill 315, the "AI Safety Measures Act,
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]] · [[2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc]]
+**Related:** [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]]
 <!-- graph:end -->

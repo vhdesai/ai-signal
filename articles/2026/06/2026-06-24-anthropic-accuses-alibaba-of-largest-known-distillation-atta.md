@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html
 url_canonical: https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: 30bb81436611ff6bd1dbc5fc69ff1f67dfc41fa160c3bdf0ce9a22e573c54c84

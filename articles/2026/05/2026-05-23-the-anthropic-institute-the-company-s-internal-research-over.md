@@ -35,6 +35,7 @@ related_article_ids:
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
+- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 embedding_id: 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 event_name: ''
@@ -49,5 +50,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]]
+**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]]
 <!-- graph:end -->

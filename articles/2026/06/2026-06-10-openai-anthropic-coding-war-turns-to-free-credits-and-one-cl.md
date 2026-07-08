@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/318184/20260610/openai-vs-anthropic-coding-war-free-codex-one-click-migration-attack-claudes-lock.htm
 url_canonical: https://www.techtimes.com/articles/318184/20260610/openai-vs-anthropic-coding-war-free-codex-one-click-migration-attack-claudes-lock.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-11_064809_Final-Daily-AI-News-Digest.md
 content_hash: beb521a418b33ccbd1c830091a83755fbde3e9b5250d8ff38c1721574a8df6d3
 normalized_title_hash: c2cc82569585b7fd

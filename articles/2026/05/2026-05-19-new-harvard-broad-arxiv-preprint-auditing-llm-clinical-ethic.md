@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: arXiv preprint · cs.AI
 url_original: https://arxiv.org/abs/2605.18738
 url_canonical: https://arxiv.org/abs/2605.18738
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 965930e1aa09d475351439724d23a610b2e7a186587cc85b279077d53edb1f46
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 - 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
+- 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
 embedding_id: 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A multi-institution team led by Chandak, Alkin, Wu, Kohane, Brownstein, and Bren
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]]
+**Related:** [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]]
 <!-- graph:end -->

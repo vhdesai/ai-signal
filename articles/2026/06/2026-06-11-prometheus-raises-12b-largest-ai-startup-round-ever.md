@@ -5,7 +5,7 @@ date: '2026-06-11'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
 url_canonical: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-13_160430_Final-Daily-AI-News-Digest.md
 content_hash: 7aa350cc2bcb3ba8b0f471fbd4e6c4a7fc5449afa5621b28258c329a2bdd2e5a
 normalized_title_hash: d71ca447a6b6d66a

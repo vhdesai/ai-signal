@@ -5,8 +5,8 @@ title: EU AI Act Enters Full Enforcement; New U.S. Federal Guidance and APAC Fra
 date: '2026-05-16'
 source: AI Pilot Daily
 url_original: null
-url_canonical: https://www.morganlewis.com/pubs/2026/04/ai-enforcement-accelerates-as-federal-policy-stalls-and-states-step-in
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070548_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: a03fe8b3aa5aa542e0b962a884ab50efec5a61eca4a74ae21261a7cdcfafeb67

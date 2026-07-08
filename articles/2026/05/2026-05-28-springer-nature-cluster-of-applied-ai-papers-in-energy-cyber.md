@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: Springer Nature
 url_original: https://link.springer.com/subjects/artificial-intelligence
 url_canonical: https://link.springer.com/subjects/artificial-intelligence
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: bca846e65aa51d3da2da1e84421d2b8171c01278845655c84dcba27879e8d099

@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Reuters
 url_original: https://www.moneycontrol.com/world/a-new-cheaper-chinese-ai-model-is-rivaling-anthropic-openai-it-s-not-deepseek-article-13964399.html
 url_canonical: https://www.moneycontrol.com/world/a-new-cheaper-chinese-ai-model-is-rivaling-anthropic-openai-it-s-not-deepseek-article-13964399.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: 99ae00515bb72386ea2ad9015adf9d4f79726afbb91af97e4bd20a03a973a2bb
@@ -27,7 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
-- 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
+- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reports that GLM‑5.2, an open‑weight model from Beijing startup Z.ai
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]]
+**Related:** [[2026-07-02-inexpensive-chinese-model-glm-5-2-gains-ground-with-western]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

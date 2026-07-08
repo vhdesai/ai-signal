@@ -1,16 +1,29 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 149
+member_count: 162
 ---
 
 # xAI
 
-> Auto-generated entity hub. 149 connected article(s).
+> Auto-generated entity hub. 162 connected article(s).
 
+- `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
+- `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
+- `2026-07-08` [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f|SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier model “as soon as today”]]
+- `2026-07-08` [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o|Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class’ model]]
+- `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s|xAI officially rebrands as SpaceXAI, completing merger into SpaceX]]
 - `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-06` [[2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex|xAI rebrands as SpaceXAI, folding Grok fully into SpaceX]]
+- `2026-07-06` [[2026-07-06-xai-officially-rebrands-to-spacexai|xAI Officially Rebrands to "SpaceXAI"]]
+- `2026-07-06` [[2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s|xAI Officially Rebrands as SpaceXAI, Completing Merger into SpaceX]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
+- `2026-07-06` [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio|Musk's xAI is renamed SpaceXAI following SpaceX's acquisition]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-02` [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder|xAI launches no-code Grok Voice Agent Builder]]
 - `2026-07-02` [[2026-07-02-xai-launches-grok-voice-ai-agent-builder-beta-build-a-voice|xAI launches Grok Voice AI Agent Builder (beta) — build a voice agent in under two minutes]]

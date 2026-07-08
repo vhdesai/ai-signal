@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
+- 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 embedding_id: 2026-05-18-nvidia-s-nvfp4-pretraining-format-promises-2-throughput-at-p
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA published results for NVFP4, a 4-bit floating-point format designed for f
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]]
+**Related:** [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-22-zflow-ai-simulation-guided-optimization-delivers-1-54-throug]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Lifeboat Foundation Podcast
 url_original: https://www.anthropic.com/news
 url_canonical: https://www.anthropic.com/news
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: af3784ee2db2d60eb74015d7340b11f58c8699fec3858cb2d94ea08e916d0a38
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
-- 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
+- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's chief AI scientist lays out the JEPA-plus-Tapestry roadmap as his answer 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]]
+**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

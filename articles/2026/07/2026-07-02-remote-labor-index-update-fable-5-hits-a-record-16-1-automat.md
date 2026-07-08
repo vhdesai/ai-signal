@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Center for AI Safety
 url_original: https://safe.ai/blog/significant-increase-in-digital-labor-automation
 url_canonical: https://safe.ai/blog/significant-increase-in-digital-labor-automation
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: d3232ad7c83b5046d8024d8f2522142a8025437fe8a8b043395b8d1582d9172c

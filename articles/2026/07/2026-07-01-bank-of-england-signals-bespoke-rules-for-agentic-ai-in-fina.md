@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: AI News
 url_original: https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/
 url_canonical: https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: dd7c00e59323011c2c93ad7af1137edccd1746fbee8793bd55331378696c3e80
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
-- 2026-04-13-ai-safety-policy
+- 2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac
 embedding_id: 2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina
 event_name: ''
 ---
@@ -37,5 +37,5 @@ BoE Deputy Governor Sarah Breeden told the ECB Forum that existing frameworks "w
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-04-13-ai-safety-policy]]
+**Related:** [[2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac]]
 <!-- graph:end -->

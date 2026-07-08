@@ -43,8 +43,8 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
+- 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
-- 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 embedding_id: 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 event_name: ''
 ---
@@ -58,5 +58,5 @@ MIT News interviewed Phillip Isola, an EECS associate professor and CSAIL member
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/
 url_canonical: https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 6430379de5d1e775728601361ad4cc36e4166fa72fa3a7e1c59ae268e3106902
@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
+- 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
 - 2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de
 - 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
-- 2026-05-06-
 embedding_id: 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google announced Pics, a new AI design app powered by the Nano Banana 2 image mo
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]] · [[2026-05-06-]]
+**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]] · [[2026-06-30-google-brings-nano-banana-2-lite-and-gemini-omni-flash-to-de]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]]
 <!-- graph:end -->

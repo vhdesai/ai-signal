@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
-- 2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp
 embedding_id: 2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Amazon, Microsoft and other tech firms joined RAISE US, a new bipartisan workfor
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]] · [[2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp]]
+**Related:** [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]]
 <!-- graph:end -->

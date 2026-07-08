@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: Decrypt
 url_original: https://decrypt.co/368389/google-gemini-spark-ai-agent-challenge-hermes-openclaw
 url_canonical: https://decrypt.co/368389/google-gemini-spark-ai-agent-challenge-hermes-openclaw
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: b6d8b17ccfe47cb6f3a3fa4a25ca505ee0f61f0c0b8ce93fe9bf5f1313753627

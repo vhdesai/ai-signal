@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
 - 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-- 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
+- 2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9
 embedding_id: 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI released GPT-5.5 and GPT-5.5 Pro on April 22, bringing the company "one s
 
 **Entities:** [[Databricks]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]]
+**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]]
 <!-- graph:end -->

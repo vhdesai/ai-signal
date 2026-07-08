@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: MIT Sloan Management Review
 url_original: https://sloanreview.mit.edu/
 url_canonical: https://sloanreview.mit.edu/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: f92f1faa4dddd8c967da1f6de7a10c426b7f99594a52d2f6da69e21ee47d6df9
 normalized_title_hash: 657f0934524f8b11

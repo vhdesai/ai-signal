@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: AOL
 url_original: https://www.aol.com/articles/google-spacex-microsoft-amazon-spend-171902000.html
 url_canonical: https://www.aol.com/articles/google-spacex-microsoft-amazon-spend-171902000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070006_Final-Daily-AI-News-Digest.md
 content_hash: 94b993baae271b0f7d1e38f5675eaf1065a9f076be302e761ca7ac4aee35aa72
 normalized_title_hash: 42043bde15dfdda3

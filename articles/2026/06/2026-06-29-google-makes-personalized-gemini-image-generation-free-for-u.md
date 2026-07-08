@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
 url_canonical: https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: bbacb1a3e44e67ce2fa78d1e0ff37e24379d4a287f74848c068d7d2d599ff21a

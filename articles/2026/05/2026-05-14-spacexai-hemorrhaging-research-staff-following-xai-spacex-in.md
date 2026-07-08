@@ -5,8 +5,8 @@ title: SpaceXAI Hemorrhaging Research Staff Following xAI–SpaceX Integration �
 date: '2026-05-14'
 source: TechCrunch
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 6435ab34e0f95d1bcdf31f40e733b519d9ab281c6d9fc2f65fa7caa9558ada09
@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
+- 2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-- 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-- 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
-- 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
+- 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
+- 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
 embedding_id: 2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reports indicate that SpaceXAI — the entity formed by the integration of xAI r
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]]
+**Related:** [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]]
 <!-- graph:end -->

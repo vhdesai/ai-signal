@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
+- 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 - 2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t
-- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 embedding_id: 2026-05-28-youtube-lets-users-ask-ai-to-build-a-custom-video-feed
 event_name: ''
 ---
@@ -37,5 +37,5 @@ YouTube is rolling out a feature that lets users natural-language-prompt their w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]]
+**Related:** [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-24-sources-surveyed-bloomberg-tech-times-invezz-yahoo-finance-t]]
 <!-- graph:end -->

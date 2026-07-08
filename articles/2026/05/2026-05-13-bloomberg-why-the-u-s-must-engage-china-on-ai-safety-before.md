@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Bloomberg / Trumponomics Podcast
 url_original: https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over
 url_canonical: https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: bfcecd01757b32371abf70472346f421f307a420d94bea7d38d90dd51731e879

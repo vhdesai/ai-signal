@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: Ars Technica
 url_original: https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/
 url_canonical: https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-11_064809_Final-Daily-AI-News-Digest.md
 content_hash: 967e74aae48e4498db94437c9a13874fc24dca60e12c699e09e8ca269774992f
 normalized_title_hash: 9fed8d4eeb76a0c8

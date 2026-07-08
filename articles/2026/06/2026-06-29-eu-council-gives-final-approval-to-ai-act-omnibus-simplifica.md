@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Council of the EU
 url_original: https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/
 url_canonical: https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: b8f37ca7e48c7833a4d2c8f161b296f3cdd085656f104f67cf94c65986d8278c

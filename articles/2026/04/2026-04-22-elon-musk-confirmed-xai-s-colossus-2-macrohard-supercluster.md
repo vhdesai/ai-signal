@@ -9,8 +9,8 @@ title: Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultan
 date: '2026-04-22'
 source: 🆕 New DeepSeek / Chinese Labs
 url_original: null
-url_canonical: https://www.japantimes.co.jp/business/2023/08/18/elon-musk-arrives-in-japan-for-first-visit-in-nine-years/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-22_071302_Inbox_Daily AI News Digest – April 22,
   2026.md
 content_hash: 7568388fe9379ecd820279090acd29ac657fb0f903ff58258e3ea2b1f9f03fd0

@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
+- 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
+- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
 - 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
-- 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
-- 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
 embedding_id: 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Beijing is moving to restrict additional US investment into leading Chinese AI l
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]]
+**Related:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]]
 <!-- graph:end -->

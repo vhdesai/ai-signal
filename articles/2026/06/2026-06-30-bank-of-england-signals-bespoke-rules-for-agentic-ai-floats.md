@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-06-30/agentic-ai-may-require-regulatory-reform-boes-breeden-says
 url_canonical: https://money.usnews.com/investing/news/articles/2026-06-30/agentic-ai-may-require-regulatory-reform-boes-breeden-says
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 288eae6e008608ccfeab22693e04a40599b3dda25a52fa09d5383af8e5651d27
@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
-- 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
+- 2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac
 embedding_id: 2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Deputy Governor Sarah Breeden told the ECB's Sintra forum that existing framewor
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]]
+**Related:** [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: TIME
 url_original: https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/
 url_canonical: https://time.com/article/2026/07/03/openai-invest-ai-trump-administration-sam-altman/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 077ec7d4d4aa6d6d4437834b36fd6b91396d9b71e70c1431d89ada509ed514cd

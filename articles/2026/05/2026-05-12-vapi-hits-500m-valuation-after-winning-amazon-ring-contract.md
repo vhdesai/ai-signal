@@ -4,8 +4,8 @@ title: Vapi hits $500M valuation after winning Amazon Ring contract over 40 riva
 date: '2026-05-12'
 source: TechCrunch Daily
 url_original: null
-url_canonical: https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_071138_Inbox_Daily AI News Digest – May 13,
   2026.md
 content_hash: 3376d4f9195db88128d78d8a1ffe24f2fe4e474e2ad357c30d9e6d83004ed14b
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
+- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 embedding_id: 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI voice startup Vapi reached a $500M valuation after beating 40 competitors to 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]]
+**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]]
 <!-- graph:end -->

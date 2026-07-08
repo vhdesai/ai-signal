@@ -4,8 +4,8 @@ title: Anthropic Acknowledges Claude Code Quality Regression, Rolls Out Fixes
 date: '2026-05-14'
 source: ToolsCompare.AI
 url_original: null
-url_canonical: https://claude.com/platform/api
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 530b08ef1626a1d6632c3d0eb1a81866c3a4d672be7bea3a53ce516b98d04291

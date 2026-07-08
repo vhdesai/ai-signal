@@ -8,7 +8,7 @@ date: '2026-05-19'
 source: The Wall Street Journal**
 url_original: https://substack.com/app-link/post?publication_id=6061752&post_id=198265051&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=5m7n6m&token=eyJ1c2VyX2lkIjozMzk2MzkwNzAsInBvc3RfaWQiOjE5ODI2NTA1MSwiaWF0IjoxNzc5MjkzMTA0LCJleHAiOjE3ODE4ODUxMDQsImlzcyI6InB1Yi02MDYxNzUyIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.VI56wwfZ1ZIWms0TNnHpZOAfLeC6rtZcosE1yD2DHqw
 url_canonical: https://substack.com/app-link/post?publication_id=6061752&post_id=198265051&utm_source=post-email-title&utm_campaign=email-post-title&isFreemail=true&r=5m7n6m&token=eyJ1c2VyX2lkIjozMzk2MzkwNzAsInBvc3RfaWQiOjE5ODI2NTA1MSwiaWF0IjoxNzc5MjkzMTA0LCJleHAiOjE3ODE4ODUxMDQsImlzcyI6InB1Yi02MDYxNzUyIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.VI56wwfZ1ZIWms0TNnHpZOAfLeC6rtZcosE1yD2DHqw
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 4d6e3fe15461fe338c5198b0dc1f8967bf16fdce1aa42771ae1976119b90e0d7

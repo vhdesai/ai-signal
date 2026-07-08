@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade
+- 2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
-- 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 embedding_id: 2026-05-28-canada-dismisses-tech-firms-warnings-of-back-doors-to-device
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Canadian regulators dismissed tech-industry warnings that a new lawful-access fr
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]] · [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba]]
 <!-- graph:end -->

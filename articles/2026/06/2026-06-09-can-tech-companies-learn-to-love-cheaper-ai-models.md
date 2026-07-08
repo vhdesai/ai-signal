@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/
 url_canonical: https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-10_070030_Final-Daily-AI-News-Digest.md
 content_hash: 969867bc19e72b13f5e59f64a9b13d422a8d21d6c7b407c444cde83b369a4954
 normalized_title_hash: 4a35a72dee14dca9
@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
-- 2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff
+- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 embedding_id: 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch examined whether the industry can adapt to a future where cheaper mod
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff]]
+**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
 <!-- graph:end -->

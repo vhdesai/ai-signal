@@ -4,8 +4,8 @@ title: 'Mustafa Suleyman: most knowledge work fully automatable within 18 months
 date: '2026-05-17'
 source: Business Insider
 url_original: null
-url_canonical: https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 89e79967ea04a2bda8565ec281940499797a9f26bfd57d349b2ef726f3519abf

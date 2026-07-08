@@ -4,8 +4,8 @@ title: Gemini Robotics-ER 1.6 Lands With Boston Dynamics Spot Integration
 date: '2026-04-20'
 source: Google DeepMind / The Robot Report
 url_original: null
-url_canonical: https://gemini.google/us/about/?hl=en
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-21_072754_Inbox_Daily AI News Digest – April 21,
   2026.md
 content_hash: 381170412cbfe968cda92ac34311575a11439d0fa772a7de74f403c6ea407ba7

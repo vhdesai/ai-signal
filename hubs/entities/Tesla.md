@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 24
+member_count: 26
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 24 connected article(s).
+> Auto-generated entity hub. 26 connected article(s).
 
+- `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
+- `2026-07-08` [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o|Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class’ model]]
 - `2026-07-03` [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen|Meta reportedly taps Samsung for ~$6.5B to build its next-gen MTIA AI chips]]
 - `2026-06-29` [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk|xAI's Grok 4.5 enters private beta at SpaceX and Tesla; Musk pledges monthly from-scratch models]]
 - `2026-06-28` [[2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex|xAI's Grok 4.5 enters private beta at Tesla and SpaceX]]

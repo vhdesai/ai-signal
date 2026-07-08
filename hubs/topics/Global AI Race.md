@@ -1,24 +1,54 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 408
+member_count: 438
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 408 connected article(s).
+> Auto-generated topic hub. 438 connected article(s).
 
+- `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
+- `2026-07-08` [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model|MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model]]
+- `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m|China’s MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model]]
+- `2026-07-08` [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant|China says it found “security backdoor” vulnerabilities in Anthropic’s Claude Code]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
+- `2026-07-08` [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali|China Flags "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It Internally]]
+- `2026-07-07` [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet|Why the rise of open source AI isn’t hurting Anthropic yet]]
+- `2026-07-07` [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for|Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and coding tasks]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip|Reuters: DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
 - `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
+- `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-07` [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c|Chinese open models gain ground with U.S. firms as frontier costs climb]]
+- `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f|Chinese Open-Weight Models Gain U.S. Enterprise Adoption as Frontier Costs Rise]]
 - `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos|Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a|Chinese AI models gain ground with U.S. companies as OpenAI and Anthropic costs surge]]
+- `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s|Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size]]
+- `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0]]
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE)]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te|Even Realities hits $1B valuation on $150M from Meituan and Tencent]]
+- `2026-07-06` [[2026-07-06-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user|ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services.]]
+- `2026-07-06` [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as|ByteDance and Alibaba to shut down user AI-agent creation as China's anthropomorphic-AI rules take effect]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]

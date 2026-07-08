@@ -6,7 +6,7 @@ date: '2026-06-30'
 source: NVIDIA Research
 url_original: https://research.nvidia.com/labs/gear/aspire/
 url_canonical: https://research.nvidia.com/labs/gear/aspire/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: aa5cb5ecb101eef549d4d58ffe103012ab044239d15f45c33a90c7ffe7c99dc4

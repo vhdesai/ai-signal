@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 85
+member_count: 94
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 85 connected article(s).
+> Auto-generated entity hub. 94 connected article(s).
 
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip|Reuters: DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
+- `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-02` [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code|China's Z.ai launches ZCode to challenge Cursor, Claude Code, and Copilot]]
 - `2026-06-30` [[2026-06-30-tuesday-june-30-2026|Tuesday, June 30, 2026]]

@@ -1,23 +1,43 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 625
+member_count: 645
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 625 connected article(s).
+> Auto-generated topic hub. 645 connected article(s).
 
+- `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
 - `2026-07-07` [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene|UN's First Global Dialogue on AI Governance Convenes in Geneva]]
+- `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
+- `2026-07-07` [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company|OpenAI’s Chief Futurist is leaving the company]]
+- `2026-07-07` [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator|Meta rolls out Muse, a new AI image generator]]
+- `2026-07-07` [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency|Illinois enacts AI Safety Measures Act, imposing transparency duties on frontier developers]]
+- `2026-07-07` [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa|Illinois Enacts First-in-Nation Law Requiring Independent Safety Audits of Frontier AI Developers]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
+- `2026-07-07` [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac|ECB orders euro-zone banks to plan for AI-enabled cyberattacks]]
 - `2026-07-07` [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe|ECB asks euro-area banks for plans to address AI-driven cyber threats]]
+- `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
+- `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
+- `2026-07-07` [[2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf|Australia warns models are "going their own way" as its AI Safety Institute starts testing]]
 - `2026-07-06` [[2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva|UN Opens First Global Dialogue on AI Governance in Geneva]]
+- `2026-07-06` [[2026-07-06-read-at-technode|Read at TechNode →]]
+- `2026-07-06` [[2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc|Pritzker signs Illinois bill aimed at artificial intelligence accountability]]
+- `2026-07-06` [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o|If you use Google, you're training its AI. Here's how to opt out.]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
 - `2026-07-06` [[2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg|FCA Weighs Bringing General-Purpose AI Models Inside the Regulatory Perimeter]]
+- `2026-07-06` [[2026-07-06-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
+- `2026-07-06` [[2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting|Carnegie Mellon Launches FLARE-AI, an Open AI-Flaw Reporting Platform]]
+- `2026-07-06` [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report|Carnegie Mellon Helps Launch FLARE-AI, an Open AI-Flaw Reporting Platform]]
 - `2026-07-06` [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user|ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services.]]
+- `2026-07-06` [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as|ByteDance and Alibaba to shut down user AI-agent creation as China's anthropomorphic-AI rules take effect]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
+- `2026-07-06` [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla|Anthropic's new J-lens reveals a silent workspace inside Claude]]
 - `2026-07-04` [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t|Midjourney moves to force Disney, Universal and Warner Bros. to disclose their own AI use]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-03` [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat|Trump administration will oppose a centralized US AI regulator, says outgoing adviser]]

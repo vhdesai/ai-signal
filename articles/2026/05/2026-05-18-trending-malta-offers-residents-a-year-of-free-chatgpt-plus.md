@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: heise online
 url_original: https://www.heise.de/en/news/Malta-s-residents-can-use-OpenAI-or-Microsoft-AI-for-free-for-a-year-11296692.html
 url_canonical: https://www.heise.de/en/news/Malta-s-residents-can-use-OpenAI-or-Microsoft-AI-for-free-for-a-year-11296692.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 380fade92ed2c8022dae64fd00ed82ce26549549b19e6c046f989f4e49cfbcc4
@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 embedding_id: 2026-05-18-trending-malta-offers-residents-a-year-of-free-chatgpt-plus
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Malta's Ministry of Economy announced "AI for All" — a program giving any Malt
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[Scale AI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
 <!-- graph:end -->

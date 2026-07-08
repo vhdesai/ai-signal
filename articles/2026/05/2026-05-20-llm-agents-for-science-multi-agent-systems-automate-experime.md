@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
-- 2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new preprint surveys multi-agent LLM architectures that orchestrate scientific
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal]] · [[2026-05-05-newarxiv-agentopic-generative-agent-workflow-for-explainable]]
+**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
 <!-- graph:end -->

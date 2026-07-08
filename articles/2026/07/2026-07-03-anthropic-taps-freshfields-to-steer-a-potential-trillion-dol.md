@@ -6,7 +6,7 @@ date: '2026-07-03'
 source: The Information
 url_original: https://www.theinformation.com/search?q=Anthropic+Freshfields+IPO
 url_canonical: https://www.theinformation.com/search?q=Anthropic+Freshfields+IPO
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 5ae88b14fd80d4de58284048ea19863d5f20aea50de98da974ac015d59335216

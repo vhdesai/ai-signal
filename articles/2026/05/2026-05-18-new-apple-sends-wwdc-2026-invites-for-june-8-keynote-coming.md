@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: Forbes
 url_original: https://www.forbes.com/sites/prakharkhanna/2026/05/18/apple-sends-out-wwdc-2026-invites-with-a-coming-bright-up-tease/
 url_canonical: https://www.forbes.com/sites/prakharkhanna/2026/05/18/apple-sends-out-wwdc-2026-invites-with-a-coming-bright-up-tease/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: ca4cd1eb324df9c383bd22c47d07ee75c89fec819d3605389314b20f8e2fb5bf

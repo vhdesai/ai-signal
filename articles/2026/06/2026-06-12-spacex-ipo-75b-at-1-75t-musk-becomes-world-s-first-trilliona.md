@@ -5,7 +5,7 @@ date: '2026-06-12'
 source: TechCrunch; NPR; WSJ; Reuters; Wired; Barron's
 url_original: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
 url_canonical: https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-13_160430_Final-Daily-AI-News-Digest.md
 content_hash: ed9f671685bf477678cb2870b0e341db21126c6865cc0f4d7671208f61e3e6a0
 normalized_title_hash: 4d3f30caca3e8fb3

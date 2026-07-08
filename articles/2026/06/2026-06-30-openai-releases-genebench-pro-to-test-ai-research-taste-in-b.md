@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: OpenAI
 url_original: https://openai.com/index/introducing-genebench-pro/
 url_canonical: https://openai.com/index/introducing-genebench-pro/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: 53793a05de708d9ce90c0f22c77fa0dd89947f52a3383ccf66ca4f693ccfaea1

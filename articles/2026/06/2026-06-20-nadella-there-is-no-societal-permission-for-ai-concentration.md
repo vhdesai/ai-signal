@@ -5,7 +5,7 @@ date: '2026-06-20'
 source: 24/7 Wall St.; VentureBeat
 url_original: https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/
 url_canonical: https://247wallst.com/investing/2026/06/20/microsofts-ceo-just-warned-the-entire-ai-industry-your-dominance-will-trigger-a-backlash/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-21_070147_Final-Daily-AI-News-Digest.md
 content_hash: 2c6f34af7ed090aa16f1d812d6d33e52b4335bb77a5196e2c22306cf4310234e
 normalized_title_hash: 4f3dc5b9ff7eaa36

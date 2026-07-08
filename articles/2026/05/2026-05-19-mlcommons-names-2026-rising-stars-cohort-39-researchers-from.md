@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: MLCommons
 url_original: https://mlcommons.org/2026/05/2026-rising-stars/
 url_canonical: https://mlcommons.org/2026/05/2026-rising-stars/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 4db100d3400933de7b29a077bff1a7f28643940b0f53e6051f6a94e378680ac5

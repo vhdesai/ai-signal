@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: WGLT / Capitol News Illinois
 url_original: https://www.wglt.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill
 url_canonical: https://www.wglt.org/illinois/2026-05-28/illinois-lawmakers-pass-landmark-ai-accountability-bill
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: ce2275530fe39d501157441c389ec7e2115b4ce3fe8bd527dbc1d128a5bc70dc
@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 - 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
+- 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 embedding_id: 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
 event_name: ''
 ---
@@ -34,5 +35,5 @@ The Illinois House passed Senate Bill 315 unanimously, making Illinois the third
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]]
+**Related:** [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]]
 <!-- graph:end -->

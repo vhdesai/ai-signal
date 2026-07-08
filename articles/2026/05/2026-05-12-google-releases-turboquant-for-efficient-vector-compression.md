@@ -4,8 +4,8 @@ title: Google Releases TurboQuant for Efficient Vector Compression
 date: '2026-05-12'
 source: Google Research
 url_original: null
-url_canonical: https://blog.google/products-and-platforms/products/search/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-13_073810_Inbox_Daily AI News Digest –– May 13,
   2026.md
 content_hash: bac65c039206a100b833b33dd81d5a4b39b9b271a8649644fc1a54021315fbed

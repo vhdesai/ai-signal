@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TestingCatalog
 url_original: https://www.testingcatalog.com/microsoft-readies-new-mai-voice-and-image-models-for-build-2026/
 url_canonical: https://www.testingcatalog.com/microsoft-readies-new-mai-voice-and-image-models-for-build-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060804_Daily-AI-News-Digest.md
 content_hash: 04cba7b0cb8ceaa04a058247076719b69760f0237065cfa9a9b122804bac8fef
 normalized_title_hash: 77c4fcf0f57c3a25
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
-- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 embedding_id: 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Ahead of Microsoft Build (June 2–3 in San Francisco), reporting indicates Micr
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
+**Related:** [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]]
 <!-- graph:end -->

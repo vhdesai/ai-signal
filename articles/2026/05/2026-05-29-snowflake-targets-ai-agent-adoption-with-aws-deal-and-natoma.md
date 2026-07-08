@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: CIO Dive
 url_original: https://www.ciodive.com/news/snowflake-targets-ai-agent-adoption-aws/821393/
 url_canonical: https://www.ciodive.com/news/snowflake-targets-ai-agent-adoption-aws/821393/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
 content_hash: 88ed6df9e036cf9e1f6ef981cf0c03dc30b0574d143aa35637b1e8d098e8e845

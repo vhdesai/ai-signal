@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Bloomberg; Reuters; TechNode
 url_original: https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal
 url_canonical: https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_072143_Inbox_Daily AI News Digest – June 4,
   2026 (Updated).md
 content_hash: 8e3ffabc1e85962ac3128653b36da2b4dc4b40f0d2a5228667269a7f7f040a29

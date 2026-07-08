@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Springer Machine Learning / AI Journals
 url_original: https://link.springer.com/subjects/machine-learning
 url_canonical: https://link.springer.com/subjects/machine-learning
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: dd60c8902daf5994e88c752e1fb022b1094cabaadb1ec35f4104049db3b0f537

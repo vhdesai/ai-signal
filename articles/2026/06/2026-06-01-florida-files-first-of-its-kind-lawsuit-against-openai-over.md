@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: TechCrunch; Wall Street Journal; CNN; NPR
 url_original: https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/
 url_canonical: https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: 8dfa6b05bc1f010ec51fa414ed4bd0b11db5d753ea07103f48a81050c5d10e28

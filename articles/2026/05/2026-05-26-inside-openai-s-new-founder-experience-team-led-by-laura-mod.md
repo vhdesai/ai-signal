@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: Forbes
 url_original: https://winbuzzer.com/ai/openai/
 url_canonical: https://winbuzzer.com/ai/openai/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: ab1fb1bef7b12a8515691f0b142ed613ee3b8d82e8e70a4fc9bbeb8a8db63412

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 28
+member_count: 29
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 28 connected article(s).
+> Auto-generated entity hub. 29 connected article(s).
 
+- `2026-07-08` [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts|Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
 - `2026-06-15` [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin|Trending Salesforce to acquire AI customer-service firm Fin for $3.6B]]

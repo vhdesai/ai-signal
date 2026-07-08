@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
 url_canonical: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 11d698c31060f7bb437791c0af3433c725b284438c18512fdd73bb5c1b2c5b2a
 normalized_title_hash: e1f6dfff3f39ea42

@@ -6,7 +6,7 @@ date: '2026-07-03'
 source: Fortune
 url_original: https://finance.yahoo.com/technology/ai/articles/microsoft-next-big-bet-isn-080000418.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/microsoft-next-big-bet-isn-080000418.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: a898729982f35831ad6f5a94a01069b50854e4e930ce0072643e12e1882c29c5

@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: The Information
 url_original: https://www.theinformation.com/briefings/andrej-karpathy-joins-anthropic
 url_canonical: https://www.theinformation.com/briefings/andrej-karpathy-joins-anthropic
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 128f12c8757e1e8afcb141a838f17d9259a438616e56b6d0324375da36b7617a

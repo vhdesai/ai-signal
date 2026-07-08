@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: NVIDIA Blog
 url_original: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/
 url_canonical: https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-08_071435_Final-Daily-AI-News-Digest.md
 content_hash: f30f9efa4c269054cfd9737b49dc9a9083133fabdca5f162aa13735a50b5a61b
 normalized_title_hash: b8204e4489f4ede3

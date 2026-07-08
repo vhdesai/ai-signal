@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/
 url_canonical: https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 05a24516e2d43cc5cdcb462e66c615b1c6f0915d8ca3c7d78ad1db303f8c5bd3
 normalized_title_hash: 21c01b732f87b8bd

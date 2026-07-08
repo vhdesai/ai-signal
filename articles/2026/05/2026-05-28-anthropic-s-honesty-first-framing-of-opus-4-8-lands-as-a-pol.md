@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
+- 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
 - 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 embedding_id: 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A notable subtext of the Opus 4.8 launch is Anthropic's explicit positioning aro
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
+**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
 <!-- graph:end -->

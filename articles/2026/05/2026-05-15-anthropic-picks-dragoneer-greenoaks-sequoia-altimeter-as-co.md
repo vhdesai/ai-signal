@@ -5,8 +5,8 @@ title: Anthropic Picks Dragoneer, Greenoaks, Sequoia, Altimeter as Co-Leads for 
 date: '2026-05-15'
 source: The Information AM
 url_original: null
-url_canonical: https://pick-right.com/news/anthropic-30b-raise-900b-valuation-2026-05-20/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 0b0ebe26135f940e42fd603865042e369aee6cbe7075d662119f0f8fccc3262a

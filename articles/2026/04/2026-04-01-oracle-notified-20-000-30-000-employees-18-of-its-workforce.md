@@ -31,10 +31,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave
 - 2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim
-- 2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad
 embedding_id: 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Q1 2026: $300B Into 6,000 Startups — AI Captures 80% of All Global VC TRENDING
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]] · [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad]]
+**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]]
 <!-- graph:end -->

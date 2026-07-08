@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: Forbes
 url_original: https://www.forbes.com/sites/viviantoh/2026/05/18/doubao-cuts-tencent-pivots-chinas-ai-enters-a-self-correction-cycle/
 url_canonical: https://www.forbes.com/sites/viviantoh/2026/05/18/doubao-cuts-tencent-pivots-chinas-ai-enters-a-self-correction-cycle/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: c4ab23dff57458bfbf87c1df6a29beaf7509372389a3eccc1d87efbca8cbb02d

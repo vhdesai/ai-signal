@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: The Decoder
 url_original: https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/
 url_canonical: https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 7dd532023fcea2550a67bd41d1b1abcac909d02c5f8499b1180e25a480b0dfa6
@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer
 embedding_id: 2026-06-26-anthropic-says-it-no-longer-hires-junior-engineers-warns-of
 event_name: ''
@@ -36,5 +37,5 @@ Co-founder Jack Clark told Reason that Anthropic is “hiring more people with l
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer]]
+**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer]]
 <!-- graph:end -->

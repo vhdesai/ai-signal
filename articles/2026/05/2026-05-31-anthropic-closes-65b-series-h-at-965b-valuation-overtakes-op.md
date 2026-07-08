@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: OpenTools (citing Reuters, Axios)*
 url_original: https://opentools.ai/news/anthropic-965-billion-valuation-overtakes-openai-2026
 url_canonical: https://opentools.ai/news/anthropic-965-billion-valuation-overtakes-openai-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: 0efc1efaa6fa734bf895768d4a0fbc61eafd271913ee5f36d9a5fca5625c7c55
 normalized_title_hash: 869cfd450a543b5d

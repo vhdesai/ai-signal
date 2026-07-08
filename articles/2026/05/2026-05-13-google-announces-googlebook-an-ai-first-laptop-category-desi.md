@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: TLDL
 url_original: https://www.tldl.io/blog/ai-news-updates-2026
 url_canonical: https://www.tldl.io/blog/ai-news-updates-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 2b9245cfbb9ce7ce286f5c4ec444bf0fc2611739e2dc706d862067a4b98099a6

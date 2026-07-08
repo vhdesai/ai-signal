@@ -5,8 +5,8 @@ title: Anthropic expected to keep supplying Claude to the NSA despite Pentagon "
 date: '2026-05-24'
 source: The Decoder
 url_original: null
-url_canonical: https://claude.com/platform/api
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 7f43a04a8184f973818b0270a351adfc3c1019da552e312d8d8b25d02b1485df

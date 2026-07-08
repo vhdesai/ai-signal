@@ -4,8 +4,8 @@ title: GPT-5.5 Instant Becomes ChatGPT's Default Model
 date: '2026-05-16'
 source: AIFlashReport / WhatLLM
 url_original: null
-url_canonical: https://almcorp.com/blog/openai-gpt-5-5-instant-chatgpt-default-model/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: d02cdd4900921ff4829f0e0d712122d58ad42022b6d1adcf8e4c1ae9fd806b96

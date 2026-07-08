@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: Forbes
 url_original: https://www.forbes.com/sites/digital-assets/2026/06/21/ai--energy--life-how-power-will-decide-the-ai-race/
 url_canonical: https://www.forbes.com/sites/digital-assets/2026/06/21/ai--energy--life-how-power-will-decide-the-ai-race/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-21_070147_Final-Daily-AI-News-Digest.md
 content_hash: 1ec1da152d6a5cb823004f531bca8cf6aa9c46cd86aa6f7925b7c6fbd7985d9b
 normalized_title_hash: 3e095cab0a38c5e5

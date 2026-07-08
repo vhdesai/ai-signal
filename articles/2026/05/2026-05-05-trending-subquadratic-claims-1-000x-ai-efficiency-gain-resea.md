@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
 - 2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok
+- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85
 embedding_id: 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Miami-based startup Subquadratic emerged from stealth claiming its SubQ model is
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-10-heavyskill-parallel-reasoning-deliberation-pushes-llm-to-85]]
+**Related:** [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

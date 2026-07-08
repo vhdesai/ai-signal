@@ -6,7 +6,7 @@ date: '2026-05-21'
 source: 'Source: Carnegie Mellon / Business Wire'
 url_original: https://finance.yahoo.com/sectors/healthcare/articles/carnegie-mellon-university-cleveland-clinic-120500428.html
 url_canonical: https://finance.yahoo.com/sectors/healthcare/articles/carnegie-mellon-university-cleveland-clinic-120500428.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-22_071607_Inbox_Daily AI News Digest – May 22,
   2026.md
 content_hash: 872c2cff01f941904959d0a9c1d85ff6e0c3351c47677f99a1d9234027e0f0e4

@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Android Authority
 url_original: https://www.androidauthority.com/gemma-4-qat-models-3675172/
 url_canonical: https://www.androidauthority.com/gemma-4-qat-models-3675172/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: aa83e818f5403f1a5f6789ccc9864ae01bb55c7b3a1b6043ffd44472e51b2e55
 normalized_title_hash: 49f80cb0f10470d9

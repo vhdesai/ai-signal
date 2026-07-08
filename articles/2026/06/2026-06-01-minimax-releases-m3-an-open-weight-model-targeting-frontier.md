@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: OfficeChai**
 url_original: https://officechai.com/ai/minimax-releases-minimax-m3-is-competitive-with-frontier-models-on-many-benchmarks/
 url_canonical: https://officechai.com/ai/minimax-releases-minimax-m3-is-competitive-with-frontier-models-on-many-benchmarks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061636_Daily-AI-News-Digest.md
 content_hash: c9b37892e5483f42399a466e1507d9b4278dc375614b731c0ba392ee8e4740b5
 normalized_title_hash: 0cdc4a067fc59448
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model
+- 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
 - 2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok
-- 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 embedding_id: 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MiniMax launched M3, positioned as the first open-weight model to combine fronti
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]]
 <!-- graph:end -->

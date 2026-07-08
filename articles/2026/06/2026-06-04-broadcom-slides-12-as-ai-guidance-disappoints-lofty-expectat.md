@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: The Motley Fool
 url_original: https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-broadcom-shares-plunge-after-ai-outlook-misses-high-investor-expectations/
 url_canonical: https://www.fool.com/coverage/stock-market-today/2026/06/04/stock-market-today-june-4-broadcom-shares-plunge-after-ai-outlook-misses-high-investor-expectations/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 8b4eb4d48270153ac42cd98338413a2ce1e96c374c9877a75b45a38b89ff399e

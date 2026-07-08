@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-july-7-2026
+- 2026-07-07-daily-ai-news-digest-july-8-2026
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 - 2026-06-27-daily-ai-news-digest-june-27-2026
-- 2026-06-29-daily-ai-news-digest-june-29-2026
 embedding_id: 2026-07-05-saturday-sunday-briefing-july-5-2026
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The US Independence Day holiday weekend thinned Western corporate and newsroom o
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-july-7-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
+**Related:** [[2026-07-07-july-7-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
 <!-- graph:end -->

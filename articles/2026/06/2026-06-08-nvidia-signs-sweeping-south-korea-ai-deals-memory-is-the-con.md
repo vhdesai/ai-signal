@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: Reuters; Daily Sabah
 url_original: https://www.dailysabah.com/business/tech/nvidia-strikes-deals-with-south-korean-giants-to-advance-ai-boom
 url_canonical: https://www.dailysabah.com/business/tech/nvidia-strikes-deals-with-south-korean-giants-to-advance-ai-boom
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: 04321d89cceeefb629c84beabf0432a646d30a3a1c7a5598fcbd2f23d99458e0
 normalized_title_hash: dbb6e6ad9c41d684

@@ -6,7 +6,7 @@ date: '2026-05-20'
 source: The Decoder
 url_original: https://techcrunch.com/category/artificial-intelligence/
 url_canonical: https://techcrunch.com/category/artificial-intelligence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: f2c39907114d4fb7846afc602b0cdef7524814f70d7ce832884b1a292590fd8d
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 - 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
 - 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
+- 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 - 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
-- 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 embedding_id: 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind has connected its Genie 3 world model to Street View imagery, al
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]]
+**Related:** [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-15'
 source: Meta Newsroom
 url_original: https://about.fb.com/news/
 url_canonical: https://about.fb.com/news/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-15_155554_Final-Daily-AI-News-Digest.md
 content_hash: f928d29d66531f8c5d0f4cd0d1c934289309218f1a7fa4ee07931c08cc78ffac
 normalized_title_hash: 088efb4a754f8d80

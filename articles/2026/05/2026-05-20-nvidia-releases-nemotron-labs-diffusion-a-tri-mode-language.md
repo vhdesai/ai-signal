@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/category/technology/artificial-intelligence/
 url_canonical: https://www.marktechpost.com/category/technology/artificial-intelligence/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 59ad017a54e0fb29141781675b2a6b11f86bd834997414bca90be9d4b45e74e5
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
+- 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
-- 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 embedding_id: 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA researchers introduced Nemotron-Labs-Diffusion, a model family unifying t
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]]
+**Related:** [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]]
 <!-- graph:end -->

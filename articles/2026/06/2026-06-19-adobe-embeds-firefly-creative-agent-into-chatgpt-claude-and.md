@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: Forbes
 url_original: https://www.forbes.com/sites/davidphelan/2026/06/19/adobe-brings-its-firefly-ai-creative-agent-directly-into-chatgpt-and-claude/
 url_canonical: https://www.forbes.com/sites/davidphelan/2026/06/19/adobe-brings-its-firefly-ai-creative-agent-directly-into-chatgpt-and-claude/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-20_070303_Final-Daily-AI-News-Digest.md
 content_hash: 73bcd3c82a41e159aab86442256660b0110a0feba6c4e8c62754c19f35151209
 normalized_title_hash: fa406ce787df6d2c

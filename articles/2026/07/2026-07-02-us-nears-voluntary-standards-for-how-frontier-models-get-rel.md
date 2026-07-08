@@ -5,7 +5,7 @@ date: '2026-07-02'
 source: Financial Times
 url_original: https://thenextweb.com/news/us-ai-companies-voluntary-model-standards-talks
 url_canonical: https://thenextweb.com/news/us-ai-companies-voluntary-model-standards-talks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: cba70dc271ec47b4e663acf068b5b5e23833d3d89723c7ded92812384641f6f8

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-28-inclusion-criteria-items-confirmed-published-may-27-or-may-2
 - 2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o
 - 2026-05-21-coverage-window-may-20-21-2026-last-24-hours-items-from-may
+- 2026-07-08-
 - 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
-- 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 embedding_id: 2026-05-11-items-span-may-5-11-2026-only-news-confirmed-by-sourced-repo
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-inclusion-criteria-items-confirmed-published-may-27-or-may-2]] · [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o]] · [[2026-05-21-coverage-window-may-20-21-2026-last-24-hours-items-from-may]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]]
+**Related:** [[2026-05-28-inclusion-criteria-items-confirmed-published-may-27-or-may-2]] · [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o]] · [[2026-05-21-coverage-window-may-20-21-2026-last-24-hours-items-from-may]] · [[2026-07-08-]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-06-04'
 source: Politico; FedScoop; Nextgov/FCW
 url_original: https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920
 url_canonical: https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill-lands-on-the-hill-00949920
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 3be1029d38a5df475d83f6096f1df5333a766494dc832d1dea780fb61c338112
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 embedding_id: 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A 269-page bipartisan draft requires large developers (over $500M revenue) to pu
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Related:** [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]]
 <!-- graph:end -->

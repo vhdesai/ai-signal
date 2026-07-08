@@ -6,7 +6,7 @@ date: '2026-06-30'
 source: Thinking Machines Lab
 url_original: https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/
 url_canonical: https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 03277d2a8f2e48a0b6df1a31939d1cc970a6e0861a67177852e6432b0dc6f43c

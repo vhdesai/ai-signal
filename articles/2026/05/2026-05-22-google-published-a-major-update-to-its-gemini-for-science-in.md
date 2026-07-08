@@ -7,8 +7,8 @@ title: Google published a major update to its Gemini for Science initiative, pos
 date: '2026-05-22'
 source: Google Blog | Google Blog
 url_original: null
-url_canonical: https://www.about.google/drive/download/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: 7cc502371efad6faf11635141ce783c39f3dce5e4be0ecfda70d75455150ffde

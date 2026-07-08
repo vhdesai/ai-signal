@@ -6,7 +6,7 @@ date: '2026-06-27'
 source: IEEE Spectrum
 url_original: https://spectrum.ieee.org/state-of-ai-index-2026
 url_canonical: https://spectrum.ieee.org/state-of-ai-index-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 07ee466ac0b6059c413d71e12871c30f7480c8abde392dea1a56009fd2c96d5f

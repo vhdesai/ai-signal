@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
-- 2026-05-27-privacy-and-security-of-frontier-ai-agents
+- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 embedding_id: 2026-04-23-researchers-released-ruview-a-framework-using-standard-wifi
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Thunderbird Launches "Thunderbolt": Open-Source AI Framework for Data Sovereignt
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-05-27-privacy-and-security-of-frontier-ai-agents]]
+**Related:** [[2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Washington Post
 url_original: https://www.washingtonpost.com/technology/2026/06/18/house-members-want-answers-export-controls-placed-anthropic-fable/
 url_canonical: https://www.washingtonpost.com/technology/2026/06/18/house-members-want-answers-export-controls-placed-anthropic-fable/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 7f9405539f0785de938f23b3e02de80b0ba0fe5c8c18caf02f5b22ee5f464012
 normalized_title_hash: 8c35a7c4998ae7f8

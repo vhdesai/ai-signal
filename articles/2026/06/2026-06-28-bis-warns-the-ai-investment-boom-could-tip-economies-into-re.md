@@ -5,7 +5,7 @@ date: '2026-06-28'
 source: The Wall Street Journal
 url_original: https://www.wsj.com/economy/bis-sees-peril-for-economy-financial-system-in-ai-investment-boom-326960fb
 url_canonical: https://www.wsj.com/economy/bis-sees-peril-for-economy-financial-system-in-ai-investment-boom-326960fb
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 2cff30c7fbea99583a6bcd6881bd033e57f8abec75493f826e744de441e065e6
@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
+- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
-- 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
 embedding_id: 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 event_name: ''
 ---
@@ -35,5 +35,5 @@ In its annual economic report (released Sunday), the Bank for International Sett
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
+**Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
 <!-- graph:end -->

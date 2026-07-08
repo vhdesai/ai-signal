@@ -8,8 +8,8 @@ title: CEO Satya Nadella is reshaping Microsoft's upper echelons for the AI era,
 date: '2026-05-22'
 source: Business Insider | Business Insider
 url_original: null
-url_canonical: https://www.consultant4companies.com/hierarchy-of-company-ceo-cfo-coo-cmo-cto-cio-and-key-executive-roles-explained/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-22_074026_Inbox_Daily AI News Digest –– May 22,
   2026.md
 content_hash: a22617dac193d96fa7d6f6a418f221c99e18cc66cc51fb9ab8bb73e8ce3b3a35

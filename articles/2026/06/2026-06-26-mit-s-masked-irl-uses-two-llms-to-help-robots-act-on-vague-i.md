@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: MIT News
 url_original: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
 url_canonical: https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: e466fcf0cc70042303cb9e4dacbb00e76b2663d8692256a81d1a34199b83cc01
@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
+- 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
-- 2026-04-02-academic-research
 embedding_id: 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT CSAIL researchers introduced “Masked IRL,” an approach that pairs two la
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-04-02-academic-research]]
+**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

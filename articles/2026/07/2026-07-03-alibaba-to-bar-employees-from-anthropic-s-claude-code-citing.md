@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal
-- 2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc
-- 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
-- 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
-- 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
+- 2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali
+- 2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude
+- 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
+- 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 embedding_id: 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba plans to prohibit staff from using Anthropic's Claude Code for any work-
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal]] · [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]]
+**Related:** [[2026-07-03-alibaba-to-bar-staff-from-anthropic-s-claude-code-amid-escal]] · [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali]] · [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba]]
 <!-- graph:end -->

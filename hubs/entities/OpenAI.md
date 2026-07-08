@@ -1,19 +1,46 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 725
+member_count: 752
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 725 connected article(s).
+> Auto-generated entity hub. 752 connected article(s).
 
+- `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
+- `2026-07-08` [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f|SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier model “as soon as today”]]
+- `2026-07-08` [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp|Scoop: Trump administration lifts restrictions on OpenAI’s GPT 5.6]]
+- `2026-07-08` [[2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f|OpenAI to open GPT-5.6 to the public July 9 after clearing federal pre-release review]]
+- `2026-07-08` [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9|OpenAI to Publicly Release GPT-5.6 (Sol, Terra, Luna) on July 9]]
+- `2026-07-08` [[2026-07-08-openai-confirms-gpt-5-6-sol-terra-luna-public-launch-for-thu|OpenAI Confirms GPT-5.6 (Sol, Terra, Luna) Public Launch for Thursday, July 9]]
+- `2026-07-08` [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes|OpenAI Clears Government Review; GPT-5.6 (Sol, Terra, Luna) Goes Public July 9]]
+- `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
+- `2026-07-07` [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company|OpenAI’s Chief Futurist is leaving the company]]
 - `2026-07-07` [[2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi|OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o|Microsoft begins swapping OpenAI and Anthropic out for its own MAI models in some app features]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house|Microsoft Begins Swapping OpenAI and Anthropic for In-House MAI Models]]
+- `2026-07-07` [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac|Meta Ships Muse Image, an Agentic Generator — and Immediate Backlash]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig|Meta Launches Muse Image, First Model from Meta Superintelligence Labs]]
+- `2026-07-07` [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency|Illinois enacts AI Safety Measures Act, imposing transparency duties on frontier developers]]
+- `2026-07-07` [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa|Illinois Enacts First-in-Nation Law Requiring Independent Safety Audits of Frontier AI Developers]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
+- `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-07` [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c|Chinese open models gain ground with U.S. firms as frontier costs climb]]
+- `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos|Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a|Chinese AI models gain ground with U.S. companies as OpenAI and Anthropic costs surge]]
+- `2026-07-06` [[2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc|Pritzker signs Illinois bill aimed at artificial intelligence accountability]]
+- `2026-07-06` [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt|OpenAI rolls out AI-generated ad creation inside its ChatGPT Ads platform]]
+- `2026-07-06` [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v|OpenAI releases gpt-realtime-2.1 and gpt-realtime-2.1-mini voice models]]
 - `2026-07-06` [[2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t|OpenAI Ships GPT-Realtime-2.1 and GPT-Realtime-2.1-mini on the API]]
 - `2026-07-06` [[2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb|OpenAI Rolls Out GPT-5.5 Instant Mini as ChatGPT's New Fallback Model]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc|Gemini 3.5 Pro Specs Surface Ahead of Reported July 17 Launch]]
+- `2026-07-06` [[2026-07-06-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s|"SkillCloak" Study: Malicious Agent Skills Evade Every Tested Scanner >90% of the Time]]
 - `2026-07-04` [[2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui|OpenAI's Brockman sketches an "almost no interface" future built on Codex-style agents]]

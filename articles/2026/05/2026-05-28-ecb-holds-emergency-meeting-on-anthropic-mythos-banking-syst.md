@@ -5,7 +5,7 @@ date: '2026-05-28'
 source: IT Security Guru
 url_original: https://aiweekly.co/
 url_canonical: https://aiweekly.co/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 15316973027679307c67edbed8a08b23e6835dfd472f3802d9a6b24e3463450c
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model
 - 2026-04-13-ai-safety-policy
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
+- 2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 embedding_id: 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The European Central Bank held an ad-hoc emergency meeting after Anthropic's Myt
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
+**Related:** [[2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
 <!-- graph:end -->

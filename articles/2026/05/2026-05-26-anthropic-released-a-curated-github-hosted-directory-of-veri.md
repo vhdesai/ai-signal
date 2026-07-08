@@ -9,8 +9,8 @@ title: Anthropic released a curated GitHub-hosted directory of verified plugins 
 date: '2026-05-26'
 source: Anthropic · anthropic.com/news
 url_original: null
-url_canonical: https://claude.com/platform/api
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_080048_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: 5c4f2ad09062785ab3eea33ed34883c5c9b6f610907aece12d235681b1e4d4c7

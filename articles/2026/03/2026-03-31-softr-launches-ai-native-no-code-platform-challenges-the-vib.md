@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
+- 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 - 2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude
 - 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 - 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
-- 2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c
 embedding_id: 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Softr (1M+ builders including Netflix, Google, Stripe) launched an AI Co-Builder
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]] · [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c]]
+**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-05-26-ing-s-vibe-coding-ai-builds-new-trading-systems-with-claude]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r]]
 <!-- graph:end -->

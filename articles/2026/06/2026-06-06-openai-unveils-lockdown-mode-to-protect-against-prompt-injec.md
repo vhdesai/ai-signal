@@ -5,7 +5,7 @@ date: '2026-06-06'
 source: TechCrunch; Gizmodo
 url_original: https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
 url_canonical: https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: cb13302a2576765ca00342942cf53b83a97568d64a0003b5c465e52bf9e21ebf
 normalized_title_hash: fee3bc3e3fde6767

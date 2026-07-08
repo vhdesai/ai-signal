@@ -7,8 +7,8 @@ title: xAI made Grok 4.3 the default model option inside the NVIDIA-backed OpenC
 date: '2026-05-25'
 source: Memeburn · memeburn.com
 url_original: null
-url_canonical: https://huggingface.co/xai-org/grok-1/blob/main/README.md
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_080048_Inbox_Daily AI News Digest –– May 26,
   2026.md
 content_hash: 2fd8e08a10650f4db993033c6c6722d5ae25a1e98f1fff6a06e5b188b8aca7de

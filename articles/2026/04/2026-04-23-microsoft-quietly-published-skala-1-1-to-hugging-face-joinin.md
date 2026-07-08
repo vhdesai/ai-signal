@@ -7,8 +7,8 @@ title: Microsoft quietly published SKALA-1.1 to Hugging Face, joining a wave of 
 date: '2026-04-23'
 source: 'Source: AIFlashReport'
 url_original: null
-url_canonical: https://devblogs.microsoft.com/foundry/microsoft-and-hugging-face-expand-partnership-to-accelerate-open-source-ai-innovation-on-azure-ai-foundry/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: ef195c807ccd465c4dc1b80386edb93766a6278e2ddf189233718064c27de511
@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
+- 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 - 2026-04-02-model-releases-updates
-- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
 embedding_id: 2026-04-23-microsoft-quietly-published-skala-1-1-to-hugging-face-joinin
 event_name: ''
 ---
@@ -42,5 +42,5 @@ NVIDIA Releases Asset-Harvester: Image-to-3D Open Model
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-model-releases-updates]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
+**Related:** [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-model-releases-updates]]
 <!-- graph:end -->

@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: VentureBeat  / TechCrunch
 url_original: https://venturebeat.com/technology/andrej-karpathy-announces-hes-joining-anthropic
 url_canonical: https://venturebeat.com/technology/andrej-karpathy-announces-hes-joining-anthropic
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: a03250e23855187baf42064ccec10ffd53138e25b7505cf56f7bbf9f5dffdc2e

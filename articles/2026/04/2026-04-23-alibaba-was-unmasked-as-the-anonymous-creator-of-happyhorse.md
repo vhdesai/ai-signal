@@ -8,8 +8,8 @@ title: Alibaba was unmasked as the anonymous creator of HappyHorse-1.0, a video 
 date: '2026-04-23'
 source: 'Source: Big Hat Group China AI Weekly'
 url_original: null
-url_canonical: https://www.alibabagroup.com/en-US/about-alibaba-businesses-1747711844698554368
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-23_070813_Inbox_Daily AI News Digest – April 23,
   2026.md
 content_hash: 0840dea6a2d713f17bf32391cead5c25d6316b987f19d2c216eb279cb4bc880a

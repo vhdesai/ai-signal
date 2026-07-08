@@ -4,8 +4,8 @@ title: Bank of America raises Apple price target to $380 ahead of WWDC
 date: '2026-05-26'
 source: TheStreet / AOL Finance
 url_original: https://www.aol.com/finance/apple-price-target-lifted-bank-110540571.html
-url_canonical: https://secure.bankofamerica.com/login/sign-in/signOnV2Screen.go
-url_status: repaired
+url_canonical: https://www.aol.com/finance/apple-price-target-lifted-bank-110540571.html
+url_status: found
 digest_source: digests\raw\2026-05-27_072257_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 808bfdc71d9d40027e6a48d7712c3406ac8b9fec2dcecbc02239bd2351441c4c

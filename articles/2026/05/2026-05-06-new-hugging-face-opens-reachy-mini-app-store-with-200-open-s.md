@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac
+- 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
+- 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
 - 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-- 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
-- 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 embedding_id: 2026-05-06-new-hugging-face-opens-reachy-mini-app-store-with-200-open-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Hugging Face launched the Reachy Mini App Store, a free, community-built marketp
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]]
+**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
 <!-- graph:end -->

@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
 url_canonical: https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 7758b5e2bc76bfacd6cb5b2891402b7adfab3334f750778e241f1209b8ffaf30

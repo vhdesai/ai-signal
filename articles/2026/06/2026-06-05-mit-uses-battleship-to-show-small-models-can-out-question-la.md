@@ -5,7 +5,7 @@ date: '2026-06-05'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/computing/turns-out-teaching-games-like-battleship-can-make-small-ai-models-a-whole-lot-smarter/
 url_canonical: https://www.digitaltrends.com/computing/turns-out-teaching-games-like-battleship-can-make-small-ai-models-a-whole-lot-smarter/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 8e72360dfce07a3d68586d757f0e09f3bb4c569cc28cbbd9e82f15126f0e4ee4

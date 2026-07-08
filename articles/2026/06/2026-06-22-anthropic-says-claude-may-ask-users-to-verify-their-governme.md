@@ -5,7 +5,7 @@ date: '2026-06-22'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
 url_canonical: https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-23_070000_Final-Daily-AI-News-Digest.md
 content_hash: 484cb6882e29b25d2f7165176495d3f0575fda2ab346480bfea6d589b00b6963
 normalized_title_hash: a54441a2dbfe8e71
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
+- 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi
-- 2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi
 embedding_id: 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A revised privacy policy (effective July 8) states Anthropic may request governm
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]]
+**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi]]
 <!-- graph:end -->

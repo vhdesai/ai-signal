@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac
 embedding_id: 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's AI chief stated the company has been "set free" from OpenAI to pursu
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]]
+**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

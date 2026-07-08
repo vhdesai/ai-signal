@@ -4,8 +4,8 @@ title: OpenAI Launches Personal Finance Experience Inside ChatGPT for Pro Users
 date: '2026-05-15'
 source: OpenAI Blog
 url_original: null
-url_canonical: https://www.ghacks.net/2026/05/18/openai-launches-personal-finance-experience-in-chatgpt-for-pro-users-in-the-us/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: ec87ef66414884649759f9936e57f5a950d7646a1664013d16e2e18fd70ddb2b

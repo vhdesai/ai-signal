@@ -5,7 +5,7 @@ date: '2026-07-05'
 source: The Guardian / PA Media
 url_original: https://www.aol.com/articles/nhs-app-ai-determine-best-213454000.html
 url_canonical: https://www.aol.com/articles/nhs-app-ai-determine-best-213454000.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
 content_hash: 4a87b3a190f70da005baa8c2d3a8d15208c297edf7346ce6e50222f4c64c5a29

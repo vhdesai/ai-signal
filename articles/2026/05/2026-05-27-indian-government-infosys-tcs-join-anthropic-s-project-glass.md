@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Business Today
 url_original: https://www.forbes.com/sites/timkeary/2026/05/26/inside-openais-new-founder-experience-team/
 url_canonical: https://www.forbes.com/sites/timkeary/2026/05/26/inside-openais-new-founder-experience-team/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071834_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 889c83072caa1dc2846ceda199402992de806ecd43b05636ab371dc90c77c561

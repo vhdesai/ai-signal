@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/sectors/technology/articles/merlin-successfully-completes-critical-design-200500314.html
 url_canonical: https://finance.yahoo.com/sectors/technology/articles/merlin-successfully-completes-critical-design-200500314.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: a9295eccdeaa007d94564a3816ab6c040bdcd744f42a77ae1f415bba375468d8

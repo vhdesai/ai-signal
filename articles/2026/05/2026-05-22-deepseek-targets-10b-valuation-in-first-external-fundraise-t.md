@@ -6,7 +6,7 @@ date: '2026-05-22'
 source: Edgen.tech
 url_original: https://www.edgen.tech/
 url_canonical: https://www.edgen.tech/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
 content_hash: 1118d20a1668acd5391e83f31977e04360d2f792e3bb0e2e39bae91aea274831

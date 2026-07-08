@@ -5,8 +5,8 @@ title: 'Oracle AI Gains Traction in Utilities: Air Selangor, El Paso Electric, a
 date: '2026-05-14'
 source: Oracle Newsroom
 url_original: null
-url_canonical: https://www.prnewswire.com/news-releases/oracle-energy-and-water-awards-recognize-utilities-leading-in-industry-transformation-and-innovation-302133013.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 1b814052f3c9a0bf8438eb7372d397628fe0d0343484ff34ae19a7aba781dc2f

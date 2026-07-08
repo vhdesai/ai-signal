@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: NPR / Boise State Public Radio*
 url_original: https://www.boisestatepublicradio.org/2026-05-31/these-ai-models-are-free-private-and-will-never-say-no
 url_canonical: https://www.boisestatepublicradio.org/2026-05-31/these-ai-models-are-free-private-and-will-never-say-no
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: bf5948c41f8de35ab17b0e6e7ebbf2d91ba2a18da2f64ece98d1cbe878171ee1
 normalized_title_hash: 7dd4b2d89de78df2
@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut
 - 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
+- 2026-07-07-daily-ai-news-digest-july-8-2026
 - 2026-05-14-daily-ai-news-digest-may-14-2026
-- 2026-06-29-daily-ai-news-digest-june-29-2026
 embedding_id: 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Open-weight models with capabilities close to proprietary frontier systems — f
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
+**Related:** [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]]
 <!-- graph:end -->

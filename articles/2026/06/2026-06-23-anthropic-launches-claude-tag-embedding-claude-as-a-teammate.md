@@ -5,7 +5,7 @@ date: '2026-06-23'
 source: Anthropic
 url_original: https://www.anthropic.com/news/introducing-claude-tag
 url_canonical: https://www.anthropic.com/news/introducing-claude-tag
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: 9554c7fed8df3baf9649aade42eda6b096c8075e810f358799344050cfe4fd67

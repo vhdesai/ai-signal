@@ -1,15 +1,32 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 157
+member_count: 174
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 174 connected article(s).
 
+- `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
+- `2026-07-08` [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m|China’s MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet|Why the rise of open source AI isn’t hurting Anthropic yet]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-is-developing-its-own-ai-inference-chip|Reuters: DeepSeek Is Developing Its Own AI Inference Chip]]
 - `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
+- `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-07` [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c|Chinese open models gain ground with U.S. firms as frontier costs climb]]
+- `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f|Chinese Open-Weight Models Gain U.S. Enterprise Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos|Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a|Chinese AI models gain ground with U.S. companies as OpenAI and Anthropic costs surge]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-05` [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt|Demand signals hold as China presses on science and Washington drafts model-release rules]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-03` [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off|China's DeepSeek-V4 heads to official release with "peak/off-peak" surge pricing; Tencent Cloud to distribute]]

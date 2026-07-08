@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Reuters
 url_original: https://whbl.com/2026/06/30/agentic-ai-may-require-regulatory-reform-boes-breeden-says/
 url_canonical: https://whbl.com/2026/06/30/agentic-ai-may-require-regulatory-reform-boes-breeden-says/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 2aa55ffa7441868f6cfb3577e3fead7dee4b5e874d9089a304b37b3d2bb934b3

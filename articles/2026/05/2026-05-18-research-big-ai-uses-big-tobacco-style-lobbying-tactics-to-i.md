@@ -6,7 +6,7 @@ date: '2026-05-18'
 source: Phys.org
 url_original: https://phys.org/news/2026-05-big-ai-laws-oversight.html
 url_canonical: https://phys.org/news/2026-05-big-ai-laws-oversight.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: a7fb3d7f6cee515f089569ea0da84507bd2ea398bfa826fdbcff813b354fea52

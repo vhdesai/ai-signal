@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch; [June 1, 2026] · PCMag; Hypebeast
 url_original: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
 url_canonical: https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 8f0f029a843a01b948138968048d8ffee01d4d56e3e7045ede49566859a58b6b
 normalized_title_hash: c8d165b0a657ca10
@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
+- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
+- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 - 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
-- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
-- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 embedding_id: 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Leaked roadmap documents indicate Meta is developing an AI-powered pendant capab
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]]
+**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]]
 <!-- graph:end -->

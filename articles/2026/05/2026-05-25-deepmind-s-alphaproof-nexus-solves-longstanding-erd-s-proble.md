@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: NewsBytes
 url_original: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
 url_canonical: https://www.newsbytesapp.com/news/science/google-ai-just-solved-56-year-old-math-problems-on-its-own/story
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_081412_Inbox_Daily AI News Digest –– May 26,
   2026 (Corrected Cowork Edition).md
 content_hash: 950df0a1deb38077caf3fd84ae43def595b87c98c144262589185c12747b30b9

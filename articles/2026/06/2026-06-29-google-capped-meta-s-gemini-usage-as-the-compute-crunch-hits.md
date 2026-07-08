@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Engadget
 url_original: https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/
 url_canonical: https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: cdca62f04d17590d4f411f63f6038bb32c426680209ade76ebf23317585098c9

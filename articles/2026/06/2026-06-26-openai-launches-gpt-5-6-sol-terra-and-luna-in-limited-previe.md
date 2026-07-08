@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: MacRumors
 url_original: https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/
 url_canonical: https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 69f242ae7bdebf7e881f65cc59e5725234be727e0113e95924744f55fa798699
@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
 - 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a
-- 2026-06-26-openai-s-gpt-5-6-family-sol-terra-luna-stays-limited-to-gove
+- 2026-07-08-openai-confirms-gpt-5-6-sol-terra-luna-public-launch-for-thu
 embedding_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI previewed a three-tier GPT‑5.6 family: flagship Sol, a balanced everyda
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]] · [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]] · [[2026-06-26-openai-s-gpt-5-6-family-sol-terra-luna-stays-limited-to-gove]]
+**Related:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]] · [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]] · [[2026-07-08-openai-confirms-gpt-5-6-sol-terra-luna-public-launch-for-thu]]
 <!-- graph:end -->

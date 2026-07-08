@@ -5,7 +5,7 @@ date: '2026-05-30'
 source: TechCrunch; [June 1, 2026] · Reuters; Yahoo Finance
 url_original: https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
 url_canonical: https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: b2f6d46732becaf498e1da5f19b3adbb45abebef97512bc14d1f5c9a29edf342
 normalized_title_hash: e16b2ec59a60adb4

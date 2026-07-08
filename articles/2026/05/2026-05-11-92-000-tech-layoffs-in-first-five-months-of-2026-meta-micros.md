@@ -5,8 +5,8 @@ title: 92,000+ Tech Layoffs in First Five Months of 2026 — Meta, Microsoft, Am
 date: '2026-05-11'
 source: 🔗 Economic Times  · 🏢 Industry-wide
 url_original: null
-url_canonical: https://www.usatoday.com/story/life/2026/03/28/000-angel-number-meaning/89349248007/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-11_071130_Inbox_Daily AI News Digest – May 11,
   2026.md
 content_hash: fe66899af3139a0616bb35faac7f15e4898fef3e752b73072df146e479a45b5f

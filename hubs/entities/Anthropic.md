@@ -1,21 +1,61 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 699
+member_count: 739
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 699 connected article(s).
+> Auto-generated entity hub. 739 connected article(s).
 
+- `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
+- `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
+- `2026-07-08` [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f|SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier model “as soon as today”]]
+- `2026-07-08` [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o|Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class’ model]]
+- `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant|China says it found “security backdoor” vulnerabilities in Anthropic’s Claude Code]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
+- `2026-07-08` [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali|China Flags "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It Internally]]
+- `2026-07-08` [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access|Anthropic reverses course, extends free Claude Fable 5 access to July 12 after backlash]]
+- `2026-07-07` [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet|Why the rise of open source AI isn’t hurting Anthropic yet]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
+- `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
 - `2026-07-07` [[2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi|OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups]]
+- `2026-07-07` [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026|North American startup funding hit a record $392B in H1 2026, overwhelmingly AI-driven]]
+- `2026-07-07` [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o|North American Venture Funding Hits Record $392B in H1 2026, Overwhelmingly AI-Driven]]
+- `2026-07-07` [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o|North American Startup Funding Hits Record $392B in H1 2026, Overwhelmingly AI-Driven]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o|Microsoft begins swapping OpenAI and Anthropic out for its own MAI models in some app features]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house|Microsoft Begins Swapping OpenAI and Anthropic for In-House MAI Models]]
 - `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
+- `2026-07-07` [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency|Illinois enacts AI Safety Measures Act, imposing transparency duties on frontier developers]]
+- `2026-07-07` [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa|Illinois Enacts First-in-Nation Law Requiring Independent Safety Audits of Frontier AI Developers]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
+- `2026-07-07` [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac|ECB orders euro-zone banks to plan for AI-enabled cyberattacks]]
+- `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
+- `2026-07-07` [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c|Chinese open models gain ground with U.S. firms as frontier costs climb]]
+- `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos|Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a|Chinese AI models gain ground with U.S. companies as OpenAI and Anthropic costs surge]]
+- `2026-07-07` [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web|Anthropic expands Claude Cowork to iPhone and the web]]
+- `2026-07-07` [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da|Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding]]
+- `2026-07-07` [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th|Anthropic Extends Claude Fable 5 Access to All Paid Plans Through July 12]]
+- `2026-07-07` [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro|Anthropic Expands Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools]]
+- `2026-07-07` [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros|Anthropic Brings Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools]]
+- `2026-07-07` [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web|Anthropic Brings Claude Cowork to Mobile and Web]]
+- `2026-07-07` [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco|AI megarounds drive North American venture funding to a record $392B in H1 2026]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus|TeraWulf announces Anthropic lease at Justified Data Campus]]
 - `2026-07-06` [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic|TeraWulf Signs ~$19B AI-Infrastructure Lease With Anthropic]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
+- `2026-07-06` [[2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc|Pritzker signs Illinois bill aimed at artificial intelligence accountability]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
+- `2026-07-06` [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla|Anthropic's new J-lens reveals a silent workspace inside Claude]]
+- `2026-07-06` [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a|Anthropic's Claude Sonnet 5 Becomes Generally Available on AWS]]
+- `2026-07-06` [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside|Anthropic's "J-lens" finds a global workspace emerging inside Claude]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]
 - `2026-07-03` [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage|The economics and governance of AI took center stage]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]

@@ -4,8 +4,8 @@ title: AWS ships GPT-5.5, Codex, and Bedrock Managed Agents on Amazon Bedrock
 date: '2026-05-03'
 source: Dev Weekly
 url_original: null
-url_canonical: https://www.geeksforgeeks.org/devops/aws-tutorial/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_082406_Inbox_Daily AI News Digest –– May 4,
   2026 (Updated- May 3–4 only).md
 content_hash: 9a66e702911bd4710afc7785ed7b86358ffc55aa0e83e904de98350a4cce22c8

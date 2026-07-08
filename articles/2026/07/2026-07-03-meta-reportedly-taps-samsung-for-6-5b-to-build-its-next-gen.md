@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: Benzinga
 url_original: https://www.benzinga.com/markets/tech/26/07/60265709/after-tesla-samsung-eyes-meta-platforms-for-6-5-billion-ai-chip-agreement-report
 url_canonical: https://www.benzinga.com/markets/tech/26/07/60265709/after-tesla-samsung-eyes-meta-platforms-for-6-5-billion-ai-chip-agreement-report
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: b7f3dd46369ea25f8f19ba75866333b3768c5eb96567c2f352dbca90c77d55d4

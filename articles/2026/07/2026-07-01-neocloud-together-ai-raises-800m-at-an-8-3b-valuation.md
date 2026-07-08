@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
 url_canonical: https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: e5e470cce323c1b4845a49cf46586f8885c649027ca161a1449f28fc95be2cba

@@ -1,15 +1,29 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 224
+member_count: 238
 ---
 
 # Meta
 
-> Auto-generated entity hub. 224 connected article(s).
+> Auto-generated entity hub. 238 connected article(s).
 
+- `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th|Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughout the Day]]
+- `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses|Meta Tests Always-On “Super Sensing” AI Glasses]]
+- `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-france-s-competition-watchdog-orders-meta-to-negotiate-with|France’s Competition Watchdog Orders Meta to Negotiate with News Publishers]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator|Meta rolls out Muse, a new AI image generator]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use|Meta launches Muse Image, drawing immediate backlash over use of users’ photos]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse|Meta launches Muse Image generator, immediately drawing consent backlash]]
+- `2026-07-07` [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac|Meta Ships Muse Image, an Agentic Generator — and Immediate Backlash]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig|Meta Launches Muse Image, First Model from Meta Superintelligence Labs]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent|Meta Launches Muse Image Generator, Drawing Immediate Consent Backlash]]
+- `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
+- `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te|Even Realities hits $1B valuation on $150M from Meituan and Tencent]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]

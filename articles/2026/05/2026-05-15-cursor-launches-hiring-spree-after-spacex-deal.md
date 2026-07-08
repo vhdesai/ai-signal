@@ -4,8 +4,8 @@ title: Cursor Launches Hiring Spree After SpaceX Deal
 date: '2026-05-15'
 source: Business Insider
 url_original: null
-url_canonical: https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: 55b3efc806f27801d8f77f93d6cb73fb79162f5c5d706972f0afc2a6ff095ffc

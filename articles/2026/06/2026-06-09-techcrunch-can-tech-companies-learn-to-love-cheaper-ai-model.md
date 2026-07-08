@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/
 url_canonical: https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-10_060030_Daily-AI-News-Digest.md
 content_hash: d019186ea9439d6dd67832078a89601e90ff4a72b71c56c870789afd486fdadb
 normalized_title_hash: 2c3a712b9f65da48

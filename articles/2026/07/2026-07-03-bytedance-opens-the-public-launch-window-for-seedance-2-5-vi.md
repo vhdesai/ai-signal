@@ -5,7 +5,7 @@ date: '2026-07-03'
 source: Tech Times
 url_original: https://www.techtimes.com/articles/319639/20260703/bytedance-seedance-25-launches-this-week-30-second-ai-video-carries-copyright-cloud.htm
 url_canonical: https://www.techtimes.com/articles/319639/20260703/bytedance-seedance-25-launches-this-week-30-second-ai-video-carries-copyright-cloud.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: a3b50881e5514481b92eee0ec5d8efef1d755e90449236bfe5b342f0d68b33aa

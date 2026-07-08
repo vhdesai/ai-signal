@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: OpenAI
 url_original: https://openai.com/index/stargate-michigan-data-center
 url_canonical: https://openai.com/index/stargate-michigan-data-center
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
 content_hash: e211a14ac61c4d2f832e86e4b71b8e6971dc743eab9a34c4bb0ce7ee98cc1e02
@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 - 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
+- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a
-- 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
 embedding_id: 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced a 1-gigawatt data-center project in Michigan as part of Stargat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]] · [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]] · [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]]
+**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]] · [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-luna-gated-to-government-a]]
 <!-- graph:end -->

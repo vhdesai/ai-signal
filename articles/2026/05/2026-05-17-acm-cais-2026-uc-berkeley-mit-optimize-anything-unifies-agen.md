@@ -5,8 +5,8 @@ title: 'ACM CAIS 2026: UC Berkeley & MIT "optimize_anything" Unifies Agent Optim
 date: '2026-05-17'
 source: ACM Conference on AI & Agentic Systems
 url_original: null
-url_canonical: https://bioengineer.org/acm-unveils-cais-2026-a-groundbreaking-conference-on-ai-and-agentic-systems/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_070636_Inbox_Daily AI News Digest – May 18,
   2026.md
 content_hash: e10c0b0d508ffe15551837ca08b6a752594ef3d98aac91913f7ebfc53a458997

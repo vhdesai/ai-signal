@@ -5,7 +5,7 @@ date: '2026-06-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/
 url_canonical: https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_063948_Daily-AI-News-Digest.md
 content_hash: d216436f420b533abdbb0b2492fc319d5d0f92b6320886da95ba87c5caf0b2c3
 normalized_title_hash: 1aa5c61cf0c39ce3
@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
+- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
 - 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
-- 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
 embedding_id: 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI coding startup Lovable—which recently signed a multi-year Google Cloud deal
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]] · [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]]
+**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai]]
 <!-- graph:end -->

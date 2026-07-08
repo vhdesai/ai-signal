@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Digital Trends
 url_original: https://www.digitaltrends.com/cool-tech/metas-brain2qwerty-v2-turns-thoughts-into-text-and-it-doesnt-need-brain-implants/
 url_canonical: https://www.digitaltrends.com/cool-tech/metas-brain2qwerty-v2-turns-thoughts-into-text-and-it-doesnt-need-brain-implants/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 8ca085fb459112823368b2c53f9d82773832770361ddcc6d03f2d1ad89665bf6

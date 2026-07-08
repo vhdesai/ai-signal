@@ -4,8 +4,8 @@ title: 'xAI Launches Grok Build: Agentic CLI for Autonomous Software Development
 date: '2026-05-14'
 source: xAI News
 url_original: null
-url_canonical: https://www.techtimes.com/articles/318976/20260624/grok-build-ships-autonomous-execution-xai-agent-now-plans-runs-verifies.htm
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: e2dd71666e239aa592f8c5ac9660ece720ab2c003109de6e87837830ab590768

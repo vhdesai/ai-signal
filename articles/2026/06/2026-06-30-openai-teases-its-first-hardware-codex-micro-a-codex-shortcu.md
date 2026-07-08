@@ -6,7 +6,7 @@ date: '2026-06-30'
 source: CNBC-TV18
 url_original: https://www.cnbctv18.com/technology/codex-micro-openai-first-hardware-reveal-accessory-ai-powered-coding-assistant-19935348.htm
 url_canonical: https://www.cnbctv18.com/technology/codex-micro-openai-first-hardware-reveal-accessory-ai-powered-coding-assistant-19935348.htm
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 820c62f568e985447bddf0526579ec5d382772d2993790032a420563813cd646

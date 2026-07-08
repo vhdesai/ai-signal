@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: Forbes**
 url_original: https://www.forbes.com/sites/alexanderpuutio/2026/05/31/what-every-ceo-needs-to-know-about-ai-in-may-2026/
 url_canonical: https://www.forbes.com/sites/alexanderpuutio/2026/05/31/what-every-ceo-needs-to-know-about-ai-in-may-2026/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-01_061105_Daily-AI-News-Digest.md
 content_hash: 400725a7648b8f3715d9c830ff5fefae19f2985b6a2efacf7f8a225f48733bec
 normalized_title_hash: ebb4c8e1fa3f5f3e

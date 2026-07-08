@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
+- 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
-- 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
 embedding_id: 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta and EssilorLuxottica unveiled a lower-cost line of AI smart glasses startin
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]]
 <!-- graph:end -->

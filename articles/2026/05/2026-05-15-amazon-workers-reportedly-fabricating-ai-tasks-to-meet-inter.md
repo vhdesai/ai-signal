@@ -4,8 +4,8 @@ title: Amazon Workers Reportedly Fabricating AI Tasks to Meet Internal Quotas
 date: '2026-05-15'
 source: Hacker News / Various
 url_original: null
-url_canonical: https://www.digitaltrends.com/cool-tech/amazon-employees-are-doing-fake-tasks-because-theyre-forced-to-use-more-ai-and-show-it/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: a7ea78a4d1f454b697573860016c5db5e64bdb9f6b54c98a5332e4e9db11a059

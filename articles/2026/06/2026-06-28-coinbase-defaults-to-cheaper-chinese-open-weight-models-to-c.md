@@ -5,7 +5,7 @@ date: '2026-06-28'
 source: Cryptopolitan
 url_original: https://www.cryptopolitan.com/coinbase-ceo-chinese-ai-models/
 url_canonical: https://www.cryptopolitan.com/coinbase-ceo-chinese-ai-models/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: ce22c638840eefb9cf5c6a337e29fff3f075123785575bcdd680af517f4559e8

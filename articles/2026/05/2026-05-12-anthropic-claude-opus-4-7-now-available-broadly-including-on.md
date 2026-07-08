@@ -5,8 +5,8 @@ title: Anthropic Claude Opus 4.7 Now Available Broadly, Including on Microsoft 3
 date: '2026-05-12'
 source: Anthropic / Palantir / Microsoft
 url_original: null
-url_canonical: https://claude.com/platform/api
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 4723503de603612496ddbed515f4b821c80d5da0d5bb0f933d53ec5178e48b3a

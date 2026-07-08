@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 8f0a5dcbdaaee16419e8ea439878ba78db6886ceb35a638b395ba31f90cd1398
+content_hash: b1ba0ff633d09a74d903e8ee0374a181d81fbbea8d106e24fa9914d7fea991e2
 normalized_title_hash: 432db4f1eaefefdc
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Broadcom expands work for Apple, supplying products through 2031
 
-Apple reportedly extended its Broadcom partnership across multiple product generations through 2031, including work tied to AI server chips. URL behind paywall.
+Apple reportedly extended its Broadcom partnership across multiple product generations through 2031, including work tied to AI server chips. The deal reinforces Apple's long-horizon commitment to custom silicon and AI infrastructure beyond client-device Apple Silicon. URL behind paywall.
 
 <!-- graph:start -->
 ## Connections

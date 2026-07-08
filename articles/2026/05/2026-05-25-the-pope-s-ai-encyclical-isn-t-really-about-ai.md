@@ -4,8 +4,8 @@ title: The Pope's AI encyclical isn't really about AI
 date: '2026-05-25'
 source: TechCrunch
 url_original: null
-url_canonical: https://www.vaticannews.va/en/pope.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-26_070739_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 9e4a2045b25d7483aa3c0d2ebed9ded61e1903fcb212284fede6ea4fd6c8c7ca

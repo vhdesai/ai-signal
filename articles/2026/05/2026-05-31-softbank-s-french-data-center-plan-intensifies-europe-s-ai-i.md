@@ -5,7 +5,7 @@ date: '2026-05-31'
 source: Wall Street Journal; May 30, 2026 · TechCrunch; June 1, 2026 · The Information
 url_original: https://www.wsj.com/tech/ai/softbank-to-plow-52-billion-into-french-data-centers-5268a1be
 url_canonical: https://www.wsj.com/tech/ai/softbank-to-plow-52-billion-into-french-data-centers-5268a1be
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: bd0b01610e8487226512eddad33369c49eeada92f64a70bae0b325cb3dfdb495

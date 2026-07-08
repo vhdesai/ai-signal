@@ -6,7 +6,7 @@ date: '2026-06-26'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
 url_canonical: https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 9ccbdcbb1ee63bd4db48b5987deb417fc5ea49870d3718bdf9ce78c6f59dae82
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
+- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 embedding_id: 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Enterprises are beginning to throttle once-unconstrained AI spend, with companie
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
 <!-- graph:end -->

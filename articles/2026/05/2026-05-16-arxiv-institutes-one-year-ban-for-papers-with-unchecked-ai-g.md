@@ -5,8 +5,8 @@ title: ArXiv Institutes One-Year Ban for Papers with Unchecked AI-Generated Cont
 date: '2026-05-16'
 source: TechCrunch
 url_original: null
-url_canonical: https://thenextweb.com/news/arxiv-ai-slop-ban-researchers-preprint
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_070721_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 0d5659ec37bbe5f4e2abfac699cacc8753509af450099276692eea42550de16b

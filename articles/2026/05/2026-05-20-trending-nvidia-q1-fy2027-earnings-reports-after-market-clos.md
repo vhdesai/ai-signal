@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: Bloomberg
 url_original: https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos
 url_canonical: https://www.bloomberg.com/news/articles/2026-05-20/nvidia-earnings-can-affirm-chip-stock-rally-or-spur-market-chaos
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 3f49482af80680d6220fac734f5bc8509e2023ac34393641ab255d9b2265632b

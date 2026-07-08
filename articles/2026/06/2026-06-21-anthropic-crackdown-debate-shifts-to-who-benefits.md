@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
 url_canonical: https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: 140d681ecac1efd16ffd46fb5869f4154c125d7eac4d548d26c35b7c1528edf0
 normalized_title_hash: 28d70fc984c11042
@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 - 2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
-- 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 embedding_id: 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch analyzed the competitive effects of the Trump administration's report
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return]]
+**Related:** [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]]
 <!-- graph:end -->

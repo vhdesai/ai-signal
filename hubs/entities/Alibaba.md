@@ -1,17 +1,27 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 135
+member_count: 145
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 135 connected article(s).
+> Auto-generated entity hub. 145 connected article(s).
 
+- `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant|China says it found “security backdoor” vulnerabilities in Anthropic’s Claude Code]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
+- `2026-07-08` [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali|China Flags "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It Internally]]
+- `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
+- `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
+- `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user|ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services.]]
+- `2026-07-06` [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as|ByteDance and Alibaba to shut down user AI-agent creation as China's anthropomorphic-AI rules take effect]]
 - `2026-07-06` [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin|ByteDance & Alibaba Pull AI Companion Features Ahead of Beijing Rules]]
 - `2026-07-06` [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine|Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features]]
 - `2026-07-05` [[2026-07-05-saturday-sunday-briefing-july-5-2026|Saturday–Sunday briefing · July 5, 2026]]

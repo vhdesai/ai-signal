@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
 url_canonical: https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
 content_hash: 1ef34c5fdb160e01ecac46bee93bfdbbb6ae359702c6628b5c881332154dd6f6

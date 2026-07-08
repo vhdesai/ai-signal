@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
+- 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 - 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A CMU study finds that asking learners to reflect on AI-generated explanations c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]]
 <!-- graph:end -->

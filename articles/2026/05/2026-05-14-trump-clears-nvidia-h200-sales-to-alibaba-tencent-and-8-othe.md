@@ -5,8 +5,8 @@ title: Trump Clears Nvidia H200 Sales to Alibaba, Tencent and 8 Others — Beiji
 date: '2026-05-14'
 source: Benzinga / SCMP
 url_original: null
-url_canonical: https://www.benzinga.com/markets/equities/26/05/52551772/trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-others-but-beijing-halts-deliveries
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_075618_Inbox_Daily AI News Digest –– May 15,
   2026.md
 content_hash: f68d928a41a4e82b3c6d67560cc316b4168d5be622345adf2f34ca4ebdbf0899

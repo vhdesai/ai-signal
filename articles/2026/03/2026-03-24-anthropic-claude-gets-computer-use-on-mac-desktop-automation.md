@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
+- 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
-- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
-- 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
-- 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
 embedding_id: 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's Computer Use feature — in research preview for Claude Pro and Max 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]]
+**Related:** [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

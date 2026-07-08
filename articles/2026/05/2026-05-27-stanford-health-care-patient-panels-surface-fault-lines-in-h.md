@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: STAT News
 url_original: https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/
 url_canonical: https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 9efa4b1b3bb89da53c58ef370ef6a29f78489f374c8835b992a4c7c9b33e1466

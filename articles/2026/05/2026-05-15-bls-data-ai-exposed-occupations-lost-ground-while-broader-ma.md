@@ -4,8 +4,8 @@ title: 'BLS Data: AI-Exposed Occupations Lost Ground While Broader Market Grew'
 date: '2026-05-15'
 source: Bloomberg / BLS / Techmeme
 url_original: null
-url_canonical: https://www.techmeme.com/260516/p4
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: f6ca287205f09c8acadc3fb0799425d8f01d535360f45ac8caa2da0721743419

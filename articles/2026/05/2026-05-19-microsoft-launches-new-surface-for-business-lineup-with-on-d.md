@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Microsoft Windows Blog
 url_original: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/
 url_canonical: https://blogs.windows.com/devices/2026/05/19/introducing-new-surface-devices-built-for-business-and-ai-acceleration/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 7c6b8744c26ee0e0618a1a95e02813fa8a92dab1dda820bf4647757deb64c3af

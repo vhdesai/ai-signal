@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Tech Wire Asia
 url_original: https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/
 url_canonical: https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 9cf6b4d291341644af645726bf5d62f2d57fd6e3e359a747a172b0e9ad88aa60

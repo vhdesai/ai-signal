@@ -4,8 +4,8 @@ title: DeepSeek closes $4B round, intensifying the open-weights competition
 date: '2026-05-18'
 source: PitchBook News
 url_original: null
-url_canonical: https://www.digitalapplied.com/blog/deepseek-7-4b-funding-round-open-weight-economics-2026
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: 7ec7457827eae8096b2fdfc174c40c839a0c632003d36e657f42018aa6e6e38d

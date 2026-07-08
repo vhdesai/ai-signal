@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
 - 2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc
+- 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
 - 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
-- 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
+- 2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba
 embedding_id: 2026-07-03-anthropic-moves-to-close-chinese-firms-backdoor-access-to-cl
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic is working to shut down "transfer station" relay services and cloud wo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]]
+**Related:** [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-07-02-anthropic-moves-to-close-loopholes-letting-chinese-firms-acc]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]] · [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba]]
 <!-- graph:end -->

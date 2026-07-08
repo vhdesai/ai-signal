@@ -6,7 +6,7 @@ date: '2026-07-01'
 source: VentureBeat
 url_original: https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it
 url_canonical: https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-02_062325_Inbox_Daily AI News Digest - July 2,
   2026.md
 content_hash: 93ee522713542eec144159a0f07be2222e09b3b789418b7fd3da7c52b325709f
@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho
 - 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
 - 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
-- 2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi
+- 2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access
 embedding_id: 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 event_name: ''
 ---
@@ -45,5 +45,5 @@ The U.S. Commerce Department withdrew the emergency export-control order issued 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]]
+**Related:** [[2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access]]
 <!-- graph:end -->

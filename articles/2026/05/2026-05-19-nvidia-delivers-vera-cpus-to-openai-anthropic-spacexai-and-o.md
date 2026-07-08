@@ -5,7 +5,7 @@ date: '2026-05-19'
 source: Benzinga
 url_original: https://www.benzinga.com/markets/tech/26/05/52653879/nvidia-vera-ai-cpus-spacex-anthropic-openai-elon-musk
 url_canonical: https://www.benzinga.com/markets/tech/26/05/52653879/nvidia-vera-ai-cpus-spacex-anthropic-openai-elon-musk
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
 content_hash: 4b15b45965c3f9ed83cf45f669145d63c50fb0142123cc426c195f0a46495d99
@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
+- 2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe
+- 2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t
+- 2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next
 - 2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal
-- 2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-- 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 embedding_id: 2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Nvidia confirmed that SpaceXAI, Oracle Cloud Infrastructure, Anthropic, and Open
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal]] · [[2026-06-12-nvidia-begins-vera-cpu-pitch-to-chinese-clients-despite-expo]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]]
+**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]] · [[2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t]] · [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next]] · [[2026-05-19-nvidia-s-200b-vera-chip-bet-and-the-h200-china-deal]]
 <!-- graph:end -->

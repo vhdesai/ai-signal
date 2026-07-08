@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
+- 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
+- 2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026
+- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
-- 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
-- 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
-- 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 embedding_id: 2026-05-05-april-global-vc-funding-hits-56b-100-yoy-growth-driven-by-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Global startup funding doubled year-over-year to $56B in April — the third-hig
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
 <!-- graph:end -->

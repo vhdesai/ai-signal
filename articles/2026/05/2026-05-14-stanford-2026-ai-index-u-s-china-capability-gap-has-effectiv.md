@@ -4,8 +4,8 @@ title: 'Stanford 2026 AI Index: U.S.–China Capability Gap Has Effectively Clos
 date: '2026-05-14'
 source: Microsoft Corp Dev AI Intelligence Brief
 url_original: null
-url_canonical: https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: ae12ffdb3f28078061c4a41926d6310f9fb9babb6072f8bfcf1ea78bf1990b4b

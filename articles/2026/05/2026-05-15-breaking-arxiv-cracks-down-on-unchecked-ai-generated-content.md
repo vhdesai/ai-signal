@@ -5,8 +5,8 @@ title: ⚡ BREAKING arXiv Cracks Down on Unchecked AI-Generated Content in Resea
 date: '2026-05-15'
 source: The Decoder / LLM Stats
 url_original: null
-url_canonical: https://the-decoder.com/arxiv-tightens-penalties-for-ai-bungling-in-scientific-papers/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071213_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 93102e8dd57f2561937984099b611dd4233e5003fa84d8578a9344400163a1c0

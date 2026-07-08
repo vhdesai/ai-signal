@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/healthcare/articles/insilico-medicine-takeda-partner-ai-103216072.html
 url_canonical: https://finance.yahoo.com/healthcare/articles/insilico-medicine-takeda-partner-ai-103216072.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_060818_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: 108bceee75a15634dd676807e13b40c13b4d26b1949926f1a0950693155078c8

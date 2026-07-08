@@ -6,7 +6,7 @@ date: '2026-06-01'
 source: The Information
 url_original: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20Mythos%20security%20budget%20buster
 url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Anthropic%20Mythos%20security%20budget%20buster
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June 1,
   2026.md
 content_hash: 6fbd1551cb3d04194dc63c74f49d087cdd953e9bfa3336f6db3c7fdeed6109e0

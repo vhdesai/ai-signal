@@ -6,7 +6,7 @@ date: '2026-05-19'
 source: arXiv preprint · cs.AI
 url_original: https://arxiv.org/abs/2605.18661
 url_canonical: https://arxiv.org/abs/2605.18661
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 7f94da11e4227f8439276b4cb7bb8b1b259ad87816ee2a52e0d1a3f81de8dbab

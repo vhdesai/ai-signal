@@ -5,8 +5,8 @@ title: 'Databricks April 2026: SQL AI Functions GA, Supervisor Agent API, GPT-5.
 date: '2026-04-20'
 source: Databricks Release Notes
 url_original: null
-url_canonical: https://www.databricks.com/company/about-us
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-04-28_072402_Inbox_Daily AI News Digest – April 28,
   2026.md
 content_hash: 079f800c7274796c3d864653b222a2dc2445b1f56cf7c653eaaefe58330565d5

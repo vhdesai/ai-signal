@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Forbes
 url_original: https://www.forbes.com/sites/jonmarkman/2026/06/26/anthropic-says-alibaba-used-25000-fake-accounts-to-distill-claude/
 url_canonical: https://www.forbes.com/sites/jonmarkman/2026/06/26/anthropic-says-alibaba-used-25000-fake-accounts-to-distill-claude/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_091929_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 522074dbaa67fe882f5526b7bdb41533d2fcbb90c7b1b29d6bce1d044841c327

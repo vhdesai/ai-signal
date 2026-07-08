@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Reuters
 url_original: https://money.usnews.com/investing/news/articles/2026-07-01/us-in-talks-with-ai-companies-for-voluntary-model-standards-ft-reports
 url_canonical: https://money.usnews.com/investing/news/articles/2026-07-01/us-in-talks-with-ai-companies-for-voluntary-model-standards-ft-reports
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: f21cac37980505fcc36b3494e9275f6773b63851784705972c37761c97ca2ea6

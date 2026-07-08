@@ -5,7 +5,7 @@ date: '2026-05-21'
 source: OpenAI Release Notes
 url_original: https://releasebot.io/updates/openai
 url_canonical: https://releasebot.io/updates/openai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: a5833222d0a3cb5bab2be8e9361a62ea6da27e8e24d5f5d5e29fcbf80b249a05

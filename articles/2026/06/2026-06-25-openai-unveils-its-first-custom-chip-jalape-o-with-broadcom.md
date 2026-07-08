@@ -5,7 +5,7 @@ date: '2026-06-25'
 source: SDxCentral
 url_original: https://www.sdxcentral.com/news/openai-gets-spicy-with-broadcom-via-ai-data-movement-optimized-jalape%C3%B1o-chip/
 url_canonical: https://www.sdxcentral.com/news/openai-gets-spicy-with-broadcom-via-ai-data-movement-optimized-jalape%C3%B1o-chip/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: 8481c6e72d47fad1c040b29374943b9e267fd0bc230ac421fbc58ced2a59656b
@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
-- 2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
+- 2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv
+- 2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip
 embedding_id: 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI revealed its first custom accelerator, "Jalapeño," co-designed with Broa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-05-19-nvidia-delivers-vera-cpus-to-openai-anthropic-spacexai-and-o]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip]]
 <!-- graph:end -->

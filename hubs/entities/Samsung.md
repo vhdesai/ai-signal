@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 34
+member_count: 38
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 34 connected article(s).
+> Auto-generated entity hub. 38 connected article(s).
 
+- `2026-07-07` [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c|Samsung posts record Q2 profit but shares fall as AI-capex concerns spook investors]]
+- `2026-07-07` [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de|Samsung guides to record Q2 operating profit on AI-memory demand — but shares fall]]
+- `2026-07-07` [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom|Samsung expects 1,800% operating profit leap on AI boom]]
+- `2026-07-07` [[2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s|Samsung Guides to Record Q2 Profit on AI-Memory Demand — But Shares Fall]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
 - `2026-07-06` [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of|SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor appetite]]
 - `2026-07-05` [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet|SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite]]

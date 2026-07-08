@@ -4,8 +4,8 @@ title: AI Cardiac Platform Wins First-Ever ACC Global Digital Health Award
 date: '2026-03-30'
 source: AiThority
 url_original: null
-url_canonical: https://mednewspedia.com/what-does-cardiac-mean/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-03-31_082129_Inbox_Daily AI News Digest – March 31,
   2026.md
 content_hash: c3646447cb6d72e58a3a953266b3ee173379fb70db747c77be1f0df98bff380b

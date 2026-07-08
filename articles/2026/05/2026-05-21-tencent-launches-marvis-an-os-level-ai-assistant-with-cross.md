@@ -5,8 +5,8 @@ title: Tencent launches Marvis — an OS-level AI assistant with cross-device co
 date: '2026-05-21'
 source: AIbase Daily  · Tencent
 url_original: null
-url_canonical: https://www.tencent.com/en-us/about.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_071109_Inbox_Daily AI News Digest – May 21,
   2026.md
 content_hash: 7192160712ffa068ece36c7d3ac644defc327efa8533577ed0015fcf70d8ffb0

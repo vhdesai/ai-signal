@@ -5,7 +5,7 @@ date: '2026-05-25'
 source: WinBuzzer
 url_original: https://winbuzzer.com/2026/05/26/google-deepmind-says-alphaproof-nexus-is-still-not-agi-xcxwbn/
 url_canonical: https://winbuzzer.com/2026/05/26/google-deepmind-says-alphaproof-nexus-is-still-not-agi-xcxwbn/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 3581a6d5ab1c0ec4e5bddef9c190ab53ac391ee7dbad17f7f21170b3c51cef7a

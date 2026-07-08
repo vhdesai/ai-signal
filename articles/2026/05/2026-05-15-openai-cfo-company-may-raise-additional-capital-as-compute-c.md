@@ -4,8 +4,8 @@ title: 'OpenAI CFO: Company May Raise Additional Capital as Compute Crunch Deepe
 date: '2026-05-15'
 source: Bloomberg
 url_original: null
-url_canonical: https://www.tradingview.com/news/reuters.com,2026:newsml_L4N41S09N:0-openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says-bloomberg-news/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: 4193f888bf36d2ffa8937179943ab212b289693f053a2c1a4365b51646be7ace

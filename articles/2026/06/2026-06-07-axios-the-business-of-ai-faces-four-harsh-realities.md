@@ -5,7 +5,7 @@ date: '2026-06-07'
 source: Axios
 url_original: https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom
 url_canonical: https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: 5dfaea3df05bac513933d3d5c8ad74c6804eff778267bc407eeabfbfd66f4c8c
 normalized_title_hash: d8f040cc45c66586

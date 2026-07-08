@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: MarkTechPost
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071126_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 522e2f5dee1ba3d57d59e6405690cea678c06761bf3ac47f1ba5af2f9734a9d5

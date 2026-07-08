@@ -5,8 +5,8 @@ title: DeepSeek Finalizing $4B Raise at $50B Valuation, Backed by China's State 
 date: '2026-05-16'
 source: 📰 Tech Times
 url_original: null
-url_canonical: https://techfundingnews.com/deepseek-raises-7-4b-at-50b-valuation-in-first-ever-external-funding-round/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 2fff2713f67eb41357464e5004616e8ed7b0aa976219f97a31d7cb3e93435c48

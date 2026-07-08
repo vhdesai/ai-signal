@@ -5,7 +5,7 @@ date: '2026-06-04'
 source: MIT News
 url_original: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
 url_canonical: https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: b33ca2dd5d33892260bca5d68e31e1e66087ed7abf1c2e54fbf6e769442073a0
@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
+- 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 - 2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 - 2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 embedding_id: 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 event_name: ''
 ---
@@ -36,5 +36,5 @@ NSF renewed funding for MIT's IAIFI, raising annual support to ~$4.98M and addin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]] · [[2026-05-28-mit-to-establish-regional-quantum-hub-with-25m-massachusetts]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-20-purdue-s-anvil-supercomputer-upgraded-with-nsf-nairr-ai-data]]
 <!-- graph:end -->

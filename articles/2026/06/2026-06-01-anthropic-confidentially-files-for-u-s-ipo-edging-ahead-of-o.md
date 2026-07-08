@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html
 url_canonical: https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-02_061615_Daily-AI-News-Digest.md
 content_hash: d9d64bc40231f64814e4bed00c5a95f5320623f609a77db0f3defae200211d2d
 normalized_title_hash: 1c652d26e3f0ed60

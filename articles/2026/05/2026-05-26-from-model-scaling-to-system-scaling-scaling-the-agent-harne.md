@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-20-scaling-laws-for-embodied-ai
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
-- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 embedding_id: 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Argues — with empirical scaling curves — that the next frontier gains will c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]]
 <!-- graph:end -->

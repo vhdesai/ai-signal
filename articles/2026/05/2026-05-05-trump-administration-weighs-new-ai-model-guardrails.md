@@ -4,8 +4,8 @@ title: Trump administration weighs new AI model guardrails
 date: '2026-05-05'
 source: The Information AM
 url_original: null
-url_canonical: https://www.whitehouse.gov/administration/donald-j-trump/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-05_080938_Inbox_Daily AI News Digest –– May 5,
   2026.md
 content_hash: 5aa6b602f20ce74ba3c88415f47228eb9a1153ddda7f2b5f33a2b42179b49db8

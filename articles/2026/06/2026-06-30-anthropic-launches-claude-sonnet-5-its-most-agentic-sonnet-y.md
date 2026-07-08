@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a
 - 2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
@@ -37,5 +38,5 @@ Anthropic unveiled Claude Sonnet 5 on June 30, calling it its most agentic Sonne
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
+**Related:** [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
 <!-- graph:end -->

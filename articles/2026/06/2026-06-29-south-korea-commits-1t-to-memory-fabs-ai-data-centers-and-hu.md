@@ -5,7 +5,7 @@ date: '2026-06-29'
 source: Ars Technica
 url_original: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
 url_canonical: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: fa9053f1a043c552980323b77026a908f3e0f0d5b098f564458bc5afacb58df3

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory
+- 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 - 2026-04-02-research-breakthroughs
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 embedding_id: 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nature Materials published a comprehensive review article on memristor-based ana
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-research-breakthroughs]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
+**Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]]
 <!-- graph:end -->

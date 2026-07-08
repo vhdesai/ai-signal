@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: MarkTechPost
 url_original: https://hai.stanford.edu/ai-index/2026-ai-index-report
 url_canonical: https://hai.stanford.edu/ai-index/2026-ai-index-report
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 83d825044435f1b0748199ec32f8788051fe4c50d926a444e5c3e1c0f7a271bd
@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
-- 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 embedding_id: 2026-05-23-nous-research-releases-contrastive-neuron-attribution-for-ll
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nous Research published Contrastive Neuron Attribution (CNA), a method that iden
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
+**Related:** [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]]
 <!-- graph:end -->

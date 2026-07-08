@@ -5,7 +5,7 @@ date: '2026-05-29'
 source: 9to5Mac
 url_original: https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/
 url_canonical: https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163748_Daily-AI-News-Digest.md
 content_hash: 853719101d9be385cb6cd496cb57d890670f7ea0757d7cb1f9552db1944fa574
 normalized_title_hash: ef96f2d6e8ecaac5

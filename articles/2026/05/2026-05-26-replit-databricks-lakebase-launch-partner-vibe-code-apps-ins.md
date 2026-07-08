@@ -6,7 +6,7 @@ date: '2026-05-26'
 source: Replit Partners
 url_original: https://replit.com/partners/databricks
 url_canonical: https://replit.com/partners/databricks
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 2f9a93121ce3d95c5fa7f3e97333ec789462b1f41183470c906d5f93a3576338

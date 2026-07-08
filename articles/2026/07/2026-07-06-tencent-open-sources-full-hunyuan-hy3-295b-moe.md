@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Tencent Hunyuan
 url_original: https://github.com/Tencent-Hunyuan/Hy3
 url_canonical: https://github.com/Tencent-Hunyuan/Hy3
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: d639f67d2c3939152dd1695a95d4fcd0d6e3ea50cb491a2eb5578a6628601610
 normalized_title_hash: 0ae2688bd326d9f4
@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
+- 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
 - 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-- 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
-- 2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including
 embedding_id: 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Following its April preview, Tencent released the full Hunyuan Hy3 — a 295B-pa
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including]]
+**Related:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
 <!-- graph:end -->

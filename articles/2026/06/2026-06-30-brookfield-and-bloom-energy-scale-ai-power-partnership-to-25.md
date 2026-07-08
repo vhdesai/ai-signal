@@ -5,7 +5,7 @@ date: '2026-06-30'
 source: Business Wire
 url_original: https://finance.yahoo.com/technology/ai/articles/brookfield-bloom-energy-expand-ai-200500617.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/brookfield-bloom-energy-expand-ai-200500617.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-01_062608_Inbox_Daily AI News Digest - July 1,
   2026.md
 content_hash: db6602ce8b12a517ca184e9d970e9d53b8789123962c5dcc4d075680f93b95e0

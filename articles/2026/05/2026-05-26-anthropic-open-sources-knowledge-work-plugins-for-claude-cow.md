@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: AIToolly
 url_original: https://www.marktechpost.com/
 url_canonical: https://www.marktechpost.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071231_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: 9a17f7afe899424291badaac313daf3059fd8809391bd4d0d8172b8459ec0c17
@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
+- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
-- 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
 embedding_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published an open-source repository of role-specific plugins that let 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]]
+**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

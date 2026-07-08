@@ -5,7 +5,7 @@ date: '2026-06-03'
 source: Tech Xplore
 url_original: https://techxplore.com/news/2026-06-chartnet-ai-boosting-smaller-commercial.html
 url_canonical: https://techxplore.com/news/2026-06-chartnet-ai-boosting-smaller-commercial.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
 content_hash: 32d6ea94f6690ee1ab10c45fc6f1a46d970689a1e81489083da60b17457245ba

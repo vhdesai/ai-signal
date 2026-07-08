@@ -6,7 +6,7 @@ date: '2026-05-25'
 source: Anthropic Newsroom
 url_original: https://www.anthropic.com/news
 url_canonical: https://www.anthropic.com/news
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
 content_hash: a158775523b60afb1067312d6a3024c2b6227cf410d35026d15c32e294a1ee85

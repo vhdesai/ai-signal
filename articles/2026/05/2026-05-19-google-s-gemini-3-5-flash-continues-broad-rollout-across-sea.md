@@ -5,8 +5,8 @@ title: Google's Gemini 3.5 Flash continues broad rollout across Search, Gemini a
 date: '2026-05-19'
 source: LLM-Stats / Google DeepMind
 url_original: null
-url_canonical: https://apps.apple.com/us/app/google/id284815942
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-24_070444_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: d4c606e165304df87a307f92db4d9df3778cb1c0016078cc87f112624bd01132

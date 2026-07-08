@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: Google DeepMind
 url_original: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
 url_canonical: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: ac221c55298b6934e3207f62fa1a78a6bebf006c5a4428bc9630cb9f609bb329

@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: Fortune
 url_original: https://finance.yahoo.com/economy/policy/articles/ai-2-2-trillion-deficit-185524020.html
 url_canonical: https://finance.yahoo.com/economy/policy/articles/ai-2-2-trillion-deficit-185524020.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_060836_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: a0bbf5149d61804d8152e19f7ea2e408061fe4f5c01942cd0ad768d69a8ac125

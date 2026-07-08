@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: Databricks Release Notes
 url_original: https://docs.databricks.com/gcp/en/release-notes/product/2026/may
 url_canonical: https://docs.databricks.com/gcp/en/release-notes/product/2026/may
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 5b9d2aea36bf7ba5c38d26cb85b0746b2ee90db2668277a2501d2c71901263d7

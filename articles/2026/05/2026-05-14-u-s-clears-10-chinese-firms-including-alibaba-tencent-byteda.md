@@ -5,8 +5,8 @@ title: U.S. Clears ~10 Chinese Firms — Including Alibaba, Tencent, ByteDance, 
 date: '2026-05-14'
 source: Reuters via U.S. News & World Report
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/14/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-14_081111_Inbox_Daily AI News Digest –– May 14,
   2026.md
 content_hash: 5012d129c4c3eab337fffad997138b265205272afecc018cb2db6277c8831c48

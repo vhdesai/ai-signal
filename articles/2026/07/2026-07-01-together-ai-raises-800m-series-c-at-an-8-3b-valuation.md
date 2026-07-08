@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: Yahoo Finance
 url_original: https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-180132872.html
 url_canonical: https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-180132872.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: f90d8c36ef4414d19d08d88359d6875758fc1944a227c7afc813ce7cbfadfb50

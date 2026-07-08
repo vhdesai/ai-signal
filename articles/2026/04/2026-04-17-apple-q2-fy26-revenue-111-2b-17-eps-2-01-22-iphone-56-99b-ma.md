@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
+- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
+- 2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c
+- 2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026
 embedding_id: 2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma
 event_name: ''
 ---
@@ -42,5 +42,5 @@ event_name: ''
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]]
+**Related:** [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c]] · [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]]
 <!-- graph:end -->

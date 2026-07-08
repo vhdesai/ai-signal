@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: UPI
 url_original: https://www.upi.com/Top_News/World-News/2026/06/10/taiwan-ai-chip-export-controls-on-china/1771781134484/
 url_canonical: https://www.upi.com/Top_News/World-News/2026/06/10/taiwan-ai-chip-export-controls-on-china/1771781134484/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-11_064809_Final-Daily-AI-News-Digest.md
 content_hash: 2f76f7ba1dcb773642ad9465b8e94a20566850b7900137c2879f7fa627904f4a
 normalized_title_hash: 712fb231276ace13

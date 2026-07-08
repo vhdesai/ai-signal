@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: United Nations
 url_original: https://www.un.org/en/delegate-delegate-gva-delegate-nyc/inaugural-global-dialogue-ai-governance-convenes-geneva
 url_canonical: https://www.un.org/en/delegate-delegate-gva-delegate-nyc/inaugural-global-dialogue-ai-governance-convenes-geneva
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: f7e7a2b5416e0498e9592513786738b78683873099c0d751a360a7685146d760
 normalized_title_hash: 80880140564a0dba

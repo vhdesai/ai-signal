@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 6c48e2b241210cb3054d9dd69f4a09a2a8ac917e9e31db4f6c189bad77520991
+content_hash: 0ca25fc9f0d9346880d13173908fb416ab033d573659b55db7cd457e544f9cf1
 normalized_title_hash: 5d95f146e020e9bd
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups
 
-Some individual offers exceeding $3 million — for example at Y Combinator.
+The Decoder reported that OpenAI, Anthropic, and major cloud providers are competing to lock in startups with free compute credits, with some individual offers exceeding $3 million — for example at Y Combinator. The piece frames the giveaways as an escalating ecosystem land-grab to win the next generation of AI-native companies. It signals how far frontier labs will go to secure downstream demand. Read the coverage →https://the-decoder.com/
 
 <!-- graph:start -->
 ## Connections

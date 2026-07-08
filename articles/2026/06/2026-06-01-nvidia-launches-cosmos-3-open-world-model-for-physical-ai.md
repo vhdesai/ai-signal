@@ -5,7 +5,7 @@ date: '2026-06-01'
 source: NVIDIA Newsroom; NVIDIA Blog; Axios
 url_original: https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model
 url_canonical: https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-01_060025_Daily-AI-News-Digest.md
 content_hash: 4b3ca10ee231df2d15d212ededcf27b776d5124ded6fcf5ea9ddcf31ac173028
 normalized_title_hash: ace12754a98d8466
@@ -21,8 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 embedding_id: 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Nvidia released Cosmos 3, an open frontier foundation model designed for physica
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]]
+**Related:** [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

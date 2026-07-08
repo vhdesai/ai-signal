@@ -4,8 +4,8 @@ title: IBM Launches Red Hat AI Inference Server and OpenShift AI Virtualization
 date: '2026-05-14'
 source: Yahoo Finance / IBM Newsroom
 url_original: null
-url_canonical: https://finance.yahoo.com/quote/IBM/?fr=sycsrp_catchall
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-15_071134_Inbox_Daily AI News Digest – May 15,
   2026.md
 content_hash: ba21ec8d8e50045ef00746f43c8c050100c824ece473ba067f928693ec669514
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 - 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
+- 2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
-- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 embedding_id: 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 event_name: ''
 ---
@@ -41,5 +41,5 @@ IBM's Red Hat division launched two enterprise AI infrastructure products: the R
 
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
+**Related:** [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]]
 <!-- graph:end -->

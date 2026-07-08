@@ -5,7 +5,7 @@ date: '2026-06-21'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
 url_canonical: https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-22_085442_Final-Daily-AI-News-Digest.md
 content_hash: e500e2b3e052b78d381e570f4fe0c63f5d3bfe18dbdf82210c6616e2993bd968
 normalized_title_hash: 905253ee997630f7

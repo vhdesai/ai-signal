@@ -5,7 +5,7 @@ date: '2026-06-10'
 source: OpenAI
 url_original: https://openai.com/index/openai-on-oracle-cloud/
 url_canonical: https://openai.com/index/openai-on-oracle-cloud/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-11_064809_Final-Daily-AI-News-Digest.md
 content_hash: d417433a1476f3cbb5fef103af34d6401defa3963e9a488f846236e44fbcc6e4
 normalized_title_hash: 9851007723d5d1c2

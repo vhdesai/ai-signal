@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Electronic Design
 url_original: https://www.electronicdesign.com/technologies/embedded/news/55387045/electronic-design-onsemi-to-buy-synaptics-in-7-billion-deal
 url_canonical: https://www.electronicdesign.com/technologies/embedded/news/55387045/electronic-design-onsemi-to-buy-synaptics-in-7-billion-deal
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
 content_hash: 6a622ca9d18b2dd4159d913867d8fb37db4b47fe378dbba04abe5533c9fc2ef4
@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
+- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
+- 2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
-- 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
-- 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 embedding_id: 2026-06-26-onsemi-to-acquire-synaptics-in-7b-all-stock-deal-to-push-int
 event_name: ''
 ---
@@ -36,5 +36,5 @@ onsemi agreed to buy Synaptics in a roughly $7 billion all-stock transaction, ad
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
+**Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]]
 <!-- graph:end -->

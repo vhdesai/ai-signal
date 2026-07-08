@@ -5,7 +5,7 @@ date: '2026-06-02'
 source: CNBC; Tech Times; Mashable
 url_original: https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html
 url_canonical: https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-03_083329_Inbox_Daily AI News Digest – June 3,
   2026 (Updated).md
 content_hash: 9d3a3688d2800ba0b3d5cd2d45ecb7f6c4172d10ccb7e95cc8bddef44afeda96
@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 - 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 - event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
-- 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 embedding_id: 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft unveiled new first-party models—MAI-Code-1-Flash and MAI-Thinking-1�
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]]
+**Related:** [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]]
 <!-- graph:end -->

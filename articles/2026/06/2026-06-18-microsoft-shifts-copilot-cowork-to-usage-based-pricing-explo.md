@@ -5,7 +5,7 @@ date: '2026-06-18'
 source: Axios; Fast Company
 url_original: https://www.fastcompany.com/91550785/charles-lamanna-is-moving-microsoft-copilot-beyond-chat
 url_canonical: https://www.fastcompany.com/91550785/charles-lamanna-is-moving-microsoft-copilot-beyond-chat
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: a2f2f75e57e514939e060d3902bd44be5fecf05e4d5c5b73f948a340929d31f8
 normalized_title_hash: 7ee116cf10f8dd66

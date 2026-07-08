@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
 - 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
+- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 - 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 embedding_id: 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meituan open-sourced LongCat-2.0, described as an industry-first trillion-parame
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]]
 <!-- graph:end -->

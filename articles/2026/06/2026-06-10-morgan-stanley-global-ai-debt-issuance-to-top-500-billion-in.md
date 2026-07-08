@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 - 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
 embedding_id: 2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Morgan Stanley projects global AI-related debt issuance will exceed $500 billion
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]]
 <!-- graph:end -->

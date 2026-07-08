@@ -5,7 +5,7 @@ date: '2026-05-23'
 source: Invezz / Financial Times
 url_original: https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-stock-133300896.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-stock-133300896.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-24_070902_Inbox_Daily AI News Digest – May 24,
   2026.md
 content_hash: 6387f127955b67d2a761191ce802622ed4194a20082b0b2782fd06a01508c22e

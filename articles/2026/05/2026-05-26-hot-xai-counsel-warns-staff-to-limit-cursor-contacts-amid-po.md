@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: xAI / The Next Web
 url_original: https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo
 url_canonical: https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: c722e006d269dd7dd58058c63da5cb2ac023df89bf08758a1129ec732320f1a9

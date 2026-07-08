@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 - 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
+- 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-- 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 embedding_id: 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Georgia Tech AI Tutor "TokenSmith" Outperforms Human TAs in Randomized Controlle
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]]
+**Related:** [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 144
+member_count: 146
 ---
 
 # Apple
 
-> Auto-generated entity hub. 144 connected article(s).
+> Auto-generated entity hub. 146 connected article(s).
 
+- `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2|Broadcom expands work for Apple, supplying products through 2031]]

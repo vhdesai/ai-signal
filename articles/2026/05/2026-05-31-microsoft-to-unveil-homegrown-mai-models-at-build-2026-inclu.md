@@ -6,7 +6,7 @@ date: '2026-05-31'
 source: BuildFastWithAI (citing Reuters, The Information)*
 url_original: https://www.buildfastwithai.com/blogs/ai-news-today-may-31-2026
 url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-31-2026
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-31_163845_Daily-AI-News-Digest.md
 content_hash: c49c6f7e298e62d84c7c76e1dc53c864c880a9571acad82865c9c03fca6dbe76
 normalized_title_hash: 9f009653d2fb0f8e
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 - 2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
+- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 - 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
 embedding_id: 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reuters and The Information reported that Microsoft will debut its in-house MAI 
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]]
+**Related:** [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-06-02-microsoft-debuts-seven-in-house-mai-models-breaking-its-depe]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]]
 <!-- graph:end -->

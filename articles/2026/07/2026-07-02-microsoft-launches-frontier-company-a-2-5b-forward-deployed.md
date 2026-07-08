@@ -6,7 +6,7 @@ date: '2026-07-02'
 source: The Official Microsoft Blog
 url_original: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
 url_canonical: https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: dad8b6ba365d89f834be7c5638133174dbd81340607b39a1845606eaf8d0a30a

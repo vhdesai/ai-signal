@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 33
+member_count: 38
 ---
 
 # Intel
 
-> Auto-generated entity hub. 33 connected article(s).
+> Auto-generated entity hub. 38 connected article(s).
 
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it|SambaNova raises $1B at an $11B valuation as JPMorgan names it an inference partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor|SambaNova raises $1B at an $11B valuation and is named a JPMorgan inference partner]]
+- `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc|AI-Chip Maker SambaNova Raises $1B at $11B Valuation; JPMorganChase Named Inference Partner]]
+- `2026-07-06` [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo|Intel-backed edge-AI chipmaker Syntiant files for IPO]]
 - `2026-06-26` [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw|OpenAI reveals "Jalapeño" inference chip as Big Tech hedges away from Nvidia]]
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]

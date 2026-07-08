@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: SecurityWeek
 url_original: https://www.securityweek.com/
 url_canonical: https://www.securityweek.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_081053_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: a3549acf229cfcbc89bd27e6f75d76da27f7928b56f3bc695a209be5ffeea20b

@@ -7,8 +7,8 @@ title: Opus 4.7 reached general availability with a 1M-token context, GPQA 94.2,
 date: '2026-04-24'
 source: DeepSeek V4 Pro & V4 Flash released as MIT-licensed open weights — DeepSeek
 url_original: null
-url_canonical: https://www.anthropic.com/claude/opus
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-04_080952_Inbox_Daily AI News Digest – May 4, 2026.md
 content_hash: 05fa12869ac037bcec466f5007d45bceb59875cabf1f6b74f88a3d86a9287457
 normalized_title_hash: 007e955f63fd8296

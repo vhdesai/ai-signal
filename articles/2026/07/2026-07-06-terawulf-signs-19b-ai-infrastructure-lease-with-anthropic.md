@@ -5,7 +5,7 @@ date: '2026-07-06'
 source: Business Insider
 url_original: https://markets.businessinsider.com/news/stocks/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack-1036299373
 url_canonical: https://markets.businessinsider.com/news/stocks/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack-1036299373
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-06_084400_Final-Daily-AI-News-Digest.md
 content_hash: 0616e0f34add8be78c57b482deff39b79aa5993cee47080438d57671c677273b
 normalized_title_hash: 1d5c92b7cb4be5cd
@@ -18,10 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
+dedupe_status: duplicate
+canonical_article_id: 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
+related_article_ids: []
 embedding_id: 2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic
 event_name: ''
 ---
@@ -35,5 +34,5 @@ TeraWulf (Nasdaq: WULF) announced a long-term lease with Anthropic at its "Justi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]]
+**Canonical:** [[2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus]]
 <!-- graph:end -->

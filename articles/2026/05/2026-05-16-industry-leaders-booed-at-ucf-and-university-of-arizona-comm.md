@@ -5,8 +5,8 @@ title: Industry leaders booed at UCF and University of Arizona commencements ove
 date: '2026-05-16'
 source: NBC News | May 8, 2026 · Florida Today
 url_original: null
-url_canonical: https://www.today.com/video/ucf-commencement-speaker-s-ai-remarks-draw-boos-263230533620
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-18_073407_Inbox_Daily AI News Digest –– May 18,
   2026.md
 content_hash: aa5c3625e489ba38f868e7e55f58b5669a69bb1295143a2c0da0653977e3f6b9

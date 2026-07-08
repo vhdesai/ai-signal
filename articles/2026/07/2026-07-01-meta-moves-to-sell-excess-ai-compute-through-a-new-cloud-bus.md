@@ -5,7 +5,7 @@ date: '2026-07-01'
 source: CNBC
 url_original: https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html
 url_canonical: https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3,
   2026.md
 content_hash: e3244560fefab604311d0edae89645d69f2539f4635746b10e39a46769588a1d

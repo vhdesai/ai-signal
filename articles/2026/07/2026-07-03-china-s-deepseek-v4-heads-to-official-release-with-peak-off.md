@@ -6,7 +6,7 @@ date: '2026-07-03'
 source: Edgen
 url_original: https://www.edgen.tech/news/post/tencent-cloud-to-launch-deepseek-v4-in-july-with-peak-valley-pricing
 url_canonical: https://www.edgen.tech/news/post/tencent-cloud-to-launch-deepseek-v4-in-july-with-peak-valley-pricing
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
 content_hash: d1f046f7b333681f9354c9ca54f3d7c26048ef11a097186fd9a25e9a93f9b653

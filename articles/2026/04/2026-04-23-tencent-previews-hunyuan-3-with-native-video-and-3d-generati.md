@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for
 - 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe
+- 2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache
 - 2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe
 - 2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4
-- 2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
 embedding_id: 2026-04-23-tencent-previews-hunyuan-3-with-native-video-and-3d-generati
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tencent previewed Hunyuan 3 (branded Hy3), emphasizing unified text, image, vide
 
 **Entities:** [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]] · [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]]
+**Related:** [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe]] · [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache]] · [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe]] · [[2026-05-19-tencent-commercializes-hy3-and-deepseek-v4-pro-shares-jump-4]]
 <!-- graph:end -->

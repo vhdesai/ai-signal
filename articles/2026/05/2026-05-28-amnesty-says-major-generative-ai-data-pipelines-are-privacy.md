@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 - 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object
 embedding_id: 2026-05-28-amnesty-says-major-generative-ai-data-pipelines-are-privacy
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amnesty International argued that enormous data pipelines powering major generat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]]
 <!-- graph:end -->

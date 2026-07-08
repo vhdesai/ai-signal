@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 17
+member_count: 19
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 17 connected article(s).
+> Auto-generated entity hub. 19 connected article(s).
 
+- `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
+- `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
 - `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity|AI Regulation Fractures on Three Fronts: CNN Sues Perplexity, OpenAI Aligns to EU Rules, DOJ Enters Colorado Fight]]

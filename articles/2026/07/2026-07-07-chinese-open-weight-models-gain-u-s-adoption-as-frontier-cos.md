@@ -6,34 +6,38 @@ source: CNBC
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
+digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 1734e31a19f578cd8364e5a8b9317abda25b10f59017ebfb492d7da8a205b718
+content_hash: 98d9db8026cf080a981092723d88605f089649ca9285594a27785131dc78c0a1
 normalized_title_hash: 80f6c3af4353f204
 canonical_url_hash: ''
 tags: []
-entities: []
+entities:
+- Anthropic
+- DeepSeek
+- OpenAI
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
+- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 embedding_id: 2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos
 event_name: ''
 ---
 
 # Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise
 
-U.S. companies are increasingly turning to Chinese open-weight models, with Chinese models regularly surpassing 30% of usage on the OpenRouter routing platform.
+U.S. companies are increasingly routing production workloads to Chinese-built models such as DeepSeek and Z.ai, which now rival frontier U.S. systems on capability while costing materially less. Chinese models regularly surpass 30% of usage on the OpenRouter routing platform. The shift is driven by rising token prices at U.S. labs — with real implications for pricing power and data-governance posture. Read at CNBC →https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]]
 <!-- graph:end -->

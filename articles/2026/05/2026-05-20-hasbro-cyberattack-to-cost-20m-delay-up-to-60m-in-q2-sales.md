@@ -4,8 +4,8 @@ title: Hasbro Cyberattack to Cost $20M, Delay Up to $60M in Q2 Sales
 date: '2026-05-20'
 source: Yahoo Finance
 url_original: null
-url_canonical: https://pbn.com/cyberattack-to-cost-hasbro-20m-delay-up-to-60m-in-q2-revenue/
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-21_081619_Inbox_Daily AI News Digest –– May 21,
   2026.md
 content_hash: 4f76aa8b3200ffa1eaeb85d5292b870ab6d82395a6d9c7eca7070b8f179c7fa8

@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: UPI
 url_original: https://www.upi.com/Top_News/World-News/2026/06/24/sk-hynix-nasdaq-adr/2641782347675/
 url_canonical: https://www.upi.com/Top_News/World-News/2026/06/24/sk-hynix-nasdaq-adr/2641782347675/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: d8ea7df70afb6fb19734a5901ddb9ff3cbaff222831084bdaa6c06311d31be42

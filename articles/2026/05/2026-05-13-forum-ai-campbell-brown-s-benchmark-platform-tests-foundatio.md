@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/
 url_canonical: https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: 00cbb9e43f689ac5414497d0c6a96b5a219b32facd9fdaa590fa8075fd061fef

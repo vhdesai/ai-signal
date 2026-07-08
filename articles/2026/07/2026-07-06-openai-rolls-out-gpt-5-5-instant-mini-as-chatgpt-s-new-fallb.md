@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: c414fe567e99bfc00b8e405672ab66c4dd1935deb85ab02c35d06dfe9768e3b8
+content_hash: 8c5d5f5f92ccb076203aba28c2fc90fb3635778a27e03c684df371fb0f933ce9
 normalized_title_hash: dfc0a204e14b71aa
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # OpenAI Rolls Out GPT-5.5 Instant Mini as ChatGPT's New Fallback Model
 
-OpenAI began rolling out GPT-5.5 Instant Mini as ChatGPT's new fallback model, replacing GPT-5.3 Instant Mini.
+OpenAI began rolling out GPT-5.5 Instant Mini as ChatGPT's new fallback model, replacing GPT-5.3 Instant Mini for users who exceed GPT-5.5 Instant/Auto rate limits. It won't appear in the model picker and does not affect the API or Codex, but OpenAI cites better intent tracking, tone calibration, personalization, and fewer factual errors than the prior fallback. The change quietly upgrades the default experience for high-volume ChatGPT users. View the release notes →https://releasebot.io/updates/openai
 
 <!-- graph:start -->
 ## Connections

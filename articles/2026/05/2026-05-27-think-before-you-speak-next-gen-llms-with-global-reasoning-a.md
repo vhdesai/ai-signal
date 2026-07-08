@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
+- 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about
-- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 embedding_id: 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Weinberger's keynote argued that next-generation LLMs must incorporate global-re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]]
 <!-- graph:end -->

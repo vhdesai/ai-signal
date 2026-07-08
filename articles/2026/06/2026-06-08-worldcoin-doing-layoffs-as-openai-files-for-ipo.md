@@ -5,7 +5,7 @@ date: '2026-06-08'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/
 url_canonical: https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-09_070112_Final-Daily-AI-News-Digest.md
 content_hash: ab09d8330efddbd5b981e45ccbbbcceca51ddbdb276f95f8b8e5b8c2760f31d6
 normalized_title_hash: 97a0fc28c5633d65

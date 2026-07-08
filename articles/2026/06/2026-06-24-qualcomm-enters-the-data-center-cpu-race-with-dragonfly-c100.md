@@ -5,7 +5,7 @@ date: '2026-06-24'
 source: CNBC
 url_original: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html
 url_canonical: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
 content_hash: 9409b95ea0b5413e1b11a732bc2e0ed5e1df6a43dfb818b97760c4bc3a572f2e

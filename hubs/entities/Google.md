@@ -1,16 +1,24 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 534
+member_count: 542
 ---
 
 # Google
 
-> Auto-generated entity hub. 534 connected article(s).
+> Auto-generated entity hub. 542 connected article(s).
 
+- `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
+- `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-07` [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest|The power of collaboration: How we can reduce traffic congestion]]
+- `2026-07-07` [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce|Google Research: Using Collaboration and Algorithms to Reduce Traffic Congestion]]
+- `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
 - `2026-07-06` [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of|SK Hynix's record ~$29B Nasdaq listing is this week's test of AI investor appetite]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
+- `2026-07-06` [[2026-07-06-leak-google-s-gemini-3-5-pro-said-to-bring-2m-token-context|Leak: Google's Gemini 3.5 Pro said to bring 2M-token context and "Deep Think"]]
+- `2026-07-06` [[2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o|If you use Google, you're training its AI. Here's how to opt out.]]
 - `2026-07-06` [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc|Gemini 3.5 Pro Specs Surface Ahead of Reported July 17 Launch]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-05` [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet|SK Hynix's Record ~$29B Nasdaq Listing Tests AI Investor Appetite]]

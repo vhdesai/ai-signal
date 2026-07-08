@@ -5,7 +5,7 @@ date: '2026-06-26'
 source: Yahoo News
 url_original: https://www.yahoo.com/news/politics/articles/trump-administration-asks-openai-limit-124056716.html
 url_canonical: https://www.yahoo.com/news/politics/articles/trump-administration-asks-openai-limit-124056716.html
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-06-26_063633_Inbox_Daily AI News Digest - June 26,
   2026.md
 content_hash: c74c12fcce7c882028a97aa46c543d437339b5fff34f542810adecc929223345
@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
 - 2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome
+- 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
-- 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
 embedding_id: 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI will initially release its next model, GPT-5.6, to roughly 20 government-
 
 **Entities:** [[Amazon]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]]
+**Related:** [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
 <!-- graph:end -->

@@ -4,8 +4,8 @@ title: Trump Disclosed $247K–$630K Palantir Purchase in Q1 Before Truth Social
 date: '2026-05-15'
 source: 📰 CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_071157_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 130ae57046eecb0c706a7892c4218d8a35b620ec59527965e0673f7a49c38286

@@ -5,7 +5,7 @@ date: '2026-05-18'
 source: The Motley Fool
 url_original: https://www.fool.com/investing/2026/05/18/nvidias-next-earnings-report-on-may-20-could-send/
 url_canonical: https://www.fool.com/investing/2026/05/18/nvidias-next-earnings-report-on-may-20-could-send/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
 content_hash: 87594a2230c4f08cfca447d8fae0084bca56e772bc94aab4bfbe3232975db208

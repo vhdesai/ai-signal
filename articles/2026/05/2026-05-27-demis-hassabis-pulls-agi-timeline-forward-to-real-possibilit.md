@@ -5,7 +5,7 @@ date: '2026-05-27'
 source: Axios
 url_original: https://aiweekly.co/
 url_canonical: https://aiweekly.co/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
 content_hash: 1223322121af507100a4639ea74fa10443f310b77dbc448d6b0ab1c8d9e7b79d

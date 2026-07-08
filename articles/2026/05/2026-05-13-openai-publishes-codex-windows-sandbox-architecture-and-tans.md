@@ -6,7 +6,7 @@ date: '2026-05-13'
 source: OpenAI Engineering Blog
 url_original: https://openai.com/news/
 url_canonical: https://openai.com/news/
-url_status: broken
+url_status: found
 digest_source: digests\raw\2026-05-14_071137_Inbox_Daily AI News Digest – May 14,
   2026.md
 content_hash: e81a788310be2df6303059f33519232e32954f2b70ac21d65d28c825802ec863

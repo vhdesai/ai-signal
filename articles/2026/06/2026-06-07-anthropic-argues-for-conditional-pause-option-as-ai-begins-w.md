@@ -6,7 +6,7 @@ date: '2026-06-07'
 source: Forbes
 url_original: https://www.forbes.com/sites/lanceeliot/2026/06/07/anthropic-declares-that-the-next-big-step-for-humans-and-ai-is-ai-that-builds-itself-via-recursive-self-improvement/
 url_canonical: https://www.forbes.com/sites/lanceeliot/2026/06/07/anthropic-declares-that-the-next-big-step-for-humans-and-ai-is-ai-that-builds-itself-via-recursive-self-improvement/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-07_070026_Final-Daily-AI-News-Digest.md
 content_hash: 8df8da34536b65912d89f26e7cf7629d9510997def4e7330b77c8fc4cc5cc50b
 normalized_title_hash: 2bceaff73ad612d0

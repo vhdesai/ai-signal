@@ -1,0 +1,30 @@
+{
+  "run_id": "20260708T153249+0000-d80c9b",
+  "started_at": "2026-07-08T15:32:49+00:00",
+  "finished_at": "2026-07-08T15:32:55+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 393,
+      "digests_changed": 16,
+      "changed": [
+        "news\\2026-07-07_060820_Inbox_Daily AI News Digest - July 7, 2026.md",
+        "news\\2026-07-07_060843_Inbox_Daily AI News Digest - July 7, 2026.md",
+        "news\\2026-07-07_061720_Inbox_Daily AI News Digest - July 7, 2026.md",
+        "news\\2026-07-07_061919_Inbox_Daily AI News Digest - July 7, 2026.md",
+        "news\\2026-07-07_062455_Inbox_Daily AI News Digest - July 7, 2026.md",
+        "news\\2026-07-07_083408_Inbox_Daily AI News Digest - July 7, 2026.md",
+        "news\\2026-07-07_180759_Inbox_Your Daily AI News Digest.md",
+        "news\\2026-07-08_000000_Publication-Sources.md",
+        "news\\2026-07-08_060736_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_061307_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_062121_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_063010_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_064841_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_070221_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_074231_Inbox_Daily AI News Digest - July 8, 2026.md",
+        "news\\2026-07-08_074536_Inbox_Daily AI News Digest - July 8, 2026.md"
+      ]
+    }
+  }
+}

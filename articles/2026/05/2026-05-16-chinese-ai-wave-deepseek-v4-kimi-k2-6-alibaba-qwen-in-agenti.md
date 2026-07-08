@@ -5,8 +5,8 @@ title: 'Chinese AI Wave: DeepSeek V4, Kimi K2.6, Alibaba Qwen in Agentic Commerc
 date: '2026-05-16'
 source: AIToolsRecap / CNBC
 url_original: null
-url_canonical: https://www.cnbc.com/2026/01/28/chinese-tech-companies-accelerate-ai-model-rollouts-us-rivals-deepseek-moonshot-kimi.html
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: 07683ffabbb5526a9723e49cabbd2303de597dbd1a251a2532b7643e56b7e5ca

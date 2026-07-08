@@ -5,7 +5,7 @@ date: '2026-05-20'
 source: BBC
 url_original: https://www.bbc.com/
 url_canonical: https://www.bbc.com/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-20_081053_Inbox_Daily AI News Digest –– May 20,
   2026.md
 content_hash: 5586d9274139931e0537d8ca50ab4047a4a3d12b16a2e7bc19172066fe1f4eea

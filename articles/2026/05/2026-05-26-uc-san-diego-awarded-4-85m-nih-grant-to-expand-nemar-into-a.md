@@ -5,7 +5,7 @@ date: '2026-05-26'
 source: UC San Diego Today
 url_original: https://today.ucsd.edu/story/uc-san-diego-awarded-4.85m-to-grow-nemar-into-hpc-hub-for-neuro-ai
 url_canonical: https://today.ucsd.edu/story/uc-san-diego-awarded-4.85m-to-grow-nemar-into-hpc-hub-for-neuro-ai
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-05-27_071601_Inbox_Daily AI News Digest – May 27,
   2026.md
 content_hash: 1ab8dc9c6c2fe88b7326fc66e7b8798132a022d89c9ef1ca08a3cf5f3240623b

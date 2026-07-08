@@ -6,7 +6,7 @@ date: '2026-06-28'
 source: Crypto Briefing
 url_original: https://cryptobriefing.com/grok-4-5-private-beta-spacex-tesla/
 url_canonical: https://cryptobriefing.com/grok-4-5-private-beta-spacex-tesla/
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
 content_hash: 61b5cbe281df50c4023a8cbe94a18da28604cd608b95e675127566d716e112a3
@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 - 2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex
+- 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
-- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
+- 2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls
 embedding_id: 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
 event_name: ''
 ---
@@ -40,5 +41,5 @@ xAI placed Grok 4.5 — a 1.5-trillion-parameter model built on its new V9 found
 
 **Entities:** [[Anthropic]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]]
+**Related:** [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-s-grok-4-5-enters-private-beta-at-tesla-and-spacex]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]]
 <!-- graph:end -->

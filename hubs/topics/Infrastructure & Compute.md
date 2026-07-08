@@ -1,20 +1,58 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 666
+member_count: 704
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 666 connected article(s).
+> Auto-generated topic hub. 704 connected article(s).
 
+- `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it|SambaNova raises $1B at an $11B valuation as JPMorgan names it an inference partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor|SambaNova raises $1B at an $11B valuation and is named a JPMorgan inference partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc|SambaNova Raises $1B at $11B Valuation; Named JPMorgan Inference Partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips|SambaNova Raises $1B at $11B Valuation for AI Inference Chips]]
+- `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc|AI-Chip Maker SambaNova Raises $1B at $11B Valuation; JPMorganChase Named Inference Partner]]
+- `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation|AI chip maker SambaNova raises $1B at $11B valuation]]
+- `2026-07-07` [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s|xAI officially rebrands as SpaceXAI, completing merger into SpaceX]]
+- `2026-07-07` [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c|Samsung posts record Q2 profit but shares fall as AI-capex concerns spook investors]]
+- `2026-07-07` [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de|Samsung guides to record Q2 operating profit on AI-memory demand — but shares fall]]
+- `2026-07-07` [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom|Samsung expects 1,800% operating profit leap on AI boom]]
+- `2026-07-07` [[2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s|Samsung Guides to Record Q2 Profit on AI-Memory Demand — But Shares Fall]]
+- `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]
 - `2026-07-07` [[2026-07-07-openai-and-anthropic-race-to-give-away-compute-credits-to-wi|OpenAI and Anthropic Race to Give Away Compute Credits to Win Startups]]
+- `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
+- `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
+- `2026-07-07` [[2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t|NVIDIA Frames Vera CPU as “Max Single-Threaded CPU at Scale”; Teases Next-Gen ‘Rigel’ Cores]]
+- `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house|Microsoft Begins Swapping OpenAI and Anthropic for In-House MAI Models]]
+- `2026-07-07` [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world|MIT: How Novice Coders Can Develop AI Programs for Real-World Applications]]
+- `2026-07-07` [[2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom|Liquid AI Open-Sources “Antidoom” to Eliminate Reasoning Doom Loops]]
 - `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
+- `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
+- `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
+- `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f|Chinese Open-Weight Models Gain U.S. Enterprise Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
+- `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
+- `2026-07-06` [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks|Wall Street says it's time to buy the dip on AI stocks]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
+- `2026-07-06` [[2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human|The 'first' AI-run ransomware attack still needed a human]]
+- `2026-07-06` [[2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus|TeraWulf announces Anthropic lease at Justified Data Campus]]
 - `2026-07-06` [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic|TeraWulf Signs ~$19B AI-Infrastructure Lease With Anthropic]]
+- `2026-07-06` [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio|Musk's xAI is renamed SpaceXAI following SpaceX's acquisition]]
+- `2026-07-06` [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo|Intel-backed edge-AI chipmaker Syntiant files for IPO]]
 - `2026-07-06` [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa|Hardware Slips and Governance Steps Up as Frontier Models Pause]]
+- `2026-07-06` [[2026-07-06-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-06` [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2|Broadcom expands work for Apple, supplying products through 2031]]
+- `2026-07-06` [[2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27|Apple Adds Siri Pace and Expressivity Controls in the iOS 27 Beta]]
+- `2026-07-06` [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a|Anthropic's Claude Sonnet 5 Becomes Generally Available on AWS]]
 - `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-05` [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets|Foxconn's Q2 revenue jumps ~40% on AI-server demand; June sets a record, full-year target raised]]

@@ -4,8 +4,8 @@ title: OpenAI Acquires Weights.gg Voice Cloning Startup
 date: '2026-05-16'
 source: The Decoder
 url_original: null
-url_canonical: https://letsdatascience.com/news/openai-acquires-weightsgg-voice-cloning-team-and-ip-7dc502ef
-url_status: repaired
+url_canonical: null
+url_status: missing
 digest_source: digests\raw\2026-05-16_070559_Inbox_Daily AI News Digest – May 16,
   2026.md
 content_hash: f108ed1f79314866e2e7f26310ab93343c3dd6da00e640449208455ee3874164
@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
-- 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 embedding_id: 2026-05-16-openai-acquires-weights-gg-voice-cloning-startup
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI has acquired Weights.gg, a small startup (~6 people) known for enabling c
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]]
+**Related:** [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]]
 <!-- graph:end -->

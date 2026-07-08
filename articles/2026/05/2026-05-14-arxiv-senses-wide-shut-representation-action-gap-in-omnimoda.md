@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
+- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 - 2026-05-20-scaling-laws-for-embodied-ai
-- 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 embedding_id: 2026-05-14-arxiv-senses-wide-shut-representation-action-gap-in-omnimoda
 event_name: ''
 ---
@@ -35,5 +35,5 @@ This paper introduces the "representation-action gap" as a systematic failure mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
+**Related:** [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-20-scaling-laws-for-embodied-ai]]
 <!-- graph:end -->

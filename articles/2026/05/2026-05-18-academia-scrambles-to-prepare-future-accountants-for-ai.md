@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
+- 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 embedding_id: 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Accounting programs at major US universities are rapidly rewriting curricula to 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
+**Related:** [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]]
 <!-- graph:end -->

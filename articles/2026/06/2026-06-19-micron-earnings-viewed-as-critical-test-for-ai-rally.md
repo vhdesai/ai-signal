@@ -5,7 +5,7 @@ date: '2026-06-19'
 source: Reuters / Yahoo Finance
 url_original: https://finance.yahoo.com/markets/stocks/articles/micron-earnings-seen-key-test-124011024.html
 url_canonical: https://finance.yahoo.com/markets/stocks/articles/micron-earnings-seen-key-test-124011024.html
-url_status: ok
+url_status: found
 digest_source: digests\raw\2026-06-19_070311_Final-Daily-AI-News-Digest.md
 content_hash: 8d88481462153a4ed700e7cfc4d537221e41580dcdb7645d8d89d6d3e26800f9
 normalized_title_hash: a38a2947690b6044

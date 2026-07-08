@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: e38c620973e192158251ac7dd3019b6ead055b1bfdda7f6a74052747aa14eaed
+content_hash: 1c92f09abdc6e5e7ba4372aace800098c202d2cf06dd7017dd6b6fcd0c7c16cf
 normalized_title_hash: c610ad8e67f1f2a1
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # UN's First Global Dialogue on AI Governance Convenes in Geneva
 
-The inaugural UN Global Dialogue on AI Governance convened July 6–7 in Geneva, bringing all 193 member states together with industry, academia, and civil society under a UN General Assembly mandate.
+The inaugural UN Global Dialogue on AI Governance convened July 6–7 in Geneva, bringing all 193 member states together with industry, academia, and civil society under a UN General Assembly mandate. The dialogue follows the first report of the UN's Independent International Scientific Panel on AI, which warned that AI capabilities are outpacing governance.
 
 <!-- graph:start -->
 ## Connections
