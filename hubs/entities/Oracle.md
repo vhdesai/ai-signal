@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 79
+member_count: 78
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 79 connected article(s).
+> Auto-generated entity hub. 78 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
@@ -69,7 +69,6 @@ member_count: 79
 - `2026-04-27` [[2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r|Microsoft & OpenAI End Exclusivity: Partnership Fundamentally Restructured as of April 28 Breaking]]
 - `2026-04-17` [[2026-04-17-dod-inked-deals-with-microsoft-aws-google-openai-nvidia-spac|DOD inked deals with Microsoft, AWS, Google, OpenAI, NVIDIA, SpaceX, Oracle, and Reflection AI to deploy AI on the highest classification tiers, including support for targeting and combat decision-making. Anthropic was left out after a public dispute over Pentagon-requested removal of guardrails on autonomous weapons and mass surveillance — a federal judge blocked the administration's "supply-chain risk" designation in March, but Anthropic still got cut from this round. Over 1.3M DOD personnel already use the unclassified GenAI.mil platform.]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes with Palantir's Maven Smart System and AIP government AI platform. Hedge fund manager Michael Burry disclosed a significant short position, citing overvaluation relative to increasing competition from foundation model providers entering the government AI space. Palantir CEO Alex Karp responded by doubling down on the company's "human-AI teaming" differentiation, while separate reports emerged that Maven was used in planning support for U.S. military operations involving Iran — reigniting ethical controversy.]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middle management, redirecting savings toward AI data center construction and GPU procurement as it races to compete with AWS, Azure, and Google Cloud. Separately, Cerebras Systems — maker of the wafer-scale WSE-3 chip and holder of a $10B compute contract with OpenAI — is targeting a Q2 2026 IPO at approximately $23 billion, capitalizing on its anchor customer relationship for public market credibility.]]
 - `2026-04-06` [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and|Oracle is reportedly planning layoffs of between 20,000 and 30,000 employees as part of a strategic pivot to redirect capital toward AI infrastructure build-out. The cuts are among the largest in enterprise software history and reflect a broader pattern of legacy tech incumbents shedding traditional workforce costs to fund compute-heavy AI strategies. Oracle has been investing aggressively in sovereign AI data centers and has partnered with multiple governments on national AI infrastructure initiatives.]]

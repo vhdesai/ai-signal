@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 70
+member_count: 68
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 70 connected article(s).
+> Auto-generated entity hub. 68 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo|Intel-backed edge-AI chipmaker Syntiant files for IPO]]
@@ -32,7 +32,6 @@ member_count: 70
 - `2026-05-21` [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti|Reuters: Magnificent Seven AI-fueled earnings wrap — Nvidia still leads with 85% YoY growth]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
 - `2026-05-21` [[2026-05-21-cerebras-ceo-andrew-feldman-on-why-he-built-the-world-s-larg|Cerebras CEO Andrew Feldman on why he built the world's largest computer chip]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-20` [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems|Fresh off its $5.55B IPO at a $95B market cap, Cerebras Systems announced it is serving Moonshot AI's Kimi K2.6 (a trillion-parameter open-weight model) at 981 output tokens per second — independently verified by Artificial Analysis as 6.7x faster than the best GPU-based provider and 23x faster than the median. The benchmark underscores the growing competitive challenge to Nvidia's dominance in AI inference hardware.]]
 - `2026-05-20` [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s|Cerebras runs trillion-parameter Kimi K2.6 at ~1,000 tokens/second — 6.7× faster than GPU clouds]]
 - `2026-05-20` [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec|Cerebras Runs Trillion-Parameter Kimi K2.6 at 981 Tokens/Second — 6.7× Faster Than GPU Clouds]]
@@ -72,7 +71,6 @@ member_count: 70
 - `2026-05-02` [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation|Cerebras Targets up to $4B IPO at $40B Valuation]]
 - `2026-04-26` [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets|Cerebras IPO Roadshow Underway: $22–25B Nasdaq Listing Targets Mid-May 2026 Hot]]
 - `2026-04-22` [[2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap|Meta is deploying new tracking software — called the Model Capability Initiative (MCI) — on U.S. employee computers to capture mouse movements, clicks, keystrokes, and occasional screen snapshots, according to internal memos obtained by Reuters. The data feeds Meta SuperIntelligence Labs' effort to build AI agents that can autonomously perform work tasks. The tool runs on work-related apps and websites. The disclosure is generating significant internal debate around employee privacy and the boundaries of consensual data collection for AI development.]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes with Palantir's Maven Smart System and AIP government AI platform. Hedge fund manager Michael Burry disclosed a significant short position, citing overvaluation relative to increasing competition from foundation model providers entering the government AI space. Palantir CEO Alex Karp responded by doubling down on the company's "human-AI teaming" differentiation, while separate reports emerged that Maven was used in planning support for U.S. military operations involving Iran — reigniting ethical controversy.]]
 - `2026-04-11` [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a|TSMC reported record first-quarter revenue of $35.6 billion, a 35% year-over-year jump that beat analyst estimates, driven primarily by insatiable AI chip demand. The results came despite geopolitical headwinds including the ongoing Iran conflict's impact on supply chains. TSMC reaffirmed that AI-related orders represent the majority of its leading-edge capacity at 2nm and 3nm nodes.]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middle management, redirecting savings toward AI data center construction and GPU procurement as it races to compete with AWS, Azure, and Google Cloud. Separately, Cerebras Systems — maker of the wafer-scale WSE-3 chip and holder of a $10B compute contract with OpenAI — is targeting a Q2 2026 IPO at approximately $23 billion, capitalizing on its anchor customer relationship for public market credibility.]]

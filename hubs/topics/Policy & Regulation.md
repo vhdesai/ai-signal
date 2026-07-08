@@ -1,12 +1,12 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 645
+member_count: 642
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 645 connected article(s).
+> Auto-generated topic hub. 642 connected article(s).
 
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
 - `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
@@ -351,7 +351,6 @@ member_count: 645
 - `2026-05-20` [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu|Research "Agents of Chaos" Paper — Harvard, MIT, Stanford, CMU Document 10 Agentic AI Vulnerabilities]]
 - `2026-05-20` [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai|President Trump disclosed he discussed potential AI guardrails with President Xi Jinping, while US officials continue to weigh competing pressures: AI safety risks, strategic competition with China, and Nvidia GPU export policy. The Nvidia export picture remains unresolved, a fact closely watched by market participants given China's importance to Nvidia's revenue outlook. The conversations come amid reports of Russia's Sberbank seeking Chinese-made chips to power its GigaChat AI model as Western sanctions continue to block hardware access.]]
 - `2026-05-20` [[2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom|OpenAI model disproves a central conjecture in discrete geometry]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-20` [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe|Jensen Huang publicly concedes China AI chip market to Huawei]]
 - `2026-05-20` [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a|Global AI regulation: EU AI Act guidance, US Executive Order, and China's new standards]]
 - `2026-05-20` [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati|Before the cancellation, the White House's Office of the National Cyber Director hosted a briefing for OpenAI, Anthropic, Reflection AI, cloud providers, semiconductor companies, and banks on the executive order. The proposed voluntary framework would have had AI labs inform the government about planned releases and share models up to 90 days in advance. The push followed growing concern from the Treasury Department and Federal Reserve about cybersecurity risks posed by advanced AI models, particularly Anthropic's Claude Mythos.]]
@@ -602,7 +601,6 @@ member_count: 645
 - `2026-04-18` [[2026-04-18-claude-opus-4-7-writes-working-chrome-exploit-for-2-283|Claude Opus 4.7 Writes Working Chrome Exploit for $2,283]]
 - `2026-04-18` [[2026-04-18-breaking-claude-opus-4-7-writes-working-chrome-exploit-for-2|Breaking Claude Opus 4.7 Writes Working Chrome Exploit for $2,283]]
 - `2026-04-15` [[2026-04-15-model-releases|🚀 Model Releases]]
-- `2026-04-15` [[2026-04-15-the-hacker-news-reuters-the-star-msn-forbes-venturebeat-cnbc|The Hacker News · Reuters · The Star · MSN · Forbes · VentureBeat · CNBC · TechCrunch · 9to5Google · Insider Monkey · Stanford HAI · UC Berkeley RDI · MIT CSAIL · The Neuron · Bloomberg Law · GizChina · Tech Xplore · The Atlantic · All About Lawyer · HuMai Blog · Axios · MIT Technology Review · OpenAI Newsroom · Tech-Insider]]
 - `2026-04-15` [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding|Stanford's HAI released its annual AI Index for 2026, finding that AI systems are advancing rapidly in reasoning, coding, and scientific applications — yet public anxiety about AI's effects on employment and society is intensifying in parallel. The report highlights a widening trust gap: while enterprise and government adoption is accelerating, public confidence has not kept pace with capability gains. The report also flags sharply rising compute costs for frontier model training as a structural challenge for smaller labs and academic institutions.]]
 - `2026-04-15` [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators|Apple's Grok Deepfake Standoff Disclosed to Senators]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
@@ -614,7 +612,6 @@ member_count: 645
 - `2026-04-13` [[2026-04-13-stanford-ai-index-2026-world-ai-compute-growing-3-3-per-year|Stanford AI Index 2026: World AI Compute Growing 3.3× Per Year, Benchmark Race Outpacing Governance]]
 - `2026-04-13` [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u|Stanford 2026 AI Index: SWE-Bench Scores 60→100% in One Year; US-China Gap "Effectively Closed"]]
 - `2026-04-13` [[2026-04-13-source-the-neuron-apr-13-2026|Source: The Neuron (Apr 13, 2026)]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho|Researchers from UC Berkeley's Center for AI Safety co-authored a widely-cited study warning that peer-reviewed literature is being overwhelmed by low-quality AI-generated papers, with some subfields seeing 30–40% of new submissions flagged as substantially AI-written without meaningful human intellectual contribution. The team proposed a multi-layered detection framework combining perplexity analysis, citation graph anomaly detection, and expert spot-checking. Nature, Science, and Cell editorial boards all announced tightened AI disclosure policies in direct response to the paper.]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and|RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk]]

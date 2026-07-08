@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 96
+member_count: 92
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 96 connected article(s).
+> Auto-generated entity hub. 92 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
@@ -58,10 +58,8 @@ member_count: 96
 - `2026-05-22` [[2026-05-22-openai-files-s-1-targeting-september-ipo-at-1t-valuation|OpenAI Files S-1 Targeting September IPO at ~$1T Valuation]]
 - `2026-05-22` [[2026-05-22-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-e|Mistral AI Acquires Austrian Physics-AI Startup Emmi AI to Expand into Industrial AI]]
 - `2026-05-22` [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days|Four Frontier Labs, Four Acquisitions in Five Days]]
-- `2026-05-22` [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o|Coverage note: Only items with a confirmed publication date of May 21–22, 2026 are included. Several monitored entities (Mistral, Replit, Meta, Apple, Baidu, Tencent, Huawei, SenseTime, Databricks, BAIR Blog, The Batch) had no new content within this 24-hour window and are excluded.]]
 - `2026-05-21` [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti|Reuters: Magnificent Seven AI-fueled earnings wrap — Nvidia still leads with 85% YoY growth]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-20` [[2026-05-20-mistral-expands-open-weights-lineup-and-mistral-large-api|Mistral expands open-weights lineup and Mistral Large API]]
 - `2026-05-20` [[2026-05-20-mistral-ai-acquires-austrian-physics-ai-startup-emmi-ai-to-l|Mistral AI acquires Austrian "Physics AI" startup Emmi AI to lead industrial simulation market]]
 - `2026-05-19` [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen|Stanford 2026 AI Index: US–China Model Gap Closes to 2.7%; Agentic AI Leaps to 66% Task Success]]
@@ -75,7 +73,6 @@ member_count: 96
 - `2026-05-15` [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut|Trump and Xi Discuss AI Guardrails as Nvidia Chip Export Future Stays Unresolved]]
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
 - `2026-05-15` [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma|Osaurus Brings Unified Local + Cloud AI Model Management to macOS]]
-- `2026-05-14` [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog|Sources not producing in-window content (May 13–14): BAIR Blog (last post May 8), Apple ML Research (May 11), MIT News AI (May 12), Stanford HAI, CMU AI, The Batch by DeepLearning.AI (weekly, next issue May 15), Mistral, Cursor, Replit, IBM, Huawei, SenseTime, xAI (standalone), Palantir, Alibaba.]]
 - `2026-05-14` [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e|Oracle AI Gains Traction in Utilities: Air Selangor, El Paso Electric, and Exelon Recognized as AI Leaders]]
 - `2026-05-13` [[2026-05-13--2|📈]]
 - `2026-05-13` [[2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for|MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI is now embedded in the critical path of drug discovery, making consequential decisions at a speed and scale that existing governance structures were simply not designed to handle." She calls for deliberate human accountability mechanisms "threaded through every critical junction" of AI-driven pharma R&D pipelines — a position that carries new urgency following Isomorphic Labs' $2.1B raise (above) and accelerating AI drug-trial pipelines at Roche, AstraZeneca, and Pfizer.]]
@@ -98,7 +95,6 @@ member_count: 96
 - `2026-04-22` [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch|Musk Explores Three-Way Alliance of xAI, Mistral & Cursor to Challenge Anthropic in AI Coding Race Trending]]
 - `2026-04-22` [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a|Elon Musk and xAI held exploratory discussions with French AI startup Mistral and coding tool maker Cursor about a potential three-way collaboration, according to reporting sourced to insiders. The discussions reportedly centered on integrating Mistral's frontier model capabilities with Cursor's developer tooling and xAI/SpaceX infrastructure. A reported SpaceX option linked to a large acquisition figure adds strategic weight to the talks. The move signals a shift toward consolidation around model IP, compute, and developer tooling rather than purely organic model development.]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un|Mistral AI released Mistral Small 4, a 22B-parameter model under Apache 2.0 designed for efficient enterprise edge deployment — achieving competitive performance with much larger models on RAG tasks within a 48GB VRAM footprint — alongside Voxtral, a text-to-speech companion model. On the financial side, Mistral secured $830M in convertible debt from European and U.S. financial institutions to fund data center and GPU cluster expansion, framed as a key plank of Europe's sovereign AI infrastructure independence. CEO Arthur Mensch signaled a 2027 IPO timeline.]]
 - `2026-04-08` [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe|Google DeepMind released Gemma 4 in four sizes (2B, 9B, 26B MoE, 72B) under Apache 2.0, with the 26B MoE variant leading multiple open-source leaderboards including MMLU, HellaSwag, and HumanEval. Concurrently, Gemini 3.1 Pro climbed to the top position on the Chatbot Arena (LMSYS) Elo leaderboard — displacing GPT-5.4 — showing particular strength in multimodal reasoning, 2M-token long-context comprehension, and structured data analysis. Both releases represent Google's most coordinated open-source plus frontier push to date.]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview. The cadence cements Alibaba as the most prolific open-weight frontier shipper of the quarter.]]

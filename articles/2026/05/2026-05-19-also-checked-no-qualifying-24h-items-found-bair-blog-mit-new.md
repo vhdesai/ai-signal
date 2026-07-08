@@ -37,11 +37,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d
-- 2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
+- 2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
 embedding_id: 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 event_name: ''
 ---
@@ -55,5 +55,5 @@ event_name: ''
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Mistral]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d]] · [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
+**Related:** [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]]
 <!-- graph:end -->

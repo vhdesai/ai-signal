@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 162
+member_count: 160
 ---
 
 # xAI
 
-> Auto-generated entity hub. 162 connected article(s).
+> Auto-generated entity hub. 160 connected article(s).
 
 - `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
 - `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
@@ -114,7 +114,6 @@ member_count: 162
 - `2026-05-15` [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia|EU AI Act High-Risk Enforcement Now in Effect; Global Compliance Complexity Rises]]
 - `2026-05-14` [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software|xAI Launches Grok Build: Agentic CLI for Autonomous Software Development]]
 - `2026-05-14` [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in|SpaceXAI Hemorrhaging Research Staff Following xAI–SpaceX Integration — Model Roadmap Unclear]]
-- `2026-05-14` [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog|Sources not producing in-window content (May 13–14): BAIR Blog (last post May 8), Apple ML Research (May 11), MIT News AI (May 12), Stanford HAI, CMU AI, The Batch by DeepLearning.AI (weekly, next issue May 15), Mistral, Cursor, Replit, IBM, Huawei, SenseTime, xAI (standalone), Palantir, Alibaba.]]
 - `2026-05-14` [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e|Oracle AI Gains Traction in Utilities: Air Selangor, El Paso Electric, and Exelon Recognized as AI Leaders]]
 - `2026-05-14` [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu|Musk vs. Altman Trial: What the Jury Will Decide — A Plain-Language Explainer]]
 - `2026-05-13` [[2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t|The U.S. Department of Commerce expanded pre-release safety testing to add Google DeepMind, Microsoft, and xAI to its frontier-model evaluation program. The expansion meaningfully widens federal pre-deployment oversight of the leading labs, and arrives as the EU is separately pressing Anthropic and OpenAI for direct access to their Mythos and frontier models.]]
@@ -158,7 +157,6 @@ member_count: 162
 - `2026-04-15` [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators|Apple's Grok Deepfake Standoff Disclosed to Senators]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-11` [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado|Elon Musk's xAI has filed suit against the State of Colorado, challenging the constitutionality of Colorado's recently enacted AI regulation law that imposes liability standards on AI developers for high-risk applications. The lawsuit argues the law exceeds state authority and conflicts with federal preemption doctrines. It represents the first direct legal challenge by an AI company to a comprehensive state-level AI regulatory regime and could shape the national patchwork of AI legislation.]]
 - `2026-04-10` [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i|Florida Attorney General James Uthmeier announced a formal investigation into OpenAI following allegations that ChatGPT was used by the perpetrator of the Florida State University shooting. The probe marks the first U.S. state-level criminal referral involving a major AI company in connection with a mass shooting and sets a precedent for state-level AI accountability that other attorneys general are watching closely. OpenAI has stated it is cooperating with investigators.]]
 - `2026-04-06` [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ|OpenAI formally petitioned the Attorneys General of California and Delaware to open investigations into Elon Musk for alleged anti-competitive behavior, specifically related to his lawsuit campaign against OpenAI's for-profit restructuring. OpenAI argues that Musk's legal actions — combined with his stated goal of acquiring OpenAI — constitute coordinated efforts to harm a competitor while building his own rival AI company, xAI. The move dramatically escalates the long-running legal battle between Musk and OpenAI's leadership and sets the stage for potential state-level regulatory intervention.]]

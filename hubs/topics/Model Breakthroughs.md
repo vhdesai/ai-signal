@@ -1,14 +1,13 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1235
+member_count: 1233
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1235 connected article(s).
+> Auto-generated topic hub. 1233 connected article(s).
 
-- `2026-07-08` [[2026-07-08-|🔗]]
 - `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
 - `2026-07-08` [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor|TetraMem and SK hynix Demonstrate a Memristor-Based In-Memory Computing SoC]]
@@ -790,7 +789,6 @@ member_count: 1235
 - `2026-05-14` [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv|Stanford 2026 AI Index: U.S.–China Capability Gap Has Effectively Closed]]
 - `2026-05-14` [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7|Stanford 2026 AI Index Updates: U.S.–China Gap Narrows to 2.7%]]
 - `2026-05-14` [[2026-05-14-spacexai-hemorrhaging-research-staff-following-xai-spacex-in|SpaceXAI Hemorrhaging Research Staff Following xAI–SpaceX Integration — Model Roadmap Unclear]]
-- `2026-05-14` [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog|Sources not producing in-window content (May 13–14): BAIR Blog (last post May 8), Apple ML Research (May 11), MIT News AI (May 12), Stanford HAI, CMU AI, The Batch by DeepLearning.AI (weekly, next issue May 15), Mistral, Cursor, Replit, IBM, Huawei, SenseTime, xAI (standalone), Palantir, Alibaba.]]
 - `2026-05-14` [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9|Single-Instruction Attack Flips Frontier Aligned Models to >91% Unsafe Action Rate]]
 - `2026-05-14` [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b|Recursive Superintelligence Emerges from Stealth with $650M, Backed by Socher, Norvig & Rocktäschel]]
 - `2026-05-14` [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg|Raindrop Releases "Workshop" — Open-Source Local AI Agent Debugger]]

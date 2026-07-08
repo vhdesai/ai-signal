@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 43
+member_count: 40
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 43 connected article(s).
+> Auto-generated entity hub. 40 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
@@ -30,11 +30,9 @@ member_count: 43
 - `2026-05-24` [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr|Systematic Review of AI-Powered ERP Systems Published in Springer (Open Access)]]
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
 - `2026-05-22` [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect|Microsoft blocked partners including Databricks from connecting their data management tools to Power BI, a product used by nearly all Fortune 500 firms. Microsoft cited reliability concerns, but the move is widely seen as part of a fight for control of the "semantic layer" — increasingly vital for making AI agents more accurate and cheaper to run. The battle underscores how enterprise data infrastructure is becoming a key competitive battleground in the agentic AI era.]]
-- `2026-05-22` [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o|Coverage note: Only items with a confirmed publication date of May 21–22, 2026 are included. Several monitored entities (Mistral, Replit, Meta, Apple, Baidu, Tencent, Huawei, SenseTime, Databricks, BAIR Blog, The Batch) had no new content within this 24-hour window and are excluded.]]
 - `2026-05-21` [[2026-05-21-oracle-fusion-data-intelligence-rolls-out-to-heathrow-airpor|Oracle Fusion Data Intelligence rolls out to Heathrow Airport, Kent County Council, MTN]]
 - `2026-05-21` [[2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s|Databricks Ranks #3 on CNBC Disruptor 50; Hits $5.4B Run-Rate, Says "No Rush" to IPO]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-20` [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma|ACM CAIS 2026 — Premier Agentic AI Systems Conference Opens May 26–29 in San Jose]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
 - `2026-05-19` [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new|Also checked (no qualifying 24h items found): BAIR Blog · MIT News AI · Apple ML Research · Google DeepMind Blog · Meta AI Blog · The Batch (DeepLearning.AI) · Machine Learning Mastery · DigitalOcean AI Blog · Stanford HAI · Princeton · Purdue · Georgia Tech · UW Allen School · UT Austin · IBM · Oracle · Palantir · Databricks · Mistral · DeepSeek · Baidu · Alibaba · Huawei · SenseTime · Replit]]
@@ -49,5 +47,4 @@ member_count: 43
 - `2026-04-23` [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f|Databricks and Palantir each announce new enterprise agent frameworks]]
 - `2026-04-22` [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat|OpenAI Releases GPT-5.5 and GPT-5.5 Pro, Now Available on Databricks Hot]]
 - `2026-04-20` [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a|Databricks April 2026: SQL AI Functions GA, Supervisor Agent API, GPT-5.5 & Lakeflow Designer Hot]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

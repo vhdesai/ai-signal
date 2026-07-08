@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 80
+member_count: 78
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 80 connected article(s).
+> Auto-generated entity hub. 78 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for|Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and coding tasks]]
@@ -41,7 +41,6 @@ member_count: 80
 - `2026-05-23` [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem|Tencent open-sources TencentDB Agent Memory — 4-tier local memory pipeline]]
 - `2026-05-23` [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens|Tencent open-sources TencentDB Agent Memory under MIT license]]
 - `2026-05-22` [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t|DeepSeek Targets $10B Valuation in First External Fundraise; Tencent Joins as Investor]]
-- `2026-05-22` [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o|Coverage note: Only items with a confirmed publication date of May 21–22, 2026 are included. Several monitored entities (Mistral, Replit, Meta, Apple, Baidu, Tencent, Huawei, SenseTime, Databricks, BAIR Blog, The Batch) had no new content within this 24-hour window and are excluded.]]
 - `2026-05-22` [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek|Alibaba and Tencent in Advanced Talks to Invest in DeepSeek at $20B Valuation]]
 - `2026-05-21` [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross|Tencent launches Marvis — an OS-level AI assistant with cross-device control and local privacy mode]]
 - `2026-05-21` [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti|Reuters: Magnificent Seven AI-fueled earnings wrap — Nvidia still leads with 85% YoY growth]]
@@ -85,6 +84,5 @@ member_count: 80
 - `2026-04-22` [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20|TRENDINGTencent and Alibaba close in on DeepSeek round at $20B+ valuation]]
 - `2026-04-22` [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster|Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultaneously training seven models, including a 6-trillion and a 10-trillion parameter variant — by far the largest publicly confirmed model size in the industry. The Grok Imagine V2 video model and multiple 1–1.5T parameter variants are also in training. Expected release timing is mid-2026, which would mark a significant scale inflection if xAI can close the quality gap alongside raw parameter count.]]
 - `2026-04-22` [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10|Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models. Amazon will invest $5 billion immediately plus up to $20 billion more — on top of a prior $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips. This positions AWS as the primary compute backbone for one of the world's leading AI labs, a significant competitive coup against Microsoft Azure and Google Cloud.]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview. The cadence cements Alibaba as the most prolific open-weight frontier shipper of the quarter.]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

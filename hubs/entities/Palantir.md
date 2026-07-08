@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 60
+member_count: 57
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 60 connected article(s).
+> Auto-generated entity hub. 57 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
@@ -29,14 +29,12 @@ member_count: 60
 - `2026-05-21` [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r|Palantir Targets New Defense Analytics Contract; Q1 U.S. Gov Revenue Up 84% Trending]]
 - `2026-05-21` [[2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr|Palantir Sues Pentagon to Compete for DIA AI Analytics Contract  Trending]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
 - `2026-05-19` [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new|Also checked (no qualifying 24h items found): BAIR Blog · MIT News AI · Apple ML Research · Google DeepMind Blog · Meta AI Blog · The Batch (DeepLearning.AI) · Machine Learning Mastery · DigitalOcean AI Blog · Stanford HAI · Princeton · Purdue · Georgia Tech · UW Allen School · UT Austin · IBM · Oracle · Palantir · Databricks · Mistral · DeepSeek · Baidu · Alibaba · Huawei · SenseTime · Replit]]
 - `2026-05-16` [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip|💜 TRENDING OpenAI and Anthropic Both Racing Toward Landmark IPOs in 2026]]
 - `2026-05-16` [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g|ArXiv Institutes One-Year Ban for Papers with Unchecked AI-Generated Content New]]
 - `2026-05-15` [[2026-05-15-trump-disclosed-247k-630k-palantir-purchase-in-q1-before-tru|Trump Disclosed $247K–$630K Palantir Purchase in Q1 Before Truth Social Post]]
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
-- `2026-05-14` [[2026-05-14-sources-not-producing-in-window-content-may-13-14-bair-blog|Sources not producing in-window content (May 13–14): BAIR Blog (last post May 8), Apple ML Research (May 11), MIT News AI (May 12), Stanford HAI, CMU AI, The Batch by DeepLearning.AI (weekly, next issue May 15), Mistral, Cursor, Replit, IBM, Huawei, SenseTime, xAI (standalone), Palantir, Alibaba.]]
 - `2026-05-14` [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g|Anthropic Reaches GA on AWS; Palantir Posts Triple-Digit AI Government Growth]]
 - `2026-05-14` [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove|Anthropic Publishes Claude Code Quality Postmortem: Three Overlapping Bugs Caused Six Weeks of Complaints]]
 - `2026-05-13` [[2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for|MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI is now embedded in the critical path of drug discovery, making consequential decisions at a speed and scale that existing governance structures were simply not designed to handle." She calls for deliberate human accountability mechanisms "threaded through every critical junction" of AI-driven pharma R&D pipelines — a position that carries new urgency following Isomorphic Labs' $2.1B raise (above) and accelerating AI drug-trial pipelines at Roche, AstraZeneca, and Pfizer.]]
@@ -63,7 +61,6 @@ member_count: 60
 - `2026-04-23` [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f|Databricks and Palantir each announce new enterprise agent frameworks]]
 - `2026-04-20` [[2026-04-20-nsa-reportedly-using-anthropic-s-mythos-despite-pentagon-ten|NSA Reportedly Using Anthropic's Mythos Despite Pentagon Tension]]
 - `2026-04-13` [[2026-04-13-products-tools|🛠 Products & Tools]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes with Palantir's Maven Smart System and AIP government AI platform. Hedge fund manager Michael Burry disclosed a significant short position, citing overvaluation relative to increasing competition from foundation model providers entering the government AI space. Palantir CEO Alex Karp responded by doubling down on the company's "human-AI teaming" differentiation, while separate reports emerged that Maven was used in planning support for U.S. military operations involving Iran — reigniting ethical controversy.]]
 - `2026-04-09` [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected|OpenAI is actively preparing for a public offering expected in Q4 2026, with secondary market transactions placing its valuation near $852 billion, underpinned by $11.6 billion in annualized revenue from API and ChatGPT subscriptions. SoftBank and Microsoft remain anchor shareholders ahead of the listing. The IPO timeline is being accelerated despite the simultaneous legal, security, and reputational pressures the company is navigating this week.]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastructure as central to U.S.-Israeli targeting intelligence. Named targets include Apple, Google, Meta, Microsoft, Nvidia, Oracle, IBM, Palantir, Intel, Cisco, HP, Dell, Boeing, Tesla, GE, J.P. Morgan, and UAE AI firm G42. Iran struck AWS data centers in the UAE in March causing cloud outages. Healix CEO: "Tech assets are now treated as part of the conflict, not peripheral to it." This creates a direct geopolitical risk category for AI infrastructure across the Gulf.]]

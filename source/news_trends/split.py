@@ -29,6 +29,12 @@ _URL_RE = re.compile(r"https?://[^\s)>\]]+")
 _MD_LINK_RE = re.compile(r"\[[^\]]+\]\((https?://[^)]+)\)")
 _ANGLE_URL_RE = re.compile(r"<\s*(https?://[^>]+)>")
 
+# Digest-level attribution/footer boilerplate (e.g. "Compiled by Microsoft
+# Copilot · 10 verified items · Source window: last 24 hours ..."). These lines
+# contain " · " and a month name, so without this guard they get mistaken for an
+# article's "Source · Date" line and anchor a bogus article.
+_DIGEST_FOOTER_RE = re.compile(r"^\s*compiled by\b", re.IGNORECASE)
+
 # Map digest section keywords -> canonical topic ids.
 _THEME_KEYWORDS = {
     "model-capabilities": ("model", "research", "breakthrough", "benchmark", "reasoning"),
@@ -104,6 +110,8 @@ def _is_acronym_code(line: str) -> bool:
 def _is_source_line(line: str) -> bool:
     # Strip angle-bracket URLs (including safelinks) before checking
     clean = _ANGLE_URL_RE.sub("", line).strip()
+    if _DIGEST_FOOTER_RE.match(clean):
+        return False  # digest attribution/footer, not an article source line
     return (
         " \u00b7 " in clean
         and bool(util.MONTH_NAME_RE.search(clean))

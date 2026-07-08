@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 404
+member_count: 403
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 404 connected article(s).
+> Auto-generated entity hub. 403 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its|Microsoft joins AI cost-cutting trend by relying more on its own models]]
@@ -378,7 +378,6 @@ member_count: 404
 - `2026-04-14` [[2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost|Microsoft MAI-Image-2-Efficient Arrives at 41% Lower Cost]]
 - `2026-04-13` [[2026-04-13-industry-news|🏢 Industry News]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security|RSA Conference 2026 / RSAC 2026: Frontier model security]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-soc-products|RSA Conference 2026 / RSAC 2026: Agentic SOC products]]

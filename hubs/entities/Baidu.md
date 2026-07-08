@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 42
+member_count: 39
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 42 connected article(s).
+> Auto-generated entity hub. 39 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
@@ -29,9 +29,7 @@ member_count: 42
 - `2026-05-26` [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle|Musk warns of AI extinction risk in OpenAI courtroom battle]]
 - `2026-05-24` [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr|Systematic Review of AI-Powered ERP Systems Published in Springer (Open Access)]]
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
-- `2026-05-22` [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o|Coverage note: Only items with a confirmed publication date of May 21–22, 2026 are included. Several monitored entities (Mistral, Replit, Meta, Apple, Baidu, Tencent, Huawei, SenseTime, Databricks, BAIR Blog, The Batch) had no new content within this 24-hour window and are excluded.]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-19` [[2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro|MIT CSAIL: "Why You Can't Just Swap Humans for AI" — Q&A with Prof. Armando Solar-Lezama]]
 - `2026-05-19` [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new|Also checked (no qualifying 24h items found): BAIR Blog · MIT News AI · Apple ML Research · Google DeepMind Blog · Meta AI Blog · The Batch (DeepLearning.AI) · Machine Learning Mastery · DigitalOcean AI Blog · Stanford HAI · Princeton · Purdue · Georgia Tech · UW Allen School · UT Austin · IBM · Oracle · Palantir · Databricks · Mistral · DeepSeek · Baidu · Alibaba · Huawei · SenseTime · Replit]]
 - `2026-05-18` [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc|Baidu posts AI revenue milestone; NextEra–Dominion infrastructure tie-up advances]]
@@ -44,7 +42,6 @@ member_count: 42
 - `2026-05-08` [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d|Vik Desai · Director, Technology Assessment & Intelligence · Corp Dev, Microsoft]]
 - `2026-05-05` [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training|Meta Copyright Lawsuit Elevates CEO Liability in AI Training Data Governance Trending]]
 - `2026-05-03` [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round|Tencent and Alibaba Eye DeepSeek Funding Round]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to what Baidu described as a "synchronization issue in a remote sensing update." The incident caused widespread traffic disruption and prompted Chinese regulators to open a safety investigation into Baidu's over-the-air update protocols for autonomous vehicles. Baidu's Apollo Go stock dropped 8% following the disclosure, intensifying global scrutiny of fleet-scale AV deployment safety and OTA update risk management.]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastructure as central to U.S.-Israeli targeting intelligence. Named targets include Apple, Google, Meta, Microsoft, Nvidia, Oracle, IBM, Palantir, Intel, Cisco, HP, Dell, Boeing, Tesla, GE, J.P. Morgan, and UAE AI firm G42. Iran struck AWS data centers in the UAE in March causing cloud outages. Healix CEO: "Tech assets are now treated as part of the conflict, not peripheral to it." This creates a direct geopolitical risk category for AI infrastructure across the Gulf.]]

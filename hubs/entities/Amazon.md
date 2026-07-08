@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 218
+member_count: 217
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 218 connected article(s).
+> Auto-generated entity hub. 217 connected article(s).
 
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-08` [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access|Anthropic reverses course, extends free Claude Fable 5 access to July 12 after backlash]]
@@ -201,7 +201,6 @@ member_count: 218
 - `2026-04-13` [[2026-04-13-industry-news|🏢 Industry News]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
 - `2026-04-13` [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2|Global AI Compute Capacity Grows ~3.3x Year-Over-Year Since 2022]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middle management, redirecting savings toward AI data center construction and GPU procurement as it races to compete with AWS, Azure, and Google Cloud. Separately, Cerebras Systems — maker of the wafer-scale WSE-3 chip and holder of a $10B compute contract with OpenAI — is targeting a Q2 2026 IPO at approximately $23 billion, capitalizing on its anchor customer relationship for public market credibility.]]
 - `2026-04-11` [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app|Anthropic launched Project Glasswing, partnering with AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, Nvidia, and Palo Alto Networks to deploy Claude Mythos Preview exclusively for defensive cybersecurity. The model has already autonomously discovered thousands of high-severity zero-day vulnerabilities across major operating systems and browsers, including a 27-year-old bug in OpenBSD and a 16-year-old flaw in FFmpeg. Anthropic is committing up to $100M in usage credits and $4M in direct donations to open-source security organizations, with a 90-day remediation window for discovered vulnerabilities. Fast Company coverage asks whether the model tips the balance toward defenders or toward attacker acceleration.]]
 - `2026-04-10` [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c|Legislators including Bernie Sanders and Alexandria Ocasio-Cortez pushed legislation on April 11 calling for a nationwide moratorium on new AI data center construction, citing environmental concerns including electricity consumption, water usage, electricity price spikes in affected communities, and job displacement from AI automation. The proposal comes as Meta, Alphabet, Amazon, and Microsoft are collectively expected to spend $700 billion on AI infrastructure in 2026 alone. This represents one of the most aggressive legislative challenges yet to the AI infrastructure build-out.]]

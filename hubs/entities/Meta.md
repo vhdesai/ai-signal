@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 238
+member_count: 235
 ---
 
 # Meta
 
-> Auto-generated entity hub. 238 connected article(s).
+> Auto-generated entity hub. 235 connected article(s).
 
 - `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th|Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughout the Day]]
 - `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses|Meta Tests Always-On “Super Sensing” AI Glasses]]
@@ -120,14 +120,12 @@ member_count: 238
 - `2026-05-22` [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg|Trump Kills AI Safety Executive Order After Musk, Zuckerberg, and Sacks Intervene]]
 - `2026-05-22` [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa|Meta Launches Forum App — AI-Powered Reddit Alternative for Facebook Groups]]
 - `2026-05-22` [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days|Four Frontier Labs, Four Acquisitions in Five Days]]
-- `2026-05-22` [[2026-05-22-coverage-note-only-items-with-a-confirmed-publication-date-o|Coverage note: Only items with a confirmed publication date of May 21–22, 2026 are included. Several monitored entities (Mistral, Replit, Meta, Apple, Baidu, Tencent, Huawei, SenseTime, Databricks, BAIR Blog, The Batch) had no new content within this 24-hour window and are excluded.]]
 - `2026-05-22` [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots|AI is being used to resurrect the voices of dead pilots]]
 - `2026-05-21` [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti|Reuters: Magnificent Seven AI-fueled earnings wrap — Nvidia still leads with 85% YoY growth]]
 - `2026-05-21` [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril|Meta Cuts 8,000 Jobs, Tells Employees AI Agents Will Primarily Do the Work Now]]
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
 - `2026-05-21` [[2026-05-21-china-blocks-meta-s-manus-deal-founders-eye-1b-buyout|China Blocks Meta's Manus Deal; Founders Eye $1B Buyout]]
 - `2026-05-21` [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek|Beijing Orders Meta to Unwind $2B Manus Deal; Co-Founders Seek $1B+ Buyback Breaking]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-20` [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring|Meta releases Muse Spark model amid restructuring]]
 - `2026-05-20` [[2026-05-20-meta-cuts-8-000-jobs-starting-may-20-to-fund-115-135b-ai-cap|Meta cuts 8,000 jobs starting May 20 to fund $115–$135B AI capex]]
 - `2026-05-20` [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex|Meta begins 8,000-person layoff wave while raising AI capex to $145B]]
@@ -230,7 +228,6 @@ member_count: 238
 - `2026-04-15` [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators|Apple's Grok Deepfake Standoff Disclosed to Senators]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-14` [[2026-04-14-source-tech-insider-updated-april-2026|Source: Tech-Insider (updated April 2026)]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-11` [[2026-04-11-sources-include-45-retrieved-articles-cross-referenced-from|Sources include 45+ retrieved articles cross-referenced from CNBC, Bloomberg, TechCrunch, VentureBeat, Axios, The Hacker News, Politico, CnTechPost, OfficeChai, Motley Fool, Meta Blog, and Plural Policy. Stories verified against two or more independent sources where possible. Some stories — particularly those involving Anthropic's legal proceedings and DeepSeek V4 — are actively developing; monitor for updates throughout the day.]]
 - `2026-04-11` [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the|Meta released Muse Spark, a multimodal creative model and the first output from Meta Superintelligence Labs under Scale AI co-founder Alexandr Wang, featuring a "Contemplating" inference mode that extends compute time on complex tasks for substantially higher-quality outputs. The Meta AI app surged from #57 to #5 on the U.S. App Store within 24 hours of the launch, with Sensor Tower estimating 46,000 U.S. iOS downloads on April 8 — an 87% day-over-day increase. Meta AI still trails ChatGPT (#1), Claude (#2), and Gemini (#3), but the ranking jump signals meaningful consumer traction for a platform that was largely ignored a year ago.]]
 - `2026-04-10` [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m|Meta has debuted Muse Spark, its first major proprietary AI model since its $14B deal to bring in Scale AI's Alexandr Wang — a notable departure from the company's longstanding open-source approach under the LLaMA family. The consumer-facing app rocketed to #5 on the App Store within hours of launch. The product marks a strategic pivot toward monetizing AI directly rather than seeding the developer ecosystem.]]

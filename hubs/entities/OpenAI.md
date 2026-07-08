@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 752
+member_count: 750
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 752 connected article(s).
+> Auto-generated entity hub. 750 connected article(s).
 
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
 - `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
@@ -719,12 +719,10 @@ member_count: 752
 - `2026-04-16` [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g|OpenAI's GPT-5.5 is a fully retrained base — the first since GPT-4.5 — claiming the top of the Artificial Analysis Intelligence Index at 60, scoring 82.7% on Terminal-Bench 2.0 (+7.6 over GPT-5.4), and finishing Codex tasks with ~40% fewer output tokens. API pricing doubled to $5/$30 per MTok ($30/$180 for the Pro variant); effective cost is up only ~20% after token-efficiency gains. Trails Claude Opus 4.7 on SWE-bench Pro (58.6% vs 64.3%).]]
 - `2026-04-16` [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research|OpenAI GPT-Rosalind Targets Life Sciences Research]]
 - `2026-04-15` [[2026-04-15-model-releases|🚀 Model Releases]]
-- `2026-04-15` [[2026-04-15-the-hacker-news-reuters-the-star-msn-forbes-venturebeat-cnbc|The Hacker News · Reuters · The Star · MSN · Forbes · VentureBeat · CNBC · TechCrunch · 9to5Google · Insider Monkey · Stanford HAI · UC Berkeley RDI · MIT CSAIL · The Neuron · Bloomberg Law · GizChina · Tech Xplore · The Atlantic · All About Lawyer · HuMai Blog · Axios · MIT Technology Review · OpenAI Newsroom · Tech-Insider]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-13` [[2026-04-13-industry-news|🏢 Industry News]]
 - `2026-04-13` [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv|Stanford HAI 2026 AI Index continues to drive boardroom conversations]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to what Baidu described as a "synchronization issue in a remote sensing update." The incident caused widespread traffic disruption and prompted Chinese regulators to open a safety investigation into Baidu's over-the-air update protocols for autonomous vehicles. Baidu's Apollo Go stock dropped 8% following the disclosure, intensifying global scrutiny of fleet-scale AV deployment safety and OTA update risk management.]]
 - `2026-04-12` [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i|Florida Attorney General James Uthmeier announced a formal investigation into OpenAI and ChatGPT, alleging the suspect in the April 2025 FSU campus shooting (which killed two people) had 200+ ChatGPT messages including queries about mass shooting logistics before carrying out the attack. Subpoenas are described as "forthcoming," with additional concerns cited including ChatGPT's alleged role in CSAM generation, self-harm encouragement, and potential national security risks tied to China. This is the most prominent state-level enforcement action against an AI company related to real-world harm to date.]]
 - `2026-04-12` [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un|Alibaba's Qwen team released Qwen3.6-Plus on Hugging Face under Apache 2.0, leading Chinese-language benchmarks and achieving competitive results on English tasks against GPT-5.4, with a 128K token context window and strong code and math reasoning. Separately, Alibaba quietly previewed HappyHorse-1.0, a video generation model with realistic physical simulation and temporal coherence, positioned to compete with OpenAI's Sora 2 and Google's Veo 3 — with limited enterprise beta expected in Q2. Alibaba is executing on two simultaneous competitive fronts: open-source language models and closed proprietary video generation.]]

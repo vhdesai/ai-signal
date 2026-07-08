@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 739
+member_count: 738
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 739 connected article(s).
+> Auto-generated entity hub. 738 connected article(s).
 
 - `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
@@ -711,7 +711,6 @@ member_count: 739
 - `2026-04-13` [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2|Stanford AI Index 2026: US-China Performance Gap Narrows to 2.7 Percentage Points]]
 - `2026-04-13` [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u|Stanford 2026 AI Index: SWE-Bench Scores 60→100% in One Year; US-China Gap "Effectively Closed"]]
 - `2026-04-13` [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today|Source: MIT CSAIL · UC Berkeley · National Day Today]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-frontier-model-security|RSA Conference 2026 / RSAC 2026: Frontier model security]]

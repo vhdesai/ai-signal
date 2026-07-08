@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 542
+member_count: 539
 ---
 
 # Google
 
-> Auto-generated entity hub. 542 connected article(s).
+> Auto-generated entity hub. 539 connected article(s).
 
 - `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
@@ -208,7 +208,6 @@ member_count: 542
 - `2026-05-23` [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000|Anthropic's Project Glasswing: Claude Mythos Surfaced 10,000+ Critical Vulnerabilities in One Month]]
 - `2026-05-22` [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme|curated executive briefing on the most significant developments in artificial intelligence — covering frontier models, industry moves, research breakthroughs, and policy shifts. Today's edition features major financial milestones from Anthropic and OpenAI, Nvidia's bold push into agentic CPUs, last-minute drama around U.S. AI oversight, and a $700M mystery raise.]]
 - `2026-05-22` [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg|Trump Kills AI Safety Executive Order After Musk, Zuckerberg, and Sacks Intervene]]
-- `2026-05-22` [[2026-05-22-sources-the-information-cnbc-reuters-semafor-forbes-bloomber|Sources: The Information, CNBC, Reuters, Semafor, Forbes, Bloomberg, The Wall Street Journal, WSJ Wealth Adviser, Business Insider, CIO Dive, Berkeley RDI, MarkTechPost, BuildFastWithAI, The Asahi Shimbun, Google Blog, Techzine, Yahoo News / AP, EconoTimes, CnEVPost, Economic Times]]
 - `2026-05-22` [[2026-05-22-rokid-smart-glasses-bring-google-gemini-flash-3-5-for-agenti|Rokid Smart Glasses Bring Google Gemini Flash 3.5 for Agentic Wearable AI]]
 - `2026-05-22` [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release|OpenAI Ships GPT-5.5 Six Weeks After Last Release]]
 - `2026-05-22` [[2026-05-22-openai-chief-strategy-officer-jason-kwon-confirmed-plans-to|OpenAI Chief Strategy Officer Jason Kwon confirmed plans to provide OpenAI's latest AI model — featuring enhanced cybersecurity capabilities comparable to Anthropic's Claude Mythos — to select Japanese enterprises. The deployment is intended to expand defensive cybersecurity capabilities, though questions about potential misuse of such advanced models are intensifying globally.]]
@@ -235,7 +234,6 @@ member_count: 542
 - `2026-05-21` [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl|Cornell / UC Berkeley: 1 in 3 College Students Uses AI to Complete Assignments; 9% Cheat  Hot]]
 - `2026-05-20` [[2026-05-20-spacex-ipo-filing-reveals-anthropic-s-1-25b-month-compute-de|SpaceX IPO filing reveals Anthropic's $1.25B/month compute deal with SpaceX]]
 - `2026-05-20` [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen|Post-I/O Analysis: Gemini Spark Positions Google as 24/7 Agentic Platform Trending]]
-- `2026-05-20` [[2026-05-20-no-confirmed-may-19-20-items-surfaced-for-mistral-cerebras-d|No confirmed May 19–20 items surfaced for: Mistral, Cerebras, Databricks, Palantir (standalone), IBM, Baidu, Alibaba, Huawei, SenseTime, Replit, Princeton, Georgia Tech, Purdue, Stanford HAI, BAIR, Apple ML Research blog, Meta AI Blog, The Batch — consistent with a mid-week cycle dominated by Google I/O Day 1.]]
 - `2026-05-20` [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis|MIT profiles AI models for chemical discovery and synthesis planning]]
 - `2026-05-20` [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds|Hot Google Genie 3 + Street View = Walkable AI-Generated Worlds Based on Real Places]]
 - `2026-05-20` [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features|Google unveils Gemini Omni and new consumer-agent features]]
@@ -516,7 +514,6 @@ member_count: 542
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
 - `2026-04-13` [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2|Global AI Compute Capacity Grows ~3.3x Year-Over-Year Since 2022]]
 - `2026-04-12` [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s|Stanford's Institute for Human-Centered AI hosted a Causal Science Conference presenting evidence that several leading LLMs achieve high benchmark scores through memorization of benchmark-adjacent training data rather than genuine reasoning generalization. The conference also previewed Stanford HAI's annual AI Index report, expected to show continued acceleration in AI investment and deployment metrics for 2025. The benchmark validity challenge has significant implications for how enterprises and regulators should interpret model capability claims.]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-12` [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un|Alibaba's Qwen team released Qwen3.6-Plus on Hugging Face under Apache 2.0, leading Chinese-language benchmarks and achieving competitive results on English tasks against GPT-5.4, with a 128K token context window and strong code and math reasoning. Separately, Alibaba quietly previewed HappyHorse-1.0, a video generation model with realistic physical simulation and temporal coherence, positioned to compete with OpenAI's Sora 2 and Google's Veo 3 — with limited enterprise beta expected in Q2. Alibaba is executing on two simultaneous competitive fronts: open-source language models and closed proprietary video generation.]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middle management, redirecting savings toward AI data center construction and GPU procurement as it races to compete with AWS, Azure, and Google Cloud. Separately, Cerebras Systems — maker of the wafer-scale WSE-3 chip and holder of a $10B compute contract with OpenAI — is targeting a Q2 2026 IPO at approximately $23 billion, capitalizing on its anchor customer relationship for public market credibility.]]

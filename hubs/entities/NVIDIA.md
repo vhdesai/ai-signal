@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 451
+member_count: 450
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 451 connected article(s).
+> Auto-generated entity hub. 450 connected article(s).
 
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips|SambaNova Raises $1B at $11B Valuation for AI Inference Chips]]
 - `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th|Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughout the Day]]
@@ -414,7 +414,6 @@ member_count: 451
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-2026-world-ai-compute-growing-3-3-per-year|Stanford AI Index 2026: World AI Compute Growing 3.3× Per Year, Benchmark Race Outpacing Governance]]
 - `2026-04-13` [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2|Global AI Compute Capacity Grows ~3.3x Year-Over-Year Since 2022]]
-- `2026-04-12` [[2026-04-12-sources-monitored-nvidia-google-deepmind-openai-anthropic-mi|Sources monitored: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek · UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin, UC San Diego · TechCrunch, VentureBeat, MarkTechPost, The Batch (DeepLearning.AI), Axios AI+, MIT News, artificialintelligence-news.com, Analytics Insight, AI Flash Report, and more.]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
 - `2026-04-12` [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe|Researchers from MIT, Nvidia, and Zhejiang University published TriAttention, a KV cache compression method that operates in pre-RoPE space to predict which cached tokens are important without requiring live attention computation — directly addressing the memory bottleneck in long-chain AI reasoning. On AIME25 with 32K-token generation, TriAttention matches full attention accuracy while achieving either 2.5x higher throughput or a 10.7x KV memory reduction. This enables models to run on a single consumer GPU where full attention would previously cause out-of-memory errors — a significant practical advance for inference cost at scale.]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
