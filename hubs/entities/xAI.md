@@ -1,19 +1,29 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 160
+member_count: 172
 ---
 
 # xAI
 
-> Auto-generated entity hub. 160 connected article(s).
+> Auto-generated entity hub. 172 connected article(s).
 
+- `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1|Meta enters the agentic-coding race with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-daily-ai-news-digest-july-10-2026|Daily AI News Digest – July 10, 2026]]
+- `2026-07-08` [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work|xAI ships Grok 4.5, aimed squarely at coding and agentic workloads]]
 - `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
+- `2026-07-08` [[2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads|SpaceXAI ships Grok 4.5 for coding and agentic workloads]]
+- `2026-07-08` [[2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class|SpaceXAI releases Grok 4.5, pitched by Musk as an “Opus-class” workhorse]]
+- `2026-07-08` [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks|SpaceXAI launches Grok 4.5 for coding and agentic tasks]]
 - `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
 - `2026-07-08` [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f|SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier model “as soon as today”]]
 - `2026-07-08` [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o|Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class’ model]]
 - `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-08` [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co|Anthropic extends Claude Fable 5 access and brings Claude Cowork to mobile and web]]
 - `2026-07-07` [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s|xAI officially rebrands as SpaceXAI, completing merger into SpaceX]]
 - `2026-07-07` [[2026-07-07-july-7-2026|July 7, 2026]]
 - `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
@@ -119,6 +129,7 @@ member_count: 160
 - `2026-05-13` [[2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t|The U.S. Department of Commerce expanded pre-release safety testing to add Google DeepMind, Microsoft, and xAI to its frontier-model evaluation program. The expansion meaningfully widens federal pre-deployment oversight of the leading labs, and arrives as the EU is separately pressing Anthropic and OpenAI for direct access to their Mythos and frontier models.]]
 - `2026-05-13` [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s|Recursive Superintelligence Raises $650M at $4.65B Valuation — Stealth Debut]]
 - `2026-05-13` [[2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for|MIT Sloan Senior Lecturer Guadalupe Hayes-Mota argues in Forbes that "AI is now embedded in the critical path of drug discovery, making consequential decisions at a speed and scale that existing governance structures were simply not designed to handle." She calls for deliberate human accountability mechanisms "threaded through every critical junction" of AI-driven pharma R&D pipelines — a position that carries new urgency following Isomorphic Labs' $2.1B raise (above) and accelerating AI drug-trial pipelines at Roche, AstraZeneca, and Pfizer.]]
+- `2026-05-13` [[2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio|Forum AI: Campbell Brown's Benchmark Platform Tests Foundation Models on Contested High-Stakes Domains]]
 - `2026-05-12` [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api|xAI Ships Grok Voice Think Fast 1.0 via API]]
 - `2026-05-12` [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g|U.S. DoC Expands Pre-Release AI Safety Testing to Five Labs — Google DeepMind, Microsoft & xAI Now Included Breaking]]
 - `2026-05-12` [[2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq|Frontier Benchmark Snapshot: Gemini 3.1 Pro Leads at 94.1% GPQA — Top 10 Within 5 Points Trending]]
@@ -157,6 +168,7 @@ member_count: 160
 - `2026-04-15` [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators|Apple's Grok Deepfake Standoff Disclosed to Senators]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-11` [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado|Elon Musk's xAI has filed suit against the State of Colorado, challenging the constitutionality of Colorado's recently enacted AI regulation law that imposes liability standards on AI developers for high-risk applications. The lawsuit argues the law exceeds state authority and conflicts with federal preemption doctrines. It represents the first direct legal challenge by an AI company to a comprehensive state-level AI regulatory regime and could shape the national patchwork of AI legislation.]]
 - `2026-04-10` [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i|Florida Attorney General James Uthmeier announced a formal investigation into OpenAI following allegations that ChatGPT was used by the perpetrator of the Florida State University shooting. The probe marks the first U.S. state-level criminal referral involving a major AI company in connection with a mass shooting and sets a precedent for state-level AI accountability that other attorneys general are watching closely. OpenAI has stated it is cooperating with investigators.]]
 - `2026-04-06` [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ|OpenAI formally petitioned the Attorneys General of California and Delaware to open investigations into Elon Musk for alleged anti-competitive behavior, specifically related to his lawsuit campaign against OpenAI's for-profit restructuring. OpenAI argues that Musk's legal actions — combined with his stated goal of acquiring OpenAI — constitute coordinated efforts to harm a competitor while building his own rival AI company, xAI. The move dramatically escalates the long-running legal battle between Musk and OpenAI's leadership and sets the stage for potential state-level regulatory intervention.]]

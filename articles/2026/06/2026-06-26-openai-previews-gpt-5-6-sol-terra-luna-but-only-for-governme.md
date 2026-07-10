@@ -19,8 +19,11 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
-related_article_ids: []
+canonical_article_id: 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
+related_article_ids:
+- 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
+- 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
+- 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general
 embedding_id: 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
 event_name: ''
 ---
@@ -34,5 +37,6 @@ OpenAI previewed its next-generation GPT-5.6 family in three tiers: Sol (flagshi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
+**Canonical:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]]
+**Related:** [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general]]
 <!-- graph:end -->

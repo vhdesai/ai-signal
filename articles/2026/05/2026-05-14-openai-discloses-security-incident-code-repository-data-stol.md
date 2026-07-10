@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
+- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
-- 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
-- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI disclosed a security incident in which attackers exfiltrated data from th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]]
+**Related:** [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]]
 <!-- graph:end -->

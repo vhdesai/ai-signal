@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-daily-ai-news-digest-july-8-2026
+- 2026-07-08-daily-ai-news-digest-july-9-2026
+- 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
-- 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
-- 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
 embedding_id: 2026-07-06-daily-ai-news-digest-july-8-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Frontier model launches are clearing new government hurdles, the US–China AI r
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]]
+**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]]
 <!-- graph:end -->

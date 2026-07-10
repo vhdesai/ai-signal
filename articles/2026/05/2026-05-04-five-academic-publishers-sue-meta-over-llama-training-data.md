@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
+- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
-- 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
-- 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 embedding_id: 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A consortium of five academic publishers filed suit against Meta alleging unauth
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore]]
+**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]] · [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]]
 <!-- graph:end -->

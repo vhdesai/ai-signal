@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a
+- 2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a
 - 2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
-- 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
-- 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 embedding_id: 2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AWS announced a $1 billion investment in a new Forward Deployed Engineering orga
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
+**Related:** [[2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a]] · [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]]
 <!-- graph:end -->

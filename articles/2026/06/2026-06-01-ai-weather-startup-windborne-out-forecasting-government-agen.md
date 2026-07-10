@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
+- 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 embedding_id: 2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WindBorne Systems is outperforming government forecasting agencies by combining 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]]
+**Related:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]]
 <!-- graph:end -->

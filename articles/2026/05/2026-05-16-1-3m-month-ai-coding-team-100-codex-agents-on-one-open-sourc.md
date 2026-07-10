@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+- 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 - 2026-06-02-openai-reports-codex-at-5m-weekly-active-users
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
-- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 embedding_id: 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenClaw founder Peter Steinberger is running approximately 100 parallel Codex i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]]
+**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-06-02-openai-reports-codex-at-5m-weekly-active-users]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]]
 <!-- graph:end -->

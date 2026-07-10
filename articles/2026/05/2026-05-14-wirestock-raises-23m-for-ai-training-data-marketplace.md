@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 - 2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding
+- 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
 - 2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 embedding_id: 2026-05-14-wirestock-raises-23m-for-ai-training-data-marketplace
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Wirestock, a platform connecting content creators with AI companies seeking lice
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-06-05-supabase-doubles-to-10-5b-valuation-on-the-back-of-ai-coding]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-06-05-supabase-doubles-to-10-5b-on-ai-coding-tool-adoption]]
 <!-- graph:end -->

@@ -1,15 +1,29 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 539
+member_count: 553
 ---
 
 # Google
 
-> Auto-generated entity hub. 539 connected article(s).
+> Auto-generated entity hub. 553 connected article(s).
 
+- `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
+- `2026-07-09` [[2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2|Purdue makes AI competency a graduation requirement across ~200 degree plans]]
+- `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr|OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks]]
+- `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]
+- `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr|OpenAI introduces ChatGPT Work, merging Codex into an enterprise agent platform]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1|Meta enters the agentic-coding market with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-google-photos-rolls-out-ai-video-remix|Google Photos Rolls Out AI “Video Remix”]]
 - `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h|Google's deepfake detector system used to debunk McConnell hoax pic]]
+- `2026-07-08` [[2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h|Google's SynthID helps debunk viral AI-generated McConnell hoax image]]
+- `2026-07-08` [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool|Google Photos adds a new AI Video Remix tool]]
+- `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest|The power of collaboration: How we can reduce traffic congestion]]
 - `2026-07-07` [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce|Google Research: Using Collaboration and Algorithms to Reduce Traffic Congestion]]

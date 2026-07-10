@@ -1,0 +1,38 @@
+{
+  "run_id": "20260710T153525+0000-e65202",
+  "started_at": "2026-07-10T15:35:25+00:00",
+  "finished_at": "2026-07-10T15:35:32+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 416,
+      "digests_changed": 24,
+      "changed": [
+        "news\\2026-07-08_000000_Publication-Sources.md",
+        "news\\2026-07-08_060026_Daily-AI-News-Digest.md",
+        "news\\2026-07-08_070026_Final-Daily-AI-News-Digest.md",
+        "news\\2026-07-08_074500_Inbox_Daily AI News Digest \u2013 July 8, 2026.md",
+        "news\\2026-07-08_074600_Inbox_Daily AI News Digest \u2013 July 8, 2026.md",
+        "news\\2026-07-09_000000_Publication-Sources.md",
+        "news\\2026-07-09_060642_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_061541_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_061826_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_062747_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_082137_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_083415_Inbox_Fw Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_083947_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_084403_Inbox_Daily AI News Digest - July 9, 2026.md",
+        "news\\2026-07-09_180757_Inbox_Your Daily AI News Digest.md",
+        "news\\2026-07-10_000000_Publication-Sources.md",
+        "news\\2026-07-10_060949_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_061000_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_061505_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_061848_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_062836_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_065350_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_070026_Inbox_Daily AI News Digest - July 10, 2026.md",
+        "news\\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July 10, 2026.md"
+      ]
+    }
+  }
+}

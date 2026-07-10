@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 embedding_id: 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Joint testing by the Financial Times and AI safety group Alice found that safety
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
+**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]]
 <!-- graph:end -->

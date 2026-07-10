@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model
+- 2026-07-07-minimax-releases-2-7t-parameter-open-weight-model
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
 - 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 embedding_id: 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MiniMax is developing a 2.7-trillion-parameter model — roughly six times its c
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]]
+**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-07-07-minimax-releases-2-7t-parameter-open-weight-model]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster]]
 <!-- graph:end -->

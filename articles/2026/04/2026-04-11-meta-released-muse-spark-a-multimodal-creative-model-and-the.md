@@ -35,8 +35,8 @@ related_article_ids:
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
+- 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
-- 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 embedding_id: 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
 event_name: ''
 ---
@@ -50,5 +50,5 @@ DeepSeek V4 Expected Late April — Will Run Natively on Huawei Ascend 950PR in 
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]]
+**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]]
 <!-- graph:end -->

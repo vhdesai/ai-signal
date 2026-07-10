@@ -46,8 +46,8 @@ related_article_ids:
 - 2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety
 - 2026-04-02-academic-research
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
+- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 embedding_id: 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 event_name: ''
 ---
@@ -61,5 +61,5 @@ A reported case of romantic ChatGPT obsession has sharpened concerns over AI com
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-04-02-academic-research]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-26-reported-romantic-chatgpt-obsession-case-tests-openai-safety]] · [[2026-04-02-academic-research]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]]
 <!-- graph:end -->

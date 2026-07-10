@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
-- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
-- 2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026
+- 2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand
 embedding_id: 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Financial Times reports a record ~$200B in M&A across the U.S. power and uti
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]]
+**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]]
 <!-- graph:end -->

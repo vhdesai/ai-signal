@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
-- 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
-- 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-- 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
+- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
+- 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 embedding_id: 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Together AI open-sources OSCAR — 2-bit KV-cache quantization for long-context 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]]
+**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

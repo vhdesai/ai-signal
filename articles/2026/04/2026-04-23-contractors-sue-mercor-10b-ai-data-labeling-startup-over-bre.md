@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
 - 2026-04-02-ai-safety-security-policy
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
+- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 embedding_id: 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Mercor, the San Francisco-based $10B startup that hires contractors to provide A
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]] · [[2026-04-02-ai-safety-security-policy]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]]
+**Related:** [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr]] · [[2026-04-02-ai-safety-security-policy]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

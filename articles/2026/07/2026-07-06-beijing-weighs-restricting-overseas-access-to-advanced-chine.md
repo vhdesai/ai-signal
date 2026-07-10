@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
 - 2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin
 - 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
-- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
+- 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
 embedding_id: 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Reuters reports that Chinese authorities recently met with Alibaba, ByteDance, Z
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]]
+**Related:** [[2026-07-06-bytedance-s-doubao-and-alibaba-s-qwen-will-discontinue-user]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-07-06-bytedance-alibaba-pull-ai-companion-features-ahead-of-beijin]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]]
 <!-- graph:end -->

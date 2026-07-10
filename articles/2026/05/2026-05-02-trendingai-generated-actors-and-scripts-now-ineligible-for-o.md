@@ -17,7 +17,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 embedding_id: 2026-05-02-trendingai-generated-actors-and-scripts-now-ineligible-for-o
 event_name: ''
 ---
@@ -30,4 +31,5 @@ The Academy Awards formally barred AI-generated acting performances and scripts 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]]
 <!-- graph:end -->

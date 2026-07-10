@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory
-- 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 embedding_id: 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Forbes details how the trillion-dollar data-center land grab has transformed mem
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]]
+**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]]
 <!-- graph:end -->

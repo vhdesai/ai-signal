@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
+- 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
 - 2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
-- 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
 embedding_id: 2026-05-29-nara-introduces-noise-aware-lora-for-parameter-efficient-fin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new arXiv preprint introduces NaRA, a noise-aware Low-Rank Adaptation method t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]]
+**Related:** [[2026-05-29-nara-noise-aware-lora-for-parameter-efficient-fine-tuning-of]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-05-11-elf-embedded-language-flows-diffusion-lm-with-10x-fewer-trai]]
 <!-- graph:end -->

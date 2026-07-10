@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
+- 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
+- 2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou
 - 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 embedding_id: 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Baseten CEO Tuhin Srivastava told Business Insider's Tech Memo that the cloud ma
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]]
+**Related:** [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]]
 <!-- graph:end -->

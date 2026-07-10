@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
+- 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
 - 2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 - 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
-- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
 embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A hands-on preview of Google Docs Live revealed a voice-first drafting experienc
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]]
+**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-05-19-hot-google-i-o-2026-product-suite-gmail-live-ask-youtube-uni]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]]
 <!-- graph:end -->

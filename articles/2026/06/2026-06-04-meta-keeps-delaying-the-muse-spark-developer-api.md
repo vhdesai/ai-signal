@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 - 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
+- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its
 - 2026-04-08-source-forbes-msn-the-neuron
-- 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
 embedding_id: 2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's Muse Spark launched in April but the developer API has slipped repeatedly
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]]
+**Related:** [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its]] · [[2026-04-08-source-forbes-msn-the-neuron]]
 <!-- graph:end -->

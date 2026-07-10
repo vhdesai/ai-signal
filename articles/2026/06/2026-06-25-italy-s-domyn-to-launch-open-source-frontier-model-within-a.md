@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 - 2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed
+- 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
 embedding_id: 2026-06-25-italy-s-domyn-to-launch-open-source-frontier-model-within-a
 event_name: ''
@@ -39,5 +40,5 @@ Domyn (formerly iGenius) CEO Uljan Sharka said the company will release a fully 
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
+**Related:** [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-07-02-microsoft-launches-frontier-company-a-2-5b-forward-deployed]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
 <!-- graph:end -->

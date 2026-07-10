@@ -30,9 +30,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-industry-news
 - 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
+- 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 - 2026-05-13-nvidia-ceo-foundation-buys-108m-in-coreweave-compute-to-dona
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 embedding_id: 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 event_name: ''
 ---
@@ -46,5 +46,5 @@ TSMC Q1 2026: Record Revenue of $35.6B, Up 35% YoY on AI Chip Demand
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-industry-news]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]] · [[2026-05-13-nvidia-ceo-foundation-buys-108m-in-coreweave-compute-to-dona]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
+**Related:** [[2026-04-10-industry-news]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-05-13-nvidia-ceo-foundation-buys-108m-in-coreweave-compute-to-dona]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

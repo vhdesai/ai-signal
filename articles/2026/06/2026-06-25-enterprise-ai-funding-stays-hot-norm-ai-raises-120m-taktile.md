@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1
 - 2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m
+- 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
 - 2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation
 - 2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Despite cooling public-market sentiment, private capital kept flowing into appli
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1]] · [[2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-06-25-nyc-ai-funding-stays-hot-norm-ai-raises-120m-taktile-lands-1]] · [[2026-06-25-nyc-funding-day-norm-ai-raises-120m-taktile-raises-110m]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]] · [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu]]
 <!-- graph:end -->

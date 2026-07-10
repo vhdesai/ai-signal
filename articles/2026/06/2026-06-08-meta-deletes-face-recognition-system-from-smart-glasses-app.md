@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
-- 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 embedding_id: 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta removed a face-recognition system from its Meta AI smart glasses companion 
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
+**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]]
 <!-- graph:end -->

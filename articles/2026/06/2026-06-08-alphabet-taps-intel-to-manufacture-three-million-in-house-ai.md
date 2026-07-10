@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
 - 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
 - 2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
 embedding_id: 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet tapped Intel to manufacture three million in-house AI chips — a signi
 
 **Entities:** [[Google]] · [[Intel]] · [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
+**Related:** [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]]
 <!-- graph:end -->

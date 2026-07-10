@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
+- 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
 - 2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i
-- 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
 embedding_id: 2026-05-28-illinois-passes-a-landmark-ai-safety-framework
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The digest feed reported that Illinois passed SB 315, described as the strongest
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]] · [[2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb]]
+**Related:** [[2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]]
 <!-- graph:end -->

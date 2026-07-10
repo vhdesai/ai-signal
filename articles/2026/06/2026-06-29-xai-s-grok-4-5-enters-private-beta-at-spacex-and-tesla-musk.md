@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
 - 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 - 2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls
-- 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
+- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 embedding_id: 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI's Grok 4.5, built on its 1.5-trillion-parameter V9 foundation model, entered
 
 **Entities:** [[Tesla]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]] · [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]]
+**Related:** [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]] · [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]]
 <!-- graph:end -->

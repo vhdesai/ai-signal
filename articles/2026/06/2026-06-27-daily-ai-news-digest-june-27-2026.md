@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p
 - 2026-06-26-daily-ai-news-digest-june-26-2026
 - event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
-- 2026-06-17-daily-ai-news-digest-june-18-2026
+- 2026-07-08-daily-ai-news-digest-july-9-2026
 embedding_id: 2026-06-27-daily-ai-news-digest-june-27-2026
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Source window: last 24 hours (2026-06-26 09:18 PDT → 2026-06-27 09:18 PDT) The
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]]
+**Related:** [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]]
 <!-- graph:end -->

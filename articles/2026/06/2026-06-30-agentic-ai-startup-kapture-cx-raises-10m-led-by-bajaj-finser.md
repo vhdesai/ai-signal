@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-- 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 embedding_id: 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Bengaluru-based Kapture CX, which builds agentic AI for customer experience, rai
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke]]
+**Related:** [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]]
 <!-- graph:end -->

@@ -20,7 +20,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
+canonical_article_id: 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 related_article_ids: []
 embedding_id: 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
 event_name: ''
@@ -35,5 +35,5 @@ Amazon is preparing to raise at least $25 billion through a US dollar-denominate
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]]
+**Canonical:** [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
 <!-- graph:end -->

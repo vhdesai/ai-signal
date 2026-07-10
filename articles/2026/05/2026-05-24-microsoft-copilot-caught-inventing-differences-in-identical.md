@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
-- 2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-- 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
+- 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
+- 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 embedding_id: 2026-05-24-microsoft-copilot-caught-inventing-differences-in-identical
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mathematician Adam Kucharski showed that Microsoft Copilot, on default model set
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]]
+**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
-- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
+- 2026-07-07-microsoft-mai-model-deployment
+- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 embedding_id: 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Microsoft has reportedly begun routing some Office 365 prompts in Excel and Word
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
+**Related:** [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-07-microsoft-mai-model-deployment]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

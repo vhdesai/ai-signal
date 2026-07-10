@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
+- 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
-- 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
 embedding_id: 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta is testing smart-glasses prototypes with a “Super Sensing” mode that co
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]]
+**Related:** [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]]
 <!-- graph:end -->

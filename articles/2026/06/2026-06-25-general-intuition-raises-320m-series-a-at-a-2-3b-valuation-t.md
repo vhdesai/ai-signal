@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-- 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 embedding_id: 2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ York lab General Intuition closed a $320 million Series A at a $2.3 billion valu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]]
+**Related:** [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting
 - 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
+- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
+- 2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m
 embedding_id: 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at Carnegie Mellon's Software Engineering Institute, with academic, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]]
 <!-- graph:end -->

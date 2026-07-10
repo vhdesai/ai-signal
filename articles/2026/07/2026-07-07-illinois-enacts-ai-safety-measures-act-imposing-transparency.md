@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc
 - 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
+- 2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements
 - 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
-- 2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb
 embedding_id: 2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Illinois Governor JB Pritzker signed Senate Bill 315, the AI Safety Measures Act
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]] · [[2026-05-28-illinois-passes-landmark-frontier-ai-accountability-bill-sb]]
+**Related:** [[2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements]] · [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]]
 <!-- graph:end -->

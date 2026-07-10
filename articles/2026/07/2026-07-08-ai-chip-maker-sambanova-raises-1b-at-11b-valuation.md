@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation
 embedding_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 event_name: ''
 ---
@@ -32,5 +33,5 @@ SambaNova raised a $1 billion first close for its Series F at an $11 billion val
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]]
+**Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation]]
 <!-- graph:end -->

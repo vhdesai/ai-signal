@@ -24,6 +24,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
 - 2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati
 - 2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a
@@ -41,5 +42,5 @@ A new VentureBeat analysis flags an emerging category of incidents enterprises a
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati]] · [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
+**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati]] · [[2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]]
 <!-- graph:end -->

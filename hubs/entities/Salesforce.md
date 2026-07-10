@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 29
+member_count: 32
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 29 connected article(s).
+> Auto-generated entity hub. 32 connected article(s).
 
+- `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
+- `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr|OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks]]
+- `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr|OpenAI introduces ChatGPT Work, merging Codex into an enterprise agent platform]]
 - `2026-07-08` [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts|Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]

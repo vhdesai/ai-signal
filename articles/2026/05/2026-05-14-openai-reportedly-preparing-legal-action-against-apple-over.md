@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
+- 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-04-01-products-tools
 embedding_id: 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI is reportedly preparing legal action against Apple over the terms of the 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-04-01-products-tools]]
+**Related:** [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
 <!-- graph:end -->

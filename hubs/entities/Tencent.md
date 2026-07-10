@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 78
+member_count: 81
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 78 connected article(s).
+> Auto-generated entity hub. 81 connected article(s).
 
+- `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for|Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and coding tasks]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
@@ -84,5 +86,6 @@ member_count: 78
 - `2026-04-22` [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20|TRENDINGTencent and Alibaba close in on DeepSeek round at $20B+ valuation]]
 - `2026-04-22` [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster|Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultaneously training seven models, including a 6-trillion and a 10-trillion parameter variant — by far the largest publicly confirmed model size in the industry. The Grok Imagine V2 video model and multiple 1–1.5T parameter variants are also in training. Expected release timing is mid-2026, which would mark a significant scale inflection if xAI can close the quality gap alongside raw parameter count.]]
 - `2026-04-22` [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10|Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models. Amazon will invest $5 billion immediately plus up to $20 billion more — on top of a prior $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips. This positions AWS as the primary compute backbone for one of the world's leading AI labs, a significant competitive coup against Microsoft Azure and Google Cloud.]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview. The cadence cements Alibaba as the most prolific open-weight frontier shipper of the quarter.]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

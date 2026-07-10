@@ -19,13 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
-- 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+dedupe_status: duplicate
+canonical_article_id: 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
+related_article_ids: []
 embedding_id: 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
 event_name: ''
 ---
@@ -39,5 +35,5 @@ Amazon is preparing to raise at least $25 billion through an eight-part bond off
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
+**Canonical:** [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
 <!-- graph:end -->

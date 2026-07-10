@@ -35,7 +35,7 @@ related_article_ids:
 - 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
-- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
+- 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 embedding_id: 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 event_name: ''
 ---
@@ -49,5 +49,5 @@ RSAC 2026: Microsoft, Cisco, CrowdStrike & Splunk Keynotes Converge on One Messa
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]]
+**Related:** [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]]
 <!-- graph:end -->

@@ -1,20 +1,30 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 433
+member_count: 449
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 433 connected article(s).
+> Auto-generated topic hub. 449 connected article(s).
 
+- `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-08` [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f|Zhipu AI shares surge on $4B fundraise as Chinese labs race frontier]]
+- `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r|White House disputes “clearing” GPT‑5.6 as US frontier-model review regime takes shape]]
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
 - `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
 - `2026-07-08` [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model|MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model]]
 - `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
+- `2026-07-08` [[2026-07-08-daily-ai-news-digest-july-9-2026|Daily AI News Digest – July 9, 2026]]
 - `2026-07-08` [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m|China’s MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model]]
+- `2026-07-08` [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall|China's Zhipu AI Seeks ~$4B in Hong Kong Share Sale After Rally]]
+- `2026-07-08` [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau|China warns of a “back-door” vulnerability in Anthropic’s Claude Code]]
+- `2026-07-08` [[2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod|China warns of a security backdoor in Anthropic's Claude Code; Alibaba bans it internally]]
 - `2026-07-08` [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant|China says it found “security backdoor” vulnerabilities in Anthropic’s Claude Code]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-08` [[2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code|China Warns of "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It]]
 - `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
 - `2026-07-08` [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali|China Flags "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It Internally]]
 - `2026-07-07` [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet|Why the rise of open source AI isn’t hurting Anthropic yet]]
@@ -27,16 +37,21 @@ member_count: 433
 - `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
 - `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
 - `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
-- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek is developing its own AI inference chip]]
 - `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-07` [[2026-07-07-deepseek-accelerates-custom-chip-efforts|DeepSeek Accelerates Custom Chip Efforts]]
 - `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
 - `2026-07-07` [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c|Chinese open models gain ground with U.S. firms as frontier costs climb]]
 - `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f|Chinese Open-Weight Models Gain U.S. Enterprise Adoption as Frontier Costs Rise]]
 - `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos|Chinese Open-Weight Models Gain U.S. Adoption as Frontier Costs Rise]]
 - `2026-07-07` [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a|Chinese AI models gain ground with U.S. companies as OpenAI and Anthropic costs surge]]
+- `2026-07-07` [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode|China Weighs Restricting Access to Its Most Powerful AI Models]]
+- `2026-07-07` [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code|China Flags "Security Backdoor" in Anthropic's Claude Code]]
+- `2026-07-07` [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models|Beijing Weighs Export Controls on Its Own Best AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
+- `2026-07-07` [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with|*See the original digest email for the complete content with all 14 items covering: OpenAI GPT-5.6 public release, SpaceXAI Grok 4.5 launch and Cursor partnership, MiniMax 2.7T-parameter open-weight model, Meta Muse image generator, Anthropic Claude Cowork expansion and Microsoft 365 write tools, Microsoft MAI model deployment, AI funding at record scale, SambaNova $1B raise, Amazon $25B bond sale, DeepSeek chip efforts, China/Anthropic security claims, Illinois AI safety legislation, Beijing export control considerations, and the Future of Life Institute AI Safety Index.*]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
 - `2026-07-06` [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s|Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size]]
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0]]
@@ -423,6 +438,7 @@ member_count: 433
 - `2026-04-13` [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u|Stanford 2026 AI Index: SWE-Bench Scores 60→100% in One Year; US-China Gap "Effectively Closed"]]
 - `2026-04-13` [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today|Source: MIT CSAIL · UC Berkeley · National Day Today]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to what Baidu described as a "synchronization issue in a remote sensing update." The incident caused widespread traffic disruption and prompted Chinese regulators to open a safety investigation into Baidu's over-the-air update protocols for autonomous vehicles. Baidu's Apollo Go stock dropped 8% following the disclosure, intensifying global scrutiny of fleet-scale AV deployment safety and OTA update risk management.]]
 - `2026-04-12` [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i|Florida Attorney General James Uthmeier announced a formal investigation into OpenAI and ChatGPT, alleging the suspect in the April 2025 FSU campus shooting (which killed two people) had 200+ ChatGPT messages including queries about mass shooting logistics before carrying out the attack. Subpoenas are described as "forthcoming," with additional concerns cited including ChatGPT's alleged role in CSAM generation, self-harm encouragement, and potential national security risks tied to China. This is the most prominent state-level enforcement action against an AI company related to real-world harm to date.]]
 - `2026-04-12` [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un|Alibaba's Qwen team released Qwen3.6-Plus on Hugging Face under Apache 2.0, leading Chinese-language benchmarks and achieving competitive results on English tasks against GPT-5.4, with a 128K token context window and strong code and math reasoning. Separately, Alibaba quietly previewed HappyHorse-1.0, a video generation model with realistic physical simulation and temporal coherence, positioned to compete with OpenAI's Sora 2 and Google's Veo 3 — with limited enterprise beta expected in Q2. Alibaba is executing on two simultaneous competitive fronts: open-source language models and closed proprietary video generation.]]

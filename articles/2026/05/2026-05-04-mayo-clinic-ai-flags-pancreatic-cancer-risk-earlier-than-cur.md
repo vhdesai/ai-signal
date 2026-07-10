@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 - 2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before
+- 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
 - 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
-- 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 embedding_id: 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Mayo Clinic / Harvard-affiliated study reports an AI system that detects eleva
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]]
+**Related:** [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse]]
 <!-- graph:end -->

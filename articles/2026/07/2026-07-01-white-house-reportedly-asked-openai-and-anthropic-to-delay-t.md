@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
-- 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 embedding_id: 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Hill reports the administration's request that OpenAI and Anthropic delay or
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]]
+**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]]
 <!-- graph:end -->

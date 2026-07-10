@@ -1,13 +1,30 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 235
+member_count: 258
 ---
 
 # Meta
 
-> Auto-generated entity hub. 235 connected article(s).
+> Auto-generated entity hub. 258 connected article(s).
 
+- `2026-07-10` [[2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a|Meta ships low-cost Muse Spark 1.1, undercutting OpenAI and Anthropic on price]]
+- `2026-07-10` [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate|Meta opens Muse Spark 1.1 — its first paid AI API — at cut-rate pricing]]
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
+- `2026-07-10` [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc|Amazon CTO Vogels: Enterprises Pivoting to Cheaper Open-Source Models]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september|Meta to start producing in-house Iris AI chip in September]]
+- `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t|Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 14 GW by 2027]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1|Meta enters the crowded AI coding battle with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1|Meta enters the agentic-coding race with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1|Meta enters the agentic-coding market with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb|Meta Breaks Ground on First Canadian Data Center — 1 GW in Alberta]]
+- `2026-07-09` [[2026-07-09-google-photos-rolls-out-ai-video-remix|Google Photos Rolls Out AI “Video Remix”]]
+- `2026-07-09` [[2026-07-09-daily-ai-news-digest-july-10-2026|Daily AI News Digest – July 10, 2026]]
+- `2026-07-08` [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg|Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.]]
 - `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th|Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughout the Day]]
 - `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses|Meta Tests Always-On “Super Sensing” AI Glasses]]
 - `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
@@ -16,11 +33,16 @@ member_count: 235
 - `2026-07-07` [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator|Meta rolls out Muse, a new AI image generator]]
 - `2026-07-07` [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use|Meta launches Muse Image, drawing immediate backlash over use of users’ photos]]
 - `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse|Meta launches Muse Image generator, immediately drawing consent backlash]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-backlas|Meta launches Muse Image generator, drawing immediate backlash over user photos]]
 - `2026-07-07` [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac|Meta Ships Muse Image, an Agentic Generator — and Immediate Backlash]]
 - `2026-07-07` [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig|Meta Launches Muse Image, First Model from Meta Superintelligence Labs]]
 - `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent|Meta Launches Muse Image Generator, Drawing Immediate Consent Backlash]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash|Meta Launches Muse Image Generator Amid Privacy Backlash]]
+- `2026-07-07` [[2026-07-07-meta-launches-muse-image-generator|Meta Launches Muse Image Generator]]
 - `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
 - `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
+- `2026-07-07` [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure|Amazon Lines Up $25B Bond Sale for AI Infrastructure]]
+- `2026-07-07` [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with|*See the original digest email for the complete content with all 14 items covering: OpenAI GPT-5.6 public release, SpaceXAI Grok 4.5 launch and Cursor partnership, MiniMax 2.7T-parameter open-weight model, Meta Muse image generator, Anthropic Claude Cowork expansion and Microsoft 365 write tools, Microsoft MAI model deployment, AI funding at record scale, SambaNova $1B raise, Amazon $25B bond sale, DeepSeek chip efforts, China/Anthropic security claims, Illinois AI safety legislation, Beijing export control considerations, and the Future of Life Institute AI Safety Index.*]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te|Even Realities hits $1B valuation on $150M from Meituan and Tencent]]
@@ -228,6 +250,7 @@ member_count: 235
 - `2026-04-15` [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators|Apple's Grok Deepfake Standoff Disclosed to Senators]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-14` [[2026-04-14-source-tech-insider-updated-april-2026|Source: Tech-Insider (updated April 2026)]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-11` [[2026-04-11-sources-include-45-retrieved-articles-cross-referenced-from|Sources include 45+ retrieved articles cross-referenced from CNBC, Bloomberg, TechCrunch, VentureBeat, Axios, The Hacker News, Politico, CnTechPost, OfficeChai, Motley Fool, Meta Blog, and Plural Policy. Stories verified against two or more independent sources where possible. Some stories — particularly those involving Anthropic's legal proceedings and DeepSeek V4 — are actively developing; monitor for updates throughout the day.]]
 - `2026-04-11` [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the|Meta released Muse Spark, a multimodal creative model and the first output from Meta Superintelligence Labs under Scale AI co-founder Alexandr Wang, featuring a "Contemplating" inference mode that extends compute time on complex tasks for substantially higher-quality outputs. The Meta AI app surged from #57 to #5 on the U.S. App Store within 24 hours of the launch, with Sensor Tower estimating 46,000 U.S. iOS downloads on April 8 — an 87% day-over-day increase. Meta AI still trails ChatGPT (#1), Claude (#2), and Gemini (#3), but the ranking jump signals meaningful consumer traction for a platform that was largely ignored a year ago.]]
 - `2026-04-10` [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m|Meta has debuted Muse Spark, its first major proprietary AI model since its $14B deal to bring in Scale AI's Alexandr Wang — a notable departure from the company's longstanding open-source approach under the LLaMA family. The consumer-facing app rocketed to #5 on the App Store within hours of launch. The product marks a strategic pivot toward monetizing AI directly rather than seeding the developer ecosystem.]]

@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
+- 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
 - 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 - 2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b
-- 2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi
 embedding_id: 2026-06-24-qualcomm-enters-the-data-center-cpu-race-with-dragonfly-c100
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Qualcomm revealed the Dragonfly C1000, a data-center CPU built for agentic AI wi
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b]] · [[2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi]]
+**Related:** [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b]]
 <!-- graph:end -->

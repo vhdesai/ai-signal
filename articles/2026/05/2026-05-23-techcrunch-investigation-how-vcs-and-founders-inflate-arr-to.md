@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
 - 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an investigative piece on AI-startup ARR inflation, with Sp
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]]
 <!-- graph:end -->

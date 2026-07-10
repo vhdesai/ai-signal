@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
+- 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
+- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
+- 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
-- 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-- 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
-- 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 embedding_id: 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft's May 2026 Copilot update brings GPT-5.5 reasoning into Microsoft 365 
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]]
+**Related:** [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]]
 <!-- graph:end -->

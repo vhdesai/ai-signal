@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-- 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 embedding_id: 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 event_name: ''
 ---
@@ -40,5 +40,5 @@ As flagship model prices soar, enterprise customers are aggressively optimizing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
+**Related:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
 <!-- graph:end -->

@@ -1,19 +1,25 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 142
+member_count: 150
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 142 connected article(s).
+> Auto-generated entity hub. 150 connected article(s).
 
+- `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau|China warns of a “back-door” vulnerability in Anthropic’s Claude Code]]
+- `2026-07-08` [[2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod|China warns of a security backdoor in Anthropic's Claude Code; Alibaba bans it internally]]
 - `2026-07-08` [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant|China says it found “security backdoor” vulnerabilities in Anthropic’s Claude Code]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-08` [[2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code|China Warns of "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It]]
 - `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
 - `2026-07-08` [[2026-07-08-china-flags-security-backdoor-in-anthropic-s-claude-code-ali|China Flags "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It Internally]]
 - `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
+- `2026-07-07` [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode|China Weighs Restricting Access to Its Most Powerful AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
 - `2026-07-06` [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr|Study: AI Writing Tools Quietly Shift the Meaning of Users' Drafts]]
@@ -107,6 +113,7 @@ member_count: 142
 - `2026-05-14` [[2026-05-14-trump-clears-nvidia-h200-sales-to-alibaba-tencent-and-8-othe|Trump Clears Nvidia H200 Sales to Alibaba, Tencent and 8 Others — Beijing Halts Deliveries]]
 - `2026-05-14` [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten|Trump Administration Clears Nvidia H200 Sales to Alibaba, Tencent, and 8 Others — But Beijing Halts Deliveries]]
 - `2026-05-14` [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr|Alibaba & Tencent Signal AI Spending Surge Despite Earnings Pressure as Huawei Chips Ramp]]
+- `2026-05-13` [[2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio|Forum AI: Campbell Brown's Benchmark Platform Tests Foundation Models on Contested High-Stakes Domains]]
 - `2026-05-13` [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri|Alibaba's Qwen 3.6 Lands — 27B and 35B Variants Outperform Prior 120B/400B Models]]
 - `2026-05-12` [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-starts-new-ai-lab-at-2b|Former Alibaba Qwen Lead Junyang Lin Starts New AI Lab at ~$2B Valuation]]
 - `2026-05-12` [[2026-05-12-former-alibaba-qwen-lead-junyang-lin-raises-for-2b-valued-ai|Former Alibaba Qwen Lead Junyang Lin Raises for $2B-Valued AI Lab]]
@@ -143,6 +150,7 @@ member_count: 142
 - `2026-04-22` [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next|Alongside its hardware and agent announcements at Cloud Next, Google Cloud unveiled a $750 million fund to help businesses implement AI solutions faster, with a focus on enterprise digital transformation. The initiative includes expanded AI infrastructure support and training programs. The fund is designed to lower barriers for mid-market and large enterprise adoption of Google's AI stack, fueling demand across Google Cloud, TPU access, and partner ecosystems.]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-12` [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un|Alibaba's Qwen team released Qwen3.6-Plus on Hugging Face under Apache 2.0, leading Chinese-language benchmarks and achieving competitive results on English tasks against GPT-5.4, with a 128K token context window and strong code and math reasoning. Separately, Alibaba quietly previewed HappyHorse-1.0, a video generation model with realistic physical simulation and temporal coherence, positioned to compete with OpenAI's Sora 2 and Google's Veo 3 — with limited enterprise beta expected in Q2. Alibaba is executing on two simultaneous competitive fronts: open-source language models and closed proprietary video generation.]]
 - `2026-04-10` [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m|Meta has debuted Muse Spark, its first major proprietary AI model since its $14B deal to bring in Scale AI's Alexandr Wang — a notable departure from the company's longstanding open-source approach under the LLaMA family. The consumer-facing app rocketed to #5 on the App Store within hours of launch. The product marks a strategic pivot toward monetizing AI directly rather than seeding the developer ecosystem.]]
 - `2026-04-10` [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse|Alibaba has been unmasked as the developer behind HappyHorse-1.0, the stealth AI video generation model that debuted at the top of global benchmarks. The model was initially released anonymously before Alibaba confirmed its ownership, underscoring the company's aggressive push in multimodal generative AI. This positions Alibaba as a serious competitor to Sora, Runway, and Google Veo in the rapidly expanding AI video space.]]

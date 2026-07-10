@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
 - 2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access
+- 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
 - 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
 - 2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho
-- 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
 embedding_id: 2026-06-23-claude-fable-5-free-window-closes-usage-credits-required-fro
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fable 5 exits its free-inclusion window today — usage now requires credits at 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access]] · [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]]
+**Related:** [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access]] · [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]]
 <!-- graph:end -->

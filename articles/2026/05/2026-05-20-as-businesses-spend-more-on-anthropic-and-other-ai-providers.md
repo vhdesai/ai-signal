@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 embedding_id: 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Jamie Dimon: AI Will "Probably" Impact Banker Hiring at JPMorgan
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]]
+**Related:** [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

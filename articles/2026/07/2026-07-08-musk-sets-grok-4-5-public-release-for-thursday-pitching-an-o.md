@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls
 - 2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
-- 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
+- 2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class
 embedding_id: 2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Elon Musk said xAI’s Grok 4.5 will become publicly available Thursday, describ
 
 **Entities:** [[Anthropic]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]] · [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]]
+**Related:** [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]] · [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-07-08-spacexai-releases-grok-4-5-pitched-by-musk-as-an-opus-class]]
 <!-- graph:end -->

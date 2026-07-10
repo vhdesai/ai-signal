@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-daily-ai-news-digest-july-9-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
-- 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
-- 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 embedding_id: 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Today’s developments center on a hardening US–China split in AI. Beijing’s
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]]
+**Related:** [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]]
 <!-- graph:end -->

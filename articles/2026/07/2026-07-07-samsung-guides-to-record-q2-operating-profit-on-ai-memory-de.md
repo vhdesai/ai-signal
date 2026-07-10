@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c
 - 2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
-- 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
+- 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 embedding_id: 2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Samsung's preliminary second-quarter guidance showed a record 89.4 trillion won 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s]] · [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]]
+**Related:** [[2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s]] · [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
+- 2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h
+- 2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
-- 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
-- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 embedding_id: 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI announced three coordinated provenance moves: becoming a C2PA Conforming 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]]
+**Related:** [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
 <!-- graph:end -->

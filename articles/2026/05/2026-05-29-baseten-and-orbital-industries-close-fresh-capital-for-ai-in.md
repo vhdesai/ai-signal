@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 - 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
-- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
+- 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
 embedding_id: 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Baseten is reportedly in talks to raise at an $11 billion valuation, while Orbit
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
+**Related:** [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]]
 <!-- graph:end -->

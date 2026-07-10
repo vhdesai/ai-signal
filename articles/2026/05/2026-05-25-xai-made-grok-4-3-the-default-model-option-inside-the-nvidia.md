@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
 - 2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
+- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 embedding_id: 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Microsoft Research debuts Webwright — terminal-native agent framework
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
+**Related:** [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-19-xai-ships-grok-skills-and-openclaw-integration-for-supergrok]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]]
 <!-- graph:end -->

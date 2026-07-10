@@ -1,15 +1,30 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 450
+member_count: 466
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 450 connected article(s).
+> Auto-generated entity hub. 466 connected article(s).
 
+- `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing|SK Hynix raises $26.5B in blockbuster US listing]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing|SK Hynix raises $26.5B in blockbuster U.S. listing]]
+- `2026-07-09` [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade|Nvidia’s valuation resets to pre-AI-boom levels as the trade rotates to memory]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75|NVIDIA's “Iterative Puzzle” compresses a 120B hybrid MoE to 75B, roughly doubling throughput]]
+- `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september|Meta to start producing in-house Iris AI chip in September]]
+- `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t|Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 14 GW by 2027]]
+- `2026-07-09` [[2026-07-09-jensen-huang-says-his-software-engineers-prefer-building-age|Jensen Huang says his software engineers prefer building agents to writing code]]
+- `2026-07-08` [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work|xAI ships Grok 4.5, aimed squarely at coding and agentic workloads]]
+- `2026-07-08` [[2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads|SpaceXAI ships Grok 4.5 for coding and agentic workloads]]
+- `2026-07-08` [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks|SpaceXAI launches Grok 4.5 for coding and agentic tasks]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation|SambaNova raises $1B at an $11B valuation]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips|SambaNova Raises $1B at $11B Valuation for AI Inference Chips]]
+- `2026-07-08` [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl|Nvidia denies reports that Kyber / Rubin Ultra systems have slipped to 2028]]
 - `2026-07-08` [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th|Meta Tests Always-On “Super Sensing” AI Glasses That Record Throughout the Day]]
+- `2026-07-08` [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri|LangChain and NVIDIA release NemoClaw blueprint for enterprise agents]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
@@ -23,8 +38,9 @@ member_count: 450
 - `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
 - `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
 - `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
-- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek is developing its own AI inference chip]]
 - `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-07` [[2026-07-07-deepseek-accelerates-custom-chip-efforts|DeepSeek Accelerates Custom Chip Efforts]]
 - `2026-07-07` [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework|"LLM-as-a-Verifier: A General-Purpose Verification Framework"]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0]]

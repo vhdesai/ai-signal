@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
-- 2026-04-08-source-forbes-msn-the-neuron
+- 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
+- 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
 embedding_id: 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta unveiled a $600B AI investment plan anchored by its new Muse Spark model, p
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-04-08-source-forbes-msn-the-neuron]]
+**Related:** [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]]
 <!-- graph:end -->

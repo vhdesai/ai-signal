@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash
+- 2026-07-07-meta-launches-muse-image-generator-drawing-immediate-backlas
 - 2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent
 - 2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse
 - 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
-- 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
-- 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 embedding_id: 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta unveiled Muse Image (code-named “Mango”), a free AI image generator fro
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]] · [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig]] · [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac]] · [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]]
+**Related:** [[2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash]] · [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-backlas]] · [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]] · [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig]]
 <!-- graph:end -->

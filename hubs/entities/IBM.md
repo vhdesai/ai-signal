@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 58
+member_count: 62
 ---
 
 # IBM
 
-> Auto-generated entity hub. 58 connected article(s).
+> Auto-generated entity hub. 62 connected article(s).
 
+- `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
@@ -44,6 +46,7 @@ member_count: 58
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
 - `2026-05-14` [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e|Oracle AI Gains Traction in Utilities: Air Selangor, El Paso Electric, and Exelon Recognized as AI Leaders]]
 - `2026-05-14` [[2026-05-14-ibm-launches-red-hat-ai-inference-server-and-openshift-ai-vi|IBM Launches Red Hat AI Inference Server and OpenShift AI Virtualization]]
+- `2026-05-13` [[2026-05-13-forum-ai-campbell-brown-s-benchmark-platform-tests-foundatio|Forum AI: Campbell Brown's Benchmark Platform Tests Foundation Models on Contested High-Stakes Domains]]
 - `2026-05-12` [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio|Palantir CEO Alex Karp meets Zelenskyy; deepens AI cooperation with Ukraine]]
 - `2026-05-12` [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Meta, Apple, Amazon, Cerebras, IBM, Baidu, Alibaba, Palantir, Sakana AI, Tilde Research · News: TechCrunch AI, VentureBeat AI, The Hacker News, Bloomberg, Reuters, Forbes, CNBC, CRN, Decrypt, Motley Fool, SCMP, India Today, Gizmodo, The Next Web, Inc., MarkTechPost · Research: arXiv cs.AI, MIT Technology Review, Stanford HAI, NVIDIA Blog, The Neuron Daily, METR, Google Cloud Blog (GTIG) · No confirmed May 11–12 items: Mistral Blog, Replit, Databricks, Huawei, SenseTime, Cursor, DeepSeek, BAIR Blog, Apple ML Research Blog, MIT News, The Batch (DeepLearning.AI), Princeton AI, UT Austin, Georgia Tech, UCSD, Purdue]]
 - `2026-05-09` [[2026-05-09-newnvidia-launches-nvidia-ising-world-s-first-open-source-qu|NewNvidia Launches "Nvidia Ising" — World's First Open-Source Quantum AI Models]]
@@ -63,6 +66,7 @@ member_count: 58
 - `2026-04-29` [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model|IBM Granite 4.1 Series Released: Open-Source Enterprise Models at 3B, 8B, and 30B Scale New]]
 - `2026-04-27` [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod|OpenAI released a public specification for orchestrating coding agents (Symphony), accompanied by Cursor opening its agent runtime as a TypeScript SDK and Warp open-sourcing its IDE. The week marked a clear inflection toward standardized multi-agent orchestration patterns in production tooling.]]
 - `2026-04-23` [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter|ServiceNow −17%, IBM −9% as AI-displacement commentary hits enterprise SaaS]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-02` [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ|Apple is reportedly pivoting its AI strategy to deeply integrate third-party foundation models — including Anthropic's Claude and Google's Gemini — directly into Siri and iOS 27, following an internal acknowledgment that Apple Intelligence models lag behind competitors. The design would allow Siri to route complex queries to best-in-class external models while maintaining Apple's on-device privacy architecture for sensitive tasks. This marks a significant departure from Apple's historically siloed approach and signals that even the most proprietary tech giant has concluded open partnerships outcompete internal development in the current AI climate.]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastructure as central to U.S.-Israeli targeting intelligence. Named targets include Apple, Google, Meta, Microsoft, Nvidia, Oracle, IBM, Palantir, Intel, Cisco, HP, Dell, Boeing, Tesla, GE, J.P. Morgan, and UAE AI firm G42. Iran struck AWS data centers in the UAE in March causing cloud outages. Healix CEO: "Tech assets are now treated as part of the conflict, not peripheral to it." This creates a direct geopolitical risk category for AI infrastructure across the Gulf.]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

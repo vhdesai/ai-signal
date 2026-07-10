@@ -21,7 +21,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
-related_article_ids: []
+related_article_ids:
+- 2026-07-07-meta-launches-muse-image-generator
 embedding_id: 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
 event_name: ''
 ---
@@ -36,4 +37,5 @@ Meta unveiled Muse Image, an agentic image-generation model that uses tools such
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]]
+**Related:** [[2026-07-07-meta-launches-muse-image-generator]]
 <!-- graph:end -->

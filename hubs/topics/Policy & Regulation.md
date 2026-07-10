@@ -1,14 +1,33 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 642
+member_count: 667
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 642 connected article(s).
+> Auto-generated topic hub. 667 connected article(s).
 
+- `2026-07-10` [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills|Senator Markey unveils an “AI accountability” package of bills]]
+- `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-09` [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo|OpenAI doubles its biosecurity jailbreak bounty to $50,000 for GPT-5.6]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c|News organizations ask federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright|New York Times says OpenAI hid evidence in ChatGPT copyright trial]]
+- `2026-07-09` [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t|NYT accuses OpenAI of hiding evidence in ChatGPT copyright trial, seeks sanctions]]
+- `2026-07-09` [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com|Microsoft's Brad Smith: “Regulation Without Transparent or Complete Rules”]]
+- `2026-07-08` [[2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru|“HalluSquatting” Attack Can Trick AI Coding Assistants Into Running Malicious Code]]
+- `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r|White House disputes “clearing” GPT‑5.6 as US frontier-model review regime takes shape]]
+- `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model|White House disputes clearing GPT-5.6 as U.S. frontier-model review regime takes shape]]
+- `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-review|White House Disputes "Clearing" GPT-5.6 as US Frontier Review Regime Takes Shape]]
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout|U.S. Clears OpenAI's GPT-5.6 for Broad Public Rollout]]
+- `2026-07-08` [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg|Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.]]
+- `2026-07-08` [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri|LangChain and NVIDIA release NemoClaw blueprint for enterprise agents]]
+- `2026-07-08` [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau|China warns of a “back-door” vulnerability in Anthropic’s Claude Code]]
+- `2026-07-08` [[2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod|China warns of a security backdoor in Anthropic's Claude Code; Alibaba bans it internally]]
+- `2026-07-08` [[2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code|China Warns of "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It]]
 - `2026-07-08` [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba|China Flags a “Backdoor” in Anthropic’s Claude Code; Alibaba Bans It Internally]]
 - `2026-07-07` [[2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene|UN's First Global Dialogue on AI Governance Convenes in Geneva]]
 - `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
@@ -16,13 +35,18 @@ member_count: 642
 - `2026-07-07` [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator|Meta rolls out Muse, a new AI image generator]]
 - `2026-07-07` [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency|Illinois enacts AI Safety Measures Act, imposing transparency duties on frontier developers]]
 - `2026-07-07` [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa|Illinois Enacts First-in-Nation Law Requiring Independent Safety Audits of Frontier AI Developers]]
+- `2026-07-07` [[2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements|Illinois AI Safety Law Toughens Reporting Requirements]]
 - `2026-07-07` [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple|Future of Life Institute: Top AI Labs Retreat From Safety Pledges]]
 - `2026-07-07` [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac|ECB orders euro-zone banks to plan for AI-enabled cyberattacks]]
 - `2026-07-07` [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe|ECB asks euro-area banks for plans to address AI-driven cyber threats]]
 - `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
+- `2026-07-07` [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode|China Weighs Restricting Access to Its Most Powerful AI Models]]
+- `2026-07-07` [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code|China Flags "Security Backdoor" in Anthropic's Claude Code]]
+- `2026-07-07` [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models|Beijing Weighs Export Controls on Its Own Best AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-reportedly-weighs-restricting-overseas-access-to-adv|Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models]]
 - `2026-07-07` [[2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf|Australia warns models are "going their own way" as its AI Safety Institute starts testing]]
+- `2026-07-07` [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with|*See the original digest email for the complete content with all 14 items covering: OpenAI GPT-5.6 public release, SpaceXAI Grok 4.5 launch and Cursor partnership, MiniMax 2.7T-parameter open-weight model, Meta Muse image generator, Anthropic Claude Cowork expansion and Microsoft 365 write tools, Microsoft MAI model deployment, AI funding at record scale, SambaNova $1B raise, Amazon $25B bond sale, DeepSeek chip efforts, China/Anthropic security claims, Illinois AI safety legislation, Beijing export control considerations, and the Future of Life Institute AI Safety Index.*]]
 - `2026-07-06` [[2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva|UN Opens First Global Dialogue on AI Governance in Geneva]]
 - `2026-07-06` [[2026-07-06-read-at-technode|Read at TechNode →]]
 - `2026-07-06` [[2026-07-06-pritzker-signs-illinois-bill-aimed-at-artificial-intelligenc|Pritzker signs Illinois bill aimed at artificial intelligence accountability]]
@@ -615,6 +639,7 @@ member_count: 642
 - `2026-04-12` [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho|Researchers from UC Berkeley's Center for AI Safety co-authored a widely-cited study warning that peer-reviewed literature is being overwhelmed by low-quality AI-generated papers, with some subfields seeing 30–40% of new submissions flagged as substantially AI-written without meaningful human intellectual contribution. The team proposed a multi-layered detection framework combining perplexity analysis, citation graph anomaly detection, and expert spot-checking. Nature, Science, and Cell editorial boards all announced tightened AI disclosure policies in direct response to the paper.]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents|RSA Conference 2026 / RSAC 2026: Zero trust for AI agents]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and|RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes with Palantir's Maven Smart System and AIP government AI platform. Hedge fund manager Michael Burry disclosed a significant short position, citing overvaluation relative to increasing competition from foundation model providers entering the government AI space. Palantir CEO Alex Karp responded by doubling down on the company's "human-AI teaming" differentiation, while separate reports emerged that Maven was used in planning support for U.S. military operations involving Iran — reigniting ethical controversy.]]
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to what Baidu described as a "synchronization issue in a remote sensing update." The incident caused widespread traffic disruption and prompted Chinese regulators to open a safety investigation into Baidu's over-the-air update protocols for autonomous vehicles. Baidu's Apollo Go stock dropped 8% following the disclosure, intensifying global scrutiny of fleet-scale AV deployment safety and OTA update risk management.]]
 - `2026-04-11` [[2026-04-11-academic-research|🎓 Academic Research]]

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3
-- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 embedding_id: 2026-06-26-italy-opens-antitrust-probe-into-microsoft-365-price-hike-ti
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Italy’s competition authority (AGCM) opened an investigation into Microsoft Ir
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
+**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-05-25-microsoft-makes-copilot-optional-in-windows-11-after-just-3]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
+- 2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla
 - 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
 - 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 - 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
@@ -37,5 +38,5 @@ Anthropic published a 16-author paper describing a "Jacobian lens" (J-lens) tech
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]]
+**Related:** [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
 - 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
-- 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
-- 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
 embedding_id: 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A June 2 executive order asking AI developers to submit advanced models for fede
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]]
+**Related:** [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]]
 <!-- graph:end -->

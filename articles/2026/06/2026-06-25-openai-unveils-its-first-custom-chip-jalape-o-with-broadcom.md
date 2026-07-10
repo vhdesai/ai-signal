@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 - 2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw
 - 2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv
-- 2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip
+- 2026-07-07-deepseek-accelerates-custom-chip-efforts
 embedding_id: 2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI revealed its first custom accelerator, "Jalapeño," co-designed with Broa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip]]
+**Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-07-deepseek-accelerates-custom-chip-efforts]]
 <!-- graph:end -->

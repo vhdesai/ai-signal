@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
+- 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
+- 2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
-- 2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in
 embedding_id: 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Micron began construction Saturday on a ¥1.5 trillion (~$9.3B) expansion of its
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in]]
+**Related:** [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
 <!-- graph:end -->

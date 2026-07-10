@@ -1,18 +1,29 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 217
+member_count: 229
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 217 connected article(s).
+> Auto-generated entity hub. 229 connected article(s).
 
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-10` [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m|Amazon CTO: enterprises are shifting to cheaper open-source models to curb costs]]
+- `2026-07-10` [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou|Amazon CTO says enterprises are pivoting to cheaper open-source models]]
+- `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
+- `2026-07-10` [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc|Amazon CTO Vogels: Enterprises Pivoting to Cheaper Open-Source Models]]
+- `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]
+- `2026-07-09` [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a|AWS stands up a “Forward Deployed Engineering” org backed by a $1B Amazon investment]]
+- `2026-07-09` [[2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a|AWS Launches "Forward Deployed Engineering" Org Backed by $1B Amazon Investment]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-08` [[2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access|Anthropic reverses course, extends free Claude Fable 5 access to July 12 after backlash]]
 - `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
+- `2026-07-07` [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou|Amazon to raise at least $25B in bond sale to fund AI buildout]]
 - `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
 - `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
+- `2026-07-07` [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure|Amazon Lines Up $25B Bond Sale for AI Infrastructure]]
+- `2026-07-07` [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with|*See the original digest email for the complete content with all 14 items covering: OpenAI GPT-5.6 public release, SpaceXAI Grok 4.5 launch and Cursor partnership, MiniMax 2.7T-parameter open-weight model, Meta Muse image generator, Anthropic Claude Cowork expansion and Microsoft 365 write tools, Microsoft MAI model deployment, AI funding at record scale, SambaNova $1B raise, Amazon $25B bond sale, DeepSeek chip efforts, China/Anthropic security claims, Illinois AI safety legislation, Beijing export control considerations, and the Future of Life Institute AI Safety Index.*]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a|Anthropic's Claude Sonnet 5 Becomes Generally Available on AWS]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
@@ -201,6 +212,7 @@ member_count: 217
 - `2026-04-13` [[2026-04-13-industry-news|🏢 Industry News]]
 - `2026-04-13` [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini|Stanford AI Index: World AI Compute Grows 3.3× Per Year; Training Carbon Costs Now "Alarming"]]
 - `2026-04-13` [[2026-04-13-global-ai-compute-capacity-grows-3-3x-year-over-year-since-2|Global AI Compute Capacity Grows ~3.3x Year-Over-Year Since 2022]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middle management, redirecting savings toward AI data center construction and GPU procurement as it races to compete with AWS, Azure, and Google Cloud. Separately, Cerebras Systems — maker of the wafer-scale WSE-3 chip and holder of a $10B compute contract with OpenAI — is targeting a Q2 2026 IPO at approximately $23 billion, capitalizing on its anchor customer relationship for public market credibility.]]
 - `2026-04-11` [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app|Anthropic launched Project Glasswing, partnering with AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, Nvidia, and Palo Alto Networks to deploy Claude Mythos Preview exclusively for defensive cybersecurity. The model has already autonomously discovered thousands of high-severity zero-day vulnerabilities across major operating systems and browsers, including a 27-year-old bug in OpenBSD and a 16-year-old flaw in FFmpeg. Anthropic is committing up to $100M in usage credits and $4M in direct donations to open-source security organizations, with a 90-day remediation window for discovered vulnerabilities. Fast Company coverage asks whether the model tips the balance toward defenders or toward attacker acceleration.]]
 - `2026-04-10` [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c|Legislators including Bernie Sanders and Alexandria Ocasio-Cortez pushed legislation on April 11 calling for a nationwide moratorium on new AI data center construction, citing environmental concerns including electricity consumption, water usage, electricity price spikes in affected communities, and job displacement from AI automation. The proposal comes as Meta, Alphabet, Amazon, and Microsoft are collectively expected to spend $700 billion on AI infrastructure in 2026 alone. This represents one of the most aggressive legislative challenges yet to the AI infrastructure build-out.]]

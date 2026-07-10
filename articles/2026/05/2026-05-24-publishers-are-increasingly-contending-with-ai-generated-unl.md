@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
+- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 embedding_id: 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]]
+**Related:** [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

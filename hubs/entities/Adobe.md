@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 13
+member_count: 14
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 13 connected article(s).
+> Auto-generated entity hub. 14 connected article(s).
 
+- `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]
 - `2026-06-19` [[2026-06-19-adobe-embeds-firefly-creative-agent-into-chatgpt-claude-and|Adobe Embeds Firefly Creative Agent into ChatGPT, Claude, and Gemini]]
 - `2026-05-26` [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo|Anthropic names KiYoung Choi as Korea Representative Director, prepares Seoul office]]
 - `2026-05-26` [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b|After launching ChatGPT ads earlier this year with marquee brands (Adobe, Ford, Target), OpenAI is now courting small local businesses — car washes, dry cleaners — and launching action-oriented ad formats (book an appointment, submit a contact form). The move puts OpenAI directly into competition with Meta's small-business advertising machine and signals an intent to scale ads from prestige media buy to mass-market platform.]]

@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
+- 2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
-- 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
-- 2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex
+- 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
 embedding_id: 2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod
 event_name: ''
 ---
@@ -48,5 +48,5 @@ IRGC Threatens 18 U.S. Tech Firms Including Nvidia, Microsoft & Google as "Legit
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]] · [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]]
+**Related:** [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]]
 <!-- graph:end -->

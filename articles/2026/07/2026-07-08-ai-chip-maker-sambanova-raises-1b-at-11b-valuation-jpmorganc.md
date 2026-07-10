@@ -24,6 +24,8 @@ canonical_article_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuat
 related_article_ids:
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor
 - 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it
+- 2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an
+- 2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 embedding_id: 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
@@ -40,5 +42,5 @@ SambaNova closed a first tranche of a $1B Series F at an $11B post-money valuati
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
-**Related:** [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]]
+**Related:** [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]]
 <!-- graph:end -->

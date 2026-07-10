@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
+- 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 embedding_id: 2026-06-01-strava-restricts-data-access-to-curb-ai-scraping-ahead-of-it
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Strava announced tighter limits on how third parties can access its activity dat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]]
+**Related:** [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

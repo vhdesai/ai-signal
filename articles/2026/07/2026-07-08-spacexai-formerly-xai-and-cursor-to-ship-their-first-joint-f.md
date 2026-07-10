@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
+- 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
-- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 embedding_id: 2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Per an internal memo reported by The Information, SpaceXAI — the entity Musk c
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
+**Related:** [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]]
 <!-- graph:end -->

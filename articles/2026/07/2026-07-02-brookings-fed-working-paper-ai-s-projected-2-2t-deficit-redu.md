@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
@@ -36,5 +37,5 @@ A new working paper from economists at Brookings and the Federal Reserve finds A
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor]]
+**Related:** [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor]]
 <!-- graph:end -->

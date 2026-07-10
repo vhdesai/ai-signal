@@ -23,7 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
-- 2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho
+- 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
+- 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
 embedding_id: 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic released Claude Fable 5 — a Mythos-class model for all users — alo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-07-01-anthropic-ships-claude-sonnet-5-and-restores-fable-and-mytho]]
+**Related:** [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]] · [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
+- 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
 embedding_id: 2026-06-18-ferc-fast-tracks-data-center-power-requests
 event_name: ''
 ---
@@ -35,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]]
+**Related:** [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
+- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
-- 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
 embedding_id: 2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay
 event_name: ''
 ---
@@ -42,5 +42,5 @@ xAI shipped Grok 4.3 via the x.ai API, alongside news that Grok Voice mode is co
 
 **Entities:** [[Apple]] · [[Perplexity]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]]
+**Related:** [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 - 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 embedding_id: 2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI unveiled plugins extending Codex to non-engineering roles—public-equity
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]]
+**Related:** [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
 <!-- graph:end -->

@@ -20,7 +20,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
+canonical_article_id: 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 related_article_ids: []
 embedding_id: 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
 event_name: ''
@@ -35,5 +35,5 @@ Meta’s Superintelligence Labs released Muse Image, a free image generator avai
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]]
+**Canonical:** [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
+- 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
-- 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 embedding_id: 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced six new Codex agent plugins, an annotations feature, and a “S
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-25-openai-brings-codex-remote-to-general-availability-across-al]] · [[2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Related:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

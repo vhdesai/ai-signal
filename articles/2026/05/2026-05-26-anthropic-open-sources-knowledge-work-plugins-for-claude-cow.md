@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
+- 2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published an open-source repository of role-specific plugins that let 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
 <!-- graph:end -->

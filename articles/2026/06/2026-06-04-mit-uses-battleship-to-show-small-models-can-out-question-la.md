@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la
+- 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-07-09-mit-unveils-floatform-swarms-of-tiny-robot-boats-that-self-a
 embedding_id: 2026-06-04-mit-uses-battleship-to-show-small-models-can-out-question-la
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT CSAIL and Harvard SEAS used Battleship as a testbed for agent inquiry under 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
+**Related:** [[2026-06-05-mit-uses-battleship-to-show-small-models-can-out-question-la]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-09-mit-unveils-floatform-swarms-of-tiny-robot-boats-that-self-a]]
 <!-- graph:end -->

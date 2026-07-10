@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
+- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
+- 2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-04-09-products-tools
-- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 embedding_id: 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon retired an internal AI ranking system after employees inflated their scor
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-04-09-products-tools]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]]
+**Related:** [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
 <!-- graph:end -->

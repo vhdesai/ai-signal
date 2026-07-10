@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 38
+member_count: 41
 ---
 
 # Intel
 
-> Auto-generated entity hub. 38 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an|SambaNova raises $1B at an $11B valuation, lands JPMorgan as an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it|SambaNova raises $1B at an $11B valuation as JPMorgan names it an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor|SambaNova raises $1B at an $11B valuation and is named a JPMorgan inference partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation|SambaNova raises $1B at an $11B valuation]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc|SambaNova Raises $1B at $11B Valuation; JPMorgan Named Inference Partner]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc|AI-Chip Maker SambaNova Raises $1B at $11B Valuation; JPMorganChase Named Inference Partner]]
 - `2026-07-06` [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo|Intel-backed edge-AI chipmaker Syntiant files for IPO]]

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 - 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
+- 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
+- 2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles
 embedding_id: 2026-05-19-mit-releases-mighty-open-source-path-planning-for-mobile-rob
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers unveiled MIGHTY, an open-source path-planning system that rapidl
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]]
+**Related:** [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-09-mit-s-floatform-swarm-of-small-robotic-boats-self-assembles]]
 <!-- graph:end -->

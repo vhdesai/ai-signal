@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
+- 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 embedding_id: 2026-06-22-venture-capital-concentrates-on-ai-bottlenecks-3-37b-in-10-r
 event_name: ''
@@ -38,5 +39,5 @@ Nearly $3B of the day's ~$3.4B went to four infrastructure-layer deals: Baseten 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

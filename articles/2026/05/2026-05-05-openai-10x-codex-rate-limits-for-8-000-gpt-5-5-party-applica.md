@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
+- 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
 - 2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-- 2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners
 embedding_id: 2026-05-05-openai-10x-codex-rate-limits-for-8-000-gpt-5-5-party-applica
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI emailed 8,000+ developers who applied to its invite-only GPT-5.5 launch p
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners]]
+**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]] · [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
 <!-- graph:end -->

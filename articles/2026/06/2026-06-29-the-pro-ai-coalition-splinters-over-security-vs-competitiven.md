@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
-- 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 embedding_id: 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The U.S. pro-AI camp is fracturing publicly over whether national-security contr
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]]
+**Related:** [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]]
 <!-- graph:end -->

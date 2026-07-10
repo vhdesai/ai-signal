@@ -23,7 +23,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners
 - 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
-- 2026-06-26-openai-s-gpt-5-6-family-sol-terra-luna-stays-limited-to-gove
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 embedding_id: 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
 event_name: ''
@@ -38,5 +37,5 @@ OpenAI said it is complying with a U.S. government request to initially gate GPT
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners]] · [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-06-26-openai-s-gpt-5-6-family-sol-terra-luna-stays-limited-to-gove]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
+**Related:** [[2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners]] · [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
 <!-- graph:end -->

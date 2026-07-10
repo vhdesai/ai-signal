@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the
+- 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 embedding_id: 2026-07-02-meta-says-its-next-model-watermelon-now-matches-gpt-5-5-on-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ At an internal town hall, Meta Superintelligence Labs chief Alexandr Wang told e
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
+**Related:** [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-11-meta-released-muse-spark-a-multimodal-creative-model-and-the]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]]
 <!-- graph:end -->

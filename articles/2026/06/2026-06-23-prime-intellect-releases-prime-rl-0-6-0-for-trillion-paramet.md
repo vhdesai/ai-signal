@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui
+- 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
-- 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
 embedding_id: 2026-06-23-prime-intellect-releases-prime-rl-0-6-0-for-trillion-paramet
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Prime Intellect shipped prime-rl 0.6.0, an open framework for training trillion-
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]]
+**Related:** [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

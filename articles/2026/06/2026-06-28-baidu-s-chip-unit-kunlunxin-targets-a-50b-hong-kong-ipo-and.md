@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-baidu-s-kunlunxin-targets-a-50b-hong-kong-ipo-ties-chip-orde
 - 2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip
+- 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 - 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 embedding_id: 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
@@ -39,5 +40,5 @@ Baidu's AI-chip arm Kunlunxin is planning a Hong Kong listing at a roughly $50 b
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-28-baidu-s-kunlunxin-targets-a-50b-hong-kong-ipo-ties-chip-orde]] · [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip]] · [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]]
+**Related:** [[2026-06-28-baidu-s-kunlunxin-targets-a-50b-hong-kong-ipo-ties-chip-orde]] · [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip]] · [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]]
 <!-- graph:end -->

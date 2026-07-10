@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
+- 2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 embedding_id: 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 event_name: ''
@@ -37,5 +38,5 @@ Anthropic extended Claude Cowork beyond desktop to web and mobile, with sessions
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
+**Related:** [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]] · [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside
+- 2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla
 - 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 embedding_id: 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
@@ -38,5 +39,5 @@ VentureBeat's analysis of Anthropic's J-lens work emphasized the governance impl
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside]] · [[2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
 <!-- graph:end -->

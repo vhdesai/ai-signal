@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 - 2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u
 - 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
-- 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
+- 2026-07-07-future-of-life-institute-releases-ai-safety-index
 embedding_id: 2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple
 event_name: ''
 ---
@@ -44,5 +44,5 @@ A new FLI AI Safety Index found leading labs have weakened or eliminated commitm
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]]
+**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-07-future-of-life-institute-releases-ai-safety-index]]
 <!-- graph:end -->

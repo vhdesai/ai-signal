@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
+- 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 embedding_id: 2026-06-10-taiwan-weighs-tighter-ai-chip-export-controls-on-china
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Taiwan considering tighter export controls on AI chips bound for China to align 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
+**Related:** [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-21-taiwan-prosecutors-investigate-three-over-alleged-nvidia-chi]]
 <!-- graph:end -->

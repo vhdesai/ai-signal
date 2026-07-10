@@ -1,20 +1,49 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 704
+member_count: 736
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 704 connected article(s).
+> Auto-generated topic hub. 736 connected article(s).
 
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing|SK Hynix raises $26.5B in blockbuster US listing]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing|SK Hynix raises $26.5B in blockbuster U.S. listing]]
+- `2026-07-10` [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop|OpenAI says GPT-5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter]]
+- `2026-07-10` [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c|OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot]]
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra|CoreWeave named a Visionary in the 2026 Gartner Magic Quadrant for Cloud AI Infrastructure]]
+- `2026-07-09` [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge|Neocloud divergence widens: CoreWeave down ~40% as Nebius surges and overtakes it on market cap]]
+- `2026-07-09` [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand|Micron commits $250B to US memory manufacturing on AI demand]]
+- `2026-07-09` [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand|Micron commits $250B to U.S. memory manufacturing as AI demand shifts the bottleneck]]
+- `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september|Meta to start producing in-house Iris AI chip in September]]
+- `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t|Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 14 GW by 2027]]
+- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
+- `2026-07-09` [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb|Meta Breaks Ground on First Canadian Data Center — 1 GW in Alberta]]
+- `2026-07-09` [[2026-07-09-daily-ai-news-digest-july-10-2026|Daily AI News Digest – July 10, 2026]]
+- `2026-07-09` [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm|Cerebras commits to 200 MW of European AI capacity, part earmarked for OpenAI]]
+- `2026-07-09` [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com|Cerebras accelerates European expansion with 200MW of AI compute]]
+- `2026-07-09` [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur|Carnegie Mellon releases Robot I/O, open-source infrastructure to move AI between robots]]
+- `2026-07-09` [[2026-07-09-can-ai-answer-the-3-trillion-question|Can AI answer the $3 trillion question?]]
+- `2026-07-09` [[2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe|Anthropic, OpenAI, and SpaceX could dwarf 25 years of VC-backed tech exits]]
+- `2026-07-09` [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year|Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits]]
+- `2026-07-08` [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work|xAI ships Grok 4.5, aimed squarely at coding and agentic workloads]]
 - `2026-07-08` [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi|US–China AI Split Hardens as OpenAI Clears GPT-5.6 for Public Launch]]
+- `2026-07-08` [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks|SpaceXAI launches Grok 4.5 for coding and agentic tasks]]
 - `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an|SambaNova raises $1B at an $11B valuation, lands JPMorgan as an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it|SambaNova raises $1B at an $11B valuation as JPMorgan names it an inference partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-lands-jpmorgan-a|SambaNova raises $1B at an $11B valuation and lands JPMorgan as an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor|SambaNova raises $1B at an $11B valuation and is named a JPMorgan inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-named-jpmorgan-inferenc|SambaNova Raises $1B at $11B Valuation; Named JPMorgan Inference Partner]]
+- `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-jpmorgan-named-inferenc|SambaNova Raises $1B at $11B Valuation; JPMorgan Named Inference Partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips|SambaNova Raises $1B at $11B Valuation for AI Inference Chips]]
+- `2026-07-08` [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui|Prime Intellect raises $130M Series A to help enterprises build their own AI agents]]
+- `2026-07-08` [[2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl|Nvidia denies reports that Kyber / Rubin Ultra systems have slipped to 2028]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]
+- `2026-07-08` [[2026-07-08-daily-ai-news-digest-july-9-2026|Daily AI News Digest – July 9, 2026]]
 - `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc|AI-Chip Maker SambaNova Raises $1B at $11B Valuation; JPMorganChase Named Inference Partner]]
 - `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation|AI chip maker SambaNova raises $1B at $11B valuation]]
 - `2026-07-07` [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s|xAI officially rebrands as SpaceXAI, completing merger into SpaceX]]
@@ -34,13 +63,16 @@ member_count: 704
 - `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-is-developing-its-own-ai-chip|Exclusive: China's DeepSeek is developing its own AI chip]]
 - `2026-07-07` [[2026-07-07-exclusive-china-s-deepseek-developing-its-own-ai-chip-source|Exclusive: China's DeepSeek developing its own AI chip, sources say]]
 - `2026-07-07` [[2026-07-07-deepseek-reportedly-designing-its-own-inference-chip|DeepSeek reportedly designing its own inference chip]]
-- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek Is Developing Its Own AI Inference Chip]]
+- `2026-07-07` [[2026-07-07-deepseek-is-developing-its-own-ai-inference-chip|DeepSeek is developing its own AI inference chip]]
 - `2026-07-07` [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia|DeepSeek Developing Its Own AI Inference Chip to Cut Nvidia and Huawei Reliance]]
+- `2026-07-07` [[2026-07-07-deepseek-accelerates-custom-chip-efforts|DeepSeek Accelerates Custom Chip Efforts]]
 - `2026-07-07` [[2026-07-07-daily-ai-news-digest-july-8-2026|Daily AI News Digest – July 8, 2026]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
 - `2026-07-07` [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f|Chinese Open-Weight Models Gain U.S. Enterprise Adoption as Frontier Costs Rise]]
+- `2026-07-07` [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou|Amazon to raise at least $25B in bond sale to fund AI buildout]]
 - `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
 - `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
+- `2026-07-07` [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with|*See the original digest email for the complete content with all 14 items covering: OpenAI GPT-5.6 public release, SpaceXAI Grok 4.5 launch and Cursor partnership, MiniMax 2.7T-parameter open-weight model, Meta Muse image generator, Anthropic Claude Cowork expansion and Microsoft 365 write tools, Microsoft MAI model deployment, AI funding at record scale, SambaNova $1B raise, Amazon $25B bond sale, DeepSeek chip efforts, China/Anthropic security claims, Illinois AI safety legislation, Beijing export control considerations, and the Future of Life Institute AI Safety Index.*]]
 - `2026-07-06` [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks|Wall Street says it's time to buy the dip on AI stocks]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
 - `2026-07-06` [[2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human|The 'first' AI-run ransomware attack still needed a human]]

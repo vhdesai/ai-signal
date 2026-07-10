@@ -20,7 +20,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
+canonical_article_id: 2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme
 related_article_ids: []
 embedding_id: 2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted
 event_name: ''
@@ -35,5 +35,5 @@ OpenAI began a limited preview of its GPT-5.6 series — flagship Sol, balanced 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
+**Canonical:** [[2026-06-26-openai-previews-gpt-5-6-sol-terra-luna-but-only-for-governme]]
 <!-- graph:end -->

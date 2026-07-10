@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
+- 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
+- 2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 embedding_id: 2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Amazon, Microsoft and other tech firms joined RAISE US, a new bipartisan workfor
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off]]
+**Related:** [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]] · [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]]
 <!-- graph:end -->

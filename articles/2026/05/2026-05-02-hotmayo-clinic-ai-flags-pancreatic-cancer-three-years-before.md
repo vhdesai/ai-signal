@@ -19,6 +19,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
+- 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 embedding_id: 2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before
@@ -32,5 +33,5 @@ A Mayo Clinic AI system identified pancreatic cancer signals in patient data an 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]]
+**Related:** [[2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026
 - 2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
+- 2026-07-09-can-ai-answer-the-3-trillion-question
 embedding_id: 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive reported that global AI spending is expected to reach $2.59 trillion in
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
+**Related:** [[2026-05-20-global-ai-spend-to-reach-2-59-trillion-in-2026]] · [[2026-05-20-global-ai-spending-is-projected-to-reach-2-59-trillion-in-20]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
 <!-- graph:end -->

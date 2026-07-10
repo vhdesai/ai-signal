@@ -1,22 +1,40 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 403
+member_count: 423
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 403 connected article(s).
+> Auto-generated entity hub. 423 connected article(s).
 
+- `2026-07-10` [[2026-07-10-subject-daily-ai-news-digest-july-10-2026|Subject: Daily AI News Digest – July 10, 2026]]
+- `2026-07-10` [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop|OpenAI says GPT-5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter]]
+- `2026-07-10` [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c|OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot]]
+- `2026-07-10` [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app|OpenAI introduces “ChatGPT Work,” a GPT-5.6-powered super app]]
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
+- `2026-07-09` [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365|OpenAI says GPT-5.6 is the preferred model for Microsoft 365 Copilot amid breakup chatter]]
+- `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]
+- `2026-07-09` [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c|OpenAI Names GPT-5.6 the "Preferred Model" for Microsoft 365 Copilot]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com|Microsoft's Brad Smith: “Regulation Without Transparent or Complete Rules”]]
+- `2026-07-08` [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in|Microsoft quietly replaces partner models with MAI models in Excel and Outlook]]
+- `2026-07-08` [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza|Microsoft Research Introduces Flint, an Open-Source Visualization Language for Agents]]
+- `2026-07-08` [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models|Microsoft Quietly Replaces OpenAI/Anthropic with MAI Models in Excel and Outlook]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its|Microsoft joins AI cost-cutting trend by relying more on its own models]]
 - `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o|Microsoft begins swapping OpenAI and Anthropic out for its own MAI models in some app features]]
+- `2026-07-07` [[2026-07-07-microsoft-mai-model-deployment|Microsoft MAI Model Deployment]]
 - `2026-07-07` [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house|Microsoft Begins Swapping OpenAI and Anthropic for In-House MAI Models]]
 - `2026-07-07` [[2026-07-07-cost-compute-and-consolidation-set-the-tone|Cost, Compute, and Consolidation Set the Tone]]
 - `2026-07-07` [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro|Anthropic Expands Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools]]
+- `2026-07-07` [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too|Anthropic Claude Cowork Expands with Microsoft 365 Write Tools]]
 - `2026-07-07` [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros|Anthropic Brings Claude Cowork to Web and Mobile, Adds Microsoft 365 Write Tools]]
 - `2026-07-07` [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b|Amazon readies a $25B-plus bond sale to fund its AI and AWS buildout]]
 - `2026-07-07` [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou|Amazon Readies $25B-Plus Bond Sale to Fund AI and AWS Buildout]]
+- `2026-07-07` [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with|*See the original digest email for the complete content with all 14 items covering: OpenAI GPT-5.6 public release, SpaceXAI Grok 4.5 launch and Cursor partnership, MiniMax 2.7T-parameter open-weight model, Meta Muse image generator, Anthropic Claude Cowork expansion and Microsoft 365 write tools, Microsoft MAI model deployment, AI funding at record scale, SambaNova $1B raise, Amazon $25B bond sale, DeepSeek chip efforts, China/Anthropic security claims, Illinois AI safety legislation, Beijing export control considerations, and the Future of Life Institute AI Safety Index.*]]
 - `2026-07-06` [[2026-07-06-microsoft-lays-off-nearly-5-000-employees-across-xbox-commer|Microsoft lays off nearly 5,000 employees across Xbox, commercial sales]]
 - `2026-07-06` [[2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control|Microsoft Teams adds a per-meeting "Meeting AI" on/off control]]
 - `2026-07-06` [[2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit|Microsoft Teams adds a "Meeting AI" toggle for Copilot, Facilitator, and Recap]]
@@ -24,6 +42,7 @@ member_count: 403
 - `2026-07-06` [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get|Microsoft Eliminates ~4,800 Roles as AI Reshapes How Work Gets Done]]
 - `2026-07-06` [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work|Microsoft Cuts ~4,800 Roles, Citing AI-Driven Changes to Work]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
+- `2026-07-06` [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin|Carnegie Mellon helps launch FLARE-AI, an open-source pipeline for coordinated AI-flaw disclosure]]
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-04` [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one|Microsoft to Merge Consumer and Enterprise Copilot Into One App]]
 - `2026-07-04` [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa|Microsoft reportedly plans a unified Copilot app and an always-on "Autopilot" agent]]
@@ -384,6 +403,7 @@ member_count: 403
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-agentic-ai-as-opportunity-and|RSA Conference 2026 / RSAC 2026: Agentic AI as opportunity and risk]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-strategic-implications|RSA Conference 2026 / RSAC 2026 — Strategic Implications]]
 - `2026-04-12` [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-overview|RSA Conference 2026 / RSAC 2026 — Overview]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-11` [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app|Anthropic launched Project Glasswing, partnering with AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, Nvidia, and Palo Alto Networks to deploy Claude Mythos Preview exclusively for defensive cybersecurity. The model has already autonomously discovered thousands of high-severity zero-day vulnerabilities across major operating systems and browsers, including a 27-year-old bug in OpenBSD and a 16-year-old flaw in FFmpeg. Anthropic is committing up to $100M in usage credits and $4M in direct donations to open-source security organizations, with a 90-day remediation window for discovered vulnerabilities. Fast Company coverage asks whether the model tips the balance toward defenders or toward attacker acceleration.]]
 - `2026-04-10` [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c|Legislators including Bernie Sanders and Alexandria Ocasio-Cortez pushed legislation on April 11 calling for a nationwide moratorium on new AI data center construction, citing environmental concerns including electricity consumption, water usage, electricity price spikes in affected communities, and job displacement from AI automation. The proposal comes as Meta, Alphabet, Amazon, and Microsoft are collectively expected to spend $700 billion on AI infrastructure in 2026 alone. This represents one of the most aggressive legislative challenges yet to the AI infrastructure build-out.]]
 - `2026-04-09` [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected|OpenAI is actively preparing for a public offering expected in Q4 2026, with secondary market transactions placing its valuation near $852 billion, underpinned by $11.6 billion in annualized revenue from API and ChatGPT subscriptions. SoftBank and Microsoft remain anchor shareholders ahead of the listing. The IPO timeline is being accelerated despite the simultaneous legal, security, and reputational pressures the company is navigating this week.]]

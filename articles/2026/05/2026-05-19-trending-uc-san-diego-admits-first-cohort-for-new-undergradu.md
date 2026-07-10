@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
+- 2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-05-26-university-of-california-establishes-systemwide-ai-steering
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 embedding_id: 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 event_name: ''
 ---
@@ -34,5 +34,5 @@ UC San Diego's new undergraduate AI major admitted its first cohort of approxima
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-26-university-of-california-establishes-systemwide-ai-steering]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
+**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-26-university-of-california-establishes-systemwide-ai-steering]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
+- 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption
-- 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 embedding_id: 2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Analysis of 28M anonymized U.S. credit card transactions confirmed Anthropic's p
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-13-hot-anthropic-surpasses-openai-in-u-s-business-ai-adoption]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
+**Related:** [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

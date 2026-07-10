@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 68
+member_count: 73
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 68 connected article(s).
+> Auto-generated entity hub. 73 connected article(s).
 
+- `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm|Cerebras commits to 200 MW of European AI capacity, part earmarked for OpenAI]]
+- `2026-07-09` [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com|Cerebras accelerates European expansion with 200MW of AI compute]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo|Intel-backed edge-AI chipmaker Syntiant files for IPO]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
@@ -71,6 +75,7 @@ member_count: 68
 - `2026-05-02` [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation|Cerebras Targets up to $4B IPO at $40B Valuation]]
 - `2026-04-26` [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets|Cerebras IPO Roadshow Underway: $22–25B Nasdaq Listing Targets Mid-May 2026 Hot]]
 - `2026-04-22` [[2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap|Meta is deploying new tracking software — called the Model Capability Initiative (MCI) — on U.S. employee computers to capture mouse movements, clicks, keystrokes, and occasional screen snapshots, according to internal memos obtained by Reuters. The data feeds Meta SuperIntelligence Labs' effort to build AI agents that can autonomously perform work tasks. The tool runs on work-related apps and websites. The disclosure is generating significant internal debate around employee privacy and the boundaries of consensual data collection for AI development.]]
+- `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-12` [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two|Palantir Technologies shares fell approximately 14% over two sessions after investor concerns mounted that Anthropic's Project Glasswing directly competes with Palantir's Maven Smart System and AIP government AI platform. Hedge fund manager Michael Burry disclosed a significant short position, citing overvaluation relative to increasing competition from foundation model providers entering the government AI space. Palantir CEO Alex Karp responded by doubling down on the company's "human-AI teaming" differentiation, while separate reports emerged that Maven was used in planning support for U.S. military operations involving Iran — reigniting ethical controversy.]]
 - `2026-04-11` [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a|TSMC reported record first-quarter revenue of $35.6 billion, a 35% year-over-year jump that beat analyst estimates, driven primarily by insatiable AI chip demand. The results came despite geopolitical headwinds including the ongoing Iran conflict's impact on supply chains. TSMC reaffirmed that AI-related orders represent the majority of its leading-edge capacity at 2nm and 3nm nodes.]]
 - `2026-04-11` [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim|Oracle is conducting a major workforce reduction of approximately 30,000 employees (~10% of global headcount), primarily in legacy software support and middle management, redirecting savings toward AI data center construction and GPU procurement as it races to compete with AWS, Azure, and Google Cloud. Separately, Cerebras Systems — maker of the wafer-scale WSE-3 chip and holder of a $10B compute contract with OpenAI — is targeting a Q2 2026 IPO at approximately $23 billion, capitalizing on its anchor customer relationship for public market credibility.]]

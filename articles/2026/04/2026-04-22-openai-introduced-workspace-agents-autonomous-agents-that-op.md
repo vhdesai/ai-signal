@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
+- 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
+- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-06-25-openai-brings-codex-remote-to-general-availability-across-al
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 embedding_id: 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Microsoft Releases SKALA-1.1 AI Model on Hugging Face
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-25-openai-brings-codex-remote-to-general-availability-across-al]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
+**Related:** [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
 <!-- graph:end -->

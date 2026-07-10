@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 - 2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9
+- 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 - 2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la
-- 2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f
 embedding_id: 2026-05-26-leaked-claude-opus-4-8-gpt-5-6-and-mythos-1-roadmap-surface
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Leaks indicate Claude Opus 4.8 "enhances visual understanding and multi-step rea
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la]] · [[2026-07-08-openai-to-open-gpt-5-6-to-the-public-july-9-after-clearing-f]]
+**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]] · [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-20-gpt-5-6-rumors-continue-to-build-ahead-of-rumored-june-23-la]]
 <!-- graph:end -->

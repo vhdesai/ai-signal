@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SecurityWeek reported that 1Password and OpenAI are working together to prevent 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
+**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne]]
 <!-- graph:end -->

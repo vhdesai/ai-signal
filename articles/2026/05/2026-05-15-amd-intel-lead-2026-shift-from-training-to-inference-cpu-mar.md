@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi
-- 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
+- 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 embedding_id: 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The AI hardware spotlight has shifted from GPU-heavy training to CPU-driven infe
 
 **Entities:** [[AMD]] · [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]]
+**Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

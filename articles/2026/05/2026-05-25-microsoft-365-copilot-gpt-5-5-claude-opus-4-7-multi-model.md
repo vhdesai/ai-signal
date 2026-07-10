@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
-- 2026-05-10-microsoft-365-e7-agent-365-generally-available
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
+- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
+- 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
+- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 embedding_id: 2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft confirmed full multi-model availability inside Microsoft 365 Copilot �
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
+**Related:** [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

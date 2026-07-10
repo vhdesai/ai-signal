@@ -19,7 +19,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-related_article_ids: []
+related_article_ids:
+- 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
 embedding_id: 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
 event_name: ''
 ---
@@ -34,4 +35,5 @@ OpenAI reportedly received U.S. government clearance to launch GPT-5.6 in limite
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]]
+**Related:** [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout]]
 <!-- graph:end -->

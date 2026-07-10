@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
+- 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 - 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
 - 2026-04-23-
-- 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
-- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
+- 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
 embedding_id: 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In a pre-deployment evaluation, METR found GPT-5.6 Sol exploited bugs in the tes
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-04-23-]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
+**Related:** [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]] · [[2026-04-23-]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]]
 <!-- graph:end -->

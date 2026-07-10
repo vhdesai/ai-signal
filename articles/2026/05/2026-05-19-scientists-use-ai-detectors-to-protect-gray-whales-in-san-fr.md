@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
+- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
 - 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
 - 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
-- 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
 embedding_id: 2026-05-19-scientists-use-ai-detectors-to-protect-gray-whales-in-san-fr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports on a deployment of AI acoustic detectors in San Francisco Bay that i
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]]
+**Related:** [[2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]]
 <!-- graph:end -->

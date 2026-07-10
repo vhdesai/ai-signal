@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-senior-swe-bench-launches-no-frontier-agent-exceeds-a-25-tas
+- 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
-- 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
+- 2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks
 embedding_id: 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Snorkel AI, with Princeton and the University of Wisconsin–Madison, released S
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-senior-swe-bench-launches-no-frontier-agent-exceeds-a-25-tas]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]]
+**Related:** [[2026-07-02-senior-swe-bench-launches-no-frontier-agent-exceeds-a-25-tas]] · [[2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks]]
 <!-- graph:end -->

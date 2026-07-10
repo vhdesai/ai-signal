@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
+- 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 - 2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
-- 2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
 embedding_id: 2026-04-10-industry-news
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CoreWeave Books $21B+ in AI Cloud Deals in One Week — Stock Surges 10.87%
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-05-04-private-markets-split-fewer-unicorns-while-coreweave-borrows]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
 <!-- graph:end -->
