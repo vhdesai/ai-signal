@@ -17,14 +17,9 @@ entities: []
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
-- 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-- 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
-- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
+dedupe_status: duplicate
+canonical_article_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
+related_article_ids: []
 embedding_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
 event_name: ''
 ---
@@ -37,5 +32,5 @@ A Nature Astronomy Perspective argues that multimessenger astronomy's data delug
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
+**Canonical:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
 <!-- graph:end -->

@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
+- 2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 embedding_id: 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Researchers from the University of Maryland, Google, Meta, and other institution
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
+**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-26-from-model-scaling-to-system-scaling-scaling-the-agent-harne]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

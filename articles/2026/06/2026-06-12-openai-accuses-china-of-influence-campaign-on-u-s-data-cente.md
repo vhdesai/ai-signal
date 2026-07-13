@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
+- 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-04-06-ai-safety-policy
 embedding_id: 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Direct accusation naming China. Escalates from industry lobbying to national-sec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-04-06-ai-safety-policy]]
+**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
 <!-- graph:end -->

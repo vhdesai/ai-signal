@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
+- 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
-- 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
-- 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
-- 2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand
 embedding_id: 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Financial Times reports a record ~$200B in M&A across the U.S. power and uti
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]]
+**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

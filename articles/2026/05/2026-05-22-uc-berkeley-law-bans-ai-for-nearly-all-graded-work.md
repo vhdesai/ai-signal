@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
+- 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 - 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 embedding_id: 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC Berkeley School of Law adopted one of the strictest AI policies in U.S. highe
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
+**Related:** [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

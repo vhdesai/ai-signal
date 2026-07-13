@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 - 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
+- 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
 - 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its
-- 2026-04-08-source-forbes-msn-the-neuron
 embedding_id: 2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's Muse Spark launched in April but the developer API has slipped repeatedly
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its]] · [[2026-04-08-source-forbes-msn-the-neuron]]
+**Related:** [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]] · [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its]]
 <!-- graph:end -->

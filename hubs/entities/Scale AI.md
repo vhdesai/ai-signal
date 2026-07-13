@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 19
+member_count: 20
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 19 connected article(s).
+> Auto-generated entity hub. 20 connected article(s).
 
+- `2026-07-10` [[2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la|Claude Fable 5 rewrites Bun runtime from Zig to Rust in a large-scale AI migration demo]]
 - `2026-07-02` [[2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat|Remote Labor Index update: Fable 5 hits a record 16.1% automation rate on real freelance work]]
 - `2026-06-30` [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25|Brookfield and Bloom Energy scale AI-power partnership to $25B]]
 - `2026-06-23` [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio|SpaceX secures a $6.3B compute deal from AI startup Reflection]]

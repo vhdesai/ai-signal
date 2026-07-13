@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing
+- 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
+- 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
+- 2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo
 - 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
-- 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
-- 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
-- 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 embedding_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SK Hynix priced one of the largest equity deals on record, raising $26.5 billion
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]]
+**Related:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]] · [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]]
 <!-- graph:end -->

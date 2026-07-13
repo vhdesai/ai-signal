@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-04-23-
+- 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic
-- 2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex
 embedding_id: 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-04-23-]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic]] · [[2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex]]
+**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-04-23-]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic]]
 <!-- graph:end -->

@@ -1,23 +1,42 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 736
+member_count: 755
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 736 connected article(s).
+> Auto-generated topic hub. 755 connected article(s).
 
+- `2026-07-12` [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning|The fight against AI data centers is just beginning]]
+- `2026-07-11` [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut|SK hynix surges ~13% in Nasdaq debut]]
+- `2026-07-11` [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y|Oracle's AI capex and debt load weigh on the stock, down ~29% year-to-date]]
+- `2026-07-11` [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global|Goldman Sachs warns the U.S. will bear the brunt of a global AI-induced inflation surge]]
+- `2026-07-11` [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers|Executives say AI demand is 'almost unlimited' even as buyers shift to 'valuemaxxing']]
+- `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]
+- `2026-07-10` [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab|U.S. officials urge AI memory suppliers to build domestic fabs]]
+- `2026-07-10` [[2026-07-10-sk-hynix-surges-13-in-nasdaq-debut|SK hynix Surges ~13% in Nasdaq Debut]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist|SK Hynix raises $26.5B in the biggest foreign IPO in U.S. history]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing|SK Hynix raises $26.5B in blockbuster US listing]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing|SK Hynix raises $26.5B in blockbuster U.S. listing]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory|SK Hynix raises $26.5B in Nasdaq listing powered by AI-memory demand]]
+- `2026-07-10` [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation|Oxylabs raises $130M from Warburg Pincus at a $3.6B valuation]]
 - `2026-07-10` [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop|OpenAI says GPT-5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter]]
-- `2026-07-10` [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c|OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot]]
+- `2026-07-10` [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b|Microsoft's carbon emissions rose 25% as the AI data-center build-out accelerates]]
+- `2026-07-10` [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me|Micron expands U.S. manufacturing plan to about $250B on AI-memory demand]]
+- `2026-07-10` [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on|Micron expands U.S. investment to about $250B through 2035 on AI-memory demand]]
+- `2026-07-10` [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem|Micron Expands U.S. Investment to ~$250B Through 2035 on AI-Memory Demand]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-daily-ai-news-digest-july-11-2026|Daily AI News Digest – July 11, 2026]]
 - `2026-07-10` [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra|CoreWeave named a Visionary in the 2026 Gartner Magic Quadrant for Cloud AI Infrastructure]]
+- `2026-07-09` [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu|Oxylabs hits $3.6B valuation as AI-training data infrastructure draws capital]]
 - `2026-07-09` [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge|Neocloud divergence widens: CoreWeave down ~40% as Nebius surges and overtakes it on market cap]]
 - `2026-07-09` [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand|Micron commits $250B to US memory manufacturing on AI demand]]
 - `2026-07-09` [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand|Micron commits $250B to U.S. memory manufacturing as AI demand shifts the bottleneck]]
 - `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september|Meta to start producing in-house Iris AI chip in September]]
+- `2026-07-09` [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se|Meta to move its in-house "Iris" AI chip into production in September]]
+- `2026-07-09` [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem|Meta to move in-house Iris AI chip into production in September]]
 - `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t|Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 14 GW by 2027]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
 - `2026-07-09` [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb|Meta Breaks Ground on First Canadian Data Center — 1 GW in Alberta]]

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 44
+member_count: 45
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 44 connected article(s).
+> Auto-generated entity hub. 45 connected article(s).
 
+- `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
 - `2026-07-07` [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo|Reuters: Beijing weighs curbing overseas access to China’s most advanced AI models]]
 - `2026-07-07` [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode|China Weighs Restricting Access to Its Most Powerful AI Models]]
 - `2026-07-07` [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan|Beijing Weighs Curbing Overseas Access to China's Most Advanced AI Models]]

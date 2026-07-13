@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-
-- 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
+- 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
 embedding_id: 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's GPT-5.5 (shipped April 23) achieved 82.7% on Terminal-Bench 2.0 and 58.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]]
+**Related:** [[2026-04-23-]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]]
 <!-- graph:end -->

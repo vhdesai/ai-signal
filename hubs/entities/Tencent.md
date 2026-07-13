@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 81
+member_count: 83
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 81 connected article(s).
+> Auto-generated entity hub. 83 connected article(s).
 
 - `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for|Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and coding tasks]]

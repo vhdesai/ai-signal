@@ -24,7 +24,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 - 2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work
 - 2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads
 - 2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership
@@ -41,5 +40,5 @@ SpaceXAI (Elon Musk's xAI) released Grok 4.5 on July 8, calling it its most inte
 
 **Entities:** [[NVIDIA]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads]] · [[2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership]]
+**Related:** [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work]] · [[2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads]] · [[2026-07-07-spacexai-grok-4-5-launch-and-cursor-partnership]]
 <!-- graph:end -->

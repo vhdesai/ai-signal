@@ -20,12 +20,8 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
-related_article_ids:
-- 2026-07-09-daily-ai-news-digest-july-10-2026
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+canonical_article_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
+related_article_ids: []
 embedding_id: 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
 event_name: ''
 ---
@@ -39,6 +35,5 @@ An internal memo reviewed by Reuters shows Meta plans to begin manufacturing its
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]]
-**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-23-meta-signs-multi-billion-dollar-chip-agreement-with-aws-on-g]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Canonical:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]]
 <!-- graph:end -->

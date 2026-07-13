@@ -20,8 +20,7 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
-related_article_ids:
-- 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
+related_article_ids: []
 embedding_id: 2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6
 event_name: ''
 ---
@@ -36,5 +35,4 @@ OpenAI launched the GPT-5.6 family in three tiers: Sol, Terra, and Luna, with So
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]]
-**Related:** [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
 <!-- graph:end -->

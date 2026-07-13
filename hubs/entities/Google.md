@@ -1,19 +1,29 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 553
+member_count: 563
 ---
 
 # Google
 
-> Auto-generated entity hub. 553 connected article(s).
+> Auto-generated entity hub. 563 connected article(s).
 
+- `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
+- `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]
+- `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]
+- `2026-07-11` [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic|Hundreds march on OpenAI, Anthropic, and Google DeepMind offices in San Francisco]]
 - `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
+- `2026-07-10` [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda|Google Research introduces SensorFM, a wearable-health foundation model]]
+- `2026-07-10` [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval|ChatGPT Work launches after U.S. government approval]]
+- `2026-07-10` [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple Escalates Trade-Secret Suit Against OpenAI; Next Siri to Run on Google Gemini]]
 - `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
 - `2026-07-09` [[2026-07-09-purdue-makes-ai-competency-a-graduation-requirement-across-2|Purdue makes AI competency a graduation requirement across ~200 degree plans]]
 - `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr|OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr|OpenAI introduces ChatGPT Work, merging Codex into an enterprise agent platform]]
+- `2026-07-09` [[2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round|Nvidia backs Paris voice-AI startup Gradium's $100M round]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1|Meta enters the agentic-coding market with Muse Spark 1.1]]

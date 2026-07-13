@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
 - 2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
-- 2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s
 embedding_id: 2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Record Q4, OCI +93% YoY, but -11% on capex guidance. Oracle experimenting with o
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-07-07-samsung-guides-to-record-q2-profit-on-ai-memory-demand-but-s]]
+**Related:** [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
 <!-- graph:end -->

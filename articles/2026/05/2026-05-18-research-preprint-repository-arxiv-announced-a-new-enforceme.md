@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 - 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 embedding_id: 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Sources: BuildFastWithAI, TechCrunch, VentureBeat, Yahoo Finance, Bloomberg, WSJ
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]]
 <!-- graph:end -->

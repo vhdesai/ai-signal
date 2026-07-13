@@ -1,0 +1,48 @@
+{
+  "run_id": "20260713T150209+0000-f273d9",
+  "started_at": "2026-07-13T15:02:09+00:00",
+  "finished_at": "2026-07-13T15:02:14+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 450,
+      "digests_changed": 34,
+      "changed": [
+        "news\\2026-07-11_000000_Publication-Sources.md",
+        "news\\2026-07-11_010740_Automated_Your-Daily-AI-News-Digest.md",
+        "news\\2026-07-11_050055_Publication_DealBook-Secret-drone-factory.md",
+        "news\\2026-07-11_060831_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_060959_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_061544_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_062053_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_062818_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_065220_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_065909_Inbox_Daily AI News Digest - July 11, 2026.md",
+        "news\\2026-07-11_140203_Publication_WSJ-Daily-Digest.md",
+        "news\\2026-07-12_000000_Publication-Sources.md",
+        "news\\2026-07-12_010725_Automated_Your-Daily-AI-News-Digest.md",
+        "news\\2026-07-12_060557_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_060920_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_061123_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_062259_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_063131_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_065239_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_065854_Inbox_Daily AI News Digest - July 12, 2026.md",
+        "news\\2026-07-12_140310_Publication_WSJ-Daily-Digest.md",
+        "news\\2026-07-12_150149_Publication_TheInformation-Netflix-Q2-Earnings.md",
+        "news\\2026-07-13_010722_Automated_Your-Daily-AI-News-Digest.md",
+        "news\\2026-07-13_033221_Publication_WSJ-Wealth-Adviser-Turbines-AI-Songs.md",
+        "news\\2026-07-13_040232_Publication_WSJ-Politics.md",
+        "news\\2026-07-13_051837_Publication_DealBook-Wall-Streets-big-week.md",
+        "news\\2026-07-13_060546_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_060615_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_060930_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_062357_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_062755_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_065240_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_065937_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_072851_Inbox_Daily AI News Digest - July 13, 2026 (Expanded).md"
+      ]
+    }
+  }
+}

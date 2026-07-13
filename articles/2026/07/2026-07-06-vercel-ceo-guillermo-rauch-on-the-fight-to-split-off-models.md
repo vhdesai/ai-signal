@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 - 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
-- 2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age
 embedding_id: 2026-07-06-vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Vercel's CEO argued that production AI architecture is separating model access f
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]] · [[2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age]]
+**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]]
 <!-- graph:end -->

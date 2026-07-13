@@ -1,14 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 449
+member_count: 458
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 449 connected article(s).
+> Auto-generated topic hub. 458 connected article(s).
 
+- `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
+- `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
+- `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
+- `2026-07-11` [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model|Ant Group unveils LingBot-VA 2.0, a causal video-action model for physical AI]]
+- `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
 - `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
+- `2026-07-10` [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai|Hugging Face CEO: enterprises are done "renting" their AI]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f|Zhipu AI shares surge on $4B fundraise as Chinese labs race frontier]]

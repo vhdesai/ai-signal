@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
+- 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
-- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 embedding_id: 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind CEO Demis Hassabis argued that firms using AI productivity gains
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
+**Related:** [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]]
 <!-- graph:end -->

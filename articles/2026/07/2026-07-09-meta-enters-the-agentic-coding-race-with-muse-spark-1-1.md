@@ -6,9 +6,9 @@ source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
 url_canonical: https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/
 url_status: found
-digest_source: digests\raw\2026-07-10_062836_Inbox_Daily AI News Digest - July 10,
+digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: d5d5edd024fcf24c3ade5ac1e3dc96281eec0a574e22b7a88084138a44bc21d2
+content_hash: 611cc578866c6a21cc049ec763cf320233068bc52b6b088a791b74b5722df5cf
 normalized_title_hash: ec808cf530e877e3
 canonical_url_hash: 9683c84e437bc211
 tags:
@@ -16,12 +16,12 @@ tags:
 entities:
 - Anthropic
 - Meta
-- xAI
+- OpenAI
 themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
+canonical_article_id: 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p
 related_article_ids: []
 embedding_id: 2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1
 event_name: ''
@@ -29,12 +29,12 @@ event_name: ''
 
 # Meta enters the agentic-coding race with Muse Spark 1.1
 
-Meta released Muse Spark 1.1, which it calls its strongest model yet for agentic and coding work, emphasizing computer-use skills — navigating apps, browsing, filling forms, and switching programs to complete multistep tasks. A late entrant, Meta is competing largely on price, reportedly at $1.25 per million input tokens and $4.25 per million output tokens, roughly in line with Anthropic's Claude Haiku 4.5. The launch lands the same week as GPT-5.6 and xAI's Grok 4.5, intensifying an already crowded enterprise agent field.
+Meta publicly launched Muse Spark 1.1, a multimodal model built for agentic coding — multistep reasoning, bug-fixing, large code migrations and enterprise workflow deployment — putting it in direct competition with OpenAI and Anthropic. Pricing is competitive at $1.25 per million input and $4.25 per million output tokens, roughly in line with (though slightly above) Anthropic's Claude Haiku tier. Meta is later to this market than its rivals, but its distribution and pricing make it a credible enterprise entrant rather than a fast-follow footnote.
 
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Anthropic]] · [[Meta]] · [[xAI]]
+**Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]]
+**Canonical:** [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 73
+member_count: 74
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 73 connected article(s).
+> Auto-generated entity hub. 74 connected article(s).
 
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-cerebras-commits-to-200-mw-of-european-ai-capacity-part-earm|Cerebras commits to 200 MW of European AI capacity, part earmarked for OpenAI]]

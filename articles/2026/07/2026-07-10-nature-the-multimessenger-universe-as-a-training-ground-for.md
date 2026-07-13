@@ -17,7 +17,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
+canonical_article_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 related_article_ids: []
 embedding_id: 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
 event_name: ''
@@ -31,5 +31,5 @@ A Nature Astronomy Perspective argues that multimessenger astronomy’s coming d
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]]
+**Canonical:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
 <!-- graph:end -->

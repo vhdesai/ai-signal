@@ -1,13 +1,25 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 146
+member_count: 158
 ---
 
 # Apple
 
-> Auto-generated entity hub. 146 connected article(s).
+> Auto-generated entity hub. 158 connected article(s).
 
+- `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
+- `2026-07-12` [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it|Apple sues OpenAI over alleged trade-secret theft tied to its AI hardware program]]
+- `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
+- `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]
+- `2026-07-11` [[2026-07-11-musk-altman-feud-reignites-over-trade-secrets-and-orbital-da|Musk–Altman Feud Reignites Over Trade Secrets and Orbital Data Centers]]
+- `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
+- `2026-07-11` [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch|Apple announces $30B+ custom-silicon deal with Broadcom (15B+ chips through 2031)]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
+- `2026-07-10` [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o|Dimensionality reduction meets network science: sensemaking on UMAP's kNN graph]]
+- `2026-07-10` [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft|Apple sues OpenAI over alleged trade secret theft]]
+- `2026-07-10` [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple Escalates Trade-Secret Suit Against OpenAI; Next Siri to Run on Google Gemini]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-dimensionality-reduction-meets-network-science-sensemaking-o|Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]

@@ -2,22 +2,22 @@
 article_id: 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 title: OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot
 date: '2026-07-10'
-source: NewsBytes
-url_original: https://www.newsbytesapp.com/news/science/openai-defends-gpt-5-6-amid-microsoft-shift/story
-url_canonical: https://www.newsbytesapp.com/news/science/openai-defends-gpt-5-6-amid-microsoft-shift/story
+source: Firstpost
+url_original: https://www.firstpost.com/tech/openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-copilot-amid-partnership-questions-14030303.html
+url_canonical: https://www.firstpost.com/tech/openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-copilot-amid-partnership-questions-14030303.html
 url_status: found
-digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
+digest_source: digests\raw\2026-07-11_060831_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: a229f33e8cec374ae648d53a2c77a2a5402ee3577ece815d2c6ac51a4299ebc8
+content_hash: ec9d62b9d3760f15c36c8584f1fac8e34c09b5faa32f5eba9d686f8e9a024f14
 normalized_title_hash: f13e735f24db7651
-canonical_url_hash: e7346dcb14b57655
-tags: []
+canonical_url_hash: 0ae99ab6bca14a84
+tags:
+- Trending
 entities:
 - Microsoft
 - OpenAI
 themes:
-- datacenter-infrastructure
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,12 +31,12 @@ event_name: ''
 
 # OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot
 
-OpenAI said GPT-5.6 will be the preferred model across Microsoft 365 Copilot — Word, Excel, PowerPoint and Cowork — framing the update as reaffirmation of the partnership. The timing is pointed: it follows reporting that Microsoft is integrating its in-house MAI models to reduce operational costs, and both companies have signaled increasingly independent AI strategies. For Microsoft-aligned readers, this is the clearest recent marker of how the OpenAI relationship and the internal-model roadmap are being balanced.
+Tied to the GPT-5.6 launch, OpenAI said its new model will be the preferred engine powering Microsoft 365 Copilot across key productivity apps — a public reaffirmation of the OpenAI–Microsoft partnership. The statement lands amid reports that Microsoft is shifting some workloads to its in-house MAI models to reduce costs. It is a notable signal for enterprise customers standardizing on Copilot.
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
 <!-- graph:end -->

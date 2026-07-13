@@ -17,14 +17,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
-- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
-- 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+dedupe_status: duplicate
+canonical_article_id: 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
+related_article_ids: []
 embedding_id: 2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow
 event_name: ''
 ---
@@ -37,5 +32,5 @@ Ollama raised $65 million after growing to nearly 9 million monthly developers a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Canonical:** [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]]
 <!-- graph:end -->

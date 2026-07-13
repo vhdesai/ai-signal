@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside
 - 2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-- 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
+- 2026-07-11-claude-opus-4-7-is-now-generally-available
 embedding_id: 2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic published interpretability research introducing the Jacobian lens (J-l
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside]] · [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]]
+**Related:** [[2026-07-06-anthropic-s-j-lens-finds-a-global-workspace-emerging-inside]] · [[2026-07-06-anthropic-s-new-j-lens-reveals-a-silent-workspace-inside-cla]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]]
 <!-- graph:end -->

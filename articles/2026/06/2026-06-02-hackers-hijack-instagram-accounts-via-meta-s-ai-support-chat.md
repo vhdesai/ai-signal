@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su
+- 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
+- 2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac
+- 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 - 2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse
-- 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
-- 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
-- 2026-04-02-academic-research
 embedding_id: 2026-06-02-hackers-hijack-instagram-accounts-via-meta-s-ai-support-chat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Attackers took over high-profile Instagram accounts — including the Obama Whit
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]] · [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac]] · [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]] · [[2026-04-02-academic-research]]
+**Related:** [[2026-06-01-hackers-hijack-instagram-accounts-by-exploiting-meta-s-ai-su]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac]] · [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]]
 <!-- graph:end -->

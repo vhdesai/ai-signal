@@ -1,30 +1,51 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 781
+member_count: 804
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 781 connected article(s).
+> Auto-generated entity hub. 804 connected article(s).
 
+- `2026-07-12` [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should|Zhipu Open-Sources GLM-5.2; Founder Argues Frontier AI Should Stay Open]]
+- `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
+- `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]
+- `2026-07-11` [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut|SK hynix surges ~13% in Nasdaq debut]]
+- `2026-07-11` [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic|Hundreds march on OpenAI, Anthropic, and Google DeepMind offices in San Francisco]]
+- `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
+- `2026-07-11` [[2026-07-11-claude-opus-4-7-is-now-generally-available|Claude Opus 4.7 is now generally available]]
+- `2026-07-10` [[2026-07-10-sk-hynix-surges-13-in-nasdaq-debut|SK hynix Surges ~13% in Nasdaq Debut]]
 - `2026-07-10` [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing|SK Hynix rides AI-memory demand to a blockbuster U.S. listing]]
+- `2026-07-10` [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag|OpenAI launches ChatGPT Work, an autonomous cross-app work agent]]
 - `2026-07-10` [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app|OpenAI introduces “ChatGPT Work,” a GPT-5.6-powered super app]]
 - `2026-07-10` [[2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a|Meta ships low-cost Muse Spark 1.1, undercutting OpenAI and Anthropic on price]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate|Meta opens Muse Spark 1.1 — its first paid AI API — at cut-rate pricing]]
+- `2026-07-10` [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1|Meta enters the coding-model race with Muse Spark 1.1]]
+- `2026-07-10` [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai|Hugging Face CEO: enterprises are done "renting" their AI]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-anthropic-s-pre-release-fable-5-rewrites-bun-runtime-from-zi|Anthropic's pre-release Fable 5 rewrites Bun runtime from Zig to Rust]]
+- `2026-07-10` [[2026-07-10-anthropic-s-pre-release-fable-5-rewrites-the-bun-runtime-fro|Anthropic's pre-release "Fable 5" rewrites the Bun runtime from Zig to Rust — ~1M lines in 11 days]]
+- `2026-07-10` [[2026-07-10-anthropic-s-fable-5-rewrites-the-bun-runtime-from-zig-to-rus|Anthropic's Fable 5 rewrites the Bun runtime from Zig to Rust in 11 days]]
+- `2026-07-10` [[2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m|Anthropic's "Fable 5" Rewrites Bun Runtime from Zig to Rust — ~1M Lines in 11 Days]]
 - `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
+- `2026-07-09` [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri|Traditional SaaS vendors lose budget share as AI spending rises]]
 - `2026-07-09` [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift|Traditional SaaS loses ground as corporate AI budgets shift]]
 - `2026-07-09` [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-debuts-on-nasdaq|SK Hynix Prices U.S. Listing at $149/Share, Debuts on Nasdaq]]
 - `2026-07-09` [[2026-07-09-openai-ships-gpt-5-6-sol-terra-and-luna-after-a-two-week-gov|OpenAI ships GPT-5.6 “Sol,” “Terra” and “Luna” after a two-week government-restricted preview]]
 - `2026-07-09` [[2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6|OpenAI launches its new family of models with GPT-5.6]]
 - `2026-07-09` [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general|OpenAI launches GPT-5.6 family — Sol, Terra, and Luna — to general availability]]
 - `2026-07-09` [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava|OpenAI launches GPT-5.6 family — Sol, Terra, Luna — to general availability]]
+- `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl|OpenAI launches ChatGPT Work, an enterprise agent spanning Slack, Teams, Drive and SharePoint]]
+- `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app|OpenAI launches ChatGPT Work, a white-collar "super app"]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1|Meta enters the agentic-coding race with Muse Spark 1.1]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1|Meta enters the agentic-coding market with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1|Meta enters agentic coding with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability|GPT‑5.6 (Sol, Terra, Luna) reaches general availability]]
 - `2026-07-09` [[2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe|Anthropic, OpenAI, and SpaceX could dwarf 25 years of VC-backed tech exits]]
 - `2026-07-09` [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year|Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits]]
 - `2026-07-09` [[2026-07-09-anthropic-s-jacobian-lens-reveals-a-hidden-layer-of-what-cla|Anthropic's “Jacobian lens” reveals a hidden layer of what Claude is computing]]
@@ -33,7 +54,7 @@ member_count: 781
 - `2026-07-09` [[2026-07-09-anthropic-launches-reflect-a-usage-analytics-recap-for-claud|Anthropic launches “Reflect,” a usage-analytics recap for Claude]]
 - `2026-07-09` [[2026-07-09-anthropic-has-soared-to-a-1-2-trillion-valuation-on-secondar|Anthropic has soared to a $1.2 trillion valuation on secondary markets]]
 - `2026-07-09` [[2026-07-09-anthropic-appoints-former-fed-chair-ben-bernanke-to-its-long|Anthropic appoints former Fed Chair Ben Bernanke to its Long-Term Benefit Trust]]
-- `2026-07-09` [[2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-claud|Anthropic adds “Reflect,” a usage-analytics dashboard for Claude]]
+- `2026-07-09` [[2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-claud|Anthropic adds Reflect, a usage-analytics dashboard for Claude]]
 - `2026-07-09` [[2026-07-09-anthropic-adds-reflect-a-claude-usage-recap-dashboard|Anthropic adds Reflect, a Claude usage-recap dashboard]]
 - `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
 - `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r|White House disputes “clearing” GPT‑5.6 as US frontier-model review regime takes shape]]
@@ -41,6 +62,8 @@ member_count: 781
 - `2026-07-08` [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout|U.S. Clears OpenAI's GPT-5.6 for Broad Public Rollout]]
 - `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
 - `2026-07-08` [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f|SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier model “as soon as today”]]
+- `2026-07-08` [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri|SpaceX/xAI launches Grok 4.5 at roughly half the price of rivals]]
+- `2026-07-08` [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability|OpenAI takes GPT-5.6 (Sol, Terra, Luna) to general availability]]
 - `2026-07-08` [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public|OpenAI opens GPT‑5.6 — Sol, Terra and Luna — to the public]]
 - `2026-07-08` [[2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public|OpenAI opens GPT-5.6 (Sol, Terra, Luna) to the public]]
 - `2026-07-08` [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o|Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class’ model]]

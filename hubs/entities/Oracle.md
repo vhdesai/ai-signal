@@ -1,14 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 81
+member_count: 85
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 81 connected article(s).
+> Auto-generated entity hub. 85 connected article(s).
 
+- `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
+- `2026-07-11` [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y|Oracle's AI capex and debt load weigh on the stock, down ~29% year-to-date]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp|Big Tech's AI debt load doubles to $350B as infrastructure spending strains balance sheets]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
+- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 embedding_id: 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research published new work applying algorithmic and data-modeling method
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]]
+**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]]
 <!-- graph:end -->

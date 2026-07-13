@@ -1,26 +1,40 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 258
+member_count: 272
 ---
 
 # Meta
 
-> Auto-generated entity hub. 258 connected article(s).
+> Auto-generated entity hub. 272 connected article(s).
 
+- `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]
+- `2026-07-11` [[2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la|Meta scraps Instagram "Muse Image" likeness tool days after launch amid consent backlash]]
+- `2026-07-11` [[2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti|Even Realities bets camera-free G2 smart glasses on productivity over recording]]
+- `2026-07-10` [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f|Meta's Muse Spark 1.1 resets enterprise price expectations for agentic coding]]
 - `2026-07-10` [[2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a|Meta ships low-cost Muse Spark 1.1, undercutting OpenAI and Anthropic on price]]
+- `2026-07-10` [[2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac|Meta removes controversial AI feature on Instagram after backlash]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
+- `2026-07-10` [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch|Meta pulls Instagram AI image feature days after launch]]
 - `2026-07-10` [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate|Meta opens Muse Spark 1.1 — its first paid AI API — at cut-rate pricing]]
+- `2026-07-10` [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1|Meta enters the coding-model race with Muse Spark 1.1]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
 - `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp|Big Tech's AI debt load doubles to $350B as infrastructure spending strains balance sheets]]
 - `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
 - `2026-07-10` [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc|Amazon CTO Vogels: Enterprises Pivoting to Cheaper Open-Source Models]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september|Meta to start producing in-house Iris AI chip in September]]
+- `2026-07-09` [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se|Meta to move its in-house "Iris" AI chip into production in September]]
+- `2026-07-09` [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem|Meta to move in-house Iris AI chip into production in September]]
 - `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t|Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 14 GW by 2027]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1|Meta enters the crowded AI coding battle with Muse Spark 1.1]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1-its|Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1|Meta enters the agentic-coding race with Muse Spark 1.1]]
 - `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1|Meta enters the agentic-coding market with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1-at-cut-rate-p|Meta enters agentic coding with Muse Spark 1.1 at cut-rate pricing]]
+- `2026-07-09` [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1|Meta enters agentic coding with Muse Spark 1.1]]
 - `2026-07-09` [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb|Meta Breaks Ground on First Canadian Data Center — 1 GW in Alberta]]
 - `2026-07-09` [[2026-07-09-google-photos-rolls-out-ai-video-remix|Google Photos Rolls Out AI “Video Remix”]]
 - `2026-07-09` [[2026-07-09-daily-ai-news-digest-july-10-2026|Daily AI News Digest – July 10, 2026]]

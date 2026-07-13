@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
+- 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
 - 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing
-- 2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet
 embedding_id: 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 event_name: ''
 ---
@@ -46,5 +46,5 @@ DeepSeek V4 Goes All-In on Huawei Silicon
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]] · [[2026-07-05-sk-hynix-s-record-29b-nasdaq-listing-tests-ai-investor-appet]]
+**Related:** [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]] · [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing]]
 <!-- graph:end -->

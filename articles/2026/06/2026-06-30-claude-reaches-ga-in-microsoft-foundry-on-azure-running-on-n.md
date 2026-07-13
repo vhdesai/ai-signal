@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
+- 2026-07-11-claude-opus-4-7-is-now-generally-available
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 embedding_id: 2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Claude Opus 4.8 and Haiku 4.5 reached general availability in Microsoft Foundry,
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
+**Related:** [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
 <!-- graph:end -->

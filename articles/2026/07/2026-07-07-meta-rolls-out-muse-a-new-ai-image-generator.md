@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse
 related_article_ids:
+- 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 - 2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac
 - 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
 embedding_id: 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
@@ -36,5 +37,5 @@ TechCrunch reported that Meta’s Muse Image rollout quickly drew privacy concer
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]]
-**Related:** [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac]] · [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]]
+**Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-07-meta-ships-muse-image-an-agentic-generator-and-immediate-bac]] · [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]]
 <!-- graph:end -->

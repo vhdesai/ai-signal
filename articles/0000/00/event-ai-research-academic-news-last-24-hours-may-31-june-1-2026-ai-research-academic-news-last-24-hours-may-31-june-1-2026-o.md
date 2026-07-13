@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june
+- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
-- 2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor
 embedding_id: event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
 event_name: AI Research & Academic News - Last 24 Hours (May 31 - June 1, 2026)
 ---
@@ -36,5 +36,5 @@ Key Finding: After scanning all monitored academic and research sources, no genu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-24-ai-s-last-24-hours-talent-shocks-capital-and-a-two-way-expor]]
+**Related:** [[event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
 <!-- graph:end -->

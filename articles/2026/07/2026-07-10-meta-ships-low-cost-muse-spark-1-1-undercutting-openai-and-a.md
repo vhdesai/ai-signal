@@ -19,12 +19,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
-- 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
-- 2026-05-20-meta-releases-muse-spark-model-amid-restructuring
+dedupe_status: duplicate
+canonical_article_id: 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
+related_article_ids: []
 embedding_id: 2026-07-10-meta-ships-low-cost-muse-spark-1-1-undercutting-openai-and-a
 event_name: ''
 ---
@@ -38,5 +35,5 @@ Meta’s Muse Spark 1.1 — now in public preview via the Meta Model API — cla
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-05-20-meta-releases-muse-spark-model-amid-restructuring]]
+**Canonical:** [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]]
 <!-- graph:end -->

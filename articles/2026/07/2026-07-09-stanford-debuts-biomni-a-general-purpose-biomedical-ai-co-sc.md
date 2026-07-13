@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 - 2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford unveiled Biomni, an AI agent that autonomously executes biomedical rese
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
 <!-- graph:end -->

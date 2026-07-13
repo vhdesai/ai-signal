@@ -22,8 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 embedding_id: 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 event_name: ''
 ---
@@ -37,5 +36,5 @@ OpenAI launched ChatGPT Work, a workspace that fuses ChatGPT with its Codex codi
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
+**Related:** [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
 <!-- graph:end -->

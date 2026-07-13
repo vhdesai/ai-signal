@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
+- 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
 - 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-- 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 embedding_id: 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI rolled out Workspace Agents on Business, Enterprise, Edu, and Teachers pl
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]]
+**Related:** [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
 <!-- graph:end -->

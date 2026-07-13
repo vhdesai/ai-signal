@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-01-products-tools
 - 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
-- 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
+- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 embedding_id: 2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Salesforce connected Slackbot to CRM records, Tableau, Data Cloud, Agentforce, a
 ## Connections
 
 **Entities:** [[Salesforce]]
-**Related:** [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-04-01-products-tools]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]]
+**Related:** [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-04-01-products-tools]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
+- 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 - 2026-04-22-academic-research
 - 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
-- 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 embedding_id: 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Berkeley Law adopted a stricter policy limiting student use of LLMs in core lega
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-04-22-academic-research]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]]
+**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog]] · [[2026-04-22-academic-research]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
 <!-- graph:end -->

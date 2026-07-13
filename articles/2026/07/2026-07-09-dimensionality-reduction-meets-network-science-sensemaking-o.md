@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and
 embedding_id: 2026-07-09-dimensionality-reduction-meets-network-science-sensemaking-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from Georgia Tech, CMU, UC San Diego, and Apple Research showed that
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-05-newarxiv-sparse-regression-benchmarks-under-correlation-and]]
+**Related:** [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
 <!-- graph:end -->

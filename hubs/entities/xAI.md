@@ -1,18 +1,21 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 172
+member_count: 176
 ---
 
 # xAI
 
-> Auto-generated entity hub. 172 connected article(s).
+> Auto-generated entity hub. 176 connected article(s).
 
 - `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
+- `2026-07-10` [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1|Meta enters the coding-model race with Muse Spark 1.1]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
-- `2026-07-09` [[2026-07-09-meta-enters-the-agentic-coding-race-with-muse-spark-1-1|Meta enters the agentic-coding race with Muse Spark 1.1]]
+- `2026-07-09` [[2026-07-09-gpt-5-6-shipped-only-after-a-u-s-federal-cybersecurity-revie|GPT‑5.6 shipped only after a U.S. federal cybersecurity review]]
 - `2026-07-09` [[2026-07-09-daily-ai-news-digest-july-10-2026|Daily AI News Digest – July 10, 2026]]
+- `2026-07-08` [[2026-07-08-xai-s-grok-4-5-arrives-as-an-opus-class-lower-cost-challenge|xAI's Grok 4.5 arrives as an "Opus-class," lower-cost challenger — independent benchmarks temper the claims]]
 - `2026-07-08` [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work|xAI ships Grok 4.5, aimed squarely at coding and agentic workloads]]
 - `2026-07-08` [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls|xAI (SpaceXAI) to Launch Grok 4.5 Publicly Thursday; Musk Calls It “Opus-Class”]]
 - `2026-07-08` [[2026-07-08-spacexai-ships-grok-4-5-for-coding-and-agentic-workloads|SpaceXAI ships Grok 4.5 for coding and agentic workloads]]
@@ -20,6 +23,7 @@ member_count: 172
 - `2026-07-08` [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks|SpaceXAI launches Grok 4.5 for coding and agentic tasks]]
 - `2026-07-08` [[2026-07-08-spacexai-sets-grok-4-5-public-release-for-thursday-joint-cur|SpaceXAI Sets Grok 4.5 Public Release for Thursday; Joint Cursor Model Imminent]]
 - `2026-07-08` [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f|SpaceXAI (formerly xAI) and Cursor to ship their first joint frontier model “as soon as today”]]
+- `2026-07-08` [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri|SpaceX/xAI launches Grok 4.5 at roughly half the price of rivals]]
 - `2026-07-08` [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o|Musk sets Grok 4.5 public release for Thursday, pitching an ‘Opus-class’ model]]
 - `2026-07-08` [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens|Frontier Launches Line Up as US–China AI Friction Sharpens]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]

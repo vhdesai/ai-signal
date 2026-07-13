@@ -1,14 +1,14 @@
 ---
 article_id: 2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-claud
-title: Anthropic adds “Reflect,” a usage-analytics dashboard for Claude
+title: Anthropic adds Reflect, a usage-analytics dashboard for Claude
 date: '2026-07-09'
 source: TechCrunch
 url_original: https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
 url_canonical: https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/
 url_status: found
-digest_source: digests\raw\2026-07-10_061848_Inbox_Daily AI News Digest - July 10,
+digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: 64b9c543ef3f93ecf31c48f31f388d21c12affa7bf10c08e005abebd415e7451
+content_hash: 8dab618b5b7216e0ed5d642a1b66c697132037ed005a52b2d596d33e47a614f3
 normalized_title_hash: 165f4699e9a9b2ca
 canonical_url_hash: 30e870106f056953
 tags: []
@@ -24,9 +24,9 @@ embedding_id: 2026-07-09-anthropic-adds-reflect-a-usage-analytics-dashboard-for-
 event_name: ''
 ---
 
-# Anthropic adds “Reflect,” a usage-analytics dashboard for Claude
+# Anthropic adds Reflect, a usage-analytics dashboard for Claude
 
-Reflect is a built-in dashboard that lets users track and visualize how they use Claude — topics discussed, usage patterns, and the tasks they most often delegate to AI. TechCrunch frames the feature as dual-purpose: an analytics tool that also reinforces how embedded Claude has become in daily work, launched amid visible AI backlash and data-center protests. For enterprise buyers, usage-visibility features are becoming a retention and governance lever, not just a consumer nicety.
+Anthropic introduced Reflect, a built-in dashboard that visualizes how users engage with Claude, including recurring topics, usage patterns, and tasks delegated to AI. The feature doubles as retention, framing Claude as a mindful part of daily workflows. For enterprise buyers, usage-transparency features foreshadow AI productivity accounting and new questions about where work summaries live.
 
 <!-- graph:start -->
 ## Connections

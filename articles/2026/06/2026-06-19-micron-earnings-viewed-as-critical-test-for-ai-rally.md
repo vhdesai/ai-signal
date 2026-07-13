@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
+- 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 - 2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 - 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
-- 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
-- 2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory
 embedding_id: 2026-06-19-micron-earnings-viewed-as-critical-test-for-ai-rally
 event_name: ''
 ---
@@ -36,5 +36,5 @@ June 24 earnings positioned as key AI demand indicator. Deutsche Bank raised tar
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]]
+**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-09-micron-commits-250b-to-us-memory-manufacturing-on-ai-demand]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]]
 <!-- graph:end -->

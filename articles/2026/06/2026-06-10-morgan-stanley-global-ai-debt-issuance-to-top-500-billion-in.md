@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 - 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
+- 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp
 - 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
-- 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 embedding_id: 2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Morgan Stanley projects global AI-related debt issuance will exceed $500 billion
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]]
+**Related:** [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]]
 <!-- graph:end -->

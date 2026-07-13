@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
+- 2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te
 - 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
 - 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
-- 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
 embedding_id: 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI said it would make its GPT‑5.6 family broadly available starting Thursd
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]] · [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]]
+**Related:** [[2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]] · [[2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
 <!-- graph:end -->

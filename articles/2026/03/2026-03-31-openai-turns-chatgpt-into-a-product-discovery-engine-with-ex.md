@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
+- 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
+- 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
 embedding_id: 2026-03-31-openai-turns-chatgpt-into-a-product-discovery-engine-with-ex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is rolling out visual browsing, product comparisons, and price summaries 
 
 **Entities:** [[Amazon]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]]
+**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]]
 <!-- graph:end -->

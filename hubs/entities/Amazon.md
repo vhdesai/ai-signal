@@ -1,16 +1,20 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 229
+member_count: 233
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 229 connected article(s).
+> Auto-generated entity hub. 233 connected article(s).
 
+- `2026-07-12` [[2026-07-12-welcome-to-the-era-of-the-forever-layoff|Welcome to the era of the forever layoff]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp|Big Tech's AI debt load doubles to $350B as infrastructure spending strains balance sheets]]
 - `2026-07-10` [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m|Amazon CTO: enterprises are shifting to cheaper open-source models to curb costs]]
 - `2026-07-10` [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou|Amazon CTO says enterprises are pivoting to cheaper open-source models]]
+- `2026-07-10` [[2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper|Amazon CTO says enterprises are moving workloads to cheaper open-source models]]
 - `2026-07-10` [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope|Amazon CTO Werner Vogels: enterprises pivoting to cheaper open-source models]]
 - `2026-07-10` [[2026-07-10-amazon-cto-vogels-enterprises-pivoting-to-cheaper-open-sourc|Amazon CTO Vogels: Enterprises Pivoting to Cheaper Open-Source Models]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]

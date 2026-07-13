@@ -1,25 +1,35 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 423
+member_count: 433
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 423 connected article(s).
+> Auto-generated entity hub. 433 connected article(s).
 
+- `2026-07-12` [[2026-07-12-welcome-to-the-era-of-the-forever-layoff|Welcome to the era of the forever layoff]]
+- `2026-07-12` [[2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund|Majority of US workers back an AI 'sovereign wealth fund']]
 - `2026-07-10` [[2026-07-10-subject-daily-ai-news-digest-july-10-2026|Subject: Daily AI News Digest – July 10, 2026]]
 - `2026-07-10` [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop|OpenAI says GPT-5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter]]
 - `2026-07-10` [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c|OpenAI names GPT-5.6 the “preferred model” for Microsoft 365 Copilot]]
+- `2026-07-10` [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag|OpenAI launches ChatGPT Work, an autonomous cross-app work agent]]
 - `2026-07-10` [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app|OpenAI introduces “ChatGPT Work,” a GPT-5.6-powered super app]]
+- `2026-07-10` [[2026-07-10-microsoft-s-carbon-emissions-rose-25-as-the-ai-data-center-b|Microsoft's carbon emissions rose 25% as the AI data-center build-out accelerates]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval|ChatGPT Work launches after U.S. government approval]]
 - `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion|Big Tech’s AI debt load doubles to $350 billion]]
+- `2026-07-10` [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp|Big Tech's AI debt load doubles to $350B as infrastructure spending strains balance sheets]]
 - `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
 - `2026-07-09` [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365|OpenAI says GPT-5.6 is the preferred model for Microsoft 365 Copilot amid breakup chatter]]
+- `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl|OpenAI launches ChatGPT Work, an enterprise agent spanning Slack, Teams, Drive and SharePoint]]
+- `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app|OpenAI launches ChatGPT Work, a white-collar "super app"]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade|OpenAI introduces ChatGPT Work, merging Codex into an upgraded desktop app]]
 - `2026-07-09` [[2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c|OpenAI Names GPT-5.6 the "Preferred Model" for Microsoft 365 Copilot]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com|Microsoft's Brad Smith: “Regulation Without Transparent or Complete Rules”]]
+- `2026-07-09` [[2026-07-09-gpt-5-6-shipped-only-after-a-u-s-federal-cybersecurity-revie|GPT‑5.6 shipped only after a U.S. federal cybersecurity review]]
 - `2026-07-08` [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in|Microsoft quietly replaces partner models with MAI models in Excel and Outlook]]
 - `2026-07-08` [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza|Microsoft Research Introduces Flint, an Open-Source Visualization Language for Agents]]
 - `2026-07-08` [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models|Microsoft Quietly Replaces OpenAI/Anthropic with MAI Models in Excel and Outlook]]

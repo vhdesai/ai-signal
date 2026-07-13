@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
 - 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
+- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 embedding_id: 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TSMC warned AI chip demand is straining the entire supply chain — "we can only
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]]
+**Related:** [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]]
 <!-- graph:end -->

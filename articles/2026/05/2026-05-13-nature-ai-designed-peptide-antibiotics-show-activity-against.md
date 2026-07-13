@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
-- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 embedding_id: 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A fresh Nature paper details AI-designed peptide antibiotics with measurable act
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
+**Related:** [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]]
 <!-- graph:end -->

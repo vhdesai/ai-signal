@@ -21,7 +21,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
+canonical_article_id: 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
 related_article_ids: []
 embedding_id: 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
 event_name: ''
@@ -36,5 +36,5 @@ Elon Musk’s xAI released Grok 4.5 on Wednesday, calling it its most capable mo
 
 **Entities:** [[NVIDIA]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
+**Canonical:** [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]]
 <!-- graph:end -->

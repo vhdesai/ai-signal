@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
 - 2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app
-- 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
+- 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 embedding_id: 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Meta announced that Ray-Ban AI glasses will disable camera capture if the record
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]]
+**Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-06-08-meta-deletes-face-recognition-system-from-smart-glasses-app]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]]
 <!-- graph:end -->

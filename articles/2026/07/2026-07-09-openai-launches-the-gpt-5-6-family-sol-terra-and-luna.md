@@ -18,7 +18,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general
+canonical_article_id: 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 related_article_ids:
 - 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 embedding_id: 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
@@ -34,6 +34,6 @@ OpenAI unveiled GPT-5.6 in three tiers — Sol (flagship), Terra (mid-range) and
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general]]
+**Canonical:** [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]]
 **Related:** [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]]
 <!-- graph:end -->

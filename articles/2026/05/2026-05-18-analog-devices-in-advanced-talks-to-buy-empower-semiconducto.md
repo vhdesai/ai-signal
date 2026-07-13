@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
-- 2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g
+- 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
 embedding_id: 2026-05-18-analog-devices-in-advanced-talks-to-buy-empower-semiconducto
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Chipmaker Analog Devices is close to acquiring Empower Semiconductor — a 12-ye
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-05-25-nextera-to-acquire-dominion-energy-for-67b-to-power-the-ai-g]]
+**Related:** [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch]]
 <!-- graph:end -->

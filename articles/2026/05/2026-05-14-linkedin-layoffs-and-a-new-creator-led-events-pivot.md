@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
+- 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 - 2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo
-- 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
 embedding_id: 2026-05-14-linkedin-layoffs-and-a-new-creator-led-events-pivot
 event_name: ''
 ---
@@ -37,5 +37,5 @@ LinkedIn announced layoffs across sales, marketing, engineering, and product —
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo]] · [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]]
+**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-06-08-worldcoin-doing-layoffs-as-openai-files-for-ipo]]
 <!-- graph:end -->

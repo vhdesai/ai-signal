@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 - 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
-- 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
+- 2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist
 embedding_id: 2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Baidu's Hong Kong shares jumped more than 7% on a report (The Information) that 
 
 **Entities:** [[Baidu]] · [[ByteDance]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b]] · [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]]
+**Related:** [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b]] · [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist]]
 <!-- graph:end -->

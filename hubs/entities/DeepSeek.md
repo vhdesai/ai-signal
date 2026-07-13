@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 178
+member_count: 181
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 178 connected article(s).
+> Auto-generated entity hub. 181 connected article(s).
 
+- `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
+- `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild|Reports: Gemini 3.5 Pro Targets July 17 GA After Full Rebuild; DeepSeek V4 API Deadline Looms]]
 - `2026-07-08` [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m|China’s MiniMax Plans a 2.7-Trillion-Parameter Open-Weight Model]]

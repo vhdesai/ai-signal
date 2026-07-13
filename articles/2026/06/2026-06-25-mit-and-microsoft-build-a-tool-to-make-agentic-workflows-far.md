@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
-- 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
+- 2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper
 embedding_id: 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers from MIT and Microsoft developed a system that lets developers descr
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent]]
+**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
+- 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
 embedding_id: 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new TechCrunch survey reveals U.S. AI tool adoption is rising while confidence
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-14-upenn-appc-survey-only-17-of-americans-expect-ai-to-have-a-p]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou]]
 <!-- graph:end -->

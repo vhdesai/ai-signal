@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 - 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
+- 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 embedding_id: 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI is folding Codex, agents, and partner apps into a single "superapp." Ente
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
+**Related:** [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-ahead-of-ipo]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

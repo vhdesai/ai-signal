@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
-- 2026-06-27-daily-ai-news-digest-june-27-2026
+- 2026-07-11-daily-ai-news-digest-july-12-2026
 embedding_id: 2026-07-08-daily-ai-news-digest-july-9-2026
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The frontier race accelerated sharply. OpenAI opened GPT-5.6 to the public and l
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
+**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]]
 <!-- graph:end -->

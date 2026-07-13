@@ -1,22 +1,40 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 667
+member_count: 687
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 667 connected article(s).
+> Auto-generated topic hub. 687 connected article(s).
 
+- `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund|Majority of US workers back an AI 'sovereign wealth fund']]
+- `2026-07-12` [[2026-07-12-majority-of-u-s-workers-back-an-ai-sovereign-wealth-fund|Majority of U.S. Workers Back an AI 'Sovereign Wealth Fund']]
+- `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
+- `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]
+- `2026-07-11` [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat|OpenAI creates a dedicated product role for families as ChatGPT's audience ages up]]
+- `2026-07-11` [[2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la|Meta scraps Instagram "Muse Image" likeness tool days after launch amid consent backlash]]
+- `2026-07-11` [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic|Hundreds march on OpenAI, Anthropic, and Google DeepMind offices in San Francisco]]
+- `2026-07-11` [[2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai|Compromised npm Package Drops Rust Infostealer Targeting AI Dev Tools]]
+- `2026-07-11` [[2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog|AI-enabled cheating is forcing some schools to go analog]]
+- `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]
 - `2026-07-10` [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills|Senator Markey unveils an “AI accountability” package of bills]]
+- `2026-07-10` [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-targetin|Senator Markey unveils an AI accountability package targeting deployment and infrastructure]]
 - `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
+- `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
+- `2026-07-10` [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch|Meta pulls Instagram AI image feature days after launch]]
+- `2026-07-10` [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims|Independent evaluations puncture launch-day benchmark claims]]
 - `2026-07-10` [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena|Frontier Model Launches Cluster in a 48-Hour Window as OpenAI, xAI and Meta Ship]]
+- `2026-07-10` [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval|ChatGPT Work launches after U.S. government approval]]
 - `2026-07-09` [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo|OpenAI doubles its biosecurity jailbreak bounty to $50,000 for GPT-5.6]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c|News organizations ask federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright|New York Times says OpenAI hid evidence in ChatGPT copyright trial]]
 - `2026-07-09` [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t|NYT accuses OpenAI of hiding evidence in ChatGPT copyright trial, seeks sanctions]]
 - `2026-07-09` [[2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com|Microsoft's Brad Smith: “Regulation Without Transparent or Complete Rules”]]
+- `2026-07-09` [[2026-07-09-gpt-5-6-shipped-only-after-a-u-s-federal-cybersecurity-revie|GPT‑5.6 shipped only after a U.S. federal cybersecurity review]]
 - `2026-07-08` [[2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru|“HalluSquatting” Attack Can Trick AI Coding Assistants Into Running Malicious Code]]
 - `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r|White House disputes “clearing” GPT‑5.6 as US frontier-model review regime takes shape]]
 - `2026-07-08` [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model|White House disputes clearing GPT-5.6 as U.S. frontier-model review regime takes shape]]
@@ -25,6 +43,8 @@ member_count: 667
 - `2026-07-08` [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout|U.S. Clears OpenAI's GPT-5.6 for Broad Public Rollout]]
 - `2026-07-08` [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg|Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.]]
 - `2026-07-08` [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri|LangChain and NVIDIA release NemoClaw blueprint for enterprise agents]]
+- `2026-07-08` [[2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec|GPT-5.6's broad release came only after a U.S. government security review]]
+- `2026-07-08` [[2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev|GPT-5.6 broad release came after U.S. government security review]]
 - `2026-07-08` [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau|China warns of a “back-door” vulnerability in Anthropic’s Claude Code]]
 - `2026-07-08` [[2026-07-08-china-warns-of-a-security-backdoor-in-anthropic-s-claude-cod|China warns of a security backdoor in Anthropic's Claude Code; Alibaba bans it internally]]
 - `2026-07-08` [[2026-07-08-china-warns-of-security-backdoor-in-anthropic-s-claude-code|China Warns of "Security Backdoor" in Anthropic's Claude Code; Alibaba Bans It]]

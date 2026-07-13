@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp
 - 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 - 2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 embedding_id: 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350-billion
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alphabet, Amazon, Meta, Microsoft and Oracle have collectively added about $350B
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
+**Related:** [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-06-10-morgan-stanley-global-ai-debt-issuance-to-top-500-billion-in]]
 <!-- graph:end -->

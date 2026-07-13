@@ -20,13 +20,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 related_article_ids:
 - 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
-- 2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public
-- 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
-- 2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe
 embedding_id: 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general
 event_name: ''
 ---
@@ -40,5 +37,6 @@ OpenAI moved its GPT-5.6 series to general availability after a restricted late-
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-and-luna-to-the-public]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-06-26-openai-launches-gpt-5-6-sol-terra-and-luna-in-limited-previe]]
+**Canonical:** [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]]
+**Related:** [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava]]
 <!-- graph:end -->

@@ -43,7 +43,7 @@ related_article_ids:
 - 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
+- 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 embedding_id: 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 event_name: ''
 ---
@@ -57,5 +57,5 @@ A coalition of 17 news organizations — including The New York Times, New York 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
+**Related:** [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]]
 <!-- graph:end -->

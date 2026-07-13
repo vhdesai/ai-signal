@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
 - 2026-05-04-5-academic-research
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
 - 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
-- 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
 embedding_id: 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research unveiled TabFM, a foundation model that brings zero-shot, in-con
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]] · [[2026-05-04-5-academic-research]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]] · [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]]
+**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]] · [[2026-05-04-5-academic-research]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-05-22-google-health-first-cross-modality-foundation-model-for-wear]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 - 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
+- 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SAP announced a $1.16 billion investment in NemoClaw, an 18-month-old German AI 
 
 **Entities:** [[SAP]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents]] · [[2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
 <!-- graph:end -->

@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-daily-ai-news-digest-june-26-2026
+- 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
+- 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-- 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 embedding_id: 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Paul Meade, the Apple vice president who led the Vision Pro headset and smart-gl
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Related:** [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets]]
+**Related:** [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
 <!-- graph:end -->

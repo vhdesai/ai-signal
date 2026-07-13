@@ -25,6 +25,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
+- 2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
@@ -40,5 +41,5 @@ Jamie Dimon: AI Will "Probably" Impact Banker Hiring at JPMorgan
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Related:** [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]] · [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
 <!-- graph:end -->

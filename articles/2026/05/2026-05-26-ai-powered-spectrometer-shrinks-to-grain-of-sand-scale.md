@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps
 - 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
-- 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
+- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 embedding_id: 2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC Davis engineers unveiled a 0.4 mm² silicon spectrometer that replaces bulky 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]]
+**Related:** [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]] · [[2026-06-23-mit-s-low-power-gleanmer-chip-lets-tiny-robots-build-3d-maps]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
 <!-- graph:end -->

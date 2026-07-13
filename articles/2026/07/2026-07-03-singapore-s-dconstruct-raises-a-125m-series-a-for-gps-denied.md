@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
 - 2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation
-- 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
+- 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 embedding_id: 2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied
 event_name: ''
 ---
@@ -36,5 +36,5 @@ dConstruct Technologies closed a US$125M Series A — one of the largest for a S
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]]
+**Related:** [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation]] · [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model]]
 <!-- graph:end -->

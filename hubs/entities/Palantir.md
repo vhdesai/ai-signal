@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 62
+member_count: 63
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 62 connected article(s).
+> Auto-generated entity hub. 63 connected article(s).
 
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a|AWS stands up a “Forward Deployed Engineering” org backed by a $1B Amazon investment]]
 - `2026-07-09` [[2026-07-09-aws-launches-forward-deployed-engineering-org-backed-by-1b-a|AWS Launches "Forward Deployed Engineering" Org Backed by $1B Amazon Investment]]

@@ -1,20 +1,26 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 466
+member_count: 472
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 466 connected article(s).
+> Auto-generated entity hub. 472 connected article(s).
 
 - `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist|SK Hynix raises $26.5B in the biggest foreign IPO in U.S. history]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-us-listing|SK Hynix raises $26.5B in blockbuster US listing]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing|SK Hynix raises $26.5B in blockbuster U.S. listing]]
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade|Nvidia’s valuation resets to pre-AI-boom levels as the trade rotates to memory]]
+- `2026-07-09` [[2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round|Nvidia backs Paris voice-AI startup Gradium's $100M round]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75|NVIDIA's “Iterative Puzzle” compresses a 120B hybrid MoE to 75B, roughly doubling throughput]]
 - `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september|Meta to start producing in-house Iris AI chip in September]]
+- `2026-07-09` [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se|Meta to move its in-house "Iris" AI chip into production in September]]
+- `2026-07-09` [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem|Meta to move in-house Iris AI chip into production in September]]
 - `2026-07-09` [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t|Meta to Start Producing In-House "Iris" AI Chip in September, Targeting 14 GW by 2027]]
 - `2026-07-09` [[2026-07-09-jensen-huang-says-his-software-engineers-prefer-building-age|Jensen Huang says his software engineers prefer building agents to writing code]]
 - `2026-07-08` [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work|xAI ships Grok 4.5, aimed squarely at coding and agentic workloads]]

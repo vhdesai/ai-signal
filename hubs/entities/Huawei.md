@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 94
+member_count: 95
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 94 connected article(s).
+> Auto-generated entity hub. 95 connected article(s).
 
+- `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv|Reuters: DeepSeek developing its own inference chip to cut Nvidia and Huawei reliance]]

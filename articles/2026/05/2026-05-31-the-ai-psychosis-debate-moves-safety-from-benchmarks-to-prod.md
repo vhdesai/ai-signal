@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-04-02-academic-research
+- 2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch examined the debate over so-called “AI psychosis,” a term being u
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-02-academic-research]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
+**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-02-academic-research]] · [[2026-07-11-the-real-danger-of-ai-isn-t-that-it-s-wrong-it-s-that-it-cou]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
 <!-- graph:end -->

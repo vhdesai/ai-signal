@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
+- 2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 embedding_id: 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
 event_name: ''
 ---
@@ -42,5 +42,5 @@ May delivered the most dramatic AI API pricing changes in a single month. xAI ra
 
 **Entities:** [[DeepSeek]] · [[Mistral]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
+**Related:** [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]]
 <!-- graph:end -->

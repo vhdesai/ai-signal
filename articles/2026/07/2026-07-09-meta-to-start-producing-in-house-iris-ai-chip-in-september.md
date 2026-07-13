@@ -19,14 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t
-- 2026-07-09-daily-ai-news-digest-july-10-2026
-- 2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai
-- 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
+dedupe_status: duplicate
+canonical_article_id: 2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem
+related_article_ids: []
 embedding_id: 2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september
 event_name: ''
 ---
@@ -40,5 +35,5 @@ An internal memo reviewed by Reuters says Meta plans to begin manufacturing its 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai]] · [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]]
+**Canonical:** [[2026-07-09-meta-to-move-in-house-iris-ai-chip-into-production-in-septem]]
 <!-- graph:end -->

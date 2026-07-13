@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 39
+member_count: 41
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 39 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-07-10` [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab|U.S. officials urge AI memory suppliers to build domestic fabs]]
+- `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
 - `2026-07-09` [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda|SK Hynix prices U.S. listing at $149/share and debuts on Nasdaq]]
 - `2026-07-07` [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c|Samsung posts record Q2 profit but shares fall as AI-capex concerns spook investors]]
 - `2026-07-07` [[2026-07-07-samsung-guides-to-record-q2-operating-profit-on-ai-memory-de|Samsung guides to record Q2 operating profit on AI-memory demand — but shares fall]]

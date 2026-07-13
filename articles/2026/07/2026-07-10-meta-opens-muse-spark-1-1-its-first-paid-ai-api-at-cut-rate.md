@@ -23,9 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
+- 2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f
+- 2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
-- 2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc
 embedding_id: 2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's Superintelligence Labs, led by Alexandr Wang, launched Muse Spark 1.1, it
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-05-05-meta-debuts-muse-spark-the-first-model-from-superintelligenc]]
+**Related:** [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]] · [[2026-07-09-meta-enters-agentic-coding-with-muse-spark-1-1]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]]
 <!-- graph:end -->

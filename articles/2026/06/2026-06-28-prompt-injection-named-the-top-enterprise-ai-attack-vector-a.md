@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
-- 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
+- 2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat
 embedding_id: 2026-06-28-prompt-injection-named-the-top-enterprise-ai-attack-vector-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ VentureBeat details how prompt injection — ranked LLM01 in the OWASP LLM Top 1
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]]
+**Related:** [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]]
 <!-- graph:end -->

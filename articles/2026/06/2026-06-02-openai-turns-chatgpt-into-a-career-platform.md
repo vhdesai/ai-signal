@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
+- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
+- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
 - 2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
-- 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
 embedding_id: 2026-06-02-openai-turns-chatgpt-into-a-career-platform
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI added a job-search feature to ChatGPT that surfaces personalized listings
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]]
+**Related:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]] · [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]]
 <!-- graph:end -->

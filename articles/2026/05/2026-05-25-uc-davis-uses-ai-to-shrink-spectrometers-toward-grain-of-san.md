@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale
+- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
 - 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
 - 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
-- 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 embedding_id: 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC Davis researchers described a miniature silicon spectrometer that uses 16 tun
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]]
+**Related:** [[2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]]
 <!-- graph:end -->
