@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 97
+member_count: 99
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 97 connected article(s).
+> Auto-generated entity hub. 99 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo|Mistral introduces Robostral Navigate for single-camera robot navigation]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-mistral-enters-physical-ai-with-robostral-navigate|Mistral enters physical AI with Robostral Navigate]]

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses
+- 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
 - 2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi
-- 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 embedding_id: 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta is reportedly developing an AI pendant, pushing the AI hardware race beyond
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
+**Related:** [[2026-05-30-meta-developing-ai-pendant-and-expanding-smart-glasses-roadm]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]] · [[2026-05-18-new-meta-launches-hands-free-ai-glasses-features-for-accessi]]
 <!-- graph:end -->

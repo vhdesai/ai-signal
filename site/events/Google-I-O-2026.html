@@ -35,7 +35,7 @@
     <span>May 19, 2026</span>
     
   </div>
-  <div class="summary">Distribution advantage: Google's largest advantage is not one model release; it is the ability to place Gemini inside Search, YouTube, Gmail, Docs, Android, Chrome, Cloud, and XR. - Agentic platform race: Gemini Spark signals that the competitive frontier has shifted from chatbots to supervised… <button class="expand-toggle" onclick="var el=document.getElementById('exp5780');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show more':'Show less'">Show more</button><span id="exp5780" style="display:none"> autonomous agents that can run continuously and take cross-app action. - Cost pressure: The corpus repeatedly frames Flash as a price/performance weapon against OpenAI, Anthropic, and cloud-hosted competitors. - Consumer + enterprise convergence: I/O blurred the line between consumer assistant, developer platform, and enterprise workflow automation.</span></div>
+  <div class="summary">Distribution advantage: Google's largest advantage is not one model release; it is the ability to place Gemini inside Search, YouTube, Gmail, Docs, Android, Chrome, Cloud, and XR. - Agentic platform race: Gemini Spark signals that the competitive frontier has shifted from chatbots to supervised… <button class="expand-toggle" onclick="var el=document.getElementById('exp5884');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show more':'Show less'">Show more</button><span id="exp5884" style="display:none"> autonomous agents that can run continuously and take cross-app action. - Cost pressure: The corpus repeatedly frames Flash as a price/performance weapon against OpenAI, Anthropic, and cloud-hosted competitors. - Consumer + enterprise convergence: I/O blurred the line between consumer assistant, developer platform, and enterprise workflow automation.</span></div>
   <div class="tags"><span class="tag tag-hot">Event</span><a class="tag tag-entity" href="../entities/Amazon.html">Amazon</a><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a><a class="tag tag-entity" href="../entities/Samsung.html">Samsung</a></div>
 </article><div class="submit-link-cta"><span>Have a useful link for this event?</span> <a href="../submit.html?event=Google%20I/O%202026" class="submit-btn">📥 Submit Link</a></div>
 </main>
@@ -96,6 +96,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -253,7 +259,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -262,7 +268,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -535,7 +541,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -626,5 +632,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

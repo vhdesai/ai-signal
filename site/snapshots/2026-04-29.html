@@ -25,7 +25,7 @@
     <span>April 29, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>IBM released the Granite 4.1 series — available in 3B, 8B, and 30B parameter variants — as open-source models with 131K-token context windows, specifically engineered for enterprise workloads including document understanding, code generation, and retrieval-augmented generation.</li><li>The release reinforces IBM's strategy of providing commercially licensed, open-weight models for regulated industries where deploying proprietary cloud APIs raises data residency, compliance, and audit-trail concerns.</li><span id="exp1120" style="display:none"><li>Granite 4.1 is deployable on-premises, directly addressing financial services, healthcare, and government sectors.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1120');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>IBM released the Granite 4.1 series — available in 3B, 8B, and 30B parameter variants — as open-source models with 131K-token context windows, specifically engineered for enterprise workloads including document understanding, code generation, and retrieval-augmented generation.</li><li>The release reinforces IBM's strategy of providing commercially licensed, open-weight models for regulated industries where deploying proprietary cloud APIs raises data residency, compliance, and audit-trail concerns.</li><span id="exp1148" style="display:none"><li>Granite 4.1 is deployable on-premises, directly addressing financial services, healthcare, and government sectors.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1148');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/IBM.html">IBM</a></div>
 </article>
 <article class="card ">
@@ -35,7 +35,7 @@
     <span>April 29, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Mistral AI released Mistral Medium 3.5 on April 29 as an open-source model with a 256K-token context window, targeting the mid-tier enterprise segment that needs extended-context reasoning at lower cost than frontier closed-source alternatives.</li><li>Mistral's continued open-source strategy — while Alibaba and other Chinese players close their weights — positions the French lab as the primary Western open-weight option for organizations requiring model transparency and self-hosting capability.</li><span id="exp1121" style="display:none"><li>Benchmark performance places it competitively within the mid-range of the current leaderboard. 🛡️ 6 — AI Safety & Policy</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1121');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Mistral AI released Mistral Medium 3.5 on April 29 as an open-source model with a 256K-token context window, targeting the mid-tier enterprise segment that needs extended-context reasoning at lower cost than frontier closed-source alternatives.</li><li>Mistral's continued open-source strategy — while Alibaba and other Chinese players close their weights — positions the French lab as the primary Western open-weight option for organizations requiring model transparency and self-hosting capability.</li><span id="exp1149" style="display:none"><li>Benchmark performance places it competitively within the mid-range of the current leaderboard. 🛡️ 6 — AI Safety & Policy</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1149');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Alibaba.html">Alibaba</a><a class="tag tag-entity" href="../entities/Mistral.html">Mistral</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article><div class="snap-nav"><a href="2026-04-28.html">← April 28, 2026</a><span class="spacer"></span><a href="2026-04-30.html">April 30, 2026 →</a></div>
 </main>
@@ -96,6 +96,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -253,7 +259,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -262,7 +268,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -535,7 +541,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -626,5 +632,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

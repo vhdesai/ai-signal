@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 - 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
+- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 embedding_id: 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
 event_name: ''
 ---
@@ -35,5 +35,5 @@ President Trump called for the military to accelerate its adoption of AI technol
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]]
+**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
 <!-- graph:end -->

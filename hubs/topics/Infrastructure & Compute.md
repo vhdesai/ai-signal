@@ -1,14 +1,28 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 755
+member_count: 769
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 755 connected article(s).
+> Auto-generated topic hub. 769 connected article(s).
 
+- `2026-07-13` [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge|White House reportedly seeks utility and data-center pledge on AI power costs]]
+- `2026-07-13` [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize|WSJ Wealth Adviser highlighted surging demand for specialized turbine parts as airlines and hyperscalers compete for a limited supplier base. The story matters for AI because data-center power demand is pushing hyperscalers deeper into energy procurement and generation infrastructure. The investable bottleneck is widening beyond GPUs, memory, and packaging into the industrial supply chain that supports power generation.]]
+- `2026-07-13` [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory|Samsung pulls first Yongin fab forward to 2029 for AI memory]]
+- `2026-07-13` [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor|Meta expands Louisiana Hyperion supercluster to 5 GW and more than $50B]]
+- `2026-07-13` [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele|Memory-chip earnings expected to show AI-driven sales acceleration]]
+- `2026-07-13` [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips|Intel commits €5B to expand Leixlip, Ireland fab for AI chips]]
+- `2026-07-13` [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for|Intel commits €5B ($5.7B) to expand its Leixlip, Ireland fab for AI chips]]
+- `2026-07-13` [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras|Hyperscaler demand turns turbine suppliers into an AI infrastructure bottleneck]]
+- `2026-07-13` [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m|Google's Waze rolls out Gemini‑powered features: Motorcycle mode and "Less Chatty" navigation]]
+- `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
+- `2026-07-13` [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win|Daily AI News Digest Monday, July 13, 2026 · 12 items · Source window: July 12–13, 2026]]
+- `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
+- `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]
 - `2026-07-12` [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning|The fight against AI data centers is just beginning]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-11` [[2026-07-11-sk-hynix-surges-13-in-nasdaq-debut|SK hynix surges ~13% in Nasdaq debut]]
 - `2026-07-11` [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y|Oracle's AI capex and debt load weigh on the stock, down ~29% year-to-date]]
 - `2026-07-11` [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global|Goldman Sachs warns the U.S. will bear the brunt of a global AI-induced inflation surge]]

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 563
+member_count: 569
 ---
 
 # Google
 
-> Auto-generated entity hub. 563 connected article(s).
+> Auto-generated entity hub. 569 connected article(s).
 
+- `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto|Waze rolls out new Gemini-powered AI features, including Motorcycle and "Less Chatty" modes]]
+- `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m|Google's Waze rolls out Gemini‑powered features: Motorcycle mode and "Less Chatty" navigation]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
 - `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]
 - `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]

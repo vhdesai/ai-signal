@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 - 2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant
+- 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
 - 2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code
-- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 embedding_id: 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A revised privacy policy (effective July 8) states Anthropic may request governm
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]]
+**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-07-08-china-says-it-found-security-backdoor-vulnerabilities-in-ant]] · [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech]] · [[2026-07-07-china-flags-security-backdoor-in-anthropic-s-claude-code]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 - 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo
-- 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 embedding_id: 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Wall Street Journal reported remarks from Satya Nadella arguing that the AI 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]]
+**Related:** [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-05-22-ceo-satya-nadella-is-reshaping-microsoft-s-upper-echelons-fo]]
 <!-- graph:end -->

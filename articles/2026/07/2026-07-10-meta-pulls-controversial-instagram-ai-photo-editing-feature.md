@@ -44,6 +44,7 @@ related_article_ids:
 - 2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch
 - 2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac
 - 2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la
+- 2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day
 embedding_id: 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 event_name: ''
 ---
@@ -57,5 +58,5 @@ Meta removed a feature that let users modify photos from public Instagram accoun
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac]] · [[2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la]]
+**Related:** [[2026-07-10-meta-pulls-instagram-ai-image-feature-days-after-launch]] · [[2026-07-10-meta-removes-controversial-ai-feature-on-instagram-after-bac]] · [[2026-07-11-meta-scraps-instagram-muse-image-likeness-tool-days-after-la]] · [[2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day]]
 <!-- graph:end -->

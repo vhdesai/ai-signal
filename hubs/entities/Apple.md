@@ -1,20 +1,24 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 158
+member_count: 162
 ---
 
 # Apple
 
-> Auto-generated entity hub. 158 connected article(s).
+> Auto-generated entity hub. 162 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-12` [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it|Apple sues OpenAI over alleged trade-secret theft tied to its AI hardware program]]
 - `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
 - `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]
 - `2026-07-11` [[2026-07-11-musk-altman-feud-reignites-over-trade-secrets-and-orbital-da|Musk–Altman Feud Reignites Over Trade Secrets and Orbital Data Centers]]
 - `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
+- `2026-07-11` [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef|Apple sues OpenAI over alleged AI-hardware trade-secret theft]]
 - `2026-07-11` [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch|Apple announces $30B+ custom-silicon deal with Broadcom (15B+ chips through 2031)]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o|Dimensionality reduction meets network science: sensemaking on UMAP's kNN graph]]

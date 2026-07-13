@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
-- 2026-07-07-july-7-2026
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-04-22-academic-research
+- 2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl
 embedding_id: 2026-07-06-icml-2026-opens-in-seoul
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The 43rd International Conference on Machine Learning opened July 6 at Seoul's C
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-07-07-july-7-2026]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-04-22-academic-research]]
+**Related:** [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-04-22-academic-research]] · [[2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl]]
 <!-- graph:end -->

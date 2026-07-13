@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
+- 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 - 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
@@ -37,5 +38,5 @@ Fidji Simo, OpenAI's CEO of Applications and effectively its No. 2 operating exe
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]]
+**Related:** [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]]
 <!-- graph:end -->

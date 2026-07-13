@@ -1,15 +1,34 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 1521
+member_count: 1541
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 1521 connected article(s).
+> Auto-generated topic hub. 1541 connected article(s).
 
+- `2026-07-13` [[2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto|Waze rolls out new Gemini-powered AI features, including Motorcycle and "Less Chatty" modes]]
+- `2026-07-13` [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j|TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%]]
+- `2026-07-13` [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie|Satya Nadella takes a veiled swipe at model-only AI companies]]
+- `2026-07-13` [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory|Samsung pulls first Yongin fab forward to 2029 for AI memory]]
+- `2026-07-13` [[2026-07-13-sk-hynix-suffers-its-biggest-kospi-drop-in-two-decades-trigg|SK Hynix suffers its biggest Kospi drop in ~two decades, triggering a circuit breaker]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and|Meta patent describes an always‑listening AI that infers and logs your emotions]]
+- `2026-07-13` [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele|Memory-chip earnings expected to show AI-driven sales acceleration]]
+- `2026-07-13` [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg|Helsing raises $1.8B at $18B valuation, cementing Europe’s largest defense-AI startup]]
+- `2026-07-13` [[2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b|Europe's Anduril rival Helsing raises $1.8 billion at an $18 billion valuation]]
+- `2026-07-13` [[2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d|Cursor is building "Sand," a general-purpose AI agent for non-developers]]
+- `2026-07-13` [[2026-07-13-cursor-builds-ai-agent-sand-to-rival-claude-cowork-and-chatg|Cursor builds AI agent “Sand” to rival Claude Cowork and ChatGPT Work]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep|Anthropic extends Claude Fable 5 free access to July 19, keeps Claude Code limits 50% higher]]
 - `2026-07-12` [[2026-07-12-welcome-to-the-era-of-the-forever-layoff|Welcome to the era of the forever layoff]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as|TSMC breaks ground on three more advanced-packaging fabs as Q2 revenue hits record]]
+- `2026-07-12` [[2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r|Security teardown says xAI's Grok Build CLI uploads entire repos, including secrets]]
+- `2026-07-12` [[2026-07-12-openai-temporarily-removes-gpt-5-6-sol-s-5-hour-usage-limit|OpenAI temporarily removes GPT‑5.6 Sol's 5-hour usage limit after demand surge]]
+- `2026-07-12` [[2026-07-12-openai-temporarily-lifts-gpt-5-6-sol-usage-limits-after-a-de|OpenAI temporarily lifts GPT‑5.6 "Sol" usage limits after a demand surge]]
+- `2026-07-12` [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny|OpenAI safety leadership turnover remains under scrutiny]]
+- `2026-07-12` [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption|DeepSeek cut V4-Pro prices 75% — but agentic token consumption undercuts the savings]]
 - `2026-07-12` [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it|Apple sues OpenAI over alleged trade-secret theft tied to its AI hardware program]]
 - `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
 - `2026-07-11` [[2026-07-11-openai-leans-into-families-as-chatgpt-pushes-deeper-into-hou|OpenAI leans into families as ChatGPT pushes deeper into households]]
@@ -21,6 +40,7 @@ member_count: 1521
 - `2026-07-11` [[2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti|Even Realities bets camera-free G2 smart glasses on productivity over recording]]
 - `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
 - `2026-07-11` [[2026-07-11-compromised-jscrambler-npm-release-drops-a-rust-infostealer|Compromised jscrambler npm release drops a Rust infostealer targeting AI dev tools]]
+- `2026-07-11` [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef|Apple sues OpenAI over alleged AI-hardware trade-secret theft]]
 - `2026-07-11` [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch|Apple announces $30B+ custom-silicon deal with Broadcom (15B+ chips through 2031)]]
 - `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]
 - `2026-07-10` [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e|Stanford's Biomni shows biomedical agents executing end-to-end research workflows]]

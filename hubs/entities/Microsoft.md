@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 433
+member_count: 437
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 433 connected article(s).
+> Auto-generated entity hub. 437 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-subject-daily-ai-news-digest-july-13-2026|Subject: Daily AI News Digest – July 13, 2026]]
+- `2026-07-13` [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie|Satya Nadella takes a veiled swipe at model-only AI companies]]
+- `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]
 - `2026-07-12` [[2026-07-12-welcome-to-the-era-of-the-forever-layoff|Welcome to the era of the forever layoff]]
 - `2026-07-12` [[2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund|Majority of US workers back an AI 'sovereign wealth fund']]
 - `2026-07-10` [[2026-07-10-subject-daily-ai-news-digest-july-10-2026|Subject: Daily AI News Digest – July 10, 2026]]

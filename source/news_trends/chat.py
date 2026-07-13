@@ -202,6 +202,12 @@ _CHAT_SHARED_JS = r"""
 
   const CHAT_API_URL = __CHAT_API_URL__;
   const BASE_SYSTEM_PROMPT = __SYSTEM_PROMPT__;
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -359,7 +365,7 @@ _CHAT_SHARED_JS = r"""
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -368,7 +374,7 @@ _CHAT_SHARED_JS = r"""
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -641,7 +647,7 @@ _CHAT_SHARED_JS = r"""
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';

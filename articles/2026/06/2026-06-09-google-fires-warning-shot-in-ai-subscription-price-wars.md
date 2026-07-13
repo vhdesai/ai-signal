@@ -30,6 +30,7 @@ related_article_ids:
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
+- 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 embedding_id: 2026-06-09-google-fires-warning-shot-in-ai-subscription-price-wars
 event_name: ''
 ---
@@ -43,5 +44,5 @@ Google cut pricing on AI subscriptions, in what TechCrunch called "a warning sho
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]]
+**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption]]
 <!-- graph:end -->

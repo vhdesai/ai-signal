@@ -1,15 +1,29 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1347
+member_count: 1361
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1347 connected article(s).
+> Auto-generated topic hub. 1361 connected article(s).
 
+- `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
+- `2026-07-13` [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13|arXiv cs.AI daily drop: 116 new AI preprints posted July 13]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
+- `2026-07-13` [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie|Satya Nadella takes a veiled swipe at model-only AI companies]]
+- `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo|Mistral introduces Robostral Navigate for single-camera robot navigation]]
+- `2026-07-13` [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat|MIT develops nongenerative audit for models adapted to create illegal imagery]]
+- `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
+- `2026-07-13` [[2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no|First end-to-end hybrid quantum–classical pipeline for de novo design of MHC-binding peptides]]
+- `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
+- `2026-07-13` [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech|AI Safety & Policy POLICY ANTHROPIC FREE SPEECH]]
 - `2026-07-12` [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should|Zhipu Open-Sources GLM-5.2; Founder Argues Frontier AI Should Stay Open]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny|OpenAI safety leadership turnover remains under scrutiny]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]

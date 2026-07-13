@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+- 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
 - 2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals
 - 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
-- 2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent
 embedding_id: 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The May 2026 AI arXiv archive has surpassed 1,200 submissions, with several pape
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]]
+**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
 <!-- graph:end -->

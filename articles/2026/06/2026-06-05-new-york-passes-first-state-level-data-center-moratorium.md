@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl
 - 2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu
+- 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 embedding_id: 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 event_name: ''
 ---
@@ -37,5 +37,5 @@ York passed a one-year moratorium on large data center construction — the firs
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl]] · [[2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]]
+**Related:** [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl]] · [[2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
 <!-- graph:end -->

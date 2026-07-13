@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t
-- 2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding
+- 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
 embedding_id: 2026-05-01-6-ai-safety-policy
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-01-pentagon-signs-ai-deals-with-nvidia-microsoft-aws-excluding]]
+**Related:** [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech]]
 <!-- graph:end -->

@@ -35,7 +35,7 @@
     <span>April 25, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Tencent and Alibaba are in advanced negotiations to invest in DeepSeek's first external funding round since the Hangzhou startup's founding by quantitative hedge fund High-Flyer in 2023.</li><li>Both companies are simultaneously placing bulk Huawei Ascend chip orders to prepare for DeepSeek V4 inference infrastructure.</li><span id="exp1135" style="display:none"><li>Investment amounts and valuation figures remain undisclosed.</li><li>If completed, this marks a consolidation of Chinese AI capital behind DeepSeek's efficiency-first architecture — a development with direct implications for US export-control strategy and Western AI lab pricing power in cost-sensitive global markets.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1135');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Tencent and Alibaba are in advanced negotiations to invest in DeepSeek's first external funding round since the Hangzhou startup's founding by quantitative hedge fund High-Flyer in 2023.</li><li>Both companies are simultaneously placing bulk Huawei Ascend chip orders to prepare for DeepSeek V4 inference infrastructure.</li><span id="exp1163" style="display:none"><li>Investment amounts and valuation figures remain undisclosed.</li><li>If completed, this marks a consolidation of Chinese AI capital behind DeepSeek's efficiency-first architecture — a development with direct implications for US export-control strategy and Western AI lab pricing power in cost-sensitive global markets.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1163');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Alibaba.html">Alibaba</a><a class="tag tag-entity" href="../entities/DeepSeek.html">DeepSeek</a><a class="tag tag-entity" href="../entities/Huawei.html">Huawei</a><a class="tag tag-entity" href="../entities/Tencent.html">Tencent</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article><div class="snap-nav"><a href="2026-04-24.html">← April 24, 2026</a><span class="spacer"></span><a href="2026-04-26.html">April 26, 2026 →</a></div>
 </main>
@@ -96,6 +96,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -253,7 +259,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -262,7 +268,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -535,7 +541,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -626,5 +632,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

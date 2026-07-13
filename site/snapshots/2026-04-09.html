@@ -25,7 +25,7 @@
     <span>April 9, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Google and Intel Expand Multiyear AI Chip Partnership Google and Intel announced an expanded multiyear partnership combining Intel Xeon CPUs with custom AI processing units (IPUs) for Google Cloud workloads.</li><li>The deal signals Google's strategy to diversify its silicon supply chain beyond its own TPUs and Nvidia GPUs, while offering Intel a major design-win as the chipmaker works to reclaim relevance in the AI accelerator market.</li><span id="exp1182" style="display:none"><li>Terms were not disclosed.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1182');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Google and Intel Expand Multiyear AI Chip Partnership Google and Intel announced an expanded multiyear partnership combining Intel Xeon CPUs with custom AI processing units (IPUs) for Google Cloud workloads.</li><li>The deal signals Google's strategy to diversify its silicon supply chain beyond its own TPUs and Nvidia GPUs, while offering Intel a major design-win as the chipmaker works to reclaim relevance in the AI accelerator market.</li><span id="exp1210" style="display:none"><li>Terms were not disclosed.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1210');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/Intel.html">Intel</a><a class="tag tag-entity" href="../entities/NVIDIA.html">NVIDIA</a></div>
 </article>
 <article class="card ">
@@ -45,7 +45,7 @@
     <span>April 9, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Amazon CEO: $15B AI Revenue, $200B Capex Plan, $20B Custom Chip Business Amazon CEO Andy Jassy disclosed that the company's AI-related revenue has crossed $15 billion and unveiled a $200 billion capital expenditure plan heavily weighted toward AI infrastructure.</li><li>Jassy also revealed that Amazon's custom silicon business (Trainium/Inferentia chips) has become a $20 billion business unit independently, highlighting the strategic importance of vertical integration in the AI arms race.</li><span id="exp1183" style="display:none"><li>These figures position AWS as the largest AI infrastructure operator globally.</li><li>TRENDING RSAC 2026 · VentureBeat RSAC 2026: AI Agent Security Dominates Enterprise Security Conference</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1183');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Amazon CEO: $15B AI Revenue, $200B Capex Plan, $20B Custom Chip Business Amazon CEO Andy Jassy disclosed that the company's AI-related revenue has crossed $15 billion and unveiled a $200 billion capital expenditure plan heavily weighted toward AI infrastructure.</li><li>Jassy also revealed that Amazon's custom silicon business (Trainium/Inferentia chips) has become a $20 billion business unit independently, highlighting the strategic importance of vertical integration in the AI arms race.</li><span id="exp1211" style="display:none"><li>These figures position AWS as the largest AI infrastructure operator globally.</li><li>TRENDING RSAC 2026 · VentureBeat RSAC 2026: AI Agent Security Dominates Enterprise Security Conference</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1211');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Amazon.html">Amazon</a></div>
 </article>
 <article class="card ">
@@ -126,6 +126,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -283,7 +289,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -292,7 +298,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -565,7 +571,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -656,5 +662,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

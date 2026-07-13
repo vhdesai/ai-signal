@@ -1,14 +1,24 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 847
+member_count: 858
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 847 connected article(s).
+> Auto-generated entity hub. 858 connected article(s).
 
+- `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep|Anthropic extends Claude Fable 5 free access to July 19, keeps Claude Code limits 50% higher]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-openai-temporarily-removes-gpt-5-6-sol-s-5-hour-usage-limit|OpenAI temporarily removes GPT‑5.6 Sol's 5-hour usage limit after demand surge]]
+- `2026-07-12` [[2026-07-12-openai-temporarily-relaxes-gpt-5-6-sol-usage-limits-as-deman|OpenAI temporarily relaxes GPT-5.6 Sol usage limits as demand doubles traffic]]
+- `2026-07-12` [[2026-07-12-openai-temporarily-lifts-gpt-5-6-sol-usage-limits-after-a-de|OpenAI temporarily lifts GPT‑5.6 "Sol" usage limits after a demand surge]]
+- `2026-07-12` [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny|OpenAI safety leadership turnover remains under scrutiny]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-12` [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it|Apple sues OpenAI over alleged trade-secret theft tied to its AI hardware program]]
 - `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
@@ -23,6 +33,7 @@ member_count: 847
 - `2026-07-11` [[2026-07-11-openai-builds-for-families-and-older-adults-as-chatgpt-enter|OpenAI Builds for Families and Older Adults as ChatGPT Enters the Household]]
 - `2026-07-11` [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic|Hundreds march on OpenAI, Anthropic, and Google DeepMind offices in San Francisco]]
 - `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
+- `2026-07-11` [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef|Apple sues OpenAI over alleged AI-hardware trade-secret theft]]
 - `2026-07-10` [[2026-07-10-sk-hynix-surges-13-in-nasdaq-debut|SK hynix Surges ~13% in Nasdaq Debut]]
 - `2026-07-10` [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing|SK Hynix rides AI-memory demand to a blockbuster U.S. listing]]
 - `2026-07-10` [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop|OpenAI says GPT-5.6 is the preferred model for Microsoft Copilot 365 amid breakup chatter]]

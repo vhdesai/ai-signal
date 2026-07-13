@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models
+- 2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
-- 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 embedding_id: 2026-05-22-china-s-ai-maps-its-entire-renewable-energy-grid-a-strategic
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese AI systems have been used to produce a comprehensive, AI-generated map o
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]]
+**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-07-beijing-weighs-export-controls-on-its-own-best-ai-models]] · [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-08-daily-ai-news-digest-july-9-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
 - 2026-07-06-daily-ai-news-digest-july-8-2026
-- 2026-07-10-daily-ai-news-digest-july-11-2026
+- 2026-07-13-monday-july-13-2026
 embedding_id: 2026-07-09-daily-ai-news-digest-july-10-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ One of the busiest model-launch cycles of the year. OpenAI shipped GPT-5.6 to GA
 
 **Entities:** [[Meta]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-10-daily-ai-news-digest-july-11-2026]]
+**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-13-monday-july-13-2026]]
 <!-- graph:end -->

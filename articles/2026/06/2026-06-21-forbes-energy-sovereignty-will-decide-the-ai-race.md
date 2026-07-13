@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
+- 2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro
-- 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
 embedding_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro]] · [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]]
+**Related:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro]]
 <!-- graph:end -->

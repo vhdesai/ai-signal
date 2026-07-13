@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-05-22-microsoft-blocked-partners-including-databricks-from-connect
-- 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
+- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 embedding_id: 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Wall Street Journal reported that Chevron reached a power agreement with Mic
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]]
+**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-22-microsoft-blocked-partners-including-databricks-from-connect]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
 <!-- graph:end -->

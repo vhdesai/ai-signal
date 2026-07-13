@@ -25,7 +25,7 @@
     <span></span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Key Finding: After scanning all monitored academic and research sources, no genuine research breakthrough, new paper, or academic announcement was confirmed published strictly within the last 24 hours (May 31 - June 1, 2026).</li><li>The one item with an in-window publication date (MarkTechPost, May 31) is a Python logging tutorial, not research, and is excluded per scope.</li><span id="exp5786" style="display:none"><li>Confidence: HIGH.</li><li>The scarcity is well-explained: May 31, 2026 was a Sunday, and academic labs, university press offices, and research blogs publish minimally on weekends.</li><li>Every genuine research item surfaced clusters at May 27-30, 2026 - just outside the window.</li><li>Why this matters / Action: This is an honest "quiet window" result, not a retrieval failure.</li><li>Per the brief's instruction to report scarcity rather than pad, the Research/Academic section of today's digest should either (a) be marked "No qualifying items in the 24h window" or (b) carry a clearly-labeled "Notable this week (May 27-30)" subsection drawn from the out-of-window items below, at the executive's discretion. > Bottom line: Zero confirmed in-window academic/research items.</li><li>Closest genuine research is 1-4 days old.</li><li>Recommend a brief "nothing new today; here's what broke this week" note rather than presenting stale items as fresh.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp5786');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 7 more…':'Show less'">Show 7 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Key Finding: After scanning all monitored academic and research sources, no genuine research breakthrough, new paper, or academic announcement was confirmed published strictly within the last 24 hours (May 31 - June 1, 2026).</li><li>The one item with an in-window publication date (MarkTechPost, May 31) is a Python logging tutorial, not research, and is excluded per scope.</li><span id="exp5890" style="display:none"><li>Confidence: HIGH.</li><li>The scarcity is well-explained: May 31, 2026 was a Sunday, and academic labs, university press offices, and research blogs publish minimally on weekends.</li><li>Every genuine research item surfaced clusters at May 27-30, 2026 - just outside the window.</li><li>Why this matters / Action: This is an honest "quiet window" result, not a retrieval failure.</li><li>Per the brief's instruction to report scarcity rather than pad, the Research/Academic section of today's digest should either (a) be marked "No qualifying items in the 24h window" or (b) carry a clearly-labeled "Notable this week (May 27-30)" subsection drawn from the out-of-window items below, at the executive's discretion. > Bottom line: Zero confirmed in-window academic/research items.</li><li>Closest genuine research is 1-4 days old.</li><li>Recommend a brief "nothing new today; here's what broke this week" note rather than presenting stale items as fresh.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp5890');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 7 more…':'Show less'">Show 7 more…</button></div>
   <div class="tags"><span class="tag tag-hot">Event</span></div>
 </article><div class="submit-link-cta"><span>Have a useful link for this event?</span> <a href="../submit.html?event=AI%20Research%20%26%20Academic%20News%20-%20Last%2024%20Hours%20%28May%2031%20-%20June%201%2C%202026%29" class="submit-btn">📥 Submit Link</a></div>
 </main>
@@ -86,6 +86,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -243,7 +249,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -252,7 +258,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -525,7 +531,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -616,5 +622,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

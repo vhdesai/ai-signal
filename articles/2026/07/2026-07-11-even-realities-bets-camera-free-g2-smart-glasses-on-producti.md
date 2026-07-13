@@ -20,7 +20,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
 - 2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses
 - 2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac
@@ -38,5 +37,5 @@ TechCrunch reviewed Even Realities' $599 G2 glasses, which use a monochrome gree
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
+**Related:** [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-06-23-meta-and-essilorluxottica-launch-299-ai-smart-glasses]] · [[2026-05-25-xreal-google-s-smartglasses-partner-says-it-has-finally-crac]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses]]
 <!-- graph:end -->

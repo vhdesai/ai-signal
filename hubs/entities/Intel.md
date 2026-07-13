@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 41
+member_count: 47
 ---
 
 # Intel
 
-> Auto-generated entity hub. 41 connected article(s).
+> Auto-generated entity hub. 47 connected article(s).
 
+- `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips|Intel commits €5B to expand Leixlip, Ireland fab for AI chips]]
+- `2026-07-13` [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for|Intel commits €5B ($5.7B) to expand its Leixlip, Ireland fab for AI chips]]
+- `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an|SambaNova raises $1B at an $11B valuation, lands JPMorgan as an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it|SambaNova raises $1B at an $11B valuation as JPMorgan names it an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor|SambaNova raises $1B at an $11B valuation and is named a JPMorgan inference partner]]

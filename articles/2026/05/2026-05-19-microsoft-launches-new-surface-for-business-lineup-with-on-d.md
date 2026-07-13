@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
 - 2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0
+- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
-- 2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d
 embedding_id: 2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft launched the Surface Pro for Business 13-inch ($1,949) and Surface Lap
 
 **Entities:** [[Intel]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]] · [[2026-07-02-microsoft-launches-microsoft-frontier-a-2-5b-enterprise-ai-d]]
+**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 41
+member_count: 44
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 41 connected article(s).
+> Auto-generated entity hub. 44 connected article(s).
 
+- `2026-07-13` [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory|Samsung pulls first Yongin fab forward to 2029 for AI memory]]
+- `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-10` [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab|U.S. officials urge AI memory suppliers to build domestic fabs]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
 - `2026-07-09` [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda|SK Hynix prices U.S. listing at $149/share and debuts on Nasdaq]]

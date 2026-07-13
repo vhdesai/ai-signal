@@ -41,10 +41,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-daily-ai-news-digest-july-12-2026
+- 2026-07-12-july-13-2026
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
+- 2026-07-13-subject-daily-ai-news-digest-july-13-2026
 - 2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
-- 2026-07-10-subject-daily-ai-news-digest-july-10-2026
-- 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 embedding_id: 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
 event_name: ''
 ---
@@ -58,5 +58,5 @@ Ahead of new Chinese regulations taking effect July 15, platforms including Byte
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[ByteDance]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]] · [[2026-07-10-subject-daily-ai-news-digest-july-10-2026]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]]
+**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-12-july-13-2026]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-13-subject-daily-ai-news-digest-july-13-2026]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]]
 <!-- graph:end -->

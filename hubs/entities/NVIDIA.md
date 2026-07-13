@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 472
+member_count: 474
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 472 connected article(s).
+> Auto-generated entity hub. 474 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
 - `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-u-s-hist|SK Hynix raises $26.5B in the biggest foreign IPO in U.S. history]]

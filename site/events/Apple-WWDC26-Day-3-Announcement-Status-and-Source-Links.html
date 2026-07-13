@@ -25,7 +25,7 @@
     <span></span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>As of Wednesday, June 10, 2026 at 4:27 PM PDT, Apple has not posted a new official Apple Newsroom WWDC26 announcement dated June 10.</li><li>The latest official Apple Newsroom WWDC26 update remains the Day 2 services announcement from June 9, and the latest Apple Developer release remains the AirPods beta (9A292e) from June 9.</li><span id="exp5787" style="display:none"><li>This Day 3 markdown is structured as a status and source-tracking file so the newsletter set has a Day 3 entry while preserving accuracy: there are no new Day 3 Newsroom announcements to summarize yet.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp5787');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>As of Wednesday, June 10, 2026 at 4:27 PM PDT, Apple has not posted a new official Apple Newsroom WWDC26 announcement dated June 10.</li><li>The latest official Apple Newsroom WWDC26 update remains the Day 2 services announcement from June 9, and the latest Apple Developer release remains the AirPods beta (9A292e) from June 9.</li><span id="exp5891" style="display:none"><li>This Day 3 markdown is structured as a status and source-tracking file so the newsletter set has a Day 3 entry while preserving accuracy: there are no new Day 3 Newsroom announcements to summarize yet.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp5891');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><span class="tag tag-hot">Event</span><a class="tag tag-entity" href="../entities/Apple.html">Apple</a></div>
 </article><div class="submit-link-cta"><span>Have a useful link for this event?</span> <a href="../submit.html?event=Apple%20WWDC26%20Day%203%3A%20Announcement%20Status%20and%20Source%20Links" class="submit-btn">📥 Submit Link</a></div>
 </main>
@@ -86,6 +86,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -243,7 +249,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -252,7 +258,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -525,7 +531,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -616,5 +622,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

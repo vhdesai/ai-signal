@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-07-04-deployment-silicon-power-take-center-stage
 - 2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 event_name: ''
 ---
@@ -35,5 +35,5 @@ On June 30, Energy Secretary Chris Wright signed two emergency orders under Sect
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-04-21-eu-ai-act-trilogue-weighs-pushing-high-risk-deadline-to-dece]]
 <!-- graph:end -->

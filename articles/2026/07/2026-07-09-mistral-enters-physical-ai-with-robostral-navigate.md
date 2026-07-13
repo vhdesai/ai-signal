@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 - 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 embedding_id: 2026-07-09-mistral-enters-physical-ai-with-robostral-navigate
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mistral released Robostral Navigate, an 8B-parameter model that navigates robots
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
+**Related:** [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]]
 <!-- graph:end -->

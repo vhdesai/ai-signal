@@ -1,15 +1,23 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 458
+member_count: 466
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 458 connected article(s).
+> Auto-generated topic hub. 466 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th|Xi Jinping to keynote World AI Conference in Shanghai for the first time]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl|Xi Jinping to deliver his first-ever keynote at China's World AI Conference (Shanghai, July 17)]]
+- `2026-07-13` [[2026-07-13-read-at-reuters-via-u-s-news|Read at Reuters via U.S. News →]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
+- `2026-07-12` [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption|DeepSeek cut V4-Pro prices 75% — but agentic token consumption undercuts the savings]]
 - `2026-07-11` [[2026-07-11-daily-ai-news-digest-july-12-2026|Daily AI News Digest – July 12, 2026]]
 - `2026-07-11` [[2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model|Ant Group unveils LingBot-VA 2.0, a causal video-action model for physical AI]]
 - `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]

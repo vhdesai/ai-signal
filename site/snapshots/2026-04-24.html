@@ -45,7 +45,7 @@
     <span>April 24, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>DeepSeek released its V4 model — its most capable to date — featuring a 1 million token context window, 1.6 trillion parameters in the Pro version, and native multimodal support for text, images, and video with a new "Engram" memory architecture.</li><li>The model runs on Huawei Ascend processors, representing a potential inflection point in China's AI hardware independence from Nvidia.</li><span id="exp1136" style="display:none"><li>Alibaba, ByteDance, and Tencent placed combined bulk orders for hundreds of thousands of Huawei chips in preparation.</li><li>DeepSeek stated V4-Pro "significantly leads other open-source models" in world knowledge benchmarks, trailing only Google's Gemini-Pro-3.1 among closed-source competitors.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1136');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>DeepSeek released its V4 model — its most capable to date — featuring a 1 million token context window, 1.6 trillion parameters in the Pro version, and native multimodal support for text, images, and video with a new "Engram" memory architecture.</li><li>The model runs on Huawei Ascend processors, representing a potential inflection point in China's AI hardware independence from Nvidia.</li><span id="exp1164" style="display:none"><li>Alibaba, ByteDance, and Tencent placed combined bulk orders for hundreds of thousands of Huawei chips in preparation.</li><li>DeepSeek stated V4-Pro "significantly leads other open-source models" in world knowledge benchmarks, trailing only Google's Gemini-Pro-3.1 among closed-source competitors.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1164');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Alibaba.html">Alibaba</a><a class="tag tag-entity" href="../entities/ByteDance.html">ByteDance</a><a class="tag tag-entity" href="../entities/DeepSeek.html">DeepSeek</a><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/Huawei.html">Huawei</a><a class="tag tag-entity" href="../entities/NVIDIA.html">NVIDIA</a><a class="tag tag-entity" href="../entities/Tencent.html">Tencent</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article>
 <article class="card ">
@@ -116,6 +116,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -273,7 +279,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -282,7 +288,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -555,7 +561,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -646,5 +652,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

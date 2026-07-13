@@ -35,7 +35,7 @@
     <span>May 30, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Google DeepMind's AlphaProof Nexus is reported to have produced formal resolutions to nine previously open Erdős problems, with an associated arXiv preprint circulated earlier in the month.</li><li>If validated by the mathematics community, it marks a meaningful step in automated theorem-proving on genuinely open conjectures rather than benchmark sets.</li><span id="exp439" style="display:none"><li>Peer verification of the proofs is ongoing.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp439');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Google DeepMind's AlphaProof Nexus is reported to have produced formal resolutions to nine previously open Erdős problems, with an associated arXiv preprint circulated earlier in the month.</li><li>If validated by the mathematics community, it marks a meaningful step in automated theorem-proving on genuinely open conjectures rather than benchmark sets.</li><span id="exp467" style="display:none"><li>Peer verification of the proofs is ongoing.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp467');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><span class="tag tag-hot">Trending</span><a class="tag tag-entity" href="../entities/Google.html">Google</a></div>
 </article>
 <article class="card ">
@@ -115,7 +115,7 @@
     <span>May 30, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Ahead of Microsoft Build (June 2–3 in San Francisco), reporting indicates Microsoft will unveil an expanded MAI lineup — MAI-Image-2.5 (with a faster "2.5e" variant and new image-editing), MAI-Transcribe-1.5, and a multilingual MAI-Voice-2 — alongside a homegrown coding model aimed at GitHub Copilot.</li><span id="exp440" style="display:none"><li>MAI-Image-2.5 has already debuted third on the text-to-image Arena leaderboard, behind only OpenAI and Google.</li><li>The push reflects Mustafa Suleyman's drive to reduce Microsoft's reliance on OpenAI following April's partnership renegotiation.</li><li>For enterprises, a deeper first-party model stack across image, speech, and code changes Microsoft's posture from integrator to direct model competitor.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp440');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 3 more…':'Show less'">Show 3 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Ahead of Microsoft Build (June 2–3 in San Francisco), reporting indicates Microsoft will unveil an expanded MAI lineup — MAI-Image-2.5 (with a faster "2.5e" variant and new image-editing), MAI-Transcribe-1.5, and a multilingual MAI-Voice-2 — alongside a homegrown coding model aimed at GitHub Copilot.</li><span id="exp468" style="display:none"><li>MAI-Image-2.5 has already debuted third on the text-to-image Arena leaderboard, behind only OpenAI and Google.</li><li>The push reflects Mustafa Suleyman's drive to reduce Microsoft's reliance on OpenAI following April's partnership renegotiation.</li><li>For enterprises, a deeper first-party model stack across image, speech, and code changes Microsoft's posture from integrator to direct model competitor.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp468');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 3 more…':'Show less'">Show 3 more…</button></div>
   <div class="tags"><span class="tag tag-hot">Launch</span><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/Microsoft.html">Microsoft</a><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a></div>
 </article>
 <article class="card ">
@@ -186,6 +186,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -343,7 +349,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -352,7 +358,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -625,7 +631,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -716,5 +722,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:49 UTC</footer>
 </body></html>

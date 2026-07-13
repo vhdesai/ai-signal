@@ -25,7 +25,7 @@
     <span>April 21, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Anthropic is investigating unauthorized access to Claude Mythos, a restricted cybersecurity model offered only to vetted enterprises, cleared organizations, and select government agencies.</li><li>Worth monitoring as a precedent for tiered-access frontier-model security incidents.</li><li>Sources scanned: TechCrunch AI, VentureBeat AI, The Decoder, Bloomberg, CNBC, Techmeme, Invezz, Axios, Import AI, TechXplore, The AI Track, llm-stats aggregator (covering OpenAI, Anthropic, Google/DeepMind, Microsoft, Meta, Amazon, Nvidia, DeepSeek, Adobe, plus Harvard Medical School / Beth Israel and arXiv).</li><span id="exp1154" style="display:none"><li>Coverage focused on items dated May 3–4, 2026, with select late-April items included for context where they materially shape today's stories.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1154');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Anthropic is investigating unauthorized access to Claude Mythos, a restricted cybersecurity model offered only to vetted enterprises, cleared organizations, and select government agencies.</li><li>Worth monitoring as a precedent for tiered-access frontier-model security incidents.</li><li>Sources scanned: TechCrunch AI, VentureBeat AI, The Decoder, Bloomberg, CNBC, Techmeme, Invezz, Axios, Import AI, TechXplore, The AI Track, llm-stats aggregator (covering OpenAI, Anthropic, Google/DeepMind, Microsoft, Meta, Amazon, Nvidia, DeepSeek, Adobe, plus Harvard Medical School / Beth Israel and arXiv).</li><span id="exp1182" style="display:none"><li>Coverage focused on items dated May 3–4, 2026, with select late-April items included for context where they materially shape today's stories.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1182');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Adobe.html">Adobe</a><a class="tag tag-entity" href="../entities/Amazon.html">Amazon</a><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/DeepSeek.html">DeepSeek</a><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/Meta.html">Meta</a><a class="tag tag-entity" href="../entities/Microsoft.html">Microsoft</a><a class="tag tag-entity" href="../entities/NVIDIA.html">NVIDIA</a><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article>
 <article class="card ">
@@ -126,6 +126,12 @@
 
   const CHAT_API_URL = "https://ai-signal-chat.vik-desai.workers.dev/api/chat";
   const BASE_SYSTEM_PROMPT = "You are the AI Signal assistant. You help users explore AI industry news and trends. Use the provided article context to give informed, specific answers. Always cite article titles when referencing specific news. If you don't have relevant articles, say so and provide general knowledge.";
+  // Context-window sizing. Keep the request payload small so the hosted models
+  // stay responsive: cap retrieved articles, per-article summary length, and how
+  // much prior conversation is replayed on each turn.
+  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
+  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
+  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -283,7 +289,7 @@
         if(b.score !== a.score) return b.score - a.score;
         return String(b.article.date || '').localeCompare(String(a.article.date || ''));
       })
-      .slice(0, 8)
+      .slice(0, MAX_CONTEXT_ARTICLES)
       .map(item => item.article);
   }
 
@@ -292,7 +298,7 @@
     const matches = rankArticles(query, articles);
     const context = matches.length
       ? matches.map((article, index) => {
-          const summary = normalizeWhitespace(article.summary || '').slice(0, 400);
+          const summary = normalizeWhitespace(article.summary || '').slice(0, MAX_SUMMARY_CHARS);
           const source = normalizeWhitespace(article.source || 'Unknown source');
           const date = normalizeWhitespace(article.date || 'Unknown date');
           return `${index + 1}. Title: ${article.title || 'Untitled'}\n   Date: ${date}\n   Source: ${source}\n   Summary: ${summary}`;
@@ -565,7 +571,7 @@
               streamResponse({
                 model: tryModel,
                 stream: true,
-                messages: [{role:'system', content: context.systemPrompt}, ...state.messages]
+                messages: [{role:'system', content: context.systemPrompt}, ...state.messages.slice(-MAX_HISTORY_MESSAGES)]
               }, token => {
                 if(!receivedToken){
                   typing.bubble.textContent = '';
@@ -656,5 +662,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 15:06 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
 </body></html>

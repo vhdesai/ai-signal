@@ -1,0 +1,26 @@
+{
+  "run_id": "20260713T204402+0000-92913a",
+  "started_at": "2026-07-13T20:44:02+00:00",
+  "finished_at": "2026-07-13T20:44:09+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 455,
+      "digests_changed": 12,
+      "changed": [
+        "news\\2026-07-13_000000_Publication-Sources.md",
+        "news\\2026-07-13_060546_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_060615_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_060930_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_062357_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_062755_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_065240_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_065937_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_072851_Inbox_Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_073050_Inbox_Fw Daily AI News Digest - July 13, 2026.md",
+        "news\\2026-07-13_081054_Publication_WSJ-Markets-Alert-Iran-Blockade.md",
+        "news\\2026-07-13_132332_Publication_WSJ-Markets-Hormuz-SK-Hynix.md"
+      ]
+    }
+  }
+}

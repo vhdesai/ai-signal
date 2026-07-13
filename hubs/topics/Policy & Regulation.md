@@ -1,16 +1,30 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 687
+member_count: 701
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 687 connected article(s).
+> Auto-generated topic hub. 701 connected article(s).
 
+- `2026-07-13` [[2026-07-13-thenextweb-com-news-xi-jinping-keynote-world-ai-conference-s|🔗 thenextweb.com/news/xi-jinping-keynote-world-ai-conference-shanghai-2026]]
+- `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th|Xi Jinping to keynote World AI Conference in Shanghai for the first time]]
+- `2026-07-13` [[2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl|Xi Jinping to deliver his first-ever keynote at China's World AI Conference (Shanghai, July 17)]]
+- `2026-07-13` [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge|White House reportedly seeks utility and data-center pledge on AI power costs]]
+- `2026-07-13` [[2026-07-13-read-at-reuters-via-u-s-news|Read at Reuters via U.S. News →]]
+- `2026-07-13` [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash|New Orleans pauses data-center approvals amid AI backlash]]
+- `2026-07-13` [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin|MIT's new method detects whether open-source models were fine-tuned to produce illegal content]]
+- `2026-07-13` [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech|AI Safety & Policy POLICY ANTHROPIC FREE SPEECH]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
+- `2026-07-12` [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny|OpenAI safety leadership turnover remains under scrutiny]]
+- `2026-07-12` [[2026-07-12-meta-discontinues-its-muse-image-ai-feature-within-three-day|Meta discontinues its Muse Image AI feature within three days of launch after backlash]]
 - `2026-07-12` [[2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund|Majority of US workers back an AI 'sovereign wealth fund']]
 - `2026-07-12` [[2026-07-12-majority-of-u-s-workers-back-an-ai-sovereign-wealth-fund|Majority of U.S. Workers Back an AI 'Sovereign Wealth Fund']]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]
 - `2026-07-11` [[2026-07-11-openai-creates-a-dedicated-product-role-for-families-as-chat|OpenAI creates a dedicated product role for families as ChatGPT's audience ages up]]

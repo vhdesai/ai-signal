@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
+- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl
 - 2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d
 - 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
-- 2026-05-26-bank-of-america-raises-apple-price-target-to-380-ahead-of-ww
 embedding_id: 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple said it will raise prices on certain MacBooks and iPads by up to $300, and
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]] · [[2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-05-26-bank-of-america-raises-apple-price-target-to-380-ahead-of-ww]]
+**Related:** [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-04-22-reuters-analysis-published-today-examines-how-apple-s-tightl]] · [[2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]]
 <!-- graph:end -->

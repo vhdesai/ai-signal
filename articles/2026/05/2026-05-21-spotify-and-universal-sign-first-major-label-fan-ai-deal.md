@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
+- 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
 embedding_id: 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
 event_name: ''
@@ -36,5 +37,5 @@ Spotify and Universal Music Group reached a framework permitting fan-made AI cov
 
 **Entities:** [[Amazon]] · [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]]
+**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]]
 <!-- graph:end -->

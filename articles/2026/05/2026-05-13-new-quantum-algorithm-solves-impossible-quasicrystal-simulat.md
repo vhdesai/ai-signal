@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 - 2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne
 - 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
-- 2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne
+- 2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no
 embedding_id: 2026-05-13-new-quantum-algorithm-solves-impossible-quasicrystal-simulat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers published results for a quantum-inspired algorithm capable of simula
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-07-04-alibaba-s-damo-academy-agent-elements-claw-discovers-four-ne]]
+**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-07-04-alibaba-s-damo-academy-ai-discovers-and-lab-verifies-four-ne]] · [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no]]
 <!-- graph:end -->

@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 804
+member_count: 811
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 804 connected article(s).
+> Auto-generated entity hub. 811 connected article(s).
 
+- `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and|Anthropic extends free Claude Fable 5 access to July 19 and lifts Claude Code limits 50%]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep|Anthropic extends Claude Fable 5 free access to July 19, keeps Claude Code limits 50% higher]]
+- `2026-07-13` [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech|AI Safety & Policy POLICY ANTHROPIC FREE SPEECH]]
 - `2026-07-12` [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should|Zhipu Open-Sources GLM-5.2; Founder Argues Frontier AI Should Stay Open]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]

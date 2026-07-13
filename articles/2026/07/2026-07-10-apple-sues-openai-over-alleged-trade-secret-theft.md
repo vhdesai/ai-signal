@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
 - 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
 - 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
-- 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 embedding_id: 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Apple sued OpenAI over alleged trade-secret theft tied to OpenAI’s AI hardware
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Related:** [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]]
+**Related:** [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]]
 <!-- graph:end -->

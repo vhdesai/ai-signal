@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 - 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
-- 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
+- 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
 embedding_id: 2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Kuaishou’s AI-video unit Kling AI secured more than $2.8B (~19B yuan) from inv
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep]]
+**Related:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
+- 2026-07-13-sk-hynix-suffers-its-biggest-kospi-drop-in-two-decades-trigg
+- 2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl
-- 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
-- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 embedding_id: 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A broad selloff hit AI-adjacent equities worldwide. Samsung Electronics and SK H
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
+**Related:** [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-07-13-sk-hynix-suffers-its-biggest-kospi-drop-in-two-decades-trigg]] · [[2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-06-26-openai-reportedly-delays-ipo-as-ai-spending-fears-spark-a-gl]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 - 2026-05-27-how-to-close-ai-s-accountability-loophole
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
+- 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
 embedding_id: 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is now defending an accelerating set of consumer-safety and product-liabi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-05-27-how-to-close-ai-s-accountability-loophole]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]]
 <!-- graph:end -->

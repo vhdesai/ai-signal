@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
 - 2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
-- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
 embedding_id: 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The May arXiv cs.AI listing — refreshed in the past 24 hours — surfaces note
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
+**Related:** [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]] · [[2026-05-19-arxiv-cs-ai-cs-lg-cs-cl-312-new-submissions-in-the-may-19-20]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
 <!-- graph:end -->

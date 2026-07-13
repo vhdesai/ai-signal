@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-daily-ai-news-digest-july-12-2026
 - 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
+- 2026-07-12-july-13-2026
 - 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 - 2026-06-27-daily-ai-news-digest-june-27-2026
-- 2026-06-26-daily-ai-news-digest-june-26-2026
 embedding_id: 2026-07-12-the-weekend-signal-governance-not-model-launches
 event_name: ''
 ---
@@ -42,5 +42,5 @@ It was a quiet summer weekend for AI: the major labs' newsrooms stayed dark afte
 
 **Entities:** [[Apple]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]]
+**Related:** [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le]] · [[2026-07-12-july-13-2026]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]]
 <!-- graph:end -->

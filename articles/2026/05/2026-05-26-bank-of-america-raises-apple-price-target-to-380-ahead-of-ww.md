@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 - 2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
+- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma
-- 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 embedding_id: 2026-05-26-bank-of-america-raises-apple-price-target-to-380-ahead-of-ww
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bank of America analyst Wamsi Mohan raised the firm's Apple price target to $380
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]]
+**Related:** [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-06-25-apple-and-microsoft-raise-prices-as-ai-driven-chip-demand-sp]] · [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma]]
 <!-- graph:end -->

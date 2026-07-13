@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+- 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
-- 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 embedding_id: 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Verge reported that opposition to AI data center expansion is accelerating a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]]
+**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]]
 <!-- graph:end -->

@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 29
+member_count: 34
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 29 connected article(s).
+> Auto-generated entity hub. 34 connected article(s).
 
+- `2026-07-13` [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j|TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%]]
+- `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
+- `2026-07-12` [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as|TSMC breaks ground on three more advanced-packaging fabs as Q2 revenue hits record]]
+- `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-06-26` [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea|Samsung Group to unveil ~$648B (1,000 trillion won) South Korea investment in chips and AI]]
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 176
+member_count: 179
 ---
 
 # xAI
 
-> Auto-generated entity hub. 176 connected article(s).
+> Auto-generated entity hub. 179 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
+- `2026-07-12` [[2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r|Security teardown says xAI's Grok Build CLI uploads entire repos, including secrets]]
 - `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-10` [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1|Meta enters the coding-model race with Muse Spark 1.1]]

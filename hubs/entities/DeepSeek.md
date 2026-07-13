@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 181
+member_count: 183
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 181 connected article(s).
+> Auto-generated entity hub. 183 connected article(s).
 
+- `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
+- `2026-07-12` [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption|DeepSeek cut V4-Pro prices 75% — but agentic token consumption undercuts the savings]]
 - `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
+- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me
-- 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 embedding_id: 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Financial Times reports a record ~$200B in M&A across the U.S. power and uti
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
+**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]]
 <!-- graph:end -->

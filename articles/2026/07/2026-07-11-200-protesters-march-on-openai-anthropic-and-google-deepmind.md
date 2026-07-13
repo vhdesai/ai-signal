@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
+- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 embedding_id: 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
 event_name: ''
 ---
@@ -40,5 +40,5 @@ About 200 people marched through SF from OpenAI to Anthropic and DeepMind, deman
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]]
+**Related:** [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin
 - 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
-- 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 embedding_id: 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Goldman Sachs warned that AI-related demand could add materially to U.S. inflati
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]]
+**Related:** [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]]
 <!-- graph:end -->
