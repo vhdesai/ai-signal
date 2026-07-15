@@ -25,7 +25,7 @@
     <span>June 6, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>Alibaba released Qwen3.7-Plus, positioning it as a multimodal model designed to function as a "full-blown autonomous agent"—capable of vision, language, and tool use in integrated workflows.</li><li>The release extends Alibaba's Qwen ecosystem play from platform to model, directly competing with OpenAI's Codex and Anthropic's Claude for agentic enterprise workloads.</li><span id="exp398" style="display:none"><li>URL not verified.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp398');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>Alibaba released Qwen3.7-Plus, positioning it as a multimodal model designed to function as a "full-blown autonomous agent"—capable of vision, language, and tool use in integrated workflows.</li><li>The release extends Alibaba's Qwen ecosystem play from platform to model, directly competing with OpenAI's Codex and Anthropic's Claude for agentic enterprise workloads.</li><span id="exp421" style="display:none"><li>URL not verified.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp421');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><span class="tag tag-hot">New</span><a class="tag tag-entity" href="../entities/Alibaba.html">Alibaba</a><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article>
 <article class="card ">
@@ -95,7 +95,7 @@
     <span>June 6, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>President Trump told reporters the federal government may take equity "pieces" in leading AI companies, and CNBC confirmed OpenAI and the White House have discussed seeding a "Public Wealth Fund" via donated equity.</li><li>Senator Sanders proposed a one-time 50% stock tax on OpenAI, Anthropic, and xAI — a rare left-right convergence on government ownership.</li><span id="exp399" style="display:none"><li>Semafor detailed Altman's pitch;</li><li>Sacks expressed concerns.</li><li>Anthropic says it is not in these talks.</li><li>For firms eyeing 2026 IPOs, a government on the cap table reprices both the politics and the risk.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp399');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 4 more…':'Show less'">Show 4 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>President Trump told reporters the federal government may take equity "pieces" in leading AI companies, and CNBC confirmed OpenAI and the White House have discussed seeding a "Public Wealth Fund" via donated equity.</li><li>Senator Sanders proposed a one-time 50% stock tax on OpenAI, Anthropic, and xAI — a rare left-right convergence on government ownership.</li><span id="exp422" style="display:none"><li>Semafor detailed Altman's pitch;</li><li>Sacks expressed concerns.</li><li>Anthropic says it is not in these talks.</li><li>For firms eyeing 2026 IPOs, a government on the cap table reprices both the politics and the risk.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp422');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 4 more…':'Show less'">Show 4 more…</button></div>
   <div class="tags"><span class="tag tag-hot">Hot</span><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a><a class="tag tag-entity" href="../entities/xAI.html">xAI</a></div>
 </article>
 <article class="card ">
@@ -169,9 +169,9 @@
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -702,5 +702,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:49 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 15, 2026 at 15:56 UTC</footer>
 </body></html>

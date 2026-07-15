@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
+- 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
 embedding_id: 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Environmental activist Erin Brockovich has launched a campaign targeting the lac
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]]
+**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]]
 <!-- graph:end -->

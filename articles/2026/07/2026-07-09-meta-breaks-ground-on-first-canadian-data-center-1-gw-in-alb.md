@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 - 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
-- 2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win
 embedding_id: 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta broke ground on a 1-gigawatt AI data center in Sturgeon County, Alberta, an
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win]]
+**Related:** [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]]
 <!-- graph:end -->

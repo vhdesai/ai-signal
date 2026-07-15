@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 99
+member_count: 102
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 99 connected article(s).
+> Auto-generated entity hub. 102 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi|Mistral releases Robostral Navigate for single-camera embodied navigation]]
+- `2026-07-14` [[2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot|Mistral AI releases Robostral Navigate — an 8B model for robot navigation from a single RGB camera]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo|Mistral introduces Robostral Navigate for single-camera robot navigation]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]

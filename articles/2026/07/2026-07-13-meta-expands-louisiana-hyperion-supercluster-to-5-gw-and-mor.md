@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
 - 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 embedding_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta will scale Hyperion to 5 GW at >$50B — up from initial ~$10B/2 GW. Partne
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]]
+**Related:** [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
 <!-- graph:end -->

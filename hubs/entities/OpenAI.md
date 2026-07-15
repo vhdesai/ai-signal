@@ -1,18 +1,44 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 858
+member_count: 884
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 858 connected article(s).
+> Auto-generated entity hub. 884 connected article(s).
 
+- `2026-07-14` [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c|SoftBank's Son says AI will need $5 trillion a year by 2040, calls bubble talk “absurd”]]
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b|OpenAI’s ad business on pace to miss its own 2026 forecast by ~90%]]
+- `2026-07-14` [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and|OpenAI publishes ChatGPT Work playbooks for data science and sales teams]]
+- `2026-07-14` [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces|ChatGPT returns to WhatsApp in the EU after Brussels forces Meta to reopen]]
+- `2026-07-14` [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d|Chai Discovery raises $400M at a $3.8B valuation for AI drug design]]
+- `2026-07-14` [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design|Chai Discovery raises $400M at $3.8B for AI drug design]]
+- `2026-07-13` [[2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti|“We Must Act Now”: 16 Nobel laureates and 200+ experts urge action on AI’s economic impact]]
+- `2026-07-13` [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de|“Stop the AI Race” protesters march on OpenAI, Anthropic, and DeepMind]]
 - `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]
+- `2026-07-13` [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati|OpenAI's Sol Ultra proof claim draws scrutiny from mathematicians]]
+- `2026-07-13` [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr|OpenAI's Sol Ultra "Proof" of Cycle Double Cover Conjecture Draws Scrutiny]]
 - `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-new-filings-sharpen-apple-s-trade-secret-lawsuit-against-ope|New filings sharpen Apple's trade-secret lawsuit against OpenAI]]
+- `2026-07-13` [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op|New Filings Sharpen Apple's Trade-Secrets Lawsuit Against OpenAI]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may|Economists and AI researchers warn that labor disruption may outpace institutions]]
+- `2026-07-13` [[2026-07-13-daily-ai-news-digest-july-14-2026|Daily AI News Digest – July 14, 2026]]
+- `2026-07-13` [[2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla|Cursor is building “Sand,” a general-purpose agent to rival Claude Cowork]]
+- `2026-07-13` [[2026-07-13-apple-s-trade-secret-suit-against-openai-the-standout-allega|Apple’s trade-secret suit against OpenAI: the standout allegations]]
+- `2026-07-13` [[2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a|Apple's trade-secret suit against OpenAI becomes a test of AI talent migration]]
+- `2026-07-13` [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea|Apple sues OpenAI, alleging theft of trade secrets on unreleased products]]
+- `2026-07-13` [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle|Apple lawsuit against OpenAI adds detailed trade-secret allegations]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for|Anthropic extends free Claude Fable 5 access to July 19 for Pro/Max/Team subscribers]]
 - `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep|Anthropic extends Claude Fable 5 free access to July 19, keeps Claude Code limits 50% higher]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5|Anthropic extends Claude Fable 5 access after OpenAI’s GPT-5.6 “Sol” launch]]
+- `2026-07-13` [[2026-07-13-anthropic-begins-localizing-claude-pricing-in-india|Anthropic begins localizing Claude pricing in India]]
+- `2026-07-13` [[2026-07-13-anthropic-begins-localizing-claude-pricing-for-india|Anthropic begins localizing Claude pricing for India]]
+- `2026-07-13` [[2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo|200+ economists and 16 Nobel laureates warn of “large-scale job displacement,” urge action now]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
 - `2026-07-12` [[2026-07-12-openai-temporarily-removes-gpt-5-6-sol-s-5-hour-usage-limit|OpenAI temporarily removes GPT‑5.6 Sol's 5-hour usage limit after demand surge]]
 - `2026-07-12` [[2026-07-12-openai-temporarily-relaxes-gpt-5-6-sol-usage-limits-as-deman|OpenAI temporarily relaxes GPT-5.6 Sol usage limits as demand doubles traffic]]

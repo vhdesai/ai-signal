@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-- 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
-- 2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina
 embedding_id: 2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The FCA's Sheldon Mills said Britain should consider whether large language mode
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]]
+**Related:** [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
 <!-- graph:end -->

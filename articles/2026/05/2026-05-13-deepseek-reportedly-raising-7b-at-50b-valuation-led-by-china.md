@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-- 2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t
+- 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
+- 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
 embedding_id: 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek is in advanced talks for a $7B+ state-backed funding round at up to $50
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]]
+**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]]
 <!-- graph:end -->

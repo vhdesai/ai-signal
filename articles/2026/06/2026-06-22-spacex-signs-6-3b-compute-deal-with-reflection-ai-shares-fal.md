@@ -25,6 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
+- 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
+- 2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 embedding_id: 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
 event_name: ''
@@ -39,5 +41,5 @@ Reflection AI agreed to pay SpaceX $150M/month from July 2026 through 2029 for N
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]]
+**Related:** [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]]
 <!-- graph:end -->

@@ -205,9 +205,9 @@ _CHAT_SHARED_JS = r"""
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);

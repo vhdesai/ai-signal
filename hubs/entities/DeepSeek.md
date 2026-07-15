@@ -1,14 +1,19 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 183
+member_count: 188
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 183 connected article(s).
+> Auto-generated entity hub. 188 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo|DeepSeek weighs a second raise in two months at a ~$71B pre-money valuation]]
+- `2026-07-14` [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin|DeepSeek reportedly plans another funding round after raising $7.4 billion]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across|DeepSeek, Chai, PixVerse, and Nous show capital shifting across the AI stack]]
+- `2026-07-13` [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation|DeepSeek in talks to raise fresh funds at a ~$71B valuation]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
 - `2026-07-12` [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption|DeepSeek cut V4-Pro prices 75% — but agentic token consumption undercuts the savings]]
 - `2026-07-11` [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat|"Slopsquatting" emerges as an AI-coding supply-chain threat]]

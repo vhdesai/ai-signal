@@ -1,22 +1,36 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 769
+member_count: 783
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 769 connected article(s).
+> Auto-generated topic hub. 783 connected article(s).
 
+- `2026-07-14` [[2026-07-14-subject-daily-ai-news-digest-july-14-2026|Subject: Daily AI News Digest – July 14, 2026]]
+- `2026-07-14` [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a|State and local backlash turns data-center permitting into an AI infrastructure risk]]
+- `2026-07-14` [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2|SoftBank's Masayoshi Son says AI will require $5T a year by 2040]]
+- `2026-07-14` [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l|Reflection signs $1B-plus Nebius compute deal as open-model labs lock up GPUs]]
+- `2026-07-14` [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n|Reflection AI signs a $1B-plus compute deal with Nebius for Nvidia chips]]
+- `2026-07-14` [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers|New York set to temporarily ban large new data centers]]
+- `2026-07-14` [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash|Farmers emerge as a new source of data-center backlash]]
+- `2026-07-14` [[2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester|Chinese AI startup DFSX releases chip to compete with Western suppliers]]
 - `2026-07-13` [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge|White House reportedly seeks utility and data-center pledge on AI power costs]]
+- `2026-07-13` [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou|Wall Street develops new financing structures for AI buildout]]
 - `2026-07-13` [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize|WSJ Wealth Adviser highlighted surging demand for specialized turbine parts as airlines and hyperscalers compete for a limited supplier base. The story matters for AI because data-center power demand is pushing hyperscalers deeper into energy procurement and generation infrastructure. The investable bottleneck is widening beyond GPUs, memory, and packaging into the industrial supply chain that supports power generation.]]
 - `2026-07-13` [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory|Samsung pulls first Yongin fab forward to 2029 for AI memory]]
+- `2026-07-13` [[2026-07-13-proven-founders-return-to-hands-on-ai-roles-blomfield-joins|Proven Founders Return to Hands-On AI Roles; Blomfield Joins Anthropic]]
+- `2026-07-13` [[2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation|Nous Research in talks for funding at $1.5B valuation]]
+- `2026-07-13` [[2026-07-13-new-filings-sharpen-apple-s-trade-secret-lawsuit-against-ope|New filings sharpen Apple's trade-secret lawsuit against OpenAI]]
+- `2026-07-13` [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits|Meta signals AI compute may be overbuilt — even as it commits $50B+ to a 5GW data center]]
 - `2026-07-13` [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor|Meta expands Louisiana Hyperion supercluster to 5 GW and more than $50B]]
 - `2026-07-13` [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele|Memory-chip earnings expected to show AI-driven sales acceleration]]
 - `2026-07-13` [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips|Intel commits €5B to expand Leixlip, Ireland fab for AI chips]]
 - `2026-07-13` [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for|Intel commits €5B ($5.7B) to expand its Leixlip, Ireland fab for AI chips]]
 - `2026-07-13` [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras|Hyperscaler demand turns turbine suppliers into an AI infrastructure bottleneck]]
 - `2026-07-13` [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m|Google's Waze rolls out Gemini‑powered features: Motorcycle mode and "Less Chatty" navigation]]
+- `2026-07-13` [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers|Google pushes TPUs against Nvidia's most loyal customers]]
 - `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
 - `2026-07-13` [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win|Daily AI News Digest Monday, July 13, 2026 · 12 items · Source window: July 12–13, 2026]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]

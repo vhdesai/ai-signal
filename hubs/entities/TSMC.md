@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 34
+member_count: 35
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 34 connected article(s).
+> Auto-generated entity hub. 35 connected article(s).
 
 - `2026-07-13` [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j|TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-12` [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as|TSMC breaks ground on three more advanced-packaging fabs as Q2 revenue hits record]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]

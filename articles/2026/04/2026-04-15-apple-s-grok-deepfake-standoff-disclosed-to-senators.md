@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-07-see-the-original-digest-email-for-the-complete-content-with
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 - 2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta
+- 2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 embedding_id: 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A letter from Apple to U.S. senators revealed Apple privately threatened to pull
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Meta]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
+**Related:** [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]]
 <!-- graph:end -->

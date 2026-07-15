@@ -1,23 +1,50 @@
 ---
 type: topic-hub
 hub: Model Breakthroughs
-member_count: 1361
+member_count: 1388
 ---
 
 # Model Breakthroughs
 
-> Auto-generated topic hub. 1361 connected article(s).
+> Auto-generated topic hub. 1388 connected article(s).
 
+- `2026-07-14` [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t|WSJ asks whether AI can make better drugs on Wall Street's timeline]]
+- `2026-07-14` [[2026-07-14-subject-daily-ai-news-digest-july-14-2026|Subject: Daily AI News Digest – July 14, 2026]]
+- `2026-07-14` [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi|Mistral releases Robostral Navigate for single-camera embodied navigation]]
+- `2026-07-14` [[2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot|Mistral AI releases Robostral Navigate — an 8B model for robot navigation from a single RGB camera]]
+- `2026-07-14` [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode|Governance and Distribution Move to Center Stage as the Model Race Cools]]
 - `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
 - `2026-07-13` [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13|arXiv cs.AI daily drop: 116 new AI preprints posted July 13]]
 - `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
+- `2026-07-13` [[2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops|Video-generation startup PixVerse raises $439M, valuation tops $2B]]
+- `2026-07-13` [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai|Stanford introduces TRACE — a capability-targeted agentic training system]]
+- `2026-07-13` [[2026-07-13-skyfall-ai-releases-morpheus-a-persistent-enterprise-simulat|Skyfall AI releases MORPHEUS — a persistent enterprise-simulation benchmark for continual reinforcement learning]]
+- `2026-07-13` [[2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo|SceneSmith: AI agents build virtual “playgrounds” to train robots]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-they-may-be-paying-for-ai-tw|Satya Nadella warns enterprises they may be paying for AI twice]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]
 - `2026-07-13` [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie|Satya Nadella takes a veiled swipe at model-only AI companies]]
+- `2026-07-13` [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni|Princeton consolidates five units into a new AI academic unit (DaIS)]]
+- `2026-07-13` [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati|OpenAI's Sol Ultra proof claim draws scrutiny from mathematicians]]
+- `2026-07-13` [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr|OpenAI's Sol Ultra "Proof" of Cycle Double Cover Conjecture Draws Scrutiny]]
+- `2026-07-13` [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1|Open-source agent maker Nous Research in talks to raise at $1.5B valuation]]
+- `2026-07-13` [[2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation|Nous Research in talks for funding at $1.5B valuation]]
+- `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp|Nobel laureates and AI researchers warn on AI's economic impact]]
 - `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi|New auditing method screens generative AI for illegal capabilities — without generating the illegal content]]
+- `2026-07-13` [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice|Nadella warns enterprises they may be paying for AI twice]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
 - `2026-07-13` [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo|Mistral introduces Robostral Navigate for single-camera robot navigation]]
-- `2026-07-13` [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat|MIT develops nongenerative audit for models adapted to create illegal imagery]]
+- `2026-07-13` [[2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term|Meituan open-sources VitaBench 2.0 — a benchmark for long-term dynamic user modeling in AI agents]]
+- `2026-07-13` [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti|Meituan launches LongCat-2.0 — a 1.6-trillion-parameter agentic-coding model trained entirely on domestic silicon]]
+- `2026-07-13` [[2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce|MIT SceneSmith uses collaborating AI agents to mass-produce robot-training worlds]]
+- `2026-07-13` [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu|MIT Cybersecurity Clinic highlights AI's changing role in public-sector cyber defense]]
+- `2026-07-13` [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass|MIT CSAIL's “SceneSmith” uses collaborating AI agents to mass-produce robot-training worlds]]
+- `2026-07-13` [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re|Google’s Gemini 3.5 Pro targets July 17 GA — but every spec remains unconfirmed]]
+- `2026-07-13` [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p|Google targets July 17 general availability for Gemini 3.5 Pro (2M-token context, “Deep Think”)]]
 - `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
 - `2026-07-13` [[2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no|First end-to-end hybrid quantum–classical pipeline for de novo design of MHC-binding peptides]]
+- `2026-07-13` [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may|Economists and AI researchers warn that labor disruption may outpace institutions]]
+- `2026-07-13` [[2026-07-13-daily-ai-news-digest-july-14-2026|Daily AI News Digest – July 14, 2026]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-13` [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech|AI Safety & Policy POLICY ANTHROPIC FREE SPEECH]]
 - `2026-07-12` [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should|Zhipu Open-Sources GLM-5.2; Founder Argues Frontier AI Should Stay Open]]

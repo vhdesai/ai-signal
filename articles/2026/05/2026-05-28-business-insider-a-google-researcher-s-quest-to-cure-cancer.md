@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
 - 2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 embedding_id: 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider profiled a Google researcher working to apply foundation models
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
 <!-- graph:end -->

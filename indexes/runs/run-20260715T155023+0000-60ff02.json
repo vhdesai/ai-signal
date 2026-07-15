@@ -1,0 +1,35 @@
+{
+  "run_id": "20260715T155023+0000-60ff02",
+  "started_at": "2026-07-15T15:50:23+00:00",
+  "finished_at": "2026-07-15T15:50:29+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 476,
+      "digests_changed": 21,
+      "changed": [
+        "news\\2026-07-14_000000_Publication-Sources.md",
+        "news\\2026-07-14_060635_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_060810_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_061116_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_061758_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_062633_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_065240_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_065946_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_081954_Inbox_Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July 14, 2026.md",
+        "news\\2026-07-15_000000_Publication-Sources.md",
+        "news\\2026-07-15_060831_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_061130_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_062554_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_063527_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_082617_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_082827_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_083037_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_083845_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_084351_Inbox_Daily AI News Digest - July 15, 2026.md",
+        "news\\2026-07-15_084520_Inbox_Fw Daily AI News Digest - July 15, 2026.md"
+      ]
+    }
+  }
+}

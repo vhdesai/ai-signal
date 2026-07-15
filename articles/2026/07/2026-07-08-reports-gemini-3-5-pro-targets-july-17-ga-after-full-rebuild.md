@@ -23,6 +23,8 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
+- 2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p
 - 2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 embedding_id: 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
@@ -38,5 +40,5 @@ Third-party reporting says Google DeepMind is targeting July 17 for Gemini 3.5 P
 
 **Entities:** [[DeepSeek]] · [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]]
+**Related:** [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]]
 <!-- graph:end -->

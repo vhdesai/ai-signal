@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 86
+member_count: 87
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 86 connected article(s).
+> Auto-generated entity hub. 87 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-11` [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y|Oracle's AI capex and debt load weigh on the stock, down ~29% year-to-date]]

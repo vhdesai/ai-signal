@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 64
+member_count: 66
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 64 connected article(s).
+> Auto-generated entity hub. 66 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
 - `2026-07-09` [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a|AWS stands up a “Forward Deployed Engineering” org backed by a $1B Amazon investment]]

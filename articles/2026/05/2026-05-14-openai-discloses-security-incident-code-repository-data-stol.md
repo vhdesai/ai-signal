@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
+- 2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
+- 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
 embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI disclosed a security incident in which attackers exfiltrated data from th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]]
+**Related:** [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]]
 <!-- graph:end -->

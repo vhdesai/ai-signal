@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
+- 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 - 2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-- 2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms
 embedding_id: 2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Fastino Labs released GLiGuard under Apache 2.0 on Hugging Face — a 300M-param
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-26-d-monitor-dynamic-safety-monitoring-for-diffusion-llms]]
+**Related:** [[2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra]] · [[2026-05-14-single-instruction-attack-flips-frontier-aligned-models-to-9]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
 - 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
 embedding_id: 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta shares closed up nearly 9% after reports (first from Bloomberg, confirmed b
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]]
+**Related:** [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

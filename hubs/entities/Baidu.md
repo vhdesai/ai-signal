@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 45
+member_count: 47
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 45 connected article(s).
+> Auto-generated entity hub. 47 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a|Alibaba shares surge as Qwen tops global downloads; Chinese-AI rotation lifts Baidu, Tencent]]
 - `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
 - `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]

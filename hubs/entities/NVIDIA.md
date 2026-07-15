@@ -1,14 +1,24 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 474
+member_count: 484
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 474 connected article(s).
+> Auto-generated entity hub. 484 connected article(s).
 
+- `2026-07-14` [[2026-07-14-subject-daily-ai-news-digest-july-14-2026|Subject: Daily AI News Digest – July 14, 2026]]
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l|Reflection signs $1B-plus Nebius compute deal as open-model labs lock up GPUs]]
+- `2026-07-14` [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n|Reflection AI signs a $1B-plus compute deal with Nebius for Nvidia chips]]
+- `2026-07-14` [[2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c|Nvidia slashes its list of authorized customers in Asia to curb AI-chip smuggling]]
+- `2026-07-14` [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-new-ai-c|Nvidia halves its authorized Asian buyer list under new AI-chip compliance whitelist]]
+- `2026-07-14` [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co|Nvidia halves its authorized Asian buyer list under a new compliance “white list”]]
+- `2026-07-14` [[2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester|Chinese AI startup DFSX releases chip to compete with Western suppliers]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
+- `2026-07-13` [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers|Google pushes TPUs against Nvidia's most loyal customers]]
 - `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
 - `2026-07-10` [[2026-07-10-xai-spacexai-ships-grok-4-5-for-coding-and-agentic-work|xAI (SpaceXAI) ships Grok 4.5 for coding and agentic work]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]

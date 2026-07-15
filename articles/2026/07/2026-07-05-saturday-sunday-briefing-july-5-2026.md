@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-07-12-july-13-2026
 - 2026-07-07-july-7-2026
 - 2026-07-13-monday-july-13-2026
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
-- event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
 embedding_id: 2026-07-05-saturday-sunday-briefing-july-5-2026
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The US Independence Day holiday weekend thinned Western corporate and newsroom o
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-12-july-13-2026]] · [[2026-07-07-july-7-2026]] · [[2026-07-13-monday-july-13-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]]
+**Related:** [[2026-07-12-july-13-2026]] · [[2026-07-07-july-7-2026]] · [[2026-07-13-monday-july-13-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
 <!-- graph:end -->

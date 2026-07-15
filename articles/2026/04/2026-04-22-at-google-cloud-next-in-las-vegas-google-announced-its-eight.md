@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 - 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
 - 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
-- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 embedding_id: 2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight
 event_name: ''
 ---
@@ -48,5 +48,5 @@ SpaceX Eyes In-House GPU Production as AI Infrastructure Race Intensifies
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]]
+**Related:** [[event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]]
 <!-- graph:end -->

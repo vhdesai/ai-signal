@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
-- 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
+- 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
 embedding_id: 2026-06-03-ai-music-startup-suno-raises-capital-at-5-4b-valuation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Suno closed roughly $400M at a $5.4B valuation, a sharp markup that reflects con
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]]
+**Related:** [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]] · [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]]
 <!-- graph:end -->

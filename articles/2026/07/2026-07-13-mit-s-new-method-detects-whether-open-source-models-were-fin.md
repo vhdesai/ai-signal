@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT researchers, working with child-safety nonprofit Thorn, developed an auditin
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
 <!-- graph:end -->

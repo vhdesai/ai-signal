@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 embedding_id: 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cognition, maker of the Devin coding agent, launched Devin Security Swarm, which
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
 <!-- graph:end -->

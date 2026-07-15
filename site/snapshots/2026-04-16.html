@@ -35,7 +35,7 @@
     <span>April 16, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li># OpenAI's GPT-5.5 is a fully retrained base — the first since GPT-4.5 — claiming the top of the Artificial Analysis Intelligence Index at 60, scoring 82.7% on Terminal-Bench 2.0 (+7.6 over GPT-5.4), and finishing Codex tasks with ~40% fewer output tokens.</li><li>API pricing doubled to $5/$30 per MTok ($30/$180 for the Pro variant); effective cost is up only ~20% after token-efficiency gains.</li><span id="exp1185" style="display:none"><li>Trails Claude Opus 4.7 on SWE-bench Pro (58.6% vs 64.3%).</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1185');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li># OpenAI's GPT-5.5 is a fully retrained base — the first since GPT-4.5 — claiming the top of the Artificial Analysis Intelligence Index at 60, scoring 82.7% on Terminal-Bench 2.0 (+7.6 over GPT-5.4), and finishing Codex tasks with ~40% fewer output tokens.</li><li>API pricing doubled to $5/$30 per MTok ($30/$180 for the Pro variant); effective cost is up only ~20% after token-efficiency gains.</li><span id="exp1208" style="display:none"><li>Trails Claude Opus 4.7 on SWE-bench Pro (58.6% vs 64.3%).</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1208');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 1 more…':'Show less'">Show 1 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a></div>
 </article>
 <article class="card ">
@@ -109,9 +109,9 @@
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -642,5 +642,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 15, 2026 at 15:56 UTC</footer>
 </body></html>

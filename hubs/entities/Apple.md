@@ -1,14 +1,22 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 162
+member_count: 170
 ---
 
 # Apple
 
-> Auto-generated entity hub. 162 connected article(s).
+> Auto-generated entity hub. 170 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-new-filings-sharpen-apple-s-trade-secret-lawsuit-against-ope|New filings sharpen Apple's trade-secret lawsuit against OpenAI]]
+- `2026-07-13` [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op|New Filings Sharpen Apple's Trade-Secrets Lawsuit Against OpenAI]]
+- `2026-07-13` [[2026-07-13-daily-ai-news-digest-july-14-2026|Daily AI News Digest – July 14, 2026]]
+- `2026-07-13` [[2026-07-13-apple-s-trade-secret-suit-against-openai-the-standout-allega|Apple’s trade-secret suit against OpenAI: the standout allegations]]
+- `2026-07-13` [[2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a|Apple's trade-secret suit against OpenAI becomes a test of AI talent migration]]
+- `2026-07-13` [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea|Apple sues OpenAI, alleging theft of trade secrets on unreleased products]]
+- `2026-07-13` [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle|Apple lawsuit against OpenAI adds detailed trade-secret allegations]]
 - `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]
 - `2026-07-12` [[2026-07-12-the-weekend-signal-governance-not-model-launches|The Weekend Signal: Governance, Not Model Launches]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]

@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
+- 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 embedding_id: 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Financial Times red-team testing demonstrated that safety guardrails on current 
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]]
+**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra]]
 <!-- graph:end -->

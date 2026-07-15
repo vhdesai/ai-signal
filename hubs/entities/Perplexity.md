@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 19
+member_count: 20
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 19 connected article(s).
+> Auto-generated entity hub. 20 connected article(s).
 
+- `2026-07-14` [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces|ChatGPT returns to WhatsApp in the EU after Brussels forces Meta to reopen]]
 - `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
 - `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
 - `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]

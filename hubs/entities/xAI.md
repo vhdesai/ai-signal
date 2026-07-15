@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 179
+member_count: 180
 ---
 
 # xAI
 
-> Auto-generated entity hub. 179 connected article(s).
+> Auto-generated entity hub. 180 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-12` [[2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r|Security teardown says xAI's Grok Build CLI uploads entire repos, including secrets]]

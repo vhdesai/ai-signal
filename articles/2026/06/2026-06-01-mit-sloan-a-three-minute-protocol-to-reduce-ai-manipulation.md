@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
 - 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
 - 2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability
-- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 embedding_id: 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Sloan Management Review published a practical framework for reducing the ris
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
+**Related:** [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]]
 <!-- graph:end -->

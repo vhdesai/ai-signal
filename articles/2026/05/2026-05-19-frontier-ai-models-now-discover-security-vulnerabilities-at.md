@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive highlighted that frontier AI models are surfacing security vulnerabilit
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
 <!-- graph:end -->

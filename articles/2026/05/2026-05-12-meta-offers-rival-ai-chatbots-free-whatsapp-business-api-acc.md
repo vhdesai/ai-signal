@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
-- 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
-- 2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance
-- 2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me
+- 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
+- 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
+- 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b
 embedding_id: 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Meta agreed to give general-purpose AI chatbots free WhatsApp Business API acces
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]] · [[2026-06-10-meta-signs-first-ai-data-center-deal-in-india-with-reliance]] · [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]]
+**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces]] · [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu]] · [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b]]
 <!-- graph:end -->

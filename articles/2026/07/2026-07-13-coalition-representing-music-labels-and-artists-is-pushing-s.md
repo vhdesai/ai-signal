@@ -28,10 +28,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
-- 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may
+- 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
 embedding_id: 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 event_name: ''
 ---
@@ -45,5 +43,5 @@ More than 200 researchers and economists, including 15 Nobel laureates and leade
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]] · [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
+**Related:** [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]] · [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]]
 <!-- graph:end -->

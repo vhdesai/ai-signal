@@ -1,19 +1,36 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 466
+member_count: 483
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 466 connected article(s).
+> Auto-generated topic hub. 483 connected article(s).
 
+- `2026-07-14` [[2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w|WSJ: Chinese AI startup DFSX releases a chip “to take on the West”]]
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion|PixVerse raises $439 million as valuation passes $2 billion]]
+- `2026-07-14` [[2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c|Nvidia slashes its list of authorized customers in Asia to curb AI-chip smuggling]]
+- `2026-07-14` [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-new-ai-c|Nvidia halves its authorized Asian buyer list under new AI-chip compliance whitelist]]
+- `2026-07-14` [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co|Nvidia halves its authorized Asian buyer list under a new compliance “white list”]]
+- `2026-07-14` [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo|DeepSeek weighs a second raise in two months at a ~$71B pre-money valuation]]
+- `2026-07-14` [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin|DeepSeek reportedly plans another funding round after raising $7.4 billion]]
+- `2026-07-14` [[2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester|Chinese AI startup DFSX releases chip to compete with Western suppliers]]
+- `2026-07-14` [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra|Ant Group open-sources SingGuard-NSFA — a 133-language guardrail model for autonomous AI agents]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
 - `2026-07-13` [[2026-07-13-xi-jinping-to-keynote-world-ai-conference-in-shanghai-for-th|Xi Jinping to keynote World AI Conference in Shanghai for the first time]]
 - `2026-07-13` [[2026-07-13-xi-jinping-to-deliver-his-first-ever-keynote-at-china-s-worl|Xi Jinping to deliver his first-ever keynote at China's World AI Conference (Shanghai, July 17)]]
+- `2026-07-13` [[2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops|Video-generation startup PixVerse raises $439M, valuation tops $2B]]
 - `2026-07-13` [[2026-07-13-read-at-reuters-via-u-s-news|Read at Reuters via U.S. News →]]
+- `2026-07-13` [[2026-07-13-pixverse-raises-439m-ai-video-valuation-crosses-2b|PixVerse Raises $439M; AI Video Valuation Crosses $2B]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti|Meituan launches LongCat-2.0 — a 1.6-trillion-parameter agentic-coding model trained entirely on domestic silicon]]
+- `2026-07-13` [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across|DeepSeek, Chai, PixVerse, and Nous show capital shifting across the AI stack]]
+- `2026-07-13` [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation|DeepSeek in talks to raise fresh funds at a ~$71B valuation]]
+- `2026-07-13` [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a|Alibaba shares surge as Qwen tops global downloads; Chinese-AI rotation lifts Baidu, Tencent]]
+- `2026-07-13` [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b|AI video startup PixVerse raises $439M, valuation crosses $2B]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-goldman-sachs-names-its-favorite-chinese-ai-models|Goldman Sachs Names Its Favorite Chinese AI Models]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]

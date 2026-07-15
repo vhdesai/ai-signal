@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
+- 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 - 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
-- 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
 embedding_id: 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon MGM Studios and AWS launched a "GenAI Creators' Fund" that grants filmmak
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]]
+**Related:** [[2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]]
 <!-- graph:end -->

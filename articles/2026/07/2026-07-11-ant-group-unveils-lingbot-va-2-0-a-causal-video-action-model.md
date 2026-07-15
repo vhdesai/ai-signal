@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
 - 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
-- 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
+- 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 embedding_id: 2026-07-11-ant-group-unveils-lingbot-va-2-0-a-causal-video-action-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ant Group's Robbyant team introduced LingBot-VA 2.0, a causal video-action model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
+**Related:** [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra]]
 <!-- graph:end -->

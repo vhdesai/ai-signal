@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 embedding_id: 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Meta is drawing up plans for a cloud venture that would sell outside customers a
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]]
+**Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
 <!-- graph:end -->

@@ -1,14 +1,16 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 235
+member_count: 237
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 235 connected article(s).
+> Auto-generated entity hub. 237 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen|AWS ships a low-code UI for generative-AI inference recommendations in SageMaker AI]]
 - `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]
 - `2026-07-12` [[2026-07-12-welcome-to-the-era-of-the-forever-layoff|Welcome to the era of the forever layoff]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]

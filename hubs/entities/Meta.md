@@ -1,17 +1,25 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 281
+member_count: 289
 ---
 
 # Meta
 
-> Auto-generated entity hub. 281 connected article(s).
+> Auto-generated entity hub. 289 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode|Governance and Distribution Move to Center Stage as the Model Race Cools]]
+- `2026-07-14` [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces|ChatGPT returns to WhatsApp in the EU after Brussels forces Meta to reopen]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits|Meta signals AI compute may be overbuilt — even as it commits $50B+ to a 5GW data center]]
+- `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
+- `2026-07-13` [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c|Meta pours an additional $40B into its Hyperion data-center campus in Louisiana]]
 - `2026-07-13` [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and|Meta patent describes an always‑listening AI that infers and logs your emotions]]
 - `2026-07-13` [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor|Meta expands Louisiana Hyperion supercluster to 5 GW and more than $50B]]
+- `2026-07-13` [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu|EU forces Meta to readmit ChatGPT to WhatsApp as AI distribution battles intensify]]
+- `2026-07-13` [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b|EU Forces Meta to Readmit ChatGPT to WhatsApp; Distribution Battles Intensify]]
 - `2026-07-13` [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win|Daily AI News Digest Monday, July 13, 2026 · 12 items · Source window: July 12–13, 2026]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]

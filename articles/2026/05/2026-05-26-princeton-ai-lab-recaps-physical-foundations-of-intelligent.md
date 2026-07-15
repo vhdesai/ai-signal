@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 embedding_id: 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton's AI Lab posted a recap and full video from its faculty workshop on th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
+**Related:** [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
 <!-- graph:end -->

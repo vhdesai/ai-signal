@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
+- 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
+- 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-- 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
-- 2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp
 embedding_id: 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Patronus AI, founded by former Meta researchers Anand Kannappan and Rebecca Qian
 
 **Entities:** [[Meta]] · [[Samsung]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-05-12-amp-raises-1-3b-to-build-a-shared-ai-grid-democratizing-comp]]
+**Related:** [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 embedding_id: 2026-06-23-abu-dhabi-s-mgx-raises-50b-to-accelerate-ai-deals
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Abu Dhabi investment vehicle MGX reportedly raised roughly $50 billion to accele
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]]
+**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
 <!-- graph:end -->

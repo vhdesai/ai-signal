@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 embedding_id: 2026-07-09-nvidia-backs-paris-voice-ai-startup-gradium-s-100m-round
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Gradium, a Kyutai spin-out building ultra-low-latency voice models, reopened its
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]]
+**Related:** [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

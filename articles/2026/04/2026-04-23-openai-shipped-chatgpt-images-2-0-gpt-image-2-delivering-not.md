@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-- 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
+- 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 embedding_id: 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
 event_name: ''
 ---
@@ -44,5 +44,5 @@ OpenAI Workspace Agents Launch in Research Preview
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]]
+**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-04-02-daily-ai-news-digest
 embedding_id: 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
 event_name: ''
 ---
@@ -42,5 +42,5 @@ AI expands from multibillion-dollar enterprises to Main Street
 
 **Entities:** [[Salesforce]] · [[Snowflake]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-04-02-daily-ai-news-digest]]
+**Related:** [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

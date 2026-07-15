@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+- 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
 - 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
-- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
+- 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
 embedding_id: 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In a WSJ interview, Nadella cautioned that AI leaders cannot simultaneously clai
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]]
+**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]] · [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors]]
 <!-- graph:end -->

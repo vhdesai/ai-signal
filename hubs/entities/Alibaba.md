@@ -1,14 +1,20 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 154
+member_count: 160
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 154 connected article(s).
+> Auto-generated entity hub. 160 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion|PixVerse raises $439 million as valuation passes $2 billion]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops|Video-generation startup PixVerse raises $439M, valuation tops $2B]]
+- `2026-07-13` [[2026-07-13-pixverse-raises-439m-ai-video-valuation-crosses-2b|PixVerse Raises $439M; AI Video Valuation Crosses $2B]]
+- `2026-07-13` [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a|Alibaba shares surge as Qwen tops global downloads; Chinese-AI rotation lifts Baidu, Tencent]]
+- `2026-07-13` [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b|AI video startup PixVerse raises $439M, valuation crosses $2B]]
 - `2026-07-10` [[2026-07-10-sk-hynix-raises-26-5b-in-the-largest-ever-foreign-u-s-ipo|SK Hynix raises $26.5B in the largest-ever foreign U.S. IPO]]
 - `2026-07-10` [[2026-07-10-openai-and-google-supply-frontier-ai-to-blacklisted-chinese|OpenAI and Google supply frontier AI to blacklisted Chinese firms via Singapore entities]]
 - `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]

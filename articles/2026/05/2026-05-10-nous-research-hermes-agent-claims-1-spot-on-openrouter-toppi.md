@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
-- 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
-- 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
+- 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
+- 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val
+- 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
+- 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua
+- 2026-07-14-nous-research-in-talks-to-raise-75m-at-a-1-5b-valuation-for
 embedding_id: 2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nous Research's open-source self-improving agent "Hermes" reached the number one
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]]
+**Related:** [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua]] · [[2026-07-14-nous-research-in-talks-to-raise-75m-at-a-1-5b-valuation-for]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2
 - 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
-- event-icra-2026-icra-2026-strategic-implications
 embedding_id: 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A round-up of recent autonomous-systems deployments in logistics, construction, 
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]] · [[event-icra-2026-icra-2026-strategic-implications]]
+**Related:** [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]]
 <!-- graph:end -->

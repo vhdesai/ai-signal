@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla
 - 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
 - 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
 - 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 - 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
-- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 embedding_id: 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
 event_name: ''
 ---
@@ -35,5 +35,5 @@ AI coding startup Cursor, fresh off a high-profile SpaceX deal, is preparing a m
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]]
+**Related:** [[2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla]] · [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]]
 <!-- graph:end -->

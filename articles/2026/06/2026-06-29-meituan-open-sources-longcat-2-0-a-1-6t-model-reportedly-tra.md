@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
+- 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
 - 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
-- 2026-06-30-tuesday-june-30-2026
 embedding_id: 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Chinese super-app Meituan open-sourced LongCat-2.0 under an MIT license — a 1.
 
 **Entities:** [[NVIDIA]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]] · [[2026-06-30-tuesday-june-30-2026]]
+**Related:** [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]]
 <!-- graph:end -->

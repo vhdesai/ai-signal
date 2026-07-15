@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
-- 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
+- 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
 embedding_id: 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Goldman Sachs projected that private infrastructure and real estate capital will
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]]
+**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]]
 <!-- graph:end -->

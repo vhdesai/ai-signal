@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
+- 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
 - 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
-- 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
-- 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
+- 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
 embedding_id: 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DeepMind CEO Demis Hassabis moved his stated AGI timeline from "five to ten year
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]]
+**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]]
 <!-- graph:end -->

@@ -18,7 +18,7 @@
 </header><main>
 <h1>Themes</h1>
 <p class="subtitle">Browse AI news by theme</p>
-<div class="chat-highlight"><div class="chat-highlight-icon">💬</div><div class="chat-highlight-text"><strong>The best way to explore news by theme is AI Chat</strong><span>Ask about topics — &#x27;Latest model breakthroughs?&#x27; or &#x27;Policy news this week?&#x27;</span></div><a href="chat.html" class="chat-highlight-btn">Open AI Chat →</a></div><div class="grid"><div class="card"><a class="t" href="topics/company-storylines.html">🏢 Corporate Moves</a><div class="count">1261</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/model-capabilities.html">🧠 Model Breakthroughs</a><div class="count">1112</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/datacenter-infrastructure.html">⚡ Infrastructure & Compute</a><div class="count">609</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/policy-regulation.html">📜 Policy & Regulation</a><div class="count">597</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/china-compete.html">🌏 Global AI Race</a><div class="count">356</div><div class="label">stories</div></div></div>
+<div class="chat-highlight"><div class="chat-highlight-icon">💬</div><div class="chat-highlight-text"><strong>The best way to explore news by theme is AI Chat</strong><span>Ask about topics — &#x27;Latest model breakthroughs?&#x27; or &#x27;Policy news this week?&#x27;</span></div><a href="chat.html" class="chat-highlight-btn">Open AI Chat →</a></div><div class="grid"><div class="card"><a class="t" href="topics/company-storylines.html">🏢 Corporate Moves</a><div class="count">1296</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/model-capabilities.html">🧠 Model Breakthroughs</a><div class="count">1129</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/datacenter-infrastructure.html">⚡ Infrastructure & Compute</a><div class="count">621</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/policy-regulation.html">📜 Policy & Regulation</a><div class="count">608</div><div class="label">stories</div></div><div class="card"><a class="t" href="topics/china-compete.html">🌏 Global AI Race</a><div class="count">369</div><div class="label">stories</div></div></div>
 </main>
 
 <button type="button" class="ai-chat-bubble-launch" data-chat-launch aria-label="Open AI Signal chat" aria-expanded="false">💬 AI Chat</button>
@@ -80,9 +80,9 @@
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -613,5 +613,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 15, 2026 at 15:56 UTC</footer>
 </body></html>

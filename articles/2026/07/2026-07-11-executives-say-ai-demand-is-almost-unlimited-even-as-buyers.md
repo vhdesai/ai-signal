@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 embedding_id: 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Executives told CNBC that enterprise appetite for AI compute remains "almost unl
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]]
 <!-- graph:end -->

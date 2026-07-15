@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
+- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 embedding_id: 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported that Erin Brockovich is targeting secrecy around data-center
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
+**Related:** [[2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-10-legislators-including-bernie-sanders-and-alexandria-ocasio-c]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

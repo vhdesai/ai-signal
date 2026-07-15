@@ -1,16 +1,27 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 437
+member_count: 448
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 437 connected article(s).
+> Auto-generated entity hub. 448 connected article(s).
 
+- `2026-07-14` [[2026-07-14-subject-daily-ai-news-digest-july-14-2026|Subject: Daily AI News Digest – July 14, 2026]]
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode|Governance and Distribution Move to Center Stage as the Model Race Cools]]
+- `2026-07-14` [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces|ChatGPT returns to WhatsApp in the EU after Brussels forces Meta to reopen]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-visual-studio-adds-real-time-copilot-usage-tracking-to-curb|Visual Studio adds real-time Copilot usage tracking to curb billing shock]]
+- `2026-07-13` [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock|Visual Studio adds Copilot usage tracking to curb “bill shock”]]
 - `2026-07-13` [[2026-07-13-subject-daily-ai-news-digest-july-13-2026|Subject: Daily AI News Digest – July 13, 2026]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-they-may-be-paying-for-ai-tw|Satya Nadella warns enterprises they may be paying for AI twice]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]
 - `2026-07-13` [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie|Satya Nadella takes a veiled swipe at model-only AI companies]]
+- `2026-07-13` [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on|Satya Nadella publishes “Reverse Information Paradox” essay on the hidden cost of enterprise AI]]
+- `2026-07-13` [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice|Nadella warns enterprises they may be paying for AI twice]]
+- `2026-07-13` [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors|Nadella warns enterprises of a proprietary-model Trojan-horse risk]]
 - `2026-07-13` [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat|AI data‑center buildout emerges as a fresh inflation threat, complicating the Fed]]
 - `2026-07-12` [[2026-07-12-welcome-to-the-era-of-the-forever-layoff|Welcome to the era of the forever layoff]]
 - `2026-07-12` [[2026-07-12-majority-of-us-workers-back-an-ai-sovereign-wealth-fund|Majority of US workers back an AI 'sovereign wealth fund']]

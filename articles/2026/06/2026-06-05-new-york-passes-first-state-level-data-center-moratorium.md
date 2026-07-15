@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
+- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 - 2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl
 - 2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu
 - 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 embedding_id: 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 event_name: ''
 ---
@@ -37,5 +37,5 @@ York passed a one-year moratorium on large data center construction — the firs
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl]] · [[2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]]
+**Related:** [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl]] · [[2026-06-08-new-york-legislature-passes-landmark-bill-requiring-disclosu]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]]
 <!-- graph:end -->

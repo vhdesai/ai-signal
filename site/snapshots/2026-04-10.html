@@ -65,7 +65,7 @@
     <span>April 10, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>RSAC 2026: Microsoft, Cisco, CrowdStrike & Splunk Keynotes Converge on One Message — Zero Trust Must Extend to AI Agents VentureBeat's deep-dive from RSAC 2026 found that four independent keynote speakers — from Microsoft, Cisco, CrowdStrike, and Splunk — reached the same conclusion: zero-trust architecture must extend to AI agents.</li><span id="exp1209" style="display:none"><li>The analysis found 79% of enterprise AI agents are deployed without security approval, and contrasts Anthropic's credential-isolation architecture against Nvidia's NemoClaw blast-radius containment approach.</li><li>Cisco's Jeetu Patel's quote that AI agents behave "more like teenagers — supremely intelligent, but with no fear of consequence" became one of the most widely circulated lines of the week.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1209');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>RSAC 2026: Microsoft, Cisco, CrowdStrike & Splunk Keynotes Converge on One Message — Zero Trust Must Extend to AI Agents VentureBeat's deep-dive from RSAC 2026 found that four independent keynote speakers — from Microsoft, Cisco, CrowdStrike, and Splunk — reached the same conclusion: zero-trust architecture must extend to AI agents.</li><span id="exp1232" style="display:none"><li>The analysis found 79% of enterprise AI agents are deployed without security approval, and contrasts Anthropic's credential-isolation architecture against Nvidia's NemoClaw blast-radius containment approach.</li><li>Cisco's Jeetu Patel's quote that AI agents behave "more like teenagers — supremely intelligent, but with no fear of consequence" became one of the most widely circulated lines of the week.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1232');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Amazon.html">Amazon</a><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/Meta.html">Meta</a><a class="tag tag-entity" href="../entities/Microsoft.html">Microsoft</a><a class="tag tag-entity" href="../entities/NVIDIA.html">NVIDIA</a></div>
 </article>
 <article class="card ">
@@ -149,9 +149,9 @@
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -682,5 +682,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 15, 2026 at 15:56 UTC</footer>
 </body></html>

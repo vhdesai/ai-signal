@@ -65,7 +65,7 @@
     <span>April 30, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>OpenAI published a detailed postmortem explaining how GPT-5.1 developed an unexpected affinity for "goblin" and "gremlin" metaphors.</li><li>Root cause: reward signals in the retired "Nerdy" personality training accidentally boosted creature-language outputs, which then propagated via reinforcement-learning transfer into Codex's GPT-5.5.</li><span id="exp1147" style="display:none"><li>A rare, candid technical artifact on emergent behavior — 873 HN points.</li><li>3.</li><li>Products & Tools</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1147');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 3 more…':'Show less'">Show 3 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>OpenAI published a detailed postmortem explaining how GPT-5.1 developed an unexpected affinity for "goblin" and "gremlin" metaphors.</li><li>Root cause: reward signals in the retired "Nerdy" personality training accidentally boosted creature-language outputs, which then propagated via reinforcement-learning transfer into Codex's GPT-5.5.</li><span id="exp1170" style="display:none"><li>A rare, candid technical artifact on emergent behavior — 873 HN points.</li><li>3.</li><li>Products & Tools</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp1170');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 3 more…':'Show less'">Show 3 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a></div>
 </article><div class="snap-nav"><a href="2026-04-29.html">← April 29, 2026</a><span class="spacer"></span><a href="2026-05-01.html">May 1, 2026 →</a></div>
 </main>
@@ -129,9 +129,9 @@
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -662,5 +662,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:50 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 15, 2026 at 15:56 UTC</footer>
 </body></html>

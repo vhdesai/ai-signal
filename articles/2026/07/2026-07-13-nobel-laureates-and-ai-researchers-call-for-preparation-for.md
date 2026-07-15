@@ -22,11 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
-- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
+- 2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp
+- 2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may
+- 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
 embedding_id: 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
 event_name: ''
 ---
@@ -40,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]]
+**Related:** [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp]] · [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]] · [[2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now]]
 <!-- graph:end -->

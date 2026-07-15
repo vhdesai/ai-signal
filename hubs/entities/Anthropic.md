@@ -1,20 +1,34 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 811
+member_count: 825
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 811 connected article(s).
+> Auto-generated entity hub. 825 connected article(s).
 
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n|Reflection AI signs a $1B-plus compute deal with Nebius for Nvidia chips]]
+- `2026-07-13` [[2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti|“We Must Act Now”: 16 Nobel laureates and 200+ experts urge action on AI’s economic impact]]
+- `2026-07-13` [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de|“Stop the AI Race” protesters march on OpenAI, Anthropic, and DeepMind]]
 - `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
+- `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]
+- `2026-07-13` [[2026-07-13-proven-founders-return-to-hands-on-ai-roles-blomfield-joins|Proven Founders Return to Hands-On AI Roles; Blomfield Joins Anthropic]]
 - `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
+- `2026-07-13` [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may|Economists and AI researchers warn that labor disruption may outpace institutions]]
+- `2026-07-13` [[2026-07-13-cursor-is-building-sand-a-general-purpose-agent-to-rival-cla|Cursor is building “Sand,” a general-purpose agent to rival Claude Cowork]]
+- `2026-07-13` [[2026-07-13-anthropic-finds-claude-s-expressed-values-shift-by-language|Anthropic finds Claude’s expressed values shift by language]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for|Anthropic extends free Claude Fable 5 access to July 19 for Pro/Max/Team subscribers]]
 - `2026-07-13` [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and|Anthropic extends free Claude Fable 5 access to July 19 and lifts Claude Code limits 50%]]
 - `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep|Anthropic extends Claude Fable 5 free access to July 19, keeps Claude Code limits 50% higher]]
+- `2026-07-13` [[2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5|Anthropic extends Claude Fable 5 access after OpenAI’s GPT-5.6 “Sol” launch]]
+- `2026-07-13` [[2026-07-13-anthropic-begins-localizing-claude-pricing-in-india|Anthropic begins localizing Claude pricing in India]]
+- `2026-07-13` [[2026-07-13-anthropic-begins-localizing-claude-pricing-for-india|Anthropic begins localizing Claude pricing for India]]
 - `2026-07-13` [[2026-07-13-ai-safety-policy-policy-anthropic-free-speech|AI Safety & Policy POLICY ANTHROPIC FREE SPEECH]]
+- `2026-07-13` [[2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo|200+ economists and 16 Nobel laureates warn of “large-scale job displacement,” urge action now]]
 - `2026-07-12` [[2026-07-12-zhipu-open-sources-glm-5-2-founder-argues-frontier-ai-should|Zhipu Open-Sources GLM-5.2; Founder Argues Frontier AI Should Stay Open]]
 - `2026-07-12` [[2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le|Frontier Proof Claims, Open-Model Momentum, and a Hardening Legal & Policy Backdrop]]
 - `2026-07-11` [[2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind|~200 Protesters March on OpenAI, Anthropic, and Google DeepMind: "Stop the AI Race"]]

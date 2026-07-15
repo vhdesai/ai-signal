@@ -25,7 +25,7 @@
     <span>June 14, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>OpenAI announced the OpenAI Partner Network, a new program for partners worldwide to build, sell, and deliver AI solutions with OpenAI, backed by $150M in co-investment.</li><li>It launches with a select group of global partners — including Accenture, Bain, and BCG/BCG X — across systems integration, management consulting, technology, and data, and aims to train and enable 300,000 certified consultants by the end of 2026.</li><span id="exp370" style="display:none"><li>Partners progress through Select, Advanced, and Elite tiers and can earn specializations in areas such as Codex, cybersecurity, and agents.</li><li>The move is a direct push to capture enterprise implementation value — competing for the same integrator channel as Microsoft, Google, and Anthropic.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp370');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>OpenAI announced the OpenAI Partner Network, a new program for partners worldwide to build, sell, and deliver AI solutions with OpenAI, backed by $150M in co-investment.</li><li>It launches with a select group of global partners — including Accenture, Bain, and BCG/BCG X — across systems integration, management consulting, technology, and data, and aims to train and enable 300,000 certified consultants by the end of 2026.</li><span id="exp393" style="display:none"><li>Partners progress through Select, Advanced, and Elite tiers and can earn specializations in areas such as Codex, cybersecurity, and agents.</li><li>The move is a direct push to capture enterprise implementation value — competing for the same integrator channel as Microsoft, Google, and Anthropic.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp393');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 2 more…':'Show less'">Show 2 more…</button></div>
   <div class="tags"><a class="tag tag-entity" href="../entities/Anthropic.html">Anthropic</a><a class="tag tag-entity" href="../entities/Google.html">Google</a><a class="tag tag-entity" href="../entities/Microsoft.html">Microsoft</a><a class="tag tag-entity" href="../entities/OpenAI.html">OpenAI</a></div>
 </article>
 <article class="card ">
@@ -35,7 +35,7 @@
     <span>June 14, 2026</span>
     
   </div>
-  <div class="summary"><ul class="bullet-summary"><li>The Beijing Academy of Artificial Intelligence unveiled Physis-v0.1 at its 8th annual conference, framing it as the world's first general world foundation model — designed to learn and predict how the physical world behaves rather than only modeling text patterns.</li><li>The model is positioned as a candidate next frontier for embodied AI and robotics;</li><span id="exp371" style="display:none"><li>Turing laureate Andrew Barto was quoted on the importance of combining deep RL with neuroscience of reward.</li><li>Note: the model was formally unveiled June 12;</li><li>June 14 marks the first English-language press coverage in-window.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp371');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 3 more…':'Show less'">Show 3 more…</button></div>
+  <div class="summary"><ul class="bullet-summary"><li>The Beijing Academy of Artificial Intelligence unveiled Physis-v0.1 at its 8th annual conference, framing it as the world's first general world foundation model — designed to learn and predict how the physical world behaves rather than only modeling text patterns.</li><li>The model is positioned as a candidate next frontier for embodied AI and robotics;</li><span id="exp394" style="display:none"><li>Turing laureate Andrew Barto was quoted on the importance of combining deep RL with neuroscience of reward.</li><li>Note: the model was formally unveiled June 12;</li><li>June 14 marks the first English-language press coverage in-window.</li></span></ul><button class="expand-toggle" onclick="var el=document.getElementById('exp394');el.style.display=el.style.display==='none'?'inline':'none';this.textContent=el.style.display==='none'?'Show 3 more…':'Show less'">Show 3 more…</button></div>
   <div class="tags"><a class="tag tag-topic" href="../topics/china-compete.html">🌏 Global AI Race</a></div>
 </article>
 <article class="card ">
@@ -109,9 +109,9 @@
   // Context-window sizing. Keep the request payload small so the hosted models
   // stay responsive: cap retrieved articles, per-article summary length, and how
   // much prior conversation is replayed on each turn.
-  const MAX_CONTEXT_ARTICLES = 5;   // relevant articles injected as context
-  const MAX_SUMMARY_CHARS = 280;    // chars of each article summary sent
-  const MAX_HISTORY_MESSAGES = 6;   // trailing user/assistant messages replayed
+  const MAX_CONTEXT_ARTICLES = 3;   // keep only TOP 3 most relevant articles
+  const MAX_SUMMARY_CHARS = 150;    // even tighter: ~1 short sentence per article
+  const MAX_HISTORY_MESSAGES = 4;   // only last 2 user/assistant exchanges
   // Resolve articles.json and chat.html relative to the current page
   const PAGE_PATH = window.location.pathname;
   const pathParts = PAGE_PATH.split('/').filter(Boolean);
@@ -642,5 +642,5 @@
 
 <button class="btt" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">↑</button>
 <script>addEventListener('scroll',()=>document.querySelector('.btt').classList.toggle('visible',scrollY>400))</script>
-<footer>© 2026 AI Signal · Public · ai-signal · Last built July 13, 2026 at 20:49 UTC</footer>
+<footer>© 2026 AI Signal · Public · ai-signal · Last built July 15, 2026 at 15:56 UTC</footer>
 </body></html>

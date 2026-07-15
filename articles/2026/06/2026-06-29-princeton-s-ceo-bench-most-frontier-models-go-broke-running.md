@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 - 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
-- 2026-07-13-monday-july-13-2026
+- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Princeton benchmark, CEO-Bench, puts AI agents in charge of a simulated startu
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]] · [[2026-07-13-monday-july-13-2026]]
+**Related:** [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

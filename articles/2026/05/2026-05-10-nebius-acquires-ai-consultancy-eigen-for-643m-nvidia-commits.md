@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
+- 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
+- 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 embedding_id: 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
 event_name: ''
 ---
@@ -39,5 +39,5 @@ European AI infrastructure company Nebius announced the $643 million acquisition
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
+**Related:** [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

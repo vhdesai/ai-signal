@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 35
+member_count: 36
 ---
 
 # AMD
 
-> Auto-generated entity hub. 35 connected article(s).
+> Auto-generated entity hub. 36 connected article(s).
 
+- `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]

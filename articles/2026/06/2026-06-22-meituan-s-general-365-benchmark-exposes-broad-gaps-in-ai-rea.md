@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
+- 2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term
 embedding_id: 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reasoning benchmark on which 26 mainstream models were assessed; top performer G
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq]]
+**Related:** [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term]]
 <!-- graph:end -->

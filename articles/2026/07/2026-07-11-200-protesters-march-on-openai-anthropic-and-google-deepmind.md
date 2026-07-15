@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de
 - 2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo
+- 2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti
 embedding_id: 2026-07-11-200-protesters-march-on-openai-anthropic-and-google-deepmind
 event_name: ''
 ---
@@ -40,5 +41,5 @@ About 200 people marched through SF from OpenAI to Anthropic and DeepMind, deman
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
+**Related:** [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de]] · [[2026-07-11-hundreds-march-on-openai-anthropic-and-google-deepmind-offic]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo]] · [[2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti]]
 <!-- graph:end -->

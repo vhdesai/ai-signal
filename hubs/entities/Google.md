@@ -1,18 +1,42 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 569
+member_count: 593
 ---
 
 # Google
 
-> Auto-generated entity hub. 569 connected article(s).
+> Auto-generated entity hub. 593 connected article(s).
 
+- `2026-07-14` [[2026-07-14-waze-adds-ai-powered-voice-incident-reporting|Waze adds AI-powered voice incident reporting]]
+- `2026-07-14` [[2026-07-14-subject-daily-ai-news-digest-july-14-2026|Subject: Daily AI News Digest – July 14, 2026]]
+- `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
+- `2026-07-14` [[2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n|Reflection AI signs a $1B-plus compute deal with Nebius for Nvidia chips]]
+- `2026-07-14` [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b|OpenAI’s ad business on pace to miss its own 2026 forecast by ~90%]]
+- `2026-07-14` [[2026-07-14-hassabis-proposes-a-finra-style-u-s-led-ai-watchdog-for-fron|Hassabis proposes a FINRA-style U.S.-led AI watchdog for frontier models]]
+- `2026-07-14` [[2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr|Hassabis proposes a FINRA-style U.S. standards body to vet frontier models]]
+- `2026-07-14` [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus|Hassabis calls for a U.S.-led global AI watchdog able to pause dangerous frontier models]]
+- `2026-07-14` [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode|Governance and Distribution Move to Center Stage as the Model Race Cools]]
+- `2026-07-14` [[2026-07-14-google-unveils-india-ai-push-at-i-o-connect-2026-atl-saathi|Google unveils India AI push at I/O Connect 2026 — ATL Saathi and expanded Gemini Live]]
+- `2026-07-14` [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u|Google expands Gemini in Chrome to the UK and more desktop users]]
+- `2026-07-14` [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan|Google expands Gemini in Chrome to UK desktop users, adds Nano Banana 2 image editing]]
+- `2026-07-14` [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect|Google expands Gemini and AI education tools at I/O Connect India]]
+- `2026-07-14` [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog|Demis Hassabis calls for a U.S.-led global AI watchdog]]
+- `2026-07-14` [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri|At I/O Connect India, Google expands Gemini Live and enterprise AI with data-localization support]]
+- `2026-07-13` [[2026-07-13-we-must-act-now-16-nobel-laureates-and-200-experts-urge-acti|“We Must Act Now”: 16 Nobel laureates and 200+ experts urge action on AI’s economic impact]]
+- `2026-07-13` [[2026-07-13-stop-the-ai-race-protesters-march-on-openai-anthropic-and-de|“Stop the AI Race” protesters march on OpenAI, Anthropic, and DeepMind]]
 - `2026-07-13` [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s|coalition representing music labels and artists is pushing streaming platforms to label AI-generated songs, arguing that fans want transparency about synthetic content. The effort sits at the intersection of copyright, provenance, and platform UX, and could establish expectations for AI-content disclosure beyond music.]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto|Waze rolls out new Gemini-powered AI features, including Motorcycle and "Less Chatty" modes]]
+- `2026-07-13` [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per|Waze adds Gemini-powered conversational search and route personalization]]
 - `2026-07-13` [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for|Nobel laureates and AI researchers call for preparation for AI’s economic transformation]]
+- `2026-07-13` [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re|Google’s Gemini 3.5 Pro targets July 17 GA — but every spec remains unconfirmed]]
 - `2026-07-13` [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m|Google's Waze rolls out Gemini‑powered features: Motorcycle mode and "Less Chatty" navigation]]
+- `2026-07-13` [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p|Google targets July 17 general availability for Gemini 3.5 Pro (2M-token context, “Deep Think”)]]
+- `2026-07-13` [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers|Google pushes TPUs against Nvidia's most loyal customers]]
+- `2026-07-13` [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent|Google pushes Gemini deeper into Chrome, Waze, and India's enterprise ecosystem]]
+- `2026-07-13` [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may|Economists and AI researchers warn that labor disruption may outpace institutions]]
+- `2026-07-13` [[2026-07-13-200-economists-and-16-nobel-laureates-warn-of-large-scale-jo|200+ economists and 16 Nobel laureates warn of “large-scale job displacement,” urge action now]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-12` [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t|Apple escalates trade-secret suit against OpenAI; next Siri to run on Google Gemini]]
 - `2026-07-12` [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s|Academic and official research blogs were quiet during the strict window]]

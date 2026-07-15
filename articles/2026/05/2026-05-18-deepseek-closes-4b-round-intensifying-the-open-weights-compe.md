@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
+- 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
 embedding_id: 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
 event_name: ''
 ---
@@ -43,5 +43,5 @@ China's DeepSeek closed a $4 billion funding round that values the lab among the
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
+**Related:** [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]]
 <!-- graph:end -->

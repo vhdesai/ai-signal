@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
+- 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
-- 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 embedding_id: 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Brookfield and Bloom Energy announced a fivefold expansion of their partnership 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]]
+**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env]]
 <!-- graph:end -->

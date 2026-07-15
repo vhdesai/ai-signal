@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-07-14-waze-adds-ai-powered-voice-incident-reporting
+- 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
-- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
 embedding_id: 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The WSJ daily roundup highlights a hands-on review of Google's new voice-driven 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s]]
+**Related:** [[2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-14-waze-adds-ai-powered-voice-incident-reporting]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
+- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 embedding_id: 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Orleans has paused data-center activity amid rising local concern over AI-driven
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]]
+**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
 <!-- graph:end -->

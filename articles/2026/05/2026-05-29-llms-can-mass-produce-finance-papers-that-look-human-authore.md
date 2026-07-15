@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
 - 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
+- 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
-- 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
 embedding_id: 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Recent academic work shows large language models can mass-produce finance papers
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]] · [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]]
+**Related:** [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]]
 <!-- graph:end -->

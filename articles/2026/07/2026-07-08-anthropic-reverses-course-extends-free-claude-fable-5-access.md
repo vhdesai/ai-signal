@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
+- 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
-- 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 embedding_id: 2026-07-08-anthropic-reverses-course-extends-free-claude-fable-5-access
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic had planned to move its flagship Claude Fable 5 model off standard sub
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]]
+**Related:** [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]]
 <!-- graph:end -->

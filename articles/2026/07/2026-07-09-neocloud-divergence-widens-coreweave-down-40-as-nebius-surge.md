@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 - 2026-04-10-industry-news
+- 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 embedding_id: 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave grew Q1 2026 revenue 111% to $2.08B but burned roughly $4.7B in free c
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-10-industry-news]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-10-industry-news]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
 <!-- graph:end -->

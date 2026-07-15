@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
+- 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 - 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
-- 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 embedding_id: 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI appointed Prabhjeet Singh, outgoing president of Uber India and South Asi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]]
+**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+- 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
 embedding_id: 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Two governance flashpoints surfaced this weekend: Mozilla raised concerns over G
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
+**Related:** [[2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]]
 <!-- graph:end -->

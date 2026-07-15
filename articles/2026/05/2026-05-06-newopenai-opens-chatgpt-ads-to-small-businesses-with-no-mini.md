@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
 - 2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b
-- 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 embedding_id: 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI launched a self-serve advertising platform for ChatGPT, removing the prev
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
+**Related:** [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b]]
 <!-- graph:end -->

@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
 - 2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th
+- 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 embedding_id: 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 event_name: ''
@@ -40,5 +41,5 @@ Anthropic is opening Claude Fable 5 access to all paid plans through July 12 and
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
+**Related:** [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-07-07-anthropic-extends-claude-fable-5-access-to-all-paid-plans-th]] · [[2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]]
 <!-- graph:end -->

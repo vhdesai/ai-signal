@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
-- 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
+- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 embedding_id: 2026-06-02-zerodrift-raises-10m-for-ai-runtime-compliance
 event_name: ''
 ---
@@ -35,5 +35,5 @@ ZeroDrift raised $10M for an AI compliance service that sits between models and 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
 <!-- graph:end -->
