@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
 - 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
+- 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
 embedding_id: 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 event_name: ''
 ---
@@ -38,5 +39,5 @@ At an internal town hall, Mark Zuckerberg reportedly told employees that AI agen
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]]
+**Related:** [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]]
 <!-- graph:end -->

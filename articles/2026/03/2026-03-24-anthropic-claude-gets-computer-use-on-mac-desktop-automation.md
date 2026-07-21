@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-24-anthropic-has-launched-computer-use-capabilities-inside-clau
 - 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-03-24-anthropic-claude-gets-computer-use-on-mac-desktop-automation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's Computer Use feature — in research preview for Claude Pro and Max 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-03-24-anthropic-has-launched-computer-use-capabilities-inside-clau]] · [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]]
 <!-- graph:end -->

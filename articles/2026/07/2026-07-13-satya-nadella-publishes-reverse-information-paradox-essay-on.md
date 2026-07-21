@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice
+- 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
-- 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 embedding_id: 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In an X essay that drew roughly 10M views, Microsoft’s CEO argued enterprises 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]]
+**Related:** [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice]] · [[2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]]
 <!-- graph:end -->

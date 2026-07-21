@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m
-- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
-- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
+- 2026-04-25-why-walmart-is-rolling-out-ai-to-2m-employees-2026-04-25-cio
+- 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
+- 2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be
+- 2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv
 embedding_id: 2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]]
+**Related:** [[2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m]] · [[2026-04-25-why-walmart-is-rolling-out-ai-to-2m-employees-2026-04-25-cio]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be]] · [[2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv]]
 <!-- graph:end -->

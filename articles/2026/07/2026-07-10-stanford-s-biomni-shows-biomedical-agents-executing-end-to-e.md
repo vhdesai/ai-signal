@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
 embedding_id: 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Stanford highlighted Biomni, a general-purpose biomedical AI co-scientist that c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
+**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-07-08-velocity-raises-27m-seed-for-ai-monetization-infrastructure
 event_name: ''
 ---
@@ -33,5 +34,5 @@ Velocity raised $27 million in seed funding led by NFX and Red Dot Capital Partn
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

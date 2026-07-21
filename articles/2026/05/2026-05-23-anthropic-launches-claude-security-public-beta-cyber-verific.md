@@ -24,11 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
-- 2026-07-11-claude-opus-4-7-is-now-generally-available
 embedding_id: 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
 event_name: ''
 ---
@@ -42,5 +41,5 @@ Alongside the Glasswing update, Anthropic announced Claude Security in public be
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]]
+**Related:** [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

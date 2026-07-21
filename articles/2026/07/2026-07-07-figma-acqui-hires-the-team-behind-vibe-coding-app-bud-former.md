@@ -22,7 +22,8 @@ related_article_ids:
 - 2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board
 - 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
-- 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
+- 2026-05-15-mistral-launches-remote-coding-agents-vibe-powered-by-medium
+- 2026-03-24-google-labs-march-18-update-transformed-stitch-from-a-simple
 embedding_id: 2026-07-07-figma-acqui-hires-the-team-behind-vibe-coding-app-bud-former
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Figma acqui-hired the team behind Bud (formerly Orchids), a Y Combinator-backed 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]]
+**Related:** [[2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board]] · [[2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-15-mistral-launches-remote-coding-agents-vibe-powered-by-medium]] · [[2026-03-24-google-labs-march-18-update-transformed-stitch-from-a-simple]]
 <!-- graph:end -->

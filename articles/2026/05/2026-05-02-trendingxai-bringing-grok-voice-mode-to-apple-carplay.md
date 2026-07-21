@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
+- 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
-- 2026-07-02-xai-launches-grok-voice-ai-agent-builder
-- 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
+- 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 embedding_id: 2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A placeholder app in the latest Grok iOS build confirms imminent CarPlay support
 ## Connections
 
 **Entities:** [[Apple]] · [[Perplexity]] · [[Tesla]] · [[xAI]]
-**Related:** [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]]
+**Related:** [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]]
 <!-- graph:end -->

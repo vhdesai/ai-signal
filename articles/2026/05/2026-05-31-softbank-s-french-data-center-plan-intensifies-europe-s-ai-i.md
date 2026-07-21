@@ -21,8 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 - 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
-- 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
+- 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
 embedding_id: 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 event_name: ''
 ---
@@ -35,5 +34,5 @@ SoftBank’s plan to invest tens of billions in French data centers adds another
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]]
+**Related:** [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]]
 <!-- graph:end -->

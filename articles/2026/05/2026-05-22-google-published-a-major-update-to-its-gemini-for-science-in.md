@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and
+- 2026-05-05-google-gemini-api-adds-event-driven-webhooks-robotics-model
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 - 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
-- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
-- 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
+- 2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese
 embedding_id: 2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Research & Talent CIOs Need a People Strategy to Scale AI, Not Just a Technology
 
 **Entities:** [[Google]] · [[Scale AI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr]]
+**Related:** [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-05-google-gemini-api-adds-event-driven-webhooks-robotics-model]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]] · [[2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese]]
 <!-- graph:end -->

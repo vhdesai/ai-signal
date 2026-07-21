@@ -23,11 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 - 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 - 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
-- 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
-- 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
-- 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
+- 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 embedding_id: 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 event_name: ''
 ---
@@ -40,5 +39,5 @@ A new pricing landscape emerged this week: Google cut AI Ultra from $250 to $200
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]] · [[xAI]]
-**Related:** [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]]
+**Related:** [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
 <!-- graph:end -->

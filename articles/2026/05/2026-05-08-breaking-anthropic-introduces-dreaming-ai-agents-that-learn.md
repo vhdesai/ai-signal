@@ -22,7 +22,10 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
-related_article_ids: []
+related_article_ids:
+- 2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio
+- 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
+- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
 embedding_id: 2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn
 event_name: ''
 ---
@@ -37,4 +40,5 @@ Anthropic shipped three major upgrades to its Claude Managed Agents platform: "D
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]]
+**Related:** [[2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio]] · [[2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]]
 <!-- graph:end -->

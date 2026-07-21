@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-04-openai-s-greg-brockman-argues-for-an-almost-no-interface-age
+- 2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
+- 2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str
 - 2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
 embedding_id: 2026-07-04-openai-s-brockman-sketches-an-almost-no-interface-future-bui
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI president Greg Brockman argued in a new interview that the product end-st
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
+**Related:** [[2026-07-04-openai-s-greg-brockman-argues-for-an-almost-no-interface-age]] · [[2026-07-04-openai-president-greg-brockman-made-the-case-for-a-future-wi]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str]] · [[2026-06-07-openai-plans-chatgpt-superapp-overhaul-chat-is-dead]]
 <!-- graph:end -->

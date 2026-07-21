@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
+- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic
-- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 embedding_id: 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI released GeneBench-Pro, a research-level benchmark measuring how AI agent
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
+**Related:** [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic]]
 <!-- graph:end -->

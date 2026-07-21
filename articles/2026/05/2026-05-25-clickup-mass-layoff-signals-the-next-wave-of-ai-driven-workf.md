@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
 - 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
+- 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
-- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 embedding_id: 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
 event_name: ''
 ---
@@ -39,5 +39,5 @@ ClickUp's mass layoff is being read by analysts as a leading indicator for how p
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
+**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]]
 <!-- graph:end -->

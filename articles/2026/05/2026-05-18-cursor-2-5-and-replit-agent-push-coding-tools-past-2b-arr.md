@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
+- 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
-- 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
-- 2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati
+- 2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso
 embedding_id: 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Cursor shipped Composer 2.5 on May 18 and is reportedly in talks for a fresh rou
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-04-17-breaking-cursor-in-advanced-talks-on-2b-round-at-50b-valuati]]
+**Related:** [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-18-spacex-and-xai-have-lined-up-an-acquisition-option-for-curso]]
 <!-- graph:end -->

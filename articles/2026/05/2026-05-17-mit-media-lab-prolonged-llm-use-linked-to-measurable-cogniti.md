@@ -22,11 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
+- 2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
-- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
-- 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 embedding_id: 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 event_name: ''
 ---
@@ -39,5 +38,5 @@ MIT Media Lab researchers (Kosmyna, Maes et al.) used EEG measurements to study 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
+**Related:** [[2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load]] · [[2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff]]
 <!-- graph:end -->

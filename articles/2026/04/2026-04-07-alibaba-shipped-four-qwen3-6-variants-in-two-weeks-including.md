@@ -25,11 +25,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim
 - 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
 - 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 - 2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 embedding_id: 2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Open-weight competition intensified: GLM-5.1 (Z.ai) briefly held the #1 SWE-benc
 
 **Entities:** [[Alibaba]] · [[Meta]] · [[Mistral]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
+**Related:** [[2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-06-western-chinese-ai-pricing-gap-reaches-5-25-alibaba-closes-m]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
-- 2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor
-- 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
+- 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
 embedding_id: 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reporting indicates GitHub Copilot's category lead is narrowing as Cursor, Anthr
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-18-xai-ships-grok-build-a-coding-agent-aimed-squarely-at-cursor]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]]
+**Related:** [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]]
 <!-- graph:end -->

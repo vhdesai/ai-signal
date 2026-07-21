@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 - 2026-05-22-deepseek-v4-pro-makes-its-75-discount-permanent
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-- 2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 embedding_id: 2026-04-16-v4-pro-is-a-2t-parameter-moe-49b-active-with-a-1m-context-gp
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]] · [[2026-05-22-deepseek-v4-pro-makes-its-75-discount-permanent]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex]]
+**Related:** [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]] · [[2026-05-22-deepseek-v4-pro-makes-its-75-discount-permanent]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]]
 <!-- graph:end -->

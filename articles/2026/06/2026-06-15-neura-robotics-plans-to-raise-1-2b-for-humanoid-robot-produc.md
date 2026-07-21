@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
+- 2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
-- 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 embedding_id: 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
 event_name: ''
 ---
@@ -38,5 +37,5 @@ German startup Neura Robotics said it plans to raise up to €1B ($1.2B) in a ne
 
 **Entities:** [[OpenAI]] · [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]]
+**Related:** [[2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

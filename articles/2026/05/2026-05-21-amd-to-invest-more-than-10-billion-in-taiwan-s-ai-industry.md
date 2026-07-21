@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
 - 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
 - 2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest
+- 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 - 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
-- 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 embedding_id: 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 event_name: ''
 ---
@@ -41,5 +41,5 @@ AMD announced more than $10 billion in capital commitments across Taiwan's semic
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation]]
+**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-05-28-nvidia-plans-new-taiwan-hq-and-100-150b-annual-taiwan-invest]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]]
 <!-- graph:end -->

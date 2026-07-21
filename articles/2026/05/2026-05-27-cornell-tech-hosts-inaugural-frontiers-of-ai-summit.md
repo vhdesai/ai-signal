@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o
+- 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 - 2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three
-- 2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co
-- 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
+- 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 embedding_id: 2026-05-27-cornell-tech-hosts-inaugural-frontiers-of-ai-summit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cornell Tech opened its inaugural Frontiers of AI Summit today, with keynotes fr
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]] · [[2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co]] · [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]]
+**Related:** [[2026-05-27-princeton-s-sanjeev-arora-headlines-cornell-tech-frontiers-o]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-05-18-new-cornell-ai-initiative-opens-community-centered-ai-three]] · [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]]
 <!-- graph:end -->

@@ -22,14 +22,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap
-- 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-modal-rais
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
-- 2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
+related_article_ids: []
 embedding_id: 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 event_name: ''
 ---
@@ -43,5 +38,5 @@ AI gateway startup OpenRouter announced a $113M Series B led by CapitalG at a ~$
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap]] · [[2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-modal-rais]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]]
+**Canonical:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
 <!-- graph:end -->

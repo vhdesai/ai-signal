@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
 - 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-- 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state
 embedding_id: 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 event_name: ''
 ---
@@ -43,5 +43,5 @@ DeepSeek — the Chinese AI lab that disrupted Western AI markets with its effic
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
+**Related:** [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state]]
 <!-- graph:end -->

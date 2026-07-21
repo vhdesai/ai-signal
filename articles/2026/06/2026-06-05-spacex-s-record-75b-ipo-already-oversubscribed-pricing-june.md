@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 - 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
+- 2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne
 - 2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1
-- 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
 embedding_id: 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 event_name: ''
 ---
@@ -39,5 +39,5 @@ SpaceX's $75B offering — 555.55M shares at $135 — is oversubscribed. Morgan 
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]]
+**Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne]] · [[2026-05-09-cerebras-ipo-reportedly-20x-oversubscribed-range-lifted-to-1]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 - 2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
+- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 embedding_id: 2026-07-11-terence-tao-resurrects-two-dozen-1999-math-applets-using-an
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Fields Medalist Terence Tao ported ~24 defunct Java 1.0 applets to JavaScript in
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
+**Related:** [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-16-1-3m-month-ai-coding-team-100-codex-agents-on-one-open-sourc]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]]
 <!-- graph:end -->

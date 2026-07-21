@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
+- 2026-05-08-stanford-hai-2026-ai-index-industry-now-produces-90-of-notab
 embedding_id: 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Stanford HAI's 2026 AI Index Report was prominently re-circulated this week. Key
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]] · [[2026-05-08-stanford-hai-2026-ai-index-industry-now-produces-90-of-notab]]
 <!-- graph:end -->

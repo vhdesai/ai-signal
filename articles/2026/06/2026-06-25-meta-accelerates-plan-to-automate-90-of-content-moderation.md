@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 - 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
+- 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 embedding_id: 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Per Financial Times reporting summarized this Thursday, Meta has shifted roughly
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]]
+**Related:** [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]]
 <!-- graph:end -->

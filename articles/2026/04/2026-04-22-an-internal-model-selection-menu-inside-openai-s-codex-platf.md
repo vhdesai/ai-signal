@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-model-releases-previews
 - 2026-04-15-model-releases
+- 2026-04-16-openai-unveiled-gpt-5-4-cyber-a-variant-of-its-flagship-mode
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-- 2026-04-23-
-- 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
+- 2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia
 embedding_id: 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Anthropic Investigates Unauthorized Access to Unreleased "Claude Mythos" Model
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-22-model-releases-previews]] · [[2026-04-15-model-releases]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-23-]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]]
+**Related:** [[2026-04-22-model-releases-previews]] · [[2026-04-15-model-releases]] · [[2026-04-16-openai-unveiled-gpt-5-4-cyber-a-variant-of-its-flagship-mode]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia]]
 <!-- graph:end -->

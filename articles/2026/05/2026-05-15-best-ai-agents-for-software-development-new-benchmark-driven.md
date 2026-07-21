@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
+- 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
+- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
-- 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
 embedding_id: 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 event_name: ''
 ---
@@ -35,5 +36,5 @@ MarkTechPost published a comprehensive benchmark-driven ranking of AI coding age
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]]
+**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]]
 <!-- graph:end -->

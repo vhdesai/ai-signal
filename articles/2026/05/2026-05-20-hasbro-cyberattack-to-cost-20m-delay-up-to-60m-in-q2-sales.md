@@ -20,7 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-wsj-cyber-coverage-includes-23andme-s-18m-data-breach-settle
 - 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
+- 2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18
+- 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
 embedding_id: 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
 event_name: ''
 ---
@@ -33,5 +36,5 @@ Hasbro disclosed that its March data breach will cost roughly $20 million in leg
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]]
+**Related:** [[2026-07-17-wsj-cyber-coverage-includes-23andme-s-18m-data-breach-settle]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]]
 <!-- graph:end -->

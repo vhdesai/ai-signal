@@ -24,10 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
+- 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
-- 2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
 embedding_id: 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 event_name: ''
 ---
@@ -41,5 +40,5 @@ AMD CEO Lisa Su revised the company's server CPU market growth projection from 1
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
+**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]]
 <!-- graph:end -->

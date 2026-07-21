@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
-- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
-- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+- 2026-05-18-openai-established-the-openai-deployment-company-a-majority
+- 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 embedding_id: 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced the OpenAI Partner Network, a new program for partners worldwid
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
+**Related:** [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
 <!-- graph:end -->

@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p
 - 2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex
 - 2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
+- 2026-05-18-intel-nvidia-partnership-custom-x86-cpus-with-integrated-rtx
 embedding_id: 2026-06-01-nvidia-enters-the-windows-pc-market-with-the-rtx-spark-super
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Nvidia unveiled its RTX Spark superchip at Computex 2026, pairing a Grace-class 
 
 **Entities:** [[AMD]] · [[Arm]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]]
+**Related:** [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-windows-ai-pc]] · [[2026-06-01-nvidia-unveils-rtx-spark-superchip-reinventing-the-windows-p]] · [[2026-06-01-nvidia-unveils-rtx-spark-ai-pc-platform-at-computex]] · [[2026-06-01-nvidia-enters-windows-pc-market-with-arm-based-ai-chip]] · [[2026-05-18-intel-nvidia-partnership-custom-x86-cpus-with-integrated-rtx]]
 <!-- graph:end -->

@@ -24,14 +24,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
-- 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-- 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
+dedupe_status: duplicate
+canonical_article_id: 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
+related_article_ids: []
 embedding_id: 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 event_name: ''
 ---
@@ -45,5 +40,5 @@ Anthropic published its first public update on Project Glasswing, disclosing tha
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]]
+**Canonical:** [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
+- 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
-- 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 embedding_id: 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
 event_name: ''
 ---
@@ -38,5 +38,5 @@ NVIDIA released Nemotron-Labs-TwoTower, a block-wise diffusion language model th
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]]
+**Related:** [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]]
 <!-- graph:end -->

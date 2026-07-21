@@ -22,7 +22,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
+canonical_article_id: 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
 related_article_ids: []
 embedding_id: 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
 event_name: ''
@@ -37,5 +37,5 @@ AI inference chipmaker Cerebras Systems opened at $350 a share on Nasdaq Thursda
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech]]
+**Canonical:** [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]]
 <!-- graph:end -->

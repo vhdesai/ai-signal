@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
+- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-05-15-amazon-s-secret-titus-project-future-proofs-data-centers-for
-- 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
+- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 embedding_id: 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Amazon's long-running effort to build a credible Nvidia alternative is gaining t
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-15-amazon-s-secret-titus-project-future-proofs-data-centers-for]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]]
+**Related:** [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
 <!-- graph:end -->

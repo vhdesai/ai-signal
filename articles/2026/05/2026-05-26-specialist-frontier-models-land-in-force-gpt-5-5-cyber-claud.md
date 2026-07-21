@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
 - 2026-04-15-model-releases
+- 2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b
+- 2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
-- 2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
-- 2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams
 embedding_id: 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
 event_name: ''
 ---
@@ -45,5 +45,5 @@ The May model wave is intensifying rather than slowing. OpenAI is rolling out GP
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-05-07-newopenai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]]
+**Related:** [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-04-15-model-releases]] · [[2026-05-08-openai-unveiled-gpt-5-5-cyber-on-may-7-a-specialized-model-b]] · [[2026-05-09-openai-began-limited-preview-access-to-gpt-5-5-cyber-a-varia]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]]
 <!-- graph:end -->

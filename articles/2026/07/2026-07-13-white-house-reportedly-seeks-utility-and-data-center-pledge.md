@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
@@ -36,5 +37,5 @@ Reuters reports the White House is preparing to rally utilities and data-center 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]]
+**Related:** [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]]
 <!-- graph:end -->

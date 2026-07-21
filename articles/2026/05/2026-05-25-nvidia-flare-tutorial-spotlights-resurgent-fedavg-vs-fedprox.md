@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 - 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
-- 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
 embedding_id: 2026-05-25-nvidia-flare-tutorial-spotlights-resurgent-fedavg-vs-fedprox
 event_name: ''
 ---
@@ -39,5 +39,5 @@ MarkTechPost published a hands-on guide comparing FedAvg and FedProx federated-l
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]]
+**Related:** [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]]
 <!-- graph:end -->

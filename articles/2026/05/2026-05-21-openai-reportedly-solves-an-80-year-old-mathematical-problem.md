@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 - 2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
 - 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
@@ -36,5 +37,5 @@ The Rundown AI's May 21 newsletter flagged that OpenAI has produced a mathematic
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
+**Related:** [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-05-21-openai-s-frontier-system-autonomously-cracks-an-80-year-old]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-23-google-deepmind-invests-75m-in-film-studio-a24
 - 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 - 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
+- 2026-05-08-google-deepmind-s-alphaevolve-graduates-from-lab-to-enterpri
 - 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 embedding_id: 2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind's first-ever stake in a film studio — a "first-of-its-kind" re
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
+**Related:** [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-05-08-google-deepmind-s-alphaevolve-graduates-from-lab-to-enterpri]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
 <!-- graph:end -->

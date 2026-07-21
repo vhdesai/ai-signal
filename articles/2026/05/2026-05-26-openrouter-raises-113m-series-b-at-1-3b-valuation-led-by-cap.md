@@ -18,8 +18,9 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
-related_article_ids: []
+canonical_article_id: 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
+related_article_ids:
+- 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-modal-rais
 embedding_id: 2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-led-by-cap
 event_name: ''
 ---
@@ -32,5 +33,6 @@ Model router OpenRouter raised a $113M Series B at a $1.3B valuation led by Alph
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]]
+**Canonical:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
+**Related:** [[2026-05-26-openrouter-raises-113m-series-b-at-1-3b-valuation-modal-rais]]
 <!-- graph:end -->

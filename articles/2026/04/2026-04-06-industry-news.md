@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar
+- 2026-05-23-anthropic-s-record-week-200b-google-cloud-deal-spacex-comput
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
-- 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
-- 2026-04-22-industry-news-deals
-- 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
-- 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
+- 2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s
+- 2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl
 embedding_id: 2026-04-06-industry-news
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic Hits $30B Revenue Run Rate; Signs Landmark 3.5 GW TPU Deal with Google
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-04-22-industry-news-deals]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]]
+**Related:** [[2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar]] · [[2026-05-23-anthropic-s-record-week-200b-google-cloud-deal-spacex-comput]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-15-for-the-first-time-anthropic-has-overtaken-openai-in-u-s]] · [[2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl]]
 <!-- graph:end -->

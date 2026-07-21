@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
+- 2026-07-19-openai-cfo-sarah-friar-s-ai-scorecard-and-other-roi-framewor
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
 - 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
-- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 embedding_id: 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Four-time CFO Amy Butte (NYSE, Navan) tells Business Insider that AI is forcing 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]]
+**Related:** [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-19-openai-cfo-sarah-friar-s-ai-scorecard-and-other-roi-framewor]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]]
 <!-- graph:end -->

@@ -19,14 +19,9 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
-- 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
-- 2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d
+dedupe_status: duplicate
+canonical_article_id: 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
+related_article_ids: []
 embedding_id: 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
 event_name: ''
 ---
@@ -40,5 +35,5 @@ Cursor — the AI coding platform whose parent, Anysphere, agreed to a roughly $
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-07-13-cursor-is-building-sand-a-general-purpose-ai-agent-for-non-d]]
+**Canonical:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]]
 <!-- graph:end -->

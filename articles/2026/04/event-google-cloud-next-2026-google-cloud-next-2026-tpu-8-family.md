@@ -27,8 +27,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight
 - event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
+- 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
-- event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
 embedding_id: event-google-cloud-next-2026-google-cloud-next-2026-tpu-8-family
 event_name: Google Cloud Next 2026
 ---
@@ -42,5 +42,5 @@ Google Cloud announced an eighth-generation TPU family split between training an
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]]
+**Related:** [[2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]]
 <!-- graph:end -->

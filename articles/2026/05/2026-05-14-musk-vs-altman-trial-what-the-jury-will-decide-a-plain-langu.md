@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
-- 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
-- 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
-- 2026-04-13-industry-news
+- 2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake
+- 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 embedding_id: 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ With the Musk v. Altman civil trial entering its evidence phase, TechCrunch publ
 ## Connections
 
 **Entities:** [[OpenAI]] · [[xAI]]
-**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]]
 <!-- graph:end -->

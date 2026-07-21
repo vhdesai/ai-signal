@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-acm-cais-2026-acm-cais-2026-tressoir
+- 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
+- 2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy
 - event-acm-cais-2026-acm-cais-2026-strategic-implications
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 embedding_id: 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
 event_name: ''
 ---
@@ -35,5 +35,5 @@ MIT researchers published Tressoir at CAIS 2026 — a system that jointly design
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[event-acm-cais-2026-acm-cais-2026-tressoir]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-tressoir]] · [[2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies]] · [[2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]]
 <!-- graph:end -->

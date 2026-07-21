@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
+- 2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a
 - 2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri
-- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 embedding_id: 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Uber has imposed caps on employee AI tool spending after burning through its ful
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
+**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a]] · [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]]
 <!-- graph:end -->

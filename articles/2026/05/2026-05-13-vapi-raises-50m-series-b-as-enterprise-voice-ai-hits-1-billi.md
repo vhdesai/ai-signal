@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
+- 2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o
+- 2026-07-15-rime-raises-24m-to-improve-enterprise-voice-ai-calls
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
-- 2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 embedding_id: 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Voice-agent platform Vapi closed a $50M Series B led by Peak XV, with participat
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-18-dust-closes-40m-series-b-for-enterprise-human-agent-collabor]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract]] · [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-07-15-rime-raises-24m-to-improve-enterprise-voice-ai-calls]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]]
 <!-- graph:end -->

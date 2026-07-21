@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-05-07-shi-international-ai-ready-data-governance-for-cios-high-val
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-- 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
 embedding_id: 2026-07-09-microsoft-s-brad-smith-regulation-without-transparent-or-com
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Speaking to Fortune on the sidelines of the AI for Good Global Summit, Microsoft
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]]
+**Related:** [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-07-shi-international-ai-ready-data-governance-for-cios-high-val]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
 <!-- graph:end -->

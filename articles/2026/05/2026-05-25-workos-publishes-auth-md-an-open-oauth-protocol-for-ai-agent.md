@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
+- 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
-- 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 embedding_id: 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
 event_name: ''
 ---
@@ -35,5 +35,5 @@ WorkOS opened a proposed standard for registering AI agents as OAuth clients wit
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]]
+**Related:** [[2026-05-25-workos-releases-auth-md-open-agent-registration-protocol-on]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]]
 <!-- graph:end -->

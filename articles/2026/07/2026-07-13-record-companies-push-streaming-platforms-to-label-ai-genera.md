@@ -18,10 +18,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor
+- 2026-07-13-coalition-of-groups-representing-music-labels-and-artists-sa
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
-- 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
-- 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
 embedding_id: 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A coalition representing music labels and artists is pushing streaming platforms
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]]
+**Related:** [[2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor]] · [[2026-07-13-coalition-of-groups-representing-music-labels-and-artists-sa]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]]
 <!-- graph:end -->

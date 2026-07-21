@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
+- 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 - 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
-- 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
-- 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 embedding_id: 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reuters reported that Anthropic—which had been blacklisted by the White House�
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]]
+**Related:** [[2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
 <!-- graph:end -->

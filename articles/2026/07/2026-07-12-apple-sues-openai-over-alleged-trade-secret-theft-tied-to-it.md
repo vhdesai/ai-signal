@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
 - 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
-- 2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op
+- 2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate
 embedding_id: 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple filed a federal complaint in the Northern District of California accusing 
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]]
+**Related:** [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate]]
 <!-- graph:end -->

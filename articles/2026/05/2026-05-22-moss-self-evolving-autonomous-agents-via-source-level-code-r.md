@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
+- 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
-- 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 embedding_id: 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MOSS proposes self-evolution via source-level code rewriting inside autonomous a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]]
+**Related:** [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
 <!-- graph:end -->

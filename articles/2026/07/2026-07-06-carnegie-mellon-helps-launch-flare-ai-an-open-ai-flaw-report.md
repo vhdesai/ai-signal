@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting
 - 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin
+- 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
-- 2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m
 embedding_id: 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at Carnegie Mellon's Software Engineering Institute, with academic, 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]]
+**Related:** [[2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]]
 <!-- graph:end -->

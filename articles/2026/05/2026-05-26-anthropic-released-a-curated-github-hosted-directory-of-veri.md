@@ -26,7 +26,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
+canonical_article_id: 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 related_article_ids: []
 embedding_id: 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 event_name: ''
@@ -41,5 +41,5 @@ OpenAI ships ChatGPT add-in for Microsoft PowerPoint
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Canonical:** [[2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow]]
+**Canonical:** [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
 <!-- graph:end -->

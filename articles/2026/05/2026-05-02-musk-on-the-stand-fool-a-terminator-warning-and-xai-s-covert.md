@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-04-13-industry-news
+- 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
-- 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
-- 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
-- 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 embedding_id: 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Week one of the Musk vs. OpenAI trial concluded with Musk on the stand in Oaklan
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-04-13-industry-news]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
 <!-- graph:end -->

@@ -24,9 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
+- 2026-07-16-deepseek-price-cuts-do-not-necessarily-solve-enterprise-agen
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 - 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
-- 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
+- 2026-07-16-venturebeat-2026-07-16-external-deepseek-s-price-cut-won-t-s
 embedding_id: 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 event_name: ''
 ---
@@ -40,5 +41,5 @@ VentureBeat analyzed DeepSeek's 75% price cut on its V4-Pro model, arguing the r
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]]
+**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-07-16-deepseek-price-cuts-do-not-necessarily-solve-enterprise-agen]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-07-16-venturebeat-2026-07-16-external-deepseek-s-price-cut-won-t-s]]
 <!-- graph:end -->

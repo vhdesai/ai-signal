@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo
+- 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+- 2026-06-21-nadella-warns-ai-industry-there-is-no-societal-permission-fo
 - 2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat
-- 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
-- 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 embedding_id: 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
+**Related:** [[2026-06-20-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-06-21-nadella-warns-ai-industry-there-is-no-societal-permission-fo]] · [[2026-06-10-microsoft-s-xbox-unit-plans-staff-cuts-as-margins-deteriorat]]
 <!-- graph:end -->

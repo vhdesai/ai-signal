@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s
 - 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
 - 2026-07-06-xai-officially-rebrands-to-spacexai
-- 2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks
+- 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 embedding_id: 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI, the maker of the Grok chatbot, has been rebranded as SpaceXAI, consolidatin
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex]] · [[2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-06-xai-officially-rebrands-to-spacexai]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]]
+**Related:** [[2026-07-06-xai-rebrands-as-spacexai-folding-grok-fully-into-spacex]] · [[2026-07-06-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-06-xai-officially-rebrands-to-spacexai]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]]
 <!-- graph:end -->

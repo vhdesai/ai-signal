@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to
 - 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 - 2026-07-07-meta-launches-muse-image-generator
+- 2026-07-16-meta-says-it-will-alert-parents-when-teens-discuss-self-harm
 - 2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse
-- 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
-- 2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig
 embedding_id: 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 event_name: ''
 ---
@@ -45,5 +45,5 @@ RAG-Anything: Universal Retrieval-Augmented Generation Framework Released
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-07-meta-launches-muse-image-generator]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig]]
+**Related:** [[2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to]] · [[2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima]] · [[2026-07-07-meta-launches-muse-image-generator]] · [[2026-07-16-meta-says-it-will-alert-parents-when-teens-discuss-self-harm]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]]
 <!-- graph:end -->

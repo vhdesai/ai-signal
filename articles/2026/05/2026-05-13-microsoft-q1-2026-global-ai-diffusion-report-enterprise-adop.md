@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
+- 2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e
+- 2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working
 embedding_id: 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's Q1 2026 Global AI Diffusion Report shows enterprise AI adoption cont
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-05-21-microsoft-ey-deepen-1b-alliance-scaling-copilot-to-400-000-e]]
+**Related:** [[2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
+- 2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
-- 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
-- 2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b
 embedding_id: 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks made ai_parse_document — its function for extracting structured con
 
 **Entities:** [[Databricks]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]] · [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b]]
+**Related:** [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]]
 <!-- graph:end -->

@@ -25,7 +25,8 @@ related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le
+- 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
+- 2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide
 embedding_id: 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 event_name: ''
 ---
@@ -38,5 +39,5 @@ CIO Dive reported that executives and employees are clashing over AI usage polic
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-03-30-jpmorgan-tracks-employee-ai-usage-financial-ai-governance-le]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]]
 <!-- graph:end -->

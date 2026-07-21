@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
+- 2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek
+- 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 embedding_id: 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information reported that Alibaba’s T-Head unit unveiled the Zhenwu M890 c
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
+**Related:** [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]]
 <!-- graph:end -->

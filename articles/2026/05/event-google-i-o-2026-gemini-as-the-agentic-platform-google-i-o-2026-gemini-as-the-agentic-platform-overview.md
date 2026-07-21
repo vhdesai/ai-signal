@@ -29,7 +29,7 @@ related_article_ids:
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
 - event-google-i-o-2026-google-i-o-2026-overview
 - event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform
-- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
+- 2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use
 embedding_id: event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
 event_name: 'Google I/O 2026: Gemini as the Agentic Platform'
 ---
@@ -43,5 +43,5 @@ Google I/O 2026 was the newsletter corpus's most frequently recurring platform e
 
 **Entities:** [[Adobe]] · [[Apple]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[event-google-i-o-2026-google-i-o-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
+**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[event-google-i-o-2026-google-i-o-2026-overview]] · [[event-google-cloud-next-2026-google-cloud-next-2026-gemini-enterprise-agent-platform]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]]
 <!-- graph:end -->

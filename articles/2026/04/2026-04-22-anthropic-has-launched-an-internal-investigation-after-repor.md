@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
+- 2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap
 embedding_id: 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 event_name: ''
 ---
@@ -44,5 +44,5 @@ xAI Training 10-Trillion Parameter Model on Colossus 2 Cluster
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]] · [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap]]
 <!-- graph:end -->

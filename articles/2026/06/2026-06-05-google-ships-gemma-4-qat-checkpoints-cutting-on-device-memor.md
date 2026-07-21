@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t
 - 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
-- 2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
+- 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
+- 2026-04-04-google-releases-gemma-4-most-capable-open-models-to-date
 embedding_id: 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google released quantization-aware-training (QAT) versions of Gemma 4 across fiv
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t]] · [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop]] · [[2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]]
+**Related:** [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t]] · [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop]] · [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-04-04-google-releases-gemma-4-most-capable-open-models-to-date]]
 <!-- graph:end -->

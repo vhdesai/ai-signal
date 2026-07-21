@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 - 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
 - 2026-04-15-research-breakthroughs
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
+- 2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work
 embedding_id: 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Berkeley AI Research published new work this week on lightweight verifier models
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]] · [[2026-04-15-research-breakthroughs]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
+**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]] · [[2026-04-15-research-breakthroughs]] · [[2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work]]
 <!-- graph:end -->

@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai
+- 2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
-- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
-- 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 embedding_id: 2026-07-11-compromised-jscrambler-npm-release-drops-a-rust-infostealer
 event_name: ''
 ---
@@ -38,5 +37,5 @@ The official jscrambler npm package was compromised across several releases; a p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]]
+**Related:** [[2026-07-11-compromised-npm-package-drops-rust-infostealer-targeting-ai]] · [[2026-04-04-an-npm-packaging-error-exposed-512-000-lines-of-claude-code]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]]
 <!-- graph:end -->

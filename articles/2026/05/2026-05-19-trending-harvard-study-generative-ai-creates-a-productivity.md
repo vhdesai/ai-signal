@@ -21,10 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
+- 2026-05-18-arxiv-generative-ai-drives-solo-entrepreneurship-surge-but-t
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
-- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Lihi Idan and Bharat Anand (Harvard) examine how generative AI's productivity ef
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-18-arxiv-generative-ai-drives-solo-entrepreneurship-surge-but-t]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust]]
 <!-- graph:end -->

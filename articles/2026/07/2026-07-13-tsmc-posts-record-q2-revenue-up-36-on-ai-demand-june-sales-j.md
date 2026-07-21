@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip
 - 2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as
+- 2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest
+- 2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest
 - 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
-- 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
-- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
-- 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 embedding_id: 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TSMC reported second‑quarter revenue of NT$1.27 trillion (~$39.6B), up 36% yea
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as]] · [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]]
+**Related:** [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip]] · [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as]] · [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]]
 <!-- graph:end -->

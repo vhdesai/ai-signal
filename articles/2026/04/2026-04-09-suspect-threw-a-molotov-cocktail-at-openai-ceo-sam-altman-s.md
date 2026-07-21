@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i
 - 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
+- 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i
-- 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
-- 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
+- 2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su
 embedding_id: 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Florida AG Opens Formal Investigation Into OpenAI Over Alleged ChatGPT Role in F
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]]
+**Related:** [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su]]
 <!-- graph:end -->

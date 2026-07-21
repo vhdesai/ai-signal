@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
+- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Stanford HAI 2026 AI Index documents an unambiguous acceleration in AI capab
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]]
 <!-- graph:end -->

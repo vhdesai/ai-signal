@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-04-15-research-breakthroughs
+- 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
-- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
-- 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 embedding_id: 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Researchers from MIT CSAIL and Stanford HAI jointly released new evaluation suit
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-15-research-breakthroughs]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]]
+**Related:** [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-04-15-research-breakthroughs]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]]
 <!-- graph:end -->

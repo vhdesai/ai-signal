@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
+- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 embedding_id: 2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Two Virginia Tech computer scientists published RNAbpFlow in Nature Methods, a f
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]]
+**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]]
 <!-- graph:end -->

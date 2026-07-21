@@ -26,8 +26,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr
-- 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 embedding_id: 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Pentagon announced classified AI agreements with Microsoft, Amazon Web Servi
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
+**Related:** [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr]]
 <!-- graph:end -->

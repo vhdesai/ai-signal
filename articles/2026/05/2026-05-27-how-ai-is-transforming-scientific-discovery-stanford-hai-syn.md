@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis
+- 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 embedding_id: 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Stanford HAI's recap of the May 5 AI+Science conference documents three concrete
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]]
+**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

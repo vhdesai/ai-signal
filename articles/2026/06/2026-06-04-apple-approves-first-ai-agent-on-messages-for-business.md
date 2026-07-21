@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
+- 2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si
 - 2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
-- 2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea
-- 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
+- 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
 embedding_id: 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple approved Poke as the first AI agent on Messages for Business, enabling con
 
 **Entities:** [[Apple]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea]] · [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]]
+**Related:** [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si]] · [[2026-05-28-weave-launches-ai-receptionist-on-google-gemini-enterprise-a]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]]
 <!-- graph:end -->

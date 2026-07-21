@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
+- 2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to
 - 2026-04-08-source-forbes-msn-the-neuron
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
-- 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
-- 2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api
 embedding_id: 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Administration officials are urging Meta to join a voluntary program giving fede
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-06-04-meta-keeps-delaying-the-muse-spark-developer-api]]
+**Related:** [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]]
 <!-- graph:end -->

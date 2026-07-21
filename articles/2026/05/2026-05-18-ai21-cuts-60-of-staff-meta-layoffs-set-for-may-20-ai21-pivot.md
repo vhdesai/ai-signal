@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
+- 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 - 2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
 embedding_id: 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI21 Labs announced a ~60% workforce reduction as it pivots from foundation-mode
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]]
+**Related:** [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-21-meta-cuts-8-000-jobs-tells-employees-ai-agents-will-primaril]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

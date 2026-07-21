@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
+- 2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting
+- 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
 - 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
-- 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
-- 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu
 embedding_id: 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 event_name: ''
 ---
@@ -42,5 +42,5 @@ SpaceX has filed plans for a $55B semiconductor fabrication facility in Texas du
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]]
+**Related:** [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]]
 <!-- graph:end -->

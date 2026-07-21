@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
+- 2026-05-18-google-tpu-compute-crunch-internal-deepmind-researchers-now
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
-- 2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
+- 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
 embedding_id: 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Sources inside Google report that internal competition for TPU allocations has i
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-04-22-at-google-cloud-next-in-las-vegas-google-announced-its-eight]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-05-18-google-tpu-compute-crunch-internal-deepmind-researchers-now]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]]
 <!-- graph:end -->

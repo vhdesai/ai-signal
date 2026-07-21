@@ -23,10 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
-- 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
+- 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
 - 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr
 embedding_id: 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 event_name: ''
 ---
@@ -40,5 +38,5 @@ Claude Mythos Preview flagged 23,019 potential open-source vulnerabilities, with
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-06-02-anthropic-expands-project-glasswing-to-150-organizations-acr]]
+**Related:** [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]]
 <!-- graph:end -->

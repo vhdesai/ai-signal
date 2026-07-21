@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-asian-labs-ship-mythos-class-rivals-to-exploit-anthropic-s-e
+- 2026-06-27-with-anthropic-s-most-advanced-models-export-restricted-chin
 - 2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model
 - 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
-- 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
-- 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
+- 2026-06-27-a-3-s-trending-asian-ai-startups-launch-mythos-like-models-a
 embedding_id: 2026-06-27-asian-labs-rush-out-mythos-class-rivals-as-the-u-s-export-ba
 event_name: ''
 ---
@@ -39,5 +39,5 @@ With Anthropic's Mythos 5 and Fable 5 still restricted, two Asian labs moved to 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-27-asian-labs-ship-mythos-class-rivals-to-exploit-anthropic-s-e]] · [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]]
+**Related:** [[2026-06-27-asian-labs-ship-mythos-class-rivals-to-exploit-anthropic-s-e]] · [[2026-06-27-with-anthropic-s-most-advanced-models-export-restricted-chin]] · [[2026-06-19-commerce-department-claims-unprecedented-power-over-ai-model]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-06-27-a-3-s-trending-asian-ai-startups-launch-mythos-like-models-a]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr
 - 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
-- 2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl
-- 2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by
+- 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 embedding_id: 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A synthesis of current labor-market data finds no broad evidence of AI-driven di
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-16-study-frontier-models-can-t-agree-on-which-jobs-ai-will-repl]] · [[2026-06-29-stanford-ai-hiring-tools-show-racial-bias-that-hides-job-by]]
+**Related:** [[2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]]
 <!-- graph:end -->

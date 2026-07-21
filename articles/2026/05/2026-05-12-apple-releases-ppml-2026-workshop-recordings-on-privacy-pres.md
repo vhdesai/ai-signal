@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
+- 2026-05-02-may-1-2026-apple-ml-research
+- 2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
-- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
-- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 embedding_id: 2026-05-12-apple-releases-ppml-2026-workshop-recordings-on-privacy-pres
 event_name: ''
 ---
@@ -41,5 +41,5 @@ European technology media picked up Apple's published recordings and 24-paper re
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]]
+**Related:** [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-02-may-1-2026-apple-ml-research]] · [[2026-04-20-apple-ml-research-april-17-2026-apple-announced-a-slate-of-a]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]]
 <!-- graph:end -->

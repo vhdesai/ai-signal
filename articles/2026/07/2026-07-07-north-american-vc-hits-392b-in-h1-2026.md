@@ -20,8 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
 - 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
-- 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
+- 2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up
 embedding_id: 2026-07-07-north-american-vc-hits-392b-in-h1-2026
 event_name: ''
 ---
@@ -34,5 +35,5 @@ North American venture capital investment reached $392 billion in the first half
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
+**Related:** [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]]
 <!-- graph:end -->

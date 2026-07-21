@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
-- 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
+- 2026-06-30-amazon-explores-openai-and-other-vendors-as-anthropic-moves
 embedding_id: 2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Clive Chan — second hardware hire on OpenAI's chip program, ex-Tesla Autopilot
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]]
+**Related:** [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-06-30-amazon-explores-openai-and-other-vendors-as-anthropic-moves]]
 <!-- graph:end -->

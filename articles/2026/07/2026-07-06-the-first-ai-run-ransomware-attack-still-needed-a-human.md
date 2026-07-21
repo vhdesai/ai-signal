@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-06-security-researchers-document-jadepuffer-described-as-the-fi
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
-- 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
+- 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 embedding_id: 2026-07-06-the-first-ai-run-ransomware-attack-still-needed-a-human
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported that Sysdig's JadePuffer incident involved an AI agent execu
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]]
+**Related:** [[2026-07-06-security-researchers-document-jadepuffer-described-as-the-fi]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]]
 <!-- graph:end -->

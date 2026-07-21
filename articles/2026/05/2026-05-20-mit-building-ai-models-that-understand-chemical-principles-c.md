@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
+- 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
 embedding_id: 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT profiles Associate Professor Connor Coley (Chemical Engineering / EECS / MIT
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
+**Related:** [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]]
 <!-- graph:end -->

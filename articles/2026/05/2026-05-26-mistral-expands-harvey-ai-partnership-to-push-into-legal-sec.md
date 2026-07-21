@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 - 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
-- 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 embedding_id: 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Mistral is expanding its tie-up with legal-tech leader Harvey AI to capture a se
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
+**Related:** [[2026-05-27-mistral-and-harvey-expand-legal-ai-partnership]] · [[2026-05-26-trending-mistral-expands-into-legal-sector-via-enlarged-harv]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]]
 <!-- graph:end -->

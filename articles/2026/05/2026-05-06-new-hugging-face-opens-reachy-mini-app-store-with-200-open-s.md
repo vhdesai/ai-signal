@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
 - 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
 - 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
-- 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 embedding_id: 2026-05-06-new-hugging-face-opens-reachy-mini-app-store-with-200-open-s
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Hugging Face launched the Reachy Mini App Store, a free, community-built marketp
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]]
+**Related:** [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]]
 <!-- graph:end -->

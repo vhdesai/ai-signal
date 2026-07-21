@@ -25,10 +25,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
 - 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
-- 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
 embedding_id: 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Cyber leaders brace for lax AI oversight
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke]]
+**Related:** [[2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]]
 <!-- graph:end -->

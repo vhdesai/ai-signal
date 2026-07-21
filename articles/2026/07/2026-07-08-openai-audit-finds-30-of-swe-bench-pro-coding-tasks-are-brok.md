@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks
 - 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
+- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 embedding_id: 2026-07-08-openai-audit-finds-30-of-swe-bench-pro-coding-tasks-are-brok
 event_name: ''
 ---
@@ -37,5 +38,5 @@ OpenAI published an audit estimating ~30% of tasks in SWE-Bench Pro — a widely
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
+**Related:** [[2026-07-08-openai-audit-finds-roughly-30-of-swe-bench-pro-coding-tasks]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
 <!-- graph:end -->

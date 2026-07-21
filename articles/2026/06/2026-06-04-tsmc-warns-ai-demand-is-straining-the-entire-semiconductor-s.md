@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem
+- 2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
-- 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-- 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
+- 2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and
+- 2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b
 embedding_id: 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TSMC warned AI chip demand is straining the entire supply chain — "we can only
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
+**Related:** [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]] · [[2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and]] · [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]]
 <!-- graph:end -->

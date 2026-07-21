@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 47
+member_count: 66
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 47 connected article(s).
+> Auto-generated entity hub. 66 connected article(s).
 
+- `2026-07-16` [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe|Apple Intelligence is approved for China through Alibaba Qwen and Baidu integrations]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a|Alibaba shares surge as Qwen tops global downloads; Chinese-AI rotation lifts Baidu, Tencent]]
@@ -15,15 +16,29 @@ member_count: 47
 - `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
+- `2026-07-06` [[2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp|Infrastructure China China's Biren raises ~$892.5M to scale GPUs against Nvidia July 6, 2026 · The Next Web Shanghai…]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
+- `2026-07-05` [[2026-07-05-companies-nvidia-google-alphabet-deepmind-openai-anthropic-m|Companies: Nvidia, Google (Alphabet/DeepMind), OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]
+- `2026-07-04` [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
+- `2026-07-02` [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-30` [[2026-06-30-tuesday-june-30-2026|Tuesday, June 30, 2026]]
+- `2026-06-30` [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op|Sources scanned: Companies — Nvidia, Google / Alphabet / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta,…]]
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
+- `2026-06-29` [[2026-06-29-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-ties|Baidu's chip unit Kunlunxin targets a ~$50B Hong Kong IPO, ties chip buys to allocations The Next Web (reporting The…]]
+- `2026-06-29` [[2026-06-29-baidu-s-ai-chip-arm-kunlunxin-is-planning-a-hong-kong-ipo-at|Baidu's AI chip arm Kunlunxin is planning a Hong Kong IPO at a ~$50B target — up sharply from the ~$14.7B valuation…]]
 - `2026-06-29` [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip|Baidu jumps 7% as chip arm Kunlunxin targets ~$50B Hong Kong IPO]]
+- `2026-06-28` [[2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-28` [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and|Baidu's chip unit Kunlunxin targets a $50B Hong Kong IPO — and asks investors to buy its chips]]
 - `2026-06-28` [[2026-06-28-baidu-s-kunlunxin-targets-a-50b-hong-kong-ipo-ties-chip-orde|Baidu's Kunlunxin targets a ~$50B Hong Kong IPO, ties chip orders to allocations]]
+- `2026-06-27` [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea|U.S. and European semiconductor stocks sold off Friday on fears that soaring AI‑infrastructure costs could squeeze…]]
+- `2026-06-27` [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a|Sources scanned — Official blogs: OpenAI, Google DeepMind, Meta AI, Apple ML Research, BAIR]]
+- `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
+- `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-09` [[2026-06-09-pentagon-designates-alibaba-baidu-and-other-chinese-tech-fir|Pentagon Designates Alibaba, Baidu, and Other Chinese Tech Firms as Aiding China's Military]]
 - `2026-06-08` [[2026-06-08-alibaba-restructures-ai-organization-establishes-token-found|Alibaba Restructures AI Organization: Establishes "Token Foundry" Unit and AI Future Research Institute]]
@@ -49,9 +64,13 @@ member_count: 47
 - `2026-05-08` [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d|Vik Desai · Director, Technology Assessment & Intelligence · Corp Dev, Microsoft]]
 - `2026-05-05` [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training|Meta Copyright Lawsuit Elevates CEO Liability in AI Training Data Governance Trending]]
 - `2026-05-03` [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round|Tencent and Alibaba Eye DeepSeek Funding Round]]
+- `2026-05-02` [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia · Google/DeepMind · OpenAI · Anthropic · Mistral · Cursor · Replit · Meta · Apple · Amazon · Cerebras…]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]
 - `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-12` [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc|More than 100 Baidu Apollo Go autonomous robotaxis experienced a simultaneous fleet-wide failure in Wuhan, all coming to an abrupt stop in traffic due to what Baidu described as a "synchronization issue in a remote sensing update." The incident caused widespread traffic disruption and prompted Chinese regulators to open a safety investigation into Baidu's over-the-air update protocols for autonomous vehicles. Baidu's Apollo Go stock dropped 8% following the disclosure, intensifying global scrutiny of fleet-scale AV deployment safety and OTA update risk management.]]
+- `2026-04-02` [[2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1|[BREAKING] Baidu Robotaxi Operations Suspended in Wuhan (Apr 1) Baidu’s Apollo Go robotaxi service faced publicized…]]
+- `2026-04-02` [[2026-04-02-baidu-s-apollo-go-robotaxi-fleet-suffered-a-suspected-system|Baidu's Apollo Go robotaxi fleet suffered a suspected system-wide software failure on April 1, freezing vehicles…]]
+- `2026-04-02` [[2026-04-02-baidu-apollo-go-robotaxi-fleet-freezes-across-wuhan-in-major|Baidu Apollo Go Robotaxi Fleet Freezes Across Wuhan in Major System Failure]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastructure as central to U.S.-Israeli targeting intelligence. Named targets include Apple, Google, Meta, Microsoft, Nvidia, Oracle, IBM, Palantir, Intel, Cisco, HP, Dell, Boeing, Tesla, GE, J.P. Morgan, and UAE AI firm G42. Iran struck AWS data centers in the UAE in March causing cloud outages. Healix CEO: "Tech assets are now treated as part of the conflict, not peripheral to it." This creates a direct geopolitical risk category for AI infrastructure across the Gulf.]]
 - `2026-04-01` [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed|Amazon CEO Andy Jassy's annual shareholder letter disclosed that AWS has reached a $15 billion annualized revenue run rate from AI services, driven by Bedrock, SageMaker, and custom Trainium/Inferentia chip deployments. Amazon committed to $200 billion in 2026 capital expenditure — the majority earmarked for AI infrastructure including new data center regions and chip manufacturing partnerships. Jassy described AI as "the largest technology transformation since the internet," and separately, Uber signed a $1.2B three-year deal to use Trainium3 chips exclusively for training its internal AI models.]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

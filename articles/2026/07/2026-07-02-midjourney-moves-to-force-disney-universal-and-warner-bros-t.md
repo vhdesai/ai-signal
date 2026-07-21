@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t
-- 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
+- 2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner
+- 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
+- 2026-07-04-ai-safety-policy-trending-disney-warner-bros
+- 2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei
 embedding_id: 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Midjourney has asked the federal judge overseeing the studios' copyright suit to
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]]
+**Related:** [[2026-07-04-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-07-04-ai-safety-policy-trending-disney-warner-bros]] · [[2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei]]
 <!-- graph:end -->

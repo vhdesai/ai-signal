@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 embedding_id: 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 event_name: ''
 ---
@@ -38,5 +38,5 @@ research shows DCI (Direct Code Interpreters) — which let AI agents grep, trac
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
+**Related:** [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]]
 <!-- graph:end -->

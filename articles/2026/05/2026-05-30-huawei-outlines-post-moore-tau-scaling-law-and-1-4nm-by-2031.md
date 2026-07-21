@@ -21,11 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in
 - 2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex
 - 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
-- 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
 embedding_id: 2026-05-30-huawei-outlines-post-moore-tau-scaling-law-and-1-4nm-by-2031
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At ISCAS 2026 in Shanghai, Huawei researchers presented a "Tau Scaling Law" (als
 
 **Entities:** [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]]
+**Related:** [[2026-05-26-speaking-in-shanghai-huawei-semiconductor-chief-he-tingbo-in]] · [[2026-05-26-breaking-huawei-unveils-logicfolding-tau-scaling-law-for-nex]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
 <!-- graph:end -->

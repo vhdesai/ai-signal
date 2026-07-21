@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
+- 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
-- 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
 embedding_id: 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The May 11 Hugging Face Daily Papers panel aggregated approximately 30 new prepr
 
 **Entities:** [[Google]] · [[Tencent]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]]
+**Related:** [[2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
 <!-- graph:end -->

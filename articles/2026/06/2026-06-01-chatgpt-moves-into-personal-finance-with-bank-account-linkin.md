@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
 - 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
 - 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
 embedding_id: 2026-06-01-chatgpt-moves-into-personal-finance-with-bank-account-linkin
@@ -35,5 +36,5 @@ OpenAI is reported to be previewing a personal-finance capability in ChatGPT tha
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Related:** [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]] · [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
 <!-- graph:end -->

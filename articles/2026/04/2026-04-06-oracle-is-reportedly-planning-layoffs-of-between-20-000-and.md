@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
+- 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 - 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 - 2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim
-- 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
-- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
 embedding_id: 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 event_name: ''
 ---
@@ -44,5 +44,5 @@ AI Infrastructure Faces $7 Trillion Reality Check; Financing and Insurance Stres
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
+**Related:** [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim]]
 <!-- graph:end -->

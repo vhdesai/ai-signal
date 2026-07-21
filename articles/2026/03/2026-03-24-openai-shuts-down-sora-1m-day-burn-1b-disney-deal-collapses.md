@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation
+- 2026-03-09-openai-robotics-head-quits-over-defense-dept
 - 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
-- 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
-- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
-- 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
-- 2026-03-31-industry-news-funding
+- 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
+- 2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft
 embedding_id: 2026-03-24-openai-shuts-down-sora-1m-day-burn-1b-disney-deal-collapses
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI discontinued Sora after six months, citing ~$1M/day compute costs against
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]] · [[2026-03-31-industry-news-funding]]
+**Related:** [[2026-03-28-openai-officially-discontinued-its-sora-ai-video-generation]] · [[2026-03-09-openai-robotics-head-quits-over-defense-dept]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft]]
 <!-- graph:end -->

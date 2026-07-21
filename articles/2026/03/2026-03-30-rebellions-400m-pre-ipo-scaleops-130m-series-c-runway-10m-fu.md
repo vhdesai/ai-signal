@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
-- 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
-- 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
+- 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
+- 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
+- 2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion
+- 2026-04-03-funding-roundup-rebellions-400m-scaleops-130m-cognichip-60m
+- 2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte
 embedding_id: 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 event_name: ''
 ---
@@ -42,5 +42,5 @@ South Korean AI chip startup Rebellions raised $400M pre-IPO ($850M total), laun
 
 **Entities:** [[Adobe]] · [[NVIDIA]] · [[Salesforce]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]]
+**Related:** [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion]] · [[2026-04-03-funding-roundup-rebellions-400m-scaleops-130m-cognichip-60m]] · [[2026-04-02-global-startup-funding-in-q1-2026-reached-297-billion-shatte]]
 <!-- graph:end -->

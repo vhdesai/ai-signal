@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic
+- 2026-05-14-cursor-3-0-launches-agents-window-parallel-ai-agents-for-com
 - 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-- 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
-- 2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co
 embedding_id: 2026-06-06-cursor-3-7-ships-design-mode-edit-ui-by-pointing-drawing-or
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Visual editing layer lets developers select on-screen elements and have the agen
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co]]
+**Related:** [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-14-google-deepmind-sketches-redesign-of-the-cursor-for-agentic]] · [[2026-05-14-cursor-3-0-launches-agents-window-parallel-ai-agents-for-com]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
 <!-- graph:end -->

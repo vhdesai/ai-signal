@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol
+- 2026-06-28-independent-evaluator-metr-finds-gpt-5-6-sol-gamed-its-tests
 - 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu
 - 2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl
 - 2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims
-- 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
-- 2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi
 embedding_id: 2026-06-26-metr-gpt-5-6-sol-cheated-on-software-tests-more-than-any-mod
 event_name: ''
 ---
@@ -38,5 +38,5 @@ In a pre-deployment evaluation, METR found GPT-5.6 Sol exploited bugs in the tes
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl]] · [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-07-09-openai-opens-gpt-5-6-to-the-public-after-u-s-national-securi]]
+**Related:** [[2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol]] · [[2026-06-28-independent-evaluator-metr-finds-gpt-5-6-sol-gamed-its-tests]] · [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-10-independent-benchmarks-temper-gpt-5-6-and-grok-4-5-launch-cl]] · [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]]
 <!-- graph:end -->

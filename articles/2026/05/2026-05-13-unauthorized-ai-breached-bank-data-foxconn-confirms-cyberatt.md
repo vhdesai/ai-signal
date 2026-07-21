@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb
 - 2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially
 - 2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade
-- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
-- 2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig
+- 2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs
+- 2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a
 embedding_id: 2026-05-13-unauthorized-ai-breached-bank-data-foxconn-confirms-cyberatt
 event_name: ''
 ---
@@ -39,5 +39,5 @@ WSJ Pro Cybersecurity reports an unauthorized AI tool exfiltrated banking custom
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]] · [[2026-05-15-connected-car-data-attracts-hackers-invites-privacy-investig]]
+**Related:** [[2026-05-13-unauthorized-ai-tool-breaches-bank-data-foxconn-confirms-cyb]] · [[2026-05-05-itron-hack-reaches-more-downstream-companies-than-initially]] · [[2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]]
 <!-- graph:end -->

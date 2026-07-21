@@ -24,9 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
-- 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
+- 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o
-- 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 embedding_id: 2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi
 event_name: ''
 ---
@@ -40,5 +39,5 @@ The Vatican announced a papal encyclical on artificial intelligence, to be prese
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l]] · [[2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o]] · [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]]
+**Related:** [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]] · [[2026-05-18-vatican-issues-an-ai-encyclical-on-human-dignity-in-an-age-o]]
 <!-- graph:end -->

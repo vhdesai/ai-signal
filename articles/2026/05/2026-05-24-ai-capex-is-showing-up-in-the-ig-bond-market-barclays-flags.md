@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 - 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
-- 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
+- 2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip
 embedding_id: 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The May 24 brief aggregates Nvidia's ~$90B deal spree, Barclays' warning that Bi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]]
+**Related:** [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]]
 <!-- graph:end -->

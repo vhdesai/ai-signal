@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
+- 2026-04-16-google-gemini-for-mac-launches-as-native-swift-app
 - 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
-- 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 embedding_id: 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Google has begun a staged rollout of a major visual overhaul of the Gemini iOS a
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]]
+**Related:** [[2026-05-26-google-rebuilds-the-gemini-app-from-scratch-with-neural-expr]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-04-16-google-gemini-for-mac-launches-as-native-swift-app]] · [[2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]]
 <!-- graph:end -->

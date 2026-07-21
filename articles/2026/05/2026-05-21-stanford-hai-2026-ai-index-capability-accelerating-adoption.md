@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-- 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
+- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 embedding_id: 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Stanford HAI's 2026 AI Index — the field's most cited annual benchmark study �
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]]
+**Related:** [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
 <!-- graph:end -->

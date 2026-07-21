@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
+- 2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts
 - 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 embedding_id: 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Detects AI-generated music on Spotify, Apple Music, others. Music industry build
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]]
+**Related:** [[2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re]] · [[2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]]
 <!-- graph:end -->

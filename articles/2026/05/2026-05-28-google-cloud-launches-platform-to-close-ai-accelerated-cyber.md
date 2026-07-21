@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
+- 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
 - 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
-- 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
+- 2026-05-17-openai-launches-daybreak-cybersecurity-platform-google-threa
 embedding_id: 2026-05-28-google-cloud-launches-platform-to-close-ai-accelerated-cyber
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Google Cloud unveiled a security platform purpose-built to counter AI-accelerate
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]]
+**Related:** [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-05-17-openai-launches-daybreak-cybersecurity-platform-google-threa]]
 <!-- graph:end -->

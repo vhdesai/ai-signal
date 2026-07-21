@@ -29,11 +29,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta
 - 2026-04-02-ai-safety-security-policy
-- 2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre
-- 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-- 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
-- 2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod
+- 2026-04-04-mercor-data-breach-supply-chain-attack-on-litellm-exposes-ai
+- 2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3
+- 2026-04-03-anthropic-races-to-contain-leaked-claude-ai-source-code-seco
 embedding_id: 2026-04-01-mercor-a-10b-ai-recruiting-platform-serving-openai-and-anthr
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Anthropic Accidentally Leaks Claude Code Source; Pulls Down Thousands of GitHub 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-04-02-ai-safety-security-policy]] · [[2026-04-23-contractors-sue-mercor-10b-ai-data-labeling-startup-over-bre]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod]]
+**Related:** [[2026-04-04-mercor-the-10b-ai-startup-serving-anthropic-openai-and-meta]] · [[2026-04-02-ai-safety-security-policy]] · [[2026-04-04-mercor-data-breach-supply-chain-attack-on-litellm-exposes-ai]] · [[2026-04-02-breaking-mercor-and-litellm-breach-exposes-4tb-of-data-mar-3]] · [[2026-04-03-anthropic-races-to-contain-leaked-claude-ai-source-code-seco]]
 <!-- graph:end -->

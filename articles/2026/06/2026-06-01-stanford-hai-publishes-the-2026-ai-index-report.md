@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 - 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
+- 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 embedding_id: 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Stanford HAI's 2026 AI Index (page updated within the window) documents that the
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
+**Related:** [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]]
 <!-- graph:end -->

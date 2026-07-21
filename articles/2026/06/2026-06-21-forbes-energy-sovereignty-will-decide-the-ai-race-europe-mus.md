@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: duplicate
 canonical_article_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
 related_article_ids:
+- 2026-06-21-forbes-published-a-geopolitical-analysis-arguing-that-ai-com
+- 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
+- 2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
-- 2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-- 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 embedding_id: 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race-europe-mus
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI competition is fundamentally an energy race: "People are constrained by softw
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]]
-**Related:** [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]]
+**Related:** [[2026-06-21-forbes-published-a-geopolitical-analysis-arguing-that-ai-com]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]]
 <!-- graph:end -->

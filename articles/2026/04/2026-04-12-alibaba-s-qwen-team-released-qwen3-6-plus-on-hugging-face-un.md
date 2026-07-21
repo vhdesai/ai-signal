@@ -33,8 +33,8 @@ related_article_ids:
 - 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
 - 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
-- 2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse
+- 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
+- 2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim
 embedding_id: 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
 event_name: ''
 ---
@@ -48,5 +48,5 @@ OpenAI Rolls Out GPT-5.4 Across ChatGPT Plus, Team & Enterprise — GPT-4o Sunse
 
 **Entities:** [[Alibaba]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse]]
+**Related:** [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-04-06-alibaba-s-qwen-3-6-plus-tsinghua-zhipu-s-glm-5v-turbo-multim]]
 <!-- graph:end -->

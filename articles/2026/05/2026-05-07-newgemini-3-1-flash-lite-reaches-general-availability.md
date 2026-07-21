@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
+- 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
-- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 embedding_id: 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google officially released gemini-3.1-flash-lite as a generally available produc
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]]
 <!-- graph:end -->

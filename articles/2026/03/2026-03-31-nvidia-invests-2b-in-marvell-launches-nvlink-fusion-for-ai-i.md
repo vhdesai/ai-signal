@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme
 - 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 embedding_id: 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia announced a $2B strategic investment in Marvell Technology with a NVLink 
 
 **Entities:** [[NVIDIA]] · [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-04-02-trending-nvidia-backs-marvell-nvlink-fusion-with-2b-commitme]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

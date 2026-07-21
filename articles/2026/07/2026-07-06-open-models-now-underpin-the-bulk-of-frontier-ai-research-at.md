@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
-- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
+- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 embedding_id: 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 event_name: ''
 ---
@@ -37,5 +37,5 @@ At ICML 2026, roughly 2,000 accepted papers cite NVIDIA GPUs and about 145 build
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
+**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-gartner-ai-driven-layoffs-are-not-improving-roi-80-of-compan
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
+- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
-- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu
 embedding_id: 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Gartner projects that more than two-thirds of enterprise efforts to transform le
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-22-jpmorgan-ceo-jamie-dimon-said-ai-will-probably-impact-the-nu]]
+**Related:** [[2026-05-18-gartner-ai-driven-layoffs-are-not-improving-roi-80-of-compan]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]]
 <!-- graph:end -->

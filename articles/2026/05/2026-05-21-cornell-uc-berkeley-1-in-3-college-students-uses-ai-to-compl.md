@@ -42,10 +42,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
+- 2026-07-04-large-study-students-who-lean-on-ai-finish-faster-but-score
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
+- 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-- 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
-- 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
 embedding_id: 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
 event_name: ''
 ---
@@ -59,5 +59,5 @@ A study published in Science, analyzing 95,000+ students at 20 U.S. public resea
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-04-large-study-students-who-lean-on-ai-finish-faster-but-score]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]]
 <!-- graph:end -->

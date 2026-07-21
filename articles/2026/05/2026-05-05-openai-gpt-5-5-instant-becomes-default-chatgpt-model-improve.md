@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
-- 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 embedding_id: 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's GPT-5.5 Instant has replaced GPT-5.3 Instant as the default ChatGPT mod
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]]
+**Related:** [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
 <!-- graph:end -->

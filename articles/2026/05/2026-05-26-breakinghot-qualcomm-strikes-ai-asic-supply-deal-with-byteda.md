@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part
 - 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
 - 2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips
-- 2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa
+- 2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc
 embedding_id: 2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Bloomberg reports Qualcomm has struck a deal to supply AI data-center ASICs to B
 
 **Entities:** [[ByteDance]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance]] · [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]]
+**Related:** [[2026-05-26-qualcomm-strikes-ai-chip-supply-deal-with-bytedance]] · [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]] · [[2026-05-29-bytedance-is-developing-groq-like-ai-inference-chips]] · [[2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc]]
 <!-- graph:end -->

@@ -21,8 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg
-- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio
+- 2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already
+- 2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13
+- 2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be
+- 2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co
 embedding_id: 2026-07-13-europe-s-anduril-rival-helsing-raises-1-8-billion-at-an-18-b
 event_name: ''
 ---
@@ -35,5 +37,5 @@ German AI-defense startup Helsing said it raised $1.8 billion at an $18 billion 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]]
+**Related:** [[2026-07-13-helsing-raises-1-8b-at-18b-valuation-cementing-europe-s-larg]] · [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already]] · [[2026-05-14-anduril-raises-5b-valuation-doubles-to-61b-techcrunch-may-13]] · [[2026-07-11-there-has-been-a-seismic-change-since-then-and-not-solely-be]] · [[2026-07-11-the-market-opportunities-are-enormous-and-there-is-no-one-co]]
 <!-- graph:end -->

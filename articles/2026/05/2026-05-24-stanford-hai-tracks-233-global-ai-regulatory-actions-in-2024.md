@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
+- 2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual
 - 2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 embedding_id: 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Stanford's HAI dataset, updated in tracking reports through May 24, shows 233 AI
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-08-the-stanford-hai-2026-ai-index-the-most-comprehensive-annual]] · [[2026-05-22-stanford-hai-2026-ai-index-capability-not-plateauing-adoptio]]
 <!-- graph:end -->

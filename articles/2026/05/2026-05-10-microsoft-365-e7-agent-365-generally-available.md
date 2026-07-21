@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a
+- 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 embedding_id: 2026-05-10-microsoft-365-e7-agent-365-generally-available
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft's first new enterprise license tier in a decade — M365 E7 (the "Fron
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
+**Related:** [[2026-05-02-newmicrosoft-365-e7-frontier-suite-goes-generally-available]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]] · [[2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]]
 <!-- graph:end -->

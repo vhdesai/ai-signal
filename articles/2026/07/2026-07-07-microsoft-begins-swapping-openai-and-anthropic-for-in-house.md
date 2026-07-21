@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 - 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
+- 2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai
 - 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
-- 2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu
 embedding_id: 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft has begun routing selected Copilot and app features to its own MAI mod
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-05-31-microsoft-to-unveil-homegrown-mai-models-at-build-2026-inclu]]
+**Related:** [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[2026-04-20-microsoft-ai-april-18-2026-microsoft-detailed-additional-mai]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]]
 <!-- graph:end -->

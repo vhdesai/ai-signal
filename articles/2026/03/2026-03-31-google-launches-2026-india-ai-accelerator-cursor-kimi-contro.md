@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr
+- 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
+- 2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin
+- 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-- 2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro
-- 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
-- 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
-- 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
 embedding_id: 2026-03-31-google-launches-2026-india-ai-accelerator-cursor-kimi-contro
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google opened applications for its 2026 India Startups Accelerator — a three-m
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-05-19-google-i-o-2026-keynote-gemini-4-0-preview-gemini-omni-andro]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]]
+**Related:** [[2026-05-16-google-i-o-2026-opens-monday-may-19-at-shoreline-amphitheatr]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]] · [[2026-05-18-google-i-o-2026-kicks-off-tomorrow-may-19-20-at-the-shorelin]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
 <!-- graph:end -->

@@ -29,11 +29,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
 - 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+- 2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
-- 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 embedding_id: 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
 event_name: ''
 ---
@@ -47,5 +47,5 @@ SK Hynix Profits Surge on AI Memory Demand; Korean Markets Hit Records
 
 **Entities:** [[NVIDIA]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
+**Related:** [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

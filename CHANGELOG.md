@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **Narrative digest format parser** — `split.py` gained
+  `parse_narrative_digest()`, a fallback used when the source-line parser finds
+  no articles. It handles the July 2026+ layout (short section-theme headers
+  followed by one-paragraph-per-item summaries, no per-article source lines or
+  links), deriving a headline from each item's first sentence and skipping
+  frontmatter, restated-title/date lines, meta prefaces and export notes.
 - **Parallel, time-boxed, resumable URL repair** — `repair-urls` now runs
   concurrent search/fetch workers (`--repair-workers`, default 10) with a single
   SQLite writer, capped by a configurable time box (`--repair-timeout`, **default
@@ -25,6 +31,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Default repair time box increased from 30 to 60 minutes.
 - Network-blocked domains (Yandex, Softonic) are skipped during URL validation
   and never accepted as repaired canonical URLs (unreachable behind corporate IT).
+- Bounded the AI chat retrieval context (fewer articles, shorter summaries and
+  history) so the assistant stays responsive.
+
+### Fixed
+
+- July 15–21, 2026 digests produced zero articles because they used the new
+  narrative layout; the narrative parser restores their daily pages.
 
 ## [0.4.0] — 2026-06-09
 

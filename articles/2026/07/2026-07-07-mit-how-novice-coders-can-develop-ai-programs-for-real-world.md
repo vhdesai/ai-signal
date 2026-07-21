@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
+- 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib
-- 2026-04-02-academic-research
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Through the U.S. Department of the Air Force–MIT AI Accelerator’s Phantom Pr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]] · [[2026-04-02-academic-research]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
+**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-03-31-softr-launches-ai-native-no-code-platform-challenges-the-vib]]
 <!-- graph:end -->

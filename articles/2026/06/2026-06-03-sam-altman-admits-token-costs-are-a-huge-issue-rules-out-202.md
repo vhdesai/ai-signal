@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
 - 2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs
 - 2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man
-- 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 embedding_id: 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sam Altman publicly acknowledged AI token costs are becoming “a huge issue,”
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]]
+**Related:** [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-06-05-the-token-bill-comes-due-ai-s-runaway-enterprise-costs]] · [[2026-06-05-the-token-bill-comes-due-inside-the-industry-scramble-to-man]]
 <!-- graph:end -->

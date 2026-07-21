@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
 - 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
+- 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
 - 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
-- 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 embedding_id: 2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Five Eyes intelligence alliance issued a rare joint warning that AI models c
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]]
+**Related:** [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
+- 2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili
 - 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
-- 2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026
 embedding_id: 2026-06-08-anthropic-doubles-claude-cowork-limits-at-no-extra-charge
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic doubled usage limits for Claude Cowork at no additional charge — a c
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-03-30-anthropic-paid-subscriptions-more-than-doubled-in-2026]]
+**Related:** [[2026-07-07-anthropic-expands-claude-cowork-to-iphone-and-the-web]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web]] · [[2026-04-04-effective-april-5-at-12pm-pt-anthropic-is-severing-the-abili]] · [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]]
 <!-- graph:end -->

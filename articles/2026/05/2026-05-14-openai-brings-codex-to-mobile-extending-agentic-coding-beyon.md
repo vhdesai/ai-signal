@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
+- 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-05-14-openai-codex-work-from-anywhere-expansion
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
-- 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
-- 2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window
-- 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
+- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
+- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 embedding_id: 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced its AI-powered coding assistant Codex is coming to mobile, broa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]]
+**Related:** [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]]
 <!-- graph:end -->

@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
+- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
 - 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 embedding_id: 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Chinese firms are increasingly routing around Nvidia GPUs by designing applicati
 
 **Entities:** [[Alibaba]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
+**Related:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]]
 <!-- graph:end -->

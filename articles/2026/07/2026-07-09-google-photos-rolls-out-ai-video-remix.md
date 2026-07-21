@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
 - 2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video
-- 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
+- 2026-07-17-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 embedding_id: 2026-07-09-google-photos-rolls-out-ai-video-remix
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google added Video Remix to Google Photos (powered by Gemini Omni), announced Ju
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]]
+**Related:** [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-07-17-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g]]
 <!-- graph:end -->

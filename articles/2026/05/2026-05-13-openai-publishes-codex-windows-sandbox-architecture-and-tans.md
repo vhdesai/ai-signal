@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 - 2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access
+- 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
 - 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
-- 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 embedding_id: 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's engineering team published two posts: a detailed writeup of the constra
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]]
+**Related:** [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-14-openai-expands-codex-platform-windows-sandbox-mobile-access]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]]
 <!-- graph:end -->

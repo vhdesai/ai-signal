@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis
+- 2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 embedding_id: 2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Australia's assistant technology minister, Andrew Charlton, warned that AI syste
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]]
+**Related:** [[2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis]] · [[2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
 <!-- graph:end -->

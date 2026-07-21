@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
+- 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 - 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
-- 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
 embedding_id: 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI-powered tools across FB, Instagram, Threads, WhatsApp: auto-identify customer
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]]
+**Related:** [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
 <!-- graph:end -->

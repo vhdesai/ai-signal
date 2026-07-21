@@ -18,7 +18,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
+- 2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in
 embedding_id: 2026-04-24-adobe-sneaks-2026-project-face-off-wins-summit-audience-favo
 event_name: ''
 ---
@@ -32,4 +34,5 @@ Adobe's annual Sneaks showcase featured seven prototypes; Project Face Off — w
 
 **Entities:** [[Adobe]]
 **Topics:** [[Corporate Moves]]
+**Related:** [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]]
 <!-- graph:end -->

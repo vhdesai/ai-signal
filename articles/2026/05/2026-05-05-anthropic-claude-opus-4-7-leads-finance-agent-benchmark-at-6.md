@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 - 2026-05-06-
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Claude Opus 4.7 powers Anthropic's 10 new financial services AI agents, launched
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-06-]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-06-]]
 <!-- graph:end -->

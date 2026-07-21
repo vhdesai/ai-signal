@@ -25,7 +25,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
+- 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
+- 2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek
 embedding_id: 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Four Chinese labs — Z.ai (GLM-5.1), MiniMax (M2.7), Moonshot (Kimi K2.6 scorin
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek]]
 <!-- graph:end -->

@@ -23,8 +23,6 @@ related_article_ids:
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
-- 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
-- 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 embedding_id: 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
 event_name: ''
 ---
@@ -38,5 +36,5 @@ A large multi-author paper from Google Health proposes a general intelligence an
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]] · [[2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives]]
+**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
 <!-- graph:end -->

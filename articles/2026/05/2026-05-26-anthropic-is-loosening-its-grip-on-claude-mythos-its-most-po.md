@@ -28,9 +28,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
 - 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-04-07-source-the-hacker-news-reuters-the-star
 embedding_id: 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
 event_name: ''
 ---
@@ -44,5 +43,5 @@ Leaked roadmap surfaces: Claude Opus 4.8, GPT-5.6 & Mythos 1
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]]
+**Related:** [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]]
 <!-- graph:end -->

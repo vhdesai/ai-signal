@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-- 2026-05-05-trump-administration-weighs-new-ai-model-guardrails
-- 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
+- 2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag
+- 2026-05-08-trump-administration-reverses-course-signs-safety-evaluation
 embedding_id: 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ In a notable policy reversal, the Trump administration signed pre-deployment AI 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-05-trump-administration-weighs-new-ai-model-guardrails]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]]
+**Related:** [[2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-08-in-a-significant-reversal-the-trump-administration-signed-ag]] · [[2026-05-08-trump-administration-reverses-course-signs-safety-evaluation]]
 <!-- graph:end -->

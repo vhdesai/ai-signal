@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-- 2026-05-12-u-s-commerce-expands-pre-release-safety-testing-to-five-fron
+- 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 embedding_id: 2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Curated across Daily AI News Digest feeds, The Information, Business Insider, WS
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-12-u-s-commerce-expands-pre-release-safety-testing-to-five-fron]]
+**Related:** [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]]
 <!-- graph:end -->

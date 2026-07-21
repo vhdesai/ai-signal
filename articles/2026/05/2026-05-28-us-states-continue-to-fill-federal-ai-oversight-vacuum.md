@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
+- 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 embedding_id: 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Policy trackers updated this week confirm that 2026 has produced a sharp diverge
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]]
+**Related:** [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
 <!-- graph:end -->

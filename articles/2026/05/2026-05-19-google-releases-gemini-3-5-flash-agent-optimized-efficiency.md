@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
+- 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 - 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
-- 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
 embedding_id: 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google launched Gemini 3.5 Flash this week, positioning it as a breakthrough in 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]]
+**Related:** [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]]
 <!-- graph:end -->

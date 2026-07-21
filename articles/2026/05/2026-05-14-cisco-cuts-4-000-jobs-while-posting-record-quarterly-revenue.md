@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-cisco-cuts-4-000-jobs-pivots-to-ai-posts-record-quarterly-re
+- 2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s
 - 2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b
+- 2026-05-14-cisco-beats-on-q3-posts-surging-ai-orders-plans-4-000-layoff
 - 2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex
-- 2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product
-- 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
-- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
 embedding_id: 2026-05-14-cisco-cuts-4-000-jobs-while-posting-record-quarterly-revenue
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cisco announced it will lay off approximately 4,000 employees — roughly 5% of 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]]
+**Related:** [[2026-05-15-cisco-cuts-4-000-jobs-pivots-to-ai-posts-record-quarterly-re]] · [[2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s]] · [[2026-05-14-cisco-cuts-4-000-jobs-while-raising-revenue-forecast-on-5-3b]] · [[2026-05-14-cisco-beats-on-q3-posts-surging-ai-orders-plans-4-000-layoff]] · [[2026-05-19-meta-to-cut-8-000-jobs-while-raising-ai-infrastructure-capex]]
 <!-- graph:end -->

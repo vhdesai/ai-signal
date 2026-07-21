@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
+- 2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek
 - 2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g
 - 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 embedding_id: 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alibaba revealed a more powerful Zhenwu AI chip alongside the Qwen 3.7-Max model
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
+**Related:** [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-04-04-chinese-ai-models-surge-alibaba-qwen-3-6-plus-live-deepseek]] · [[2026-05-20-alibaba-unveils-ai-chip-to-challenge-nvidia-alongside-next-g]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
 <!-- graph:end -->

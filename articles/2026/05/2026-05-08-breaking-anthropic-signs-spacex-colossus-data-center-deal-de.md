@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
 - 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
 - 2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
-- 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
-- 2026-05-07-
+- 2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model
 embedding_id: 2026-05-08-breaking-anthropic-signs-spacex-colossus-data-center-deal-de
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic finalized a compute agreement with Elon Musk's SpaceX, securing dedica
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-07-]]
+**Related:** [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-20-spacex-s-1-reveals-anthropic-will-pay-45b-for-colossus-compu]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-14-on-may-5-the-u-s-pentagon-signed-ai-infrastructure-and-model]]
 <!-- graph:end -->

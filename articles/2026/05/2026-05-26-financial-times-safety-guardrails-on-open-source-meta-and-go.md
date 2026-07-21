@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Joint testing by the Financial Times and AI safety group Alice found that safety
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]]
 <!-- graph:end -->

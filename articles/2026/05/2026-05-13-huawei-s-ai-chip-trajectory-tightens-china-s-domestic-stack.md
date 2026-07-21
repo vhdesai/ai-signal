@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-06-30-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-overtakes-it
+- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
+- 2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
 embedding_id: 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Huawei's domestic AI chip line is closing the gap with mid-range Nvidia parts on
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]]
+**Related:** [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-06-30-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-overtakes-it]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]] · [[2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

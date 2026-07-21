@@ -22,8 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
+- 2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin
+- 2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding
+- 2026-06-30-deepseek-open-sources-dspark-an-mit-licensed-framework-that
+- 2026-06-28-deepseek-open-sources-dspark-accelerating-deepseek-v4-infere
 embedding_id: 2026-06-29-deepseek-open-sources-dspark-claiming-up-to-85-faster-llm-in
 event_name: ''
 ---
@@ -37,5 +39,5 @@ DeepSeek released DSpark, an MIT-licensed speculative-decoding framework that sp
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
+**Related:** [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin]] · [[2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding]] · [[2026-06-30-deepseek-open-sources-dspark-an-mit-licensed-framework-that]] · [[2026-06-28-deepseek-open-sources-dspark-accelerating-deepseek-v4-infere]]
 <!-- graph:end -->

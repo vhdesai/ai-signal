@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test
 - 2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te
+- 2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
-- 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
 embedding_id: 2026-05-19-uc-san-diego-first-empirical-evidence-of-an-llm-passing-a-ri
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A UC San Diego team published the first peer-reviewed empirical evidence of an L
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test]] · [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
+**Related:** [[2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test]] · [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]]
 <!-- graph:end -->

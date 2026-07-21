@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
 - 2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 - 2026-07-07-meta-launches-muse-image-generator
-- 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
 embedding_id: 2026-05-12-meta-ai-app-gains-muse-spark-voice-live-ai-and-real-time-ima
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta detailed new Meta AI app capabilities powered by Muse Spark, the model fami
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-07-07-meta-launches-muse-image-generator]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]]
+**Related:** [[2026-04-20-meta-ai-april-8-2026-updated-apr-19-meta-expanded-access-to]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-07-09-meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-07-07-meta-launches-muse-image-generator]]
 <!-- graph:end -->

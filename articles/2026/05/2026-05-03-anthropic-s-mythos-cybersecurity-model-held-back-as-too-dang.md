@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 - 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 - 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil
+- 2026-05-16-hot-anthropic-s-mythos-model-hidden-due-to-100m-cost-and-cyb
 embedding_id: 2026-05-03-anthropic-s-mythos-cybersecurity-model-held-back-as-too-dang
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Coverage continued to circulate over the weekend of Anthropic's decision to with
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-12-pentagon-deploys-anthropic-s-mythos-to-patch-cyber-gaps-whil]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-16-hot-anthropic-s-mythos-model-hidden-due-to-100m-cost-and-cyb]]
 <!-- graph:end -->

@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
+- 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
+- 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
+- 2026-04-03-google-deepmind-launches-gemma-4-under-apache-2-0-built-on-g
 - 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
-- 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
-- 2026-04-21-breaking-google-ships-gemini-2-5-ultra-with-2m-token-context
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
 embedding_id: 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Mistral Releases Small 4 (22B, Apache 2.0) and Voxtral TTS Model; Secures $830M 
 
 **Entities:** [[Google]] · [[Mistral]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-04-21-breaking-google-ships-gemini-2-5-ultra-with-2m-token-context]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]]
+**Related:** [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-04-03-google-deepmind-launches-gemma-4-under-apache-2-0-built-on-g]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]]
 <!-- graph:end -->

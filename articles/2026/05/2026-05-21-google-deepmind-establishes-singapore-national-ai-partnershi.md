@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
+- 2026-05-16-the-commerce-department-announced-amended-partnerships-with
 - 2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic
 - 2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black
-- 2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai
 embedding_id: 2026-05-21-google-deepmind-establishes-singapore-national-ai-partnershi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google DeepMind announced a new national AI partnership with Singapore focused o
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic]] · [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black]] · [[2026-05-22-openai-opens-singapore-ai-lab-as-imda-refreshes-national-ai]]
+**Related:** [[2026-07-14-google-expands-gemini-and-ai-education-tools-at-i-o-connect]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-05-16-the-commerce-department-announced-amended-partnerships-with]] · [[2026-05-22-openai-opens-singapore-applied-ai-lab-alongside-imda-agentic]] · [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black]]
 <!-- graph:end -->

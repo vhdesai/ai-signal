@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
 - 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-05-23-anthropic-s-record-week-200b-google-cloud-deal-spacex-comput
 embedding_id: 2026-06-11-anthropic-pursues-data-center-leases-seeks-google-backing
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Transitioning from renting cloud to proprietary infrastructure ahead of IPO — 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-23-anthropic-s-record-week-200b-google-cloud-deal-spacex-comput]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 embedding_id: 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
 event_name: ''
 ---
@@ -41,5 +41,5 @@ CNBC updated its ongoing tracker of NVIDIA's equity investment commitments, whic
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
+**Related:** [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
 <!-- graph:end -->

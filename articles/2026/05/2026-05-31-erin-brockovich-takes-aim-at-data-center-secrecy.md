@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
+- 2026-03-28-senate-moves-on-data-center-energy-transparency-sanders-aoc
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
+- 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
 embedding_id: 2026-05-31-erin-brockovich-takes-aim-at-data-center-secrecy
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Environmental activist Erin Brockovich has launched a campaign targeting the lac
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]]
+**Related:** [[2026-05-31-data-center-secrecy-becomes-an-ai-governance-issue]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-03-28-senate-moves-on-data-center-energy-transparency-sanders-aoc]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]]
 <!-- graph:end -->

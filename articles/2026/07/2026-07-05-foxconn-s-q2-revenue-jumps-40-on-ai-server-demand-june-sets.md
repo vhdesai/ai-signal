@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain
+- 2026-07-05-hon-hai-precision-foxconn-nvidia-s-key-server-assembly-partn
+- 2026-07-05-nvidia-supplier-hon-hai-foxconn-posts-surging-sales-on-solid
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
-- 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 embedding_id: 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Foxconn (Hon Hai) reported Q2 revenue of T$2.513 trillion (~$78.71B), up 39.8% y
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]]
+**Related:** [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain]] · [[2026-07-05-hon-hai-precision-foxconn-nvidia-s-key-server-assembly-partn]] · [[2026-07-05-nvidia-supplier-hon-hai-foxconn-posts-surging-sales-on-solid]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]]
 <!-- graph:end -->

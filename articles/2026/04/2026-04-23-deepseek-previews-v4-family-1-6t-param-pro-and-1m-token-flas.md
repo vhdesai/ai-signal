@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-24-deepseek-v4-in-preview-with-1m-context-window
 - 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-- 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 embedding_id: 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek unveiled V4 Pro, a 1.6T-parameter mixture-of-experts model, and V4 Flas
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]] · [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
+**Related:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]] · [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]]
 <!-- graph:end -->

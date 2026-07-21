@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
+- 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
 - 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop
 embedding_id: 2026-02-17-amazon-200b-alphabet-175-185b-microsoft-145b-annualized-meta
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Meta and NVIDIA confirmed a multi-year, multi-generational deal spanning million
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-06-hot-alphabet-briefly-overtakes-nvidia-on-200-billion-anthrop]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]] · [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

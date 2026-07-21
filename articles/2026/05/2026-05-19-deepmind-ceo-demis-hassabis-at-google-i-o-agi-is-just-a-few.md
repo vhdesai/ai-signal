@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
 - 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
+- 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
 - 2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog
-- 2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus
-- 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
+- 2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn
 embedding_id: 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind CEO Demis Hassabis took the main stage at I/O 2026 and stated: "
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-07-14-hassabis-calls-for-a-u-s-led-global-ai-watchdog-able-to-paus]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]]
+**Related:** [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]] · [[2026-07-14-demis-hassabis-calls-for-a-u-s-led-global-ai-watchdog]] · [[2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn]]
 <!-- graph:end -->

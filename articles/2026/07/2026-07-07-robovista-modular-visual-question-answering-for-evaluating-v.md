@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
 - 2026-05-20-scaling-laws-for-embodied-ai
-- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 embedding_id: 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 event_name: ''
 ---
@@ -36,5 +36,5 @@ RoboVista proposes a modular visual-question-answering benchmark for evaluating 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-05-20-scaling-laws-for-embodied-ai]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
+**Related:** [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-05-20-scaling-laws-for-embodied-ai]]
 <!-- graph:end -->

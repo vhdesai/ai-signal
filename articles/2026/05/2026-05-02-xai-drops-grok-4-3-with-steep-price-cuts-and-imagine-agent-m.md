@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
-- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-- 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
-- 2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3
-- 2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super
+- 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
+- 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
+- 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
+- 2026-07-17-xai-launches-grok-4-5-for-coding-agentic-tasks-engineering-a
 embedding_id: 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI released Grok 4.3 today, featuring significant price reductions and a new "I
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-18-hot-xai-launches-grok-build-coding-agent-for-developers-at-3]] · [[2026-05-15-xai-ships-grok-build-agentic-coding-agent-at-300-mo-on-super]]
+**Related:** [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]] · [[2026-07-17-xai-launches-grok-4-5-for-coding-agentic-tasks-engineering-a]]
 <!-- graph:end -->

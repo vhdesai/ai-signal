@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
-- 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
-- 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
-- 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
+- 2026-04-01-anthropic-s-claude-code-suffers-major-source-code-leak-512-0
+- 2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s
+- 2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an
+- 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
+- 2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g
 embedding_id: 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Security researcher Chaofan Shou found that Claude Code v2.1.88 contained a 57MB
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
+**Related:** [[2026-04-01-anthropic-s-claude-code-suffers-major-source-code-leak-512-0]] · [[2026-04-01-anthropic-s-claude-code-platform-experienced-a-significant-s]] · [[2026-04-02-breaking-anthropic-source-code-leaked-apr-1-2-portions-of-an]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he
+- 2026-06-27-m-new-llms-help-robots-understand-vague-instructions-and-foc
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
-- 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
-- 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 embedding_id: 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT CSAIL researchers introduced “Masked IRL,” an approach that pairs two la
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]]
+**Related:** [[2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he]] · [[2026-06-27-m-new-llms-help-robots-understand-vague-instructions-and-foc]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]]
 <!-- graph:end -->

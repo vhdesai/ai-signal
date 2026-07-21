@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
+- 2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-04-01-stanford-cmu-mit-and-upenn-demonstrate-4-ai-chip-speedup-via
 embedding_id: 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Princeton Study: GPT-5.4, Claude Opus 4.6 & Gemini 3.1 Show Systematic Reasoning
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-21-cohere-ships-command-a-218b-sparse-moe-for-agentic-workloads]] · [[2026-04-01-stanford-cmu-mit-and-upenn-demonstrate-4-ai-chip-speedup-via]]
 <!-- graph:end -->

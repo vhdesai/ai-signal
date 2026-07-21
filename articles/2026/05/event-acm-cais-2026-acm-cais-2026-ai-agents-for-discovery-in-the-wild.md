@@ -24,11 +24,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo
 - 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 - event-acm-cais-2026-acm-cais-2026-overview
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- event-acm-cais-2026-acm-cais-2026-strategic-implications
-- 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 embedding_id: event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
 event_name: ACM CAIS 2026
 ---
@@ -42,5 +41,5 @@ The corpus repeatedly cites a workshop organized by researchers from UC Berkeley
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[event-acm-cais-2026-acm-cais-2026-overview]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]]
+**Related:** [[2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[event-acm-cais-2026-acm-cais-2026-overview]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]]
 <!-- graph:end -->

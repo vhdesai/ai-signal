@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
+- 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
+- 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-- 2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a
 embedding_id: 2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The Journal frames the Cerebras debut explicitly as a public-markets wager that 
 ## Connections
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
-**Related:** [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a]]
+**Related:** [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]]
 <!-- graph:end -->

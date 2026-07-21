@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
-- 2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic
-- 2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf
+- 2026-04-03-google-deepmind-launches-gemma-4-under-apache-2-0-built-on-g
+- 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 embedding_id: 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Google Releases Gemma 4 Open-Source (Apache 2.0) in Four Sizes; Gemini 3.1 Pro N
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-04-23-openai-gpt-5-5-82-7-on-terminal-bench-2-0-strongest-agentic]] · [[2026-04-23-openai-launches-gpt-5-5-with-step-change-agentic-coding-perf]]
+**Related:** [[2026-04-08-google-deepmind-released-gemma-4-in-four-sizes-2b-9b-26b-moe]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-04-03-google-deepmind-launches-gemma-4-under-apache-2-0-built-on-g]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]]
 <!-- graph:end -->

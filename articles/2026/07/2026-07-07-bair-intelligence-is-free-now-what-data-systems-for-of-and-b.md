@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age
+- 2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-04-15-research-breakthroughs
-- 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 embedding_id: 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Berkeley systems and data researchers — including Aditya Parameswaran, Shreya 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-04-15-research-breakthroughs]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
+**Related:** [[2026-07-07-intelligence-is-free-now-what-data-systems-for-of-and-by-age]] · [[2026-07-16-bair-argues-data-systems-must-be-redesigned-for-agentic-work]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-04-15-research-breakthroughs]]
 <!-- graph:end -->

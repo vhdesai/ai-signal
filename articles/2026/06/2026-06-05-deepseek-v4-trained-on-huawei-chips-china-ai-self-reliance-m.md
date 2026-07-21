@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai
 - 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
 embedding_id: 2026-06-05-deepseek-v4-trained-on-huawei-chips-china-ai-self-reliance-m
 event_name: ''
 ---
@@ -40,5 +39,5 @@ DeepSeek confirmed V4 was trained on Huawei AI chips, after earlier inference su
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]]
+**Related:** [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

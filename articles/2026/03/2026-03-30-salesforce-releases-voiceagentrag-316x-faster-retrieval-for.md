@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 - 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-- 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
+- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 embedding_id: 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Salesforce AI Research released VoiceAgentRAG, a dual-agent memory routing syste
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]]
+**Related:** [[2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]]
 <!-- graph:end -->

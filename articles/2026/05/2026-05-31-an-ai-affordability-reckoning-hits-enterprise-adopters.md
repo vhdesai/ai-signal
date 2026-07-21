@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
+- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
-- 2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou
+- 2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast
 embedding_id: 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 event_name: ''
 ---
@@ -38,5 +39,5 @@ A weekend analysis frames an "AI affordability wake-up call": token-based pricin
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]]
+**Related:** [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast]]
 <!-- graph:end -->

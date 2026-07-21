@@ -31,11 +31,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america
+- 2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s
+- 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 - 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
-- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-- 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 embedding_id: 2026-04-06-google-deepmind-researchers-published-a-significant-security
 event_name: ''
 ---
@@ -49,5 +48,5 @@ Iran's IRGC Threatens 17 US Tech Firms; OpenAI Stargate UAE Data Center Named as
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]]
+**Related:** [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america]] · [[2026-04-04-iran-s-irgc-issued-a-warning-targeting-18-major-u-s]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]]
 <!-- graph:end -->

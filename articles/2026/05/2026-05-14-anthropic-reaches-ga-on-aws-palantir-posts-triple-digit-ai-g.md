@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
+- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 embedding_id: 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Anthropic's Claude family moved to general availability across the AWS catalog, 
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Related:** [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
 <!-- graph:end -->

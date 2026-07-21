@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
 - 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
-- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
+- 2026-07-17-sakana-ai-introduces-error-diffusion-a-biologically-plausibl
+- 2026-07-18-sakana-ai-introduces-error-diffusion-a-biologically-plausibl
 embedding_id: 2026-07-05-sakana-ai-launches-sakana-translate-a-namazu-powered-ja-en-z
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Sakana AI released Sakana Translate, a Japanese–English–Chinese translation 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]]
+**Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-07-17-sakana-ai-introduces-error-diffusion-a-biologically-plausibl]] · [[2026-07-18-sakana-ai-introduces-error-diffusion-a-biologically-plausibl]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
+- 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
+- 2026-03-24-apple-announces-wwdc-2026-with-explicit-promise-of-ai-advanc
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
-- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 embedding_id: 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Apple released the WWDC 2026 schedule (June 8-12) and sent in-person keynote inv
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]]
-**Related:** [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]]
+**Related:** [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-03-24-apple-announces-wwdc-2026-with-explicit-promise-of-ai-advanc]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]]
 <!-- graph:end -->

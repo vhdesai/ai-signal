@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 47
+member_count: 63
 ---
 
 # Intel
 
-> Auto-generated entity hub. 47 connected article(s).
+> Auto-generated entity hub. 63 connected article(s).
 
 - `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
@@ -14,6 +14,7 @@ member_count: 47
 - `2026-07-13` [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for|Intel commits €5B ($5.7B) to expand its Leixlip, Ireland fab for AI chips]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
+- `2026-07-11` [[2026-07-11-wall-street-journal-wsj-2026-07-11-external-the-10-point-the|Wall Street Journal / WSJ - [2026-07-11] [EXTERNAL] The 10-Point: The White House Gambled on Intel]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an|SambaNova raises $1B at an $11B valuation, lands JPMorgan as an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-as-jpmorgan-names-it|SambaNova raises $1B at an $11B valuation as JPMorgan names it an inference partner]]
 - `2026-07-08` [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-and-is-named-a-jpmor|SambaNova raises $1B at an $11B valuation and is named a JPMorgan inference partner]]
@@ -22,9 +23,13 @@ member_count: 47
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-08` [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc|AI-Chip Maker SambaNova Raises $1B at $11B Valuation; JPMorganChase Named Inference Partner]]
 - `2026-07-06` [[2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo|Intel-backed edge-AI chipmaker Syntiant files for IPO]]
+- `2026-06-30` [[2026-06-30-rad-intel-an-ai-driven-marketing-decision-intelligence-compa|RAD Intel, an AI-driven marketing decision-intelligence company, announced it acquired a majority stake in Canadian…]]
+- `2026-06-30` [[2026-06-30-rad-intel-acquires-majority-stake-in-avcommunications-june-3|RAD Intel acquires majority stake in AVCommunications June 30, 2026 • VentureBeat]]
 - `2026-06-26` [[2026-06-26-openai-reveals-jalape-o-inference-chip-as-big-tech-hedges-aw|OpenAI reveals "Jalapeño" inference chip as Big Tech hedges away from Nvidia]]
 - `2026-06-25` [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit|IBM claims first sub-1nm transistor — a 0.7nm "nanostack" architecture]]
+- `2026-06-18` [[2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news|Wall Street Journal / WSJ - [2026-06-18] [EXTERNAL] The latest news on NVIDIA Corp]]
 - `2026-06-11` [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur|Google in Talks with Samsung for Next-Gen AI Chip Manufacturing]]
+- `2026-06-09` [[2026-06-09-wall-street-journal-wsj-2026-06-09-your-daily-roundup-from-w|Wall Street Journal / WSJ - [2026-06-09] Your daily roundup from WSJ - [2026-06-10] WSJ Markets Alert: Fable 5 Forced…]]
 - `2026-06-08` [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally|Intel's Full-Stack AI Pivot Drives ~8.5% Rally]]
 - `2026-06-08` [[2026-06-08-alphabet-taps-intel-to-manufacture-three-million-in-house-ai|Alphabet Taps Intel to Manufacture Three Million In-House AI Chips]]
 - `2026-06-04` [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu|Foxconn and Intel Partner on Next-Generation AI Infrastructure]]
@@ -47,11 +52,22 @@ member_count: 47
 - `2026-05-27` [[2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield|Bulgaria partners with Google Cloud on National Cybershield covering 54 government entities]]
 - `2026-05-22` [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme|curated executive briefing on the most significant developments in artificial intelligence — covering frontier models, industry moves, research breakthroughs, and policy shifts. Today's edition features major financial milestones from Anthropic and OpenAI, Nvidia's bold push into agentic CPUs, last-minute drama around U.S. AI oversight, and a $700M mystery raise.]]
 - `2026-05-19` [[2026-05-19-microsoft-launches-new-surface-for-business-lineup-with-on-d|Microsoft launches new Surface for Business lineup with on-device AI acceleration]]
+- `2026-05-18` [[2026-05-18-intel-nvidia-partnership-custom-x86-cpus-with-integrated-rtx|Intel–Nvidia Partnership: Custom x86 CPUs with Integrated RTX GPU Chiplets]]
+- `2026-05-18` [[2026-05-18-intel-ceo-lip-bu-tan-publicly-confirmed-ongoing-collaboratio|Intel CEO Lip-Bu Tan publicly confirmed ongoing collaboration with Nvidia following their historic partnership…]]
+- `2026-05-18` [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte|Apple signed a preliminary manufacturing agreement with Intel for US-based chip production, responding to White House…]]
+- `2026-05-18` [[2026-05-18-apple-signs-preliminary-intel-chip-deal-motherboard-makers-c|Apple Signs Preliminary Intel Chip Deal; Motherboard Makers Cut Shipment Forecasts 30%]]
+- `2026-05-18` [[2026-05-18-apple-intel-enoumen-com-may-10-17-2026|Apple / Intel | enoumen.com | May 10–17, 2026]]
+- `2026-05-17` [[2026-05-17-openai-launches-daybreak-cybersecurity-platform-google-threa|OpenAI Launches Daybreak Cybersecurity Platform; Google Threat Intel Stops AI-Assisted Zero-Day]]
 - `2026-05-15` [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane|Intel and McLaren Partnership Puts Data in the Fast Lane]]
 - `2026-05-15` [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar|AMD & Intel Lead 2026 Shift from Training to Inference; CPU Market Booming]]
 - `2026-05-10` [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2|Nvidia Tops $40B in AI Equity Bets — Invests $3.2B in Corning, $2.1B in IREN]]
+- `2026-05-09` [[2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw|OpenAI, AMD, Broadcom, Intel, Microsoft & NVIDIA Announce MRC Networking Protocol for AI Clusters]]
+- `2026-05-09` [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso|A broad industry coalition — OpenAI, AMD, Broadcom, Intel, Microsoft, and NVIDIA — jointly announced the Multipath…]]
 - `2026-05-06` [[2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute|NewOpenAI, Microsoft, AMD, Broadcom & Nvidia Publish MRC Compute Protocol]]
 - `2026-05-04` [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform|IBM Consulting + AWS: enterprise-scale agentic AI platform]]
 - `2026-04-20` [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update|OpenAI Codex 0.122.0 Ships Broad Platform Update]]
 - `2026-04-09` [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same|Four independent keynotes at RSAC 2026 converged on the same conclusion: AI agent security is the largest unaddressed gap in enterprise cybersecurity. Sessions from Anthropic, Nvidia (NemoClaw), and others highlighted credential isolation, zero-trust architectures for agents, and audit trail requirements as the critical priorities. The consensus signals a major new security category forming around agentic AI deployments — relevant for any enterprise running or planning AI agents in production.]]
+- `2026-04-02` [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america|Iran's Islamic Revolutionary Guard Corps declared 18 American and Gulf technology companies "legitimate military…]]
 - `2026-04-01` [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani|Iran's IRGC declared 18 American and Gulf technology companies "legitimate military targets" for their Middle East operations, citing AI and cloud infrastructure as central to U.S.-Israeli targeting intelligence. Named targets include Apple, Google, Meta, Microsoft, Nvidia, Oracle, IBM, Palantir, Intel, Cisco, HP, Dell, Boeing, Tesla, GE, J.P. Morgan, and UAE AI firm G42. Iran struck AWS data centers in the UAE in March causing cloud outages. Healix CEO: "Tech assets are now treated as part of the conflict, not peripheral to it." This creates a direct geopolitical risk category for AI infrastructure across the Gulf.]]
+- `2026-03-10` [[2026-03-10-custom-intel-xeon-6-see-the-aws-advantage|Custom Intel Xeon 6 - See the AWS Advantage]]
+- `2026-03-09` [[2026-03-09-custom-intel-xeon-6-see-the-aws-advantage|Custom Intel Xeon 6 - See the AWS Advantage]]

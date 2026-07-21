@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
 - 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
-- 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
+- 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
 embedding_id: 2026-06-22-palo-alto-networks-frames-delegated-authority-as-core-agenti
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Practitioner guide reframing agentic-AI governance around structured management 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne]]
+**Related:** [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]]
 <!-- graph:end -->

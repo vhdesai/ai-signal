@@ -25,7 +25,8 @@ related_article_ids:
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 - event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
 - 2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ
-- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- 2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt
+- 2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim
 embedding_id: 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Researchers from UC Berkeley, MIT, and collaborators presented optimize_anything
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]]
+**Related:** [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ]] · [[2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt]] · [[2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: 2026-05-20-openai-model-disproves-a-central-conjecture-in-
 related_article_ids:
 - 2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con
 - 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
+- 2026-05-22-openai-published-research-showing-that-one-of-its-ai-models
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
-- 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
 embedding_id: 2026-05-20-openai-model-disproves-discrete-geometry-conjecture
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI reported that one of its frontier models produced a verified disproof of 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-05-20-openai-model-disproves-a-central-conjecture-in-discrete-geom]]
-**Related:** [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con]] · [[2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]]
+**Related:** [[2026-06-01-openai-model-disproves-a-long-standing-discrete-geometry-con]] · [[2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject]] · [[2026-05-22-openai-published-research-showing-that-one-of-its-ai-models]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]]
 <!-- graph:end -->

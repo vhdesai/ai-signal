@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 - 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
 - 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
+- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
-- 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
 embedding_id: 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Research released Flint, an open-source visualization language that le
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]]
+**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]]
 <!-- graph:end -->

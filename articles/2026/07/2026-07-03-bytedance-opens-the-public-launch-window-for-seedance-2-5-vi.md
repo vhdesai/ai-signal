@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
-- 2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still
-- 2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr
-- 2026-04-23-china-tightens-outbound-investment-screening-over-bytedance
+- 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
+- 2026-07-05-hollywood-seeks-to-ban-bytedance-s-seedance-ai-video-tool-wh
+- 2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de
+- 2026-07-21-neill-blomkamp-released-the-ai-generated-short-nightborne-us
 embedding_id: 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
 event_name: ''
 ---
@@ -38,5 +39,5 @@ ByteDance began the public rollout of Seedance 2.5, which it claims can natively
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-05-16-worldreasonbench-ai-video-generators-look-stunning-but-still]] · [[2026-05-08-new-bytedance-personavlm-achieves-22-4-performance-boost-thr]] · [[2026-04-23-china-tightens-outbound-investment-screening-over-bytedance]]
+**Related:** [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-07-05-hollywood-seeks-to-ban-bytedance-s-seedance-ai-video-tool-wh]] · [[2026-07-05-the-motion-picture-association-sent-bytedance-a-cease-and-de]] · [[2026-07-21-neill-blomkamp-released-the-ai-generated-short-nightborne-us]]
 <!-- graph:end -->

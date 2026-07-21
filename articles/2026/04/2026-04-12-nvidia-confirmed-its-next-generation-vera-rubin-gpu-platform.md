@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
+- 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
 - 2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei
-- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 embedding_id: 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Replit Agent 4 Builds and Deploys Full-Stack Apps from a Single Prompt — 2M Ne
 
 **Entities:** [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]]
+**Related:** [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[2026-05-27-nvidia-refreshes-gtc-2026-press-kit-ahead-of-taipei]]
 <!-- graph:end -->

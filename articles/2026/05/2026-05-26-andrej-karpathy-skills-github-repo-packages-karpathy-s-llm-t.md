@@ -19,8 +19,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
+- 2026-05-22-andrej-karpathy-the-former-tesla-ai-director-and-founding-op
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
-- 2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar
 embedding_id: 2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t
 event_name: ''
 ---
@@ -32,5 +32,5 @@ A new repo by multica-ai consolidates Andrej Karpathy's documented LLM-coding he
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-07-07-llm-as-a-verifier-scaling-verification-as-a-new-axis-for-lar]]
+**Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-05-22-andrej-karpathy-the-former-tesla-ai-director-and-founding-op]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has
+- 2026-03-13-meta-said-to-push-back-launch-of-avocado-model-2026-03-13-th
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 - 2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac
 - 2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud
-- 2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access
-- 2026-07-02-meta-says-its-next-model-watermelon-now-matches-gpt-5-5-on-i
 embedding_id: 2026-04-06-model-releases
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta Planning Open-Source Releases of Next-Gen Models Codenamed "Avocado" and "M
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]] · [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access]] · [[2026-07-02-meta-says-its-next-model-watermelon-now-matches-gpt-5-5-on-i]]
+**Related:** [[2026-05-08-meta-s-next-generation-frontier-model-codenamed-avocado-has]] · [[2026-03-13-meta-said-to-push-back-launch-of-avocado-model-2026-03-13-th]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-26-specialist-frontier-models-land-in-force-gpt-5-5-cyber-claud]]
 <!-- graph:end -->

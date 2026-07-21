@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi
 embedding_id: 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Raindrop has open-sourced "Workshop," a local-first debugging and evaluation fra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]]
+**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
 <!-- graph:end -->

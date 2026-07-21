@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 - 2026-04-13-ai-safety-policy
-- 2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model
 embedding_id: 2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac
 event_name: ''
 ---
@@ -38,5 +37,5 @@ The European Central Bank gave euro-zone banks four months to produce plans to c
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model]]
+**Related:** [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-04-13-ai-safety-policy]]
 <!-- graph:end -->

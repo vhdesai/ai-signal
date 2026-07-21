@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
+- 2026-04-25-why-walmart-is-rolling-out-ai-to-2m-employees-2026-04-25-cio
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-04-25-the-path-beyond-vmware-be-sure-to-register-here-why-walmart
 embedding_id: 2026-05-14-cio-dive-s-latest-report-finds-enterprise-ai-investment-is-m
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-26-cio-dive-reports-tech-chiefs-are-increasingly-playing-hybrid]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-05-14-ai-investment-outpaces-employee-skills-walmart-cuts-1-000-te]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-04-25-why-walmart-is-rolling-out-ai-to-2m-employees-2026-04-25-cio]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-04-25-the-path-beyond-vmware-be-sure-to-register-here-why-walmart]]
 <!-- graph:end -->

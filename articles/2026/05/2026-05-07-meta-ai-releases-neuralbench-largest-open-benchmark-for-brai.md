@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
+- 2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text
 - 2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b
+- 2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
-- 2026-04-23-
-- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 embedding_id: 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Meta AI released NeuralBench-EEG v1.0, the largest open-source framework for ben
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-04-23-]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
+**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-06-30-openai-releases-genebench-pro-to-test-ai-research-taste-in-b]] · [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]]
 <!-- graph:end -->

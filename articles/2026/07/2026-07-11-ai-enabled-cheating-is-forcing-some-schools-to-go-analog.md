@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
+- 2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use
+- 2026-05-23-uc-berkeley-law-bans-ai-from-nearly-all-graded-work-starting
 - 2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse
 - 2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-- 2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai
 embedding_id: 2026-07-11-ai-enabled-cheating-is-forcing-some-schools-to-go-analog
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The University of Chicago Law School is banning laptops in first-year classes wh
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-18-academia-scrambles-to-prepare-future-accountants-for-ai]]
+**Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-23-uc-berkeley-law-bans-ai-from-nearly-all-graded-work-starting]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]]
 <!-- graph:end -->

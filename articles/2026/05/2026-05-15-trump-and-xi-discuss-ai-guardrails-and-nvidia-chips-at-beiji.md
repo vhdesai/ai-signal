@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-pol
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status
-- 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut
-- 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
+- 2026-05-18-trump-and-xi-discuss-ai-guardrails-amid-unresolved-nvidia-ch
+- 2026-05-18-president-trump-confirmed-discussions-with-chinese-president
 embedding_id: 2026-05-15-trump-and-xi-discuss-ai-guardrails-and-nvidia-chips-at-beiji
 event_name: ''
 ---
@@ -40,5 +40,5 @@ President Trump told reporters aboard Air Force One that he discussed “standar
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-pol]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]]
+**Related:** [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-pol]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-status]] · [[2026-05-18-trump-and-xi-discuss-ai-guardrails-amid-unresolved-nvidia-ch]] · [[2026-05-18-president-trump-confirmed-discussions-with-chinese-president]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp
+- 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
 - event-google-android-show-2026-google-android-show-2026-overview
 - event-google-i-o-2026-google-i-o-2026-strategic-implications
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
@@ -39,5 +40,5 @@ OS-level AI becomes hardware strategy: Google is not just adding Gemini to apps;
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[event-google-android-show-2026-google-android-show-2026-overview]] · [[event-google-i-o-2026-google-i-o-2026-strategic-implications]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]]
+**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-strategic-imp]] · [[2026-05-13-in-the-most-significant-android-hardware-and-software-announ]] · [[event-google-android-show-2026-google-android-show-2026-overview]] · [[event-google-i-o-2026-google-i-o-2026-strategic-implications]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]]
 <!-- graph:end -->

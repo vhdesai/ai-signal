@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
-- 2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent
+- 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 embedding_id: 2026-04-24-opus-4-7-reached-general-availability-with-a-1m-token-contex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]]
+**Related:** [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]] · [[2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]]
 <!-- graph:end -->

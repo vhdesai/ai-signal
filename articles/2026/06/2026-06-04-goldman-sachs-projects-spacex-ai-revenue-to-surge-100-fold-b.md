@@ -24,8 +24,7 @@ related_article_ids:
 - 2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
-- 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
-- 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
+- 2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne
 embedding_id: 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Goldman Sachs projects SpaceX's AI division (xAI) could see revenue surge 100-fo
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]]
+**Related:** [[2026-05-20-goldman-sachs-to-lead-spacex-ipo-ai-adjacent-infra-continues]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne]]
 <!-- graph:end -->

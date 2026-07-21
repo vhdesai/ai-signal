@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-23-the-information-2026-06-23-trump-signs-sweeping-quantum-exec
 - 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
 - 2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms
-- 2026-05-10-white-house-mulls-executive-order-banning-private-sector-int
 embedding_id: 2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders
 event_name: ''
 ---
@@ -37,5 +37,5 @@ President Trump signed two executive orders Monday: one directing federal agenci
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]] · [[2026-05-10-white-house-mulls-executive-order-banning-private-sector-int]]
+**Related:** [[2026-06-23-the-information-2026-06-23-trump-signs-sweeping-quantum-exec]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-05-21-trump-delays-ai-security-executive-order-citing-blocker-lang]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-21-u-s-to-invest-2-billion-in-ibm-other-quantum-computing-firms]]
 <!-- graph:end -->

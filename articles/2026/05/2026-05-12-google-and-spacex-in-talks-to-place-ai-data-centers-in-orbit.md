@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i
+- 2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl
 - 2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon
 - 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
-- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-- 2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai
-- 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
+- 2026-07-19-spacex-is-reportedly-building-an-ai-compute-business-that-co
 embedding_id: 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch reported Google and SpaceX are exploring orbital data centers for AI 
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-06-23-spacex-signs-up-to-6-3b-compute-deal-with-reflection-ai]] · [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]]
+**Related:** [[2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i]] · [[2026-05-13-techcrunch-reported-today-that-google-and-spacex-are-in-earl]] · [[2026-06-05-google-signs-30b-deal-to-buy-compute-from-spacex-at-920m-mon]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]] · [[2026-07-19-spacex-is-reportedly-building-an-ai-compute-business-that-co]]
 <!-- graph:end -->

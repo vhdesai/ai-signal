@@ -20,7 +20,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu
-- 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 embedding_id: 2026-07-10-oxylabs-raises-130m-from-warburg-pincus-at-a-3-6b-valuation
 event_name: ''
@@ -34,5 +33,5 @@ Vilnius-based Oxylabs took its first outside investment in a decade — $130M fr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
+**Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
 <!-- graph:end -->

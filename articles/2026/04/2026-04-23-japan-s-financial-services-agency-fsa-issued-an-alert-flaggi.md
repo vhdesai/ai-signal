@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-04-13-ai-safety-policy
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-- 2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e
+- 2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin
 embedding_id: 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Court Ruling Creates Securities Fraud Liability for AI-Generated Ad Content
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-22-openai-deploys-advanced-cybersecurity-ai-model-to-japanese-e]]
+**Related:** [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-04-13-ai-safety-policy]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin]]
 <!-- graph:end -->

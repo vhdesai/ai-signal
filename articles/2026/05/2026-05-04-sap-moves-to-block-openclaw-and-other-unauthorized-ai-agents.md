@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc
 - 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 embedding_id: 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
 event_name: ''
 ---
@@ -40,5 +39,5 @@ SAP published a customer policy effectively barring use of external AI agents to
 
 **Entities:** [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-06-newsap-bets-1-16-billion-on-18-month-old-german-ai-lab-nemoc]] · [[2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with]]
 <!-- graph:end -->

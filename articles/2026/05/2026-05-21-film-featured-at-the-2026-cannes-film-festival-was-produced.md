@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at
 - 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 - 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
-- 2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for
+- 2026-07-20-netflix-discloses-a-587m-purchase-price-for-ben-affleck-s-ai
 embedding_id: 2026-05-21-film-featured-at-the-2026-cannes-film-festival-was-produced
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-05-27-bytedance-weighs-up-to-70b-in-2026-ai-capex-100b-planned-for]]
+**Related:** [[2026-05-21-higgsfield-ai-premieres-95-minute-fully-ai-generated-film-at]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]] · [[2026-07-20-netflix-discloses-a-587m-purchase-price-for-ben-affleck-s-ai]]
 <!-- graph:end -->

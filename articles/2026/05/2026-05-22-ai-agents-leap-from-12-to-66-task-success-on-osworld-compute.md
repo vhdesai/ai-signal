@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
+- 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
-- 2026-05-03-stanford-hai-2026-ai-index-capability-acceleration-not-plate
-- 2026-04-15-research-breakthroughs
 embedding_id: 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI agents improved from 12% to approximately 66% task completion on OSWorld — 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-03-stanford-hai-2026-ai-index-capability-acceleration-not-plate]] · [[2026-04-15-research-breakthroughs]]
+**Related:** [[2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a]] · [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]]
 <!-- graph:end -->

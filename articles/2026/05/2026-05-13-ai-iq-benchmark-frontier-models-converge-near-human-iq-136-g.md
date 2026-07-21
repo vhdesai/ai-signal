@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv
+- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq
-- 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
-- 2026-04-23-
-- 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
+- 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
+- 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
 embedding_id: 2026-05-13-ai-iq-benchmark-frontier-models-converge-near-human-iq-136-g
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A new benchmark site — AI IQ — maps 50+ frontier models onto the standard hu
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv]] · [[2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-04-23-]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-12-frontier-benchmark-snapshot-gemini-3-1-pro-leads-at-94-1-gpq]] · [[2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua]] · [[2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a]]
 <!-- graph:end -->

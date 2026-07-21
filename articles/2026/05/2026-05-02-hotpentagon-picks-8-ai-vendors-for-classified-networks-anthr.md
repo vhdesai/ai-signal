@@ -26,9 +26,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
-- 2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws
 embedding_id: 2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The Pentagon signed agreements with AWS, Google, Microsoft, OpenAI, NVIDIA, Spac
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-01-pentagon-signs-ai-deployment-deals-with-nvidia-microsoft-aws]]
+**Related:** [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]]
 <!-- graph:end -->

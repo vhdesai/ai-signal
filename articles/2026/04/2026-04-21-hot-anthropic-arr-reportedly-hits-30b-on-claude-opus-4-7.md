@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-surpassing-openai
+- 2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl
 - 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
+- 2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar
 - 2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth
-- 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
-- 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 embedding_id: 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic has reportedly reached roughly $30B in ARR versus OpenAI's $25B, cappi
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-surpassing-openai]] · [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]] · [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]] · [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]]
+**Related:** [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-surpassing-openai]] · [[2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl]] · [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]] · [[2026-04-16-anthropic-attracts-800b-valuation-offers-revenue-hits-30b-ar]] · [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]]
 <!-- graph:end -->

@@ -16,13 +16,9 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-- 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
+dedupe_status: duplicate
+canonical_article_id: 2026-06-21-six-months-after-president-trump-warned-states-not-to-regula
+related_article_ids: []
 embedding_id: 2026-06-21-us-states-forge-ahead-with-ai-regulation-despite-trump-s-war
 event_name: ''
 ---
@@ -35,5 +31,5 @@ Six months post-Trump warning, states accelerating regulation. CT, RI and others
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Canonical:** [[2026-06-21-six-months-after-president-trump-warned-states-not-to-regula]]
 <!-- graph:end -->

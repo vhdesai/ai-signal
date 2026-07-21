@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 - 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-05-27-indian-government-infosys-tcs-join-anthropic-s-project-glass
 event_name: ''
 ---
@@ -39,5 +40,5 @@ India's national government has joined Anthropic's Project Glasswing — the Cla
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]]
+**Related:** [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

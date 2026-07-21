@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
-- 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 embedding_id: 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The EU AI Act is executing its phased rollout schedule through 2026, with high-r
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]]
+**Related:** [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]]
 <!-- graph:end -->

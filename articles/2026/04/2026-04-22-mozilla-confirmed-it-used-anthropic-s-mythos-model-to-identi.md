@@ -28,11 +28,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje
+- 2026-05-09-mozilla-published-a-detailed-technical-blog-post-describing
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
 - 2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000
 - 2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi
-- 2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos
-- 2026-04-07-research-breakthroughs
 embedding_id: 2026-04-22-mozilla-confirmed-it-used-anthropic-s-mythos-model-to-identi
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Microsoft Integrates Mythos into Security Development Lifecycle
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]] · [[2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos]] · [[2026-04-07-research-breakthroughs]]
+**Related:** [[2026-05-23-published-just-hours-ago-anthropic-s-initial-report-on-proje]] · [[2026-05-09-mozilla-published-a-detailed-technical-blog-post-describing]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-05-23-anthropic-s-project-glasswing-claude-mythos-surfaced-10-000]] · [[2026-05-26-anthropic-s-claude-mythos-flags-23-019-open-source-vulnerabi]]
 <!-- graph:end -->

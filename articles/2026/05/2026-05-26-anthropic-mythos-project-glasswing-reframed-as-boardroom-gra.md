@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
-- 2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety
+- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Forbes contributor Bob Zukis reframes Anthropic's Mythos and Project Glasswing a
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative]] · [[2026-05-22-claude-mythos-in-restricted-preview-clears-all-uk-ai-safety]]
+**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

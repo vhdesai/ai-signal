@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
 - 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 embedding_id: 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Global semiconductor revenue posted its largest quarterly increase in more than 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]]
+**Related:** [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
 <!-- graph:end -->

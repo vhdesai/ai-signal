@@ -32,6 +32,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team
+- 2026-05-22-andrej-karpathy-the-former-tesla-ai-director-and-founding-op
 - 2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team
 - 2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team
 embedding_id: 2026-05-20-andrej-karpathy-a-founding-member-of-openai-and-former-direc
@@ -47,5 +48,5 @@ Hardware & Infrastructure Hot Even at $5 Trillion, Nvidia Is "Underappreciated" 
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team]]
+**Related:** [[2026-05-20-breaking-andrej-karpathy-joins-anthropic-s-pre-training-team]] · [[2026-05-22-andrej-karpathy-the-former-tesla-ai-director-and-founding-op]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pretraining-team]]
 <!-- graph:end -->

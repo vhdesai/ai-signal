@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 35
+member_count: 47
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 35 connected article(s).
+> Auto-generated entity hub. 47 connected article(s).
 
+- `2026-07-21` [[2026-07-21-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift|TSMC added/accelerated another $100B in Arizona capacity, lifting its pipeline to roughly $265B and raising full-year…]]
+- `2026-07-20` [[2026-07-20-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift|TSMC added/accelerated another $100B in Arizona capacity, lifting its pipeline to roughly $265B and raising full-year…]]
+- `2026-07-20` [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem|TSMC accelerates Arizona fab expansion on robust AI chip demand, reinforcing the AI semiconductor megatrend and U.S]]
+- `2026-07-18` [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest|TSMC posts record results and expands planned Arizona investment toward $265B, reinforcing that AI demand continues to…]]
+- `2026-07-17` [[2026-07-17-tsmc-record-results-and-reported-planned-u-s|TSMC record results and reported/planned U.S]]
+- `2026-07-17` [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest|TSMC posts record results and expands planned Arizona investment toward $265B, reinforcing that AI demand continues to…]]
+- `2026-07-17` [[2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize|Chip and memory stocks sell off as public markets scrutinize AI capex ROI, even while TSMC and other fundamentals…]]
+- `2026-07-16` [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b|The Information - [2026-07-16] [EXTERNAL] TSMC Plans Another $100 Billion U.S]]
+- `2026-07-16` [[2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr|TSMC's additional U.S. investment as AI demand surges; enterprise software startups potentially for sale; AI and…]]
+- `2026-07-16` [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip|TSMC posts record Q2 revenue and 77%+ profit growth on AI-chip demand, and WSJ/The Information coverage highlights…]]
 - `2026-07-13` [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j|TSMC posts record Q2 revenue, up 36% on AI demand; June sales jump ~68%]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
@@ -28,6 +38,8 @@ member_count: 35
 - `2026-05-23` [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2|Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Strategic Implications]]
 - `2026-05-23` [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge|Computex 2026: NVIDIA Vera Rubin, Photonic Networking, and Edge Robotics — Overview]]
 - `2026-05-21` [[2026-05-21-cerebras-ceo-andrew-feldman-on-why-he-built-the-world-s-larg|Cerebras CEO Andrew Feldman on why he built the world's largest computer chip]]
+- `2026-05-18` [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte|Apple signed a preliminary manufacturing agreement with Intel for US-based chip production, responding to White House…]]
+- `2026-05-09` [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom|OpenAI's $18 billion custom AI chip initiative with Broadcom — code-named Project Nexus — has hit a major financing wall]]
 - `2026-05-07` [[2026-05-07--2|🚨]]
 - `2026-05-07` [[2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas|SpaceX Files Plans for $55B "Terafab" Chip Factory in Texas]]
 - `2026-04-22` [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic|major analysis published today in the Bulletin of the Atomic Scientists argues that current AI governance frameworks are optimized for steady-state oversight — not disaster response. Drawing parallels to the Oil Pollution Act of 1990 (post-Exxon Valdez) and the post-9/11 security legislation wave, author Juhyun Nam argues a catastrophic AI incident is "no longer a matter of if, but when," and that policymakers should pre-draft emergency AI response legislation now to be ready for that "policy window." The European Parliament separately voted on AI Act amendments this week, including a new ban on AI apps that create or manipulate sexually explicit images.]]

@@ -22,9 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
+- 2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne
 - 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
-- 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
-- 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
 embedding_id: 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Largest IPO in history. Early crypto contracts initially fell before recovering 
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor]]
+**Related:** [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]]
 <!-- graph:end -->

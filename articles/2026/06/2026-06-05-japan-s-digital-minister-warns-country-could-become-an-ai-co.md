@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
 - 2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10
-- 2026-04-13-source-the-neuron-apr-13-2026
-- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
+- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
+- 2026-05-08-imf-warns-advanced-ai-cyber-models-could-destabilize-the-wor
 embedding_id: 2026-06-05-japan-s-digital-minister-warns-country-could-become-an-ai-co
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Japan's digital minister warned the country risks becoming an "AI colony" if it 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]]
+**Related:** [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-07-01-japan-commissions-a-6-1b-sovereign-physical-ai-model-for-10]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-05-08-imf-warns-advanced-ai-cyber-models-could-destabilize-the-wor]]
 <!-- graph:end -->

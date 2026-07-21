@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+- 2026-04-25-the-path-beyond-vmware-be-sure-to-register-here-why-walmart
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
-- 2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce
+- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 embedding_id: 2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Oracle launched four new agentic applications inside Oracle Fusion Cloud SCM —
 
 **Entities:** [[Oracle]] · [[Salesforce]] · [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-03-30-pondurance-launches-kanati-agentic-ai-security-operations-ce]]
+**Related:** [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-04-25-the-path-beyond-vmware-be-sure-to-register-here-why-walmart]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]]
 <!-- graph:end -->

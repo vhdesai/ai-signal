@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t
 - 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
+- 2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst
 - 2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems
 - 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
 embedding_id: 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
@@ -37,5 +38,5 @@ A 20-author Google DeepMind preprint introduces a system advancing mathematics r
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]]
+**Related:** [[2026-05-07-hot-google-deepmind-ai-co-mathematician-48-on-frontiermath-t]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]] · [[2026-03-24-google-deepmind-s-alphaproof-the-reinforcement-learning-syst]] · [[2026-05-25-deepmind-s-alphaproof-nexus-solves-nine-open-erd-s-problems]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
 - 2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live
+- 2026-05-08-openai-on-may-5-pushed-gpt-5-5-instant-as-the-default-chatgp
 - 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
-- 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 embedding_id: 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
 event_name: ''
 ---
@@ -38,5 +38,5 @@ GPT-Live-1 and GPT-Live-1 mini replace Advanced Voice Mode with an architecture 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
+**Related:** [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-07-10-openai-launches-chatgpt-work-agentic-assistant-and-gpt-live]] · [[2026-05-08-openai-on-may-5-pushed-gpt-5-5-instant-as-the-default-chatgp]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]]
 <!-- graph:end -->

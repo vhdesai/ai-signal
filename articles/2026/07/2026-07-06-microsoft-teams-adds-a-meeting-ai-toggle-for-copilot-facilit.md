@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat
 - 2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control
+- 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
-- 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
-- 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
+- 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 embedding_id: 2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft is rolling out a new in-meeting "Meeting AI" control in Teams that let
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat]] · [[2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]]
+**Related:** [[2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat]] · [[2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory
 related_article_ids:
+- 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 - 2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of
 embedding_id: 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Memory-chip maker SK Hynix made its U.S. market debut on July 10, reportedly rai
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-nasdaq-listing-powered-by-ai-memory]]
-**Related:** [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-06-sk-hynix-s-record-29b-nasdaq-listing-is-this-week-s-test-of]]
+**Related:** [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

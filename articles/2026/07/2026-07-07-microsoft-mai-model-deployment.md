@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
+- 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
-- 2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc
-- 2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in
+- 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 embedding_id: 2026-07-07-microsoft-mai-model-deployment
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft deployed its internal MAI (Microsoft AI) model across several enterpri
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-06-02-microsoft-debuts-in-house-mai-models-to-cut-openai-dependenc]] · [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]]
+**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]]
 <!-- graph:end -->

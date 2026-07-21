@@ -20,10 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-subject-daily-ai-news-digest-july-10-2026
-- 2026-06-16-sources-scanned-june-15-16-2026
-- 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
-- 2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo
-- 2026-05-17-yahoo-finance-the-motley-fool-the-ai-track-theaitrack-com-ai
+- 2026-04-16-source-techcrunch-april-16-2026
 embedding_id: 2026-07-13-subject-daily-ai-news-digest-july-13-2026
 event_name: ''
 ---
@@ -36,5 +33,5 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-10-subject-daily-ai-news-digest-july-10-2026]] · [[2026-06-16-sources-scanned-june-15-16-2026]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]] · [[2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo]] · [[2026-05-17-yahoo-finance-the-motley-fool-the-ai-track-theaitrack-com-ai]]
+**Related:** [[2026-07-10-subject-daily-ai-news-digest-july-10-2026]] · [[2026-04-16-source-techcrunch-april-16-2026]]
 <!-- graph:end -->

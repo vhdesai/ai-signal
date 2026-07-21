@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
+- 2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
-- 2026-05-11-
-- 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
+- 2026-05-13-thinking-machines-emerges-building-an-ai-that-listens-while
 embedding_id: 2026-05-12-mira-murati-s-thinking-machines-previews-real-time-ai-intera
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Thinking Machines Lab — founded by former OpenAI CTO Mira Murati — previewed
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-05-11-]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]]
+**Related:** [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]] · [[2026-05-14-mira-murati-s-thinking-machines-lab-introduces-tml-interacti]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-05-13-thinking-machines-emerges-building-an-ai-that-listens-while]]
 <!-- graph:end -->

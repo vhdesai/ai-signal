@@ -23,7 +23,7 @@ related_article_ids:
 - event-google-i-o-2026-google-i-o-2026-gemini-model-family
 - 2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
-- 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
+- 2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro
 embedding_id: 2026-05-06-newgemini-3-2-flash-what-we-know-before-google-i-o-2026
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Ahead of Google I/O, analysis of Gemini 3.2 Flash has surfaced indicating strong
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[event-google-i-o-2026-google-i-o-2026-gemini-model-family]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
+**Related:** [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[event-google-i-o-2026-google-i-o-2026-gemini-model-family]] · [[2026-05-19-google-launches-gemini-3-5-flash-at-i-o-2026-claims-1b-in-en]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro]]
 <!-- graph:end -->

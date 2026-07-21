@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
-- 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
+- 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 embedding_id: 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 event_name: ''
 ---
@@ -46,5 +46,5 @@ The EU AI Act entered active enforcement in early 2026, requiring all high-risk 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]]
+**Related:** [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-19-eu-ai-act-gpai-enforcement-now-active-12-us-state-ai-laws-ta]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]]
 <!-- graph:end -->

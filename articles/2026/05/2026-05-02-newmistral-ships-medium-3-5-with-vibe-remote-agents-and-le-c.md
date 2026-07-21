@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
+- 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
+- 2026-05-09-mistral-medium-3-5-ships-with-remote-vibe-agents-le-chat-wor
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
-- 2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price
-- 2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo
 embedding_id: 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Mistral released Medium 3.5 — a 128B dense model with a 256k context window, 7
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price]] · [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]]
+**Related:** [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7]] · [[2026-05-09-mistral-medium-3-5-ships-with-remote-vibe-agents-le-chat-wor]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]]
 <!-- graph:end -->

@@ -21,9 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a
+- 2026-05-18-google-i-o-2026-keynote-gemini-4-0-and-android-xr-expected-t
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
 - 2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass
-- 2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea
 embedding_id: 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Google's annual developer conference opened today (May 19–20) with the keynote
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]] · [[2026-05-18-google-i-o-2026-opens-tomorrow-with-gemini-3-expected-to-hea]]
+**Related:** [[2026-05-18-google-s-annual-developer-conference-opens-tomorrow-may-19-a]] · [[2026-05-18-google-i-o-2026-keynote-gemini-4-0-and-android-xr-expected-t]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-17-google-i-o-2026-is-48-hours-away-gemini-4-0-android-xr-glass]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
 - 2026-05-22-four-frontier-labs-four-acquisitions-in-five-days
+- 2026-05-15-model-releases-research-products-tools-industry-news-academi
+- 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
 - 2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml
-- 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
-- 2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion
 embedding_id: 2026-05-04-1-model-releases-frontier-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]] · [[2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel]] · [[2026-04-23-sap-signed-a-definitive-agreement-to-acquire-prior-labs-pion]]
+**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-22-four-frontier-labs-four-acquisitions-in-five-days]] · [[2026-05-15-model-releases-research-products-tools-industry-news-academi]] · [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]] · [[2026-05-04-tabpfn-2-6-matches-the-accuracy-of-a-four-hour-automated-ml]]
 <!-- graph:end -->

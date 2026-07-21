@@ -26,9 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2
+- 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
 - 2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b
 - 2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue
-- 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
+- 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 embedding_id: 2026-05-20-anthropic-revenue-explosive-growth-brings-ipo-and-profitable
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Anthropic projects turning an operating profit for the first time in Q2, with re
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b]] · [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]]
+**Related:** [[2026-05-22-anthropic-hits-first-ever-quarterly-profit-projects-10-9b-q2]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-21-anthropic-projects-first-ever-operating-profit-559m-on-10-9b]] · [[2026-05-21-anthropic-hits-first-profit-559m-on-10-9b-q2-revenue]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]]
 <!-- graph:end -->

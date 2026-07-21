@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 - 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
+- 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 - 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
-- 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
 embedding_id: 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Wall Street Journal reported remarks from Satya Nadella arguing that the AI 
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]] · [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors]]
+**Related:** [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]] · [[2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star]] · [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]]
 <!-- graph:end -->

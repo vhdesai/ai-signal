@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
-- 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 embedding_id: 2026-05-26-new-mit-sloan-executive-education-expands-ai-portfolio-launc
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Sloan announced new and refreshed AI executive programs — including a new 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]] · [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]]
+**Related:** [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-06-01-mit-sloan-a-three-minute-protocol-to-reduce-ai-manipulation]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu]]
 <!-- graph:end -->

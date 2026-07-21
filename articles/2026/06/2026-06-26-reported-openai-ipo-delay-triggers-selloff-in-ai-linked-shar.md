@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
-- 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
+- 2026-06-27-o-trending-markets-tread-water-amid-tech-sell-off-and-a-repo
 embedding_id: 2026-06-26-reported-openai-ipo-delay-triggers-selloff-in-ai-linked-shar
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Shares of Japanese NAND-flash maker Kioxia fell about 12% on Friday after report
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]]
+**Related:** [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]] · [[2026-06-27-o-trending-markets-tread-water-amid-tech-sell-off-and-a-repo]]
 <!-- graph:end -->

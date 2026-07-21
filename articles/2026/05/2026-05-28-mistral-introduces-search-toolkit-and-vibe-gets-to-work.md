@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-mistral-launches-remote-coding-agents-vibe-powered-by-medium
+- 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
 - 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 - 2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo
-- 2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof
-- 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
 embedding_id: 2026-05-28-mistral-introduces-search-toolkit-and-vibe-gets-to-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mistral published new product updates including "Introducing Search Toolkit" and
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]] · [[2026-07-02-mistral-releases-leanstral-1-5-an-open-lean-4-code-and-proof]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
+**Related:** [[2026-05-15-mistral-launches-remote-coding-agents-vibe-powered-by-medium]] · [[2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]] · [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]]
 <!-- graph:end -->

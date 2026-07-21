@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
+- 2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
-- 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
-- 2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu
+- 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 embedding_id: 2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Cerebras Systems Files for Nasdaq IPO (Ticker: CBRS) Cerebras Systems has public
 
 **Entities:** [[Cerebras]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-14-cerebras-systems-prices-largest-us-ipo-of-2026-at-56-4b-valu]]
+**Related:** [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]]
 <!-- graph:end -->

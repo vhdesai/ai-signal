@@ -40,9 +40,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-04-13-industry-news
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-- 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
 embedding_id: 2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle
 event_name: ''
 ---
@@ -56,5 +56,5 @@ From the Musk v. Altman post-verdict proceedings in Oakland, Musk used the court
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-04-13-industry-news]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]]
 <!-- graph:end -->

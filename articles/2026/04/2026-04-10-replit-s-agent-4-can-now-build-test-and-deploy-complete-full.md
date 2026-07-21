@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2
 - 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
+- 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 embedding_id: 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Apple Pivots AI Strategy — Siri in iOS 27 to Integrate Claude and Gemini as Th
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]]
+**Related:** [[2026-05-17-trending-vibe-coding-drives-414-000-new-app-launches-in-q1-2]] · [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont]] · [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]]
 <!-- graph:end -->

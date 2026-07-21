@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
-- 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
+- 2026-05-14-microsoft-edge-adds-copilot-features-that-read-across-browse
+- 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
 embedding_id: 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft consolidated Excel's Copilot UX down to two entry points and added a d
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
+**Related:** [[2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[2026-05-14-microsoft-edge-adds-copilot-features-that-read-across-browse]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]]
 <!-- graph:end -->

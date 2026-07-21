@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-21-cerebras-ceo-andrew-feldman-on-why-he-built-the-world-s-larg
 - 2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn
 - 2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap
+- 2026-05-02-may-1-2026-bloomberg
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-- 2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026
 embedding_id: 2026-05-27-cerebras-ceo-defends-data-center-growth-claims-in-business-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cerebras CEO Andrew Feldman addressed criticism of the company's AI data-center 
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-cerebras-ceo-andrew-feldman-on-why-he-built-the-world-s-larg]] · [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn]] · [[2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]]
+**Related:** [[2026-05-21-cerebras-ceo-andrew-feldman-on-why-he-built-the-world-s-larg]] · [[2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn]] · [[2026-04-22-meta-is-deploying-new-tracking-software-called-the-model-cap]] · [[2026-05-02-may-1-2026-bloomberg]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]]
 <!-- graph:end -->

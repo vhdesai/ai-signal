@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
-- 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
+- 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 embedding_id: 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The EU AI Act becomes fully enforceable on August 2, 2026 — the first comprehe
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]]
+**Related:** [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]]
 <!-- graph:end -->

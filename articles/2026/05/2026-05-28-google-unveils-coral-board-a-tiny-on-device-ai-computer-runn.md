@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop
 - 2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop
+- 2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31
+- 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-- 2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t
 embedding_id: 2026-05-28-google-unveils-coral-board-a-tiny-on-device-ai-computer-runn
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google introduced the Coral Board, a compact single-board computer built around 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop]] · [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop]] · [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-06-05-google-ships-gemma-4-qat-checkpoints-on-device-memory-down-t]]
+**Related:** [[2026-06-03-google-releases-gemma-4-12b-sized-to-run-on-a-16gb-laptop]] · [[2026-06-03-google-releases-gemma-4-12b-sized-for-a-16gb-laptop]] · [[2026-04-04-google-released-gemma-4-in-four-sizes-e2b-e4b-26b-moe-and-31]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-06-05-google-ships-gemma-4-qat-checkpoints-cutting-on-device-memor]]
 <!-- graph:end -->

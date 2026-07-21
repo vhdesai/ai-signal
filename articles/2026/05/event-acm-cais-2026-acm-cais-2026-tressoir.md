@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
+- 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
+- 2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
-- event-acm-cais-2026-acm-cais-2026-strategic-implications
-- event-acm-cais-2026-acm-cais-2026-overview
 embedding_id: event-acm-cais-2026-acm-cais-2026-tressoir
 event_name: ACM CAIS 2026
 ---
@@ -41,5 +41,5 @@ MIT researchers presented Tressoir, a system for designing and evolving multi-ag
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[event-acm-cais-2026-acm-cais-2026-overview]]
+**Related:** [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]] · [[2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies]] · [[2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]]
 <!-- graph:end -->

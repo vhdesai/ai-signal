@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 - 2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment
-- 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
+- 2026-06-21-politico-published-a-deep-investigation-into-the-integration
+- 2026-07-15-the-information-2026-07-15-external-trump-administration-rol
 embedding_id: 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
 event_name: ''
 ---
@@ -35,5 +35,5 @@ President Trump called for the military to accelerate its adoption of AI technol
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
+**Related:** [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-06-02-trump-signs-ai-executive-order-cfr-publishes-assessment]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-07-15-the-information-2026-07-15-external-trump-administration-rol]]
 <!-- graph:end -->

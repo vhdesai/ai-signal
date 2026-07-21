@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 - 2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
+- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 - 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-07-07-how-novice-coders-can-develop-ai-programs-for-military-appli
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Lincoln Laboratory and the U.S. Air Force-MIT AI Accelerator described a pro
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]]
 <!-- graph:end -->

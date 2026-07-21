@@ -25,7 +25,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives
+canonical_article_id: 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
 related_article_ids: []
 embedding_id: 2026-05-01-trending-huawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-r
 event_name: ''
@@ -40,5 +40,5 @@ Huawei projects AI chip revenue will climb roughly 60% to $12 billion in 2026, d
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Canonical:** [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives]]
+**Canonical:** [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]]
 <!-- graph:end -->

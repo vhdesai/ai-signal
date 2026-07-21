@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
-- 2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent
+- 2026-07-18-walmart-bets-on-ai-and-digital-twins-to-shape-supply-chain-s
 embedding_id: 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Berkeley RDI Announces Agentic AI Summit 2026 (Aug 1–2) & AgentX Phase 2 Updat
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-18-your-work-team-is-now-a-pod-and-your-co-workers-are-ai-agent]]
+**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-07-18-walmart-bets-on-ai-and-digital-twins-to-shape-supply-chain-s]]
 <!-- graph:end -->

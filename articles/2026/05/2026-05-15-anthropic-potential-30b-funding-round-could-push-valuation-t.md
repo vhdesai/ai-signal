@@ -22,7 +22,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
+canonical_article_id: 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
 related_article_ids: []
 embedding_id: 2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t
 event_name: ''
@@ -37,5 +37,5 @@ Reports indicate Anthropic is in active discussions for a funding round of appro
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]]
+**Canonical:** [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]]
 <!-- graph:end -->

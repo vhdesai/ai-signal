@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-04-13-source-the-neuron-apr-13-2026
 - 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
-- 2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa
+- 2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr
 embedding_id: 2026-07-07-un-s-first-global-dialogue-on-ai-governance-convenes-in-gene
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The inaugural UN Global Dialogue on AI Governance convened July 6–7 in Geneva,
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-06-05-mit-ethics-of-computing-symposium-alignment-is-now-a-governa]]
+**Related:** [[2026-07-06-un-opens-first-global-dialogue-on-ai-governance-in-geneva]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr]]
 <!-- graph:end -->

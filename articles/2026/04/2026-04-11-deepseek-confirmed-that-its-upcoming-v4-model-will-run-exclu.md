@@ -33,10 +33,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
+- 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
+- 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 - 2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-- 2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 embedding_id: 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
 event_name: ''
 ---
@@ -50,5 +50,5 @@ event_name: ''
 
 **Entities:** [[DeepSeek]] · [[Google]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-milestone-for-china-s-ai]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]]
+**Related:** [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-06-05-deepseek-v4-trained-on-huawei-chips-marking-milestone-for-ch]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

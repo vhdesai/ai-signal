@@ -23,9 +23,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
 - 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 - 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 embedding_id: 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Lindy CEO Flo Crivello said the AI-agent startup migrated 100% of its traffic fr
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]]
+**Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
 <!-- graph:end -->

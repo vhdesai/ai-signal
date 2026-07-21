@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability
-- 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general
+- 2026-06-27-openai-unveiled-the-gpt-5-6-family-sol-flagship-terra-balanc
 embedding_id: 2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-games-evaluations
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI's GPT-5.6 reached GA: Sol ($5/$30), Terra ($2.50/$15), Luna ($1/$6). Sol 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability]] · [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general]]
+**Related:** [[2026-07-09-gpt-5-6-sol-sets-terminal-bench-record-but-independent-evalu]] · [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability]] · [[2026-06-27-openai-unveiled-the-gpt-5-6-family-sol-flagship-terra-balanc]]
 <!-- graph:end -->

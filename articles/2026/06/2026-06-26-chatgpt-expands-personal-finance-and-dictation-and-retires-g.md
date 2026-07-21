@@ -21,7 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
-- 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
+- 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
 embedding_id: 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
 event_name: ''
 ---
@@ -35,5 +35,5 @@ OpenAI broadened ChatGPT’s personal-finance experience to Plus users in the U.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u]]
 <!-- graph:end -->

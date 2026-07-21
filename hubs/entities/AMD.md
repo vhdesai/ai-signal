@@ -1,15 +1,16 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 36
+member_count: 45
 ---
 
 # AMD
 
-> Auto-generated entity hub. 36 connected article(s).
+> Auto-generated entity hub. 45 connected article(s).
 
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
+- `2026-07-06` [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12|Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July 6, 2026 · The Next Web Nvidia has…]]
 - `2026-07-05` [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028|Nvidia's Next-Gen "Kyber" NVL144 Rack Reportedly Slips to 2028]]
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]
 - `2026-06-22` [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x|MoonMath AI Open-Sources HIP Attention Kernel for AMD MI300X]]
@@ -38,9 +39,17 @@ member_count: 36
 - `2026-05-21` [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug|AMD CEO Lisa Su: Server CPU Market to Grow 35%+ Annually Through 2031]]
 - `2026-05-19` [[2026-05-19-mlcommons-names-2026-rising-stars-cohort-39-researchers-from|MLCommons names 2026 Rising Stars cohort — 39 researchers from 26 institutions]]
 - `2026-05-18` [[2026-05-18-cerebras-ipo-winners-include-foundation-benchmark-and-openai|Cerebras IPO Winners Include Foundation, Benchmark — and OpenAI]]
+- `2026-05-18` [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte|Apple signed a preliminary manufacturing agreement with Intel for US-based chip production, responding to White House…]]
 - `2026-05-15` [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar|AMD & Intel Lead 2026 Shift from Training to Inference; CPU Market Booming]]
 - `2026-05-11` [[2026-05-11-|🔥]]
+- `2026-05-09` [[2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw|OpenAI, AMD, Broadcom, Intel, Microsoft & NVIDIA Announce MRC Networking Protocol for AI Clusters]]
 - `2026-05-09` [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef|Hot Nvidia Commits $40 Billion to Equity AI Deals in 2026 — Before Midyear]]
+- `2026-05-09` [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso|A broad industry coalition — OpenAI, AMD, Broadcom, Intel, Microsoft, and NVIDIA — jointly announced the Multipath…]]
 - `2026-05-07` [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire|New ZAYA1-8B: Competitive Open Reasoning Model Trained Entirely on AMD Instinct MI300 GPUs]]
 - `2026-05-06` [[2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute|NewOpenAI, Microsoft, AMD, Broadcom & Nvidia Publish MRC Compute Protocol]]
+- `2026-05-03` [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi|Pentagon Signs Classified AI Contracts with 7 Firms; Anthropic Excluded Over Supply-Chain Dispute BREAKING Yahoo…]]
+- `2026-05-03` [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi|Anthropic Approaches $900B+ Valuation — $50B Round Could Close Within Two Weeks BREAKING TechCrunch / Marina Temkin ·…]]
 - `2026-05-02` [[2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b|BREAKINGMeta Lifts 2026 AI Spend to $125–145B]]
+- `2026-03-25` [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai|The Information logo - AMD-Backed Vultr Seeks $1 Billion for AI Cloud Push - Miles Kruppa - Anissa Gardizy - Read the…]]
+- `2026-03-24` [[2026-03-24-research-science-google-deepmind|Research & Science Google DeepMind]]
+- `2026-03-24` [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in|AMD and Meta have officially expanded their multi-year AI infrastructure partnership around the deployment of up to 6…]]

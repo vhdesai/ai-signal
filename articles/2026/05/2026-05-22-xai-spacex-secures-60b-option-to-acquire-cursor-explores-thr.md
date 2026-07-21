@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
+- 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
 - 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
-- 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
 embedding_id: 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 event_name: ''
 ---
@@ -46,5 +46,5 @@ SpaceX — which absorbed xAI in a $1.25 trillion merger in February — has sec
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]]
+**Related:** [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]] · [[2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]]
 <!-- graph:end -->

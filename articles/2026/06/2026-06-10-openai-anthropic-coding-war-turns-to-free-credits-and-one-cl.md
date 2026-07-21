@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
-- 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
+- 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 embedding_id: 2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI offering enterprises two months of free Codex usage to switch off rival c
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep]]
+**Related:** [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-and]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]]
 <!-- graph:end -->

@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-nvidia-commits-40b-in-ai-equity-deals-in-2026-ai-startup-fun
 - 2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026
 - 2026-05-09-nvidia-tops-40-billion-in-ai-equity-commitments-for-2026
+- 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 embedding_id: 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia has already deployed $40 billion in equity investments across AI companie
 
 **Entities:** [[Amazon]] · [[AMD]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026]] · [[2026-05-09-nvidia-tops-40-billion-in-ai-equity-commitments-for-2026]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
+**Related:** [[2026-05-18-nvidia-commits-40b-in-ai-equity-deals-in-2026-ai-startup-fun]] · [[2026-05-09-trendingnvidia-tops-40-billion-in-equity-investments-in-2026]] · [[2026-05-09-nvidia-tops-40-billion-in-ai-equity-commitments-for-2026]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-05-10-nvidia-tops-40b-in-ai-equity-bets-invests-3-2b-in-corning-2]]
 <!-- graph:end -->

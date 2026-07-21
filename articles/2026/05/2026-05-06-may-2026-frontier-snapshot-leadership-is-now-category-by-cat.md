@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
 - 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
+- 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
 embedding_id: 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Independent rollups put Claude Opus 4.7 (1M context) on top for production multi
 
 **Entities:** [[Alibaba]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]]
+**Related:** [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua]]
 <!-- graph:end -->

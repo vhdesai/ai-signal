@@ -21,7 +21,6 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
@@ -39,5 +38,5 @@ NVIDIA reported Q1 FY27 adjusted EPS of $1.87 (vs. $1.77 consensus) on revenue o
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]]
+**Related:** [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]]
 <!-- graph:end -->

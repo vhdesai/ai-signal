@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
+- 2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic
 - 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
-- 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 embedding_id: 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A German court ruled in favor of two businesses that sued Google after AI Overvi
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]]
+**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]]
 <!-- graph:end -->

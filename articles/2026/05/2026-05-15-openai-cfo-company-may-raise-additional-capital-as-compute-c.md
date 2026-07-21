@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
-- 2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money
-- 2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin
-- 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
+- 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
 embedding_id: 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI CFO Sarah Friar told Bloomberg that the company is actively evaluating ad
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-05-04-openai-raises-4b-for-the-deployment-company-at-10b-pre-money]] · [[2026-07-14-deepseek-reportedly-plans-another-funding-round-after-raisin]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
+**Related:** [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub]]
 <!-- graph:end -->

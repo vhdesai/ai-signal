@@ -21,11 +21,12 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-google-deepmind-introduces-an-ai-enabled-mouse-pointer-power
 - 2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol
 - 2026-05-13-google-deepmind-magic-pointer-gemini-powered-ai-cursor-captu
 - 2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor
 - 2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte
-- 2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai
+- 2026-05-13-google-deepmind-is-experimenting-with-treating-cursor-positi
 embedding_id: 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Google DeepMind introduced an experimental AI-enabled pointer that captures visu
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol]] · [[2026-05-13-google-deepmind-magic-pointer-gemini-powered-ai-cursor-captu]] · [[2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor]] · [[2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte]] · [[2026-05-12-google-deepmind-reimagines-the-mouse-pointer-as-a-gemini-ai]]
+**Related:** [[2026-05-14-google-deepmind-introduces-an-ai-enabled-mouse-pointer-power]] · [[2026-05-16-google-deepmind-s-ai-powered-mouse-pointer-begins-chrome-rol]] · [[2026-05-13-google-deepmind-magic-pointer-gemini-powered-ai-cursor-captu]] · [[2026-05-14-new-google-deepmind-unveils-gemini-powered-ai-mouse-cursor]] · [[2026-05-13-google-deepmind-turns-the-mouse-cursor-into-a-gemini-ai-inte]] · [[2026-05-13-google-deepmind-is-experimenting-with-treating-cursor-positi]]
 <!-- graph:end -->

@@ -30,7 +30,6 @@ related_article_ids:
 - 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
 - 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-- 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
 embedding_id: 2026-04-11-openai-disclosed-on-april-11-that-a-widely-used-third-party
 event_name: ''
 ---
@@ -43,5 +42,5 @@ Molotov Cocktail Thrown at Sam Altman's Home; Altman Responds to New Yorker Prof
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]]
+**Related:** [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]]
 <!-- graph:end -->

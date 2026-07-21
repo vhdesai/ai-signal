@@ -30,9 +30,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours
 - 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
 - 2026-04-23-
-- 2026-04-15-model-releases
 embedding_id: 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
 event_name: ''
 ---
@@ -46,5 +46,5 @@ The past 24–48 hours produced the densest frontier-model release window of the
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-04-23-]] · [[2026-04-15-model-releases]]
+**Related:** [[2026-06-30-no-new-frontier-model-shipped-within-the-last-24-hours]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]] · [[2026-04-23-]]
 <!-- graph:end -->

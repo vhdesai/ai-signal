@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
+- 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
+- 2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-- 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
 embedding_id: 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
 event_name: ''
 ---
@@ -39,5 +39,5 @@ LangChain and NVIDIA launched the NemoClaw blueprint for LangChain Deep Agents, 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]]
+**Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]]
 <!-- graph:end -->

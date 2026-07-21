@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
+- 2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 - 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
 - 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
 - 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
 embedding_id: 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Together AI open-sources OSCAR — 2-bit KV-cache quantization for long-context 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
+**Related:** [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]] · [[2026-05-26-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]]
 <!-- graph:end -->

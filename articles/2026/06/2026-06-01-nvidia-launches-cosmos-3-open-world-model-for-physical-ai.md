@@ -21,8 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
+- 2026-07-20-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
+- 2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
 - 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
-- 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 embedding_id: 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
 event_name: ''
 ---
@@ -36,5 +38,5 @@ Nvidia released Cosmos 3, an open frontier foundation model designed for physica
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
+**Related:** [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-07-20-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
 <!-- graph:end -->

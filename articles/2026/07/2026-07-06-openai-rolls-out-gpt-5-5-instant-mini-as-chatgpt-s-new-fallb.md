@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
 - 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-- 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
+- 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 embedding_id: 2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI began rolling out GPT-5.5 Instant Mini as ChatGPT's new fallback model, r
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]]
+**Related:** [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]]
 <!-- graph:end -->

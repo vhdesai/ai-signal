@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
 - 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
+- 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
 embedding_id: 2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Jensen Huang declined an invitation to testify before the Senate on AI, China, a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]]
+**Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]] · [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]]
 <!-- graph:end -->

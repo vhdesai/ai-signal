@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
+- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
 - 2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
-- 2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar
 embedding_id: 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Google Cloud Launches $750M Fund to Accelerate Enterprise AI Adoption
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-06-14-hot-openai-launches-partner-network-with-150m-investment-tar]]
+**Related:** [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-05-04-hotopenai-anthropic-enterprise-joint-ventures-now-in-talks-t]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]]
 <!-- graph:end -->

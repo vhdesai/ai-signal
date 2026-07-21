@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio
-- 2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls
+- 2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the
 embedding_id: 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Elon Musk's xAI has officially rebranded as SpaceXAI, completing its absorption 
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio]] · [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]]
+**Related:** [[2026-07-06-musk-s-xai-is-renamed-spacexai-following-spacex-s-acquisitio]] · [[2026-05-15-reporting-from-may-14-confirms-that-elon-musk-s-spacexai-the]]
 <!-- graph:end -->

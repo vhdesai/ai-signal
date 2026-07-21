@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti
+- 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
 - 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
-- 2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen
-- 2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a
 embedding_id: 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon Web Services confirmed on May 20 that it has acquired fal, a fast-growing
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]] · [[2026-07-13-aws-ships-a-low-code-ui-for-generative-ai-inference-recommen]] · [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]]
+**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
 <!-- graph:end -->

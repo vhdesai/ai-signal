@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
+- 2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and
 - 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-- 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
 embedding_id: 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft India and South Asia President Puneet Chandok confirmed that Microsoft
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi]] · [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
+- 2026-05-13-conference-proceedings-published-through-springer-today-high
+- 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
-- 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 embedding_id: 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton's AI Lab posted a recap and full video from its faculty workshop on th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
+**Related:** [[2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]]
 <!-- graph:end -->

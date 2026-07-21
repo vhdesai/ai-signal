@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro
 - event-google-android-show-2026-google-android-show-2026-strategic-implications
 - 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
-- 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
+- 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
 embedding_id: event-google-android-show-2026-google-android-show-2026-android-17-chrome-and-xr-previews
 event_name: Google Android Show 2026
 ---
@@ -41,5 +41,5 @@ The Android Show also previewed AI-powered Android 17 features, Chrome AI upgrad
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-google-android-show-2026-google-android-show-2026-overview]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]]
+**Related:** [[event-google-android-show-2026-google-android-show-2026-overview]] · [[2026-05-19-google-i-o-2026-kicks-off-android-17-gemini-intelligence-pro]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]] · [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]] · [[2026-05-13-in-the-most-significant-android-hardware-and-software-announ]]
 <!-- graph:end -->

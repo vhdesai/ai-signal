@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center
+- 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
+- 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
+- 2026-04-01-mistral-ai-raises-830-million-in-debt-to-build-paris-data-ce
 - 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
-- 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
-- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
-- 2026-05-28-mistral-explores-custom-chips-and-new-french-data-center
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
 embedding_id: 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mistral AI closed $830M in debt from a seven-bank European consortium (no U.S. b
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-05-28-mistral-explores-custom-chips-and-new-french-data-center]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-04-01-mistral-ai-raises-830-million-in-debt-to-build-paris-data-ce]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]]
 <!-- graph:end -->

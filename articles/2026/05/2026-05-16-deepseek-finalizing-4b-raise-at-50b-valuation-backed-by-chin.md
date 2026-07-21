@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
+- 2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-- 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 embedding_id: 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 event_name: ''
 ---
@@ -44,5 +44,5 @@ DeepSeek, the Chinese AI lab best known for its efficiency-first R-series reason
 
 **Entities:** [[DeepSeek]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
+**Related:** [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]]
 <!-- graph:end -->

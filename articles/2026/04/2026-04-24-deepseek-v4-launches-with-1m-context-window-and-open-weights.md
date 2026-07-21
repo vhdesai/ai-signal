@@ -21,8 +21,11 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-related_article_ids: []
+canonical_article_id: 2026-04-24-deepseek-v4-in-preview-with-1m-context-window
+related_article_ids:
+- 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
+- 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
 embedding_id: 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
 event_name: ''
 ---
@@ -36,5 +39,6 @@ DeepSeek V4 entered preview via V4-Pro and V4-Flash variants, offering open weig
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]]
+**Canonical:** [[2026-04-24-deepseek-v4-in-preview-with-1m-context-window]]
+**Related:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]]
 <!-- graph:end -->

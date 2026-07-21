@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso
+- 2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 embedding_id: 2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI has partnered with Microsoft, AMD, Broadcom, Nvidia, and Intel researcher
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-2]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
+**Related:** [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]] · [[2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]]
 <!-- graph:end -->

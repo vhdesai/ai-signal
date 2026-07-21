@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
+- 2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a
+- 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 embedding_id: 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Per the 2026 AI Index, AI agents handling cybersecurity issues now solve problem
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]]
+**Related:** [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-22-stanford-hai-s-2026-ai-index-the-most-comprehensive-annual-a]] · [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
 <!-- graph:end -->

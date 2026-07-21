@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
+- 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
-- 2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b
+- 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 embedding_id: 2026-06-22-nvidia-unveils-warm-water-cooling-to-cut-data-center-water-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia announced a warm-water cooling design it says can eliminate nearly all wa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-05-28-nvidia-server-maker-wiwynn-warns-ai-bottlenecks-now-extend-b]]
+**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]]
 <!-- graph:end -->

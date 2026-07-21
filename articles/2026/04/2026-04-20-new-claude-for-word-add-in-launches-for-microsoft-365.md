@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
-- 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
 embedding_id: 2026-04-20-new-claude-for-word-add-in-launches-for-microsoft-365
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Anthropic launched a native Claude add-in for Microsoft Word, bringing long-cont
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too]] · [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]]
+**Related:** [[2026-07-07-anthropic-claude-cowork-expands-with-microsoft-365-write-too]] · [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]]
 <!-- graph:end -->

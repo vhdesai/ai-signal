@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope
+- 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 embedding_id: 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI opened an Ads Manager beta for U.S. advertisers, marking the company's fi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]]
+**Related:** [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
 <!-- graph:end -->

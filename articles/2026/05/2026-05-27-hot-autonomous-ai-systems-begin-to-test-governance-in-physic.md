@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
-- 2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o
-- event-icra-2026-icra-2026-strategic-implications
+- 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
+- 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
+- 2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial
 embedding_id: 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new feature surveys early deployments of autonomous AI in factories, warehouse
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o]] · [[event-icra-2026-icra-2026-strategic-implications]]
+**Related:** [[2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial]]
 <!-- graph:end -->

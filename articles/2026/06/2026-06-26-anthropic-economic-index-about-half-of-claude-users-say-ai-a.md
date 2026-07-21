@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
+- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 - 2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai
-- 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 embedding_id: 2026-06-26-anthropic-economic-index-about-half-of-claude-users-say-ai-a
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Anthropic's sixth Economic Index ("Cadences") pairs hourly usage telemetry and a
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]] · [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]]
 <!-- graph:end -->

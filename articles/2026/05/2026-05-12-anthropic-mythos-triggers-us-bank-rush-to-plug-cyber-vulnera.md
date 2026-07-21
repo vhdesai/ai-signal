@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
-- 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
+- 2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin
 embedding_id: 2026-05-12-anthropic-mythos-triggers-us-bank-rush-to-plug-cyber-vulnera
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The largest US lenders with Mythos access are urgently patching software weaknes
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-13-ai-safety-policy]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]]
+**Related:** [[2026-04-13-ai-safety-policy]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-05-22-spain-s-economy-minister-carlos-cuerpo-confirmed-at-a-meetin]]
 <!-- graph:end -->

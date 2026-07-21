@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
 - 2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum
+- 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
-- 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
 embedding_id: 2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A federal court dismissed Elon Musk's lawsuit against OpenAI, Sam Altman, Greg B
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e]]
+**Related:** [[2026-05-25-pope-leo-xiv-releases-the-vatican-s-first-ai-encyclical-magn]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-26-pope-leo-xiv-calls-for-global-ai-regulation-in-magnifica-hum]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]]
 <!-- graph:end -->

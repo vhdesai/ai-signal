@@ -33,7 +33,7 @@ related_article_ids:
 - 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
+- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 embedding_id: 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
 event_name: ''
 ---
@@ -47,5 +47,5 @@ event_name: ''
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
+**Related:** [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]]
 <!-- graph:end -->

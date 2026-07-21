@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-- 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
+- 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
 embedding_id: 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google made computer use a native, built-in tool in Gemini 3.5 Flash, retiring t
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai]]
+**Related:** [[2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]]
 <!-- graph:end -->

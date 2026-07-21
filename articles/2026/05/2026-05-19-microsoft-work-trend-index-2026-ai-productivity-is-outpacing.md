@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 - 2026-05-26-ai-may-make-work-more-productive-but-less-social
+- 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
-- 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 embedding_id: 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Microsoft's annual Work Trend Index finds that enterprise AI productivity gains 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-26-ai-may-make-work-more-productive-but-less-social]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]]
+**Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]] · [[2026-05-26-ai-may-make-work-more-productive-but-less-social]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

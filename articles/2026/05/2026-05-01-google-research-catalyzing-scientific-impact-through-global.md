@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-google-expands-ai-tools-education-programs-healthcare-cyber
+- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
-- 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
-- 2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc
+- 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 embedding_id: 2026-05-01-google-research-catalyzing-scientific-impact-through-global
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Research published a new piece highlighting its strategy for catalyzing s
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
+**Related:** [[2026-07-15-google-expands-ai-tools-education-programs-healthcare-cyber]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]]
 <!-- graph:end -->

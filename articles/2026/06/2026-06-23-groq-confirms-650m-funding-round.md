@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud
+- 2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips
 - 2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips
 - 2026-07-07-sambanova-raises-1b-for-inference-silicon
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
 embedding_id: 2026-06-23-groq-confirms-650m-funding-round
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Inference chip maker Groq confirmed a $650M raise, reinforcing investor appetite
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]] · [[2026-07-07-sambanova-raises-1b-for-inference-silicon]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
+**Related:** [[2026-06-22-groq-confirms-650m-raise-and-pivots-to-inference-neocloud]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips]] · [[2026-07-08-sambanova-raises-1b-at-11b-valuation-for-ai-inference-chips]] · [[2026-07-07-sambanova-raises-1b-for-inference-silicon]]
 <!-- graph:end -->

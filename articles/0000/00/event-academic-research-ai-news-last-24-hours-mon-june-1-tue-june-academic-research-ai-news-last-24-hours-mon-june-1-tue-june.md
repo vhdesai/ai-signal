@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o
+- 2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published
 - 2026-06-27-daily-ai-news-digest-june-27-2026
-- event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2
-- 2026-06-29-daily-ai-news-digest-june-29-2026
-- 2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p
+- 2026-06-30-june-29-2026-the-information-via-the-next-web
+- 2026-05-14-source-mit-media-lab-arxiv-published-june-2025-resurfaces-ma
 embedding_id: event-academic-research-ai-news-last-24-hours-mon-june-1-tue-june-academic-research-ai-news-last-24-hours-mon-june-1-tue-june
 event_name: Academic & Research AI News — Last 24 Hours (Mon June 1 – Tue June 2,
   2026)
@@ -38,5 +38,5 @@ This digest covers AI items from the academic and research world confirmed publi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[event-daily-ai-news-digest-company-industry-last-24-hours-june-1-2-daily-ai-news-digest-company-industry-last-24-hours-june-1-2]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-03-daily-ai-news-digest-21-items-coverage-window-june-2-06-00-p]]
+**Related:** [[event-ai-research-academic-news-last-24-hours-may-31-june-1-2026-ai-research-academic-news-last-24-hours-may-31-june-1-2026-o]] · [[2026-07-02-this-digest-covers-ai-news-and-research-confirmed-published]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-05-14-source-mit-media-lab-arxiv-published-june-2025-resurfaces-ma]]
 <!-- graph:end -->

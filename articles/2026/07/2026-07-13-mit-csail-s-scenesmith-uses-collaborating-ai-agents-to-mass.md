@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce
 - 2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo
+- 2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
-- 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
-- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
+- 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 embedding_id: 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at MIT CSAIL and the Toyota Research Institute introduced SceneSmith
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce]] · [[2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]]
+**Related:** [[2026-07-13-mit-scenesmith-uses-collaborating-ai-agents-to-mass-produce]] · [[2026-07-13-scenesmith-ai-agents-build-virtual-playgrounds-to-train-robo]] · [[2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]]
 <!-- graph:end -->

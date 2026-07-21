@@ -23,8 +23,7 @@ related_article_ids:
 - 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
+- 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
 embedding_id: 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Anthropic experienced elevated error rates across multiple Claude models (Opus 4
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-15-why-anthropic-is-withholding-its-mythos-model-capability-con]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
+**Related:** [[2026-06-07-notion-temporarily-disables-anthropic-models-after-performan]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]]
 <!-- graph:end -->

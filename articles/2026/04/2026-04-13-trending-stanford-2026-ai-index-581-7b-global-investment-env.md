@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
 - 2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
 - 2026-05-27-stanford-hai-2026-ai-index-continuing-analysis
-- 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
 embedding_id: 2026-04-13-trending-stanford-2026-ai-index-581-7b-global-investment-env
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Stanford's Institute for Human-Centered AI published its 400-page 2026 AI Index,
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
+**Related:** [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-04-13-stanford-ai-index-2026-us-china-performance-gap-narrows-to-2]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-27-stanford-hai-2026-ai-index-continuing-analysis]]
 <!-- graph:end -->

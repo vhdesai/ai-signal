@@ -25,10 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 embedding_id: 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
 event_name: ''
 ---
@@ -42,5 +42,5 @@ GitLab 19.0 Expands AI Agents Across the Software Lifecycle
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
+**Related:** [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]]
 <!-- graph:end -->

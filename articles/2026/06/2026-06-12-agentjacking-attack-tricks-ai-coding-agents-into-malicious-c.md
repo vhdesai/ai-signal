@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
+- 2026-04-04-ai-agent-autonomously-hacks-freebsd-in-four-hours-using-clau
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
+- 2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
-- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 event_name: ''
 ---
@@ -36,5 +36,5 @@ attack class: autonomous agents remain systematically exploitable.
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
+**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-04-04-ai-agent-autonomously-hacks-freebsd-in-four-hours-using-clau]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
 <!-- graph:end -->

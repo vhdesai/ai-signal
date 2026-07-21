@@ -26,9 +26,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-ai-safety-policy-anthropic-project-glasswing-100m-initiative
+- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
 - 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai
-- 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-06-02-anthropic-expands-project-glasswing-cybersecurity-initiative
 event_name: ''
 ---
@@ -42,5 +43,5 @@ Anthropic announced an expansion of Project Glasswing, the cross-industry initia
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-06-02-anthropic-expands-glasswing-to-200-partners-maps-year-of-ai]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]]
+**Related:** [[2026-04-10-ai-safety-policy-anthropic-project-glasswing-100m-initiative]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

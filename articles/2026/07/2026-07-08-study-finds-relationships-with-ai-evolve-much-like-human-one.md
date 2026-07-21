@@ -19,11 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term
+- 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
-- 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
-- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
+- 2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise
 embedding_id: 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 event_name: ''
 ---
@@ -36,5 +35,5 @@ A new study led by the INGENIO Institute (a joint CSIC–Universitat Politècnic
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]]
+**Related:** [[2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise]]
 <!-- graph:end -->

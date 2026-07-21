@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-
-- 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-- 2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g
+- 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
+- 2026-05-23-gpt-5-5-is-openai-s-most-capable-and-first-ground-up-retrain
 embedding_id: 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI shipped GPT-5.5 on April 23 with standout benchmarks — 82.7% on Termina
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-23-]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-04-16-openai-s-gpt-5-5-is-a-fully-retrained-base-the-first-since-g]]
+**Related:** [[2026-04-23-]] · [[2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub]] · [[2026-05-23-gpt-5-5-is-openai-s-most-capable-and-first-ground-up-retrain]]
 <!-- graph:end -->

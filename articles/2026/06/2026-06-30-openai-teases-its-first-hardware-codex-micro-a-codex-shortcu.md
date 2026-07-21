@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-- 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
-- 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
-- 2026-05-29-openai-brings-codex-computer-use-to-windows
+dedupe_status: duplicate
+canonical_article_id: 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
+related_article_ids: []
 embedding_id: 2026-06-30-openai-teases-its-first-hardware-codex-micro-a-codex-shortcu
 event_name: ''
 ---
@@ -39,5 +34,5 @@ OpenAI posted a teaser for Codex Micro — a programmable macro-pad accessory fo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-29-openai-brings-codex-computer-use-to-windows]]
+**Canonical:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]]
 <!-- graph:end -->

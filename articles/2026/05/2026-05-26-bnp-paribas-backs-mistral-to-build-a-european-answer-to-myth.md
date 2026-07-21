@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati
 - 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
-- 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 embedding_id: 2026-05-26-bnp-paribas-backs-mistral-to-build-a-european-answer-to-myth
 event_name: ''
 ---
@@ -39,5 +38,5 @@ BNP Paribas is one of several European institutions backing Mistral's push to bu
 
 **Entities:** [[Anthropic]] · [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense]] · [[2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati]] · [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]]
+**Related:** [[2026-05-27-bnp-paribas-partners-with-mistral-on-european-cyber-defense]] · [[2026-05-26-european-banks-back-mistral-for-a-sovereign-mythos-alternati]] · [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]] · [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]]
 <!-- graph:end -->

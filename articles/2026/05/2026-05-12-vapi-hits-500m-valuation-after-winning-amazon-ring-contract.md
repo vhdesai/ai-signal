@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o
+- 2026-05-13-vapi-ai-voice-startup-hits-500m-valuation-after-beating-40-r
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
+- 2026-07-15-rime-raises-24m-to-improve-enterprise-voice-ai-calls
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
-- 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
-- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 embedding_id: 2026-05-12-vapi-hits-500m-valuation-after-winning-amazon-ring-contract
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI voice startup Vapi reached a $500M valuation after beating 40 competitors to 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-05-13-ai-voice-infrastructure-startup-vapi-announced-a-valuation-o]] · [[2026-05-13-vapi-ai-voice-startup-hits-500m-valuation-after-beating-40-r]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-15-rime-raises-24m-to-improve-enterprise-voice-ai-calls]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

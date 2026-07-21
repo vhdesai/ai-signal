@@ -112,7 +112,21 @@ Generates the static HTML website in `site/` with these pages:
 | `entities.html` | Player index (A–Z letter nav) |
 | `entities/{name}.html` | Per-entity story lists |
 | `search.html` | Client-side full-text search (inline JSON) |
+| `chat.html` | Conversational assistant grounded in article summaries |
 | `articles.json` | Search index data |
+
+The chat page (`chat.html`, generated from the template in `chat.py`) is a
+client-side retrieval-augmented assistant. On each question it ranks the loaded
+`articles.json` by keyword/date relevance and injects only the **top few** article
+summaries plus a short slice of recent conversation into the request sent to a
+free hosted model (via a Cloudflare Worker proxy). To keep the models responsive,
+the request payload is deliberately bounded by tunable constants in `chat.py`:
+
+| Constant | Purpose |
+|----------|---------|
+| `MAX_CONTEXT_ARTICLES` | Number of most-relevant articles injected as context |
+| `MAX_SUMMARY_CHARS` | Max characters of each article summary sent |
+| `MAX_HISTORY_MESSAGES` | Trailing user/assistant messages replayed per turn |
 
 ## Data Stores
 
@@ -186,3 +200,4 @@ Obsidian (internal)  ◄──sync-data──►  ext-host (public)
 3. **Conservative URL repair:** Candidates must pass domain, homepage, and title-overlap relevance gates to prevent incorrect links.
 4. **Graceful degradation:** If ChromaDB/embeddings fail, the pipeline continues with keyword-only indexing.
 5. **Portable data:** SQLite + ChromaDB files can be copied between pipeline instances.
+6. **Bounded chat context:** The chat assistant retrieves only the top-ranked article summaries and a short conversation window (see `chat.py` constants), keeping request payloads small so hosted models stay responsive rather than stalling on oversized context.

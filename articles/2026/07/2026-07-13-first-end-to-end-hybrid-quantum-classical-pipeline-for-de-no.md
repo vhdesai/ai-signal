@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
+- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- event-microsoft-build-2026-microsoft-build-2026-science-and-quantum
+- 2026-05-13-generative-ai-optimizes-peptide-antibiotics-opening-a-new-fr
 embedding_id: 2026-07-13-first-end-to-end-hybrid-quantum-classical-pipeline-for-de-no
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers coupled a generative adversarial network to latent vectors sampled f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[event-microsoft-build-2026-microsoft-build-2026-science-and-quantum]]
+**Related:** [[2026-05-05-hotibm-cleveland-clinic-riken-simulate-largest-ever-protein]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-13-generative-ai-optimizes-peptide-antibiotics-opening-a-new-fr]]
 <!-- graph:end -->

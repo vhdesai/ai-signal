@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
+- 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
+- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
-- 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
 embedding_id: 2026-05-26-research-uc-san-diego-s-mutationprojector-predicts-cancer-tr
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UCSD researchers published MutationProjector in Cancer Discovery — an AI model
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
+**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

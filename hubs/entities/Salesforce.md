@@ -1,23 +1,27 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 32
+member_count: 51
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 32 connected article(s).
+> Auto-generated entity hub. 51 connected article(s).
 
 - `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
 - `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr|OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr|OpenAI introduces ChatGPT Work, merging Codex into an enterprise agent platform]]
 - `2026-07-08` [[2026-07-08-slack-s-slackbot-can-now-pull-your-crm-data-generate-charts|Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns]]
+- `2026-07-06` [[2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps|The Information - [2026-07-06] [EXTERNAL] Anthropic's Claude Helps Small Firms Quit Salesforce - [2026-07-06]…]]
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
+- `2026-06-30` [[2026-06-30-cio-dive-2026-06-30-external-salesforce-named-as-a-leader-in|CIO Dive - [2026-06-30] [EXTERNAL] Salesforce named as a Leader in the 2025 Gartner Magic Quadrant - [2026-06-30]…]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
 - `2026-06-15` [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin|Trending Salesforce to acquire AI customer-service firm Fin for $3.6B]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
+- `2026-05-30` [[2026-05-30-the-salesforce-veteran-leading-openai-s-push-to-outflank-ant|The Salesforce Veteran Leading OpenAI’s Push to Outflank Anthropic With Businesses [2026-05-30] · The Information]]
 - `2026-05-29` [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b|Salesforce spotlights Agentforce as Snowflake makes $6B AWS bet on AI agents]]
 - `2026-05-29` [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin|Salesforce says Agentforce has reached $1B in annual recurring revenue]]
+- `2026-05-29` [[2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag|CIO Dive - [2026-05-29] [EXTERNAL] May 29 - Salesforce spotlights Agentforce | Snowflakes \ AWS bet]]
 - `2026-05-27` [[2026-05-27-the-week-that-reset-the-ai-industry|The Week That Reset the AI Industry]]
 - `2026-05-27` [[2026-05-27-snowflake-jumps-35-as-it-shows-immunity-to-the-saas-pocalyps|Snowflake jumps 35% as it shows immunity to the SaaS-pocalypse; Salesforce dips on softer outlook]]
 - `2026-05-27` [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear|Salesforce's lukewarm outlook fuels AI-disruption fear]]
@@ -35,8 +39,23 @@ member_count: 32
 - `2026-05-12` [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric|ServiceNow, Salesforce, HubSpot Shift to Outcome-Based AI Pricing]]
 - `2026-05-04` [[2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents|SAP moves to block OpenClaw and other unauthorized AI agents]]
 - `2026-05-03` [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock|Palantir's AI pricing power becomes the next software-stock test]]
+- `2026-05-03` [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles|Google Gemini AI Assistant Deployed in Millions of Vehicles NEW TechCrunch · April 30, 2026 Google announced that its…]]
+- `2026-05-03` [[2026-05-03-company-news-techcrunch-ai-9to5mac-the-next-web-bloomberg-de|Company / News: TechCrunch AI, 9to5Mac, The Next Web (Bloomberg), Decrypt, Military Times, ETTelecom, Yahoo Finance,…]]
+- `2026-04-10` [[2026-04-10-salesforce-announced-a-major-slackbot-upgrade-adding-30-new|Salesforce announced a major Slackbot upgrade, adding 30 new AI features and transforming it into an autonomous work…]]
+- `2026-04-10` [[2026-04-10-salesforce-transforms-slackbot-into-autonomous-ai-work-assis|Salesforce Transforms Slackbot into Autonomous AI Work Assistant Early April 2026 | MarketingProfs AI Update]]
+- `2026-04-04` [[2026-04-04-techcrunch-salesforce-blogmarch-31-april-1-2026|TechCrunch / Salesforce BlogMarch 31 – April 1, 2026]]
+- `2026-04-04` [[2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot|Salesforce Overhauls Slack with 30 New AI Features — Slackbot Goes Agentic]]
+- `2026-04-04` [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o|Salesforce CEO Marc Benioff unveiled a comprehensive Slack overhaul featuring 30+ new AI capabilities, transforming…]]
+- `2026-04-03` [[2026-04-03-salesforce-announced-a-major-slackbot-overhaul-reusable-ai-s|Salesforce announced a major Slackbot overhaul: reusable AI skills, Model Context Protocol integration, desktop-wide…]]
+- `2026-04-03` [[2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan|Salesforce Transforms Slackbot Into Autonomous Work Assistant with 30 New AI Features]]
+- `2026-04-02` [[2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup|[NEW] Salesforce VoiceAgentRAG Achieves 316x Retrieval Speedup (Mar 30) Salesforce Research published VoiceAgentRAG, a…]]
+- `2026-04-02` [[2026-04-02-new-salesforce-adds-30-ai-features-to-slack-apr-1-salesforce|[NEW] Salesforce Adds 30 AI Features to Slack (Apr 1) Salesforce announced 30 new AI capabilities for Slack, including…]]
+- `2026-04-02` [[2026-04-02-salesforce-announced-a-sweeping-ai-driven-overhaul-of-slack|Salesforce announced a sweeping AI-driven overhaul of Slack, adding 30 new features to Slackbot in what the company…]]
+- `2026-04-02` [[2026-04-02-salesforce-announces-30-new-ai-features-for-slack-in-major-m|Salesforce Announces 30 New AI Features for Slack in Major Makeover]]
+- `2026-04-02` [[2026-04-02-products-tools-techcrunch-salesforce|Products & Tools TechCrunch · Salesforce]]
 - `2026-04-01` [[2026-04-01-products-tools|🛠️ Products & Tools]]
 - `2026-03-30` [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for|Salesforce Releases VoiceAgentRAG — 316x Faster Retrieval for Voice AI]]
 - `2026-03-30` [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu|Rebellions $400M Pre-IPO · ScaleOps $130M Series C · Runway $10M Fund · ThinkLabs AI $28M]]
 - `2026-03-30` [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio|MIT released a testing framework identifying when AI decision-support systems treat people or communities unfairly — targeting specific failure modes rather than aggregate averages. Designed for high-stakes contexts: hiring, lending, healthcare triage, policing. Immediately relevant to EU AI Act compliance and proposed U.S. algorithmic accountability regulations. Likely to become a reference standard for enterprise AI auditing.]]
 - `2026-03-29` [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent|Salesforce AI Research published VoiceAgentRAG — a dual-agent memory router cutting voice AI retrieval latency by 316× by routing queries between a fast semantic cache and a precision retrieval system based on confidence scoring. Directly applicable to enterprise customer service AI, voice assistants, and real-time knowledge retrieval at scale.]]
+- `2026-03-17` [[2026-03-17-the-information-logo-laura-bratton-headshot-by-laura-bratton|The Information logo - Laura Bratton headshot - By Laura Bratton - Sponsor Logo - software that helps businesses manage…]]

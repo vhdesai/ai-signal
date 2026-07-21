@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-microsoft-fara1-5-browser-agents-beat-openai-operator-and-ge
 - 2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family
+- 2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of
 - 2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 embedding_id: 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft released Fara1.5, a family of browser computer-use agents in 4B, 9B, a
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash]]
+**Related:** [[2026-05-23-microsoft-fara1-5-browser-agents-beat-openai-operator-and-ge]] · [[2026-05-22-microsoft-research-releases-fara1-5-browser-agent-family]] · [[2026-05-23-microsoft-research-released-fara1-5-an-open-weight-family-of]] · [[2026-05-22-microsoft-releases-fara1-5-browser-agents-4b-9b-27b-27b-hits]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

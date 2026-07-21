@@ -21,10 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-06-
+- 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu
-- 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
+- 2026-05-18-anthropic-launches-claude-for-small-business-with-15-agentic
 embedding_id: 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Anthropic shipped Claude Code Auto Mode and simultaneously opened the Claude Age
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-12-anthropic-ships-claude-code-agent-view-with-goal-loop-schedu]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]]
+**Related:** [[2026-05-06-]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-anthropic-launches-claude-for-small-business-with-15-agentic]]
 <!-- graph:end -->

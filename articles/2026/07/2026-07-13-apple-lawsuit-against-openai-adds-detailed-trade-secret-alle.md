@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-13-apple-s-trade-secret-suit-against-openai-the-standout-allega
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea
+- 2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate
 - 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
-- 2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op
 embedding_id: 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TechCrunch summarized unusually detailed allegations in Apple's trade-secret law
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-13-apple-s-trade-secret-suit-against-openai-the-standout-allega]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]]
+**Related:** [[2026-07-13-apple-s-trade-secret-suit-against-openai-the-standout-allega]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-sues-openai-alleging-theft-of-trade-secrets-on-unrelea]] · [[2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]]
 <!-- graph:end -->

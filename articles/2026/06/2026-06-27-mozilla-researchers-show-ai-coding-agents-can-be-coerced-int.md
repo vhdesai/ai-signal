@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
+- 2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s
 - 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
+- 2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s
 embedding_id: 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Mozilla's 0DIN (Zero Day Investigative Network) demonstrated that AI coding assi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-24-claude-code-autonomously-discovers-scaling-algorithms-that-c]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
+**Related:** [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s]]
 <!-- graph:end -->

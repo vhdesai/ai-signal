@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
-- 2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete
+- 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
 embedding_id: 2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster
 event_name: ''
 ---
@@ -51,5 +51,5 @@ DeepSeek V4 on the Verge: Multimodal, 1M Context, Huawei-Native DeepSeek V4 — 
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[OpenAI]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-18-xai-s-grok-v9-finishes-pre-training-at-1-5-trillion-paramete]]
+**Related:** [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2]]
 <!-- graph:end -->

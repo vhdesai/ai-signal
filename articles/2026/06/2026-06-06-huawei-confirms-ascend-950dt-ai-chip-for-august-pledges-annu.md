@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled
 - 2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden
 - 2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies
-- 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p
+- 2026-07-17-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen
+- 2026-07-18-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen
 embedding_id: 2026-06-06-huawei-confirms-ascend-950dt-ai-chip-for-august-pledges-annu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Huawei confirmed its next-gen Ascend 950DT AI processor debuts in August, pledgi
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled]] · [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-05-13-huawei-ai-chip-trajectory-accelerates-amid-china-s-compute-p]]
+**Related:** [[2026-06-06-huawei-confirms-ascend-950dt-ai-chip-to-debut-in-august-pled]] · [[2026-06-06-huawei-confirms-ascend-950dt-for-august-annual-ai-chip-caden]] · [[2026-05-27-huawei-vs-alibaba-t-head-china-s-ai-chip-race-intensifies]] · [[2026-07-17-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen]] · [[2026-07-18-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen]]
 <!-- graph:end -->

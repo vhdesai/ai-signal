@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
-- 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-- 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
+- 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
+- 2026-07-17-agility-robotics-opens-a-training-center-near-tesla-s-factor
+- 2026-07-18-agility-robotics-opens-a-training-center-near-tesla-s-factor
 embedding_id: 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Two separate physical AI ventures — a Schaeffler/Humanoid joint venture and RL
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]]
+**Related:** [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-07-17-agility-robotics-opens-a-training-center-near-tesla-s-factor]] · [[2026-07-18-agility-robotics-opens-a-training-center-near-tesla-s-factor]]
 <!-- graph:end -->

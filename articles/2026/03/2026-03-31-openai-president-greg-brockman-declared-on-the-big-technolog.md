@@ -33,9 +33,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
-- 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
-- 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
+- 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
+- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
+- 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
 embedding_id: 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 event_name: ''
 ---
@@ -49,5 +49,5 @@ Nvidia Invests $2B in Marvell, Launches NVLink Fusion — Opens AI Ecosystem to 
 
 **Entities:** [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]]
 <!-- graph:end -->

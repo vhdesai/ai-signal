@@ -36,10 +36,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
+- 2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai
 - 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
-- 2026-05-27-the-week-that-reset-the-ai-industry
 embedding_id: 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 event_name: ''
 ---
@@ -53,5 +53,5 @@ Standard Chartered confirmed AI-driven role reductions and Meta announced reassi
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Mistral]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-27-the-week-that-reset-the-ai-industry]]
+**Related:** [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai]] · [[2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]]
 <!-- graph:end -->

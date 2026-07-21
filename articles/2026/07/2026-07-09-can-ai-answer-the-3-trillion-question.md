@@ -19,9 +19,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
-- 2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion
 embedding_id: 2026-07-09-can-ai-answer-the-3-trillion-question
 event_name: ''
 ---
@@ -34,5 +34,5 @@ TechCrunch revisited Sequoia's AI infrastructure ROI analysis, noting that 2026 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]] · [[2026-05-20-gartner-projects-global-ai-spending-will-reach-2-59-trillion]]
+**Related:** [[2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]]
 <!-- graph:end -->

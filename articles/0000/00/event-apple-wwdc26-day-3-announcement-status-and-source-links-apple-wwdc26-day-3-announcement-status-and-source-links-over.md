@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming
 - 2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
-- 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
+- 2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc
+- 2026-03-24-apple-announces-wwdc-2026-with-explicit-promise-of-ai-advanc
+- 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
 embedding_id: event-apple-wwdc26-day-3-announcement-status-and-source-links-apple-wwdc26-day-3-announcement-status-and-source-links-over
 event_name: 'Apple WWDC26 Day 3: Announcement Status and Source Links'
 ---
@@ -37,5 +38,5 @@ As of Wednesday, June 10, 2026 at 4:27 PM PDT, Apple has not posted a new offici
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]]
+**Related:** [[2026-05-18-new-apple-sends-wwdc-2026-invites-for-june-8-keynote-coming]] · [[2026-05-20-apple-confirms-wwdc-2026-june-8-with-ai-heavy-agenda-siri-ov]] · [[2026-03-24-apple-confirmed-wwdc-2026-will-run-june-8-12-and-its-announc]] · [[2026-03-24-apple-announces-wwdc-2026-with-explicit-promise-of-ai-advanc]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]]
 <!-- graph:end -->

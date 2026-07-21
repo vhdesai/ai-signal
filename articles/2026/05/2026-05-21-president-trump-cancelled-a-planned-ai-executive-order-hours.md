@@ -30,9 +30,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
 - 2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp
+- 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
 - 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
 - 2026-05-22-analysis-musk-zuckerberg-lobbied-trump-to-kill-the-ai-execut
-- 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
 embedding_id: 2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours
 event_name: ''
 ---
@@ -46,5 +46,5 @@ California Governor Signs Executive Order on AI Aimed at Protecting Workers
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-22-analysis-musk-zuckerberg-lobbied-trump-to-kill-the-ai-execut]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]]
+**Related:** [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]] · [[2026-05-21-trump-postpones-ai-executive-order-i-didn-t-like-certain-asp]] · [[2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai]] · [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-22-analysis-musk-zuckerberg-lobbied-trump-to-kill-the-ai-execut]]
 <!-- graph:end -->

@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo
 - 2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design
 - 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
-- 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
+- 2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3
 embedding_id: 2026-05-28-mistral-confirms-it-is-exploring-custom-ai-chip-design-and-r
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Mistral CEO Arthur Mensch confirmed the French lab is exploring designing its ow
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-05-28-mistral-ceo-says-lab-is-exploring-designing-its-own-ai-chips]]
-**Related:** [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]]
+**Related:** [[2026-05-28-mistral-rebrands-le-chat-as-vibe-positioning-it-as-a-full-wo]] · [[2026-05-28-mistral-ceo-confirms-exploration-of-custom-ai-chip-design]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]] · [[2026-05-15-mistral-ai-s-vibe-remote-agents-powered-by-its-new-medium-3]]
 <!-- graph:end -->

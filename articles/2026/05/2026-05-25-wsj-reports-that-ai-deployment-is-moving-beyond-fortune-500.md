@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 - 2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
+- 2026-05-18-openai-blog-theaitrack-research-breakthroughs
 embedding_id: 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mapping the AI super-cycle: PitchBook on private-capital flows into AI
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
+**Related:** [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated]] · [[2026-05-21-the-wsj-explores-the-emerging-concept-of-digital-twins-for-k]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-18-openai-blog-theaitrack-research-breakthroughs]]
 <!-- graph:end -->

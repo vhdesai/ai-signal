@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
 - 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
+- 2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 embedding_id: 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Anthropic secured an additional $5 billion from Amazon and in return pledged $10
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
+**Related:** [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q]] · [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
 <!-- graph:end -->

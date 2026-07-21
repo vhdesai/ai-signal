@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
+- 2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic
 embedding_id: 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The EMO (Expert Mixture Optimization) paper demonstrates that reorganizing MoE e
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst]]
+**Related:** [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]]
 <!-- graph:end -->

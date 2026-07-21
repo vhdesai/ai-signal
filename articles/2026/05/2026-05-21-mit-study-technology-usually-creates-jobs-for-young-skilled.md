@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
-- 2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma
-- 2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th
+- 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
 embedding_id: 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A new MIT study examines postwar US employment patterns to ask whether AI-enable
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-15-bls-data-ai-exposed-occupations-lost-ground-while-broader-ma]] · [[2026-05-19-companies-say-ai-is-reviving-entry-level-jobs-not-killing-th]]
+**Related:** [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]]
 <!-- graph:end -->

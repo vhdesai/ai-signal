@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
+- 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or
 embedding_id: 2026-06-09-cvpr-2026-honors-year-s-most-innovative-computer-vision-and
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CVPR 2026 announced best paper awards, highlighting advances in computer vision 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-05-26-ai-divide-overshadows-cannes-as-fjord-wins-palme-d-or]]
+**Related:** [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
 <!-- graph:end -->

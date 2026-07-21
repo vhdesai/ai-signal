@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
 - 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
+- 2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma
 - 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
-- 2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be
-- 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 embedding_id: 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic's "Teaching Claude Why" paper delivers four key empirical findings wit
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-05-07-anthropic-s-nla-breakthrough-reveals-claude-suspects-it-s-be]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]]
+**Related:** [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]]
 <!-- graph:end -->

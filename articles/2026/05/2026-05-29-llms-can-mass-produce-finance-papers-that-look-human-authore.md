@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
+- 2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia
+- 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
 - 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
 - 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
-- 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
-- 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
-- 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 embedding_id: 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Recent academic work shows large language models can mass-produce finance papers
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]] · [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]]
+**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]]
 <!-- graph:end -->

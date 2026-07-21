@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab
 - 2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos
 - 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
-- 2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab
+- 2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to
 embedding_id: 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The U.S. Commerce Department, in a letter from Secretary Howard Lutnick, cleared
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-07-01-u-s-lifts-export-controls-on-claude-fable-5-and-mythos-5-fab]]
+**Related:** [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]] · [[2026-06-26-u-s-clears-anthropic-s-mythos-5-for-100-trusted-partners-fab]] · [[2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]] · [[2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to]]
 <!-- graph:end -->

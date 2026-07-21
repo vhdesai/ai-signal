@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
+- 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index
 - 2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo
-- 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 embedding_id: 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI made GPT-5.5 Instant the new default ChatGPT model on May 5, pivoting fro
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index]] · [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]]
+**Related:** [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]] · [[2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index]] · [[2026-05-04-gpt-5-5-instant-becomes-default-chatgpt-model-with-deep-memo]]
 <!-- graph:end -->

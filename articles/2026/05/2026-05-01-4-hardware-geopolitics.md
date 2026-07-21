@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks
+- 2026-05-09-pentagon-signs-ai-deals-with-8-vendors-anthropic-conspicuous
+- 2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend
 - 2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
-- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
-- 2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors
 embedding_id: 2026-05-01-4-hardware-geopolitics
 event_name: ''
 ---
@@ -34,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]] · [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors]]
+**Related:** [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-09-pentagon-signs-ai-deals-with-8-vendors-anthropic-conspicuous]] · [[2026-05-09-the-pentagon-signed-ai-deployment-agreements-with-eight-vend]] · [[2026-05-02-hotpentagon-picks-8-ai-vendors-for-classified-networks-anthr]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]]
 <!-- graph:end -->

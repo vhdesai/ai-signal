@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
+- 2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized
+- 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
-- 2026-05-26-new-mit-sloan-executive-education-expands-ai-portfolio-launc
-- 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
-- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 embedding_id: 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT Open Learning launched Universal AI, a new education initiative built around
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-26-new-mit-sloan-executive-education-expands-ai-portfolio-launc]] · [[2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]]
+**Related:** [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-05-23-cmu-launches-learnvia-and-convenes-global-science-diplomacy]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]]
 <!-- graph:end -->

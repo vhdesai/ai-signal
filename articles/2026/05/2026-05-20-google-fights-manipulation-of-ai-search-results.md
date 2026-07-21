@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
+- 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
-- 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 embedding_id: 2026-05-20-google-fights-manipulation-of-ai-search-results
 event_name: ''
 ---
@@ -39,5 +39,5 @@ BBC coverage cited in the daily digest said Google’s AI search results are bei
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]]
+**Related:** [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]]
 <!-- graph:end -->

@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
-- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
+- 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
 embedding_id: 2026-05-26-nvidia-released-gated-deltanet-2-a-follow-up-to-its-efficien
 event_name: ''
 ---
@@ -42,5 +42,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
+**Related:** [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]]
 <!-- graph:end -->

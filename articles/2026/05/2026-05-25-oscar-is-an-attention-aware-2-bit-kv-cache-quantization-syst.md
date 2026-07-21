@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
-- 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 embedding_id: 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepMind's AlphaProof Nexus autonomously solves nine longstanding Erdős problem
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
+**Related:** [[2026-05-25-together-ai-open-sources-oscar-2-bit-kv-cache-quantization-f]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]]
 <!-- graph:end -->

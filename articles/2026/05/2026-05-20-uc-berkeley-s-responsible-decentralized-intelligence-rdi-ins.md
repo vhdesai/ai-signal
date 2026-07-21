@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
-- 2026-04-15-research-breakthroughs
-- 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-- 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
+- 2026-03-19-agentic-ai-summit-2026-august-1-2-uc-berkeley-early-bird-pri
+- 2026-04-29-agentic-ai-weekly-berkeley-rdi-april-29-2026-berkeley-rdi-ag
+- 2026-06-24-berkeley-rdi-2026-06-24-external-agentic-ai-weekly-berkeley
+- 2026-07-01-berkeley-rdi-2026-07-01-external-agentic-ai-weekly-berkeley
+- 2026-04-29-agentic-ai-weekly-berkeley-rdi-april-29-2026-2026-04-29-berk
 embedding_id: 2026-05-20-uc-berkeley-s-responsible-decentralized-intelligence-rdi-ins
 event_name: ''
 ---
@@ -40,5 +40,5 @@ This Cannes Film Cost $500,000 to Make — $400,000 Was AI Compute
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]]
+**Related:** [[2026-03-19-agentic-ai-summit-2026-august-1-2-uc-berkeley-early-bird-pri]] · [[2026-04-29-agentic-ai-weekly-berkeley-rdi-april-29-2026-berkeley-rdi-ag]] · [[2026-06-24-berkeley-rdi-2026-06-24-external-agentic-ai-weekly-berkeley]] · [[2026-07-01-berkeley-rdi-2026-07-01-external-agentic-ai-weekly-berkeley]] · [[2026-04-29-agentic-ai-weekly-berkeley-rdi-april-29-2026-2026-04-29-berk]]
 <!-- graph:end -->

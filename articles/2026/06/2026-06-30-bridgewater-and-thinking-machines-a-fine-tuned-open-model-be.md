@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l
+- 2026-07-04-bridgewater-and-thinking-machines-a-fine-tuned-qwen-model-to
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
-- 2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv
-- 2026-05-11-
 embedding_id: 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Bridgewater's AIA Labs and Mira Murati's Thinking Machines Lab showed a fine-tun
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-05-13-ai-iq-site-maps-50-frontier-models-onto-a-human-iq-bell-curv]] · [[2026-05-11-]]
+**Related:** [[2026-07-04-bridgewater-s-aia-labs-and-mira-murati-s-thinking-machines-l]] · [[2026-07-04-bridgewater-and-thinking-machines-a-fine-tuned-qwen-model-to]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]]
 <!-- graph:end -->

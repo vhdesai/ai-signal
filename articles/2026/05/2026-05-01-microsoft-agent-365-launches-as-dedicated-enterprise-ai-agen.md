@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
 - 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
+- 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 embedding_id: 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft launched Agent 365 on May 1 as a dedicated orchestration and governanc
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Related:** [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]]
 <!-- graph:end -->

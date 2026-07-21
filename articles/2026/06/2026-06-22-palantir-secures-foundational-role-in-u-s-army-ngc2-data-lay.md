@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
 - 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 - 2026-04-13-products-tools
+- 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
-- 2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two
 embedding_id: 2026-06-22-palantir-secures-foundational-role-in-u-s-army-ngc2-data-lay
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Palantir announced a foundational role in the data layer of the U.S. Army's Next
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-13-products-tools]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two]]
+**Related:** [[2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]] · [[2026-04-13-products-tools]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]]
 <!-- graph:end -->

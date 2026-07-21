@@ -19,8 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
+- 2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot
 - 2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
+- 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
+- 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 embedding_id: 2026-06-01-smartbear-adds-vision-ai-to-testcomplete-for-visual-testing
 event_name: ''
 ---
@@ -32,5 +34,5 @@ SmartBear advanced TestComplete with Vision AI for automated testing of visually
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]] · [[2026-04-01-microsoft-has-launched-new-ai-capabilities-under-the-copilot]] · [[2026-05-12-samsara-launches-ai-powered-ground-intelligence-for-municipa]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]]
 <!-- graph:end -->

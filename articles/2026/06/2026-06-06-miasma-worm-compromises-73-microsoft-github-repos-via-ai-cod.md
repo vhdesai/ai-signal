@@ -23,8 +23,6 @@ related_article_ids:
 - 2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-- 2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 embedding_id: 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 event_name: ''
 ---
@@ -38,5 +36,5 @@ A supply chain attack exploited trust that AI coding assistants place in reposit
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
+**Related:** [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]]
 <!-- graph:end -->

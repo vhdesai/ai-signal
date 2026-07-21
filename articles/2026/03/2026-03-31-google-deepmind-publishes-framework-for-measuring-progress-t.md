@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
+- 2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met
 - 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
-- 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
-- 2026-05-20-google-deepmind-publishes-co-scientist-in-nature
 embedding_id: 2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind published a cognitive framework for measuring and evaluating AGI
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]]
+**Related:** [[2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]]
 <!-- graph:end -->

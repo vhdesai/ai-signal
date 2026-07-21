@@ -22,7 +22,6 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
@@ -39,5 +38,5 @@ Shenzhen-based smart-glasses startup Even Realities raised $150 million in a pre
 
 **Entities:** [[Meta]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-11-even-realities-bets-camera-free-g2-smart-glasses-on-producti]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
+**Related:** [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
 <!-- graph:end -->

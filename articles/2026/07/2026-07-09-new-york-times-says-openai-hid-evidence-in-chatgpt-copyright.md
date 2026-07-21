@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
+- 2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re
 - 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
-- 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
 embedding_id: 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The New York Times and The Daily News filed a sanctions motion alleging OpenAI c
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]] · [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]]
+**Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
 <!-- graph:end -->

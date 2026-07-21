@@ -24,9 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
+- 2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly
 - 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
-- 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
-- 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 embedding_id: 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Alibaba Cloud unveiled an expanded agentic AI ecosystem built on its Qwen model,
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a]] · [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]] · [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]]
+**Related:** [[2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a]] · [[2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly]] · [[2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4]]
 <!-- graph:end -->

@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
 - 2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o
-- 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
+- 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
 embedding_id: 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic took the #1 spot on the CNBC Disruptor 50 list, citing roughly 80× ye
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
+**Related:** [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]]
 <!-- graph:end -->

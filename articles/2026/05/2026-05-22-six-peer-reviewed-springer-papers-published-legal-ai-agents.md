@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
+- 2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
-- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
 embedding_id: 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Springer published six peer-reviewed papers in the 24-hour window covering appli
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
+**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]]
 <!-- graph:end -->

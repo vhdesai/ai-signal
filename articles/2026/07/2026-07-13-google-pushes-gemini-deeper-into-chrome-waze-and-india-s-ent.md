@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per
 - 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 - 2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m
-- 2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto
 embedding_id: 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google expanded Gemini in Chrome to U.K. desktop users, added Gemini-powered Waz
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m]] · [[2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto]]
+**Related:** [[2026-07-15-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per]] · [[2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u]] · [[2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m]]
 <!-- graph:end -->

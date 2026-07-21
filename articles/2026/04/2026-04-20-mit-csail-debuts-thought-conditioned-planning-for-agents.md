@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
+- 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
+- 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 - 2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys
-- 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-- 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 embedding_id: 2026-04-20-mit-csail-debuts-thought-conditioned-planning-for-agents
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT CSAIL published a thought-conditioned planning framework that lets LLM-based
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]]
+**Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies]] · [[2026-05-10-mit-tressoir-unified-design-and-evolution-of-multi-agent-sys]]
 <!-- graph:end -->

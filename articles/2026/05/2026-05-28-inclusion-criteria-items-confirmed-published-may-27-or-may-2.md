@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-items-span-may-5-11-2026-only-news-confirmed-by-sourced-repo
-- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
-- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-- 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
+- 2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24
+- 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
+- 2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi
+- 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 embedding_id: 2026-05-28-inclusion-criteria-items-confirmed-published-may-27-or-may-2
 event_name: ''
 ---
@@ -36,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-11-items-span-may-5-11-2026-only-news-confirmed-by-sourced-repo]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]]
+**Related:** [[2026-05-11-items-span-may-5-11-2026-only-news-confirmed-by-sourced-repo]] · [[2026-06-25-scope-only-items-confirmed-published-june-24-25-2026-last-24]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]] · [[2026-07-09-compiled-thursday-july-9-2026-every-item-was-confirmed-publi]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]]
 <!-- graph:end -->

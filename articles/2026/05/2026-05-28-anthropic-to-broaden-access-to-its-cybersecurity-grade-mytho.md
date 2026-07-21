@@ -28,8 +28,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo
-- 2026-04-07-source-the-hacker-news-reuters-the-star
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
+- 2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate
+- 2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
 event_name: ''
 ---
@@ -43,5 +44,5 @@ Anthropic confirmed it will expand access to Claude Mythos — its market-moving
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]]
+**Related:** [[2026-05-28-anthropic-to-broaden-claude-mythos-cybersecurity-model-rollo]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-18-anthropic-s-next-generation-flagship-claude-mythos-remains-r]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

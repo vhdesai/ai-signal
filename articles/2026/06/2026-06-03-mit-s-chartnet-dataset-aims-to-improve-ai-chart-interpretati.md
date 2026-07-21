@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 embedding_id: 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT introduced ChartNet, a training dataset to improve vision-language model acc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]]
+**Related:** [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
-- 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
+- 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
+- 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
+- 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 embedding_id: 2026-07-06-intel-backed-edge-ai-chipmaker-syntiant-files-for-ipo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Syntiant, an Intel-backed maker of ultra-low-power edge-AI processors, has filed
 
 **Entities:** [[Cerebras]] · [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
+**Related:** [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]]
 <!-- graph:end -->

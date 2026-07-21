@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
+- 2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
-- 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 embedding_id: 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stanford's annual benchmark report documents the fastest AI capability expansion
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]] · [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]]
+**Related:** [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-18-stanford-s-annual-ai-index-the-field-s-most-cited-benchmark]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]]
 <!-- graph:end -->

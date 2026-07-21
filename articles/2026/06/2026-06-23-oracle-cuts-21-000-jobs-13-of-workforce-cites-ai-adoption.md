@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 - 2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad
-- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
-- 2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof
-- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
+- 2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke
+- 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
+- 2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s
 embedding_id: 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Oracle disclosed approximately 21,000 layoffs—roughly 13% of its workforce—e
 
 **Entities:** [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]] · [[2026-05-04-big-tech-725b-ai-capex-in-2026-up-77-funded-by-150-000-layof]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]]
+**Related:** [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-06-22-oracle-discloses-21-000-job-cuts-over-12-months-citing-ai-ad]] · [[2026-04-01-oracle-has-begun-laying-off-an-estimated-20-000-30-000-worke]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-04-02-oracle-began-notifying-thousands-of-employees-across-the-u-s]]
 <!-- graph:end -->

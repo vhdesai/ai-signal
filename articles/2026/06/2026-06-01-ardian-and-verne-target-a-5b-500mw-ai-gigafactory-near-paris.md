@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud
 - 2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
-- 2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com
+- 2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center
 embedding_id: 2026-06-01-ardian-and-verne-target-a-5b-500mw-ai-gigafactory-near-paris
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Ardian and Verne unveiled plans for a 500MW data-center campus near Paris, a rou
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-07-09-cerebras-accelerates-european-expansion-with-200mw-of-ai-com]]
+**Related:** [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-23-helsinki-based-verda-raises-100m-to-build-european-ai-cloud]] · [[2026-05-31-softbank-s-french-data-center-plan-intensifies-europe-s-ai-i]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-05-15-deepseek-nears-45b-valuation-with-tencent-alibaba-and-china
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 - 2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab
-- 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
-- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
 embedding_id: 2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek is finalizing ~50 billion yuan (~$7.4B) in one of China’s largest-eve
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]]
+**Related:** [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-15-deepseek-nears-45b-valuation-with-tencent-alibaba-and-china]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]]
 <!-- graph:end -->

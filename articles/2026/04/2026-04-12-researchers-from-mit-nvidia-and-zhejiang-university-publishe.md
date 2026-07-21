@@ -28,11 +28,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
 - 2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst
 - 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-- 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 embedding_id: 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Cornell AI Identifies Three Novel Antibiotic Candidates Against Drug-Resistant B
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]]
+**Related:** [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-05-25-oscar-is-an-attention-aware-2-bit-kv-cache-quantization-syst]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
 <!-- graph:end -->

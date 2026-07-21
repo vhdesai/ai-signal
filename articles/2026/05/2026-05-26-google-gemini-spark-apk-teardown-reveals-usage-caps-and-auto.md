@@ -21,7 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
+- 2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte
 embedding_id: 2026-05-26-google-gemini-spark-apk-teardown-reveals-usage-caps-and-auto
 event_name: ''
 ---
@@ -35,5 +35,5 @@ An APK teardown of an upcoming Google Gemini "Spark" tier surfaced new in-app di
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
+**Related:** [[2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price
 - 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
 - 2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50
-- 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
+- 2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state
 embedding_id: 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek V4 offers a 1-million token context window at $0.27 per million input t
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-02-trendingdeepseek-v4-almost-on-the-frontier]]
+**Related:** [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-28-china-s-state-ai-fund-backs-deepseek-in-up-to-4b-round-at-50]] · [[2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state]]
 <!-- graph:end -->

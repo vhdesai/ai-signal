@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c
 - 2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on
+- 2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design
 - 2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model
 embedding_id: 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 event_name: ''
@@ -40,5 +41,5 @@ Z.ai (formerly Zhipu AI) launched ZCode, a free "agentic development environment
 
 **Entities:** [[Google]] · [[Huawei]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
+**Related:** [[2026-07-02-z-ai-launches-zcode-a-free-glm-5-2-coding-ide-to-challenge-c]] · [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-04-03-zhipu-ai-s-glm-5v-turbo-a-multimodal-model-converting-design]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
 - 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
+- 2026-07-20-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame
+- 2026-07-21-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame
 - 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
-- 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
-- 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
 embedding_id: 2026-05-11-qwen-image-2-0-alibaba-s-unified-gen-editing-multimodal-mode
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's Qwen team released Qwen-Image-2.0, a unified foundation model for high
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]]
+**Related:** [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age]] · [[2026-07-20-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame]] · [[2026-07-21-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]]
 <!-- graph:end -->

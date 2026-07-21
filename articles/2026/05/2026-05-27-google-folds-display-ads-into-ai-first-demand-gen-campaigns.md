@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform
+- 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 embedding_id: 2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-campaigns
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google is consolidating its standalone Display Ads product into its AI-driven De
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]]
+**Related:** [[2026-05-27-google-folds-display-ads-into-ai-first-demand-gen-platform]] · [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
 <!-- graph:end -->

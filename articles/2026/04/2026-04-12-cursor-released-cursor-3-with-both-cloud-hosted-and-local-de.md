@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
+- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
+- 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
 - 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
-- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
 embedding_id: 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Nvidia Vera Rubin GPU Platform Enters Mass Production at TSMC — Physical AI an
 
 **Entities:** [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]]
+**Related:** [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
 <!-- graph:end -->

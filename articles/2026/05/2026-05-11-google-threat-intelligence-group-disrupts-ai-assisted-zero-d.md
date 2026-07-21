@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 - 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
+- 2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected
+- 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
 - 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
-- 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
-- 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
-- 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
 embedding_id: 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google's Threat Intelligence Group identified and disrupted a planned mass explo
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]] · [[2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected]] · [[2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]]
 <!-- graph:end -->

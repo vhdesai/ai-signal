@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l
+- 2026-07-15-reflection-signs-a-1b-plus-nebius-compute-agreement-as-open
 - 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 - 2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal
-- 2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio
 embedding_id: 2026-07-14-reflection-ai-signs-a-1b-plus-compute-deal-with-nebius-for-n
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Open-model startup Reflection — founded by two former Google DeepMind research
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]] · [[2026-06-23-spacex-secures-a-6-3b-compute-deal-from-ai-startup-reflectio]]
+**Related:** [[2026-07-14-reflection-signs-1b-plus-nebius-compute-deal-as-open-model-l]] · [[2026-07-15-reflection-signs-a-1b-plus-nebius-compute-agreement-as-open]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]] · [[2026-06-22-spacex-signs-6-3b-compute-deal-with-reflection-ai-shares-fal]]
 <!-- graph:end -->

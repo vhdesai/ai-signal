@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
+- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
-- 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
 embedding_id: 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Berkeley AI Research Lab published SPEX and ProxySPEX — algorithms using ablat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]]
+**Related:** [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]]
 <!-- graph:end -->

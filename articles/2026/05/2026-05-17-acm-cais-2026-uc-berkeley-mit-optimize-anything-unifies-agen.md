@@ -24,8 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge
 - 2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ
+- 2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt
 - event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
-- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- 2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim
 embedding_id: 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Among 61 accepted research papers at CAIS 2026, the standout contribution is "op
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]]
+**Related:** [[2026-05-20-acm-cais-2026-berkeley-and-mit-s-optimize-anything-challenge]] · [[2026-05-10-uc-berkeley-optany-one-unified-llm-optimizer-beats-specializ]] · [[2026-05-15-researchers-from-uc-berkeley-mit-and-ut-austin-published-opt]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-05-14-a-joint-team-from-uc-berkeley-and-mit-published-optany-optim]]
 <!-- graph:end -->

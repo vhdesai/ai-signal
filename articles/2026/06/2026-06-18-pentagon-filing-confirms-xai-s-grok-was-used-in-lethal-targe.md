@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
+- 2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m
 - 2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co
 - 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
 embedding_id: 2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe
@@ -37,5 +38,5 @@ Sworn declaration confirms Grok Gov Model was integrated into U.S. targeting sys
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar]]
+**Related:** [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]] · [[2026-04-01-elon-musk-s-xai-released-grok-4-20-multi-agent-beta-in-mid-m]] · [[2026-05-21-reuters-exclusive-xai-s-grok-has-failed-to-win-us-federal-co]] · [[2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar]]
 <!-- graph:end -->

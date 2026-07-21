@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
+- 2026-05-14-nvidia-vera-rubin-platform-enters-production-1-trillion-in-c
 embedding_id: 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Jensen Huang confirmed Vera Rubin remains on schedule for Q3 2026 production shi
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
+**Related:** [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-1-trillion-in-c]]
 <!-- graph:end -->

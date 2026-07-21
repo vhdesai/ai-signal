@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai
-- 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
 embedding_id: 2026-05-27-bingx-launches-openai-and-anthropic-pre-ipo-perpetual-future
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Crypto exchange BingX added OpenAI and Anthropic to its Pre-IPO Trading Zone via
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
+**Related:** [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-18-anthropic-valuation-reaches-930b-in-secondary-trades-openai]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]]
 <!-- graph:end -->

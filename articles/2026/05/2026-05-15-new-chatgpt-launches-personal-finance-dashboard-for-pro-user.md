@@ -18,7 +18,8 @@ themes: []
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
-related_article_ids: []
+related_article_ids:
+- 2026-05-15-openai-launches-chatgpt-personal-finance-connect-12-000-bank
 embedding_id: 2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user
 event_name: ''
 ---
@@ -32,4 +33,5 @@ OpenAI's ChatGPT can now connect to financial accounts through Plaid, giving Pro
 
 **Entities:** [[OpenAI]]
 **Canonical:** [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Related:** [[2026-05-15-openai-launches-chatgpt-personal-finance-connect-12-000-bank]]
 <!-- graph:end -->

@@ -25,12 +25,9 @@ themes:
 - company-storylines
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc
-- 2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours
-- 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai
+related_article_ids: []
 embedding_id: 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
 event_name: ''
 ---
@@ -44,5 +41,5 @@ A planned AI safety executive order — which would have created a voluntary sys
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-25-trump-white-house-scraps-ai-safety-executive-order-after-zuc]] · [[2026-05-21-president-trump-cancelled-a-planned-ai-executive-order-hours]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]]
+**Canonical:** [[2026-05-22-president-trump-abruptly-canceled-the-signing-of-a-long-awai]]
 <!-- graph:end -->

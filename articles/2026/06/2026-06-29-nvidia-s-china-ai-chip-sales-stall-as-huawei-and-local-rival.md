@@ -20,14 +20,10 @@ themes:
 - policy-regulation
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
+dedupe_status: duplicate
+canonical_article_id: 2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch
 related_article_ids:
 - 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
 embedding_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 event_name: ''
 ---
@@ -41,5 +37,6 @@ Despite Jensen Huang's celebrity reception in Beijing, Nvidia's advanced-chip sa
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-lead]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]]
+**Canonical:** [[2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch]]
+**Related:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
+- 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 - 2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo
-- 2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple
 embedding_id: 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle reported May-quarter revenue growth of 21%, one percentage point slower t
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]] · [[2026-05-02-amazon-s-trainium-has-crossed-a-10b-run-rate-growing-triple]]
+**Related:** [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]] · [[2026-05-21-oracle-fusion-data-intelligence-deployed-at-heathrow-mtn-clo]]
 <!-- graph:end -->

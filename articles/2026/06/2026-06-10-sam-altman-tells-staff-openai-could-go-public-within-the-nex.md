@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
+- 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
+- 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 - 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
-- 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
-- 2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed
 embedding_id: 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI CEO Sam Altman told staff in a Slack message that he expects OpenAI to go
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-20-openai-prepares-fall-ipo-filing-after-musk-lawsuit-dismissed]]
+**Related:** [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]]
 <!-- graph:end -->

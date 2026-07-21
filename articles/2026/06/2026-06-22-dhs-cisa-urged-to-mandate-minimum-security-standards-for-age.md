@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 - 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 - 2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age
 - 2026-06-22-palo-alto-networks-frames-delegated-authority-as-core-agenti
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-- 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 embedding_id: 2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Analysis argues voluntary frameworks leave critical-infrastructure operators exp
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-06-22-palo-alto-networks-frames-delegated-authority-as-core-agenti]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]]
+**Related:** [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-05-microsoft-identifies-seven-new-attack-vectors-against-ai-age]] · [[2026-06-22-palo-alto-networks-frames-delegated-authority-as-core-agenti]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
 <!-- graph:end -->

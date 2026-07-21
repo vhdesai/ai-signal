@@ -27,7 +27,6 @@ related_article_ids:
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 - 2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un
 - 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
-- 2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan
 embedding_id: 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 event_name: ''
 ---
@@ -41,5 +40,5 @@ Mistral announced flagship enterprise deals with Airbus (a 5-year contract spann
 
 **Entities:** [[Mistral]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]] · [[2026-05-28-france-s-mistral-warns-of-the-dangers-of-u-s-ai-tech-dominan]]
+**Related:** [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-04-12-mistral-ai-released-mistral-small-4-a-22b-parameter-model-un]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]]
 <!-- graph:end -->

@@ -18,14 +18,9 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
-- 2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit
-- 2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster
-- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
+dedupe_status: duplicate
+canonical_article_id: 2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a
+related_article_ids: []
 embedding_id: 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Nvidia CEO Jensen Huang publicly criticized tech industry leaders for what he ca
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-05-26-huawei-s-latest-roadmap-shows-the-chinese-firm-making-faster]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
+**Canonical:** [[2026-05-02-nvidia-ceo-jensen-huang-publicly-criticized-what-he-termed-a]]
 <!-- graph:end -->

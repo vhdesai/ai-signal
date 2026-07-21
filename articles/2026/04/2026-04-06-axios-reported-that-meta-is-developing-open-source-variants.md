@@ -33,10 +33,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
+- 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
+- 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 - 2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri
 - 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 embedding_id: 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 event_name: ''
 ---
@@ -50,5 +50,5 @@ DeepSeek V4 Confirmed Running on Huawei Ascend Chips — First Frontier Model on
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]]
+**Related:** [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-04-11-deepseek-has-confirmed-its-v4-model-is-targeting-a-late-apri]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
 <!-- graph:end -->

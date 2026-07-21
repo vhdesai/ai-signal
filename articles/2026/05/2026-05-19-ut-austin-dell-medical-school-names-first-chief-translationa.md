@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education
+- 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
 - 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt
 embedding_id: 2026-05-19-ut-austin-dell-medical-school-names-first-chief-translationa
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UT Austin's Dell Medical School announced Hongfang Liu is joining to lead a new 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-03-30-ai-cardiac-platform-wins-first-ever-acc-global-digital-healt]]
+**Related:** [[2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

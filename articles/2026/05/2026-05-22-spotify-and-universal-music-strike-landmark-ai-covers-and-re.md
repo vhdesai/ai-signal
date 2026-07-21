@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
+- 2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at
+- 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
 - 2026-06-11-deezer-launches-free-ai-music-detector-across-platforms
-- 2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
+- 2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor
 embedding_id: 2026-05-22-spotify-and-universal-music-strike-landmark-ai-covers-and-re
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Spotify and Universal Music Group have signed a first-of-its-kind agreement allo
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]] · [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]]
+**Related:** [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-05-27-umg-and-tiktok-renew-global-licensing-with-ai-governance-at]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-06-11-deezer-launches-free-ai-music-detector-across-platforms]] · [[2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor]]
 <!-- graph:end -->

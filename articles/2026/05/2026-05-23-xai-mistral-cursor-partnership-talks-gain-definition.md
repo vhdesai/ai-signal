@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr
 - 2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
-- 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
+- 2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french
 embedding_id: 2026-05-23-xai-mistral-cursor-partnership-talks-gain-definition
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Reporting carried through the weekend re-anchors the three-way collaboration: Mi
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]]
+**Related:** [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]]
 <!-- graph:end -->

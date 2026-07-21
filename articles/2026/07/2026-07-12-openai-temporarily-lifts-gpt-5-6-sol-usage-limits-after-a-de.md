@@ -22,7 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-openai-temporarily-removes-gpt-5-6-sol-s-5-hour-usage-limit
 - 2026-07-12-openai-temporarily-relaxes-gpt-5-6-sol-usage-limits-as-deman
-- 2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te
+- 2026-07-15-openai-temporarily-lifts-the-5-hour-usage-window-for-codex-a
+- 2026-06-27-o-hot-openai-limits-gpt-5-6-rollout-after-government-request
 embedding_id: 2026-07-12-openai-temporarily-lifts-gpt-5-6-sol-usage-limits-after-a-de
 event_name: ''
 ---
@@ -36,5 +37,5 @@ OpenAI removed the rolling five‑hour usage cap for Plus, Pro and Business plan
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-12-openai-temporarily-removes-gpt-5-6-sol-s-5-hour-usage-limit]] · [[2026-07-12-openai-temporarily-relaxes-gpt-5-6-sol-usage-limits-as-deman]] · [[2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te]]
+**Related:** [[2026-07-12-openai-temporarily-removes-gpt-5-6-sol-s-5-hour-usage-limit]] · [[2026-07-12-openai-temporarily-relaxes-gpt-5-6-sol-usage-limits-as-deman]] · [[2026-07-15-openai-temporarily-lifts-the-5-hour-usage-window-for-codex-a]] · [[2026-06-27-o-hot-openai-limits-gpt-5-6-rollout-after-government-request]]
 <!-- graph:end -->

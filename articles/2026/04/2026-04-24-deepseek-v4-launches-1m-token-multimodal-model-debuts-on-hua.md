@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
+- 2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli
 - 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
-- 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
-- 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 embedding_id: 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
 event_name: ''
 ---
@@ -46,5 +46,5 @@ DeepSeek released its V4 model — its most capable to date — featuring a 1 mi
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]] · [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]] · [[2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l]]
+**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-04-06-deepseek-s-forthcoming-v4-model-reportedly-carrying-1-trilli]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]]
 <!-- graph:end -->

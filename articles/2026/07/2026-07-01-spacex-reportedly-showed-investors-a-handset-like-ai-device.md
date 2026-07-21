@@ -19,11 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about
 - 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
-- 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
-- 2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s
-- 2026-07-07-july-7-2026
-- 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
+- 2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i
+- 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
 embedding_id: 2026-07-01-spacex-reportedly-showed-investors-a-handset-like-ai-device
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Per a Wall Street Journal report relayed by TechCrunch, SpaceX showed investors 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-07-07-xai-officially-rebrands-as-spacexai-completing-merger-into-s]] · [[2026-07-07-july-7-2026]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]]
+**Related:** [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]] · [[2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i]] · [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]]
 <!-- graph:end -->

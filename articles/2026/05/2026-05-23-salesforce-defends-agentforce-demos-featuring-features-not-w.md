@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
+- 2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
+- 2026-04-02-products-tools-techcrunch-salesforce
 embedding_id: 2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Salesforce's recent promotional videos for Agentforce included mock-ups and capa
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]]
+**Related:** [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-04-04-salesforce-ceo-marc-benioff-unveiled-a-comprehensive-slack-o]] · [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-04-02-products-tools-techcrunch-salesforce]]
 <!-- graph:end -->

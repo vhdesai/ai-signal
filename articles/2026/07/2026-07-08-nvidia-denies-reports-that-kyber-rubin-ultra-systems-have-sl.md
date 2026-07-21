@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028
+- 2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 - 2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027
-- 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 embedding_id: 2026-07-08-nvidia-denies-reports-that-kyber-rubin-ultra-systems-have-sl
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia publicly rejected reports that its next-generation Rubin Ultra chips and 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]]
+**Related:** [[2026-07-05-nvidia-s-next-gen-kyber-nvl144-rack-reportedly-slips-to-2028]] · [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-05-26-nvidia-vera-rubin-coverage-continues-1t-demand-through-2027]]
 <!-- graph:end -->

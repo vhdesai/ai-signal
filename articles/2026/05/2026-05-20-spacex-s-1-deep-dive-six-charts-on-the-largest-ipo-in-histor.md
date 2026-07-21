@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq
+- 2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne
 - 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
 - 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
 - 2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined
-- 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
-- 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
 embedding_id: 2026-05-20-spacex-s-1-deep-dive-six-charts-on-the-largest-ipo-in-histor
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook unpacks SpaceX's S-1 with six charts: $18.7B in 2025 revenue (+33% YoY
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]] · [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]] · [[2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]]
+**Related:** [[2026-05-23-spacex-officially-filed-its-s-1-prospectus-to-list-on-nasdaq]] · [[2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne]] · [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]] · [[2026-05-23-spacex-openai-and-anthropic-prepare-for-4-trillion-combined]]
 <!-- graph:end -->

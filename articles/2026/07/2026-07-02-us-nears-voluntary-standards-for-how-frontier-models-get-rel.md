@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
+- 2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours
 - 2026-06-23-trump-administration-presses-meta-to-submit-frontier-models
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-07-02-us-nears-voluntary-standards-for-how-frontier-models-get-rel
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The US government is negotiating voluntary standards with AI companies governing
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-07-05-no-confirmed-primary-source-items-in-the-last-24-hours]] · [[2026-06-23-trump-administration-presses-meta-to-submit-frontier-models]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
+- 2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit
+- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-- 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-- 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
+- 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
 embedding_id: 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Tencent appointed Yao Shunyu — a former OpenAI researcher — as AI chief with
 
 **Entities:** [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]]
+**Related:** [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]]
 <!-- graph:end -->

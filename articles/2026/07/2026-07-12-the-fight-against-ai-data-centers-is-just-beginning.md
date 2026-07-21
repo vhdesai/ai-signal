@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
+- 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
+- 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
 embedding_id: 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Verge reported that opposition to AI data center expansion is accelerating a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]]
+**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]]
 <!-- graph:end -->

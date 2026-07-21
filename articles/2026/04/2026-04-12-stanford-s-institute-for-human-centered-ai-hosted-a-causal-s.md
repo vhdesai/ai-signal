@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
+- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 - 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
-- 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
 embedding_id: 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Purdue Mandates AI Competency as a Graduation Requirement for All Undergraduates
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]]
+**Related:** [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]]
 <!-- graph:end -->

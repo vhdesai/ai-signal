@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760
+- 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 - 2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption
-- 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
-- 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
-- 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
+- 2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s
+- 2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most
 embedding_id: 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Cloudflare disclosed that AI-driven automation eliminated approximately 1,100 ro
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]] · [[2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work]] · [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]]
+**Related:** [[2026-05-11-ai-attribution-layoffs-cloudflare-1-100-xai-500-paypal-4-760]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-06-23-oracle-cuts-21-000-jobs-13-of-workforce-cites-ai-adoption]] · [[2026-05-15-cisco-announced-it-is-cutting-nearly-4-000-positions-while-s]] · [[2026-05-18-mustafa-suleiman-microsoft-s-ai-chief-stated-today-that-most]]
 <!-- graph:end -->

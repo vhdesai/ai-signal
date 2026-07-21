@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-mit-publishes-a-nongenerative-method-for-auditing-models-ada
 - 2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin
 - 2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi
 - 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
-- 2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i
 embedding_id: 2026-07-13-mit-develops-nongenerative-audit-for-models-adapted-to-creat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers introduced an auditing method that detects whether a generative 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-06-26-mit-s-masked-irl-uses-two-llms-to-help-robots-act-on-vague-i]]
+**Related:** [[2026-07-15-mit-publishes-a-nongenerative-method-for-auditing-models-ada]] · [[2026-07-13-mit-s-new-method-detects-whether-open-source-models-were-fin]] · [[2026-07-13-new-auditing-method-screens-generative-ai-for-illegal-capabi]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]]
 <!-- graph:end -->

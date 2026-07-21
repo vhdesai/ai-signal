@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 - 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
-- 2026-04-13-ai-safety-policy
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-05-27-anthropic-releases-mythos-cleared-contractor-frontier-model
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic released its previously restricted Mythos frontier model to the genera
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-04-13-ai-safety-policy]]
+**Related:** [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
 <!-- graph:end -->

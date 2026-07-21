@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-gains-steam
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi
+- 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
+- 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
+- 2026-03-14-view-in-web-browser-the-wall-street-journal-the-backlash-aga
 embedding_id: 2026-06-07-wsj-the-artificial-intelligence-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The WSJ published a major feature on the emerging AI backlash, documenting how p
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-27-wsj-opinion-an-ai-overwatch-act-would-help-the-us-compete-wi]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-gains-steam]] · [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-03-14-view-in-web-browser-the-wall-street-journal-the-backlash-aga]]
 <!-- graph:end -->

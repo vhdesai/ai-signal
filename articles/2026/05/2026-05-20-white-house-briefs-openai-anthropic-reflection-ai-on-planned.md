@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-19-the-white-house-reportedly-moves-to-control-who-can-access-f
 - 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 - 2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
-- 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
 embedding_id: 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The White House Office of the National Cyber Director hosted a Tuesday briefing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]]
+**Related:** [[2026-07-19-the-white-house-reportedly-moves-to-control-who-can-access-f]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-05-20-before-the-cancellation-the-white-house-s-office-of-the-nati]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]]
 <!-- graph:end -->

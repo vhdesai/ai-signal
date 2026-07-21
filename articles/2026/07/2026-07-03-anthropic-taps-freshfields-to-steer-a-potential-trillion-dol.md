@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
+- 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
-- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 embedding_id: 2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's bankers have retained UK law firm Freshfields — the adviser on Goo
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
+**Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

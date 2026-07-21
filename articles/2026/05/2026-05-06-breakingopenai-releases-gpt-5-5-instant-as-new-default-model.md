@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
+- 2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f
 - 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 - 2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the
-- 2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index
 embedding_id: 2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI shipped GPT-5.5 Instant today, replacing the previous default model acros
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]] · [[2026-05-05-gpt-5-5-becomes-chatgpt-default-frontier-intelligence-index]]
+**Related:** [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]] · [[2026-06-25-openai-ships-an-upgraded-gpt-5-5-instant-already-live-in-the]]
 <!-- graph:end -->

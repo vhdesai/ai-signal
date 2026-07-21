@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi
 - 2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo
 - 2026-07-09-mistral-enters-physical-ai-with-robostral-navigate
+- 2026-07-15-mistral-releases-robostral-navigate-for-single-camera-robot
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-- 2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v
 embedding_id: 2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral pushed further into embodied AI with Robostral Navigate, a compact 8-bil
 
 **Entities:** [[Mistral]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi]] · [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo]] · [[2026-07-09-mistral-enters-physical-ai-with-robostral-navigate]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-07-07-robovista-modular-visual-question-answering-for-evaluating-v]]
+**Related:** [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi]] · [[2026-07-13-mistral-introduces-robostral-navigate-for-single-camera-robo]] · [[2026-07-09-mistral-enters-physical-ai-with-robostral-navigate]] · [[2026-07-15-mistral-releases-robostral-navigate-for-single-camera-robot]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
 <!-- graph:end -->

@@ -19,7 +19,8 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
-related_article_ids: []
+related_article_ids:
+- 2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights
 embedding_id: 2026-04-24-deepseek-v4-in-preview-with-1m-context-window
 event_name: ''
 ---
@@ -34,4 +35,5 @@ DeepSeek V4 launched in preview through V4-Pro and V4-Flash variants with open w
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]]
+**Related:** [[2026-04-24-deepseek-v4-launches-with-1m-context-window-and-open-weights]]
 <!-- graph:end -->

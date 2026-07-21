@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
-- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+- 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 embedding_id: 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Several peer-reviewed AI survey and review articles carry a June 15, 2026 public
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
+**Related:** [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]]
 <!-- graph:end -->

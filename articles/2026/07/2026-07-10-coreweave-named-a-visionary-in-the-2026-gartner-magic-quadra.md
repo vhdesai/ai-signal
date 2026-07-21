@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
-- 2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from
-- 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
-- 2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t
+- 2026-07-20-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras
+- 2026-07-21-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras
 embedding_id: 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave was named a Visionary in Gartner's 2026 Magic Quadrant for Cloud AI In
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-05-19-baseten-ceo-ai-inference-is-a-new-cloud-layer-distinct-from]] · [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave]] · [[2026-05-13-huang-foundation-buys-108m-of-coreweave-compute-donates-it-t]]
+**Related:** [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-07-20-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras]] · [[2026-07-21-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras]]
 <!-- graph:end -->

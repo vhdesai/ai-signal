@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 - 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
-- 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
+- 2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif
 embedding_id: 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NPR reports that stripping safety guardrails from capable open-weight models —
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]]
+**Related:** [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]] · [[2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif]]
 <!-- graph:end -->

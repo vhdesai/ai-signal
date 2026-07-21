@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
+- 2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s
 - 2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr
 embedding_id: 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI economist Oren Etzioni's analysis catalogs 12 AI labs that have collectively 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr]]
+**Related:** [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s]] · [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]]
 <!-- graph:end -->

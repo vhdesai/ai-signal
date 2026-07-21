@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s
 - 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
+- 2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-- 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
-- 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
+- 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 embedding_id: 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 event_name: ''
 ---
@@ -39,5 +39,5 @@ May's AI funding tally jumped to roughly $25B across 37 disclosed deals, with GP
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]]
+**Related:** [[2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s]] · [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
 <!-- graph:end -->

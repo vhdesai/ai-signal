@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
 - 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
 - 2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr
-- 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
-- 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
+- 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
 embedding_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A Nature Astronomy Perspective argues that multimessenger astronomy's coming dat
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san]]
+**Related:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]] · [[2026-05-26-google-deepmind-s-alphaproof-nexus-closed-nine-open-erd-s-pr]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel]]
 <!-- graph:end -->

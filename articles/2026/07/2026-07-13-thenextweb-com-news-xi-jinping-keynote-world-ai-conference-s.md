@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
+- 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
-- 2026-07-12-july-13-2026
-- 2026-07-13-subject-daily-ai-news-digest-july-13-2026
+- 2026-05-08-source-south-china-morning-post-published-may-6-2026
+- 2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co
 embedding_id: 2026-07-13-thenextweb-com-news-xi-jinping-keynote-world-ai-conference-s
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Items materially outside the 24-hour window were excluded, including the FLI AI 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-07-12-july-13-2026]] · [[2026-07-13-subject-daily-ai-news-digest-july-13-2026]]
+**Related:** [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-05-08-source-south-china-morning-post-published-may-6-2026]] · [[2026-06-30-this-briefing-includes-only-items-with-a-publication-date-co]]
 <!-- graph:end -->

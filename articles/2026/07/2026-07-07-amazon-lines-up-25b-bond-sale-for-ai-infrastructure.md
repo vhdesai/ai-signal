@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b
 - 2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
+- 2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a
 - 2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
 embedding_id: 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon is preparing a $25 billion bond sale to fund AI infrastructure expansion,
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-07-07-amazon-readies-a-25b-plus-bond-sale-to-fund-its-ai-and-aws-b]] · [[2026-07-07-amazon-to-raise-at-least-25b-in-bond-sale-to-fund-ai-buildou]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a]] · [[2026-07-10-big-tech-s-ai-debt-load-doubles-to-350b-as-infrastructure-sp]]
 <!-- graph:end -->

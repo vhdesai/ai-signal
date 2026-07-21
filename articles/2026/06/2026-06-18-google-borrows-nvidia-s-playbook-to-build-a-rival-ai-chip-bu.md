@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 - 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
-- 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
-- 2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen
+- 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 embedding_id: 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google backing Lake Mariner DC project with $3.2B guarantee; facility will lease
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]] · [[2026-07-03-meta-reportedly-taps-samsung-for-6-5b-to-build-its-next-gen]]
+**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]]
 <!-- graph:end -->

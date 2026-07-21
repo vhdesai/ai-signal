@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
 - 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
 - 2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai
+- 2026-05-05-white-house-weighs-executive-order-requiring-pre-release-ai
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 embedding_id: 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 event_name: ''
@@ -37,5 +38,5 @@ The Trump administration is reportedly preparing to require AI models be tested 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
+**Related:** [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-05-10-trump-administration-reverses-course-signs-pre-deployment-ai]] · [[2026-05-05-white-house-weighs-executive-order-requiring-pre-release-ai]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]]
 <!-- graph:end -->

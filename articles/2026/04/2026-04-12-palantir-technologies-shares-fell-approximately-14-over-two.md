@@ -37,8 +37,8 @@ related_article_ids:
 - 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
+- 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
 - 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
-- 2026-04-07-u-s-treasury-secretary-scott-bessent-and-federal-reserve-cha
 embedding_id: 2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two
 event_name: ''
 ---
@@ -52,5 +52,5 @@ Oracle Cuts ~30,000 Jobs — Layoffs Fund AI Infrastructure Push; Cerebras Targe
 
 **Entities:** [[Anthropic]] · [[Cerebras]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-04-07-u-s-treasury-secretary-scott-bessent-and-federal-reserve-cha]]
+**Related:** [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
 <!-- graph:end -->

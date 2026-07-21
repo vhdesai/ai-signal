@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-- 2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock
+- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
 embedding_id: 2026-05-29-openai-brings-codex-computer-use-to-windows
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI extended its Codex agent's computer-use capability to the Windows desktop
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock]]
+**Related:** [[2026-05-29-openai-codex-gains-computer-use-and-remote-control-on-window]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]]
 <!-- graph:end -->

@@ -32,11 +32,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
 - 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
-- 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-- 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
+- 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
+- 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 embedding_id: 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 event_name: ''
 ---
@@ -50,5 +50,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]]
+**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]]
 <!-- graph:end -->

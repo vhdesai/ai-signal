@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
+- 2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h
+- 2026-05-09-openai-s-musk-v-altman-trial-greg-brockman-s-private-journal
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
-- 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
-- 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 embedding_id: 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new court filing reveals Elon Musk texted Greg Brockman about settling two day
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]]
+**Related:** [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h]] · [[2026-05-09-openai-s-musk-v-altman-trial-greg-brockman-s-private-journal]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
 <!-- graph:end -->

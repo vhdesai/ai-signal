@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic
+- 2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly
 - 2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 embedding_id: 2026-05-10-alibaba-integrates-qwen-ai-into-taobao-and-tmall-access-to-4
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alibaba is deploying its Qwen AI model directly within Taobao and Tmall, giving 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
+**Related:** [[2026-05-18-alibaba-to-embed-qwen-ai-directly-into-taobao-tmall-agentic]] · [[2026-05-18-alibaba-is-preparing-to-integrate-its-qwen-ai-model-directly]] · [[2026-05-23-alibaba-connects-qwen-to-taobao-and-tmall-agentic-commerce-a]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]]
 <!-- graph:end -->

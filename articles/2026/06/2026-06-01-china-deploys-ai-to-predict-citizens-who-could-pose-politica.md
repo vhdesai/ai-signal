@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
 - 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
+- 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 embedding_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The New York Times reported that Chinese authorities are deploying AI systems de
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-04-23-japan-s-financial-services-agency-fsa-issued-an-alert-flaggi]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]]
 <!-- graph:end -->

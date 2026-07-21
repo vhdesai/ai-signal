@@ -12,6 +12,7 @@ Powered by NLP, semantic search (ChromaDB), and automated URL validation.
 - 🏷️ **Themes** — Stories grouped by topic (Infrastructure, Policy, Corporate Moves, etc.)
 - 🏢 **Players** — Track companies & organizations across stories
 - 🔍 **Search** — Full-text client-side search across all articles
+- 💬 **Chat** — Ask questions about the news; answered by free hosted models grounded in the most relevant article summaries
 
 ## Quick Start
 

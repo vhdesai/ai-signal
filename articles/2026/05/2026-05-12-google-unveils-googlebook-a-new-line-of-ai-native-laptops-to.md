@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b
 - 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
 - event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category
-- 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
-- 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
+- 2026-05-14-google-announces-googlebook-a-gemini-first-laptop-category-t
+- 2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i
 embedding_id: 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
 event_name: ''
 ---
@@ -39,5 +39,5 @@ At the Android Show, Google unveiled Googlebook — the first laptop line design
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]] · [[Microsoft]]
-**Related:** [[2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b]] · [[2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi]] · [[event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]]
+**Related:** [[2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b]] · [[2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi]] · [[event-google-android-show-2026-google-android-show-2026-googlebook-laptop-category]] · [[2026-05-14-google-announces-googlebook-a-gemini-first-laptop-category-t]] · [[2026-05-17-during-the-android-show-i-o-edition-2026-google-officially-i]]
 <!-- graph:end -->

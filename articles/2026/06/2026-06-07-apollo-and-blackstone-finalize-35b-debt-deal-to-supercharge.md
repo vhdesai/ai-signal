@@ -25,6 +25,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
@@ -42,5 +43,5 @@ Apollo and Blackstone finalized a $35 billion debt facility for Anthropic — th
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
 <!-- graph:end -->

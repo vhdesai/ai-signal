@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu
+- 2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on
 - 2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher
-- 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai
-- 2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co
+- 2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica
 embedding_id: 2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-the-first-papal-e
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The first papal encyclical on artificial intelligence — signed May 15 on the 1
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-25-pope-leo-xiv-publishes-magnifica-humanitas-encyclical-on-ai]] · [[2026-05-19-vatican-announces-first-papal-encyclical-on-ai-anthropic-co]]
+**Related:** [[2026-05-25-pope-leo-xiv-releases-first-papal-ai-encyclical-magnifica-hu]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-23-pope-leo-xiv-announced-his-first-papal-encyclical-magnifica]]
 <!-- graph:end -->

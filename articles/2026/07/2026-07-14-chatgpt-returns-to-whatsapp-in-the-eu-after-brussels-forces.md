@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
-- 2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g
+- 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 embedding_id: 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI re-enabled ChatGPT inside WhatsApp across the European Economic Area — 
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-06-26-chatgpt-expands-personal-finance-and-dictation-and-retires-g]]
+**Related:** [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic]]
 <!-- graph:end -->

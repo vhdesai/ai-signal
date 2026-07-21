@@ -22,8 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical
+- 2026-03-13-the-information-logo-fast-growing-kings-league-looks-to-conq
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-- 2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe
+- 2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic
 embedding_id: 2026-06-01-openai-builds-out-a-legal-vertical-ironclad-founder-boehmig
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Jason Boehmig, founder of contract-management pioneer Ironclad, has joined OpenA
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-07-09-anthropic-openai-and-spacex-could-dwarf-25-years-of-vc-backe]]
+**Related:** [[2026-06-01-openai-hires-ironclad-founder-to-build-legal-vertical]] · [[2026-03-13-the-information-logo-fast-growing-kings-league-looks-to-conq]] · [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic]]
 <!-- graph:end -->

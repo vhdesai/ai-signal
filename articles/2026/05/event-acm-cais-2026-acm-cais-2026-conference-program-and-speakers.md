@@ -25,10 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
+- 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
-- event-acm-cais-2026-acm-cais-2026-overview
-- 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
-- event-acm-cais-2026-acm-cais-2026-strategic-implications
+- 2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo
 embedding_id: event-acm-cais-2026-acm-cais-2026-conference-program-and-speakers
 event_name: ACM CAIS 2026
 ---
@@ -42,5 +41,5 @@ Official site lists keynote speakers including Andy Konwinski, Thariq Shihipar, 
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[event-acm-cais-2026-acm-cais-2026-overview]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]]
+**Related:** [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-05-researchers-from-uc-berkeley-stanford-cmu-databricks-and-goo]]
 <!-- graph:end -->

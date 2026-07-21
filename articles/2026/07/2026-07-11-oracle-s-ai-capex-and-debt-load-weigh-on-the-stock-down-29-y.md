@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 - 2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-04-02-source-all-about-lawyer-the-neuron
+- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-07-11-oracle-s-ai-capex-and-debt-load-weigh-on-the-stock-down-29-y
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A weekend markets note flags Oracle trading near $140, off roughly 29% year-to-d
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-06-11-oracle-beat-earnings-but-fell-11-ai-capex-anxiety-intensifie]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

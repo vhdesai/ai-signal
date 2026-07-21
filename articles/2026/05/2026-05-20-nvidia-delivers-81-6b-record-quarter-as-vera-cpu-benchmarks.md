@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 - 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm
+- 2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts
+- 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
 embedding_id: 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA reported record Q1 FY27 revenue of $81.6B (up 20% sequentially, 85% year-
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-with-1t-confirm]]
+**Related:** [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]]
 <!-- graph:end -->

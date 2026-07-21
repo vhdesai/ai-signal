@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc
 - 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
+- 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
-- 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
-- 2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on
-- 2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin
+- 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
 embedding_id: 2026-04-17-anthropic-launches-claude-design-cpo-exits-figma-board
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic Labs shipped Claude Design, a research-preview prototyping and visual-
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]] · [[2026-05-19-andrej-karpathy-joins-anthropic-to-work-on-claude-pretrainin]]
+**Related:** [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]] · [[2026-05-18-anthropic-launches-claude-design-for-visual-collaboration]] · [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
 - 2026-04-07-source-the-hacker-news-reuters-the-star
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra
 embedding_id: 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic agreed to give ENISA, the EU's cybersecurity agency, access to Mythos 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-26-anthropic-mythos-project-glasswing-reframed-as-boardroom-gra]]
+**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
 <!-- graph:end -->

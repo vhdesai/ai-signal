@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
+- 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu
 - 2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b
-- 2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces
-- 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
 embedding_id: 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The EU ordered Meta to allow rival AI assistants back onto WhatsApp under Digita
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu]] · [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b]] · [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces]] · [[2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process]]
+**Related:** [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic]] · [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu]] · [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b]]
 <!-- graph:end -->

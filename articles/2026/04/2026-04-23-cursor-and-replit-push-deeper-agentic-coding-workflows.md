@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
+- 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
+- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
-- 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
-- 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
-- 2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co
 embedding_id: 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor shipped a “background agents” feature that lets engineers dispatch mu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams]] · [[2026-05-27-cursor-s-sasha-rush-outlines-roadmap-for-coding-agents-at-co]]
+**Related:** [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]]
 <!-- graph:end -->

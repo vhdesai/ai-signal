@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp
 - 2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train
 - 2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model
-- 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-- 2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki
+- 2026-03-24-cursor-discloses-composer-2-is-built-on-moonshot-ai-s-kimi-k
+- 2026-03-24-cursor-revealed-that-its-recently-launched-composer-2-coding
 embedding_id: 2026-05-18-cursor-ships-composer-2-5-matches-claude-opus-4-7-and-gpt-5
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cursor released Composer 2.5, built on Kimi K2.5 and trained on roughly 25× mor
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-03-25-cursor-self-hosted-cloud-agents-for-enterprise-composer-2-ki]]
+**Related:** [[2026-05-21-cursor-composer-2-5-officially-launches-matching-opus-4-7-gp]] · [[2026-05-19-cursor-launches-composer-2-5-and-discloses-spacexai-co-train]] · [[2026-05-20-cursor-launches-composer-2-5-its-first-in-house-coding-model]] · [[2026-03-24-cursor-discloses-composer-2-is-built-on-moonshot-ai-s-kimi-k]] · [[2026-03-24-cursor-revealed-that-its-recently-launched-composer-2-coding]]
 <!-- graph:end -->

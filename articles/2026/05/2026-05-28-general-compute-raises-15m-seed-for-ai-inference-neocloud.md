@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne
+- 2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips
 - 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-- 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
-- 2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
+- 2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-specif
+- 2026-07-18-general-compute-lands-a-400m-loan-backed-by-inference-specif
 embedding_id: 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 event_name: ''
 ---
@@ -38,5 +38,5 @@ General Compute closed a $15M seed at $60M post-money, led by FUSE VC with Carya
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
+**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-inference-specialized-ne]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-specif]] · [[2026-07-18-general-compute-lands-a-400m-loan-backed-by-inference-specif]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
 - 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
-- 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
-- 2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full
-- 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
+- 2026-05-14-cursor-3-0-launches-agents-window-parallel-ai-agents-for-com
+- 2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w
+- 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 embedding_id: 2026-05-10-cursor-3-0-parallel-agent-coding-ide
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cursor 3.0 launched an "Agents Window" as a central workspace for orchestrating 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-13-cursor-3-4-introduces-cloud-agent-dev-environments-with-full]] · [[2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you]]
+**Related:** [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-14-cursor-3-0-launches-agents-window-parallel-ai-agents-for-com]] · [[2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]]
 <!-- graph:end -->

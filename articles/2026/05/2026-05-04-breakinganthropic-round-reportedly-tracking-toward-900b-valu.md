@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private
 - 2026-05-26-anthropic-closing-30b-round-at-900b-valuation
+- 2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least
 - 2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f
 - 2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin
-- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
 embedding_id: 2026-05-04-breakinganthropic-round-reportedly-tracking-toward-900b-valu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Sources indicate Anthropic's next funding round could close within two weeks at 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-05-26-anthropic-closing-30b-round-at-900b-valuation]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
+**Related:** [[2026-05-10-anthropic-closing-50b-round-at-900b-valuation-final-private]] · [[2026-05-26-anthropic-closing-30b-round-at-900b-valuation]] · [[2026-05-18-bloomberg-reports-anthropic-s-latest-funding-round-at-least]] · [[2026-05-15-anthropic-nears-30b-raise-at-900b-valuation-3-its-february-f]] · [[2026-05-15-hot-anthropic-closing-in-on-900b-valuation-in-new-30b-fundin]]
 <!-- graph:end -->

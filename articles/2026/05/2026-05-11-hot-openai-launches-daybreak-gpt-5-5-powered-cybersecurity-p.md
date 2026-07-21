@@ -26,11 +26,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p
 - 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5
 - 2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by
+- 2026-05-18-openai-introduced-daybreak-a-cybersecurity-focused-initiativ
 - 2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on
-- 2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec
-- 2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform
 embedding_id: 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 event_name: ''
 ---
@@ -44,5 +44,5 @@ OpenAI launched Daybreak, a GPT-5.5-powered cybersecurity initiative available t
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by]] · [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]] · [[2026-06-23-openai-ships-full-gpt-5-5-cyber-and-expands-its-daybreak-sec]] · [[2026-05-12-openai-launches-daybreak-ai-cybersecurity-platform]]
+**Related:** [[2026-05-17-openai-introduced-daybreak-a-gpt-5-5-powered-cybersecurity-p]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-with-gpt-5]] · [[2026-05-12-openai-launches-daybreak-cybersecurity-initiative-powered-by]] · [[2026-05-18-openai-introduced-daybreak-a-cybersecurity-focused-initiativ]] · [[2026-05-12-openai-introduces-daybreak-cybersecurity-initiative-built-on]]
 <!-- graph:end -->

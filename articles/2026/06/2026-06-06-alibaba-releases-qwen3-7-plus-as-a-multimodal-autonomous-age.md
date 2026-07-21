@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
-- 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
 embedding_id: 2026-06-06-alibaba-releases-qwen3-7-plus-as-a-multimodal-autonomous-age
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Alibaba released Qwen3.7-Plus, positioning it as a multimodal model designed to 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]]
+**Related:** [[2026-06-02-alibaba-s-qwen-team-launches-qwen3-7-plus-multimodal-agent]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
 <!-- graph:end -->

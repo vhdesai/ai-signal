@@ -30,7 +30,6 @@ related_article_ids:
 - 2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop
 - 2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec
 - 2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai
-- 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 embedding_id: 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
 event_name: ''
 ---
@@ -44,5 +43,5 @@ NVIDIA Gated DeltaNet-2 lands; Vera Rubin platform anchors agentic and physical 
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
+**Related:** [[2026-05-26-european-banks-back-mistral-as-a-sovereign-answer-to-anthrop]] · [[2026-05-26-mistral-expands-harvey-ai-partnership-to-push-into-legal-sec]] · [[2026-05-26-bnp-paribas-mistral-expand-partnership-for-cyber-focused-ai]]
 <!-- graph:end -->

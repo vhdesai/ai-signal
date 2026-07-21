@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
+- 2026-05-14-apple-reportedly-preparing-to-allow-agentic-ai-apps-on-app-s
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference
 - event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview
-- event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat
 embedding_id: event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
 event_name: Apple WWDC 2026 Preview
 ---
@@ -41,5 +41,5 @@ A 9to5Mac/The Information item in the corpus says Apple is designing a system fo
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat]]
+**Related:** [[2026-05-13-apple-is-designing-an-ai-agent-system-for-the-app-store-ahea]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]] · [[2026-05-14-apple-reportedly-preparing-to-allow-agentic-ai-apps-on-app-s]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-overview]]
 <!-- graph:end -->

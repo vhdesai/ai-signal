@@ -18,7 +18,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga
+- 2026-03-12-the-information-logo-kevin-mclaughlin-headshot-by-kevin-mcla
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
+- 2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou
 embedding_id: 2026-05-03-this-is-fine-creator-accuses-artisan-of-stealing-his-art-for
 event_name: ''
 ---
@@ -31,5 +34,5 @@ Cartoonist KC Green says AI startup Artisan repurposed his iconic "This is fine"
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
+**Related:** [[2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga]] · [[2026-03-12-the-information-logo-kevin-mclaughlin-headshot-by-kevin-mcla]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]]
 <!-- graph:end -->

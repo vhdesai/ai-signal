@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2
 - 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
+- 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
+- 2026-05-15-acm-cais-2026-uc-berkeley-mit-accepted-may-2026
 - 2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights
-- 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
-- 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
-- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 embedding_id: 2026-04-22-academic-research
 event_name: ''
 ---
@@ -39,5 +39,5 @@ ICLR 2026 (Apr 23–27): CMU Presents 194 Papers Including EditBench Code-Editin
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]] · [[2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
+**Related:** [[2026-05-16-stanford-s-ai-lab-presented-several-notable-papers-at-iclr-2]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new]] · [[2026-05-15-acm-cais-2026-uc-berkeley-mit-accepted-may-2026]] · [[2026-04-22-newstanford-sail-presents-40-papers-at-iclr-2026-highlights]]
 <!-- graph:end -->

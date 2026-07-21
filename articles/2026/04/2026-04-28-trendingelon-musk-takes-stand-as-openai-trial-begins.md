@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
+- 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
 - 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 - 2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial
-- 2026-04-13-industry-news
-- 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
-- 2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens
 embedding_id: 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Elon Musk took the stand in Oakland as the OpenAI trial against Sam Altman, Greg
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]] · [[2026-04-13-industry-news]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-04-musk-brockman-texts-surface-days-before-openai-trial-opens]]
+**Related:** [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-12-altman-tries-to-turn-the-tables-on-musk-in-contentious-trial]]
 <!-- graph:end -->

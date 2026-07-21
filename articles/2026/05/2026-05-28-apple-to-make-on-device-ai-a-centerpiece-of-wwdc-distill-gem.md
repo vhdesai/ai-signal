@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications
+- 2026-04-16-google-released-a-fully-native-swift-app-for-macos-that-lets
 embedding_id: 2026-05-28-apple-to-make-on-device-ai-a-centerpiece-of-wwdc-distill-gem
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Apple plans to use next month's WWDC to position 15 years of custom silicon as a
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-strategic-implications]]
+**Related:** [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-04-16-google-released-a-fully-native-swift-app-for-macos-that-lets]]
 <!-- graph:end -->

@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
+- 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
-- 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 embedding_id: 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Both Anthropic and OpenAI published updated frontier safety commitments this wee
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]]
+**Related:** [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]]
 <!-- graph:end -->

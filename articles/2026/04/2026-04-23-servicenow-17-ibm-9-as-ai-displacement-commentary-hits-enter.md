@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 - 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 - 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
-- 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 embedding_id: 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow shares fell 17% and IBM dropped 9% after earnings-call commentary sug
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]]
+**Related:** [[2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]] · [[2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear]]
 <!-- graph:end -->

@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst
+- 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
 - 2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1
-- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
+- 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 embedding_id: 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google and Meta are both internally testing dedicated personal AI agents—coden
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-07-10-the-industry-is-shifting-from-chatbots-to-fully-agentic-syst]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-07-10-meta-enters-the-coding-model-race-with-muse-spark-1-1]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]]
 <!-- graph:end -->

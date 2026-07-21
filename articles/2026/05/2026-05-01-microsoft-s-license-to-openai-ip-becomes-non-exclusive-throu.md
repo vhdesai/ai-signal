@@ -27,10 +27,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 - 2026-04-27-
-- 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 embedding_id: 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
 event_name: ''
 ---
@@ -44,5 +44,5 @@ event_name: ''
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-04-27-]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]]
+**Related:** [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-04-27-]]
 <!-- graph:end -->

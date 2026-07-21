@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a
 - 2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
-- 2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn
-- 2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio
-- 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
+- 2026-05-22-carnegie-mellon-university-jensen-huang-delivers-commencemen
+- 2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research
 embedding_id: 2026-05-10-jensen-huang-delivers-carnegie-mellon-commencement-shape-wha
 event_name: ''
 ---
@@ -36,5 +36,5 @@ NVIDIA founder Jensen Huang received an honorary Doctor of Science and Technolog
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-06-01-nvidia-opens-computex-week-with-jensen-huang-ai-factory-keyn]] · [[2026-05-04-jensen-huang-pushes-back-on-dario-amodei-s-ai-doom-predictio]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]]
+**Related:** [[2026-05-22-nvidia-ceo-jensen-huang-delivered-the-commencement-address-a]] · [[2026-05-10-jensen-huang-delivers-cmu-commencement-keynote-receives-hono]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-22-carnegie-mellon-university-jensen-huang-delivers-commencemen]] · [[2026-04-10-the-national-science-foundation-has-funded-a-new-ai-research]]
 <!-- graph:end -->

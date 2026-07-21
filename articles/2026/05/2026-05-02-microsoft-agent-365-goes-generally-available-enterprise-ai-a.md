@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
 - 2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen
 - 2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co
-- 2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail
-- 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+- 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
+- 2026-05-14-microsoft-agent-365-goes-ga-identity-security-governance-for
 embedding_id: 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Agent 365 became generally available, extending AI agent governance ca
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-02-trendingmicrosoft-365-e7-frontier-suite-goes-generally-avail]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]]
+**Related:** [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-01-microsoft-agent-365-launches-as-dedicated-enterprise-ai-agen]] · [[2026-05-05-microsoft-ships-agent-365-ga-with-new-shadow-ai-discovery-co]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-14-microsoft-agent-365-goes-ga-identity-security-governance-for]]
 <!-- graph:end -->

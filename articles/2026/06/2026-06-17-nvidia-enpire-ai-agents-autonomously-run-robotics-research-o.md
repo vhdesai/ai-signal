@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
-- 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
+- 2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial
 embedding_id: 2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Platform allows AI agents to design, execute, and iterate robotics experiments o
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
+**Related:** [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-04-04-nvidia-national-robotics-week-physical-ai-enters-industrial]]
 <!-- graph:end -->

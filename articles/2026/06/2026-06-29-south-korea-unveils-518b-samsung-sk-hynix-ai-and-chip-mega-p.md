@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+- 2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o
 - 2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 embedding_id: 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ President Lee Jae Myung unveiled an 800-trillion-won (~$517.9B) national plan to
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
+**Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]] · [[2026-07-10-sk-hynix-rides-ai-memory-demand-to-a-blockbuster-u-s-listing]]
 <!-- graph:end -->

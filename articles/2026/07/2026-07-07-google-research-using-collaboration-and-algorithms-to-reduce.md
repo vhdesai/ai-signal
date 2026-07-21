@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest
+- 2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio
+- 2026-03-24-research-science-google-deepmind
+- 2026-07-17-google-research-offers-a-mathematical-account-of-diffusion-m
 - 2026-05-01-google-research-catalyzing-scientific-impact-through-global
-- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
-- 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
 embedding_id: 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research published new work applying algorithmic and data-modeling method
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]]
+**Related:** [[2026-07-07-the-power-of-collaboration-how-we-can-reduce-traffic-congest]] · [[2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio]] · [[2026-03-24-research-science-google-deepmind]] · [[2026-07-17-google-research-offers-a-mathematical-account-of-diffusion-m]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
 <!-- graph:end -->

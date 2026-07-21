@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
+- 2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res
 - 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
+- 2026-04-06-microsoft-365-copilot-blog-april-6-2026
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
-- 2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365
-- 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
-- 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 embedding_id: 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 event_name: ''
 ---
@@ -40,5 +40,5 @@ A July 1 roundup details the Microsoft 365 Copilot updates shipped in June, head
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
+**Related:** [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-04-06-microsoft-365-copilot-blog-april-6-2026]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]]
 <!-- graph:end -->

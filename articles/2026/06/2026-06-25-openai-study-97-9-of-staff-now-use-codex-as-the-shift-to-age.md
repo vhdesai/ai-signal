@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t
+- 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 embedding_id: 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new OpenAI paper, “The Shift to Agentic AI: Evidence from Codex” (co-autho
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Related:** [[2026-06-02-openai-codex-crosses-5m-weekly-users-expands-beyond-coding-t]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-05-19-stanford-2026-ai-index-us-china-model-gap-closes-to-2-7-agen]]
 <!-- graph:end -->

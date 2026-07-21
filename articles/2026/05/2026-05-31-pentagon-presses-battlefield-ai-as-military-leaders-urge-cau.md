@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai
+- 2026-06-23-no-new-tactical-allocation-letter-emails-found-for-june-23
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
 - 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
-- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
 embedding_id: 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 event_name: ''
 ---
@@ -38,5 +38,5 @@ As Defense Secretary Pete Hegseth pushes to accelerate military AI adoption, the
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]]
+**Related:** [[2026-06-05-trump-calls-for-military-to-accelerate-use-of-ai]] · [[2026-06-23-no-new-tactical-allocation-letter-emails-found-for-june-23]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]]
 <!-- graph:end -->

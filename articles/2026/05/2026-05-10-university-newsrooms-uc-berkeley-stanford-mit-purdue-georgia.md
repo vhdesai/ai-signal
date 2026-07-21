@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-05-official-blogs-openai-blog-google-deepmind-blog-meta-ai-blog
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
+- 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
+- 2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
-- 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
-- 2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s
-- 2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new
 embedding_id: 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Official company blogs: openai.com/blog · deepmind.google/discover/blog · ai.m
 
 **Entities:** [[Google]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-07-12-academic-and-official-research-blogs-were-quiet-during-the-s]] · [[2026-05-19-also-checked-no-qualifying-24h-items-found-bair-blog-mit-new]]
+**Related:** [[2026-07-05-official-blogs-openai-blog-google-deepmind-blog-meta-ai-blog]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]] · [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
 <!-- graph:end -->

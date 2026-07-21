@@ -21,10 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t
+- 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
+- 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
 - 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
-- 2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model
-- 2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall
-- 2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb
 embedding_id: 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI released two new Realtime API voice models aimed at production voice agen
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t]] · [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-08-new-openai-ships-gpt-5-3-instant-mini-as-new-rate-limit-fall]] · [[2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb]]
+**Related:** [[2026-07-06-openai-ships-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-on-t]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]]
 <!-- graph:end -->

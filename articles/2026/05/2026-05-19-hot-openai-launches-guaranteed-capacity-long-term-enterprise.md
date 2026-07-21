@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity
+- 2026-03-24-openai-courts-private-equity-with-17-5-guaranteed-returns-fo
+- 2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c
-- 2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to
 embedding_id: 2026-05-19-hot-openai-launches-guaranteed-capacity-long-term-enterprise
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI launched Guaranteed Capacity, a new offering that allows enterprise custo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-15-openai-cfo-company-may-raise-additional-capital-as-compute-c]] · [[2026-05-26-microsoft-restructures-openai-deal-adds-persistent-memory-to]]
+**Related:** [[2026-05-20-sam-altman-offers-yc-founders-2m-in-openai-tokens-for-equity]] · [[2026-03-24-openai-courts-private-equity-with-17-5-guaranteed-returns-fo]] · [[2026-03-24-as-openai-valued-at-730-billion-after-its-record-110b-fundra]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

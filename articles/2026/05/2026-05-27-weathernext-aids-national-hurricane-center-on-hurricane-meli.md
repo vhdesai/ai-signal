@@ -21,7 +21,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-05-22-google-deepmind-ai-weather-system-provided-advance-warning-o
+- 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
 embedding_id: 2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli
 event_name: ''
 ---
@@ -34,4 +36,5 @@ DeepMind detailed how its WeatherNext model helped the National Hurricane Center
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Related:** [[2026-05-22-google-deepmind-ai-weather-system-provided-advance-warning-o]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]]
 <!-- graph:end -->

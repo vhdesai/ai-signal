@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
+- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 - 2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
-- 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
 embedding_id: 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A survey of 2,000 C-level tech executives found two-thirds are held accountable 
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]]
+**Related:** [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]] · [[2026-05-27-check-point-78-of-orgs-report-ai-related-security-incidents]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]]
 <!-- graph:end -->

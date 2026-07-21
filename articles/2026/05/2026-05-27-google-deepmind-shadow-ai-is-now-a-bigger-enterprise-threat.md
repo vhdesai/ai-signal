@@ -18,14 +18,9 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
-- 2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same
-- 2026-04-06-google-deepmind-researchers-published-a-significant-security
-- 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+dedupe_status: duplicate
+canonical_article_id: 2026-05-27-google-deepmind-s-manish-gupta-calls-shadow-ai-a-bigger-ente
+related_article_ids: []
 embedding_id: 2026-05-27-google-deepmind-shadow-ai-is-now-a-bigger-enterprise-threat
 event_name: ''
 ---
@@ -39,5 +34,5 @@ At Google's Leaders Connect event, DeepMind senior director Manish Gupta warned 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-04-09-four-independent-keynotes-at-rsac-2026-converged-on-the-same]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
+**Canonical:** [[2026-05-27-google-deepmind-s-manish-gupta-calls-shadow-ai-a-bigger-ente]]
 <!-- graph:end -->

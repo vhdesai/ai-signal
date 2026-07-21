@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
+- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
 - 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
-- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 embedding_id: 2026-05-13-anthropic-flexes-pricing-power-as-customers-willingly-eat-th
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic's revenue growth is unprecedented, and enterprise buyers like PagerDut
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]]
 <!-- graph:end -->

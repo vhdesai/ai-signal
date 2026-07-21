@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
 - 2026-05-15-anthropic-picks-dragoneer-greenoaks-sequoia-altimeter-as-co
+- 2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr
+- 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
 - 2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-- 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 embedding_id: 2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Chinese Battery Giant CATL Plans to Invest in DeepSeek's $7.35B Fundraise
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]] · [[2026-05-15-anthropic-picks-dragoneer-greenoaks-sequoia-altimeter-as-co]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
+**Related:** [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]] · [[2026-05-15-anthropic-picks-dragoneer-greenoaks-sequoia-altimeter-as-co]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-28-anthropic-raises-65b-series-h-at-965b-valuation-overtaking-o]]
 <!-- graph:end -->

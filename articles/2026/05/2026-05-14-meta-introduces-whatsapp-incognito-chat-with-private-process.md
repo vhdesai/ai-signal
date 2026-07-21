@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
-- 2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook
+- 2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic
 embedding_id: 2026-05-14-meta-introduces-whatsapp-incognito-chat-with-private-process
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta is testing "Incognito Chat" in WhatsApp, a mode that routes AI-assisted con
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-28-meta-launches-paid-ai-chatbot-subscriptions-across-facebook]]
+**Related:** [[2026-05-13-meta-launches-incognito-chat-for-meta-ai-on-whatsapp-even-me]] · [[2026-05-14-meta-to-launch-incognito-mode-for-its-ai-chatbot]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic]]
 <!-- graph:end -->

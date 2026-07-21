@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-13-google-unveils-googlebooks-gemini-intelligence-suite-agentic
+- 2026-05-13-in-the-most-significant-android-hardware-and-software-announ
 - 2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b
+- 2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook
 - 2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi
-- 2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses
-- 2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to
-- event-google-android-show-2026-google-android-show-2026-strategic-implications
 embedding_id: 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google used its pre-I/O Android Show to reveal Googlebooks — a new laptop line
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b]] · [[2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi]] · [[2026-05-18-google-i-o-eve-gemini-intelligence-android-xr-smart-glasses]] · [[2026-05-12-google-unveils-googlebook-a-new-line-of-ai-native-laptops-to]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]]
+**Related:** [[2026-05-13-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-05-13-in-the-most-significant-android-hardware-and-software-announ]] · [[2026-05-13-google-unveils-googlebook-ai-first-laptop-category-powered-b]] · [[2026-05-16-at-its-android-show-event-may-12-google-announced-googlebook]] · [[2026-05-13-google-announces-googlebook-an-ai-first-laptop-category-desi]]
 <!-- graph:end -->

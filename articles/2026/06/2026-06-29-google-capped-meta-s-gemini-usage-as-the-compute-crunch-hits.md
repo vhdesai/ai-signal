@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites
+- 2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte
 - 2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch
-- 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
-- 2026-05-26-google-gemini-spark-apk-teardown-reveals-usage-caps-and-auto
+- 2026-06-30-google-was-forced-to-limit-meta-s-consumption-of-gemini-afte
 embedding_id: 2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google limited Meta's purchased access to Gemini after Meta sought more capacity
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]] · [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]] · [[2026-05-26-google-gemini-spark-apk-teardown-reveals-usage-caps-and-auto]]
+**Related:** [[2026-06-28-google-caps-meta-s-gemini-usage-as-compute-scarcity-bites]] · [[2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte]] · [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch]] · [[2026-06-30-google-was-forced-to-limit-meta-s-consumption-of-gemini-afte]]
 <!-- graph:end -->

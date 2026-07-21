@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-21-six-months-after-president-trump-warned-states-not-to-regula
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 embedding_id: 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Trump administration's national AI framework calling for federal preemption 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]]
+**Related:** [[2026-06-21-six-months-after-president-trump-warned-states-not-to-regula]] · [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]]
 <!-- graph:end -->

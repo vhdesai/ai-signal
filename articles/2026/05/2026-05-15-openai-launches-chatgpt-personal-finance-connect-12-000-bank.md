@@ -19,8 +19,10 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
-related_article_ids: []
+canonical_article_id: 2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user
+related_article_ids:
+- 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
+- 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
 embedding_id: 2026-05-15-openai-launches-chatgpt-personal-finance-connect-12-000-bank
 event_name: ''
 ---
@@ -34,5 +36,6 @@ OpenAI launched a personal finance experience within ChatGPT, allowing U.S. Plus
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Canonical:** [[2026-05-15-new-chatgpt-launches-personal-finance-dashboard-for-pro-user]]
+**Related:** [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]] · [[2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u]]
 <!-- graph:end -->

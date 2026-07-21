@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel
 - 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 - 2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp
+- 2026-06-26-per-a-report-attributed-to-the-information-openai-plans-to-r
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
-- 2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes
 embedding_id: 2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Per a staff memo reported by The Information, OpenAI will initially release GPT-
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]] · [[2026-07-08-openai-clears-government-review-gpt-5-6-sol-terra-luna-goes]]
+**Related:** [[2026-07-07-openai-gpt-5-6-public-release-thursday-after-federal-pre-rel]] · [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]] · [[2026-06-26-per-a-report-attributed-to-the-information-openai-plans-to-r]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
 <!-- graph:end -->

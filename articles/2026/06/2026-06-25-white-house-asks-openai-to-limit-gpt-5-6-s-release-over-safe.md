@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request
 - 2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners
+- 2026-06-26-per-a-report-attributed-to-the-information-openai-plans-to-r
+- 2026-06-26-ai-safety-policy-breaking-white-house-asks-openai-to-slow-ro
 - 2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm
-- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
-- 2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout
 embedding_id: 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI reportedly plans to share its newest model, GPT-5.6, only with a select g
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]] · [[2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout]]
+**Related:** [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]] · [[2026-06-26-white-house-asks-openai-to-limit-gpt-5-6-to-trusted-partners]] · [[2026-06-26-per-a-report-attributed-to-the-information-openai-plans-to-r]] · [[2026-06-26-ai-safety-policy-breaking-white-house-asks-openai-to-slow-ro]] · [[2026-06-26-openai-limits-gpt-5-6-to-trusted-partners-at-the-u-s-governm]]
 <!-- graph:end -->

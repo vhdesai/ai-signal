@@ -19,11 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
-- 2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet
 - 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-07-09-lyzr-raises-100m-series-b-run-largely-by-its-own-ai-agent
 event_name: ''
 ---
@@ -36,5 +35,5 @@ Enterprise-agent startup Lyzr closed a $100M Series B at roughly a $500M valuati
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-05-26-new-openrouter-raises-113m-series-b-at-1-3b-led-by-alphabet]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

@@ -20,6 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-in-a-viral-story-generating-1-300-hacker-news-points-anthrop
+- 2026-06-29-coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 embedding_id: 2026-05-14-ai-recovers-11-year-old-bitcoin-wallet-worth-400k-via-3-5-tr
@@ -33,5 +35,5 @@ An AI system successfully recovered an 11-year-old Bitcoin wallet containing app
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
+**Related:** [[2026-05-16-in-a-viral-story-generating-1-300-hacker-news-points-anthrop]] · [[2026-06-29-coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

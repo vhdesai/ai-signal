@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import
-- 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
-- 2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo
-- 2026-05-01-google-research-catalyzing-scientific-impact-through-global
+- 2026-04-25-the-information-logo-can-ai-help-a-tech-ceo-cure-his-spouse
+- 2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei
+- 2026-05-02-research-breakthroughs
+- 2026-05-01-the-information-logo-secretive-zainar-exits-shadows-targets
+- 2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i
 embedding_id: 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider profiled a Google researcher working to apply foundation models
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-yossi-matias-head-of-google-research-framed-ai-s-most-import]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]] · [[2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo]] · [[2026-05-01-google-research-catalyzing-scientific-impact-through-global]]
+**Related:** [[2026-04-25-the-information-logo-can-ai-help-a-tech-ceo-cure-his-spouse]] · [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]] · [[2026-05-02-research-breakthroughs]] · [[2026-05-01-the-information-logo-secretive-zainar-exits-shadows-targets]] · [[2026-05-13-report-google-and-spacex-in-talks-to-build-ai-data-centers-i]]
 <!-- graph:end -->

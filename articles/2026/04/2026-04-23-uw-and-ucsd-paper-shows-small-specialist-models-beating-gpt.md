@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te
 - 2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test
 - 2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie
+- 2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua
 - 2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr
-- 2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation
 embedding_id: 2026-04-23-uw-and-ucsd-paper-shows-small-specialist-models-beating-gpt
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A joint University of Washington and UCSD study found a 7B parameter specialist 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]] · [[2026-05-21-cmu-cleveland-clinic-develop-cmr-clip-cardiac-mri-foundation]]
+**Related:** [[2026-05-20-uc-san-diego-study-finds-gpt-4-5-passed-a-rigorous-turing-te]] · [[2026-05-19-uc-san-diego-gpt-4-5-passes-rigorous-three-party-turing-test]] · [[2026-05-14-four-chinese-open-weight-coding-models-match-western-frontie]] · [[2026-05-16-gpt-5-4-pro-openai-holds-the-top-spot-on-gpqa-diamond-gradua]] · [[2026-05-19-gpt-5-5-leads-agentic-coding-terminal-bench-and-swe-bench-pr]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
+- 2026-07-15-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 - 2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign
-- 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
-- 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
+- 2026-05-08-google-chrome-found-to-have-silently-installed-4-gb-gemini-n
 embedding_id: 2026-07-14-google-expands-gemini-in-chrome-to-the-uk-and-more-desktop-u
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google rolled Gemini-in-Chrome out to UK users and broadened availability across
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]]
+**Related:** [[2026-07-14-google-expands-gemini-in-chrome-to-uk-desktop-users-adds-nan]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-15-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-05-03-newgoogle-quietly-rolls-out-gemini-2-0-ios-redesign]] · [[2026-05-08-google-chrome-found-to-have-silently-installed-4-gb-gemini-n]]
 <!-- graph:end -->

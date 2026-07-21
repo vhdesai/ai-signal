@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-17-replit-resolves-app-store-dispute-ships-agent-4-on-iphone
+- 2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a
 - 2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full
+- 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
 - 2026-05-28-visa-invests-in-replit-to-power-agentic-payments
-- 2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy
 embedding_id: 2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Replit shipped its first iOS app update in four months following a protracted Ap
 
 **Entities:** [[Apple]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-05-28-visa-invests-in-replit-to-power-agentic-payments]] · [[2026-05-22-replit-ships-visual-editor-layout-controls-and-ai-connectors]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-app-store-and-agent-policy]]
+**Related:** [[2026-05-17-replit-resolves-app-store-dispute-ships-agent-4-on-iphone]] · [[2026-05-17-replit-released-its-first-iphone-app-update-in-four-months-a]] · [[2026-04-10-replit-s-agent-4-can-now-build-test-and-deploy-complete-full]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-28-visa-invests-in-replit-to-power-agentic-payments]]
 <!-- graph:end -->

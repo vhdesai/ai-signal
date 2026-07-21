@@ -17,9 +17,8 @@ entities:
 themes: []
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow
-related_article_ids:
-- 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
+canonical_article_id: 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+related_article_ids: []
 embedding_id: 2026-05-26-anthropic-releases-knowledge-work-plugins-repo-and-claude-co
 event_name: ''
 ---
@@ -32,6 +31,5 @@ Two open-source releases landed on Anthropic's GitHub: a "knowledge-work-plugins
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Canonical:** [[2026-05-26-anthropic-open-sources-knowledge-work-plugins-for-claude-cow]]
-**Related:** [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]]
+**Canonical:** [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
 <!-- graph:end -->

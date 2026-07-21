@@ -32,11 +32,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
+- 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
+- 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 - 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
-- 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
-- event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models
-- 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
+- 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
 embedding_id: 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 event_name: ''
 ---
@@ -50,5 +50,5 @@ OpenAI's Greg Brockman: "Line of Sight to AGI" — Teases Next-Gen Base Model 'S
 
 **Entities:** [[Google]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]] · [[event-microsoft-build-2026-microsoft-build-2026-microsoft-ai-models]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]]
+**Related:** [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]]
 <!-- graph:end -->

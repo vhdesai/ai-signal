@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le
 - 2026-06-30-cursor-puts-agentic-coding-on-the-iphone
-- 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
-- 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
-- 2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st
-- 2026-05-10-cursor-3-0-parallel-agent-coding-ide
+- 2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents
+- 2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub
+- 2026-06-30-cursor-launches-its-first-native-ios-app-for-steering-coding
 embedding_id: 2026-06-29-cursor-launches-a-mobile-app-to-drive-coding-agents-from-you
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anysphere released Cursor Mobile, an iPhone/iPad app (public beta) that lets dev
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-11-newcursor-3-0-agents-window-parallel-ai-coding-agents-now-st]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]]
+**Related:** [[2026-06-30-anysphere-s-cursor-released-cursor-mobile-an-ios-app-that-le]] · [[2026-06-30-cursor-puts-agentic-coding-on-the-iphone]] · [[2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents]] · [[2026-06-30-anysphere-released-cursor-s-first-iphone-and-ipad-app-in-pub]] · [[2026-06-30-cursor-launches-its-first-native-ios-app-for-steering-coding]]
 <!-- graph:end -->

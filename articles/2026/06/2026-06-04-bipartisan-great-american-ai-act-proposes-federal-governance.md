@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa
 - 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
+- 2026-04-01-the-trump-administration-released-a-comprehensive-national-a
 - 2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s
 - 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
-- 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
 embedding_id: 2026-06-04-bipartisan-great-american-ai-act-proposes-federal-governance
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A 269-page bipartisan draft requires large developers (over $500M revenue) to pu
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]]
+**Related:** [[2026-07-07-illinois-enacts-first-in-nation-law-requiring-independent-sa]] · [[2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l]] · [[2026-04-01-the-trump-administration-released-a-comprehensive-national-a]] · [[2026-05-12-openai-s-50b-infrastructure-commitment-triggers-u-s-senate-s]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]]
 <!-- graph:end -->

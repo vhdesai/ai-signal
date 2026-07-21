@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
+- 2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap
 - 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
+- 2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr
 - 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 embedding_id: 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Mateen et al. argue current AI governance is captured by industry and propose an
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
+**Related:** [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap]] · [[2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne]] · [[2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]]
 <!-- graph:end -->

@@ -20,7 +20,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
+canonical_article_id: 2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users
 related_article_ids: []
 embedding_id: 2026-05-15-openai-launches-personal-finance-experience-inside-chatgpt-f
 event_name: ''
@@ -35,5 +35,5 @@ OpenAI released a preview of a personal finance tool in ChatGPT for Pro subscrib
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Canonical:** [[2026-05-15-chatgpt-personal-finance-experience-launches-for-pro-users]]
 <!-- graph:end -->

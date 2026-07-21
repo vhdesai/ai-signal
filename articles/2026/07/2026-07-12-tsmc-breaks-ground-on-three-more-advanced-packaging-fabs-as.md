@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
+- 2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip
+- 2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest
+- 2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest
 - 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
-- 2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of
-- 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
 embedding_id: 2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Three new CoWoS fabs at Chiayi Science Park — the bottleneck step gating AI-ac
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]] · [[2026-05-27-nvidia-commits-150b-per-year-to-make-taiwan-the-epicenter-of]] · [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]]
+**Related:** [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip]] · [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]]
 <!-- graph:end -->

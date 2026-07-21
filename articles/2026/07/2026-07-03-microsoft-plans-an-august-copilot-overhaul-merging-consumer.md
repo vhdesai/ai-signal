@@ -23,10 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
+- 2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
-- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
 embedding_id: 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Per an internal memo seen by The Information, Microsoft will consolidate its con
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
 <!-- graph:end -->

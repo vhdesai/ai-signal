@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 - 2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model
+- 2026-07-05-alibaba-will-bar-employees-from-using-claude-code-for-work-s
 - 2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat
-- 2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m
 embedding_id: 2026-06-22-claude-suffers-90-minute-multi-model-global-outage-third-thi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]] · [[2026-03-31-anthropic-claude-code-source-leaked-again-exposes-capybara-m]]
+**Related:** [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-05-25-microsoft-365-copilot-gpt-5-5-claude-opus-4-7-multi-model]] · [[2026-07-05-alibaba-will-bar-employees-from-using-claude-code-for-work-s]] · [[2026-05-06-may-2026-frontier-snapshot-leadership-is-now-category-by-cat]]
 <!-- graph:end -->

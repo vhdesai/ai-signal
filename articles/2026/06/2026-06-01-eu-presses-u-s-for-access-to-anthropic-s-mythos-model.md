@@ -25,8 +25,6 @@ related_article_ids:
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 - 2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its
-- 2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho
-- 2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m
 embedding_id: 2026-06-01-eu-presses-u-s-for-access-to-anthropic-s-mythos-model
 event_name: ''
 ---
@@ -40,5 +38,5 @@ The European Commission is intensifying talks with Washington and Anthropic over
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]] · [[2026-05-28-anthropic-to-broaden-access-to-its-cybersecurity-grade-mytho]] · [[2026-05-12-anthropic-refuses-china-s-request-for-access-to-its-newest-m]]
+**Related:** [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-06-01-anthropic-gives-the-eu-s-cybersecurity-agency-access-to-its]]
 <!-- graph:end -->

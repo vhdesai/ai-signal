@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e
 - 2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round
 - 2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20
-- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 embedding_id: 2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Alibaba and Tencent are in advanced discussions to invest in DeepSeek at a valua
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[DeepSeek]] · [[Huawei]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]]
+**Related:** [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-04-25-tencent-alibaba-in-advanced-talks-to-back-deepseek-s-first-e]] · [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round]] · [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
 <!-- graph:end -->

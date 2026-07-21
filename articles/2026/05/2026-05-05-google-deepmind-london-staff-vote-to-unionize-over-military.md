@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a
 - 2026-05-09-trendinggoogle-deepmind-uk-staff-vote-98-to-unionize-over-pe
+- 2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-first-union-at
 - 2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in
-- 2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified
 embedding_id: 2026-05-05-google-deepmind-london-staff-vote-to-unionize-over-military
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Approximately 1,000 staff at Google DeepMind's London office voted on May 5 to p
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-09-trendinggoogle-deepmind-uk-staff-vote-98-to-unionize-over-pe]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]]
+**Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-09-trendinggoogle-deepmind-uk-staff-vote-98-to-unionize-over-pe]] · [[2026-05-14-google-deepmind-uk-staff-vote-98-to-unionize-first-union-at]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]]
 <!-- graph:end -->

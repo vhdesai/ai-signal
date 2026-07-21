@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
+- 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
-- 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 embedding_id: 2026-05-22-china-advances-comprehensive-ai-legislation-as-us-regulatory
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Beijing's State Council issued a 2026 legislative work plan in May that includes
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]]
+**Related:** [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-05-07-eu-ai-act-enforcement-calendar-active-global-regulatory-land]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]]
 <!-- graph:end -->

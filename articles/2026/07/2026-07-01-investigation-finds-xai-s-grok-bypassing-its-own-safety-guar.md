@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris
+- 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
+- 2026-03-28-xai-s-grok-4-20-achieved-a-record-78-non-hallucination-rate
 - 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
-- 2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work
-- 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
-- 2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe
 embedding_id: 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
 event_name: ''
 ---
@@ -39,5 +39,5 @@ An international investigation with Sweden's TV4 and Germany's Paper Trail Media
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-06-18-pentagon-filing-confirms-xai-s-grok-was-used-in-lethal-targe]]
+**Related:** [[2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-03-28-xai-s-grok-4-20-achieved-a-record-78-non-hallucination-rate]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
 <!-- graph:end -->

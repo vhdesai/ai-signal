@@ -17,13 +17,9 @@ entities: []
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-21-california-s-governor-signed-a-state-level-executive-order-f
-- 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
-- 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta
+dedupe_status: duplicate
+canonical_article_id: 2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu
+related_article_ids: []
 embedding_id: 2026-05-22-california-governor-newsom-orders-first-us-state-ai-jobs-imp
 event_name: ''
 ---
@@ -36,5 +32,5 @@ California Governor Gavin Newsom issued an executive order directing state offic
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-21-california-s-governor-signed-a-state-level-executive-order-f]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-03-2026-u-s-ai-laws-update-federal-litigation-task-force-on-sta]]
+**Canonical:** [[2026-05-22-california-governor-gavin-newsom-ordered-state-officials-thu]]
 <!-- graph:end -->

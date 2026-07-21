@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo
+- 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
+- 2026-03-25-ai-market-map-2025-annual-us-pe-breakdown-2026-annual-middle
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 - 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
-- 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
-- 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 embedding_id: 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook's US Public PE and GP Deal Roundup found the largest listed PE players
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-03-25-ai-market-map-2025-annual-us-pe-breakdown-2026-annual-middle]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]]
 <!-- graph:end -->

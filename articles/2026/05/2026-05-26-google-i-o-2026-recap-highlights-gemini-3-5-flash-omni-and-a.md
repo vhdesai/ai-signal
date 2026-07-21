@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo
 - 2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl
+- 2026-05-22-google-i-o-2026-gemini-omni-gemini-3-5-flash-gemini-spark-ag
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 embedding_id: 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
 event_name: ''
@@ -35,5 +36,5 @@ Coverage of Google I/O 2026 continued into May 26, with analysts highlighting Ge
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
+**Related:** [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]] · [[2026-05-19-breaking-google-gemini-3-5-flash-gemini-omni-launch-at-googl]] · [[2026-05-22-google-i-o-2026-gemini-omni-gemini-3-5-flash-gemini-spark-ag]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
 <!-- graph:end -->

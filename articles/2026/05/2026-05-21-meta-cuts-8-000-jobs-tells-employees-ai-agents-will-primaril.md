@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 - 2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
@@ -37,5 +38,5 @@ Meta finalized layoffs of roughly 10% of its workforce — about 8,000 employees
 ## Connections
 
 **Entities:** [[Meta]] · [[OpenAI]]
-**Related:** [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
+**Related:** [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]] · [[2026-05-19-breaking-meta-begins-8-000-employee-layoff-wave-today-to-fun]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
 <!-- graph:end -->

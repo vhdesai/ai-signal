@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
+- 2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 embedding_id: 2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur
@@ -38,5 +39,5 @@ AI chipmaker Cerberus (CBRS) priced its IPO at $185/share on Wednesday in what b
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]]
+**Related:** [[2026-05-12-cerebras-guides-ipo-above-upsized-150-160-range-4-8b-raise-a]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-04-16-cerebras-systems-is-preparing-for-a-nasdaq-listing-ticker-cb]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]]
 <!-- graph:end -->

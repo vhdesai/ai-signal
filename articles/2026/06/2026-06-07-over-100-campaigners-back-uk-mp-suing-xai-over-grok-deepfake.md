@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 - 2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk
 - 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 embedding_id: 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 event_name: ''
 ---
@@ -37,5 +38,5 @@ More than 100 campaigners and organizations are now backing a UK MP's lawsuit ag
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]]
+**Related:** [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
 <!-- graph:end -->

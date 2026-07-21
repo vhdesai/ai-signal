@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c
-- 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
+- 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
 embedding_id: 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
 event_name: ''
 ---
@@ -33,5 +33,5 @@ MIT physics professor Jesse Thaler — inaugural director of the NSF AI Institut
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
+**Related:** [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-c]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]]
 <!-- graph:end -->

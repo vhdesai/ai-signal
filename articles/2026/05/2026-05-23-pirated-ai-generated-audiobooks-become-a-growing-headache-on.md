@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
-- 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
-- 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
+- 2026-07-20-youtube-clarified-monetization-rules-for-repetitive-ai-gener
+- 2026-07-21-youtube-clarified-monetization-rules-for-repetitive-ai-gener
+- 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
+- 2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex
 embedding_id: 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]]
+**Related:** [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-07-20-youtube-clarified-monetization-rules-for-repetitive-ai-gener]] · [[2026-07-21-youtube-clarified-monetization-rules-for-repetitive-ai-gener]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex]]
 <!-- graph:end -->

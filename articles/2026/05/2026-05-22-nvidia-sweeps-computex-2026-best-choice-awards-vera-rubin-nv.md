@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
+- 2026-07-16-nvidia-introduces-jetson-thor-t3000-t2000-modules-for-roboti
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play
 embedding_id: 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA claimed COMPUTEX 2026 Best Choice Awards across three categories: the Ver
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-06-02-nvidia-pushes-rtx-class-pc-silicon-as-full-stack-play]]
+**Related:** [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-07-16-nvidia-introduces-jetson-thor-t3000-t2000-modules-for-roboti]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

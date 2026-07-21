@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 - 2026-06-23-google-deepmind-invests-75m-in-film-studio-a24
 - 2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools
-- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
+- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 embedding_id: 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Independent film studio A24's newly announced $75M AI research partnership with 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]]
+**Related:** [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]]
 <!-- graph:end -->

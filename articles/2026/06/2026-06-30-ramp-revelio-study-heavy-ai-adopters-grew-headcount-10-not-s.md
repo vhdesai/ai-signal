@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption
 - 2026-04-13-source-mit-csail-uc-berkeley-national-day-today
 - 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
-- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 embedding_id: 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A working paper from Ramp and Revelio Labs — the first to link firm-level AI s
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]]
+**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-04-13-source-mit-csail-uc-berkeley-national-day-today]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]]
 <!-- graph:end -->

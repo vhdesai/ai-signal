@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 - 2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call
-- 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 embedding_id: 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A California jury needed less than two hours to unanimously reject every claim i
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
+**Related:** [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-05-18-california-jury-rejects-elon-musk-s-lawsuit-against-openai-i]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-18-openai-wins-elon-musk-lawsuit-ipo-path-cleared-but-musk-call]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
 <!-- graph:end -->

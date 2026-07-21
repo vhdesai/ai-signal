@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows
+- 2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop
+- 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
+- 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
 - 2026-05-28-visa-invests-in-replit-to-power-agentic-payments
-- 2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code
-- 2026-05-10-cursor-3-0-parallel-agent-coding-ide
-- 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
 embedding_id: 2026-05-26-replit-expands-agent-workspaces-for-enterprise-teams
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Replit pushed an update extending its Agent product to multi-user enterprise wor
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-28-visa-invests-in-replit-to-power-agentic-payments]] · [[2026-05-09-cursor-3-0-launches-agents-window-for-parallel-agentic-code]] · [[2026-05-10-cursor-3-0-parallel-agent-coding-ide]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]]
+**Related:** [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-04-20-openai-april-18-2026-openai-expanded-codex-with-new-desktop]] · [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-05-28-visa-invests-in-replit-to-power-agentic-payments]]
 <!-- graph:end -->

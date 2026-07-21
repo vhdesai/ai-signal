@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 - 2026-04-22-academic-research
 - 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
-- 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
-- 2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice
+- 2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new
+- 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 embedding_id: 2026-04-23-cmu-and-princeton-propose-new-long-context-training-curricul
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A joint CMU–Princeton paper proposes a staged curriculum that dramatically imp
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-04-22-academic-research]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]]
+**Related:** [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-04-22-academic-research]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]] · [[2026-04-20-mit-news-bair-cmu-april-17-19-2026-academic-labs-posted-new]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
 <!-- graph:end -->

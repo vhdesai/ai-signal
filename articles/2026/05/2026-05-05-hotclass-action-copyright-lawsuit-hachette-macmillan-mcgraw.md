@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall
+- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
+- 2026-05-08-publishers-and-author-scott-turow-file-class-action-suit-aga
 - 2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data
-- 2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 embedding_id: 2026-05-05-hotclass-action-copyright-lawsuit-hachette-macmillan-mcgraw
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Five major publishers — joined by novelist Scott Turow — filed a class-actio
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]] · [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
+**Related:** [[2026-05-05-meta-zuckerberg-sued-for-copyright-infringement-he-personall]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-08-publishers-and-author-scott-turow-file-class-action-suit-aga]] · [[2026-05-04-five-academic-publishers-sue-meta-over-llama-training-data]]
 <!-- graph:end -->

@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 87
+member_count: 115
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 87 connected article(s).
+> Auto-generated entity hub. 115 connected article(s).
 
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
@@ -16,19 +16,31 @@ member_count: 87
 - `2026-07-10` [[2026-07-10-openai-and-google-sold-ai-models-to-singapore-units-of-black|OpenAI and Google sold AI models to Singapore units of blacklisted Chinese firms]]
 - `2026-07-10` [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature|Meta pulls controversial Instagram AI photo-editing feature after backlash]]
 - `2026-07-09` [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in|News organizations ask a federal court to sanction OpenAI in copyright case]]
+- `2026-07-09` [[2026-07-09-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for|Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and coding tasks]]
 - `2026-07-06` [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky|The compute bill comes due: Anthropic's $19B lease, Nvidia's Kyber slip, and Tencent's open-weight push]]
 - `2026-07-06` [[2026-07-06-tencent-s-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-s|Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size]]
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0]]
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE)]]
+- `2026-07-06` [[2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and|Policy China China's "humanlike AI" rules force ByteDance and Alibaba to pull consumer agents July 5, 2026 · The Next…]]
 - `2026-07-06` [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te|Even Realities hits $1B valuation on $150M from Meituan and Tencent]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
+- `2026-07-05` [[2026-07-05-companies-nvidia-google-alphabet-deepmind-openai-anthropic-m|Companies: Nvidia, Google (Alphabet/DeepMind), OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-07-04` [[2026-07-04-kling-ai-raises-2-8b-from-alibaba-tencent-and-baidu-at-a-15b|Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation]]
+- `2026-07-04` [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-03` [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off|China's DeepSeek-V4 heads to official release with "peak/off-peak" surge pricing; Tencent Cloud to distribute]]
+- `2026-07-02` [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-30` [[2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent|Tencent begins gray-box testing of a WeChat Agent]]
+- `2026-06-30` [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op|Sources scanned: Companies — Nvidia, Google / Alphabet / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta,…]]
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
+- `2026-06-28` [[2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
+- `2026-06-27` [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea|U.S. and European semiconductor stocks sold off Friday on fears that soaring AI‑infrastructure costs could squeeze…]]
+- `2026-06-27` [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a|Sources scanned — Official blogs: OpenAI, Google DeepMind, Meta AI, Apple ML Research, BAIR]]
+- `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
+- `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-07` [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz|Baidu Restructures Core Business Unit in AI-Driven Reorganization]]
 - `2026-06-05` [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar|Tencent Poaches Former OpenAI Researcher as New AI Chief, Targets AGI]]
@@ -40,6 +52,7 @@ member_count: 87
 - `2026-05-28` [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global|Tencent expands WorkBuddy and enterprise AI solutions globally]]
 - `2026-05-28` [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r|Alibaba and Tencent pivot from chatbots to embodied AI and robotics]]
 - `2026-05-27` [[2026-05-27-tencent-cloud-begins-paid-commercial-services-for-hy3-previe|Tencent Cloud Begins Paid Commercial Services for Hy3 Preview and DeepSeek-V4-Pro]]
+- `2026-05-26` [[2026-05-26-with-h200-shipments-to-china-stalled-by-conflicting-u-s|With H200 shipments to China stalled by conflicting U.S]]
 - `2026-05-26` [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf|Reported case of romantic ChatGPT obsession tests OpenAI safety limits]]
 - `2026-05-26` [[2026-05-26-new-modal-labs-raises-355m-series-c-at-4-65b-valuation|New Modal Labs raises $355M Series C at $4.65B valuation]]
 - `2026-05-26` [[2026-05-26-musk-warns-of-ai-extinction-risk-in-openai-courtroom-battle|Musk warns of AI extinction risk in OpenAI courtroom battle]]
@@ -48,6 +61,11 @@ member_count: 87
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
 - `2026-05-23` [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem|Tencent open-sources TencentDB Agent Memory — 4-tier local memory pipeline]]
 - `2026-05-23` [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens|Tencent open-sources TencentDB Agent Memory under MIT license]]
+- `2026-05-23` [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni|SenseTime, the US-sanctioned Hong Kong AI firm, is repositioning around cost-efficiency and multimodal AI]]
+- `2026-05-23` [[2026-05-23-huawei-projects-its-ai-chip-revenue-will-grow-60-to-approxim|Huawei projects its AI chip revenue will grow 60% to approximately $12 billion in 2026, driven by massive orders for…]]
+- `2026-05-23` [[2026-05-23-huawei-eyes-12b-in-ai-chip-revenue-as-bytedance-alibaba-tenc|Huawei Eyes $12B in AI Chip Revenue as ByteDance, Alibaba, Tencent Pivot from Nvidia]]
+- `2026-05-23` [[2026-05-23-china-s-state-chip-fund-seeks-to-lead-deepseek-round-at-45b|China's State Chip Fund Seeks to Lead DeepSeek Round at $45B Valuation; Tencent & Alibaba Also In]]
+- `2026-05-23` [[2026-05-23-china-s-big-fund-its-largest-state-backed-semiconductor-inve|China's "Big Fund" — its largest state-backed semiconductor investment vehicle — is in talks to lead DeepSeek's…]]
 - `2026-05-22` [[2026-05-22-deepseek-targets-10b-valuation-in-first-external-fundraise-t|DeepSeek Targets $10B Valuation in First External Fundraise; Tencent Joins as Investor]]
 - `2026-05-22` [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek|Alibaba and Tencent in Advanced Talks to Invest in DeepSeek at $20B Valuation]]
 - `2026-05-21` [[2026-05-21-tencent-launches-marvis-an-os-level-ai-assistant-with-cross|Tencent launches Marvis — an OS-level AI assistant with cross-device control and local privacy mode]]
@@ -61,6 +79,8 @@ member_count: 87
 - `2026-05-15` [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-h200-chip-exports|Trump and Xi Discuss AI Guardrails — Nvidia H200 Chip Exports to China Remain Unresolved]]
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
 - `2026-05-15` [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta|Nvidia H200 China Sales Approved — But No Chips Shipped as Standoff Continues]]
+- `2026-05-15` [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45|DeepSeek is closing in on a $4 billion funding round at a ~$45 billion valuation — more than double its $20B figure…]]
+- `2026-05-15` [[2026-05-15-deepseek-nears-45b-valuation-with-tencent-alibaba-and-china|DeepSeek Nears $45B Valuation With Tencent, Alibaba, and China's "Big Fund"]]
 - `2026-05-14` [[2026-05-14-us-clears-nvidia-h200-sales-to-10-chinese-firms-including-al|US Clears Nvidia H200 Sales to 10 Chinese Firms Including Alibaba and Tencent]]
 - `2026-05-14` [[2026-05-14-u-s-clears-10-chinese-firms-including-alibaba-tencent-byteda|U.S. Clears ~10 Chinese Firms — Including Alibaba, Tencent, ByteDance, JD — to Buy Nvidia H200]]
 - `2026-05-14` [[2026-05-14-u-s-clears-nvidia-h200-chip-sales-to-10-chinese-firms-no-del|U.S. Clears Nvidia H200 Chip Sales to 10 Chinese Firms; No Deliveries Yet]]
@@ -78,7 +98,10 @@ member_count: 87
 - `2026-05-07` [[2026-05-07--2|🚨]]
 - `2026-05-05` [[2026-05-05-trending-alibaba-tencent-in-advanced-talks-to-invest-in-deep|💜 TRENDING Alibaba & Tencent in Advanced Talks to Invest in DeepSeek at $20B Valuation]]
 - `2026-05-05` [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training|Meta Copyright Lawsuit Elevates CEO Liability in AI Training Data Governance Trending]]
+- `2026-05-05` [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow|DeepSeek's upcoming V4 model — widely anticipated as a follow-on to the market-rattling V3 and R1 — is being optimized…]]
+- `2026-05-05` [[2026-05-05-deepseek-v4-to-run-on-huawei-chips-alibaba-bytedance-tencent|DeepSeek V4 to Run on Huawei Chips; Alibaba, ByteDance & Tencent Place Bulk Orders]]
 - `2026-05-03` [[2026-05-03-tencent-and-alibaba-eye-deepseek-funding-round|Tencent and Alibaba Eye DeepSeek Funding Round]]
+- `2026-05-02` [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia · Google/DeepMind · OpenAI · Anthropic · Mistral · Cursor · Replit · Meta · Apple · Amazon · Cerebras…]]
 - `2026-05-01` [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs|TrendingDeepSeek V4: 1.6 Trillion Parameters, MIT License, Runs on Huawei Ascend — Reshaping China's AI Stack]]
 - `2026-05-01` [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand|TRENDINGDeepSeek V4 reshapes Chinese AI compute demand]]
 - `2026-05-01` [[2026-05-01-newhuawei-eyes-12b-in-ai-chip-revenue-as-deepseek-v4-drives|NewHuawei Eyes $12B in AI Chip Revenue as DeepSeek V4 Drives Domestic Chip Shift]]
@@ -92,6 +115,11 @@ member_count: 87
 - `2026-04-22` [[2026-04-22-trendingtencent-and-alibaba-close-in-on-deepseek-round-at-20|TRENDINGTencent and Alibaba close in on DeepSeek round at $20B+ valuation]]
 - `2026-04-22` [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster|Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultaneously training seven models, including a 6-trillion and a 10-trillion parameter variant — by far the largest publicly confirmed model size in the industry. The Grok Imagine V2 video model and multiple 1–1.5T parameter variants are also in training. Expected release timing is mid-2026, which would mark a significant scale inflection if xAI can close the quality gap alongside raw parameter count.]]
 - `2026-04-22` [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10|Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models. Amazon will invest $5 billion immediately plus up to $20 billion more — on top of a prior $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips. This positions AWS as the primary compute backbone for one of the world's leading AI labs, a significant competitive coup against Microsoft Azure and Google Cloud.]]
+- `2026-04-16` [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap|DeepSeek's V4 model is targeting a late April launch with approximately 1 trillion total parameters (MoE architecture,…]]
 - `2026-04-12` [[2026-04-12-purdue-university-announced-that-all-undergraduate-students|Purdue University announced that all undergraduate students entering in Fall 2026 will be required to complete an AI competency course as a graduation requirement, making it one of the first major research universities to institutionalize AI literacy across all degree programs — from engineering to nursing. The requirement is supported by an expanded partnership with Google providing curriculum resources, Vertex AI access, and internship pipelines for Purdue graduates. The initiative covers AI ethics, prompt engineering, AI-assisted research, and responsible AI use in professional contexts.]]
 - `2026-04-07` [[2026-04-07-alibaba-shipped-four-qwen3-6-variants-in-two-weeks-including|Alibaba shipped four Qwen3.6 variants in two weeks, including the 27B open-weight reasoner (GPQA 87.8, SWE-bench 77.2) and Qwen3.6-Max-Preview. The cadence cements Alibaba as the most prolific open-weight frontier shipper of the quarter.]]
+- `2026-04-02` [[2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2|Two major Chinese AI models are expected to debut in April 2026]]
+- `2026-04-02` [[2026-04-02-deepseek-v4-and-tencent-hunyuan-expected-to-launch-this-mont|DeepSeek V4 and Tencent Hunyuan Expected to Launch This Month]]
+- `2026-03-10` [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit|The Information logo - Tencent Joins China’s AI Agent Race With ‘Top-Secret’ WeChat Project - Read the full article -…]]
+- `2026-03-10` [[2026-03-10-tencent-joins-china-s-ai-agent-race-with-top-secret-wechat-p|Tencent Joins China’s AI Agent Race With ‘Top-Secret’ WeChat Project [2026-03-10] · The Information]]
 - [[event-ai-news-digest-monday-june-1-2026-ai-news-digest-monday-june-1-2026-overview|AI News Digest — Monday, June 1, 2026 — Overview]]

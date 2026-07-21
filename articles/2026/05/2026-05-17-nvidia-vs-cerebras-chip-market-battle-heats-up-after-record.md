@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 - 2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026
+- 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 embedding_id: 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Cerebras Systems went public on May 14 in the year's largest IPO, with shares su
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]]
+**Related:** [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-28-cerebras-positioned-as-most-watched-ai-chip-ipo-of-2026]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]]
 <!-- graph:end -->

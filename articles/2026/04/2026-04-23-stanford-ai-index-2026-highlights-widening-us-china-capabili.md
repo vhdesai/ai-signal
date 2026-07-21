@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo
 - 2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica
 - 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
+- 2026-05-26-stanford-ai-index-2026-u-s-china-model-gap-narrows-to-2-7
 - 2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv
-- 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
 embedding_id: 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The 2026 AI Index finds the performance gap between top US and Chinese models ha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo]] · [[2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]]
+**Related:** [[2026-05-05-stanford-hai-2026-ai-index-china-has-erased-the-u-s-ai-perfo]] · [[2026-05-05-stanford-hai-2026-ai-index-u-s-china-frontier-gap-statistica]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]] · [[2026-05-26-stanford-ai-index-2026-u-s-china-model-gap-narrows-to-2-7]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
 <!-- graph:end -->

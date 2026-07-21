@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab
+- 2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc
+- 2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s
 - 2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a
 - 2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res
-- 2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate
-- 2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en
-- 2026-07-11-claude-opus-4-7-is-now-generally-available
 embedding_id: 2026-05-18-anthropic-launches-claude-design-for-visual-collaboration
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic released Claude Design, an Anthropic Labs product that extends Claude 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]] · [[2026-06-23-anthropic-launches-claude-tag-embedding-claude-as-a-teammate]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-07-11-claude-opus-4-7-is-now-generally-available]]
+**Related:** [[2026-05-23-claude-design-is-a-new-product-from-anthropic-labs-that-enab]] · [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]] · [[2026-04-20-anthropic-april-17-2026-anthropic-unveiled-claude-design-a-s]] · [[2026-04-28-anthropic-releases-claude-connectors-for-adobe-blender-and-a]] · [[2026-06-30-anthropic-launches-claude-science-a-flagship-product-for-res]]
 <!-- graph:end -->

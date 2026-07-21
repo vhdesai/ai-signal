@@ -27,10 +27,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
+- 2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup
+- 2026-04-02-new-amazon-releases-a-evolve-agentic-framework-mar-29-aws-re
 - 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
-- 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 embedding_id: 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Amazon Releases A-Evolve: "The PyTorch Moment" for Automated Agentic AI Developm
 
 **Entities:** [[Amazon]] · [[Salesforce]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
+**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup]] · [[2026-04-02-new-amazon-releases-a-evolve-agentic-framework-mar-29-aws-re]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ dedupe_status: duplicate
 canonical_article_id: 2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex
 related_article_ids:
 - 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
-- 2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane
-- 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
+- 2026-05-26-ferrari-deploys-ibm-ai-to-build-personalized-f1-fan-experien
+- 2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p
 embedding_id: 2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem
 event_name: ''
 ---
@@ -41,5 +41,5 @@ IBM and Scuderia Ferrari HP announced an enterprise AI partnership to overhaul t
 **Entities:** [[Amazon]] · [[Anthropic]] · [[IBM]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-05-23-ferrari-taps-ibm-s-ai-to-build-a-personalized-f1-superfan-ex]]
-**Related:** [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]] · [[2026-05-15-intel-and-mclaren-partnership-puts-data-in-the-fast-lane]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]]
+**Related:** [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]] · [[2026-05-26-ferrari-deploys-ibm-ai-to-build-personalized-f1-fan-experien]] · [[2026-05-26-scuderia-ferrari-is-using-ibm-s-ai-stack-to-generate-hyper-p]]
 <!-- graph:end -->

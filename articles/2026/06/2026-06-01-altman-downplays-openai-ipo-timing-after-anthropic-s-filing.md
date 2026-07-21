@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o
-- 2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo
+- 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
 embedding_id: 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI CEO Sam Altman said he is not focused on the timing of a potential IPO, a
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-01-anthropic-confidentially-files-for-a-u-s-ipo]]
+**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-06-01-anthropic-confidentially-files-for-u-s-ipo-edging-ahead-of-o]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
+- 2026-05-02-cerebras-targets-4b-raise-at-40b-valuation-in-planned-ipo
 - 2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b
-- 2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation
 embedding_id: 2026-05-14-cerebras-pop-sets-up-the-ai-trade-on-wall-street
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Martin Peers notes Cerebras' debut implies a ~$94 billion fully-diluted valuatio
 
 **Entities:** [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]] · [[2026-05-02-cerebras-targets-up-to-4b-ipo-at-40b-valuation]]
+**Related:** [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation]] · [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-02-cerebras-targets-4b-raise-at-40b-valuation-in-planned-ipo]] · [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
-- 2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk
+- 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
 embedding_id: 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ highlighted the gap between AI's proven ability to speed routine work and th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-18-wsj-wealth-adviser-ai-chip-concentration-as-a-portfolio-risk]]
+**Related:** [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]]
 <!-- graph:end -->

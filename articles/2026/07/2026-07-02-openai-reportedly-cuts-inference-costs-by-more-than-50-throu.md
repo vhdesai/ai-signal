@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
+- 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
-- 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 embedding_id: 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI engineers developed optimization techniques — a combination of quantiza
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]]
+**Related:** [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-07-07-bair-intelligence-is-free-now-what-data-systems-for-of-and-b]]
 <!-- graph:end -->

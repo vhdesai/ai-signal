@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re
+- 2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi
+- 2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
 - 2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
-- 2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks
-- 2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu
 embedding_id: 2026-05-20-nvidia-posts-record-81-6b-quarter-agentic-ai-has-arrived-say
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia reported Q1 FY2027 revenue of $81.6 billion, up 85% year-over-year and be
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-28-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]] · [[2026-05-21-nvidia-vera-rubin-on-track-for-q3-2026-posts-record-81-6b-qu]]
+**Related:** [[2026-05-20-nvidia-q1-fy2027-blowout-81-6b-revenue-85-yoy-data-center-re]] · [[2026-05-23-nvidia-reported-81-6b-in-quarterly-revenue-another-record-wi]] · [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-20-nvidia-delivers-81-6b-record-quarter-as-vera-cpu-benchmarks]]
 <!-- graph:end -->

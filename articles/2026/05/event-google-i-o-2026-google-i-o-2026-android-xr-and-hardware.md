@@ -22,7 +22,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi
+canonical_article_id: 2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i
 related_article_ids: []
 embedding_id: event-google-i-o-2026-google-i-o-2026-android-xr-and-hardware
 event_name: Google I/O 2026
@@ -37,5 +37,5 @@ Android XR smart glasses: Google used I/O to position Gemini-powered XR glasses 
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Canonical:** [[2026-05-19-breaking-google-i-o-2026-gemini-4-0-android-xr-glasses-alumi]]
+**Canonical:** [[2026-05-19-google-announces-android-xr-audio-powered-smart-glasses-at-i]]
 <!-- graph:end -->

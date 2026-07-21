@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso
+- 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
-- 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
 embedding_id: 2026-06-05-nvidia-ships-nemotron-3-ultra-its-largest-open-weights-reaso
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia's Nemotron 3 Ultra — a 550B-parameter MoE (~55B active) with a 1M-token
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]]
+**Related:** [[2026-06-05-nvidia-ships-nemotron-3-ultra-largest-u-s-open-weights-reaso]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-06-26-nvidia-ships-a-nemotron-3-ultra-nvfp4-checkpoint-that-runs-o]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]]
 <!-- graph:end -->

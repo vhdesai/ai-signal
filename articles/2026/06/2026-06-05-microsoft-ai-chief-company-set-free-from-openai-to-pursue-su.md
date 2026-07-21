@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
+- 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 - 2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o
-- 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
 embedding_id: 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Mustafa Suleyman told VentureBeat a contractual change ~6 months ago gave Micros
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]]
+**Related:** [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-to]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-out-for-its-o]]
 <!-- graph:end -->

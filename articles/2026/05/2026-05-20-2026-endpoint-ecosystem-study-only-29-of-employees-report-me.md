@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
 - 2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption
-- 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
+- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 embedding_id: 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A global study of 2,500+ employees across the US, UK, Australia, and New Zealand
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]]
+**Related:** [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-21-stanford-hai-2026-ai-index-capability-accelerating-adoption]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
 <!-- graph:end -->

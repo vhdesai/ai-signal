@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-replit-ceo-1b-arr-run-rate-declines-acquisition-amid-cursor
+- 2026-05-05-cursor-reportedly-in-60b-spacex-acquisition-talks-replit-hit
+- 2026-05-08-replit-hits-1b-annual-run-rate-ceo-comments-on-cursor-s-repo
+- 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 - 2026-05-01-replit-s-masad-argues-for-independence-as-cursor-spacex-xai
-- 2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr
-- 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
-- 2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l
-- 2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction
 embedding_id: 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Replit CEO Amjad Masad disclosed at TechCrunch's StrictlyVC event that the compa
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-01-replit-s-masad-argues-for-independence-as-cursor-spacex-xai]] · [[2026-05-18-cursor-2-5-and-replit-agent-push-coding-tools-past-2b-arr]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l]] · [[2026-05-02-replit-s-amjad-masad-on-the-cursor-deal-and-apple-friction]]
+**Related:** [[2026-05-02-replit-ceo-1b-arr-run-rate-declines-acquisition-amid-cursor]] · [[2026-05-05-cursor-reportedly-in-60b-spacex-acquisition-talks-replit-hit]] · [[2026-05-08-replit-hits-1b-annual-run-rate-ceo-comments-on-cursor-s-repo]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]] · [[2026-05-01-replit-s-masad-argues-for-independence-as-cursor-spacex-xai]]
 <!-- graph:end -->

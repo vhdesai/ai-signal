@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-anthropic-secures-spacex-colossus-1-supercomputer-220-000-gp
 - 2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract
+- 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
 - 2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex
-- 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
-- 2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li
 embedding_id: 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic is reported to be renting capacity on Colossus 1, the 220,000+ GPU clu
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]] · [[2026-05-06-anthropic-spacex-colossus-1-deal-doubles-claude-code-rate-li]]
+**Related:** [[2026-05-14-anthropic-secures-spacex-colossus-1-supercomputer-220-000-gp]] · [[2026-05-23-spacex-s-1-reveals-45b-anthropic-compute-contract]] · [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-27-breaking-anthropic-to-pay-spacex-15b-per-year-for-compute-ex]]
 <!-- graph:end -->

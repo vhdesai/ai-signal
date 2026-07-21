@@ -23,11 +23,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-17-wave-of-agentic-product-launches-codex-on-mobile-alexa-shopp
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
-- 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
-- 2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a
-- 2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on
 embedding_id: 2026-05-27-alpha-modus-launches-claude-sonnet-4-6-powered-retail-ai-pla
 event_name: ''
 ---
@@ -41,5 +39,5 @@ ARIA — a PaaS for physical retail — ingests POS, in-store camera, Wi-Fi, loy
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a]] · [[2026-05-12-anthropic-claude-opus-4-7-now-available-broadly-including-on]]
+**Related:** [[2026-05-17-wave-of-agentic-product-launches-codex-on-mobile-alexa-shopp]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave]]
 <!-- graph:end -->

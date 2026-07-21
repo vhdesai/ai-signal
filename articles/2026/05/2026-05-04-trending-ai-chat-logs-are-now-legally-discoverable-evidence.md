@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-05-15-ai-chat-logs-ruled-legally-discoverable-enterprise-risk-aler
+- 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-- 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
-- 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 embedding_id: 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 event_name: ''
 ---
@@ -40,5 +40,5 @@ U.S. attorneys are formally advising clients that ChatGPT, Claude, and Gemini co
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]]
+**Related:** [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-05-15-ai-chat-logs-ruled-legally-discoverable-enterprise-risk-aler]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]]
 <!-- graph:end -->

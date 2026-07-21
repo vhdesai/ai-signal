@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
+- 2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working
 - 2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
+- 2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that
 embedding_id: 2026-05-10-microsoft-q1-2026-global-ai-diffusion-report-uae-leads-at-70
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's Q1 2026 Global AI Diffusion Report — covered by five separate outl
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]]
+**Related:** [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-05-18-microsoft-global-ai-diffusion-report-17-8-of-world-s-working]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-18-microsoft-s-2026-global-ai-diffusion-report-documented-that]]
 <!-- graph:end -->

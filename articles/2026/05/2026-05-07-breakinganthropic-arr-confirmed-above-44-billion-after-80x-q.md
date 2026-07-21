@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth
 related_article_ids:
-- 2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin
-- 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
-- 2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi
-- 2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round
+- 2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year
+- 2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex
+- 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
+- 2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl
 embedding_id: 2026-05-07-breakinganthropic-arr-confirmed-above-44-billion-after-80x-q
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic disclosed on May 7 that its Q1 2026 revenue grew 80x year-over-year, p
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-07-anthropic-arr-crosses-44b-80x-year-over-year-growth]]
-**Related:** [[2026-05-13-anthropic-arr-crosses-44b-on-80x-yoy-growth-customers-willin]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-15-anthropic-eyes-900-billion-valuation-in-new-30-billion-fundi]] · [[2026-05-15-anthropic-targets-900-billion-valuation-in-30b-funding-round]]
+**Related:** [[2026-05-18-anthropic-disclosed-q1-2026-revenue-grew-80x-year-over-year]] · [[2026-05-14-anthropic-signed-an-agreement-giving-claude-access-to-spacex]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl]]
 <!-- graph:end -->

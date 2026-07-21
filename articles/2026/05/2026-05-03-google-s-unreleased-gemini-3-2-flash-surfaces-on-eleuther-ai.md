@@ -25,7 +25,6 @@ related_article_ids:
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
-- 2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai
 embedding_id: 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Google is externally testing Gemini 3.2 Flash on the Eleuther AI Arena, with ear
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-27-gemini-3-5-flash-reaches-general-availability-as-default-ai]]
+**Related:** [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]]
 <!-- graph:end -->

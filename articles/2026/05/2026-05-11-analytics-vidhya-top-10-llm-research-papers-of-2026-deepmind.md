@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
+- 2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv
+- 2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
-- 2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be
-- 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
 embedding_id: 2026-05-11-analytics-vidhya-top-10-llm-research-papers-of-2026-deepmind
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analytics Vidhya published a curated roundup of the ten most impactful LLM resea
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-06-30-bridgewater-and-thinking-machines-a-fine-tuned-open-model-be]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]]
+**Related:** [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-03-research-academic-arxiv-cs-ai-arxiv-cs-lg-arxiv-cs-cl-arxiv]] · [[2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]]
 <!-- graph:end -->

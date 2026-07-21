@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- 2026-04-02-model-releases-updates
-- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
-- 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
-- event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model
+- 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
+- 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
+- 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
+- 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
 embedding_id: 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Cursor 3 Launches with Cloud and Desktop AI Agent Modes — Valuation Reaches $3
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-model-releases-updates]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-azure-ai-foundry-and-mai-model]]
+**Related:** [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]]
 <!-- graph:end -->

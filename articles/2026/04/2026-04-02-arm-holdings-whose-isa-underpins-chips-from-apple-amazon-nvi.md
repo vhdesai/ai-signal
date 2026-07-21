@@ -26,14 +26,9 @@ themes:
 - datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
-- 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+dedupe_status: duplicate
+canonical_article_id: 2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch
+related_article_ids: []
 embedding_id: 2026-04-02-arm-holdings-whose-isa-underpins-chips-from-apple-amazon-nvi
 event_name: ''
 ---
@@ -47,5 +42,5 @@ event_name: ''
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Arm]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Canonical:** [[2026-04-02-arm-holdings-whose-instruction-set-architecture-underpins-ch]]
 <!-- graph:end -->

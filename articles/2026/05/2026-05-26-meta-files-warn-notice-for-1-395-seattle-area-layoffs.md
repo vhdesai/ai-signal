@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
 - 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
-- 2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros
+- 2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff
 embedding_id: 2026-05-26-meta-files-warn-notice-for-1-395-seattle-area-layoffs
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta filed a WARN Act notice with Washington state disclosing 1,395 layoffs acro
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-11-92-000-tech-layoffs-in-first-five-months-of-2026-meta-micros]]
+**Related:** [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]] · [[2026-05-22-meta-began-notifying-approximately-8-000-employees-of-layoff]]
 <!-- graph:end -->

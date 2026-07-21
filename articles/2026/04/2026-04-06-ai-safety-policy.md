@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-13-industry-news
+- 2026-05-18-elon-musk-vs-openai-trial-wraps-xai-bleeding-staff-post-merg
+- 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
 - 2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins
-- 2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j
-- 2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ
-- 2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit
 embedding_id: 2026-04-06-ai-safety-policy
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI Petitions California and Delaware AGs to Investigate Elon Musk's Anti-Com
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-13-industry-news]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]] · [[2026-05-19-elon-musk-loses-full-lawsuit-against-sam-altman-and-openai-j]] · [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ]] · [[2026-05-19-breaking-jury-unanimously-rejects-elon-musk-s-entire-lawsuit]]
+**Related:** [[2026-04-13-industry-news]] · [[2026-05-18-elon-musk-vs-openai-trial-wraps-xai-bleeding-staff-post-merg]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-04-28-trendingelon-musk-takes-stand-as-openai-trial-begins]]
 <!-- graph:end -->

@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
-- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 embedding_id: 2026-04-23-microsoft-announced-it-will-embed-anthropic-s-claude-mythos
 event_name: ''
 ---
@@ -47,5 +47,5 @@ OpenAI Briefs U.S. Federal Agencies and Five Eyes Allies on GPT-5.4-Cyber
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]]
+**Related:** [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
 <!-- graph:end -->

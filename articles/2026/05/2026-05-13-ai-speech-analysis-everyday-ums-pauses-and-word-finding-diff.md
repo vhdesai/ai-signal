@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc
-- 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
-- 2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa
+- 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
+- 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
+- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
+- 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 embedding_id: 2026-05-13-ai-speech-analysis-everyday-ums-pauses-and-word-finding-diff
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers used AI to analyze natural conversations and found that subtle speec
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-16-allen-institute-uc-berkeley-s-emo-model-near-full-performanc]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-05-13-thinking-machines-lab-previews-tml-interaction-small-276b-pa]]
+**Related:** [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]]
 <!-- graph:end -->

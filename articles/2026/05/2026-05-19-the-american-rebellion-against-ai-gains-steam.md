@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-19-the-american-rebellion-against-ai-is-gaining-steam
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 embedding_id: 2026-05-19-the-american-rebellion-against-ai-gains-steam
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ Editor-in-Chief Emma Tucker frames a growing US backlash against AI — from
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]]
+**Related:** [[2026-05-19-the-american-rebellion-against-ai-is-gaining-steam]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
 <!-- graph:end -->

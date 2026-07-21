@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-04-08-source-forbes-msn-the-neuron
-- 2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets
 embedding_id: 2026-05-25-wsj-profiles-the-senior-executive-driving-meta-s-accelerated
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Wealth Adviser briefing: AI-era client expectations reshape advisory workflows
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-31-wsj-tracks-the-hunt-for-durable-ai-winners-in-public-markets]]
+**Related:** [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-04-10-meta-has-debuted-muse-spark-its-first-major-proprietary-ai-m]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-04-08-source-forbes-msn-the-neuron]]
 <!-- graph:end -->

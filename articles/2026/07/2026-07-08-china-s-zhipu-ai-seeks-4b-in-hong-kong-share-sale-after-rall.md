@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f
 - 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 - 2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed
-- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
 embedding_id: 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zhipu AI (Z.ai) is seeking roughly $4 billion through a Hong Kong share placemen
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]]
+**Related:** [[2026-07-08-zhipu-ai-shares-surge-on-4b-fundraise-as-chinese-labs-race-f]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]]
 <!-- graph:end -->

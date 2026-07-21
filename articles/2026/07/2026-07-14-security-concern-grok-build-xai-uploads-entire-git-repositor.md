@@ -42,11 +42,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-xai-open-sources-grok-build-after-criticism-that-the-coding
 - 2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r
 - 2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software
 - 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
 - 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
-- 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
 embedding_id: 2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor
 event_name: ''
 ---
@@ -60,5 +60,5 @@ A report surfaced that xAI’s Grok Build agentic coding CLI uploads whole Git r
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]]
+**Related:** [[2026-07-16-xai-open-sources-grok-build-after-criticism-that-the-coding]] · [[2026-07-12-security-teardown-says-xai-s-grok-build-cli-uploads-entire-r]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]] · [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]]
 <!-- graph:end -->

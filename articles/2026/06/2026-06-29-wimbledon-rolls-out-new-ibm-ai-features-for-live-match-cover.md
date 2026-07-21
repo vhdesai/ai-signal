@@ -17,12 +17,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans
-- 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
-- 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
+dedupe_status: duplicate
+canonical_article_id: 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
+related_article_ids: []
 embedding_id: 2026-06-29-wimbledon-rolls-out-new-ibm-ai-features-for-live-match-cover
 event_name: ''
 ---
@@ -36,5 +33,5 @@ As first-round play began Monday, the All England Club switched on new IBM-built
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-ferrari-deploys-ibm-ai-to-build-f1-superfans]] · [[2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]]
+**Canonical:** [[2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac]]
 <!-- graph:end -->

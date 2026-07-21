@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
+- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
+- 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
 - 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
 - 2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a
-- 2026-04-06-ai-safety-policy
-- 2026-04-13-industry-news
 embedding_id: 2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ
 event_name: ''
 ---
@@ -47,5 +47,5 @@ OpenAI Releases 13-Page Policy Blueprint: Robot Taxes, Public Wealth Fund, and a
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]] · [[2026-04-06-ai-safety-policy]] · [[2026-04-13-industry-news]]
+**Related:** [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-04-22-elon-musk-and-xai-held-exploratory-discussions-with-french-a]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo
+- 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos
-- 2026-07-08-cornell-introduces-co-lmlm-for-externalized-inspectable-fact
-- 2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward
-- 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
+- 2026-06-26-model-forensics-investigating-whether-concerning-behavior-re
 embedding_id: 2026-05-29-negation-neglect-research-probes-how-llms-handle-reversed-fa
 event_name: ''
 ---
@@ -37,5 +37,5 @@ work on "negation neglect" examines whether large language models correctly inte
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-07-08-cornell-introduces-co-lmlm-for-externalized-inspectable-fact]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]] · [[2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning]]
+**Related:** [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-28-fine-tuning-dynamics-of-in-context-factual-recall-in-transfo]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-05-03-mit-explains-why-llm-scaling-works-so-reliably-it-s-superpos]] · [[2026-06-26-model-forensics-investigating-whether-concerning-behavior-re]]
 <!-- graph:end -->

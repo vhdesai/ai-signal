@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
+- 2026-06-26-model-forensics-investigating-whether-concerning-behavior-re
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
-- 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
+- 2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool
 embedding_id: 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 event_name: ''
 ---
@@ -44,5 +44,5 @@ UC San Diego AI Predicts Opioid Misuse Risk from Smartwatch Data with 87% Accura
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-06-26-model-forensics-investigating-whether-concerning-behavior-re]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]]
 <!-- graph:end -->

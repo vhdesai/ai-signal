@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-05-18-anthropic-acquires-dev-tools-startup-used-by-openai-google-a
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Anthropic has acquired an unnamed developer tooling startup that had been used b
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-anthropic-acquires-stainless-to-deepen-claude-agent-sdk-conn]] · [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]]
 <!-- graph:end -->

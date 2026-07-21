@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
-- 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 embedding_id: 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information reports that Google is mounting a TPU campaign to win customers 
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]]
+**Related:** [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

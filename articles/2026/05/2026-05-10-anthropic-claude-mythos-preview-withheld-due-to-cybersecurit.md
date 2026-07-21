@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
+- 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
-- 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-- 2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po
-- 2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release
+- 2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap
 embedding_id: 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Claude Mythos Preview remains Anthropic's most consequential unreleased model: a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-26-anthropic-is-loosening-its-grip-on-claude-mythos-its-most-po]] · [[2026-05-26-anthropic-s-mythos-moves-toward-staged-enterprise-release]]
+**Related:** [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap]]
 <!-- graph:end -->

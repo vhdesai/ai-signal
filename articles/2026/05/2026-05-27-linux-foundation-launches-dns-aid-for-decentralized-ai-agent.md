@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
+- 2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand
 - 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
 - 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
-- 2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne
-- 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
+- 2026-06-29-researchers-show-claude-code-can-be-made-to-execute-dns-fetc
 embedding_id: 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Linux Foundation announced DNS-AID — a project to build decentralized disc
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]] · [[2026-07-01-cognition-launches-devin-security-swarm-for-autonomous-vulne]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]]
+**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand]] · [[2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]] · [[2026-06-29-researchers-show-claude-code-can-be-made-to-execute-dns-fetc]]
 <!-- graph:end -->

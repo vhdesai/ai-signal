@@ -16,14 +16,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
-- 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
-- 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
+dedupe_status: duplicate
+canonical_article_id: 2026-07-05-llamaindex-published-legal-kb-a-public-reference-application
+related_article_ids: []
 embedding_id: 2026-07-05-llamaindex-ships-legal-kb-an-agentic-retrieval-reference-app
 event_name: ''
 ---
@@ -36,5 +31,5 @@ LlamaIndex released legal-kb, a public reference app that gives AI agents filesy
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Canonical:** [[2026-07-05-llamaindex-published-legal-kb-a-public-reference-application]]
 <!-- graph:end -->

@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 - 2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack
-- 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
 embedding_id: 2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester
 event_name: ''
 ---
@@ -38,5 +37,5 @@ WSJ reports that Chinese AI startup DFSX released a chip aimed at competing with
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]] · [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
+**Related:** [[2026-07-14-wsj-chinese-ai-startup-dfsx-releases-a-chip-to-take-on-the-w]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-13-huawei-s-ai-chip-trajectory-tightens-china-s-domestic-stack]]
 <!-- graph:end -->

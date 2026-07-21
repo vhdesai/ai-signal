@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
+- 2026-04-06-carnegie-mellon-and-cornell-advance-multimodal-reasoning-in
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
 - 2026-07-08-cornell-introduces-co-lmlm-for-externalized-inspectable-fact
 - 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
-- 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
-- 2026-07-08-co-lmlm-continuous-query-limited-memory-language-models
 embedding_id: 2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Weinberger's keynote argued that next-generation LLMs must incorporate global-re
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-07-08-cornell-introduces-co-lmlm-for-externalized-inspectable-fact]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-07-08-co-lmlm-continuous-query-limited-memory-language-models]]
+**Related:** [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]] · [[2026-04-06-carnegie-mellon-and-cornell-advance-multimodal-reasoning-in]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-07-08-cornell-introduces-co-lmlm-for-externalized-inspectable-fact]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
 <!-- graph:end -->

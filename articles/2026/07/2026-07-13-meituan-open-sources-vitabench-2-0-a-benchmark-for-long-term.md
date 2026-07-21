@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
+- 2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic
 embedding_id: 2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VitaBench 2.0 is billed as the first benchmark focused on real-life, evolving us
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
+**Related:** [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]]
 <!-- graph:end -->

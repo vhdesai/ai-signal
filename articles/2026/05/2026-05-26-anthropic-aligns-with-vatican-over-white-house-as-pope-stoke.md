@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti
-- 2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l
 embedding_id: 2026-05-26-anthropic-aligns-with-vatican-over-white-house-as-pope-stoke
 event_name: ''
 ---
@@ -37,5 +36,5 @@ The Post frames Anthropic's prominent Vatican role as a deliberate split with th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti]] · [[2026-05-18-vatican-anthropic-co-founder-christopher-olah-to-join-pope-l]]
+**Related:** [[2026-05-26-the-trump-white-house-is-closing-in-on-an-agreement-that-wou]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-04-20-breaking-anthropic-pitches-mythos-at-the-white-house-potenti]]
 <!-- graph:end -->

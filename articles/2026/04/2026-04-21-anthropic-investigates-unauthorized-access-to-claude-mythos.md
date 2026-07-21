@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
+- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 - 2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl
+- 2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
-- 2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit
-- 2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw
 embedding_id: 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Anthropic is investigating unauthorized access to Claude Mythos, a restricted cy
 
 **Entities:** [[Adobe]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-05-10-anthropic-claude-mythos-preview-withheld-due-to-cybersecurit]] · [[2026-05-18-anthropic-to-brief-global-financial-regulators-on-cyber-flaw]]
+**Related:** [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]] · [[2026-05-26-anthropic-s-claude-mythos-moves-toward-public-release-via-cl]] · [[2026-05-22-claude-mythos-anthropic-restricted-preview-cybersecurity-cap]] · [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]]
 <!-- graph:end -->

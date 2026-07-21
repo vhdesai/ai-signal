@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026
 - 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center
 embedding_id: 2026-06-05-airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-indi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AirTrunk committed $30B+ to build 5GW of AI data center capacity in India by 203
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-19-microsoft-india-s-largest-data-center-on-track-for-mid-2026]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]] · [[2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center]]
 <!-- graph:end -->

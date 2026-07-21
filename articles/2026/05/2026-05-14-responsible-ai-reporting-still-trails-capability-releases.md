@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose
 - 2026-06-01-stanford-hai-publishes-the-2026-ai-index-report
-- 2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme
-- 2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p
-- 2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier
+- 2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie
+- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+- 2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w
 embedding_id: 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 event_name: ''
 ---
@@ -39,5 +40,5 @@ The 2026 AI Index reports 362 documented AI incidents (up from 233 in 2024) and 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-04-13-stanford-ai-index-2026-breakthroughs-at-concerning-environme]] · [[2026-05-24-stanford-hai-publishes-the-2026-ai-index-capability-is-not-p]] · [[2026-05-12-stanford-hai-2026-ai-index-industry-produced-90-of-frontier]]
+**Related:** [[2026-05-14-stanford-s-2026-ai-index-found-documented-ai-incidents-rose]] · [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-22-the-stanford-university-2026-ai-index-report-documents-a-fie]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-05-15-stanford-s-9th-annual-ai-index-now-being-widely-cited-this-w]]
 <!-- graph:end -->

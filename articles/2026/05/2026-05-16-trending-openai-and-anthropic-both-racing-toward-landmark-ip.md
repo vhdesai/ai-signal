@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-- 2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi
-- 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
+- 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
+- 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
 embedding_id: 2026-05-16-trending-openai-and-anthropic-both-racing-toward-landmark-ip
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Both OpenAI ($852B valuation after a $122B March funding round) and Anthropic (t
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-04-openai-finalizes-10b-development-company-jv-with-tpg-brookfi]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
+**Related:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
 - 2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc
 - 2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315
 embedding_id: 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Missouri House committee voted 11-0 to kill State Sen. Joe Nicola's AI liabili
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]]
+**Related:** [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-05-28-illinois-passes-nation-s-strongest-ai-safety-law-as-trump-sc]] · [[2026-05-28-illinois-passes-nation-s-toughest-ai-safety-law-as-federal-a]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
 <!-- graph:end -->

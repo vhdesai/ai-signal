@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
+- 2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google
 - 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
-- 2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen
 embedding_id: event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
 event_name: Google I/O 2026
 ---
@@ -39,5 +39,5 @@ AI-first Search: Newsletters frame I/O as the point where Google declared Search
 
 **Entities:** [[Amazon]] · [[Google]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-05-20-post-i-o-analysis-gemini-spark-positions-google-as-24-7-agen]]
+**Related:** [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-05-17-google-i-o-2026-may-19-20-expected-gemini-3-x-updates-google]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]]
 <!-- graph:end -->

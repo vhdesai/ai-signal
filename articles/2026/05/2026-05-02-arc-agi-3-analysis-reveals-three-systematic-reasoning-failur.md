@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi
 - 2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet
 - 2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject
 - 2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu
-- 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
+- 2026-05-22-openai-model-autonomously-disproves-80-year-old-central-conj
 embedding_id: 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropi
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject]] · [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]]
+**Related:** [[2026-05-02-model-releases-frontier-research-5-stories-arc-agi-3-analysi]] · [[2026-05-25-openai-reasoning-model-disproves-an-80-year-old-erd-s-geomet]] · [[2026-05-21-openai-reasoning-model-disproves-erd-s-unit-distance-conject]] · [[2026-05-21-openai-model-disproves-erd-s-unit-distance-conjecture-overtu]] · [[2026-05-22-openai-model-autonomously-disproves-80-year-old-central-conj]]
 <!-- graph:end -->

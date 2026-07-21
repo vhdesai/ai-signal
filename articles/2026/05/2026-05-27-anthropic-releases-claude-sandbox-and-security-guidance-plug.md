@@ -22,8 +22,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab
 - 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
-- 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
 embedding_id: 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic shipped two new security features for Claude: a self-hosted sandbox th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]] · [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]]
+**Related:** [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-05-08-anthropic-rolled-out-claude-security-in-may-2026-a-new-capab]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]]
 <!-- graph:end -->

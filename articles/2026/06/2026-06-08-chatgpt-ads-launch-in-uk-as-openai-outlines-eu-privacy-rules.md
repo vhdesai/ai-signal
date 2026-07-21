@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 - 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
-- 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 embedding_id: 2026-06-08-chatgpt-ads-launch-in-uk-as-openai-outlines-eu-privacy-rules
 event_name: ''
 ---
@@ -38,5 +37,5 @@ OpenAI began serving ads in ChatGPT in the UK — its first major international 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]] · [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]]
+**Related:** [[2026-05-02-chatgpt-enables-ad-tracking-by-default-for-free-users-as-ope]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt]]
 <!-- graph:end -->

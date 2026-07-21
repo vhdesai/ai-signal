@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
 - 2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte
-- 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 embedding_id: 2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Open-sourced a HIP attention kernel for AMD's MI300X GPU that outperforms AMD's 
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]]
+**Related:** [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]] · [[2026-05-24-nvidia-ai-releases-gated-deltanet-2-for-efficient-long-conte]]
 <!-- graph:end -->

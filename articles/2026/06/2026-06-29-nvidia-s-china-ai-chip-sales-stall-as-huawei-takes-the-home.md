@@ -22,7 +22,10 @@ cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival
-related_article_ids: []
+related_article_ids:
+- 2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai
+- 2026-06-30-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-overtakes-it
+- 2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch
 embedding_id: 2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home
 event_name: ''
 ---
@@ -37,4 +40,5 @@ Jensen Huang acknowledged to the AP that Nvidia has “lost its edge” in China
 **Entities:** [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival]]
+**Related:** [[2026-05-26-nvidia-s-china-retreat-huawei-on-track-for-60-of-domestic-ai]] · [[2026-06-30-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-overtakes-it]] · [[2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch]]
 <!-- graph:end -->

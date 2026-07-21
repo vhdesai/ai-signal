@@ -21,11 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense
+- 2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re
-- 2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c
-- 2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat
-- 2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod
 embedding_id: 2026-05-05-newmistral-medium-3-5-one-model-three-jobs-half-the-price
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Mistral released Medium 3.5, positioning it as a cost-efficient model capable of
 
 **Entities:** [[Anthropic]] · [[Mistral]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]] · [[2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c]] · [[2026-05-04-mistral-ships-medium-3-5-with-vibe-remote-agents-and-le-chat]] · [[2026-05-27-mistral-ships-medium-3-5-and-codestral-25-08-pushes-vibe-cod]]
+**Related:** [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense]] · [[2026-05-09-mistral-released-medium-3-5-128b-dense-256k-context-window-7]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
 <!-- graph:end -->

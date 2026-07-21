@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co
+- 2026-07-15-nvidia-tightens-ai-chip-sales-in-asia-through-a-stricter-cus
 - 2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c
 - 2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia
-- 2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten
 embedding_id: 2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Under pressure from Washington, Nvidia reportedly cut its roster of authorized A
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]]
+**Related:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co]] · [[2026-07-15-nvidia-tightens-ai-chip-sales-in-asia-through-a-stricter-cus]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]] · [[2026-05-21-taiwan-seeks-arrests-over-forged-documents-exporting-nvidia]]
 <!-- graph:end -->

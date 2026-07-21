@@ -21,7 +21,9 @@ themes:
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v
-related_article_ids: []
+related_article_ids:
+- 2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join
+- 2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black
 embedding_id: 2026-05-04-breakingopenai-and-anthropic-both-launch-multibillion-dollar
 event_name: ''
 ---
@@ -36,4 +38,5 @@ In a same-day announcement, both labs unveiled joint ventures aimed at enterpris
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-05-04-anthropic-and-openai-launch-competing-fde-enterprise-joint-v]]
+**Related:** [[2026-05-08-both-anthropic-and-openai-announced-parallel-enterprise-join]] · [[2026-05-18-anthropic-launched-an-enterprise-ai-joint-venture-with-black]]
 <!-- graph:end -->

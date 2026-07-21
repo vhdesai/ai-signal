@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026
 - 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
 - 2026-07-07-north-american-vc-hits-392b-in-h1-2026
-- 2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce
 embedding_id: 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
 event_name: ''
 ---
@@ -39,5 +39,5 @@ North American startup investment hit an all-time high of $392 billion in the fi
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]] · [[2026-04-01-oracle-notified-20-000-30-000-employees-18-of-its-workforce]]
+**Related:** [[2026-07-07-north-american-startup-funding-hit-a-record-392b-in-h1-2026]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]]
 <!-- graph:end -->

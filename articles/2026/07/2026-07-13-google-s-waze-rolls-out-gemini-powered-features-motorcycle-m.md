@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto
 - 2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per
 - 2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
-- 2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features
+- 2026-07-15-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent
 embedding_id: 2026-07-13-google-s-waze-rolls-out-gemini-powered-features-motorcycle-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Waze introduced an AI‑built Motorcycle mode that accounts for rider‑specific
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto]] · [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-05-20-google-unveils-gemini-omni-and-new-consumer-agent-features]]
+**Related:** [[2026-07-13-waze-rolls-out-new-gemini-powered-ai-features-including-moto]] · [[2026-07-13-waze-adds-gemini-powered-conversational-search-and-route-per]] · [[2026-07-13-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]] · [[2026-07-15-google-pushes-gemini-deeper-into-chrome-waze-and-india-s-ent]]
 <!-- graph:end -->

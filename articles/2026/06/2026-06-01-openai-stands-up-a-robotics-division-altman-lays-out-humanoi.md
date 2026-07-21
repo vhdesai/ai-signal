@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
+- 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
+- 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 embedding_id: 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI is hiring robotics engineers for a new division spun out of its world-sim
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
+**Related:** [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
 <!-- graph:end -->

@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w
+- 2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se
 - 2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok
+- 2026-05-18-subquadratic-released-the-first-commercially-available-non-t
 - 2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
-- 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
 embedding_id: 2026-05-05-trending-subquadratic-claims-1-000x-ai-efficiency-gain-resea
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Miami-based startup Subquadratic emerged from stealth claiming its SubQ model is
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]]
+**Related:** [[2026-05-05-subquadratic-ai-raises-29m-seed-for-subq-12m-token-context-w]] · [[2026-05-17-startup-subquadratic-launched-subq-1m-preview-with-29m-in-se]] · [[2026-05-05-subq-launches-first-commercial-subquadratic-llm-with-12m-tok]] · [[2026-05-18-subquadratic-released-the-first-commercially-available-non-t]] · [[2026-07-06-llm-as-a-verifier-verification-proposed-as-a-new-scaling-axi]]
 <!-- graph:end -->

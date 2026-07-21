@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
+- 2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71
 - 2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
-- 2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china
-- 2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio
+- 2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state
+- 2026-05-15-deepseek-nears-45b-valuation-with-tencent-alibaba-and-china
 embedding_id: 2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek is reportedly in preliminary talks to raise at roughly a $71 billion va
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]] · [[2026-05-13-deepseek-reportedly-raising-7b-at-50b-valuation-led-by-china]] · [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]]
+**Related:** [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]] · [[2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71]] · [[2026-07-14-deepseek-weighs-a-second-raise-in-two-months-at-a-71b-pre-mo]] · [[2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state]] · [[2026-05-15-deepseek-nears-45b-valuation-with-tencent-alibaba-and-china]]
 <!-- graph:end -->

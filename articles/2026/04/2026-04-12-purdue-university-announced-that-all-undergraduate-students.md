@@ -49,11 +49,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-- 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 embedding_id: 2026-04-12-purdue-university-announced-that-all-undergraduate-students
 event_name: ''
 ---
@@ -67,5 +67,5 @@ UT Austin Releases TexBot-Eval Open Robotics Benchmark; CMU Retains #1 AI Gradua
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]]
+**Related:** [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-rio-open-source-glue-to-m]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
 <!-- graph:end -->

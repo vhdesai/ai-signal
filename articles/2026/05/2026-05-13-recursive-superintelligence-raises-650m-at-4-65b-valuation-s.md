@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
+- 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
-- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 embedding_id: 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Recursive Superintelligence emerged from stealth with a record $650 million Seri
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
+**Related:** [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]]
 <!-- graph:end -->

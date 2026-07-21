@@ -25,8 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
+- 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
+- 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o
-- 2026-05-14-openai-codex-work-from-anywhere-expansion
 embedding_id: 2026-06-10-openai-opens-an-oracle-cloud-purchasing-path-for-its-models
 event_name: ''
 ---
@@ -40,5 +41,5 @@ OpenAI and Oracle partnering to let OCI customers apply existing Oracle Universa
 
 **Entities:** [[Amazon]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]] · [[2026-05-14-openai-codex-work-from-anywhere-expansion]]
+**Related:** [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-05-08-hotoracle-oci-adds-xai-grok-4-3-and-nvidia-nemotron-3-nano-o]]
 <!-- graph:end -->

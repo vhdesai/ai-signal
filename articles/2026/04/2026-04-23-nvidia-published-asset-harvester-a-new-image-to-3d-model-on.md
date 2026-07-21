@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks
 - 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
+- 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
+- 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
 - 2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac
-- 2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i
-- 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
 embedding_id: 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 event_name: ''
 ---
@@ -44,5 +44,5 @@ event_name: ''
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]] · [[2026-05-09-nvidia-releases-star-elastic-three-nested-reasoning-models-i]] · [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]]
+**Related:** [[2026-07-06-nvidia-and-hugging-face-bring-new-open-models-and-frameworks]] · [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-07-06-nvidia-and-hugging-face-open-source-a-humanoid-robotics-stac]]
 <!-- graph:end -->

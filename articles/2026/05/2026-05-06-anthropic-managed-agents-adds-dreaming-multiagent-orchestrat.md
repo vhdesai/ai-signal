@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio
+- 2026-05-08-anthropic-shipped-three-substantive-upgrades-to-claude-manag
 - 2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei
 - 2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn
 - 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
-- 2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe
-- 2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl
 embedding_id: 2026-05-06-anthropic-managed-agents-adds-dreaming-multiagent-orchestrat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's Managed Agents platform gained three major capabilities: Dreaming (a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn]] · [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl]]
+**Related:** [[2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio]] · [[2026-05-08-anthropic-shipped-three-substantive-upgrades-to-claude-manag]] · [[2026-05-08-anthropic-introduces-dreaming-ai-agents-that-learn-from-thei]] · [[2026-05-08-breaking-anthropic-introduces-dreaming-ai-agents-that-learn]] · [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]]
 <!-- graph:end -->

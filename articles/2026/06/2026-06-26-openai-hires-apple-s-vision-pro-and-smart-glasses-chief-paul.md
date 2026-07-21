@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p
+- 2026-06-28-apple-s-vision-pro-hardware-chief-paul-meade-departs-for-ope
 - 2026-06-26-daily-ai-news-digest-june-26-2026
+- 2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the
 - 2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it
-- 2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t
-- 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
-- 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 embedding_id: 2026-06-26-openai-hires-apple-s-vision-pro-and-smart-glasses-chief-paul
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Paul Meade, the Apple vice president who led the Vision Pro headset and smart-gl
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Related:** [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]] · [[2026-07-10-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball]] · [[2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog]]
+**Related:** [[2026-06-28-paul-meade-apple-vp-of-hardware-engineering-for-the-vision-p]] · [[2026-06-28-apple-s-vision-pro-hardware-chief-paul-meade-departs-for-ope]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the]] · [[2026-07-12-apple-sues-openai-over-alleged-trade-secret-theft-tied-to-it]]
 <!-- graph:end -->

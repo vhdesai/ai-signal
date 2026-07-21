@@ -34,11 +34,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
+- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
+- 2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single
 - 2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
-- 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
-- 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
-- 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
 embedding_id: 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 event_name: ''
 ---
@@ -52,5 +52,5 @@ Oracle Cuts Up to 30,000 Jobs to Fund AI Data Center Push
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work]] · [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]]
+**Related:** [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-04-04-openai-completed-a-122-billion-fundraise-the-largest-single]] · [[2026-05-31-anthropic-closes-65b-series-h-at-965b-valuation-overtakes-op]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]]
 <!-- graph:end -->

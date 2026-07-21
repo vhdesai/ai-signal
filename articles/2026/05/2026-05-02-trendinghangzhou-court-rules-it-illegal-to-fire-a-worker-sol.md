@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-09-a-hangzhou-china-court-ruled-this-week-that-employers-cannot
+- 2026-05-09-hangzhou-court-rules-it-illegal-to-fire-workers-solely-becau
 - 2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms
 - 2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba
 - 2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work
-- 2026-05-31-china-restricts-travel-for-top-ai-researchers
-- 2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in
 embedding_id: 2026-05-02-trendinghangzhou-court-rules-it-illegal-to-fire-a-worker-sol
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A Hangzhou court issued what is being described as the first major Chinese rulin
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-31-china-restricts-travel-for-top-ai-researchers]] · [[2026-05-23-hkust-paper-llm-judge-agents-commit-serious-legal-errors-in]]
+**Related:** [[2026-05-09-a-hangzhou-china-court-ruled-this-week-that-employers-cannot]] · [[2026-05-09-hangzhou-court-rules-it-illegal-to-fire-workers-solely-becau]] · [[2026-05-26-china-expands-travel-curbs-to-top-ai-talent-at-private-firms]] · [[2026-05-26-china-restricts-overseas-travel-for-top-ai-talent-at-alibaba]] · [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]]
 <!-- graph:end -->

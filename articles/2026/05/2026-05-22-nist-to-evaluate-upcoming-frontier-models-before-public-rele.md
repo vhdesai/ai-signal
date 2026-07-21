@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
+- 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
+- 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
-- 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-- 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
 embedding_id: 2026-05-22-nist-to-evaluate-upcoming-frontier-models-before-public-rele
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new multi-agency task force coordinated by NIST will assess national-security 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]]
+**Related:** [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
 <!-- graph:end -->

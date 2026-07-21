@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two
+- 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
 - 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
-- 2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report
-- 2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting
+- 2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li
 embedding_id: 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Linux Foundation unveiled Akrites, a joint effort with roughly twenty tech c
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report]] · [[2026-07-06-carnegie-mellon-launches-flare-ai-an-open-ai-flaw-reporting]]
+**Related:** [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]]
 <!-- graph:end -->

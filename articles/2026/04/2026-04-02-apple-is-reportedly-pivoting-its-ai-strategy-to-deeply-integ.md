@@ -36,7 +36,7 @@ related_article_ids:
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
 - event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2
 - 2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part
 embedding_id: 2026-04-02-apple-is-reportedly-pivoting-its-ai-strategy-to-deeply-integ
 event_name: ''
 ---
@@ -50,5 +50,5 @@ IBM Earns FedRAMP High for 11 AI Products Including watsonx; Partners with ARM f
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[IBM]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-products-tools]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-04-01-products-tools]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[event-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-apple-wwdc-2026-preview-siri-extensions-vision-pro-2-foundat-2]] · [[2026-05-05-ibm-watsonx-data-adds-gpu-acceleration-in-private-technical]] · [[2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part]]
 <!-- graph:end -->

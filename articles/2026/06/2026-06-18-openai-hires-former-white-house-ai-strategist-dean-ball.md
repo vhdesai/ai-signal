@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-06-white-house-ai-adviser-sriram-krishnan-departs
+- 2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an
+- 2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u
 - 2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake
-- 2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment
-- 2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump
 embedding_id: 2026-06-18-openai-hires-former-white-house-ai-strategist-dean-ball
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Former lead author of Trump's AI Action Plan will head "Strategic Futures" team 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]] · [[2026-05-05-breakingtrump-administration-expands-ai-model-pre-deployment]] · [[2026-06-06-washington-weighs-government-equity-stakes-in-ai-firms-trump]]
+**Related:** [[2026-06-06-white-house-ai-adviser-sriram-krishnan-departs]] · [[2026-03-28-david-sacks-the-trump-administration-s-ai-and-crypto-czar-an]] · [[2026-05-14-the-center-for-ai-standards-and-innovation-caisi-under-the-u]] · [[2026-07-03-openai-proposes-giving-the-u-s-government-a-5-equity-stake]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re
+- 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
+- 2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re
 - 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
-- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint
+- 2026-03-30-view-in-web-browser-the-wall-street-journal-the-sudden-fall
 embedding_id: 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Leaked UI suggests a specialized tier for universities and research institutions
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-24-openai-ships-beta-chatgpt-add-in-for-microsoft-powerpoint]]
+**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]] · [[2026-03-30-view-in-web-browser-the-wall-street-journal-the-sudden-fall]]
 <!-- graph:end -->

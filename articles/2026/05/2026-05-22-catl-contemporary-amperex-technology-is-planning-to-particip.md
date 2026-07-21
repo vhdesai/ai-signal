@@ -32,6 +32,7 @@ related_article_ids:
 - 2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation
 - 2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round
 - 2026-05-09-deepseek-closing-45-50b-first-external-funding-round
+- 2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45
 embedding_id: 2026-05-22-catl-contemporary-amperex-technology-is-planning-to-particip
 event_name: ''
 ---
@@ -45,5 +46,5 @@ AI Safety & Policy Breaking Trump Kills AI Safety Executive Order After Last-Min
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]] · [[2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]]
+**Related:** [[2026-06-03-deepseek-seals-7-4b-round-led-by-tencent-and-catl-with-natio]] · [[2026-05-21-anthropic-closed-its-30-billion-funding-round-at-a-valuation]] · [[2026-05-26-deepseek-said-to-be-closing-on-45-50b-funding-round]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-05-15-deepseek-is-closing-in-on-a-4-billion-funding-round-at-a-45]]
 <!-- graph:end -->

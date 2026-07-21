@@ -25,6 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
 - 2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales
+- 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
 embedding_id: 2026-05-18-openai-expands-codex-hybrid-on-prem-via-dell-launches-chatgp
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI extended Codex into hybrid and on-prem deployments through a Dell partner
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales]]
+**Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-06-02-openai-expands-codex-agent-to-finance-banking-and-sales]] · [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]]
 <!-- graph:end -->

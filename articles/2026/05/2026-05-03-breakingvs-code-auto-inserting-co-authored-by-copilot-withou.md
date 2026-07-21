@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
+- 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
 - 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 - 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
-- 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 embedding_id: 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A GitHub PR documents VS Code inserting "Co-Authored-by Copilot" trailers into c
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]]
+**Related:** [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]]
 <!-- graph:end -->

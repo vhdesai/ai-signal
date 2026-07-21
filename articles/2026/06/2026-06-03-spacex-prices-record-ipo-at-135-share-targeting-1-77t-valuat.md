@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne
 - 2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex
 - 2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona
 - 2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se
 - 2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june
-- 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 embedding_id: 2026-06-03-spacex-prices-record-ipo-at-135-share-targeting-1-77t-valuat
 event_name: ''
 ---
@@ -43,5 +43,5 @@ SpaceX set its IPO price at a fixed $135 per share—bypassing the traditional p
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
+**Related:** [[2026-05-23-spacex-files-s-1-for-nasdaq-ipo-at-1-75t-valuation-xai-burne]] · [[2026-05-26-openai-targets-60b-ipo-at-1t-valuation-racing-spacex]] · [[2026-06-12-spacex-ipo-75b-at-1-75t-musk-becomes-world-s-first-trilliona]] · [[2026-06-05-spacex-s-record-75b-ipo-is-already-oversubscribed-pricing-se]] · [[2026-06-05-spacex-s-record-75b-ipo-already-oversubscribed-pricing-june]]
 <!-- graph:end -->

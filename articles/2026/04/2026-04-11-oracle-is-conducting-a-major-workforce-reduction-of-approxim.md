@@ -32,11 +32,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
+- 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
+- 2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
-- 2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u
-- 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
-- 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
 embedding_id: 2026-04-11-oracle-is-conducting-a-major-workforce-reduction-of-approxim
 event_name: ''
 ---
@@ -50,5 +50,5 @@ Nvidia-Backed SiFive Raises $400M at $3.65B Valuation for RISC-V Open AI Chip Ar
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-14-cerebras-systems-raises-5-5b-in-largest-u-s-tech-ipo-since-u]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
+**Related:** [[2026-04-04-oracle-announced-layoffs-of-approximately-30-000-employees-g]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]] · [[2026-05-02-ai-chip-maker-cerebras-systems-is-targeting-a-raise-of-up-to]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
 <!-- graph:end -->

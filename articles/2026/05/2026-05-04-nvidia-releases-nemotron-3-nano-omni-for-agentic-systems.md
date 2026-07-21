@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026
 - 2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas
+- 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
-- 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
 embedding_id: 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA released Nemotron 3 Nano Omni, a multimodal open model targeted at agenti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]]
+**Related:** [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-unified-multimodal-reas]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]]
 <!-- graph:end -->

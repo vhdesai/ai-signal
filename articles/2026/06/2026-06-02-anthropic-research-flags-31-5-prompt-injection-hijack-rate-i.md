@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
+- 2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
-- 2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s
-- 2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f
+- 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 embedding_id: 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Reporting on Anthropic findings cited a ~31.5% successful prompt-injection hijac
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-05-27-anthropic-s-mythos-program-crosses-10-000-high-or-critical-s]] · [[2026-06-01-anthropic-s-mythos-shows-security-upside-and-cost-pressure-f]]
+**Related:** [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]]
 <!-- graph:end -->

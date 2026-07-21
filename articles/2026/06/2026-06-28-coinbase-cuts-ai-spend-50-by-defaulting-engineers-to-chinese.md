@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-coinbase-defaults-to-cheaper-chinese-open-weight-models-to-c
+- 2026-06-29-coinbase-is-switching-to-chinese-ai-models-like-glm-5-2-and
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
 - 2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f
 - 2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou
-- 2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope
 embedding_id: 2026-06-28-coinbase-cuts-ai-spend-50-by-defaulting-engineers-to-chinese
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Coinbase CEO Brian Armstrong said the exchange roughly halved its internal AI bi
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-28-coinbase-defaults-to-cheaper-chinese-open-weight-models-to-c]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]] · [[2026-07-10-amazon-cto-werner-vogels-enterprises-pivoting-to-cheaper-ope]]
+**Related:** [[2026-06-28-coinbase-defaults-to-cheaper-chinese-open-weight-models-to-c]] · [[2026-06-29-coinbase-is-switching-to-chinese-ai-models-like-glm-5-2-and]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-07-chinese-open-weight-models-gain-u-s-enterprise-adoption-as-f]] · [[2026-07-10-amazon-cto-says-enterprises-are-pivoting-to-cheaper-open-sou]]
 <!-- graph:end -->

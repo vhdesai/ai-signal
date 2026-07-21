@@ -31,11 +31,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow
 - 2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand
+- 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
-- 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
-- 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-- 2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs
 embedding_id: 2026-04-02-deepseek-s-next-flagship-model-v4-is-expected-to-launch-in-l
 event_name: ''
 ---
@@ -49,5 +49,5 @@ Alibaba Releases Qwen3.6-Plus (Open Source, Apache 2.0) and Previews HappyHorse-
 
 **Entities:** [[Alibaba]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-01-trendingdeepseek-v4-1-6-trillion-parameters-mit-license-runs]]
+**Related:** [[2026-05-05-deepseek-s-upcoming-v4-model-widely-anticipated-as-a-follow]] · [[2026-05-01-trendingdeepseek-v4-reshapes-chinese-ai-compute-demand]] · [[2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]]
 <!-- graph:end -->

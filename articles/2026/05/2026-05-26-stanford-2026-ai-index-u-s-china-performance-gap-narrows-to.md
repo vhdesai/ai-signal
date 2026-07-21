@@ -21,13 +21,9 @@ themes:
 - model-capabilities
 cross_cutting_topics:
 - china-compete
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili
-- 2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga
-- 2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u
-- 2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv
+dedupe_status: duplicate
+canonical_article_id: 2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index
+related_article_ids: []
 embedding_id: 2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to
 event_name: ''
 ---
@@ -40,5 +36,5 @@ Continued coverage of Stanford HAI's 2026 AI Index confirms that capability is a
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-23-stanford-ai-index-2026-highlights-widening-us-china-capabili]] · [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]] · [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u]] · [[2026-05-14-stanford-2026-ai-index-u-s-china-capability-gap-has-effectiv]]
+**Canonical:** [[2026-05-26-press-and-analyst-commentary-on-stanford-hai-s-2026-ai-index]]
 <!-- graph:end -->

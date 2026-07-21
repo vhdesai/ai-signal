@@ -24,6 +24,7 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl
 - 2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 - 2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-policy
@@ -40,5 +41,5 @@ President Trump confirmed he raised the topic of AI safety guardrails with Presi
 
 **Entities:** [[Huawei]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-policy]]
+**Related:** [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]] · [[2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-policy]]
 <!-- graph:end -->

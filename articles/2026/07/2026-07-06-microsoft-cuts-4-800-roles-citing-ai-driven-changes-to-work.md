@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get
 - 2026-07-06-microsoft-lays-off-nearly-5-000-employees-across-xbox-commer
+- 2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90
 - 2026-04-23-meta-cuts-8-000-roles-microsoft-offers-buyout-to-up-to-7-of
-- 2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b
 embedding_id: 2026-07-06-microsoft-cuts-4-800-roles-citing-ai-driven-changes-to-work
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft said Monday it eliminated roughly 4,800 roles — about 2.1% of its gl
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]] · [[2026-07-06-microsoft-lays-off-nearly-5-000-employees-across-xbox-commer]] · [[2026-04-23-meta-cuts-8-000-roles-microsoft-offers-buyout-to-up-to-7-of]] · [[2026-06-30-microsoft-prepares-fresh-layoffs-as-ai-capex-passes-100b]]
+**Related:** [[2026-07-06-microsoft-eliminates-4-800-roles-as-ai-reshapes-how-work-get]] · [[2026-07-06-microsoft-lays-off-nearly-5-000-employees-across-xbox-commer]] · [[2026-05-14-the-ai-driven-restructuring-wave-has-eliminated-more-than-90]] · [[2026-04-23-meta-cuts-8-000-roles-microsoft-offers-buyout-to-up-to-7-of]]
 <!-- graph:end -->

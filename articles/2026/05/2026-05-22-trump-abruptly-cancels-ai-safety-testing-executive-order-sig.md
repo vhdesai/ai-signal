@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub
+- 2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si
 - 2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut
 - 2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c
-- 2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg
+- 2026-05-23-trump-cancels-ai-safety-testing-eo-signing-after-ai-lab-ceos
 embedding_id: 2026-05-22-trump-abruptly-cancels-ai-safety-testing-executive-order-sig
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The Trump administration scrapped a planned Thursday signing ceremony for an exe
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-22-trump-kills-ai-safety-executive-order-after-musk-zuckerberg]]
+**Related:** [[2026-05-22-trump-cancels-ai-safety-testing-eo-after-ceo-snub]] · [[2026-05-23-president-trump-abruptly-canceled-a-ceremony-scheduled-to-si]] · [[2026-05-22-trump-postpones-ai-executive-order-signing-at-the-last-minut]] · [[2026-05-25-white-house-scraps-planned-ai-safety-executive-order-after-c]] · [[2026-05-23-trump-cancels-ai-safety-testing-eo-signing-after-ai-lab-ceos]]
 <!-- graph:end -->

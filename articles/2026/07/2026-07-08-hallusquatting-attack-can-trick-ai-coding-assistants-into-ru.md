@@ -24,7 +24,6 @@ related_article_ids:
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 - 2026-07-11-forget-typosquatting-slopsquatting-is-the-software-supply-ch
-- 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 embedding_id: 2026-07-08-hallusquatting-attack-can-trick-ai-coding-assistants-into-ru
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Researchers detailed HalluSquatting: identifying the fake package or tool names 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-07-11-forget-typosquatting-slopsquatting-is-the-software-supply-ch]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
+**Related:** [[2026-07-11-slopsquatting-emerges-as-an-ai-coding-supply-chain-threat]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-07-11-forget-typosquatting-slopsquatting-is-the-software-supply-ch]]
 <!-- graph:end -->

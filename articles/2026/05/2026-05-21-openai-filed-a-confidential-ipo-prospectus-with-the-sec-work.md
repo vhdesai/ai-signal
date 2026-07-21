@@ -29,9 +29,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe
 - 2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r
+- 2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on
 - 2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela
 - 2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga
-- 2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation
 embedding_id: 2026-05-21-openai-filed-a-confidential-ipo-prospectus-with-the-sec-work
 event_name: ''
 ---
@@ -45,5 +45,5 @@ OpenAI Held $1 Billion Revenue Lead Over Anthropic in Q1 — But Gap Is Narrowin
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]] · [[2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r]] · [[2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela]] · [[2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga]] · [[2026-05-25-openai-preparing-confidential-s-1-targeting-1t-ipo-valuation]]
+**Related:** [[2026-05-22-openai-files-confidential-ipo-s-1-today-852b-valuation-septe]] · [[2026-05-26-anthropic-projected-a-559m-q2-operating-profit-on-10-9b-in-r]] · [[2026-05-26-openai-confirmed-its-confidential-s-1-filing-with-the-sec-on]] · [[2026-05-02-openai-cfo-sarah-friar-said-to-have-privately-advocated-dela]] · [[2026-05-26-openai-filed-a-confidential-s-1-with-goldman-sachs-and-morga]]
 <!-- graph:end -->

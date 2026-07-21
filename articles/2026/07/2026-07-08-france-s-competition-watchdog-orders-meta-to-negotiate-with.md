@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
 - 2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc
 - 2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine
-- 2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c
-- 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
+- 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
+- 2026-04-27-is-this-email-difficult-to-read-view-in-browser-the-wall-str-4
 embedding_id: 2026-07-08-france-s-competition-watchdog-orders-meta-to-negotiate-with
 event_name: ''
 ---
@@ -38,5 +38,5 @@ France’s antitrust authority ordered Meta to negotiate “in good faith” wit
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-07-01-meta-plans-a-cloud-business-meta-compute-to-sell-excess-ai-c]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]]
+**Related:** [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-05-27-meta-eyes-ai-subscriptions-as-rivals-target-meta-s-ad-busine]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-04-27-is-this-email-difficult-to-read-view-in-browser-the-wall-str-4]]
 <!-- graph:end -->

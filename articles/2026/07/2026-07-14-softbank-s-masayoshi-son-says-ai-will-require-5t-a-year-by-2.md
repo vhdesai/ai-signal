@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c
+- 2026-07-15-softbank-s-masayoshi-son-projects-ai-may-require-5t-per-year
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet
-- 2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers
 embedding_id: 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Masayoshi Son projected that AI buildout will require roughly $5 trillion of ann
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-05-30-softbank-commits-up-to-75-billion-for-french-ai-data-centers]]
+**Related:** [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-07-15-softbank-s-masayoshi-son-projects-ai-may-require-5t-per-year]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-03-13-the-information-logo-the-startups-inching-toward-an-ipo-in-a
 - 2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents
 - 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems
-- 2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu
 embedding_id: 2026-05-14-khosla-ventures-bets-10m-on-synthetic-ai-s-autonomous-bookke
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Khosla Ventures led a $10M seed round in Synthetic AI, co-founded by Ian Crosby 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu]]
+**Related:** [[2026-03-13-the-information-logo-the-startups-inching-toward-an-ipo-in-a]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]]
 <!-- graph:end -->

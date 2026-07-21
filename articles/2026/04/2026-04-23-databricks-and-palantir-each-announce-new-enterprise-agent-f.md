@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-13-products-tools
 - 2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b
+- 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 - 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 - 2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g
-- 2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break
 embedding_id: 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Databricks extended Mosaic AI with first-class agent deployment primitives, whil
 
 **Entities:** [[Databricks]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-13-products-tools]] · [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]] · [[2026-05-28-ai-agents-run-by-claude-opus-and-gemini-pro-reportedly-break]]
+**Related:** [[2026-04-13-products-tools]] · [[2026-06-15-databricks-closes-data-ai-summit-2026-with-genie-one-agent-b]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-05-14-anthropic-reaches-ga-on-aws-palantir-posts-triple-digit-ai-g]]
 <!-- graph:end -->

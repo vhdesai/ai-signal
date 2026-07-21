@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-- 2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia
-- 2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc
-- 2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j
-- 2026-04-11-academic-research
+- 2026-06-28-universities-uc-berkeley-stanford-mit-purdue-georgia-tech-pr
+- 2026-07-05-universities-uc-berkeley-stanford-mit-purdue-georgia-tech-pr
+- 2026-07-09-universities-uc-berkeley-stanford-mit-purdue-georgia-tech-pr
+- 2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b
+- 2026-05-27-limited-new-university-announcements-within-the-strict-24-ho
 embedding_id: 2026-05-09-universities-monitored-uc-berkeley-stanford-mit-purdue-georg
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-10-university-newsrooms-uc-berkeley-stanford-mit-purdue-georgia]] · [[2026-05-03-stoc-2026-accepted-papers-list-heavy-showing-from-cmu-mit-uc]] · [[2026-05-26-stanford-hai-2026-ai-index-continues-to-anchor-this-week-s-j]] · [[2026-04-11-academic-research]]
+**Related:** [[2026-06-28-universities-uc-berkeley-stanford-mit-purdue-georgia-tech-pr]] · [[2026-07-05-universities-uc-berkeley-stanford-mit-purdue-georgia-tech-pr]] · [[2026-07-09-universities-uc-berkeley-stanford-mit-purdue-georgia-tech-pr]] · [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-05-27-limited-new-university-announcements-within-the-strict-24-ho]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities
 - 2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac
+- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 embedding_id: 2026-06-07-axios-ai-business-faces-four-harsh-realities
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Four structural challenges: runaway token costs, uncertain enterprise ROI, capit
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
+**Related:** [[2026-06-07-axios-the-business-of-ai-faces-four-harsh-realities]] · [[2026-06-09-axios-anthropic-and-openai-spark-new-race-for-frontier-ai-ac]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-06-09-anthropic-and-openai-spark-new-race-for-frontier-ai-access]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
 <!-- graph:end -->

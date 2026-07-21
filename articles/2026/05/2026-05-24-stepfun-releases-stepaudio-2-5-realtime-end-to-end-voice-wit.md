@@ -24,9 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model
 - 2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice
-- 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
-- 2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad
-- 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
+- 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
+- 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
 embedding_id: 2026-05-24-stepfun-releases-stepaudio-2-5-realtime-end-to-end-voice-wit
 event_name: ''
 ---
@@ -40,5 +39,5 @@ StepFun shipped StepAudio 2.5 Realtime, an end-to-end voice model with roleplay-
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model]] · [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]] · [[2026-05-28-stepfun-releases-step-3-7-flash-china-s-frontier-release-cad]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
+**Related:** [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-end-to-end-voice-model]] · [[2026-05-24-stepfun-ships-stepaudio-2-5-realtime-a-roleplay-tuned-voice]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]]
 <!-- graph:end -->

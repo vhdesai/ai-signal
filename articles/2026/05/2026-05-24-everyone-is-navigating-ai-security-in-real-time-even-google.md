@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
+- 2026-03-12-view-in-web-browser-the-wall-street-journal-google-s-approac
 - 2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d
 - 2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue
-- 2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt
 embedding_id: 2026-05-24-everyone-is-navigating-ai-security-in-real-time-even-google
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Loizos reports that even Google is making AI security decisions in real time as 
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]] · [[2026-05-12-google-identifies-first-ai-assisted-zero-day-exploit-disrupt]]
+**Related:** [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-03-12-view-in-web-browser-the-wall-street-journal-google-s-approac]] · [[2026-05-11-google-threat-intelligence-group-disrupts-ai-assisted-zero-d]] · [[2026-05-26-google-cloud-coo-ai-security-must-be-a-ceo-board-issue]]
 <!-- graph:end -->

@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
 - 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
-- 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
 embedding_id: 2026-07-05-synthetic-sciences-open-sources-openscience-a-model-agnostic
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Synthetic Sciences released OpenScience, an open-source, model-agnostic AI workb
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]]
+**Related:** [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]]
 <!-- graph:end -->

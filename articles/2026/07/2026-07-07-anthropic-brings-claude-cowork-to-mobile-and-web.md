@@ -22,7 +22,6 @@ related_article_ids:
 - 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
 - 2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co
 - 2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro
-- 2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros
 embedding_id: 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Anthropic extended Claude Cowork — its agentic assistant that handles long-run
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]] · [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]] · [[2026-07-07-anthropic-brings-claude-cowork-to-web-and-mobile-adds-micros]]
+**Related:** [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]] · [[2026-07-08-anthropic-extends-claude-fable-5-access-and-brings-claude-co]] · [[2026-07-07-anthropic-expands-claude-cowork-to-web-and-mobile-adds-micro]]
 <!-- graph:end -->

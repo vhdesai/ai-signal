@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
 - 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
 - 2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two
+- 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
 embedding_id: 2026-05-22-london-mayor-sadiq-khan-blocks-50m-met-police-palantir-ai-co
 event_name: ''
 ---
@@ -39,5 +40,5 @@ London Mayor Sadiq Khan blocked a £50 million Metropolitan Police contract with
 
 **Entities:** [[Palantir]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan]] · [[2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr]] · [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two]]
+**Related:** [[2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan]] · [[2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr]] · [[2026-04-12-palantir-technologies-shares-fell-approximately-14-over-two]] · [[2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ]]
 <!-- graph:end -->

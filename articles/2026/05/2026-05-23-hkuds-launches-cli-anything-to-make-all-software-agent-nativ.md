@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything
 - 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
+- 2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst
+- 2026-06-28-products-tools-new-meta-open-sources-astryx-an-agent-readabl
 - 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-- 2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc
 embedding_id: 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The University of Hong Kong Data Science Lab released CLI-Anything, a framework 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc]]
+**Related:** [[2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst]] · [[2026-06-28-products-tools-new-meta-open-sources-astryx-an-agent-readabl]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]]
 <!-- graph:end -->

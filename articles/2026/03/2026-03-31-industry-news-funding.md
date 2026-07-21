@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-openai-closes-record-122-billion-funding-round-at-852-billio
+- 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
+- 2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise
+- 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
 - 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
-- 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-- 2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe
-- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 embedding_id: 2026-03-31-industry-news-funding
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI Closes Record $122B Funding Round at $852B Valuation
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-18-deepseek-closes-4b-round-intensifying-the-open-weights-compe]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
+**Related:** [[2026-04-01-openai-closes-record-122-billion-funding-round-at-852-billio]] · [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]]
 <!-- graph:end -->

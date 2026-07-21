@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin
 - 2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on
+- 2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat
+- 2026-05-09-stanford-consolidates-hai-and-data-science-programs-into-sin
 - 2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 embedding_id: 2026-07-13-princeton-consolidates-five-units-into-a-new-ai-academic-uni
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Princeton merged five units — the Survey Research Center, the Center for Stati
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
+**Related:** [[2026-05-08-stanford-hai-consolidates-ai-data-science-programs-under-sin]] · [[2026-05-10-stanford-consolidates-hai-and-data-science-programs-under-on]] · [[2026-05-09-stanford-university-announced-it-will-merge-the-stanford-dat]] · [[2026-05-09-stanford-consolidates-hai-and-data-science-programs-into-sin]] · [[2026-05-26-princeton-ai-lab-recaps-physical-foundations-of-intelligent]]
 <!-- graph:end -->

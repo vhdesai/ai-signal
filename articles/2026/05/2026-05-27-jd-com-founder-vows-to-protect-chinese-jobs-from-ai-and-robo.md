@@ -21,10 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
+- 2026-05-09-a-hangzhou-china-court-ruled-this-week-that-employers-cannot
 - 2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y
-- 2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-05-27-jd-com-founder-vows-to-protect-chinese-jobs-from-ai-and-robo
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Richard Liu publicly committed that JD.com will not use AI and robotics to displ
 ## Connections
 
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-05-02-nvidia-ceo-jensen-huang-rebukes-leaders-who-predict-ai-will]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
+**Related:** [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-05-09-a-hangzhou-china-court-ruled-this-week-that-employers-cannot]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
 <!-- graph:end -->

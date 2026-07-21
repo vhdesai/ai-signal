@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo
+- 2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro
 - 2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout
 - 2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google
-- 2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a
 embedding_id: 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Gemini 3.5 Flash, announced at I/O on May 19, has continued its rollout through 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]] · [[2026-05-26-google-i-o-2026-recap-highlights-gemini-3-5-flash-omni-and-a]]
+**Related:** [[2026-05-28-google-continues-gemini-omni-and-gemini-3-5-flash-rollout-fo]] · [[2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro]] · [[2026-05-26-gemini-3-5-flash-and-gemini-spark-continue-post-i-o-rollout]] · [[2026-05-19-gemini-3-5-flash-and-gemini-omni-roll-out-globally-as-google]]
 <!-- graph:end -->

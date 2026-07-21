@@ -26,7 +26,9 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
+- 2026-06-30-amazon-explores-openai-and-other-vendors-as-anthropic-moves
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 embedding_id: 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 event_name: ''
@@ -41,5 +43,5 @@ The last 24 hours were defined less by raw capability than by the economics of p
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]]
+**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-06-30-amazon-explores-openai-and-other-vendors-as-anthropic-moves]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]]
 <!-- graph:end -->

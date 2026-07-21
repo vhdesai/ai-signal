@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c
 - 2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c
 - 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
+- 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
-- 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 embedding_id: 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Researchers at HKUST released "Cloak and Detonate," showing that malicious add-o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]]
+**Related:** [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]]
 <!-- graph:end -->

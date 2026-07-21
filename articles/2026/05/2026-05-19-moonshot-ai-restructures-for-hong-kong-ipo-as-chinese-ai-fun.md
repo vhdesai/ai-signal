@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i
+- 2026-07-19-moonshot-ai-is-reportedly-preparing-a-hong-kong-ipo-within-r
 - 2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti
-- 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
+- 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 embedding_id: 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chinese AI startup Moonshot AI — developer of the Kimi series of open-weight L
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-16-chinese-ai-wave-deepseek-v4-kimi-k2-6-alibaba-qwen-in-agenti]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]]
+**Related:** [[2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i]] · [[2026-07-19-moonshot-ai-is-reportedly-preparing-a-hong-kong-ipo-within-r]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]]
 <!-- graph:end -->

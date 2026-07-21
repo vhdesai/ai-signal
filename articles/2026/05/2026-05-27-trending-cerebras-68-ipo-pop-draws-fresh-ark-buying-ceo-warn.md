@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o
-- 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
-- 2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech
+- 2026-05-15-cerebras-ipo-stock-surges-68-in-2026-s-largest-tech-offering
+- 2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr
+- 2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t
 embedding_id: 2026-05-27-trending-cerebras-68-ipo-pop-draws-fresh-ark-buying-ceo-warn
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Cerebras Systems' post-IPO rally — shares surged 68% on debut earlier this mon
 
 **Entities:** [[Cerebras]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech]]
+**Related:** [[2026-05-22-cerebras-ipo-surges-68-on-day-one-wall-street-remains-cool-o]] · [[2026-05-15-cerebras-ipo-stock-surges-68-in-2026-s-largest-tech-offering]] · [[2026-05-15-ai-chipmaker-cerebras-systems-debuted-on-nasdaq-on-may-14-pr]] · [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t]]
 <!-- graph:end -->

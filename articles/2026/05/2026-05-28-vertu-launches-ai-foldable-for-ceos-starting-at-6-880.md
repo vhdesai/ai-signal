@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high
+- 2026-07-18-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high
+- 2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
-- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc
-- 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
-- 2026-04-01-products-tools
 embedding_id: 2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Luxury phone brand Vertu unveiled an "AI foldable" pitched as a device to "run y
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation-jpmorganc]] · [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin]] · [[2026-04-01-products-tools]]
+**Related:** [[2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high]] · [[2026-07-18-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high]] · [[2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
 <!-- graph:end -->

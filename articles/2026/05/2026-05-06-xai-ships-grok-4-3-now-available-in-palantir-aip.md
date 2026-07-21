@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7
 - 2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy
+- 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
+- 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 - 2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth
-- 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
-- 2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet
 embedding_id: 2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip
 event_name: ''
 ---
@@ -40,5 +40,5 @@ xAI released Grok 4.3 on May 6, posting 53+ on the Artificial Analysis Intellige
 
 **Entities:** [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-05-18-hot-xai-s-grok-v9-completes-training-at-1-5-trillion-paramet]]
+**Related:** [[2026-05-16-may-api-pricing-shakeup-xai-raises-10-deepseek-mistral-cut-7]] · [[2026-04-17-grok-4-3-beta-goes-live-for-supergrok-heavy]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]] · [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]]
 <!-- graph:end -->

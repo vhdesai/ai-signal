@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa
 - 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 - 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
-- 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
-- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
+- 2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po
+- 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
 embedding_id: 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
 event_name: ''
 ---
@@ -37,5 +37,5 @@ arXiv — the open-access preprint server operated by Cornell University — ann
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]]
+**Related:** [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content]] · [[2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po]] · [[2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
 - 2026-05-01-6-ai-safety-policy
 - 2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio
-- 2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol
-- 2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma
+- 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 embedding_id: 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The New York Times reports on what the government's fight with Anthropic reveals
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-05-28-anthropic-s-honesty-first-framing-of-opus-4-8-lands-as-a-pol]] · [[2026-05-01-anthropic-s-refusal-to-remove-safeguards-against-domestic-ma]]
+**Related:** [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-05-14-trump-administration-shows-shifting-rhetoric-on-ai-regulatio]] · [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]]
 <!-- graph:end -->

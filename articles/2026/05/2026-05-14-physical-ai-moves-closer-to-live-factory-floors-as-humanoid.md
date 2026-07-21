@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 - 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
-- 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The leading AI trade outlet surveys vendors and integrators pushing humanoid rob
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]] · [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
+**Related:** [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic]] · [[2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc]]
 <!-- graph:end -->

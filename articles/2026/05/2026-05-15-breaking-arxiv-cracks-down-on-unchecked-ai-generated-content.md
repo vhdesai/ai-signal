@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g
 - 2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa
+- 2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis
 - 2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti
-- 2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13
-- 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
+- 2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po
 embedding_id: 2026-05-15-breaking-arxiv-cracks-down-on-unchecked-ai-generated-content
 event_name: ''
 ---
@@ -38,5 +38,5 @@ arXiv, the preprint server where most AI research is published before peer revie
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
+**Related:** [[2026-05-16-arxiv-institutes-one-year-ban-for-papers-with-unchecked-ai-g]] · [[2026-05-16-arxiv-will-ban-authors-for-one-year-for-fully-ai-authored-pa]] · [[2026-05-18-arxiv-the-preprint-repository-that-serves-as-the-primary-dis]] · [[2026-05-15-arxiv-institutes-1-year-ban-for-ai-generated-slop-in-scienti]] · [[2026-05-17-arxiv-the-world-s-largest-preprint-repository-announced-a-po]]
 <!-- graph:end -->

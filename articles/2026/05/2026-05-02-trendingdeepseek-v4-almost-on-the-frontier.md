@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
 - 2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo
 - 2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee
-- 2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens
+- 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 embedding_id: 2026-05-02-trendingdeepseek-v4-almost-on-the-frontier
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A widely-shared technical analysis from Simon Willison concludes that DeepSeek V
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]]
+**Related:** [[2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier]] · [[2026-05-04-deepseek-v4-three-chinese-labs-drop-open-weights-frontier-mo]] · [[2026-05-04-chinese-open-weight-surge-glm-5-1-minimax-m2-7-kimi-k2-6-dee]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]]
 <!-- graph:end -->

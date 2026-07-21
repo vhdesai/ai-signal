@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor
 - 2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory
+- 2026-04-02-hot-brain-inspired-chip-delivers-2-000x-energy-efficiency-ga
 - 2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world
-- 2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m
 embedding_id: 2026-04-02-research-breakthroughs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Brain-Inspired Memristor Chip Achieves up to 2,000× Greater AI Energy Efficienc
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]] · [[2026-06-23-mit-unveils-ultra-low-power-navigation-chip-for-autonomous-m]]
+**Related:** [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-a-memristor-based-in-memor]] · [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-04-02-hot-brain-inspired-chip-delivers-2-000x-energy-efficiency-ga]] · [[2026-06-23-mit-s-ultra-efficient-chip-lets-tiny-robots-map-their-world]]
 <!-- graph:end -->

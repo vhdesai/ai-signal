@@ -23,9 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 - 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
+- 2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f
 - 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
-- 2026-06-05-switch-in-talks-to-raise-at-50b-valuation
-- 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
 embedding_id: 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Williams (NYSE: WMB) announced that a Blackstone Credit & Insurance-led group (w
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]] · [[2026-06-05-switch-in-talks-to-raise-at-50b-valuation]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
+**Related:** [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f]] · [[2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge]]
 <!-- graph:end -->

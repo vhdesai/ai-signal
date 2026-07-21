@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
+- 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
-- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
 embedding_id: 2026-06-29-coreweave-debuts-aria-research-agent-as-weights-biases-weave
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AI-cloud operator CoreWeave debuted ARIA (AI Research and Iteration Agent), embe
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

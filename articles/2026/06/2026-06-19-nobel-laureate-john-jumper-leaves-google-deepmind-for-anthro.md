@@ -23,6 +23,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a
+- 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
 - 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
 - 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 - 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
@@ -39,5 +41,5 @@ AlphaFold creator and 2024 Nobel laureate departs after nearly nine years — th
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
+**Related:** [[2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a]] · [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]] · [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]]
 <!-- graph:end -->

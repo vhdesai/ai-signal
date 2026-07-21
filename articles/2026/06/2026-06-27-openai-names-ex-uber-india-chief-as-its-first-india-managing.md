@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-28-openai-names-ex-uber-india-chief-prabhjeet-singh-as-managing
+- 2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i
+- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
-- 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
-- 2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi
-- 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
-- 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
+- 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 embedding_id: 2026-06-27-openai-names-ex-uber-india-chief-as-its-first-india-managing
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI appointed Prabhjeet Singh, outgoing president of Uber India and South Asi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets]]
+**Related:** [[2026-06-28-openai-names-ex-uber-india-chief-prabhjeet-singh-as-managing]] · [[2026-06-28-openai-appointed-former-uber-india-head-prabhjeet-singh-as-i]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]]
 <!-- graph:end -->

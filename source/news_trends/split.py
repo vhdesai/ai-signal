@@ -387,6 +387,127 @@ def parse_digest(cfg: Config, text: str, issue_date: date | None, digest_source:
     return articles
 
 
+# --- Narrative digest format (July 2026+) -----------------------------------
+# Newer digests drop the per-article "Source \u00b7 Date" line and safelinks in
+# favour of a narrative layout: a short section-theme line followed by one or
+# more summary paragraphs, each paragraph describing a single news item, e.g.
+#
+#   Infrastructure, chips, and physical AI
+#
+#   TSMC added another $100B in Arizona capacity ...
+#
+#   NVIDIA released Cosmos 3 Edge ...
+#
+# There are no URLs. parse_narrative_digest() is used as a fallback when the
+# source-line parser (parse_digest) finds nothing.
+_NARRATIVE_SKIP_RE = re.compile(
+    r"^\s*(?:executive summary|primary sections represented|export note)\b",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_theme_line(block: str) -> bool:
+    """A short section header (not a sentence) that groups the items below it."""
+    if "\n" in block:
+        return False
+    s = block.strip()
+    if not s or len(s) > 80:
+        return False
+    if s[-1] in ".!?:":            # themes never end with sentence punctuation
+        return False
+    if _SEPARATOR_RE.match(s):
+        return False
+    if re.search(r"daily ai news digest", s, re.IGNORECASE):
+        return False               # restated digest title, not a theme
+    if _YEAR_RE.search(s):
+        return False               # dated restated-title lines, not a theme
+    if len(s.split()) > 9:         # themes are short phrases
+        return False
+    return True
+
+
+def _narrative_title(summary: str) -> str:
+    """Derive a headline from the first sentence of an item paragraph.
+
+    Skips abbreviation dots ("U.S.", "Inc.") by only accepting a sentence
+    break once a reasonable headline length has accumulated.
+    """
+    first = summary
+    for m in re.finditer(r"[.!?](?:\s|$)", summary):
+        if m.start() >= 40:
+            first = summary[: m.start() + 1]
+            break
+    first = first.strip().rstrip(".")
+    if len(first) > 120:
+        first = first[:120].rsplit(" ", 1)[0] + "\u2026"
+    return first
+
+
+def parse_narrative_digest(cfg: Config, text: str, issue_date: date | None,
+                           digest_source: str) -> list[Article]:
+    normalized = normalize_digest(text)
+    blocks = [b.strip() for b in re.split(r"\n\s*\n", normalized) if b.strip()]
+    articles: list[Article] = []
+    seen_ids: set[str] = set()
+    current_theme = ""
+
+    for block in blocks:
+        if _SEPARATOR_RE.match(block):
+            continue
+        if _looks_like_theme_line(block):
+            current_theme = block.strip()
+            continue
+        if not current_theme:
+            continue  # skip restated title / "version:" preface before first theme
+        if _NARRATIVE_SKIP_RE.match(block):
+            continue  # meta preface / export note, not a news item
+
+        summary = _clean_summary(block.replace("\n", " "))
+        if len(summary) < 25:
+            continue
+
+        # "Publication email additions" items read "The Information: a; b; c." —
+        # use the leading label as the source.
+        source = "Daily AI News Digest"
+        if "publication" in current_theme.lower() and ": " in summary:
+            prefix, _, rest = summary.partition(": ")
+            if 0 < len(prefix) <= 40 and rest.strip():
+                source, summary = prefix.strip(), rest.strip()
+
+        title = _narrative_title(summary)
+        if not title:
+            continue
+
+        base_id = f"{util.iso(issue_date) or 'undated'}-{util.slugify(title)}"
+        article_id, suffix = base_id, 2
+        while article_id in seen_ids:
+            article_id = f"{base_id}-{suffix}"
+            suffix += 1
+        seen_ids.add(article_id)
+
+        entities, themes, cross = _classify(cfg, title, summary, current_theme)
+        article = Article(
+            article_id=article_id,
+            title=title,
+            date=util.iso(issue_date),
+            source=source,
+            summary=summary,
+            theme=current_theme,
+            tags=[],
+            url_original=None,
+            url_canonical=None,
+            url_status="missing",
+            digest_source=digest_source,
+            entities=entities,
+            themes=themes,
+            cross_cutting_topics=cross,
+        )
+        article.compute_hashes()
+        articles.append(article)
+
+    return articles
+
+
 def _is_event_file(filename: str) -> bool:
     """Event files don't start with a date prefix like daily digests do."""
     return not re.match(r"^\d{4}-\d{2}-\d{2}", filename)
@@ -610,7 +731,10 @@ def run_split(cfg: Config) -> dict:
                 events_written += 1
         else:
             issue_date = util.extract_date(path.stem.replace("_", " ")) or util.extract_date(text)
-            for article in parse_digest(cfg, text, issue_date, digest_source):
+            articles = parse_digest(cfg, text, issue_date, digest_source)
+            if not articles:
+                articles = parse_narrative_digest(cfg, text, issue_date, digest_source)
+            for article in articles:
                 write_article(cfg, article)
                 written += 1
     return {"digests_parsed": len(digests), "articles_written": written,

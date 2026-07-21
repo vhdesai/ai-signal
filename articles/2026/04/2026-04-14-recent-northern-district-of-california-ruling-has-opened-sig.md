@@ -41,11 +41,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
 - 2026-04-14-source-tech-insider-updated-april-2026
+- 2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
 - 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
-- 2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 embedding_id: 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Daily AI News Digest — April 23, 2026 — Curated for Vik Desai, Corp Dev, Mic
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Related:** [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]]
 <!-- graph:end -->

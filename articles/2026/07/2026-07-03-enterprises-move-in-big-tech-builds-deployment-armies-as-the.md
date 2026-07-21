@@ -27,6 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-deployment-silicon-power-take-center-stage
 - 2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent
+- 2026-05-18-openai-established-the-openai-deployment-company-a-majority
 - 2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product
 embedding_id: 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
 event_name: ''
@@ -41,5 +42,5 @@ The center of gravity in AI shifted visibly from model launches to deployment, c
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]]
+**Related:** [[2026-07-04-deployment-silicon-power-take-center-stage]] · [[2026-05-10-openai-anthropic-launch-rival-enterprise-services-joint-vent]] · [[2026-05-18-openai-established-the-openai-deployment-company-a-majority]] · [[2026-05-11-openai-anthropic-bet-14-billion-on-enterprise-ai-the-product]]
 <!-- graph:end -->

@@ -31,10 +31,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
+- 2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows
 - event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent
 - 2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape
-- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 embedding_id: 2026-04-22-the-april-21-copilot-release-notes-introduced-new-admin-cont
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Meta Installs Keystroke & Screen Capture Software on Employee PCs for AI Trainin
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]] · [[2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-ai-native-windows]] · [[event-microsoft-build-2026-preview-microsoft-build-2026-preview-copilot-and-microsoft-365-agent]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]]
 <!-- graph:end -->

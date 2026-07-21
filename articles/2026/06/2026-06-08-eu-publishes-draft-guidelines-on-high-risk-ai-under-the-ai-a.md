@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
+- 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
-- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
-- 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 embedding_id: 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The European Commission published draft guidelines defining high-risk AI systems
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]]
+**Related:** [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]]
 <!-- graph:end -->

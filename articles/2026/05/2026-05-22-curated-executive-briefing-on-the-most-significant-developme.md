@@ -41,8 +41,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
+- 2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up
 - 2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t
-- 2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as
 embedding_id: 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 event_name: ''
 ---
@@ -56,5 +56,5 @@ event_name: ''
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]] · [[2026-05-28-anthropic-raises-65b-at-965b-valuation-surpassing-openai-as]]
+**Related:** [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
 <!-- graph:end -->

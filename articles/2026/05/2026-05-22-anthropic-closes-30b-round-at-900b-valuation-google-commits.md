@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open
 - 2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope
 - 2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o
-- 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
+- 2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr
 embedding_id: 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic finalized a $30 billion financing led by Sequoia, Dragoneer, Greenoaks
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-05-15-anthropic-closing-30b-round-at-900b-valuation-surpasses-open]] · [[2026-05-25-anthropic-closing-30b-round-at-900b-valuation-surpassing-ope]] · [[2026-05-25-anthropic-finalizing-30b-round-at-900b-valuation-would-top-o]] · [[2026-05-26-anthropic-is-expected-to-close-its-30b-funding-round-at-a-pr]]
 <!-- graph:end -->

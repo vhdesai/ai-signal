@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017
 - 2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201
-- 2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado
-- 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
+- 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 embedding_id: 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT disclosed a 20% year-over-year decline in incoming graduate students, a tren
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-05-12-stanford-hai-2026-ai-index-swe-bench-near-100-enterprise-ado]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
+**Related:** [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-04-hotai-researcher-inflow-to-us-down-89-since-2017]] · [[2026-05-22-stanford-ai-index-us-ai-researcher-inflow-drops-89-since-201]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]]
 <!-- graph:end -->

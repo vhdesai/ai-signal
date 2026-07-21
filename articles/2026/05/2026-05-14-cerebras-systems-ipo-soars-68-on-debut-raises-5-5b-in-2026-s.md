@@ -31,8 +31,8 @@ related_article_ids:
 - 2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68
 - 2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb
 - 2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record
+- 2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale
 - 2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets
-- 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
 embedding_id: 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Cerebras Systems, the AI chip startup challenging Nvidia's GPU dominance with wa
 
 **Entities:** [[ByteDance]] · [[Cerebras]] · [[DeepSeek]] · [[NVIDIA]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]]
+**Related:** [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68]] · [[2026-05-22-cerebras-completes-largest-tech-ipo-of-2026-surges-68-on-deb]] · [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record]] · [[2026-05-18-cerebras-the-ai-chip-startup-best-known-for-its-wafer-scale]] · [[2026-04-26-cerebras-ipo-roadshow-underway-22-25b-nasdaq-listing-targets]]
 <!-- graph:end -->

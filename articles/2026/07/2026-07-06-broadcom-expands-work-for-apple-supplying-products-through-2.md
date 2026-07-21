@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
 - 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
+- 2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei
 - 2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu
 embedding_id: 2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple reportedly extended its Broadcom partnership across multiple product gener
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-06-04-foxconn-and-intel-partner-on-next-generation-ai-infrastructu]]
+**Related:** [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]] · [[2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei]] · [[2026-05-25-apple-s-gemini-for-siri-deal-continues-to-reshape-apple-s-ai]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]]
 <!-- graph:end -->

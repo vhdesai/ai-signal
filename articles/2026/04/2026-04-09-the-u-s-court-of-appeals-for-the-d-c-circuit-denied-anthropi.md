@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
+- 2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in
+- 2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b
 - 2026-04-08-ai-safety-policy
-- 2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent
-- 2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously
-- 2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous
-- 2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth
+- 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 embedding_id: 2026-04-09-the-u-s-court-of-appeals-for-the-d-c-circuit-denied-anthropi
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Florida AG Launches OpenAI Investigation Over ChatGPT's Role in FSU Shooting
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-08-ai-safety-policy]] · [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent]] · [[2026-05-02-hotpentagon-signs-ai-contracts-with-8-vendors-conspicuously]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth]]
+**Related:** [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]] · [[2026-03-24-a-federal-hearing-is-underway-today-before-judge-rita-lin-in]] · [[2026-03-28-a-federal-court-granted-anthropic-a-preliminary-injunction-b]] · [[2026-04-08-ai-safety-policy]] · [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]]
 <!-- graph:end -->

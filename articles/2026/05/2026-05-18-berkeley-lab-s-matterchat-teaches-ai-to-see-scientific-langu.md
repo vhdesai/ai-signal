@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
 embedding_id: 2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Berkeley Lab unveiled MatterChat, a multimodal model designed to interpret the s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel]]
 <!-- graph:end -->

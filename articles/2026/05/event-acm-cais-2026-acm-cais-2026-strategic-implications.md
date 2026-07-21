@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - event-acm-cais-2026-acm-cais-2026-overview
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
+- 2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
 - 2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen
-- event-microsoft-build-2026-microsoft-build-2026-strategic-implications
 embedding_id: event-acm-cais-2026-acm-cais-2026-strategic-implications
 event_name: ACM CAIS 2026
 ---
@@ -41,5 +41,5 @@ Research-to-product pipeline: CAIS research maps directly onto enterprise agent 
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-acm-cais-2026-acm-cais-2026-overview]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]] · [[event-microsoft-build-2026-microsoft-build-2026-strategic-implications]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-overview]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[2026-05-14-acm-cais-2026-berkeley-mit-cmu-papers-advance-multi-agent-sy]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-acm-cais-2026-uc-berkeley-mit-optimize-anything-unifies-agen]]
 <!-- graph:end -->

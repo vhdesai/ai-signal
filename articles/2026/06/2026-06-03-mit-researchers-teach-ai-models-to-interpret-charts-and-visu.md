@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati
 - 2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than
 - 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
-- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 embedding_id: 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT researchers published work on training AI models to accurately interpret cha
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]] · [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]]
+**Related:** [[2026-06-03-mit-s-chartnet-dataset-aims-to-improve-ai-chart-interpretati]] · [[2026-06-03-mit-s-chartnet-helps-smaller-models-read-charts-better-than]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]]
 <!-- graph:end -->

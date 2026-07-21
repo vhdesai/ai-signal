@@ -24,10 +24,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us
 embedding_id: 2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Enterprises are beginning to throttle once-unconstrained AI spend, with companie
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]]
+**Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-06-26-startup-lindy-drops-claude-entirely-for-deepseek-as-ai-cost]] · [[2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us]]
 <!-- graph:end -->

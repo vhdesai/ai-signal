@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co
+- 2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor
+- 2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in
+- 2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in
 - 2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026
-- 2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth
-- 2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue
-- 2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on
-- 2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave
 embedding_id: 2026-05-21-databricks-ranks-3-on-cnbc-disruptor-50-hits-5-4b-run-rate-s
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Databricks holds the #3 spot on CNBC's 2026 Disruptor 50 (behind Anthropic and O
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-with-80-yoy-revenue-growth]] · [[2026-05-19-anthropic-tops-cnbc-disruptor-50-1-over-openai-on-80-revenue]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-05-23-spacex-openai-and-anthropic-line-up-for-4t-ipo-wave]]
+**Related:** [[2026-07-17-databricks-is-reported-announced-at-a-188b-valuation-with-co]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]] · [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-05-18-trending-anthropic-tops-cnbc-disruptor-50-for-2026]]
 <!-- graph:end -->

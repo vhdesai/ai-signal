@@ -26,8 +26,8 @@ related_article_ids:
 - event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild
 - event-acm-cais-2026-acm-cais-2026-strategic-implications
 - 2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma
+- 2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on
 - event-acm-cais-2026-acm-cais-2026-optany-optimize-anything
-- 2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on
 embedding_id: event-acm-cais-2026-acm-cais-2026-overview
 event_name: ACM CAIS 2026
 ---
@@ -41,5 +41,5 @@ ACM CAIS 2026 is the corpus's most repeated research-oriented event, with 49 men
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]]
+**Related:** [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]] · [[event-acm-cais-2026-acm-cais-2026-strategic-implications]] · [[2026-05-20-acm-cais-2026-premier-agentic-ai-systems-conference-opens-ma]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[event-acm-cais-2026-acm-cais-2026-optany-optimize-anything]]
 <!-- graph:end -->

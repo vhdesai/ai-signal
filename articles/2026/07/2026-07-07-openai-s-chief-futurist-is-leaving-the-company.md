@@ -20,9 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
-- 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
+- 2026-03-09-openai-robotics-head-quits-over-defense-dept
+- 2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the
 embedding_id: 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
 event_name: ''
 ---
@@ -36,5 +38,5 @@ WIRED reported that Joshua Achiam, OpenAI’s Chief Futurist and a long-tenured 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets]]
+**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-03-09-openai-robotics-head-quits-over-defense-dept]] · [[2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the]]
 <!-- graph:end -->

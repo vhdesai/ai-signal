@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 - 2026-04-23-researchers-released-ruview-a-framework-using-standard-wifi
 - 2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
-- 2026-04-23-the-most-important-ai-developments-across-industry-research
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
+- 2026-04-10-ai-safety-policy-anthropic-project-glasswing-100m-initiative
 embedding_id: 2026-04-23-the-thunderbird-team-released-thunderbolt-an-open-source-ai
 event_name: ''
 ---
@@ -45,5 +45,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-23-researchers-released-ruview-a-framework-using-standard-wifi]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-23-the-most-important-ai-developments-across-industry-research]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-04-23-researchers-released-ruview-a-framework-using-standard-wifi]] · [[2026-05-19-cloudflare-anthropic-s-mythos-preview-finds-exploit-chains-m]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-10-ai-safety-policy-anthropic-project-glasswing-100m-initiative]]
 <!-- graph:end -->

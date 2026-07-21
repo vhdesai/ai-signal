@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 - 2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code
-- 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 embedding_id: 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic CFO Krishna Rao disclosed today that over 90% of the company's interna
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]]
+**Related:** [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]] · [[2026-06-19-anthropic-brings-live-shareable-artifacts-to-claude-code]]
 <!-- graph:end -->

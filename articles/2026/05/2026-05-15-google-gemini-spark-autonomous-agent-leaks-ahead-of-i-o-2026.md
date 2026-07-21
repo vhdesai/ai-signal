@@ -21,7 +21,7 @@ entities:
 themes: []
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-05-15-gemini-spark-agent-spotted-ahead-of-google-i-o-2026
+canonical_article_id: 2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom
 related_article_ids: []
 embedding_id: 2026-05-15-google-gemini-spark-autonomous-agent-leaks-ahead-of-i-o-2026
 event_name: ''
@@ -35,5 +35,5 @@ A pre-launch leak reveals a new autonomous Google agent called Gemini Spark, exp
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Canonical:** [[2026-05-15-gemini-spark-agent-spotted-ahead-of-google-i-o-2026]]
+**Canonical:** [[2026-05-15-a-pre-launch-leak-reveals-google-is-developing-a-new-autonom]]
 <!-- graph:end -->

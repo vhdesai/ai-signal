@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade
 - 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app
+- 2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex
 embedding_id: 2026-05-14-openai-codex-work-from-anywhere-expansion
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published a product update enabling developers to work with Codex from an
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-07-09-openai-launches-chatgpt-work-a-white-collar-super-app]]
+**Related:** [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-upgrade]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]] · [[2026-05-15-openai-announced-that-its-ai-powered-coding-assistant-codex]]
 <!-- graph:end -->

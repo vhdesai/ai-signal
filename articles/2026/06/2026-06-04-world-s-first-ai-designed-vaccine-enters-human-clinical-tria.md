@@ -22,6 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
+- 2026-07-20-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact
+- 2026-07-21-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact
 embedding_id: 2026-06-04-world-s-first-ai-designed-vaccine-enters-human-clinical-tria
 event_name: ''
 ---
@@ -34,5 +36,5 @@ A vaccine designed entirely by AI has entered human clinical trials, targeting a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]]
+**Related:** [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-07-20-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact]] · [[2026-07-21-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact]]
 <!-- graph:end -->

@@ -37,9 +37,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-daily-ai-news-digest-july-9-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
+- 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
 - 2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf
-- 2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
+- 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 embedding_id: 2026-07-07-see-the-original-digest-email-for-the-complete-content-with
 event_name: ''
 ---
@@ -53,5 +53,5 @@ event_name: ''
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Meta]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-07-08-us-china-ai-split-hardens-as-openai-clears-gpt-5-6-for-publi]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
+**Related:** [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]] · [[2026-04-22-an-internal-model-selection-menu-inside-openai-s-codex-platf]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
 <!-- graph:end -->

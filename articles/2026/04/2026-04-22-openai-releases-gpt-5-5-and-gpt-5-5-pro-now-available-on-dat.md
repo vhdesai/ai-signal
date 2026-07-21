@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding
-- 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
-- 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
-- 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
-- 2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9
+- 2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice
+- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
+- 2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release
+- 2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on
 embedding_id: 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI released GPT-5.5 and GPT-5.5 Pro on April 22, bringing the company "one s
 
 **Entities:** [[Databricks]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a]] · [[2026-07-08-openai-to-publicly-release-gpt-5-6-sol-terra-luna-on-july-9]]
+**Related:** [[2026-05-26-leaks-indicate-claude-opus-4-8-enhances-visual-understanding]] · [[2026-07-10-openai-launched-gpt-5-6-sol-terra-luna-models-gpt-live-voice]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]] · [[2026-04-10-april-2026-is-tracking-as-a-landmark-month-for-model-release]] · [[2026-05-17-openai-s-gpt-5-5-instant-became-the-default-chatgpt-model-on]]
 <!-- graph:end -->

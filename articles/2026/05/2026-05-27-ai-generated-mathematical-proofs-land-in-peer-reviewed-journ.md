@@ -21,7 +21,6 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
 - 2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er
-- 2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr
 embedding_id: 2026-05-27-ai-generated-mathematical-proofs-land-in-peer-reviewed-journ
 event_name: ''
 ---
@@ -34,5 +33,5 @@ Axios reports that proofs produced by an AI math startup are now appearing in pe
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]] · [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]]
+**Related:** [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-05-20-openai-reasoning-model-autonomously-disproves-80-year-old-er]]
 <!-- graph:end -->

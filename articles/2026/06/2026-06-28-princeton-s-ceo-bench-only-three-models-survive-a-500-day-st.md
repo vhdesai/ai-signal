@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
 - 2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running
+- 2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-bankrupt-runni
 - 2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-04-15-research-breakthroughs
-- 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
 embedding_id: 2026-06-28-princeton-s-ceo-bench-only-three-models-survive-a-500-day-st
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Princeton researchers introduced CEO-Bench, a long-horizon agent test in which a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-15-research-breakthroughs]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]]
+**Related:** [[2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai]] · [[2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-broke-running]] · [[2026-06-29-princeton-s-ceo-bench-most-frontier-models-go-bankrupt-runni]] · [[2026-04-23-georgia-tech-and-ut-austin-release-open-benchmark-for-multi]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

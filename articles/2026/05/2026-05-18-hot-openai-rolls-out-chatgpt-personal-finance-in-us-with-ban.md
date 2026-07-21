@@ -21,7 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c
 - 2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr
+- 2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u
 embedding_id: 2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban
 event_name: ''
 ---
@@ -35,5 +37,5 @@ OpenAI is rolling out a Personal Finance feature in ChatGPT to US Pro subscriber
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]]
+**Related:** [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]] · [[2026-05-15-chatgpt-launches-personal-finance-dashboard-via-plaid-integr]] · [[2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u]]
 <!-- graph:end -->

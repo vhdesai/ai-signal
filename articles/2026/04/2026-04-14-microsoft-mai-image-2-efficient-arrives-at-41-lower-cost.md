@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost
+- 2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su
+- 2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun
+- 2026-04-10-microsoft-ai-released-three-proprietary-foundational-models
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
-- 2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20
-- 2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20
 embedding_id: 2026-04-14-microsoft-mai-image-2-efficient-arrives-at-41-lower-cost
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft's MAI Superintelligence Team released MAI-Image-2-Efficient in Foundry
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-05-30-microsoft-lines-up-an-expanded-mai-model-family-for-build-20]] · [[2026-06-02-microsoft-set-to-debut-in-house-mai-model-family-at-build-20]]
+**Related:** [[2026-04-14-microsoft-mai-image-2-efficient-rolls-out-at-41-lower-cost]] · [[2026-04-03-microsoft-s-mai-superintelligence-team-led-by-ceo-mustafa-su]] · [[2026-04-04-microsoft-ai-led-by-ceo-mustafa-suleiman-released-three-foun]] · [[2026-04-10-microsoft-ai-released-three-proprietary-foundational-models]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]]
 <!-- graph:end -->

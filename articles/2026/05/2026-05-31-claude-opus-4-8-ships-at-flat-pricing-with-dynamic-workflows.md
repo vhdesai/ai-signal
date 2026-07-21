@@ -22,6 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen
 - 2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an
 embedding_id: 2026-05-31-claude-opus-4-8-ships-at-flat-pricing-with-dynamic-workflows
 event_name: ''
@@ -36,5 +37,5 @@ Anthropic released Claude Opus 4.8 on May 28 — 41 days after 4.7, its fastest 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
+**Related:** [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]]
 <!-- graph:end -->

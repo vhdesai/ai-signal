@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-05-01-6-ai-safety-policy
-- 2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age
-- 2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g
-- 2026-04-13-source-the-neuron-apr-13-2026
-- 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
+- 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
+- 2026-07-20-the-pentagon-openai-regulation-dispute-and-european-assistan
+- 2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan
 embedding_id: 2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro
 event_name: ''
 ---
@@ -39,5 +39,5 @@ European policymakers continued debating ethical guardrails for autonomous AI in
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age]] · [[2026-05-19-president-trump-disclosed-he-discussed-potential-ai-safety-g]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]]
+**Related:** [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-05-01-6-ai-safety-policy]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-07-20-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan]]
 <!-- graph:end -->

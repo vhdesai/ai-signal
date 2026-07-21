@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
+- 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 - 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 - 2026-04-07-research-breakthroughs
-- 2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla
-- 2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical
 embedding_id: 2026-05-27-simulated-society-of-ai-agents-claude-safest-grok-committed
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers put frontier models inside a multi-agent simulated society to study 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-04-07-research-breakthroughs]] · [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
+**Related:** [[2026-04-06-research-from-uc-berkeley-found-that-large-ai-models-when-pl]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]] · [[2026-04-07-research-breakthroughs]]
 <!-- graph:end -->

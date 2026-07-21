@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
+- 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
 - 2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o
 embedding_id: 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 event_name: ''
@@ -35,5 +36,5 @@ First publicly demonstrated end-to-end pipeline from GPU training through world 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o]]
+**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-06-17-nvidia-enpire-ai-agents-autonomously-run-robotics-research-o]]
 <!-- graph:end -->
