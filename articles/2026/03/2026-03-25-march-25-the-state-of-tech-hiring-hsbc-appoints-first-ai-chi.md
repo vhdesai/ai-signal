@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
 - 2026-03-09-march-9-kroger-adds-ai-chief-tech-jobs-rebound-2026-03-09-ci
 - 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
 - 2026-03-25-safe-migration-from-vmware-see-migration-process-details
 - 2026-05-01-we-had-an-ai-agent-do-our-job-2026-05-01-business-insider
-- 2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f
 embedding_id: 2026-03-25-march-25-the-state-of-tech-hiring-hsbc-appoints-first-ai-chi
 event_name: ''
 ---
@@ -34,5 +34,5 @@ March 25 - The state of tech hiring | HSBC appoints first AI chief [2026-03-25] 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-09-march-9-kroger-adds-ai-chief-tech-jobs-rebound-2026-03-09-ci]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-03-25-safe-migration-from-vmware-see-migration-process-details]] · [[2026-05-01-we-had-an-ai-agent-do-our-job-2026-05-01-business-insider]] · [[2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f]]
+**Related:** [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]] · [[2026-03-09-march-9-kroger-adds-ai-chief-tech-jobs-rebound-2026-03-09-ci]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-03-25-safe-migration-from-vmware-see-migration-process-details]] · [[2026-05-01-we-had-an-ai-agent-do-our-job-2026-05-01-business-insider]]
 <!-- graph:end -->

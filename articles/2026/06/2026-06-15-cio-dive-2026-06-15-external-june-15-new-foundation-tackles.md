@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 - 2026-06-12-cio-dive-2026-06-12-external-june-12-rising-ai-costs-push-ve
 - 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
-- 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
-- 2026-06-26-cio-dive-2026-06-26-external-june-26-ice-cream-titan-sets-it
+- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 embedding_id: 2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-06-15] [EXTERNAL] June 15 - New foundation tackles token costs 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-12-cio-dive-2026-06-12-external-june-12-rising-ai-costs-push-ve]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-06-26-cio-dive-2026-06-26-external-june-26-ice-cream-titan-sets-it]]
+**Related:** [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-06-12-cio-dive-2026-06-12-external-june-12-rising-ai-costs-push-ve]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]]
 <!-- graph:end -->

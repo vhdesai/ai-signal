@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
+- 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 - 2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
-- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 embedding_id: 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
 event_name: ''
 ---
@@ -40,5 +40,5 @@ As flagship model prices soar, enterprise customers are aggressively optimizing 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
+**Related:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]]
 <!-- graph:end -->

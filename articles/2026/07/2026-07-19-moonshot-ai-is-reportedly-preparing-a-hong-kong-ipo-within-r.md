@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i
+- 2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
+- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor
-- 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
 embedding_id: 2026-07-19-moonshot-ai-is-reportedly-preparing-a-hong-kong-ipo-within-r
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Moonshot AI is reportedly preparing a Hong Kong IPO within roughly six months, w
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]]
+**Related:** [[2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i]] · [[2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]]
 <!-- graph:end -->

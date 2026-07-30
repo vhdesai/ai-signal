@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-25-inside-amazon-s-hardcore-transformation-jacob-zinkula-busine
 - 2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou
+- 2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar
 - 2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th
 embedding_id: 2026-04-25-inside-amazon-s-hardcore-transformation-2026-04-25-business
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Inside Amazon’s hardcore transformation [2026-04-25] · Business Insider
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-04-25-inside-amazon-s-hardcore-transformation-jacob-zinkula-busine]] · [[2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th]]
+**Related:** [[2026-04-25-inside-amazon-s-hardcore-transformation-jacob-zinkula-busine]] · [[2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou]] · [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
-- 2026-05-20-scaling-laws-for-embodied-ai
 embedding_id: 2026-05-15-figure-ai-humanoid-sorts-packages-on-24-hour-livestream-watc
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Figure AI live-streamed its humanoid robots performing package-sorting tasks; th
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-20-scaling-laws-for-embodied-ai]]
+**Related:** [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
 <!-- graph:end -->

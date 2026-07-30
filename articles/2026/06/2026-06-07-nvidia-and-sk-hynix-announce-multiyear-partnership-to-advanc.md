@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
+- 2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 embedding_id: 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia and SK hynix announced a multiyear technology partnership to co-develop n
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-sign-multiyear-memory-partnership-for-ai]] · [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-25-nvidia-locks-down-sk-hynix-memory-supply-in-a-deal-potential]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

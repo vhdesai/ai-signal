@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and
+- 2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava
+- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
-- 2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c
-- 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
-- 2026-07-10-chatgpt-work-launches-after-u-s-government-approval
 embedding_id: 2026-05-26-california-state-university-renews-systemwide-openai-contrac
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CSU renewed its disputed system-wide ChatGPT contract despite faculty pushback o
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-05-14-openai-forces-chatgpt-mac-app-update-after-tanstack-supply-c]] · [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-07-10-chatgpt-work-launches-after-u-s-government-approval]]
+**Related:** [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and]] · [[2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-06-22-samsung-deploys-chatgpt-enterprise-and-codex-one-of-openai-s]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]]
 <!-- graph:end -->

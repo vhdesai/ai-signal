@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
-- 2026-05-28-amnesty-says-major-generative-ai-data-pipelines-are-privacy
-- 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
-- 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
+- 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h
+- 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
+- 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
+- 2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went
 embedding_id: 2026-07-19-hugging-face-discloses-an-autonomous-agent-breach-of-its-dat
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Hugging Face discloses an autonomous-agent breach of its data pipeline, an early
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]] · [[2026-05-28-amnesty-says-major-generative-ai-data-pipelines-are-privacy]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]]
+**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]]
 <!-- graph:end -->

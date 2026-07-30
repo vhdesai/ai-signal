@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-03-10-view-in-web-browser-the-wall-street-journal-nvidia-invests-i
 - 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 - 2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps
-- 2026-07-08-the-information-2026-07-08-external-china-plans-to-let-top-a
+- 2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio
 embedding_id: 2026-03-13-view-in-web-browser-the-wall-street-journal-musk-says-xai-mu
 event_name: ''
 ---
@@ -44,5 +44,5 @@ View in web browser › - The Wall Street Journal - Musk Says xAI Must Be Rebuil
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[ByteDance]] · [[Cerebras]] · [[NVIDIA]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-03-10-view-in-web-browser-the-wall-street-journal-nvidia-invests-i]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps]] · [[2026-07-08-the-information-2026-07-08-external-china-plans-to-let-top-a]]
+**Related:** [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-03-10-view-in-web-browser-the-wall-street-journal-nvidia-invests-i]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps]] · [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio]]
 <!-- graph:end -->

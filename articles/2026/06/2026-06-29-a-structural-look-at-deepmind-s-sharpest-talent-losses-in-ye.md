@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an
 - 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
 - 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 - 2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a
 - 2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met
-- 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
 embedding_id: 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
 event_name: ''
 ---
@@ -41,5 +41,5 @@ A structural look at DeepMind's sharpest talent losses in years: Denny Zhou and 
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a]] · [[2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]]
+**Related:** [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a]] · [[2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met]]
 <!-- graph:end -->

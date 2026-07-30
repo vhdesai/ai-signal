@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave
 - 2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
 - 2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
-- 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
 embedding_id: 2026-05-27-microsoft-consolidates-excel-copilot-entry-points-with-new-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's May 2026 Excel update consolidates Copilot entry points down to two 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
+**Related:** [[2026-07-28-microsoft-ships-a-july-2026-excel-copilot-feature-wave]] · [[2026-05-27-microsoft-ships-excel-copilot-redesign-with-live-web-data-fo]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]]
 <!-- graph:end -->

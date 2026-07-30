@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
 - 2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite
 - 2026-05-09-the-atlantic-the-decoder-may-9-2026
+- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-06-30-june-29-2026-the-information-via-the-next-web
-- 2026-05-09-tldl-simon-willison-may-7-2026
 embedding_id: 2026-05-30-the-death-of-the-watercooler-2026-05-30-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ The death of the watercooler [2026-05-30] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]] · [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-05-09-the-atlantic-the-decoder-may-9-2026]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-05-09-tldl-simon-willison-may-7-2026]]
+**Related:** [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]] · [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-05-09-the-atlantic-the-decoder-may-9-2026]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]]
 <!-- graph:end -->

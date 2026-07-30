@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
 - 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
-- 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
-- 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
-- 2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag
+- 2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
+- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 embedding_id: 2026-06-02-cio-dive-2026-06-02-external-why-enterprise-ai-projects-take
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive - [2026-06-02] [EXTERNAL] Why enterprise AI projects take months (and h
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag]]
+**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]]
 <!-- graph:end -->

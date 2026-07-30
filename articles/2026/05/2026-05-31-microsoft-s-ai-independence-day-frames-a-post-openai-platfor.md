@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information described Microsoft’s effort to demonstrate that its AI platfo
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
 <!-- graph:end -->

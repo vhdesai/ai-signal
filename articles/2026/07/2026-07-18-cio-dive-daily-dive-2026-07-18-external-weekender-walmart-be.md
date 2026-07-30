@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
 - 2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build
 - 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
-- 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 embedding_id: 2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive / Daily Dive - [2026-07-18] [EXTERNAL] Weekender: Walmart bets on AI an
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]]
+**Related:** [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]]
 <!-- graph:end -->

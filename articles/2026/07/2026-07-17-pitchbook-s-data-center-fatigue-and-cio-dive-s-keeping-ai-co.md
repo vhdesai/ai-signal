@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-data-center-fatigue-self-learning-factories-qumulusai-listin
+- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad
 - 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
-- 2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue
-- 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
+- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 embedding_id: 2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook's Data center fatigue and CIO Dive's keeping AI costs in check coverag
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-data-center-fatigue-self-learning-factories-qumulusai-listin]] · [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]]
+**Related:** [[2026-07-17-data-center-fatigue-self-learning-factories-qumulusai-listin]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
 <!-- graph:end -->

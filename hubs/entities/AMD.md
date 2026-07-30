@@ -1,13 +1,30 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 45
+member_count: 62
 ---
 
 # AMD
 
-> Auto-generated entity hub. 45 connected article(s).
+> Auto-generated entity hub. 62 connected article(s).
 
+- `2026-07-28` [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow|Hyperscalers Forecast $5.3 Trillion Capex Through 2030; Borrowing $400B This Year Alone]]
+- `2026-07-28` [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient|AMD locks up 529 MW of data-center capacity from Core Scientific in $14B, 15-year deal]]
+- `2026-07-27` [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker|Global chip rout deepens; Korea's Kospi trips circuit-breaker]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub|Nvidia’s ‘Open Weights and American AI Leadership’ letter doubles to 50 signers, adding OpenAI and Google]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia|AMD unveils Helios rack-scale AI system to challenge Nvidia at the system level]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026|AMD unveils Helios rack-scale AI system at Advancing AI 2026]]
+- `2026-07-24` [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi|AMD Unveils Helios Rack-Scale AI System; OpenAI, Meta, Anthropic Preparing Deployments]]
+- `2026-07-23` [[2026-07-23-other-ai-related-publication-emails-2026-07-23-items-surface|Other AI-related Publication Emails - [2026-07-23] Items surfaced in Daily AI source coverage: OpenAI Presence, OpenAI…]]
+- `2026-07-23` [[2026-07-23-cerebras-and-amd-partner-on-low-latency-ai-systems-cerebras|Cerebras and AMD partner on low-latency AI systems; Cerebras shares rise]]
+- `2026-07-23` [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
+- `2026-07-23` [[2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut|AMD and Cerebras announce a disaggregated AI inference solution]]
+- `2026-07-22` [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal|AMD and Anthropic sign major chips-and-investment deal]]
+- `2026-07-21` [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and|Nvidia details Vera CPU, opening a new front against AMD and Intel]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
 - `2026-07-08` [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere|Hot French startup ZML releases free product to speed inference across lots of AI chips]]
 - `2026-07-06` [[2026-07-06-infrastructure-nvidia-s-flagship-kyber-nvl144-rack-slips-12|Infrastructure Nvidia's flagship Kyber NVL144 rack slips ~12 months to 2028 July 6, 2026 · The Next Web Nvidia has…]]

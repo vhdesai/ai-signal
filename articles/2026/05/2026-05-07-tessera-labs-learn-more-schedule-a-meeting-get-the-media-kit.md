@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-microsoft-viva-engage-2026-07-24-microsoft-daily-digest-2026
 - 2026-03-12-the-information-explore-our-newsletters
 - 2026-07-03-the-information-2026-07-03-external-top-posts-today-from-the
 - 2026-03-24-coverage-from-newsletter-subscriptions-for-2026-03-24
 - 2026-03-14-coverage-from-newsletter-subscriptions-for-2026-03-14
-- 2026-03-19-coverage-from-newsletter-subscriptions-for-2026-03-19
 embedding_id: 2026-05-07-tessera-labs-learn-more-schedule-a-meeting-get-the-media-kit
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Tessera Labs - Learn More → - Schedule a Meeting → - Get the media kit - swi
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-12-the-information-explore-our-newsletters]] · [[2026-07-03-the-information-2026-07-03-external-top-posts-today-from-the]] · [[2026-03-24-coverage-from-newsletter-subscriptions-for-2026-03-24]] · [[2026-03-14-coverage-from-newsletter-subscriptions-for-2026-03-14]] · [[2026-03-19-coverage-from-newsletter-subscriptions-for-2026-03-19]]
+**Related:** [[2026-07-24-microsoft-viva-engage-2026-07-24-microsoft-daily-digest-2026]] · [[2026-03-12-the-information-explore-our-newsletters]] · [[2026-07-03-the-information-2026-07-03-external-top-posts-today-from-the]] · [[2026-03-24-coverage-from-newsletter-subscriptions-for-2026-03-24]] · [[2026-03-14-coverage-from-newsletter-subscriptions-for-2026-03-14]]
 <!-- graph:end -->

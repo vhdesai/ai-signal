@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 - 2026-06-26-do-safety-guardrails-need-to-reason-leanguard-a-fast-and-lig
-- 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
+- 2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res
 embedding_id: 2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a long-form analysis arguing that the window for establishing
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-06-26-do-safety-guardrails-need-to-reason-leanguard-a-fast-and-lig]] · [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]]
+**Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-05-22-eu-anthropic-talks-on-mythos-offensive-security-model-stall]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-06-26-do-safety-guardrails-need-to-reason-leanguard-a-fast-and-lig]] · [[2026-07-24-ai-guardrails-are-impeding-legitimate-offensive-security-res]]
 <!-- graph:end -->

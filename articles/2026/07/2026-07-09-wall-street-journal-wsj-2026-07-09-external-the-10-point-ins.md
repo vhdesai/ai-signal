@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
 - 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
-- 2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the
-- 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
+- 2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b
 embedding_id: 2026-07-09-wall-street-journal-wsj-2026-07-09-external-the-10-point-ins
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Wall Street Journal / WSJ - [2026-07-09] [EXTERNAL] The 10-Point: Inside Graham 
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
+**Related:** [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b]]
 <!-- graph:end -->

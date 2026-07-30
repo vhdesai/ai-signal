@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 - 2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
+- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 embedding_id: 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ German startup Neura Robotics said it plans to raise up to €1B ($1.2B) in a ne
 
 **Entities:** [[OpenAI]] · [[Tesla]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
+**Related:** [[2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
 <!-- graph:end -->

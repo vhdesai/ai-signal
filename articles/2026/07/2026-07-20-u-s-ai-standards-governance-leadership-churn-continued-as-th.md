@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-21-u-s-ai-standards-governance-leadership-churn-continued-as-th
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
-- 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
+- 2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use
 embedding_id: 2026-07-20-u-s-ai-standards-governance-leadership-churn-continued-as-th
 event_name: ''
 ---
@@ -36,5 +36,5 @@ U.S. AI standards/governance leadership churn continued as the Center for AI Sta
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-21-u-s-ai-standards-governance-leadership-churn-continued-as-th]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail]]
+**Related:** [[2026-07-21-u-s-ai-standards-governance-leadership-churn-continued-as-th]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use]]
 <!-- graph:end -->

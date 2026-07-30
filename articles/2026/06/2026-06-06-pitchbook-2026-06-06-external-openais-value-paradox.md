@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 - 2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors
 - 2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait
+- 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
-- 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 embedding_id: 2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-06] [EXTERNAL] OpenAIs value paradox
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors]] · [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]]
+**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors]] · [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]] · [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]]
 <!-- graph:end -->

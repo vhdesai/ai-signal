@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-20-cio-dive-2026-06-20-external-weekender-aws-unveils-agent-sec
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 - 2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag
 - 2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw
-- 2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build
 embedding_id: 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-06-06] [EXTERNAL] Weekender: AI agents put cybersecurity framew
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-cio-dive-2026-06-20-external-weekender-aws-unveils-agent-sec]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag]] · [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]]
+**Related:** [[2026-06-20-cio-dive-2026-06-20-external-weekender-aws-unveils-agent-sec]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag]] · [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]]
 <!-- graph:end -->

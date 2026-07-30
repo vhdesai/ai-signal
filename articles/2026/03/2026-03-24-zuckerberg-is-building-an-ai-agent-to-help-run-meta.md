@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-mark-zuckerberg-is-personally-testing-a-ceo-agent-that-autom
+- 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
+- 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
-- 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
-- 2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom
-- 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
+- 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
 embedding_id: 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Zuckerberg Is Building an AI Agent to Help Run Meta
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-03-24-mark-zuckerberg-is-personally-testing-a-ceo-agent-that-autom]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]]
+**Related:** [[2026-03-24-mark-zuckerberg-is-personally-testing-a-ceo-agent-that-autom]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]]
 <!-- graph:end -->

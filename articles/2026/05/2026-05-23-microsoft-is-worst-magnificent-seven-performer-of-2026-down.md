@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
 - 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
+- 2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr
 embedding_id: 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 event_name: ''
 ---
@@ -40,5 +41,5 @@ Microsoft has lagged the rest of the Magnificent Seven this year even as its AI 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]]
+**Related:** [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-07-29-microsoft-s-fiscal-q4-beat-lifts-shares-8-as-it-raises-ai-dr]]
 <!-- graph:end -->

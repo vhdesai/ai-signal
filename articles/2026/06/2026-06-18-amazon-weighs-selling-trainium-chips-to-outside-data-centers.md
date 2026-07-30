@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
+- 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 - 2026-04-09-products-tools
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 - 2026-03-31-cerebras-eyes-april-ipo-at-15-22b-valuation-aws-partnership
-- 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 embedding_id: 2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS AI chief says Amazon in early talks to sell Trainium externally. CEO Jassy f
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-04-09-products-tools]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-03-31-cerebras-eyes-april-ipo-at-15-22b-valuation-aws-partnership]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
+**Related:** [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-04-09-products-tools]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-03-31-cerebras-eyes-april-ipo-at-15-22b-valuation-aws-partnership]]
 <!-- graph:end -->

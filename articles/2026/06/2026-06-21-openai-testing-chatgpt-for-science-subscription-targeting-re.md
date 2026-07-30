@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 - 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
-- 2026-05-18-openai-blog-theaitrack-research-breakthroughs
-- 2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint
+- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava
 embedding_id: 2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI Testing "ChatGPT for Science" Subscription Targeting Research Institution
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-05-18-openai-blog-theaitrack-research-breakthroughs]] · [[2026-05-25-openai-quietly-launched-a-beta-chatgpt-add-in-for-powerpoint]]
+**Related:** [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava]]
 <!-- graph:end -->

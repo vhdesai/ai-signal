@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
 - 2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round
+- 2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin
 - 2026-06-19-wall-street-journal-wsj-2026-06-19-external-your-daily-round
 - 2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round
-- 2026-06-26-wall-street-journal-wsj-2026-06-26-external-your-daily-round
 embedding_id: 2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wall Street Journal / WSJ - [2026-06-27] [EXTERNAL] Your daily roundup from WSJ 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-06-19-wall-street-journal-wsj-2026-06-19-external-your-daily-round]] · [[2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round]] · [[2026-06-26-wall-street-journal-wsj-2026-06-26-external-your-daily-round]]
+**Related:** [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin]] · [[2026-06-19-wall-street-journal-wsj-2026-06-19-external-your-daily-round]] · [[2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-30-digital-realty-to-pay-blackstone-3-5b-for-a-larger-stake-in
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
-- 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
-- 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
+- 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
+- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 embedding_id: 2026-06-30-digital-realty-agreed-to-acquire-a-majority-stake-in-three-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Digital Realty agreed to acquire a majority stake in three fully-leased Northern
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-digital-realty-to-pay-blackstone-3-5b-for-a-larger-stake-in]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]]
+**Related:** [[2026-06-30-digital-realty-to-pay-blackstone-3-5b-for-a-larger-stake-in]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
 <!-- graph:end -->

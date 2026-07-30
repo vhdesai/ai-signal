@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
+- 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
-- 2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps
 embedding_id: 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft is reportedly preparing a Copilot overhaul that would consolidate its 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]]
 <!-- graph:end -->

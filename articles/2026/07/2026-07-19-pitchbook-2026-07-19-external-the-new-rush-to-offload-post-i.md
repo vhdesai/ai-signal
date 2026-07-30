@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
+- 2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
-- 2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew
-- 2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns
 embedding_id: 2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-19] [EXTERNAL] The new rush to offload post-IPO shares
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew]] · [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]]
+**Related:** [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]]
 <!-- graph:end -->

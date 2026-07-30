@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
 - 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
+- 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
+- 2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
-- 2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
-- 2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
 embedding_id: 2026-07-17-moonshot-ai-releases-kimi-k3-a-reported-2-8t-parameter-open
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Moonshot AI releases Kimi K3, a reported 2.8T-parameter open MoE model with Kimi
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-17-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]] · [[2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
+**Related:** [[2026-07-17-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race]] · [[2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]]
 <!-- graph:end -->

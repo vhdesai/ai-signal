@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 - 2026-07-17-bipartisan-lawmakers-push-human-oversight-for-ai-weapons-rei
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
-- 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
+- 2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations
 embedding_id: 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Researchers published work proposing a human-in-the-loop AI framework for monito
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-07-17-bipartisan-lawmakers-push-human-oversight-for-ai-weapons-rei]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]]
+**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]] · [[2026-07-17-bipartisan-lawmakers-push-human-oversight-for-ai-weapons-rei]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-07-24-mit-researcher-works-to-automate-nuclear-plant-operations]]
 <!-- graph:end -->

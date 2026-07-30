@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-apple-showcases-stereofoley-multilingual-speech-ssl-speculat
+- 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
+- 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
 - 2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
-- 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
-- 2026-05-26-stability-ai-releases-stable-audio-3
 embedding_id: 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple's machine learning research team published three papers at ICASSP 2026 cov
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-apple-showcases-stereofoley-multilingual-speech-ssl-speculat]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-05-26-stability-ai-releases-stable-audio-3]]
+**Related:** [[2026-05-02-apple-showcases-stereofoley-multilingual-speech-ssl-speculat]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]]
 <!-- graph:end -->

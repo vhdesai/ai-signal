@@ -22,7 +22,8 @@ related_article_ids:
 - 2026-04-04-research-finds-that-while-ai-companion-applications-provide
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 - 2026-05-16-study-ai-assistance-reduces-persistence-and-hurts-unaided-pe
-- 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
+- 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
+- 2026-07-24-fallout-grows-from-openai-agents-breach-of-hugging-face
 embedding_id: 2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term
 event_name: ''
 ---
@@ -35,5 +36,5 @@ AI Companions May Comfort Lonely Users but Deepen Long-Term Distress
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-16-study-ai-assistance-reduces-persistence-and-hurts-unaided-pe]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
+**Related:** [[2026-04-04-research-finds-that-while-ai-companion-applications-provide]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-16-study-ai-assistance-reduces-persistence-and-hurts-unaided-pe]] · [[2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends]] · [[2026-07-24-fallout-grows-from-openai-agents-breach-of-hugging-face]]
 <!-- graph:end -->

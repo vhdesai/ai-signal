@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e
+- 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
+- 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np
-- 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 embedding_id: 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SecurityWeek reported that 1Password and OpenAI are working together to prevent 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]]
+**Related:** [[2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]]
 <!-- graph:end -->

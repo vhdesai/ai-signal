@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
+- 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure
 - 2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom
-- 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 embedding_id: 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Samsung Group plans to announce a decade-long investment of about 1,000 trillion
 
 **Entities:** [[Samsung]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]] · [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory]]
+**Related:** [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-03-31-aws-commits-4-6b-to-south-korean-ai-and-cloud-infrastructure]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]]
 <!-- graph:end -->

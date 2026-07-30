@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
 - 2026-04-02-academic-research-mit-news
 - 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
+- 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 embedding_id: 2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology
 event_name: ''
 ---
@@ -36,5 +37,5 @@ MIT News recapped the first showcase of its Music Technology and Computation Gra
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-mit-holds-its-inaugural-music-technology-research-showcase-j]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-04-02-academic-research-mit-news]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]]
+**Related:** [[2026-06-30-mit-holds-its-inaugural-music-technology-research-showcase-j]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-04-02-academic-research-mit-news]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]]
 <!-- graph:end -->

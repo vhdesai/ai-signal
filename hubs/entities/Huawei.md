@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 152
+member_count: 157
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 152 connected article(s).
+> Auto-generated entity hub. 157 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-19` [[2026-07-19-huawei-atlas-950-superpod-and-nio-shenji-chip-activity-from|Huawei Atlas 950 SuperPoD and Nio/Shenji chip activity from WAIC reinforce China's push for domestic AI hardware…]]
 - `2026-07-18` [[2026-07-18-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen|Huawei unveils Atlas 950 SuperPoD at WAIC 2026, a 1,024-Ascend-chip AI supernode positioned as a domestic alternative…]]
 - `2026-07-17` [[2026-07-17-huawei-unveils-atlas-950-superpod-at-waic-2026-a-1-024-ascen|Huawei unveils Atlas 950 SuperPoD at WAIC 2026, a 1,024-Ascend-chip AI supernode positioned as a domestic alternative…]]

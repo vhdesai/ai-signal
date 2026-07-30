@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
-- 2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation
 embedding_id: 2026-06-18-baseten-nears-1-5b-round-at-13b-160-jump-in-6-months
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Third raise in a year. Customers include Cursor, Mercor, OpenEvidence. Reflects 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-05-04-cursor-in-talks-to-raise-2b-at-a-50b-valuation]]
+**Related:** [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]]
 <!-- graph:end -->

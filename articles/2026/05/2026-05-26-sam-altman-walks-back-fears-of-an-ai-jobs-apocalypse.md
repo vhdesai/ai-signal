@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 - 2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t
+- 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
+- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
-- 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 embedding_id: 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At the Australian Federation of Banks conference in Sydney, the OpenAI CEO said 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
+**Related:** [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-05-26-sam-altman-walks-back-jobs-apocalypse-says-he-is-delighted-t]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
 <!-- graph:end -->

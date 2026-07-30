@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 66
+member_count: 76
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 66 connected article(s).
+> Auto-generated entity hub. 76 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-24` [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and|Enterprise AI Consolidates as Infrastructure, Provenance, and Safety Take Center Stage]]
+- `2026-07-23` [[2026-07-23-microsoft-and-databricks-extend-their-partnership-into-the-2|Microsoft and Databricks extend their partnership into the 2030s]]
+- `2026-07-23` [[2026-07-23-databricks-extends-its-microsoft-azure-partnership-into-the|Databricks extends its Microsoft Azure partnership into the 2030s]]
+- `2026-07-23` [[2026-07-23-databricks-extends-microsoft-azure-partnership-into-the-2030|Databricks Extends Microsoft Azure Partnership into the 2030s]]
+- `2026-07-23` [[2026-07-23-daily-ai-news-digest-july-24-2026|Daily AI News Digest – July 24, 2026]]
 - `2026-07-20` [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor|Databricks' $188B valuation, Moonshot's IPO plans, and The Information coverage of Alphabet/SpaceX record equity sales…]]
 - `2026-07-18` [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in|Databricks reaches/raises at a $188B valuation, underlining investor conviction in enterprise data platforms as AI…]]
 - `2026-07-17` [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in|Databricks reaches/raises at a $188B valuation, underlining investor conviction in enterprise data platforms as AI…]]

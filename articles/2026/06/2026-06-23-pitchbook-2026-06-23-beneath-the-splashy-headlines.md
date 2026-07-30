@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
-- 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
+- 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 embedding_id: 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-23] Beneath the splashy headlines
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]]
+**Related:** [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]]
 <!-- graph:end -->

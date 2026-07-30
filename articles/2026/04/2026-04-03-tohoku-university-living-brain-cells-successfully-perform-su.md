@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-03-researchers-at-tohoku-university-and-future-university-hakod
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
+- 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+- 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 - 2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai
-- 2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text
-- 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 embedding_id: 2026-04-03-tohoku-university-living-brain-cells-successfully-perform-su
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Tohoku University: Living Brain Cells Successfully Perform Supervised Machine Le
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-03-researchers-at-tohoku-university-and-future-university-hakod]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]]
+**Related:** [[2026-04-03-researchers-at-tohoku-university-and-future-university-hakod]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]]
 <!-- graph:end -->

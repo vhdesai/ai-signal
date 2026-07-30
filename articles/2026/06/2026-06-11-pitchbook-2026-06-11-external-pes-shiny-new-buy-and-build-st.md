@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
 - 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
-- 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
-- 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
-- 2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-11] [EXTERNAL] PEs shiny new buy-and-build strategy
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]]
+**Related:** [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
 <!-- graph:end -->

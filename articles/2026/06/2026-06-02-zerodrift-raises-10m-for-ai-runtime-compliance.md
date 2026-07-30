@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
-- 2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo
+- 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
+- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
 embedding_id: 2026-06-02-zerodrift-raises-10m-for-ai-runtime-compliance
 event_name: ''
 ---
@@ -35,5 +36,5 @@ ZeroDrift raised $10M for an AI compliance service that sits between models and 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-07-09-openai-doubles-its-biosecurity-jailbreak-bounty-to-50-000-fo]]
+**Related:** [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]]
 <!-- graph:end -->

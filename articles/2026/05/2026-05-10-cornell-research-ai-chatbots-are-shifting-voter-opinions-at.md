@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-academic-research
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
+- 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 - 2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr
 - 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
-- 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 embedding_id: 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cornell researchers released data from press releases circulated May 10–11 sho
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-02-academic-research]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]]
+**Related:** [[2026-04-02-academic-research]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-06-study-ai-writing-tools-quietly-shift-the-meaning-of-users-dr]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
 <!-- graph:end -->

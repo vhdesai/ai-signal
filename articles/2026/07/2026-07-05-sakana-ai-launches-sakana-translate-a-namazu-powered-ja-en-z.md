@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
-- 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-07-17-sakana-ai-introduces-error-diffusion-a-biologically-plausibl
-- 2026-07-18-sakana-ai-introduces-error-diffusion-a-biologically-plausibl
+- 2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-a-claude-code-compatible
+- 2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model
+- 2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-claude-code-compatible-i
 embedding_id: 2026-07-05-sakana-ai-launches-sakana-translate-a-namazu-powered-ja-en-z
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Sakana AI released Sakana Translate, a Japanese–English–Chinese translation 
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-07-17-sakana-ai-introduces-error-diffusion-a-biologically-plausibl]] · [[2026-07-18-sakana-ai-introduces-error-diffusion-a-biologically-plausibl]]
+**Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-a-claude-code-compatible]] · [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-claude-code-compatible-i]]
 <!-- graph:end -->

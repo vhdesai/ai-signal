@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 - 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
+- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
-- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 embedding_id: 2026-07-14-farmers-emerge-as-a-new-source-of-data-center-backlash
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Growers, ranchers, and companies are warning about too much farmland being used 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
+**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]]
 <!-- graph:end -->

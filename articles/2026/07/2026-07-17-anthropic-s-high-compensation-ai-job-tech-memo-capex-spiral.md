@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials
+- 2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
-- 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
 embedding_id: 2026-07-17-anthropic-s-high-compensation-ai-job-tech-memo-capex-spiral
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic's high-compensation AI job, Tech Memo capex spiral, Amazon automation 
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]]
+**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
 <!-- graph:end -->

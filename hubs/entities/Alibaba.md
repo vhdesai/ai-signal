@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 226
+member_count: 232
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 226 connected article(s).
+> Auto-generated entity hub. 232 connected article(s).
 
+- `2026-07-29` [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr|Moonshot AI closes $3.5B round as open-weight China models draw scrutiny]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-21` [[2026-07-21-google-frozen-chip-samsung-memory-chip-positioning-apple-doj|Google Frozen chip; Samsung/memory-chip positioning; Apple/DOJ talks; Alibaba model; Moonshot IPO; SpaceX/Alphabet…]]
 - `2026-07-21` [[2026-07-21-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l|Alibaba's Tongyi Lab released Qwen-Audio-3.0-TTS across 16 languages, expanding the Qwen stack into voice infrastructure]]
 - `2026-07-21` [[2026-07-21-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame|Alibaba previewed Qwen3.8-Max / Qwen 3.8, a claimed 2.4T-parameter multimodal model that Alibaba positions just behind…]]

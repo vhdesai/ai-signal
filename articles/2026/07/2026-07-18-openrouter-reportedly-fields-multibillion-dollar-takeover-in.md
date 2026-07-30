@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in
+- 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
-- 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 embedding_id: 2026-07-18-openrouter-reportedly-fields-multibillion-dollar-takeover-in
 event_name: ''
 ---
@@ -35,5 +35,5 @@ OpenRouter reportedly fields multibillion-dollar takeover interest, reflecting s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]]
+**Related:** [[2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]]
 <!-- graph:end -->

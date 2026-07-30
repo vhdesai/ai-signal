@@ -1,0 +1,36 @@
+---
+article_id: 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
+title: Dili raises $21.7 million to bring AI compliance to infrastructure projects
+date: '2026-07-30'
+source: TechCrunch
+url_original: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+url_canonical: https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/
+url_status: found
+digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
+  2026.md
+content_hash: 87345f34094437cc9a4381754415039f0cd473a550901030f2d15241345610a8
+normalized_title_hash: ebb5272f1c64d3b8
+canonical_url_hash: cdb1b8f491a9325d
+tags: []
+entities: []
+themes:
+- datacenter-infrastructure
+- company-storylines
+cross_cutting_topics: []
+dedupe_status: duplicate
+canonical_article_id: 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
+related_article_ids: []
+embedding_id: 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
+event_name: ''
+---
+
+# Dili raises $21.7 million to bring AI compliance to infrastructure projects
+
+Dili raised a $15 million Series A, bringing total funding to $21.7 million, to automate compliance workflows for large infrastructure projects. The company uses AI to extract structured data from documents, then applies deterministic compliance rules such as Davis-Bacon, prevailing wage, OSHA, EPA, and clean-energy funding requirements. The market signal is that the AI infrastructure boom is creating demand not only for data centers and power, but also for AI tools that manage the regulatory complexity around building them.
+
+<!-- graph:start -->
+## Connections
+
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Canonical:** [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]]
+<!-- graph:end -->

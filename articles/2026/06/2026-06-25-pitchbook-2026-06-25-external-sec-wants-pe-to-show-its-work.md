@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
-- 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-25] [EXTERNAL] SEC wants PE to show its work
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]]
+**Related:** [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

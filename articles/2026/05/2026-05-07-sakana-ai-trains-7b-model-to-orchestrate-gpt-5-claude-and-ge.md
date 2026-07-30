@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt
+- 2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model
 - 2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro
 - 2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system
 - 2026-07-19-sakana-ai-s-error-diffusion-trains-convolutional-and-rl-work
-- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 embedding_id: 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sakana AI published research demonstrating a compact 7B-parameter model trained 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-19-sakana-ai-s-error-diffusion-trains-convolutional-and-rl-work]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]]
+**Related:** [[2026-05-07-trending-sakana-ai-7b-model-learns-to-route-tasks-across-gpt]] · [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-19-sakana-ai-s-error-diffusion-trains-convolutional-and-rl-work]]
 <!-- graph:end -->

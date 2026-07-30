@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-05-30-defense-tech-grows-up-2026-05-30-the-information
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking
-- 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
-- 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
+- 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 embedding_id: 2026-05-30-defense-tech-s-new-playbook-2026-05-30-pitchbook
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Defense tech's new playbook [2026-05-30] · PitchBook
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-30-defense-tech-grows-up-2026-05-30-the-information]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]]
+**Related:** [[2026-05-30-defense-tech-grows-up-2026-05-30-the-information]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]]
 <!-- graph:end -->

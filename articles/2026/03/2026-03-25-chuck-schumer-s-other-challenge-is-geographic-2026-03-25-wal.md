@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-25-is-this-email-difficult-to-read-view-in-browser-the-wall-str-7
 - 2026-07-08-wall-street-journal-wsj-2026-07-08-external-the-10-point-dem
+- 2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin
 - 2026-07-13-wall-street-journal-wsj-2026-07-13-external-wsj-markets-aler
 - 2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe
-- 2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round
 embedding_id: 2026-03-25-chuck-schumer-s-other-challenge-is-geographic-2026-03-25-wal
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Chuck Schumer’s Other Challenge Is Geographic [2026-03-25] · Wall Street Jour
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-25-is-this-email-difficult-to-read-view-in-browser-the-wall-str-7]] · [[2026-07-08-wall-street-journal-wsj-2026-07-08-external-the-10-point-dem]] · [[2026-07-13-wall-street-journal-wsj-2026-07-13-external-wsj-markets-aler]] · [[2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]]
+**Related:** [[2026-03-25-is-this-email-difficult-to-read-view-in-browser-the-wall-str-7]] · [[2026-07-08-wall-street-journal-wsj-2026-07-08-external-the-10-point-dem]] · [[2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin]] · [[2026-07-13-wall-street-journal-wsj-2026-07-13-external-wsj-markets-aler]] · [[2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe]]
 <!-- graph:end -->

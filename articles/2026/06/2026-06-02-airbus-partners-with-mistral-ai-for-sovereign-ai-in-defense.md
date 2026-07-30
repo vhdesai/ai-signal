@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership
+- 2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part
 - 2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands
 - 2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a
 - 2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a
-- 2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air
-- 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
 embedding_id: 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Airbus announced a partnership with Mistral AI to deploy sovereign AI across air
 
 **Entities:** [[Mistral]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a]] · [[2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a]] · [[2026-05-28-mistral-launches-mistral-for-industrial-engineering-with-air]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]]
+**Related:** [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership]] · [[2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part]] · [[2026-05-28-mistral-signs-airbus-and-bmw-defends-military-ai-use-expands]] · [[2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a]] · [[2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a]]
 <!-- graph:end -->

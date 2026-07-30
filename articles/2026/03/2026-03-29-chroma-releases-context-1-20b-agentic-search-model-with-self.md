@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 - 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie
 - 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
-- 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 embedding_id: 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Chroma released Context-1, a 20B parameter agentic search model fine-tuned with 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]]
+**Related:** [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-26-cmu-and-ut-austin-detail-new-methods-for-long-context-retrie]] · [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
+- 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
+- 2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag
+- 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
-- 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
-- 2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as
-- 2026-04-30-is-this-email-difficult-to-read-view-in-browser-the-wall-str
 embedding_id: 2026-03-24-mark-zuckerberg-is-personally-testing-a-ceo-agent-that-autom
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Mark Zuckerberg is personally testing a "CEO agent" that automates executive inf
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation]] · [[2026-05-06-trendinggoogle-and-meta-race-to-build-personal-ai-agents-as]] · [[2026-04-30-is-this-email-difficult-to-read-view-in-browser-the-wall-str]]
+**Related:** [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]] · [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]] · [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
 <!-- graph:end -->

@@ -24,7 +24,8 @@ related_article_ids:
 - 2026-07-20-chinese-model-progress-and-waic-messaging-continue-to-pressu
 - 2026-07-21-chinese-model-progress-and-waic-messaging-continue-to-pressu
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
-- 2026-05-26-stanford-ai-index-2026-u-s-china-model-gap-narrows-to-2-7
+- 2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c
+- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 embedding_id: 2026-07-20-chinese-model-progress-is-now-affecting-both-software-decisi
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Chinese model progress is now affecting both software decisions and semiconducto
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-chinese-model-progress-and-waic-messaging-continue-to-pressu]] · [[2026-07-21-chinese-model-progress-and-waic-messaging-continue-to-pressu]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-05-26-stanford-ai-index-2026-u-s-china-model-gap-narrows-to-2-7]]
+**Related:** [[2026-07-20-chinese-model-progress-and-waic-messaging-continue-to-pressu]] · [[2026-07-21-chinese-model-progress-and-waic-messaging-continue-to-pressu]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-21-china-weighs-export-controls-on-its-own-advanced-ai-models-c]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]]
 <!-- graph:end -->

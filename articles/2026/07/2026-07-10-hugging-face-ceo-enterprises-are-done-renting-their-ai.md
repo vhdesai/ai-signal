@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
-- 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
+- 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
+- 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
+- 2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co
+- 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
 embedding_id: 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
 event_name: ''
 ---
@@ -38,5 +39,5 @@ On TechCrunch's Equity podcast, Hugging Face CEO Clem Delangue argued that open-
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co]] · [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]]
 <!-- graph:end -->

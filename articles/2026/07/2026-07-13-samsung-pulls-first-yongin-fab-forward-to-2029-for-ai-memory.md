@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
+- 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom
-- 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 embedding_id: 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Samsung will start operations 1–2 years ahead of schedule at the first of six 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]]
+**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]]
 <!-- graph:end -->

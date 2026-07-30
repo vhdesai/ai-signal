@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
+- 2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
-- 2026-07-20-large-ai-supply-deals-and-data-center-commitments-face-execu
 embedding_id: 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 event_name: ''
 ---
@@ -35,5 +35,5 @@ JPMorgan, Morgan Stanley, and other major banks are reportedly looking for ways 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-07-20-large-ai-supply-deals-and-data-center-commitments-face-execu]]
+**Related:** [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]]
 <!-- graph:end -->

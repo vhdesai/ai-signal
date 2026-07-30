@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode
 - 2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts
 - 2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and
-- 2026-05-15-amazon-launches-ai-shopping-assistant-for-search-bar-powered
+- 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
 embedding_id: 2026-05-19-amazon-launches-alexa-ai-podcasts-on-demand-audio-built-on-l
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon launched Alexa Podcasts for Alexa+ subscribers, generating AI-narrated au
 
 **Entities:** [[Amazon]] · [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-05-15-amazon-launches-ai-shopping-assistant-for-search-bar-powered]]
+**Related:** [[2026-05-18-amazon-alexa-can-now-generate-full-length-ai-podcast-episode]] · [[2026-05-23-spotify-adds-ai-powered-q-a-briefing-generation-for-podcasts]] · [[2026-05-23-spotify-launched-ai-powered-question-and-answer-features-and]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
+- 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
-- 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 embedding_id: 2026-07-06-if-you-use-google-you-re-training-its-ai-here-s-how-to-opt-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TechCrunch reported that Google's privacy settings now enable broader use of use
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]]
+**Related:** [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

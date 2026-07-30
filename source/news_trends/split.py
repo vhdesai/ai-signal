@@ -715,6 +715,14 @@ def parse_event(cfg: Config, text: str, digest_source: str) -> list[Article]:
     return articles
 
 
+def _is_curated_analysis_file(filename: str) -> bool:
+    """Curated FY27 strategy / comparison analysis docs are rendered directly as
+    site pages (see site.py) and must NOT be parsed into digest articles, which
+    would otherwise pollute the daily pages with narrative fragments."""
+    return bool(re.search(r"_(?:Strategy|Strategy_Signals|Comparison)\.md$", filename)) \
+        and bool(re.match(r"^\d{4}-\d{2}-\d{2}_", filename))
+
+
 def run_split(cfg: Config) -> dict:
     """Parse every archived raw digest into article-atomic markdown notes."""
     cfg.ensure_dirs()
@@ -722,6 +730,8 @@ def run_split(cfg: Config) -> dict:
     written = 0
     events_written = 0
     for path in digests:
+        if _is_curated_analysis_file(path.name):
+            continue
         text = path.read_text(encoding="utf-8", errors="replace")
         digest_source = str((cfg.raw_digest_archive_dir / path.name).relative_to(cfg.root))
 

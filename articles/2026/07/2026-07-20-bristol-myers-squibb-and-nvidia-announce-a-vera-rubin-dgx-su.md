@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-20-bristol-myers-squibb-announced-a-large-private-nvidia-vera-r
 - 2026-07-21-bristol-myers-squibb-announced-a-large-private-nvidia-vera-r
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
-- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
+- 2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo
 embedding_id: 2026-07-20-bristol-myers-squibb-and-nvidia-announce-a-vera-rubin-dgx-su
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bristol Myers Squibb and NVIDIA announce a Vera Rubin/DGX SuperPOD life-sciences
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-bristol-myers-squibb-announced-a-large-private-nvidia-vera-r]] · [[2026-07-21-bristol-myers-squibb-announced-a-large-private-nvidia-vera-r]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]]
+**Related:** [[2026-07-20-bristol-myers-squibb-announced-a-large-private-nvidia-vera-r]] · [[2026-07-21-bristol-myers-squibb-announced-a-large-private-nvidia-vera-r]] · [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[2026-06-22-nvidia-vera-rubin-supercomputers-target-scientific-ai-worklo]]
 <!-- graph:end -->

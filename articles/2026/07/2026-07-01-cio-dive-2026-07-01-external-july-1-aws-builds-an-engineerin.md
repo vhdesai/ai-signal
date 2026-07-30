@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw
+- 2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 - 2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt
-- 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 embedding_id: 2026-07-01-cio-dive-2026-07-01-external-july-1-aws-builds-an-engineerin
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CIO Dive - [2026-07-01] [EXTERNAL] July 1 - AWS builds an engineering army | Ser
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]]
+**Related:** [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt]]
 <!-- graph:end -->

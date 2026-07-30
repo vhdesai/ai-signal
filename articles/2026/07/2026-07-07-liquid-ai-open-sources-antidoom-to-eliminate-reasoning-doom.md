@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
+- 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 - 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
-- 2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge
-- 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 embedding_id: 2026-07-07-liquid-ai-open-sources-antidoom-to-eliminate-reasoning-doom
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Liquid AI released “Antidoom,” a targeted post-training method that eliminat
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
+**Related:** [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
 <!-- graph:end -->

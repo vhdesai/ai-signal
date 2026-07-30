@@ -22,9 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an
 - 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
+- 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
 - 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
-- 2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team
 embedding_id: 2026-06-27-core-gemini-contributors-jonas-adler-and-alexander-pritzel-a
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Core Gemini contributors Jonas Adler and Alexander Pritzel are leaving for Anthr
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]] · [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]] · [[2026-05-20-andrej-karpathy-joins-anthropic-s-pre-training-team]]
+**Related:** [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]] · [[2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge]] · [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]]
 <!-- graph:end -->

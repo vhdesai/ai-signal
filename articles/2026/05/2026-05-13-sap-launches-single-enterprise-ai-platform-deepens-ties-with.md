@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
+- 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-05-13-sap-launches-single-enterprise-ai-platform-deepens-ties-with
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SAP unveiled a unified platform for building, deploying, and governing enterpris
 ## Connections
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[SAP]]
-**Related:** [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-launches-claude-for-small-business-and-expanded-pw]]
 <!-- graph:end -->

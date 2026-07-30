@@ -20,8 +20,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny
 - 2026-07-20-the-information-and-dealbook-frame-july-20-as-a-new-test-for
+- 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-07-20-dealbook-andrew-ross-sorkin-nyt-2026-07-20-external-dealbook
-- 2026-07-21-dealbook-andrew-ross-sorkin-nyt-2026-07-21-external-dealbook
 embedding_id: 2026-07-21-new-tests-for-ai-giants-and-public-private-market-ai-scrutin
 event_name: ''
 ---
@@ -33,5 +33,5 @@ New tests for AI giants and public/private market AI scrutiny.
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny]] · [[2026-07-20-the-information-and-dealbook-frame-july-20-as-a-new-test-for]] · [[2026-07-20-dealbook-andrew-ross-sorkin-nyt-2026-07-20-external-dealbook]] · [[2026-07-21-dealbook-andrew-ross-sorkin-nyt-2026-07-21-external-dealbook]]
+**Related:** [[2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny]] · [[2026-07-20-the-information-and-dealbook-frame-july-20-as-a-new-test-for]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-07-20-dealbook-andrew-ross-sorkin-nyt-2026-07-20-external-dealbook]]
 <!-- graph:end -->

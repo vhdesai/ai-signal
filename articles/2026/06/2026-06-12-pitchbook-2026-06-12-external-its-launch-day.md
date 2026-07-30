@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs
-- 2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-12] [EXTERNAL] Its launch day
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]] · [[2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard]]
+**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

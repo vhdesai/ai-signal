@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil
+- 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
+- 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
 - 2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea
-- 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
-- 2026-07-19-other-publication-emails-2026-07-19-external-special-edition
-- 2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi
+- 2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg
 embedding_id: 2026-07-12-other-ai-related-publication-emails-2026-07-12-external-spec
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Other AI-related Publication Emails - [2026-07-12] [EXTERNAL] Special Edition: T
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-19-other-publication-emails-2026-07-19-external-special-edition]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]]
+**Related:** [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-13-other-ai-related-publication-emails-2026-07-13-no-other-clea]] · [[2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg]]
 <!-- graph:end -->

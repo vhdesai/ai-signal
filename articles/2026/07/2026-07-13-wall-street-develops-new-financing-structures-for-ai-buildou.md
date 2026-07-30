@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 - 2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information reports that Wall Street is finding more ways to fund AI, includ
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]] · [[2026-06-21-morgan-stanley-pitches-leveraged-loan-market-for-data-center]]
 <!-- graph:end -->

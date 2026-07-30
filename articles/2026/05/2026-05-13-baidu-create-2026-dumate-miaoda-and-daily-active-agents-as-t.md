@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz
+- 2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-- 2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho
 - 2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to
 - 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 embedding_id: 2026-05-13-baidu-create-2026-dumate-miaoda-and-daily-active-agents-as-t
@@ -40,5 +40,5 @@ At its annual developer conference in Beijing, Baidu CEO Robin Li proposed "Dail
 
 **Entities:** [[Baidu]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]]
+**Related:** [[2026-06-07-baidu-restructures-core-business-unit-in-ai-driven-reorganiz]] · [[2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-12-baidu-ernie-5-1-cuts-pre-training-costs-by-94-hits-global-to]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]]
 <!-- graph:end -->

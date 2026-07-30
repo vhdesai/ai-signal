@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag
+- 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai
 - 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea
-- 2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason
-- 2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term
 embedding_id: 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meituan unveiled LongCat-2.0, which it calls the industry’s first trillion-par
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]] · [[2026-06-15-meituan-discloses-six-acl-2026-papers-and-general-365-reason]] · [[2026-07-13-meituan-open-sources-vitabench-2-0-a-benchmark-for-long-term]]
+**Related:** [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]]
 <!-- graph:end -->

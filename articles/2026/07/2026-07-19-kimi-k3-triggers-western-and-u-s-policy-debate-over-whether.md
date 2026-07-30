@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
+- 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
 - 2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis
 - 2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif
 - 2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif
-- 2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions
 embedding_id: 2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Kimi K3 triggers Western and U.S. policy debate over whether Chinese open-weight
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis]] · [[2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif]] · [[2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif]] · [[2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions]]
+**Related:** [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis]] · [[2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif]] · [[2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif]]
 <!-- graph:end -->

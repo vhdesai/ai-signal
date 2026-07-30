@@ -23,7 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
-- 2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 embedding_id: 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A continual-learning system in which a coding agent writes and refines robot con
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]]
+**Related:** [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]]
 <!-- graph:end -->

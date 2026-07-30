@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
+- 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
+- 2026-07-22-ibm-insists-ai-isn-t-killing-the-mainframe-after-a-shocking
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat
-- 2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat
 embedding_id: 2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri
 event_name: ''
 ---
@@ -38,5 +39,5 @@ IBM shares plunge roughly 24-25% after Q2 warning as enterprise spend shifts fro
 
 **Entities:** [[IBM]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas]] · [[2026-07-22-ibm-insists-ai-isn-t-killing-the-mainframe-after-a-shocking]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-06-04-broadcom-slides-12-as-ai-guidance-disappoints-lofty-expectat]]
 <!-- graph:end -->

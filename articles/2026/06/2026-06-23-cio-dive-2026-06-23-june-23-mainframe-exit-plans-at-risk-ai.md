@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
+- 2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 - 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 - 2026-06-29-cio-dive-2026-06-29-external-june-29-execs-worry-about-ai-sy
-- 2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching
 embedding_id: 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive - [2026-06-23] June 23 - Mainframe exit plans at risk | AI needs new op
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-06-29-cio-dive-2026-06-29-external-june-29-execs-worry-about-ai-sy]] · [[2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching]]
+**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-06-29-cio-dive-2026-06-29-external-june-29-execs-worry-about-ai-sy]]
 <!-- graph:end -->

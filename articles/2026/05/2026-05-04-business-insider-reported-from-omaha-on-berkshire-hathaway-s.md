@@ -24,6 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-berkshire-s-first-big-bash-without-buffett-complete-with-a-d
+- 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 embedding_id: 2026-05-04-business-insider-reported-from-omaha-on-berkshire-hathaway-s
 event_name: ''
 ---
@@ -36,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-03-berkshire-s-first-big-bash-without-buffett-complete-with-a-d]]
+**Related:** [[2026-05-03-berkshire-s-first-big-bash-without-buffett-complete-with-a-d]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]]
 <!-- graph:end -->

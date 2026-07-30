@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
+- 2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work
 - 2026-04-10-open-source-ai-narrows-the-gap-to-frontier-proprietary-model
-- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
 embedding_id: 2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI B2B Signals Report: Frontier AI Firms Use 3.5x More AI Per Employee Than 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-04-10-open-source-ai-narrows-the-gap-to-frontier-proprietary-model]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]]
+**Related:** [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work]] · [[2026-04-10-open-source-ai-narrows-the-gap-to-frontier-proprietary-model]]
 <!-- graph:end -->

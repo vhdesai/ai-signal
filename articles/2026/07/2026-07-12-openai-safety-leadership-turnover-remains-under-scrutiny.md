@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-05-18-international-ai-safety-report-2026-agents-pose-novel-risks
-- 2026-04-22-ai-safety-policy
+- 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
 embedding_id: 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Leaders responsible for AI safety at OpenAI continue to depart. The issue is imp
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-18-international-ai-safety-report-2026-agents-pose-novel-risks]] · [[2026-04-22-ai-safety-policy]]
+**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-18-international-ai-safety-report-2026-agents-pose-novel-risks]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]]
 <!-- graph:end -->

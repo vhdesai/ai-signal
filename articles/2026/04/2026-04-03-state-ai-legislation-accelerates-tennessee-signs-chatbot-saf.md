@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat
-- 2026-04-02-ai-safety-policy-cnbc-time-techcrunch
+- 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 embedding_id: 2026-04-03-state-ai-legislation-accelerates-tennessee-signs-chatbot-saf
 event_name: ''
 ---
@@ -36,5 +36,5 @@ State AI Legislation Accelerates: Tennessee Signs Chatbot Safety Bill; CA Govern
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-04-02-ai-safety-policy-cnbc-time-techcrunch]]
+**Related:** [[2026-04-03-tennessee-governor-bill-lee-signed-sb-1580-passed-both-chamb]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-10-us-state-ai-legislation-surpasses-1-561-bills-across-45-stat]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]]
 <!-- graph:end -->

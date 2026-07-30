@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
+- 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
-- 2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc
 embedding_id: 2026-06-03-coralogix-raises-200m-for-ai-agent-monitoring
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Coralogix raised $200M in Series F, positioning as the observability platform fo
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-05-ai-coding-assistant-cursor-is-reportedly-in-acquisition-disc]]
+**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
 <!-- graph:end -->

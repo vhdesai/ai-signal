@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo
 - 2026-03-10-get-the-report-new-pitchbook-research-read-the-analyst-note
 - 2026-05-30-investment-platform-built-by-ex-goldman-sachs-bankers-take-t
+- 2026-07-28-pitchbook-2026-07-28-external-bain-vs
 - 2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 embedding_id: 2026-03-09-pitchbook-lcd-leveraged-finance-survey-analyst-note-read-the
 event_name: ''
 ---
@@ -34,5 +34,5 @@ PitchBook LCD Leveraged Finance Survey - analyst note - Read the analyst note - 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo]] · [[2026-03-10-get-the-report-new-pitchbook-research-read-the-analyst-note]] · [[2026-05-30-investment-platform-built-by-ex-goldman-sachs-bankers-take-t]] · [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
+**Related:** [[2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo]] · [[2026-03-10-get-the-report-new-pitchbook-research-read-the-analyst-note]] · [[2026-05-30-investment-platform-built-by-ex-goldman-sachs-bankers-take-t]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-29-dealbook-andrew-ross-sorkin-nyt-2026-05-29-external-dealbook
 - 2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook
 - 2026-07-16-pitchbook-2026-07-16-external-stripe-and-advent-s-lowball-bi
-- 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
+- 2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook
 embedding_id: 2026-07-01-the-information-2026-07-01-external-the-briefing-bending-spo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information - [2026-07-01] [EXTERNAL] The Briefing: Bending Spoons Big Pop -
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-01-dealbook-andrew-ross-sorkin-nyt-2026-07-01-external-dealbook]] · [[2026-05-29-dealbook-andrew-ross-sorkin-nyt-2026-05-29-external-dealbook]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]] · [[2026-07-16-pitchbook-2026-07-16-external-stripe-and-advent-s-lowball-bi]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]]
+**Related:** [[2026-07-01-dealbook-andrew-ross-sorkin-nyt-2026-07-01-external-dealbook]] · [[2026-05-29-dealbook-andrew-ross-sorkin-nyt-2026-05-29-external-dealbook]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]] · [[2026-07-16-pitchbook-2026-07-16-external-stripe-and-advent-s-lowball-bi]] · [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
 - 2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c
-- 2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr
+- 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 embedding_id: 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Senior figures inside SoftBank are reportedly questioning whether Son's $60B Ope
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Related:** [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-06-26-openai-reportedly-weighs-pushing-its-ipo-to-2027-softbank-dr]]
+**Related:** [[2026-05-25-softbank-insiders-question-masayoshi-son-s-60b-openai-bet]] · [[2026-04-16-the-financial-times-reports-that-some-of-openai-s-own-invest]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-07-14-softbank-s-son-says-ai-will-need-5-trillion-a-year-by-2040-c]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]]
 <!-- graph:end -->

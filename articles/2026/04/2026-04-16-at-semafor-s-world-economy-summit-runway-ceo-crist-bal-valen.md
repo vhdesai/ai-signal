@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-16-runway-ceo-ai-could-let-hollywood-make-50-films-for-the-pric
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
+- 2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va
 embedding_id: 2026-04-16-at-semafor-s-world-economy-summit-runway-ceo-crist-bal-valen
 event_name: ''
 ---
@@ -34,5 +35,5 @@ At Semafor's World Economy Summit, Runway CEO Cristóbal Valenzuela proposed tha
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-04-16-runway-ceo-ai-could-let-hollywood-make-50-films-for-the-pric]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]]
+**Related:** [[2026-04-16-runway-ceo-ai-could-let-hollywood-make-50-films-for-the-pric]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-07-27-spain-s-multiverse-computing-raises-500m-series-c-at-1-5b-va]]
 <!-- graph:end -->

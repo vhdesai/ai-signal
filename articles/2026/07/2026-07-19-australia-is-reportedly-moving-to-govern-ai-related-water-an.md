@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-20-australia-s-ai-water-power-governance-waic-waico-governance
 - 2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis
 - 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
+- 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf
-- 2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i
 embedding_id: 2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Australia is reportedly moving to govern AI-related water and power use.
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-australia-s-ai-water-power-governance-waic-waico-governance]] · [[2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]]
+**Related:** [[2026-07-20-australia-s-ai-water-power-governance-waic-waico-governance]] · [[2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf]]
 <!-- graph:end -->

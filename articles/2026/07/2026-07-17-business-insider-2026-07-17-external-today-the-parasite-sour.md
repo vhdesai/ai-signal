@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite
+- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
-- 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
-- 2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox
-- 2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret
+- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
+- 2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go
 embedding_id: 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-07-17] [EXTERNAL] Today: The parasite source got flushe
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]]
+**Related:** [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go]]
 <!-- graph:end -->

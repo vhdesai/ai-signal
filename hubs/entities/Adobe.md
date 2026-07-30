@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Adobe
-member_count: 23
+member_count: 24
 ---
 
 # Adobe
 
-> Auto-generated entity hub. 23 connected article(s).
+> Auto-generated entity hub. 24 connected article(s).
 
+- `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-21` [[2026-07-21-adobe-project-indigo-added-ai-critique-and-structured-photo|Adobe Project Indigo added AI critique and structured photo-editing guidance, pointing toward AI-assisted expert…]]
 - `2026-07-20` [[2026-07-20-adobe-project-indigo-added-ai-critique-and-structured-photo|Adobe Project Indigo added AI critique and structured photo-editing guidance, pointing toward AI-assisted expert…]]
 - `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-april-27-2026-msn-microsoft
-- 2026-04-04-techcrunch-microsoft-blogapril-2-2026
-- 2026-04-06-google-blog-april-6-2026
-- 2026-05-05-computerworld-microsoft-blog-may-5-2026
-- 2026-04-04-techcrunch-salesforce-blogmarch-31-april-1-2026
+- 2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest
+- 2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest
+- 2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest
+- 2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest
 embedding_id: 2026-04-06-microsoft-365-copilot-blog-april-6-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Microsoft 365 Copilot Blog | April 6, 2026
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-05-18-april-27-2026-msn-microsoft]] · [[2026-04-04-techcrunch-microsoft-blogapril-2-2026]] · [[2026-04-06-google-blog-april-6-2026]] · [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-04-04-techcrunch-salesforce-blogmarch-31-april-1-2026]]
+**Related:** [[2026-05-18-april-27-2026-msn-microsoft]] · [[2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest]] · [[2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]] · [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]]
 <!-- graph:end -->

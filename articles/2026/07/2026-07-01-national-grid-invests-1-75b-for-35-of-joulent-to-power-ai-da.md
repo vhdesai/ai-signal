@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
+- 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
-- 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 embedding_id: 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Britain's National Grid said it will invest $1.75B for a 35% stake in Joulent, a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]]
+**Related:** [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
 <!-- graph:end -->

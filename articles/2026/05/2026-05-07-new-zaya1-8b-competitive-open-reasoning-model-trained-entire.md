@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu
 - 2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
+- 2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut
 embedding_id: 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Researchers released ZAYA1-8B, a strong open reasoning model whose defining char
 
 **Entities:** [[AMD]] · [[Huawei]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]]
+**Related:** [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-11-deepseek-confirmed-that-its-upcoming-v4-model-will-run-exclu]] · [[2026-06-22-moonmath-ai-open-sources-hip-attention-kernel-for-amd-mi300x]] · [[2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut]]
 <!-- graph:end -->

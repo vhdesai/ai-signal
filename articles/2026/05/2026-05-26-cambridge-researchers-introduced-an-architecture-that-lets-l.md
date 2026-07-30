@@ -29,7 +29,7 @@ related_article_ids:
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e
-- 2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal
+- 2026-07-23-arex-recursively-self-improving-deep-research-agents
 embedding_id: 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Google's "magic cycle": Co-Scientist & ERA accelerate scientific discovery
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-05-26-scalable-interactive-sandbox-lets-llm-agents-perform-causal]]
+**Related:** [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-26-reproducible-massively-parallel-simulator-for-training-and-e]] · [[2026-07-23-arex-recursively-self-improving-deep-research-agents]]
 <!-- graph:end -->

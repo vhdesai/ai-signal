@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m
-- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
+- 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 embedding_id: 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Alibaba's Qwen Introduces Qwen3.7-Max — Reasoning-Agent Model with 1M-Token Co
 
 **Entities:** [[Alibaba]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
+**Related:** [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-21-alibaba-s-qwen-team-released-qwen3-7-max-a-reasoning-agent-m]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]]
 <!-- graph:end -->

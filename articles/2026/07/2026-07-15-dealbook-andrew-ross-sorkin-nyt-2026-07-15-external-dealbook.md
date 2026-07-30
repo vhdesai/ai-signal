@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook
 - 2026-06-23-dealbook-andrew-ross-sorkin-nyt-2026-06-23-dealbook-tech-tum
 - 2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook
 - 2026-07-02-dealbook-andrew-ross-sorkin-nyt-2026-07-02-external-dealbook
 - 2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook
-- 2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook
 embedding_id: 2026-07-15-dealbook-andrew-ross-sorkin-nyt-2026-07-15-external-dealbook
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DealBook (Andrew Ross Sorkin / NYT) - [2026-07-15] [EXTERNAL] DealBook: IBM's ca
 ## Connections
 
 **Entities:** [[IBM]]
-**Related:** [[2026-06-23-dealbook-andrew-ross-sorkin-nyt-2026-06-23-dealbook-tech-tum]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-07-02-dealbook-andrew-ross-sorkin-nyt-2026-07-02-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]] · [[2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook]]
+**Related:** [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]] · [[2026-06-23-dealbook-andrew-ross-sorkin-nyt-2026-06-23-dealbook-tech-tum]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-07-02-dealbook-andrew-ross-sorkin-nyt-2026-07-02-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]]
 <!-- graph:end -->

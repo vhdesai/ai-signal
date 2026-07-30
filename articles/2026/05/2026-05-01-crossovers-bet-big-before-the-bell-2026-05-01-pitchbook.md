@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
-- 2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns
+- 2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri
 embedding_id: 2026-05-01-crossovers-bet-big-before-the-bell-2026-05-01-pitchbook
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Crossovers bet big before the bell [2026-05-01] · PitchBook
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]]
+**Related:** [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri]]
 <!-- graph:end -->

@@ -21,6 +21,8 @@ related_article_ids:
 - 2026-06-30-june-29-2026-the-information-via-the-next-web
 - 2026-07-13-subject-daily-ai-news-digest-july-13-2026
 - 2026-07-10-subject-daily-ai-news-digest-july-10-2026
+- 2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest
+- 2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest
 embedding_id: 2026-06-21-june-20-2026-bleeping-computer-windows-report
 event_name: ''
 ---
@@ -33,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-07-13-subject-daily-ai-news-digest-july-13-2026]] · [[2026-07-10-subject-daily-ai-news-digest-july-10-2026]]
+**Related:** [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-07-13-subject-daily-ai-news-digest-july-13-2026]] · [[2026-07-10-subject-daily-ai-news-digest-july-10-2026]] · [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest]]
 <!-- graph:end -->

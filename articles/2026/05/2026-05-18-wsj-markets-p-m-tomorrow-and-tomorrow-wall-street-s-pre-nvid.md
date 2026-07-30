@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-03-18-the-latest-news-on-nvidia-corp-2026-03-18-wall-street-journa
 - 2026-03-16-the-latest-news-on-nvidia-corp-2026-03-16-wall-street-journa
 - 2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news
-- 2026-06-26-wall-street-journal-wsj-2026-06-26-external-your-daily-round
 embedding_id: 2026-05-18-wsj-markets-p-m-tomorrow-and-tomorrow-wall-street-s-pre-nvid
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ's afternoon markets dispatch led on the market's wait-and-see posture into N
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-18-the-latest-news-on-nvidia-corp-2026-03-18-wall-street-journa]] · [[2026-03-16-the-latest-news-on-nvidia-corp-2026-03-16-wall-street-journa]] · [[2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news]] · [[2026-06-26-wall-street-journal-wsj-2026-06-26-external-your-daily-round]]
+**Related:** [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-03-18-the-latest-news-on-nvidia-corp-2026-03-18-wall-street-journa]] · [[2026-03-16-the-latest-news-on-nvidia-corp-2026-03-16-wall-street-journa]] · [[2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news]]
 <!-- graph:end -->

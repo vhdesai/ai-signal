@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research
 - 2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re
-- 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
-- 2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr
+- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava
 embedding_id: 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Leaked UI elements suggest OpenAI is developing a "ChatGPT for Science" subscrip
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]] · [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr]]
+**Related:** [[2026-06-20-openai-testing-chatgpt-for-science-subscription-for-research]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava]]
 <!-- graph:end -->

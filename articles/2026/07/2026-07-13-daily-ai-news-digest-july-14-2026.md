@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
-- 2026-07-08-daily-ai-news-digest-july-9-2026
+- 2026-07-26-daily-ai-news-digest-july-27-2026
 embedding_id: 2026-07-13-daily-ai-news-digest-july-14-2026
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Governance and distribution move to center stage as the model race cools. Hassab
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]]
+**Related:** [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]]
 <!-- graph:end -->

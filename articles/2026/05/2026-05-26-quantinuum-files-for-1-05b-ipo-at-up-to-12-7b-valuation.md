@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s
 - 2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open
+- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
+- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
-- 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
-- 2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio
 embedding_id: 2026-05-26-quantinuum-files-for-1-05b-ipo-at-up-to-12-7b-valuation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Quantinuum files for $1.05B IPO at up to $12.7B valuation
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s]] · [[2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]] · [[2026-05-22-openai-files-confidential-ipo-prospectus-targeting-1-trillio]]
+**Related:** [[2026-05-26-quantum-computing-company-quantinuum-disclosed-plans-in-an-s]] · [[2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]]
 <!-- graph:end -->

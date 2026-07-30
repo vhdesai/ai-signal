@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-04-08-business-insider-logo-with-dan-defrancesco-but-it-taught-her
 - 2026-04-27-business-insider-logo-with-dan-defrancesco-white-house-corre
 - 2026-03-11-amanda-hoover-business-insider
-- 2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org
+- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
 embedding_id: 2026-05-01-business-insider-logo-with-dan-defrancesco-you-can-tune-in-h
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider Logo - with Dan DeFrancesco - You can tune in here - to do her 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga]] · [[2026-04-08-business-insider-logo-with-dan-defrancesco-but-it-taught-her]] · [[2026-04-27-business-insider-logo-with-dan-defrancesco-white-house-corre]] · [[2026-03-11-amanda-hoover-business-insider]] · [[2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org]]
+**Related:** [[2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga]] · [[2026-04-08-business-insider-logo-with-dan-defrancesco-but-it-taught-her]] · [[2026-04-27-business-insider-logo-with-dan-defrancesco-white-house-corre]] · [[2026-03-11-amanda-hoover-business-insider]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]]
 <!-- graph:end -->

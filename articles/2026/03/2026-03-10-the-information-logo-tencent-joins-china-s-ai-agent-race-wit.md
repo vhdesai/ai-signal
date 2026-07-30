@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-03-09-the-information-logo-anthropic-backer-spark-capital-targets
 - 2026-03-16-the-information-logo-war-doesn-t-belong-to-u-s
 - 2026-03-16-the-information-logo-openai-names-new-infrastructure-leaders
+- 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 - 2026-03-13-the-information-logo-ex-anthropic-researchers-in-talks-to-ra
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 embedding_id: 2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The Information logo - Tencent Joins China’s AI Agent Race With ‘Top-Secret�
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-03-09-the-information-logo-anthropic-backer-spark-capital-targets]] · [[2026-03-16-the-information-logo-war-doesn-t-belong-to-u-s]] · [[2026-03-16-the-information-logo-openai-names-new-infrastructure-leaders]] · [[2026-03-13-the-information-logo-ex-anthropic-researchers-in-talks-to-ra]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
+**Related:** [[2026-03-09-the-information-logo-anthropic-backer-spark-capital-targets]] · [[2026-03-16-the-information-logo-war-doesn-t-belong-to-u-s]] · [[2026-03-16-the-information-logo-openai-names-new-infrastructure-leaders]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-03-13-the-information-logo-ex-anthropic-researchers-in-talks-to-ra]]
 <!-- graph:end -->

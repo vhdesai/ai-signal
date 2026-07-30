@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-07-08-daily-ai-news-digest-july-9-2026
+- 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-07-13-monday-july-13-2026
 - 2026-07-09-daily-ai-news-digest-july-10-2026
-- 2026-07-13-daily-ai-news-digest-july-14-2026
 embedding_id: 2026-07-07-daily-ai-news-digest-july-8-2026
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Frontier model launches are clearing new government hurdles and the US–China A
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-13-monday-july-13-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-13-daily-ai-news-digest-july-14-2026]]
+**Related:** [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-07-13-monday-july-13-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
 <!-- graph:end -->

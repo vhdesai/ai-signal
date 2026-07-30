@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 - 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
+- 2026-07-24-white-house-draws-new-ai-line-on-china
+- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 - 2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de
-- 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
-- 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 embedding_id: 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI industry groups are alleging Chinese influence behind grassroots resistance t
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]]
+**Related:** [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-06-29-a-chinese-cybersecurity-company-is-building-offensive-and-de]]
 <!-- graph:end -->

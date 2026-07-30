@@ -24,8 +24,7 @@ related_article_ids:
 - 2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools
 - 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 - 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
-- 2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin
-- 2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in
+- 2026-06-22-google-deepmind-and-a24-announce-research-partnership
 embedding_id: 2026-06-23-google-deepmind-invests-75m-in-film-studio-a24
 event_name: ''
 ---
@@ -39,5 +38,5 @@ Google DeepMind made a "first-of-its-kind" ~$75M investment in indie film studio
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-05-16-deepseek-finalizing-4b-raise-at-50b-valuation-backed-by-chin]] · [[2026-05-06-new-deepseek-targeting-45-billion-valuation-in-first-ever-in]]
+**Related:** [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

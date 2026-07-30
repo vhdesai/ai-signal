@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
+- 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-07-17-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri
 - 2026-07-18-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri
-- 2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov
 embedding_id: 2026-07-18-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nvidia GPU and AI-chip sentiment remains volatile as Apple briefly overtakes Nvi
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-07-17-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri]] · [[2026-07-18-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri]] · [[2026-06-30-the-ap-reports-that-chinese-chipmakers-led-by-huawei-have-ov]]
+**Related:** [[2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-07-17-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri]] · [[2026-07-18-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri]]
 <!-- graph:end -->

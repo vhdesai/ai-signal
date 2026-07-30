@@ -33,7 +33,8 @@ related_article_ids:
 - 2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win
 - 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
+- 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
+- 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
 embedding_id: 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
 event_name: ''
 ---
@@ -47,5 +48,5 @@ Meta will scale Hyperion to 5 GW at >$50B — up from initial ~$10B/2 GW. Partne
 
 **Entities:** [[Intel]] · [[Meta]] · [[Samsung]] · [[TSMC]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win]] · [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win]] · [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]]
 <!-- graph:end -->

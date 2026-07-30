@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-03-13-the-information-logo-fast-growing-kings-league-looks-to-conq
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
+- 2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri
 - 2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i
-- 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
 embedding_id: 2026-03-13-fast-growing-kings-league-startup-thrives-on-lean-model-of-p
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Fast-Growing Kings League Startup Thrives on Lean Model of Pro Sports [2026-03-1
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-13-the-information-logo-fast-growing-kings-league-looks-to-conq]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]]
+**Related:** [[2026-03-13-the-information-logo-fast-growing-kings-league-looks-to-conq]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri]] · [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]]
 <!-- graph:end -->

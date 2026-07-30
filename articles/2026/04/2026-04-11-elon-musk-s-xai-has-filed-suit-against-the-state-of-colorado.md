@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california
 - 2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo
 - 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
+- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
-- 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 embedding_id: 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 event_name: ''
 ---
@@ -44,5 +44,5 @@ event_name: ''
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]]
+**Related:** [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]]
 <!-- graph:end -->

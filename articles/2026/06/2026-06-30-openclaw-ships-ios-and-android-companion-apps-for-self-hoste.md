@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-06-30-okx-opens-a-marketplace-where-ai-agents-hire-and-pay-each-ot
-- 2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents
+- 2026-07-23-andrew-ng-releases-openworker-an-open-source-local-desktop-a
 embedding_id: 2026-06-30-openclaw-ships-ios-and-android-companion-apps-for-self-hoste
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenClaw ships iOS and Android companion apps for self-hosted agents June 29, 20
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-06-30-okx-opens-a-marketplace-where-ai-agents-hire-and-pay-each-ot]] · [[2026-06-30-cursor-launches-a-native-ios-app-for-steering-coding-agents]]
+**Related:** [[2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-06-30-okx-opens-a-marketplace-where-ai-agents-hire-and-pay-each-ot]] · [[2026-07-23-andrew-ng-releases-openworker-an-open-source-local-desktop-a]]
 <!-- graph:end -->

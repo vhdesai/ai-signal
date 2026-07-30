@@ -22,6 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 - 2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc
+- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
+- 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
 - 2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t
 embedding_id: 2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 event_name: ''
@@ -35,5 +37,5 @@ Humanoid reportedly raises at a $1.2B valuation, showing continuing investor app
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc]] · [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]]
+**Related:** [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]] · [[2026-06-15-neura-robotics-plans-to-raise-1-2b-for-humanoid-robot-produc]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]] · [[2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough]] · [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]]
 <!-- graph:end -->

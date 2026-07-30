@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso
 - 2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw
 - event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi
 - event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2
-- 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 embedding_id: 2026-05-06-newopenai-microsoft-amd-broadcom-nvidia-publish-mrc-compute
 event_name: ''
 ---
@@ -43,5 +43,5 @@ OpenAI has partnered with Microsoft, AMD, Broadcom, Nvidia, and Intel researcher
 
 **Entities:** [[AMD]] · [[Intel]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]] · [[2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]]
+**Related:** [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]] · [[2026-05-09-openai-amd-broadcom-intel-microsoft-nvidia-announce-mrc-netw]] · [[event-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f-nvidia-gtc-taipei-2026-blackwell-ultra-rubin-and-taiwan-ai-f]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi]] · [[event-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-computex-2026-nvidia-vera-rubin-photonic-networking-and-edge-2]]
 <!-- graph:end -->

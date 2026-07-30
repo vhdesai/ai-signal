@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin
+- 2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru
 - 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
 - 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
-- 2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news
-- 2026-07-09-wall-street-journal-wsj-2026-07-09-external-the-10-point-ins
 embedding_id: 2026-07-13-wall-street-journal-wsj-2026-07-13-external-wsj-markets-aler
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wall Street Journal / WSJ - [2026-07-13] [EXTERNAL] WSJ Markets Alert: Trump Say
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news]] · [[2026-07-09-wall-street-journal-wsj-2026-07-09-external-the-10-point-ins]]
+**Related:** [[2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin]] · [[2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]]
 <!-- graph:end -->

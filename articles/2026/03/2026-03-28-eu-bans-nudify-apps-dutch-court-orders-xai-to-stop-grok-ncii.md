@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
+- 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
 - 2026-05-17-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
+- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
-- 2026-07-19-apple-and-google-are-ordered-to-purge-ai-nudify-apps-increas
-- 2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica
 embedding_id: 2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii
 event_name: ''
 ---
@@ -38,5 +38,5 @@ EU Bans Nudify Apps; Dutch Court Orders xAI to Stop Grok NCII Generation
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-05-17-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]] · [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]] · [[2026-07-19-apple-and-google-are-ordered-to-purge-ai-nudify-apps-increas]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]]
+**Related:** [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]] · [[2026-05-17-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
 <!-- graph:end -->

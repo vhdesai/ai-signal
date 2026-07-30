@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau
 - 2026-03-13-outages-persist-at-stryker-after-hack-tied-to-iran-war-2026
 - 2026-07-14-the-tactical-allocation-letter-2026-07-14-no-new-the-tactica
-- 2026-07-13-the-tactical-allocation-letter-2026-07-13-no-new-the-tactica
+- 2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the
 embedding_id: 2026-03-16-war-doesn-t-belong-to-u-s-weapons-startups-yet-2026-03-16-th
 event_name: ''
 ---
@@ -33,5 +33,5 @@ War Doesn’t Belong to U.S. Weapons Startups Yet [2026-03-16] · The Informatio
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-23-no-new-tactical-allocation-letter-emails-found-for-june-23]] · [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-03-13-outages-persist-at-stryker-after-hack-tied-to-iran-war-2026]] · [[2026-07-14-the-tactical-allocation-letter-2026-07-14-no-new-the-tactica]] · [[2026-07-13-the-tactical-allocation-letter-2026-07-13-no-new-the-tactica]]
+**Related:** [[2026-06-23-no-new-tactical-allocation-letter-emails-found-for-june-23]] · [[2026-05-31-pentagon-presses-battlefield-ai-as-military-leaders-urge-cau]] · [[2026-03-13-outages-persist-at-stryker-after-hack-tied-to-iran-war-2026]] · [[2026-07-14-the-tactical-allocation-letter-2026-07-14-no-new-the-tactica]] · [[2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the]]
 <!-- graph:end -->

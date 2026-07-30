@@ -24,6 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript
 embedding_id: 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
 event_name: ''
@@ -38,5 +39,5 @@ Internal documents reported by The Information indicate Meta has placed strict l
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]]
+**Related:** [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-04-06-anthropic-has-terminated-the-ability-to-use-claude-subscript]]
 <!-- graph:end -->

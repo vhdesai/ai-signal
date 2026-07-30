@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
-- 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
-- 2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 embedding_id: 2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive / Daily Dive - [2026-07-20] [EXTERNAL] July 20 - Banks underscore AI wi
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w]]
+**Related:** [[2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]]
 <!-- graph:end -->

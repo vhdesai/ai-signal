@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: Tencent
-member_count: 115
+member_count: 124
 ---
 
 # Tencent
 
-> Auto-generated entity hub. 115 connected article(s).
+> Auto-generated entity hub. 124 connected article(s).
 
+- `2026-07-30` [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor|Tencent open-sources AngelSpec speculative-decoding framework for Hunyuan Hy3]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names|Gartner's 2026 Cloud AI Infrastructure Magic Quadrant names AWS, Google, Microsoft, Oracle as leaders]]
+- `2026-07-29` [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras|Gartner names AWS, Google, Microsoft, Oracle as Cloud AI Infrastructure leaders]]
+- `2026-07-29` [[2026-07-29-daily-ai-news-digest-july-30-2026|Daily AI News Digest – July 30, 2026]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-deepseek-in-talks-to-raise-fresh-funds-at-a-71b-valuation|DeepSeek in talks to raise fresh funds at a ~$71B valuation]]
@@ -24,6 +32,7 @@ member_count: 115
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe-under-apache|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE) Under Apache-2.0]]
 - `2026-07-06` [[2026-07-06-tencent-open-sources-full-hunyuan-hy3-295b-moe|Tencent Open-Sources Full Hunyuan Hy3 (295B MoE)]]
 - `2026-07-06` [[2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and|Policy China China's "humanlike AI" rules force ByteDance and Alibaba to pull consumer agents July 5, 2026 · The Next…]]
+- `2026-07-06` [[2026-07-06-even-realities-hits-1b-valuation-with-smart-glasses-funding|Even Realities hits $1B valuation with smart-glasses funding led by Meituan and Tencent]]
 - `2026-07-06` [[2026-07-06-even-realities-hits-1b-valuation-on-150m-from-meituan-and-te|Even Realities hits $1B valuation on $150M from Meituan and Tencent]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-05` [[2026-07-05-companies-nvidia-google-alphabet-deepmind-openai-anthropic-m|Companies: Nvidia, Google (Alphabet/DeepMind), OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]

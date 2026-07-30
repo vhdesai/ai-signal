@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
 - 2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new
+- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl
-- 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
+- 2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us
 embedding_id: 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 event_name: ''
 ---
@@ -37,5 +37,5 @@ York passed a one-year moratorium on large data center construction — the firs
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-06-08-new-york-legislature-passes-landmark-ai-generated-news-discl]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]]
+**Related:** [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-28-data-centers-may-face-temporary-power-cuts-on-the-largest-us]]
 <!-- graph:end -->

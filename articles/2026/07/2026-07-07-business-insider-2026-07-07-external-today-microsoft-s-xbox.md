@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions
+- 2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go
+- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
-- 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
-- 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 embedding_id: 2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-07-07] [EXTERNAL] Today: Microsoft's Xbox wants a reset
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]]
+**Related:** [[2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions]] · [[2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]]
 <!-- graph:end -->

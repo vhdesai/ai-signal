@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age
 - 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
+- 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
-- 2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin
 embedding_id: 2026-04-03-openai-shifts-codex-to-usage-based-pricing-for-business-and
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI Shifts Codex to Usage-Based Pricing for Business and Enterprise
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-04-03-openai-rolled-out-codex-only-seats-with-pay-as-you-go-pricin]]
+**Related:** [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age]] · [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]]
 <!-- graph:end -->

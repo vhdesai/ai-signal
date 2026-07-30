@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b
 - 2026-07-18-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
-- 2026-07-17-apple-nvidia-market-cap-shift-ibm-ai-spending-scrutiny-nvidi
 embedding_id: 2026-07-18-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple's market-cap lead over Nvidia emphasizes device distribution and end-user 
 
 **Entities:** [[Apple]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri]] · [[2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-07-18-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-07-17-apple-nvidia-market-cap-shift-ibm-ai-spending-scrutiny-nvidi]]
+**Related:** [[2026-07-17-apple-s-market-cap-lead-over-nvidia-emphasizes-device-distri]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-17-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-07-18-nvidia-gpu-and-ai-chip-sentiment-remains-volatile-as-apple-b]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
 <!-- graph:end -->

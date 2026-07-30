@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
 - 2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned
 - 2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme
-- 2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett
+- 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 embedding_id: 2026-05-05-white-house-weighs-executive-order-requiring-pre-release-ai
 event_name: ''
 ---
@@ -35,5 +35,5 @@ White House Weighs Executive Order Requiring Pre-Release AI Model Review
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-05-07-breaking-white-house-expected-to-sign-ai-frontier-model-vett]]
+**Related:** [[2026-05-05-the-trump-administration-is-reportedly-considering-an-execut]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]] · [[2026-05-05-google-deepmind-microsoft-and-xai-agree-to-give-u-s-governme]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]]
 <!-- graph:end -->

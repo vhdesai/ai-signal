@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-anthropic-has-introduced-claude-mythos-5-its-most-powerful-m
 - 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
+- 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
 - 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
 - 2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 embedding_id: 2026-04-01-anthropic-unveils-claude-mythos-5-a-10-trillion-parameter-fr
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic Unveils Claude Mythos 5 — a 10-Trillion-Parameter Frontier Model
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-01-anthropic-has-introduced-claude-mythos-5-its-most-powerful-m]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-04-01-anthropic-has-introduced-claude-mythos-5-its-most-powerful-m]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]] · [[2026-04-10-anthropic-formally-confirmed-claude-mythos-preview-first-sur]]
 <!-- graph:end -->

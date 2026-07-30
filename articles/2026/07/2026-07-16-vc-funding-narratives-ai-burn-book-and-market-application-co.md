@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 - 2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions
 - 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
-- 2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex
+- 2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex
 embedding_id: 2026-07-16-vc-funding-narratives-ai-burn-book-and-market-application-co
 event_name: ''
 ---
@@ -37,5 +37,5 @@ VC funding narratives, AI burn book, and market/application coverage relevant to
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-16-vc-pe-benchmarks-and-dual-use-defense-tech-context-adjacent]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex]]
+**Related:** [[2026-07-16-vc-pe-benchmarks-and-dual-use-defense-tech-context-adjacent]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex]]
 <!-- graph:end -->

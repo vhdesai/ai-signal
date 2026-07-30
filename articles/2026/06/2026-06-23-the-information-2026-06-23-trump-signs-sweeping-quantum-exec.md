@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders
 - 2026-07-15-the-information-2026-07-15-external-trump-administration-rol
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
+- 2026-07-29-the-information-2026-07-29-external-trump-administration-ban
 - 2026-05-02-may-1-2026-winbuzzer
-- 2026-07-09-business-insider-2026-07-09-external-today-anthropic-s-1-2t
 embedding_id: 2026-06-23-the-information-2026-06-23-trump-signs-sweeping-quantum-exec
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information - [2026-06-23] Trump Signs Sweeping Quantum Executive Orders - [
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders]] · [[2026-07-15-the-information-2026-07-15-external-trump-administration-rol]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-05-02-may-1-2026-winbuzzer]] · [[2026-07-09-business-insider-2026-07-09-external-today-anthropic-s-1-2t]]
+**Related:** [[2026-06-23-trump-signs-sweeping-quantum-computing-executive-orders]] · [[2026-07-15-the-information-2026-07-15-external-trump-administration-rol]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-29-the-information-2026-07-29-external-trump-administration-ban]] · [[2026-05-02-may-1-2026-winbuzzer]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
 - 2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises
 - 2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad
-- 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
+- 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 embedding_id: 2026-07-13-mit-cybersecurity-clinic-highlights-ai-s-changing-role-in-pu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT News profiled the MIT Cybersecurity Clinic, which provides free vulnerabilit
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-12-view-in-web-browser-the-wall-street-journal-google-s-approac]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task]]
+**Related:** [[2026-03-12-view-in-web-browser-the-wall-street-journal-google-s-approac]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i
+- 2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list
 - 2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reports surfaced that Amazon employees are under pressure to increase internal A
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list]] · [[2026-07-10-amazon-cto-says-enterprises-are-moving-workloads-to-cheaper]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 - 2026-05-01-compute-is-destiny-2026-05-01-business-insider
+- 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
+- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 - 2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80
-- 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
-- 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
 embedding_id: 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A sharp Alphabet stock rally is being read by analysts as proof that compute cap
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]]
+**Related:** [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80]]
 <!-- graph:end -->

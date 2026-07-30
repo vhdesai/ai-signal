@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use
 - 2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc
+- 2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo
 - 2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w
-- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
 embedding_id: 2026-05-05-google-gemini-agentic-benchmark-performance-surges-deep-rese
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Gemini Agentic Benchmark Performance Surges; Deep Research Agent Now MCP-
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]] · [[2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]] · [[2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc]] · [[2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo]] · [[2026-05-19-gemini-spark-google-s-24-7-personal-ai-agent-launches-next-w]]
 <!-- graph:end -->

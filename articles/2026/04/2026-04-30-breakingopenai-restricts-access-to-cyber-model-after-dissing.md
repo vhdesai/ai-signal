@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero
+- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p
 - 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor
 embedding_id: 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 event_name: ''
 ---
@@ -39,5 +39,5 @@ After publicly criticizing Anthropic for restricting its Mythos cyber-capable mo
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]]
+**Related:** [[2026-05-01-anthropic-s-mythos-cybersecurity-ai-model-deemed-too-dangero]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-04-23-the-verge-reports-that-on-april-7th-the-same-day-anthropic-p]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
 <!-- graph:end -->

@@ -27,10 +27,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
-- 2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers
-- 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
+- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 embedding_id: 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
 event_name: ''
 ---
@@ -44,5 +44,5 @@ U.S. and European semiconductor stocks sold off Friday on fears that soaring AI�
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[NVIDIA]] · [[OpenAI]] · [[Samsung]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
+**Related:** [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-stability-ai-releases-stable-audio-3
 - 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
+- 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-05-13-ai-startup-thinking-machines-came-out-of-stealth-with-the-go
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
 embedding_id: 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
@@ -37,5 +38,5 @@ Stability AI unveiled the Stable Audio 3 model family, expanding its generative-
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]] · [[2026-05-13-ai-startup-thinking-machines-came-out-of-stealth-with-the-go]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]]
+**Related:** [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-05-13-ai-startup-thinking-machines-came-out-of-stealth-with-the-go]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]]
 <!-- graph:end -->

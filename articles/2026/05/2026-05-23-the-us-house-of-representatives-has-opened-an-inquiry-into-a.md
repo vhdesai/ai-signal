@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 - 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
+- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode
-- 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
 embedding_id: 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The US House of Representatives has opened an inquiry into Airbnb's use of open-
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]]
+**Related:** [[2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-07-china-weighs-restricting-access-to-its-most-powerful-ai-mode]]
 <!-- graph:end -->

@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
 - 2026-07-17-wsj-cyber-coverage-includes-23andme-s-18m-data-breach-settle
-- 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
-- 2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18
-- 2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet
+- 2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks
+- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
+- 2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem
 embedding_id: 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Hasbro disclosed that its March data breach will cost roughly $20 million in leg
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-wsj-cyber-coverage-includes-23andme-s-18m-data-breach-settle]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18]] · [[2026-04-02-before-the-iran-conflict-escalated-microsoft-amazon-alphabet]]
+**Related:** [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-07-17-wsj-cyber-coverage-includes-23andme-s-18m-data-breach-settle]] · [[2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem]]
 <!-- graph:end -->

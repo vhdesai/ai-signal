@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
+- 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 embedding_id: 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CNN filed a copyright and trademark suit against Perplexity in the Southern Dist
 
 **Entities:** [[OpenAI]] · [[Perplexity]] · [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]]
+**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]]
 <!-- graph:end -->

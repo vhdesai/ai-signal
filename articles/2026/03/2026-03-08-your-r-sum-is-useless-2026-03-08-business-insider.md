@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-11-rip-r-sum-s-2026-03-11-business-insider
 - 2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider
+- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
+- 2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
-- 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
-- 2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox
 embedding_id: 2026-03-08-your-r-sum-is-useless-2026-03-08-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Your résumé is useless [2026-03-08] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-11-rip-r-sum-s-2026-03-11-business-insider]] · [[2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]]
+**Related:** [[2026-03-11-rip-r-sum-s-2026-03-11-business-insider]] · [[2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]]
 <!-- graph:end -->

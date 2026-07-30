@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
@@ -37,5 +38,5 @@ At GTC Taipei / COMPUTEX 2026, Nvidia also unveiled Alpamayo 2, an open reasonin
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]]
+**Related:** [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai
 - 2026-04-21-hot-meta-announces-600b-ai-investment-commitment
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
+- 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 embedding_id: 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta is considering raising tens of billions through equity to fund ~$145B in AI
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]]
+**Related:** [[2026-06-05-meta-reportedly-plans-massive-stock-sale-to-fund-145b-in-ai]] · [[2026-04-21-hot-meta-announces-600b-ai-investment-commitment]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]]
 <!-- graph:end -->

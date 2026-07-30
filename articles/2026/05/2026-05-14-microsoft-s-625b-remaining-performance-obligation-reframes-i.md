@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
+- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
-- 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
 embedding_id: 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysis of Microsoft's latest 10-Q filing reveals $625 billion in remaining per
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]]
 <!-- graph:end -->

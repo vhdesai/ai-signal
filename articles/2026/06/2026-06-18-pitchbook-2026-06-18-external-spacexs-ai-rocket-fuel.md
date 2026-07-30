@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
 - 2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-18] [EXTERNAL] SpaceXs AI rocket fuel
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]]
+**Related:** [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

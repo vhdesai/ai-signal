@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+- 2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation
 - 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
 - 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 embedding_id: 2026-07-20-large-ai-supply-deals-and-data-center-commitments-face-execu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Large AI supply deals and data-center commitments face execution risk around pow
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
+**Related:** [[2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
 <!-- graph:end -->

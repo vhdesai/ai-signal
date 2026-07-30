@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc
 - 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
 - 2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice
-- 2026-05-22-model-releases-new-models-specialized-variants
+- 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 - 2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast
 embedding_id: 2026-05-13-medicare-rolls-out-a-new-ai-native-payment-model-and-most-of
 event_name: ''
@@ -37,5 +37,5 @@ Medicare Rolls Out a New AI-Native Payment Model — and Most of the Tech World 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc]] · [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]] · [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice]] · [[2026-05-22-model-releases-new-models-specialized-variants]] · [[2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast]]
+**Related:** [[2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc]] · [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]] · [[2026-07-13-nadella-warns-enterprises-they-may-be-paying-for-ai-twice]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast]]
 <!-- graph:end -->

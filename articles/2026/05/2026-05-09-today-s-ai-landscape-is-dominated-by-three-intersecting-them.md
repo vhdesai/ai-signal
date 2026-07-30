@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
+- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 - 2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti
 - 2026-05-05-today-s-biggest-themes-the-ai-enterprise-land-grab-intensifi
-- 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
 embedding_id: 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Today's AI landscape is dominated by three intersecting themes: infrastructure f
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-05-05-today-s-biggest-themes-the-ai-enterprise-land-grab-intensifi]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
+**Related:** [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-07-10-the-ai-industry-is-focused-on-frontier-model-launches-agenti]] · [[2026-05-05-today-s-biggest-themes-the-ai-enterprise-land-grab-intensifi]]
 <!-- graph:end -->

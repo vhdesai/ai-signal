@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce
+- 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
+- 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
+- 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 - 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
-- 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
-- 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 embedding_id: 2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Per an internal presentation reported by Bloomberg, Starbucks is using AI-assist
 
 **Entities:** [[IBM]] · [[Microsoft]] · [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]]
+**Related:** [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]]
 <!-- graph:end -->

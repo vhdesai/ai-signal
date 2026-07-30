@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-27-daily-ai-news-digest-june-27-2026
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
+- 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
-- 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 embedding_id: 2026-06-27-a-consequential-24-hours-for-the-ai-industry
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A consequential 24 hours for the AI industry. OpenAI previewed its GPT‑5.6 "So
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]]
+**Related:** [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]]
 <!-- graph:end -->

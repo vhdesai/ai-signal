@@ -20,6 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-09-is-this-email-difficult-to-read-view-in-browser-the-wall-str
 - 2026-03-16-war-doesn-t-belong-to-u-s-weapons-startups-yet-2026-03-16-th
+- 2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the
 embedding_id: 2026-03-09-when-is-a-war-not-a-war-when-congress-is-involved-2026-03-09
 event_name: ''
 ---
@@ -31,5 +32,5 @@ When Is a War Not a War? When Congress Is Involved [2026-03-09] · Wall Street J
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-09-is-this-email-difficult-to-read-view-in-browser-the-wall-str]] · [[2026-03-16-war-doesn-t-belong-to-u-s-weapons-startups-yet-2026-03-16-th]]
+**Related:** [[2026-03-09-is-this-email-difficult-to-read-view-in-browser-the-wall-str]] · [[2026-03-16-war-doesn-t-belong-to-u-s-weapons-startups-yet-2026-03-16-th]] · [[2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the]]
 <!-- graph:end -->

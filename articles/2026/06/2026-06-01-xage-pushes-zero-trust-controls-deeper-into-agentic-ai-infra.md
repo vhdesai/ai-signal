@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
+- 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
+- 2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a
 - 2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia
-- 2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age
-- event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib
-- event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents
 embedding_id: 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Xage Security announced enhancements to its zero-trust solution for agentic AI u
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-06-22-dhs-cisa-urged-to-mandate-minimum-security-standards-for-age]] · [[event-microsoft-build-2026-microsoft-build-2026-security-trust-governance-and-responsib]] · [[event-rsa-conference-2026-rsac-2026-rsa-conference-2026-rsac-2026-zero-trust-for-ai-agents]]
+**Related:** [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
 <!-- graph:end -->

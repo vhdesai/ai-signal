@@ -22,8 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model
 - 2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m
+- 2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
-- 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
+- 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
 embedding_id: 2026-07-07-minimax-releases-2-7t-parameter-open-weight-model
 event_name: ''
 ---
@@ -36,5 +37,5 @@ MiniMax released its 2.7-trillion parameter open-weight model, the largest open 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]]
+**Related:** [[2026-07-08-minimax-plans-a-2-7-trillion-parameter-open-weight-model]] · [[2026-07-08-china-s-minimax-plans-a-2-7-trillion-parameter-open-weight-m]] · [[2026-07-27-moonshot-s-kimi-k3-becomes-the-largest-open-weight-model-eve]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open]]
 <!-- graph:end -->

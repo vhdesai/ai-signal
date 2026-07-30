@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-03-16-ex-uber-ceo-kalanick-plots-self-driving-car-firm-with-uber-f
 - 2026-03-19-uber-s-autonomous-quest-2026-03-19-the-information
 - 2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s
-- 2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo
+- 2026-07-22-travis-kalanick-s-robotics-venture-atoms-raises-7b-led-by-a1
 embedding_id: 2026-03-13-travis-kalanick-plots-new-self-driving-venture-with-levandow
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Travis Kalanick Plots New Self-Driving Venture with Levandowski, Uber [2026-03-1
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving]] · [[2026-03-16-ex-uber-ceo-kalanick-plots-self-driving-car-firm-with-uber-f]] · [[2026-03-19-uber-s-autonomous-quest-2026-03-19-the-information]] · [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]] · [[2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo]]
+**Related:** [[2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving]] · [[2026-03-16-ex-uber-ceo-kalanick-plots-self-driving-car-firm-with-uber-f]] · [[2026-03-19-uber-s-autonomous-quest-2026-03-19-the-information]] · [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]] · [[2026-07-22-travis-kalanick-s-robotics-venture-atoms-raises-7b-led-by-a1]]
 <!-- graph:end -->

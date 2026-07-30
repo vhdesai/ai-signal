@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia
 - 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
+- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme
-- 2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic
 embedding_id: 2026-05-29-llms-can-mass-produce-finance-papers-that-look-human-authore
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Recent academic work shows large language models can mass-produce finance papers
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]] · [[2026-05-19-new-harvard-broad-arxiv-preprint-auditing-llm-clinical-ethic]]
+**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-26-a-new-audit-of-2-5-million-biomedical-papers-led-by-columbia]] · [[2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-18-research-preprint-repository-arxiv-announced-a-new-enforceme]]
 <!-- graph:end -->

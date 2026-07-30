@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
+- 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
-- 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
-- 2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide
+- 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 embedding_id: 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CIO Dive reported that executives and employees are clashing over AI usage polic
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]]
+**Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

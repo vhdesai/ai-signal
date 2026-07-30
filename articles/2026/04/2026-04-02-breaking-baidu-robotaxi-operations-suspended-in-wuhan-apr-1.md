@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-04-02-baidu-apollo-go-robotaxi-fleet-freezes-across-wuhan-in-major
 - 2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc
 - 2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani
-- 2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic
+- 2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg
 embedding_id: 2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Baidu]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-02-baidu-apollo-go-robotaxi-fleet-freezes-across-wuhan-in-major]] · [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-04-22-major-analysis-published-today-in-the-bulletin-of-the-atomic]]
+**Related:** [[2026-04-02-baidu-apollo-go-robotaxi-fleet-freezes-across-wuhan-in-major]] · [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg]]
 <!-- graph:end -->

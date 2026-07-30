@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib
 - 2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai
 - 2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i
-- 2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode
+- 2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model
 embedding_id: 2026-05-27-ai-studios-expands-tts-lineup-with-1-000-context-aware-expre
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI Studios rolled out a major expansion of its text-to-speech catalog with more 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-05-08-openai-on-may-7-released-a-new-suite-of-real-time-audio-mode]]
+**Related:** [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-04-02-microsoft-launched-its-first-party-mai-model-suite-transcrib]] · [[2026-04-02-breaking-microsoft-launches-mai-transcribe-1-mai-voice-1-mai]] · [[2026-05-10-hotmicrosoft-releases-mai-transcribe-1-mai-voice-1-and-mai-i]] · [[2026-07-28-fish-audio-raises-52-million-seed-for-expressive-voice-model]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and
+- 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
+- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
 - 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
 embedding_id: 2026-06-29-amazon-increased-pricing-on-a-key-aws-ai-cloud-service-by-20
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Amazon increased pricing on a key AWS AI cloud service by 20%, citing rising mem
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
+**Related:** [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]]
 <!-- graph:end -->

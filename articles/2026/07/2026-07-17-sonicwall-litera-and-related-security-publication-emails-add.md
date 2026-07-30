@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-15-other-ai-related-publication-emails-2026-07-15-external-meet
 - 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
 - 2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil
+- 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
-- 2026-07-16-microsoft-reactor-cloudera-csa-progress-hrtrainonline-bizben
 embedding_id: 2026-07-17-sonicwall-litera-and-related-security-publication-emails-add
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SonicWall, Litera, and related security publication emails add cloud secure edge
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-15-other-ai-related-publication-emails-2026-07-15-external-meet]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-07-16-microsoft-reactor-cloudera-csa-progress-hrtrainonline-bizben]]
+**Related:** [[2026-07-15-other-ai-related-publication-emails-2026-07-15-external-meet]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]]
 <!-- graph:end -->

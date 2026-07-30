@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize
 - 2026-07-13-airlines-and-hyperscalers-clamor-for-turbines
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
+- 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 embedding_id: 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 event_name: ''
 ---
@@ -36,5 +36,5 @@ WSJ highlighted surging demand for specialized turbine parts as airlines and hyp
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-07-13-airlines-and-hyperscalers-clamor-for-turbines]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
+**Related:** [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-07-13-airlines-and-hyperscalers-clamor-for-turbines]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

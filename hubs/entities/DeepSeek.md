@@ -1,13 +1,32 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 268
+member_count: 287
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 268 connected article(s).
+> Auto-generated entity hub. 287 connected article(s).
 
+- `2026-07-29` [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr|Moonshot AI closes $3.5B round as open-weight China models draw scrutiny]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-28` [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing|China Rejects U.S. Claims That Chinese AI Firms Are Stealing IP Through Model Distillation]]
+- `2026-07-27` [[2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu|The Information - [2026-07-27] [EXTERNAL] DeepSeek Puts Current Funding Round on Hold - [2026-07-27] [EXTERNAL] China…]]
+- `2026-07-27` [[2026-07-27-deepseek-puts-funding-round-on-hold-after-leaked-founder-cal|DeepSeek puts funding round on hold after leaked founder call]]
+- `2026-07-27` [[2026-07-27-deepseek-puts-current-funding-round-on-hold-after-leaked-fou|DeepSeek puts current funding round on hold after leaked founder call]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-26` [[2026-07-26-deepseek-reportedly-puts-current-funding-round-on-hold|DeepSeek reportedly puts current funding round on hold]]
+- `2026-07-26` [[2026-07-26-deepseek-pauses-second-funding-round-after-founder-s-leaked|DeepSeek pauses second funding round after founder's leaked remarks go viral]]
+- `2026-07-26` [[2026-07-26-deepseek-pauses-roughly-71b-funding-round-after-founder-rema|DeepSeek pauses roughly $71B funding round after founder remarks go viral]]
+- `2026-07-26` [[2026-07-26-deepseek-pauses-its-1-4b-funding-round-after-founder-s-leake|DeepSeek pauses its ~$1.4B funding round after founder’s leaked remarks go viral]]
+- `2026-07-26` [[2026-07-26-deepseek-pauses-its-second-funding-round-after-founder-s-vir|DeepSeek pauses its second funding round after founder's viral remarks]]
+- `2026-07-26` [[2026-07-26-deepseek-pauses-71b-funding-round-after-founder-s-leaked-rem|DeepSeek Pauses ~$71B Funding Round After Founder's Leaked Remarks]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-25` [[2026-07-25-ft-china-trains-global-south-developers-on-its-free-open-ai|FT: China trains Global South developers on its free, open AI models]]
+- `2026-07-25` [[2026-07-25-deepseek-pauses-a-1-4b-raise-after-founder-s-leaked-remarks|DeepSeek pauses a ~$1.4B raise after founder's leaked remarks go viral]]
+- `2026-07-25` [[2026-07-25-daily-ai-news-digest-july-26-2026|Daily AI News Digest – July 26, 2026]]
+- `2026-07-24` [[2026-07-24-deepseek-locks-v4-to-stable-as-legacy-api-model-ids-retire|DeepSeek locks V4 to stable as legacy API model IDs retire]]
 - `2026-07-19` [[2026-07-19-kimi-k3-deepseek-v4-pro-and-glm-5-2-are-compared-as-open-tri|Kimi K3, DeepSeek V4 Pro, and GLM-5.2 are compared as open trillion-scale MoE models on benchmarks, licensing, and…]]
 - `2026-07-18` [[2026-07-18-chinese-open-weight-momentum-including-kimi-kimi-k3-qwen-dee|Chinese open-weight momentum, including Kimi/Kimi K3, Qwen, DeepSeek, Doubao, and GLM, is now a central competitive and…]]
 - `2026-07-17` [[2026-07-17-chinese-open-weight-momentum-including-kimi-kimi-k3-qwen-dee|Chinese open-weight momentum, including Kimi/Kimi K3, Qwen, DeepSeek, Doubao, and GLM, is now a central competitive and…]]

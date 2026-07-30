@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo
+- 2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio
 - 2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales
 - 2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut
-- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
 embedding_id: 2026-07-08-the-information-2026-07-08-external-china-plans-to-let-top-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information - [2026-07-08] [EXTERNAL] China Plans to Let Top AI Firms Buy Li
 
 **Entities:** [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo]] · [[2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
+**Related:** [[2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo]] · [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio]] · [[2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales]] · [[2026-05-19-nvidia-s-jensen-huang-says-china-will-open-over-time-to-h200]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]]
 <!-- graph:end -->

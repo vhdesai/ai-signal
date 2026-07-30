@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
+- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
-- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
-- 2026-07-17-san-francisco-wealth-capital-market-coverage-and-business-in
+- 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 embedding_id: 2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Chip and memory stocks sell off as public markets scrutinize AI capex ROI, even 
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-07-17-san-francisco-wealth-capital-market-coverage-and-business-in]]
+**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]]
 <!-- graph:end -->

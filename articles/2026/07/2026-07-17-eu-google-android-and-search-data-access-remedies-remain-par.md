@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-16-the-eu-orders-google-to-open-android-features-and-share-anon
 - 2026-07-15-google-s-ai-search-features-face-child-safety-criticism
 - 2026-04-10-google-has-rolled-out-end-to-end-encryption-for-gmail-on-and
-- event-google-android-show-2026-google-android-show-2026-strategic-implications
+- 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 embedding_id: 2026-07-17-eu-google-android-and-search-data-access-remedies-remain-par
 event_name: ''
 ---
@@ -39,5 +39,5 @@ EU/Google Android and search-data access remedies remain part of the deployment-
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios]] · [[2026-07-16-the-eu-orders-google-to-open-android-features-and-share-anon]] · [[2026-07-15-google-s-ai-search-features-face-child-safety-criticism]] · [[2026-04-10-google-has-rolled-out-end-to-end-encryption-for-gmail-on-and]] · [[event-google-android-show-2026-google-android-show-2026-strategic-implications]]
+**Related:** [[2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios]] · [[2026-07-16-the-eu-orders-google-to-open-android-features-and-share-anon]] · [[2026-07-15-google-s-ai-search-features-face-child-safety-criticism]] · [[2026-04-10-google-has-rolled-out-end-to-end-encryption-for-gmail-on-and]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]]
 <!-- graph:end -->

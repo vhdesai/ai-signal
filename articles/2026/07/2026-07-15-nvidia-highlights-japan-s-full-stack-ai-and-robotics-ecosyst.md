@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration
 - 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
 - 2026-07-17-nvidia-japan-physical-ai-ecosystem-coverage-highlights-cosmo
 - 2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a
-- 2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve
 embedding_id: 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia highlights Japan's full-stack AI and robotics ecosystem.
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-07-17-nvidia-japan-physical-ai-ecosystem-coverage-highlights-cosmo]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]] · [[2026-06-17-foxconn-reveals-closed-loop-physical-ai-stack-with-nvidia-ve]]
+**Related:** [[2026-07-24-nvidia-and-south-korea-outline-full-stack-ai-collaboration]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-07-17-nvidia-japan-physical-ai-ecosystem-coverage-highlights-cosmo]] · [[2026-04-04-for-national-robotics-week-nvidia-is-highlighting-physical-a]]
 <!-- graph:end -->

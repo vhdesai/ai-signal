@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-17-pwc-announced-a-major-deployment-of-claude-to-build-technolo
 - 2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles
+- 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
-- 2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s
+- 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
 embedding_id: 2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM unveiled Bob, an AI platform aimed at controlling cost overruns across the s
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-pwc-announced-a-major-deployment-of-claude-to-build-technolo]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-05-27-ibm-and-red-hat-pledge-5-billion-for-ai-driven-open-source-s]]
+**Related:** [[2026-05-17-pwc-announced-a-major-deployment-of-claude-to-build-technolo]] · [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles]] · [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an]] · [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas]]
 <!-- graph:end -->

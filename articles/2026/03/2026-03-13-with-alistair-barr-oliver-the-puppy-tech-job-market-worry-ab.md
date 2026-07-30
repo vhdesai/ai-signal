@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti
 - 2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber
 - 2026-03-28-source-techcrunch-venturebeat-march-26-27-2026
-- 2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo
+- 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 embedding_id: 2026-03-13-with-alistair-barr-oliver-the-puppy-tech-job-market-worry-ab
 event_name: ''
 ---
@@ -36,5 +36,5 @@ with Alistair Barr - Oliver the puppy - tech job market - worry about AI - Amazo
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-05-01-tech-memo-logo-with-alistair-barr-tune-in-here-amazon-tracks]] · [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber]] · [[2026-03-28-source-techcrunch-venturebeat-march-26-27-2026]] · [[2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo]]
+**Related:** [[2026-05-01-tech-memo-logo-with-alistair-barr-tune-in-here-amazon-tracks]] · [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-05-11-news-blogs-techcrunch-ai-venturebeat-ai-forbes-cnbc-bloomber]] · [[2026-03-28-source-techcrunch-venturebeat-march-26-27-2026]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]]
 <!-- graph:end -->

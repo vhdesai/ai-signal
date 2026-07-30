@@ -30,8 +30,8 @@ related_article_ids:
 - 2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled
 - 2026-04-22-products-tools
 - event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
+- 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 - 2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat
-- event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa
 embedding_id: 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Alibaba's HappyHorse-1.0 Tops Video Generation Leaderboards
 
 **Entities:** [[Alibaba]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-04-22-products-tools]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[event-google-cloud-next-2026-enterprise-agent-platform-gemini-expa-google-cloud-next-2026-enterprise-agent-platform-gemini-expa]]
+**Related:** [[2026-04-22-at-its-annual-conference-in-las-vegas-google-cloud-unveiled]] · [[2026-04-22-products-tools]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-29-ibm-unveils-the-world-s-first-sub-1-nanometer-chip-technolog
 - 2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr
 - 2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for
-- 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
+- 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
 embedding_id: 2026-06-29-ibm-introduced-what-it-bills-as-the-first-sub-1nm-chip-built
 event_name: ''
 ---
@@ -39,5 +39,5 @@ IBM introduced what it bills as the first sub‑1nm chip, built on a new transis
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit]] · [[2026-06-29-ibm-unveils-the-world-s-first-sub-1-nanometer-chip-technolog]] · [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]]
+**Related:** [[2026-06-25-ibm-claims-first-sub-1nm-transistor-a-0-7nm-nanostack-archit]] · [[2026-06-29-ibm-unveils-the-world-s-first-sub-1-nanometer-chip-technolog]] · [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr]] · [[2026-04-06-arm-announced-a-136-core-processor-designed-specifically-for]] · [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel]]
 <!-- graph:end -->

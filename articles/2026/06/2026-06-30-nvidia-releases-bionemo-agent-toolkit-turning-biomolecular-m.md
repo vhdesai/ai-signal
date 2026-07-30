@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
 - 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 - 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
-- 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
-- 2026-04-04-nvidia-blog-nvidia-newsroomapril-4-2026
+- 2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio
 embedding_id: 2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA releases BioNeMo Agent Toolkit, turning biomolecular models into agent-ca
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-04-04-nvidia-blog-nvidia-newsroomapril-4-2026]]
+**Related:** [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio]]
 <!-- graph:end -->

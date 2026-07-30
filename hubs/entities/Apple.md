@@ -1,13 +1,31 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 310
+member_count: 330
 ---
 
 # Apple
 
-> Auto-generated entity hub. 310 connected article(s).
+> Auto-generated entity hub. 330 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-apple-launches-apple-upgrade-leasing-program-amid-ai-driven|Apple launches 'Apple Upgrade' leasing program amid AI-driven component inflation]]
+- `2026-07-28` [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker|OpenAI’s hardware roadmap sharpens: a Jony Ive smart speaker and an AI phone]]
+- `2026-07-28` [[2026-07-28-openai-extends-chatgpt-into-personal-health-records|OpenAI Extends ChatGPT into Personal Health Records]]
+- `2026-07-28` [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an|Nvidia briefly cedes largest-US-company crown to Apple in an AI-chip sell-off]]
+- `2026-07-28` [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b|Global AI stock sell-off hits chip and memory names; Nvidia briefly loses top spot to Apple]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-28` [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a|Apple publishes memory-efficient on-device audio synthesis architecture]]
+- `2026-07-27` [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are|Other AI-related Publication Emails - [2026-07-27] [EXTERNAL] Are your AI pilots failing?]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-27` [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test|Big Tech’s AI capex faces its first real earnings-week test]]
+- `2026-07-27` [[2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in|Apple publishes GH-ESD for grounded error-slice discovery in vision models]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-24` [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno|Other AI-related Publication Emails - [2026-07-24] [EXTERNAL] Announcing Developers.ai: Call for Speakers -…]]
+- `2026-07-24` [[2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h|Apple proposes LEAD to reduce no-recovery failures in long-horizon reasoning]]
+- `2026-07-24` [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur|Apple proposes LEAD to address long-horizon reasoning failures]]
+- `2026-07-23` [[2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe|Apple and Google research on agents, video, and health; MIT/DOE Genesis Mission]]
+- `2026-07-22` [[2026-07-22-daily-ai-news-digest-july-23-2026|Daily AI News Digest – July 23, 2026]]
 - `2026-07-21` [[2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n|The Information - [2026-07-21] [EXTERNAL] Exclusive: Google Plans New 'Frozen' Chip to Run Its AI Models Much More…]]
 - `2026-07-21` [[2026-07-21-google-frozen-chip-samsung-memory-chip-positioning-apple-doj|Google Frozen chip; Samsung/memory-chip positioning; Apple/DOJ talks; Alibaba model; Moonshot IPO; SpaceX/Alphabet…]]
 - `2026-07-21` [[2026-07-21-apple-published-rayrope-for-projective-ray-positional-encodi|Apple published RayRoPE for projective ray positional encoding in multi-view transformers, relevant to spatial…]]
@@ -75,6 +93,8 @@ member_count: 310
 - `2026-07-08` [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni|Google Photos adds AI "Video Remix" powered by Gemini Omni]]
 - `2026-07-08` [[2026-07-08-china-warns-of-backdoor-security-risk-in-anthropic-s-claude|China Warns of “Backdoor” Security Risk in Anthropic’s Claude Code; Alibaba to Ban It from July 10]]
 - `2026-07-07` [[2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei|The Information - [2026-07-07] [EXTERNAL] China's AI Lab Ziphu Weighs Custom Chip As Demand for its GLM Model Soars -…]]
+- `2026-07-06` [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m|Scaling Properties of Continuous Diffusion Spoken Language Models]]
+- `2026-07-06` [[2026-07-06-path-constrained-mixture-of-experts|Path-Constrained Mixture-of-Experts]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2|Broadcom expands work for Apple, supplying products through 2031]]

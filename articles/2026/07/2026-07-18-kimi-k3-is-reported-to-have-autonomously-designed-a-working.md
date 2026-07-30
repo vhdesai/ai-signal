@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-17-kimi-k3-is-reported-to-have-autonomously-designed-a-working
 - 2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize
 - 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
-- 2026-07-20-kimi-k3-reportedly-pauses-new-signups-within-48-hours-becaus
+- 2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y
 embedding_id: 2026-07-18-kimi-k3-is-reported-to-have-autonomously-designed-a-working
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Kimi K3 is reported to have autonomously designed a working chip over a 48-hour 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-17-kimi-k3-is-reported-to-have-autonomously-designed-a-working]] · [[2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-20-kimi-k3-reportedly-pauses-new-signups-within-48-hours-becaus]]
+**Related:** [[2026-07-17-kimi-k3-is-reported-to-have-autonomously-designed-a-working]] · [[2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-27-kimi-k3-open-weights-go-live-the-largest-open-weight-model-y]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii
 - 2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica
+- 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
 - 2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an
 - 2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai
-- 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
 embedding_id: 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The European Parliament passed a resolution banning AI applications designed to 
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an]] · [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]]
+**Related:** [[2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii]] · [[2026-05-07-eu-ai-act-simplification-deal-high-risk-rule-delays-nudifica]] · [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]] · [[2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an]] · [[2026-05-18-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-ai]]
 <!-- graph:end -->

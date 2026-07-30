@@ -25,10 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
+- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
+- 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co
 - 2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking
-- 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
-- 2026-04-27-read-the-report-mapping-the-ai-supercycle-through-the-lookin
 embedding_id: 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft cuts Claude Code access amid surging AI coding costs
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-04-27-read-the-report-mapping-the-ai-supercycle-through-the-lookin]]
+**Related:** [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]]
 <!-- graph:end -->

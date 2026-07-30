@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 - 2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs
 - 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
-- 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
-- 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
+- 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 embedding_id: 2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-01] [EXTERNAL] New Q2 data, new dashboard
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]]
+**Related:** [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]]
 <!-- graph:end -->

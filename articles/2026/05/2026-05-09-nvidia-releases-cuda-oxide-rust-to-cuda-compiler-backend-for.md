@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
+- 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
+- 2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati
 - 2026-07-17-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
 - 2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe
-- 2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro
-- 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
-- 2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra
 embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA released cuda-oxide, an experimental compiler backend that lets AI infras
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-17-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-05-11-sakana-ai-nvidia-introduce-twell-20-5-inference-and-21-9-tra]]
+**Related:** [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati]] · [[2026-07-17-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]]
 <!-- graph:end -->

@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
+- 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
 - 2026-07-08-business-insider-2026-07-08-external-today-the-new-rules-of
-- 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est
 embedding_id: 2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-01] [EXTERNAL] Today: A student-loan overhaul begins
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-08-business-insider-2026-07-08-external-today-the-new-rules-of]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]]
+**Related:** [[2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-08-business-insider-2026-07-08-external-today-the-new-rules-of]]
 <!-- graph:end -->

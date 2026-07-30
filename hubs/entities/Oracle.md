@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 127
+member_count: 134
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 127 connected article(s).
+> Auto-generated entity hub. 134 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names|Gartner's 2026 Cloud AI Infrastructure Magic Quadrant names AWS, Google, Microsoft, Oracle as leaders]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
+- `2026-07-29` [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras|Gartner names AWS, Google, Microsoft, Oracle as Cloud AI Infrastructure leaders]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-20` [[2026-07-20-frontiers-labs-increasingly-rent-compute-from-rivals-and-spe|Frontiers labs increasingly rent compute from rivals and specialists, distributing construction/permitting risk across…]]
 - `2026-07-19` [[2026-07-19-oracle-s-165b-project-jupiter-ai-campus-is-rejected-by-regul|Oracle's $165B Project Jupiter AI campus is rejected by regulators for a second time, showing state-level…]]
 - `2026-07-19` [[2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost|Oracle data centers reportedly face multibillion-dollar cost surprises, reinforcing execution risk in AI buildouts]]

@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
 - 2026-06-09-cio-dive-2026-06-09-external-legacy-vmware-cloud-environment
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
-- 2026-06-29-cio-dive-2026-06-29-external-june-29-execs-worry-about-ai-sy
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 embedding_id: 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-06-16] [EXTERNAL] How CIOs say yes to AI without losing control
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-06-09-cio-dive-2026-06-09-external-legacy-vmware-cloud-environment]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-06-29-cio-dive-2026-06-29-external-june-29-execs-worry-about-ai-sy]]
+**Related:** [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-06-09-cio-dive-2026-06-09-external-legacy-vmware-cloud-environment]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]]
 <!-- graph:end -->

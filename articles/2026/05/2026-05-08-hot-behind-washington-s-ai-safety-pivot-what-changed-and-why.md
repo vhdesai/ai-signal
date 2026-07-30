@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 - 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
+- 2026-06-20-axios-frames-ai-ceos-as-emerging-geopolitical-actors-after-g
 - 2026-04-22-ai-safety-policy
 - 2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri
-- 2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay
 embedding_id: 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reports on the internal dynamics behind Washington's shift back toward AI 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-04-22-ai-safety-policy]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]] · [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]]
+**Related:** [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-06-20-axios-frames-ai-ceos-as-emerging-geopolitical-actors-after-g]] · [[2026-04-22-ai-safety-policy]] · [[2026-05-14-breaking-trump-signals-ai-regulation-shift-after-beijing-tri]]
 <!-- graph:end -->

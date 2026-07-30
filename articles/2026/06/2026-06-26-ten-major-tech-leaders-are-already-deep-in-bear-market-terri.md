@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
-- 2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface
-- 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 embedding_id: 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A widening AI sell-off has dragged several marquee technology names well below t
 
 **Entities:** [[Oracle]] · [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-06-23-ai-tech-stocks-tumble-globally-as-rate-fears-resurface]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]]
+**Related:** [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general
 related_article_ids:
+- 2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna
 - 2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6
 embedding_id: 2026-07-09-openai-launches-gpt-5-6-family-sol-terra-luna-to-general-ava
 event_name: ''
@@ -38,5 +39,5 @@ OpenAI moved GPT-5.6 to GA after a two-week restricted preview tied to U.S. cybe
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-09-openai-launches-gpt-5-6-family-sol-terra-and-luna-to-general]]
-**Related:** [[2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6]]
+**Related:** [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6]]
 <!-- graph:end -->

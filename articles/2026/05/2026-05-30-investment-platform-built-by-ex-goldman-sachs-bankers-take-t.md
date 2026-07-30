@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-03-09-pitchbook-lcd-leveraged-finance-survey-analyst-note-read-the
+- 2026-07-28-pitchbook-2026-07-28-external-bain-vs
 - 2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i
-- 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 embedding_id: 2026-05-30-investment-platform-built-by-ex-goldman-sachs-bankers-take-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ investment platform built by ex-Goldman Sachs bankers - Take the same trade. - O
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-03-09-pitchbook-lcd-leveraged-finance-survey-analyst-note-read-the]] · [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]]
+**Related:** [[2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-03-09-pitchbook-lcd-leveraged-finance-survey-analyst-note-read-the]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]]
 <!-- graph:end -->

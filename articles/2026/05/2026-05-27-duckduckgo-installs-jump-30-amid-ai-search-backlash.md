@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
+- 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 - 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
 - 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
-- 2026-05-26-aitoolly-github-trending-may-26-2026
 embedding_id: 2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DuckDuckGo reported a roughly 30% surge in app installs over the past month as a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-05-26-aitoolly-github-trending-may-26-2026]]
+**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]]
 <!-- graph:end -->

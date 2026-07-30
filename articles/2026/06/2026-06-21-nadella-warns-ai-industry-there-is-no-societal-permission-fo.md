@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+- 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
-- 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
 embedding_id: 2026-06-21-nadella-warns-ai-industry-there-is-no-societal-permission-fo
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Nadella Warns AI Industry: "There Is No Societal Permission" for Concentration T
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]]
+**Related:** [[2026-06-22-nadella-warns-ai-industry-must-earn-public-social-permission]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]] · [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]]
 <!-- graph:end -->

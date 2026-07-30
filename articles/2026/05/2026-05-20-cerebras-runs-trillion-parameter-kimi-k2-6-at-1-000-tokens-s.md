@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon
 - 2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems
 - 2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s
-- 2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a
+- 2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open
 embedding_id: 2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-1-000-tokens-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Less than a week after the largest tech IPO of 2026, Cerebras announced it is ru
 
 **Entities:** [[Cerebras]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]]
+**Related:** [[2026-05-20-cerebras-runs-trillion-parameter-kimi-k2-6-at-981-tokens-sec]] · [[2026-05-18-cerebras-runs-trillion-parameter-model-at-1-000-tokens-secon]] · [[2026-05-20-fresh-off-its-5-55b-ipo-at-a-95b-market-cap-cerebras-systems]] · [[2026-05-14-cerebras-systems-ipo-soars-68-on-debut-raises-5-5b-in-2026-s]] · [[2026-07-27-moonshot-ai-s-kimi-k3-open-weights-go-live-the-largest-open]]
 <!-- graph:end -->

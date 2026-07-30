@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
+- 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
-- 2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep
-- 2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate
 embedding_id: 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ UC San Diego's Jacobs School of Engineering and Brain Corp announced an expanded
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-14-the-inaugural-acm-conference-on-ai-and-agentic-systems-accep]] · [[2026-03-28-research-from-mit-and-collaborating-institutions-demonstrate]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]]
 <!-- graph:end -->

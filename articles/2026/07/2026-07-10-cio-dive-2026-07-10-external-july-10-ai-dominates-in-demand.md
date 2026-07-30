@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
+- 2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa
 - 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
+- 2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram
 - 2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv
-- 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
-- 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
 embedding_id: 2026-07-10-cio-dive-2026-07-10-external-july-10-ai-dominates-in-demand
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive - [2026-07-10] [EXTERNAL] July 10 - AI dominates in-demand skills | SAP
 ## Connections
 
 **Entities:** [[SAP]]
-**Related:** [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]]
+**Related:** [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv]]
 <!-- graph:end -->

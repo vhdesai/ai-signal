@@ -1,13 +1,20 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 26
+member_count: 33
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 26 connected article(s).
+> Auto-generated entity hub. 33 connected article(s).
 
+- `2026-07-29` [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc|Cerebras signs a 10-year AI colocation agreement with CleanCore in Minnesota]]
+- `2026-07-29` [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol|Cerebras signs 10-year AI colocation deal with CleanCore Solutions]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia|AMD unveils Helios rack-scale AI system to challenge Nvidia at the system level]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026|AMD unveils Helios rack-scale AI system at Advancing AI 2026]]
+- `2026-07-24` [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi|AMD Unveils Helios Rack-Scale AI System; OpenAI, Meta, Anthropic Preparing Deployments]]
+- `2026-07-23` [[2026-07-23-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
 - `2026-07-15` [[2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand|Vint Cerf backs DNSid / internet-scale AI-agent identity standards]]
 - `2026-07-10` [[2026-07-10-claude-fable-5-rewrites-bun-runtime-from-zig-to-rust-in-a-la|Claude Fable 5 rewrites Bun runtime from Zig to Rust in a large-scale AI migration demo]]
 - `2026-07-02` [[2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat|Remote Labor Index update: Fable 5 hits a record 16.1% automation rate on real freelance work]]

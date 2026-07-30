@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
 - 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
+- 2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa
 - 2026-03-09-march-9-kroger-adds-ai-chief-tech-jobs-rebound-2026-03-09-ci
 - 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
-- 2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv
 embedding_id: 2026-03-10-march-10-shadow-ai-ticks-up-kimberly-clark-gets-new-cio-2026
 event_name: ''
 ---
@@ -34,5 +34,5 @@ March 10 - Shadow AI ticks up | Kimberly-Clark gets new CIO [2026-03-10] · CIO 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-03-09-march-9-kroger-adds-ai-chief-tech-jobs-rebound-2026-03-09-ci]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv]]
+**Related:** [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa]] · [[2026-03-09-march-9-kroger-adds-ai-chief-tech-jobs-rebound-2026-03-09-ci]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]]
 <!-- graph:end -->

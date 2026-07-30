@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-wall-street-journal-wsj-2026-07-20-external-the-10-point-inv
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
+- 2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
-- 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
-- 2026-06-20-wall-street-journal-wsj-2026-06-20-the-10-point-america-s-we
 embedding_id: 2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wall Street Journal / WSJ - [2026-07-21] [EXTERNAL] The 10-Point: Investors Ditc
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-20-wall-street-journal-wsj-2026-07-20-external-the-10-point-inv]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-the-10-point-america-s-we]]
+**Related:** [[2026-07-20-wall-street-journal-wsj-2026-07-20-external-the-10-point-inv]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]]
 <!-- graph:end -->

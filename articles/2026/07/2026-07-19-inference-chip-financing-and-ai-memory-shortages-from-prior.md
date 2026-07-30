@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-07-internal-openai-memo-warns-of-financing-gaps-in-sam-altman-s
 - 2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance
 - 2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips
+- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-06-26-daily-ai-news-digest-june-26-2026
-- 2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu
 embedding_id: 2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Inference-chip financing and AI memory shortages from prior-window coverage rema
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-07-internal-openai-memo-warns-of-financing-gaps-in-sam-altman-s]] · [[2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]]
+**Related:** [[2026-05-07-internal-openai-memo-warns-of-financing-gaps-in-sam-altman-s]] · [[2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]]
 <!-- graph:end -->

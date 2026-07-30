@@ -28,7 +28,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 - 2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio
-- 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
+- 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 embedding_id: 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenRouter cements its position as the dominant multi-model gateway — TechCrun
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]] · [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]]
+**Related:** [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]]
 <!-- graph:end -->

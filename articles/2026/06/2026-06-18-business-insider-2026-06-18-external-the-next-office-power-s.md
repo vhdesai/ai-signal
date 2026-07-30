@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
-- 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
-- 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-06-18] [EXTERNAL] The next office power struggle: AI to
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
+**Related:** [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
-- 2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
-- 2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
+- 2026-07-27-kimi-k3-weights-go-live-the-largest-open-model-ever-at-2-8t
+- 2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y
 embedding_id: 2026-07-17-another-big-leap-for-chinese-ai-via-kimi-k3
 event_name: ''
 ---
@@ -35,5 +35,5 @@ another big leap for Chinese AI via Kimi K3.
 ## Connections
 
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]] · [[2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
+**Related:** [[2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-27-kimi-k3-weights-go-live-the-largest-open-model-ever-at-2-8t]] · [[2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y]]
 <!-- graph:end -->

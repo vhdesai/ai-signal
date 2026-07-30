@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
 - 2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er
-- 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
+- 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
 embedding_id: 2026-07-05-nhs-to-embed-an-ai-triage-tool-in-the-nhs-app-for-200-000-pa
 event_name: ''
 ---
@@ -35,5 +35,5 @@ NHS England said it will roll out an AI triage tool inside the NHS App that asks
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]]
+**Related:** [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]]
 <!-- graph:end -->

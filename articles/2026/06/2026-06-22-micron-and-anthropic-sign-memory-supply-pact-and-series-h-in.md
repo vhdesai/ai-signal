@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal
 - 2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round
 - 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
 - 2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion
 - 2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand
-- 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
 embedding_id: 2026-06-22-micron-and-anthropic-sign-memory-supply-pact-and-series-h-in
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Multi-year memory and storage supply deal, joint architecture work, Claude adopt
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]]
+**Related:** [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal]] · [[2026-05-28-chip-makes-join-anthropic-cap-table-as-it-closes-a-65b-round]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-04-micron-breaks-ground-on-a-1-5t-9-3b-hiroshima-hbm-expansion]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

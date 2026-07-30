@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care
 - 2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
 - 2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30
 - 2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society
-- 2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan
 embedding_id: 2026-05-26-university-of-california-establishes-systemwide-ai-steering
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC President Michael Drake and UCSD Chancellor Pradeep Khosla announced a new sy
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]] · [[2026-05-11-colorado-connecticut-california-advance-distinct-ai-governan]]
+**Related:** [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-05-19-trending-uc-san-diego-admits-first-cohort-for-new-undergradu]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-04-01-governor-gavin-newsom-signed-an-executive-order-on-march-30]] · [[2026-05-18-uc-berkeley-s-college-of-computing-data-science-and-society]]
 <!-- graph:end -->

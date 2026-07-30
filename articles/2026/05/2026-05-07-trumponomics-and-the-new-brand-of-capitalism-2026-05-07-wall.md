@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
 - 2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round
+- 2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru
 - 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
-- 2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler
 embedding_id: 2026-05-07-trumponomics-and-the-new-brand-of-capitalism-2026-05-07-wall
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Trumponomics and the New Brand of Capitalism [2026-05-07] · Wall Street Journal
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler]]
+**Related:** [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]]
 <!-- graph:end -->

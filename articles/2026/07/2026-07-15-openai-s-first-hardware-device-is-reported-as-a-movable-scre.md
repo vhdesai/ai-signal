@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-openai-s-first-home-hardware-concept-is-reported-as-a-screen
+- 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 - 2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15
-- 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
 embedding_id: 2026-07-15-openai-s-first-hardware-device-is-reported-as-a-movable-scre
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's first hardware device is reported as a movable, screenless smart speake
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-16-openai-s-first-home-hardware-concept-is-reported-as-a-screen]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]] · [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]]
+**Related:** [[2026-07-16-openai-s-first-home-hardware-concept-is-reported-as-a-screen]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]]
 <!-- graph:end -->

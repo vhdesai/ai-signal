@@ -24,6 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-16-microsoft-nature-health-analyzes-1-7m-copilot-health-convers
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
+- 2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta
+- 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
 embedding_id: 2026-07-17-nature-health-microsoft-work-maps-1-7m-copilot-health-conver
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Nature Health/Microsoft work maps 1.7M Copilot health conversations across 109 c
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-16-microsoft-nature-health-analyzes-1-7m-copilot-health-convers]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]]
+**Related:** [[2026-07-16-microsoft-nature-health-analyzes-1-7m-copilot-health-convers]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-07-29-rutgers-study-nearly-6-in-10-new-jersey-adults-want-ai-menta]] · [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]]
 <!-- graph:end -->

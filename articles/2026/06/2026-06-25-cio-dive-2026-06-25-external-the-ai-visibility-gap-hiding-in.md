@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 - 2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel
 - 2026-06-27-cio-dive-2026-06-27-external-weekender-ai-coding-will-soon-g
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 - 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
-- 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
 embedding_id: 2026-06-25-cio-dive-2026-06-25-external-the-ai-visibility-gap-hiding-in
 event_name: ''
 ---
@@ -33,5 +33,5 @@ CIO Dive - [2026-06-25] [EXTERNAL] The AI visibility gap hiding in plain sight. 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]] · [[2026-06-27-cio-dive-2026-06-27-external-weekender-ai-coding-will-soon-g]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]]
+**Related:** [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]] · [[2026-06-27-cio-dive-2026-06-27-external-weekender-ai-coding-will-soon-g]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]]
 <!-- graph:end -->

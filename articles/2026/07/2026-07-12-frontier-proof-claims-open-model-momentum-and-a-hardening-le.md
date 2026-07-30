@@ -26,11 +26,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea
 - 2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr
 - 2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati
 - 2026-07-11-daily-ai-news-digest-july-12-2026
-- 2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens
 embedding_id: 2026-07-12-frontier-proof-claims-open-model-momentum-and-a-hardening-le
 event_name: ''
 ---
@@ -44,5 +44,5 @@ This was a lighter weekend cycle, but the throughline matters for strategy: capa
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea]] · [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-08-frontier-launches-line-up-as-us-china-ai-friction-sharpens]]
+**Related:** [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-07-11-openai-claims-gpt-5-6-sol-ultra-produced-a-proof-of-a-50-yea]] · [[2026-07-13-openai-s-sol-ultra-proof-of-cycle-double-cover-conjecture-dr]] · [[2026-07-13-openai-s-sol-ultra-proof-claim-draws-scrutiny-from-mathemati]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]]
 <!-- graph:end -->

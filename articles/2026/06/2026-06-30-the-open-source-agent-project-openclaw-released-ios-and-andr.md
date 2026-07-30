@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-30-openclaw-ships-ios-and-android-companion-apps-for-self-hoste
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
+- 2026-07-23-andrew-ng-releases-openworker-an-open-source-local-desktop-a
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
-- 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 embedding_id: 2026-06-30-the-open-source-agent-project-openclaw-released-ios-and-andr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The open-source agent project OpenClaw released iOS and Android companion apps t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-openclaw-ships-ios-and-android-companion-apps-for-self-hoste]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]]
+**Related:** [[2026-06-30-openclaw-ships-ios-and-android-companion-apps-for-self-hoste]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-07-23-andrew-ng-releases-openworker-an-open-source-local-desktop-a]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]]
 <!-- graph:end -->

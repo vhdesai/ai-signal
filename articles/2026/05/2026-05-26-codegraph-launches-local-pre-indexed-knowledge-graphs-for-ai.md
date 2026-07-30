@@ -19,8 +19,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
+- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 - 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
-- 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
 embedding_id: 2026-05-26-codegraph-launches-local-pre-indexed-knowledge-graphs-for-ai
 event_name: ''
 ---
@@ -32,5 +32,5 @@ CodeGraph launches local pre-indexed knowledge graphs for AI coding agents
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]] · [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]]
+**Related:** [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
 <!-- graph:end -->

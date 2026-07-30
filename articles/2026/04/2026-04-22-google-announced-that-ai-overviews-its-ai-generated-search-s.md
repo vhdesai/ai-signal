@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man
 - 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 - event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
-- 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
+- 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 embedding_id: 2026-04-22-google-announced-that-ai-overviews-its-ai-generated-search-s
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Amazon Launches New Features in Bedrock AgentCore
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]]
+**Related:** [[2026-04-22-google-cloud-unveiled-a-comprehensive-ai-agent-building-plat]] · [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]]
 <!-- graph:end -->

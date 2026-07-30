@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
+- 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
 - 2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against
 - 2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in
 - 2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough
-- 2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna
 embedding_id: 2026-05-13-nature-ai-can-design-viruses-toxins-and-bioweapons-how-worri
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Nature: AI Can Design Viruses, Toxins and Bioweapons — How Worried Should We B
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]] · [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna]]
+**Related:** [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-05-13-nature-ai-designed-peptide-antibiotics-show-activity-against]] · [[2026-05-13-a-team-led-by-cesar-de-la-fuente-nunez-published-research-in]] · [[2026-05-13-nature-publishes-ai-designed-peptide-antibiotic-breakthrough]]
 <!-- graph:end -->

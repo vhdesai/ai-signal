@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-walden-robotics-exits-stealth-at-a-1-1b-valuation-with-300m
 - 2026-07-15-oak-exits-stealth-with-60m-to-manage-identity-across-humans
 - 2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s
-- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
+- 2026-07-22-glow-exits-stealth-at-a-2b-valuation-to-secure-the-ai-agent
 embedding_id: 2026-07-20-gritt-exited-stealth-with-34m-for-robots-that-build-solar-pl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Gritt exited stealth with $34M for robots that build solar plants, tying physica
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-21-gritt-exited-stealth-with-34m-for-robots-that-build-solar-pl]] · [[2026-07-16-walden-robotics-exits-stealth-at-a-1-1b-valuation-with-300m]] · [[2026-07-15-oak-exits-stealth-with-60m-to-manage-identity-across-humans]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]]
+**Related:** [[2026-07-21-gritt-exited-stealth-with-34m-for-robots-that-build-solar-pl]] · [[2026-07-16-walden-robotics-exits-stealth-at-a-1-1b-valuation-with-300m]] · [[2026-07-15-oak-exits-stealth-with-60m-to-manage-identity-across-humans]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]] · [[2026-07-22-glow-exits-stealth-at-a-2b-valuation-to-secure-the-ai-agent]]
 <!-- graph:end -->

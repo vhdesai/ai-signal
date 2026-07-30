@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-04-08-is-this-email-difficult-to-read-view-in-browser-the-wall-str
 - 2026-03-10-on-iran-trump-steers-toward-an-off-ramp-2026-03-10-wall-stre
 - 2026-03-10-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2
+- 2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin
 - 2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the
-- 2026-07-13-wall-street-journal-wsj-2026-07-13-external-wsj-markets-aler
 embedding_id: 2026-04-08-how-the-journal-covered-trump-s-12-hour-iran-civilization-co
 event_name: ''
 ---
@@ -34,5 +34,5 @@ How the Journal Covered Trump’s 12-Hour Iran ‘Civilization’ Countdown [202
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-08-is-this-email-difficult-to-read-view-in-browser-the-wall-str]] · [[2026-03-10-on-iran-trump-steers-toward-an-off-ramp-2026-03-10-wall-stre]] · [[2026-03-10-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2]] · [[2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the]] · [[2026-07-13-wall-street-journal-wsj-2026-07-13-external-wsj-markets-aler]]
+**Related:** [[2026-04-08-is-this-email-difficult-to-read-view-in-browser-the-wall-str]] · [[2026-03-10-on-iran-trump-steers-toward-an-off-ramp-2026-03-10-wall-stre]] · [[2026-03-10-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2]] · [[2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin]] · [[2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the]]
 <!-- graph:end -->

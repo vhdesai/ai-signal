@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r
 - 2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear
+- 2026-07-23-arex-recursively-self-improving-deep-research-agents
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-15-what-happens-when-ai-starts-building-itself
-- 2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th
 embedding_id: 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Jack Clark's Import AI #455 argues AI systems are taking a meaningful first step
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-15-what-happens-when-ai-starts-building-itself]] · [[2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th]]
+**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-03-28-this-week-s-edition-of-the-batch-highlighted-emerging-resear]] · [[2026-07-23-arex-recursively-self-improving-deep-research-agents]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-15-what-happens-when-ai-starts-building-itself]]
 <!-- graph:end -->

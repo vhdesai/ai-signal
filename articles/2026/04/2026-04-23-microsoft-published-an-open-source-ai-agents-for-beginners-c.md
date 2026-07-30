@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
 - 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
+- 2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b
 - 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
-- event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry
 embedding_id: 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Meta Adds Parental AI Visibility Controls Across Its Platforms
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]]
-**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry]]
+**Related:** [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent]] · [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]]
 <!-- graph:end -->

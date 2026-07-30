@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for
 - event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform
+- 2026-07-22-nvidia-details-vera-cpu-for-ai-agent-workloads
 - 2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb
-- 2026-05-14-nvidia-vera-rubin-platform-enters-production-1-trillion-in-c
 embedding_id: 2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia and Japan announce a national AI infrastructure / Vera Rubin AI factory w
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]] · [[2026-05-14-nvidia-vera-rubin-platform-enters-production-1-trillion-in-c]]
+**Related:** [[2026-05-16-nvidia-vera-rubin-platform-launches-with-seven-new-chips-for]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-vera-rubin-platform]] · [[2026-07-22-nvidia-details-vera-cpu-for-ai-agent-workloads]] · [[2026-05-14-nvidia-s-vera-rubin-platform-featuring-72-rubin-gpus-with-hb]]
 <!-- graph:end -->

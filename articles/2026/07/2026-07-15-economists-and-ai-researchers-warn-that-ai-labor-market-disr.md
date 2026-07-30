@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
-- 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 embedding_id: 2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Economists and AI researchers warn that AI labor-market disruption may outpace i
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]]
+**Related:** [[2026-07-13-economists-and-ai-researchers-warn-that-labor-disruption-may]] · [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]]
 <!-- graph:end -->

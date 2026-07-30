@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
+- 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 - 2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
 embedding_id: 2026-05-23-microsoft-net-team-ships-skills-repository-to-equip-ai-agent
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's .NET team launched a public repository that packages reusable agent 
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent]]
+**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-26-a-new-educational-repository-ai-engineering-from-scratch-is]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
 <!-- graph:end -->

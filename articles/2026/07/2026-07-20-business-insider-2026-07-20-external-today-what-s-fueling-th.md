@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th
+- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
-- 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
+- 2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar
 embedding_id: 2026-07-20-business-insider-2026-07-20-external-today-what-s-fueling-th
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-20] [EXTERNAL] Today: What's fueling the FIRE moveme
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]]
+**Related:** [[2026-07-21-business-insider-2026-07-21-external-today-what-s-fueling-th]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]]
 <!-- graph:end -->

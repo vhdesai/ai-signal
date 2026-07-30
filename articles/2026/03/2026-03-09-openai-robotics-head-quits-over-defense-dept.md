@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi
 - 2026-05-22-source-releasebot-openai-date-may-22-2026
 - 2026-03-09-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et
-- 2026-05-18-may-15-2026-openai-blog-theaitrack-techcrunch
-- 2026-03-13-view-in-web-browser-the-wall-street-journal-musk-says-xai-mu
+- 2026-07-29-the-information-2026-07-29-external-trump-administration-ban
+- 2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h
 embedding_id: 2026-03-09-openai-robotics-head-quits-over-defense-dept
 event_name: ''
 ---
@@ -35,5 +35,5 @@ OpenAI Robotics Head Quits Over Defense Dept. Deal [2026-03-09] · The Informati
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi]] · [[2026-05-22-source-releasebot-openai-date-may-22-2026]] · [[2026-03-09-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-05-18-may-15-2026-openai-blog-theaitrack-techcrunch]] · [[2026-03-13-view-in-web-browser-the-wall-street-journal-musk-says-xai-mu]]
+**Related:** [[2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi]] · [[2026-05-22-source-releasebot-openai-date-may-22-2026]] · [[2026-03-09-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-07-29-the-information-2026-07-29-external-trump-administration-ban]] · [[2026-07-22-fallout-continues-from-openai-s-autonomous-agent-breaching-h]]
 <!-- graph:end -->

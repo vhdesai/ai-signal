@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 - 2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
-- 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
+- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A peer-reviewed open-access study published today in Software Quality Journal as
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-generative-ai-assessed-as-industrially-ready-for-software-qu]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]]
+**Related:** [[2026-05-13-generative-ai-assessed-as-industrially-ready-for-software-qu]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-19-trending-harvard-study-generative-ai-creates-a-productivity]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

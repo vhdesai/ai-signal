@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf
+- 2026-07-24-etched-reaches-3b-valuation-for-inference-focused-ai-systems
+- 2026-07-23-etched-reaches-3-billion-valuation-for-inference-focused-ai
 - 2026-04-06-georgia-tech-introduces-sparse-attention-mechanism-cutting-t
-- 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
 embedding_id: 2026-07-21-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Etched is reportedly seeking a valuation near $20B for transformer-specific infe
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]] · [[2026-04-06-georgia-tech-introduces-sparse-attention-mechanism-cutting-t]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]] · [[2026-07-24-etched-reaches-3b-valuation-for-inference-focused-ai-systems]] · [[2026-07-23-etched-reaches-3-billion-valuation-for-inference-focused-ai]] · [[2026-04-06-georgia-tech-introduces-sparse-attention-mechanism-cutting-t]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]]
 <!-- graph:end -->

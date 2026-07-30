@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
 - 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
-- 2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent
+- 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 embedding_id: 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Unveiled at Google I/O 2026, the Genie world-modeling system now incorporates St
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google]] · [[2026-05-26-mobilegym-verifiable-parallel-simulator-for-mobile-gui-agent]]
+**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]]
 <!-- graph:end -->

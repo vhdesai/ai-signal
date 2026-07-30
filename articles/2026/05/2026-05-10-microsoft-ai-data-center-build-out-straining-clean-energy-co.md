@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 - 2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
+- 2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
-- 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 embedding_id: 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft is having internal discussions about whether to delay or scale back it
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]]
+**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
 - 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
 - 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 - 2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing
 - 2026-03-13-the-information-logo-ex-anthropic-researchers-in-talks-to-ra
-- 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
 embedding_id: 2026-06-04-anthropic-s-daniela-amodei-shrugs-off-doubts-about-ai-return
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic president Daniela Amodei pushed back on skepticism about AI investment
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-03-13-the-information-logo-ex-anthropic-researchers-in-talks-to-ra]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]]
+**Related:** [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]] · [[2026-06-01-altman-downplays-openai-ipo-timing-after-anthropic-s-filing]] · [[2026-03-13-the-information-logo-ex-anthropic-researchers-in-talks-to-ra]]
 <!-- graph:end -->

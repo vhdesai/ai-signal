@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-20-business-insider-2026-06-20-external-i-tested-side-hustles-f
+- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
+- 2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar
 - 2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
-- 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only
 embedding_id: 2026-06-20-a-nutritionist-s-triple-30-rule-2026-06-20-i-tested-side-hus
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A nutritionist's 'triple 30' rule - [2026-06-20] I tested side hustles for 100 d
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-business-insider-2026-06-20-external-i-tested-side-hustles-f]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only]]
+**Related:** [[2026-06-20-business-insider-2026-06-20-external-i-tested-side-hustles-f]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]]
 <!-- graph:end -->

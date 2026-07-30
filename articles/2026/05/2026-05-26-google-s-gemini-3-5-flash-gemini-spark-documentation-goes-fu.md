@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim
 - 2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro
-- 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
+- 2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo
 embedding_id: 2026-05-26-google-s-gemini-3-5-flash-gemini-spark-documentation-goes-fu
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Google's Gemini 3.5 Flash & Gemini Spark documentation goes fully live
 ## Connections
 
 **Entities:** [[Google]]
-**Related:** [[2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim]] · [[2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
+**Related:** [[2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim]] · [[2026-05-22-gemini-3-5-flash-google-4x-speed-launched-at-google-i-o-acro]] · [[2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo]]
 <!-- graph:end -->

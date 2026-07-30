@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-21-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst
 - 2026-07-08-cio-dive-2026-07-08-external-july-8-liberty-mutual-s-ai-agno
 - 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
-- 2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in
+- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 embedding_id: 2026-07-20-liberty-mutual-levi-s-cio-dive-coverage-highlights-enterpris
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Liberty Mutual/Levi's/CIO Dive coverage highlights enterprise modernization for 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst]] · [[2026-07-21-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst]] · [[2026-07-08-cio-dive-2026-07-08-external-july-8-liberty-mutual-s-ai-agno]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]]
+**Related:** [[2026-07-20-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst]] · [[2026-07-21-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst]] · [[2026-07-08-cio-dive-2026-07-08-external-july-8-liberty-mutual-s-ai-agno]] · [[2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
 <!-- graph:end -->

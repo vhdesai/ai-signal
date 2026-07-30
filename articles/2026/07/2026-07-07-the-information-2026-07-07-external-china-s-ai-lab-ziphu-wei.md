@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-07-08-the-information-2026-07-08-external-china-plans-to-let-top-a
 - 2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n
 - 2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft
+- 2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi
 embedding_id: 2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei
 event_name: ''
 ---
@@ -40,5 +41,5 @@ The Information - [2026-07-07] [EXTERNAL] China's AI Lab Ziphu Weighs Custom Chi
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n]] · [[2026-07-08-the-information-2026-07-08-external-china-plans-to-let-top-a]] · [[2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n]] · [[2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft]]
+**Related:** [[2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n]] · [[2026-07-08-the-information-2026-07-08-external-china-plans-to-let-top-a]] · [[2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n]] · [[2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft]] · [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi]]
 <!-- graph:end -->

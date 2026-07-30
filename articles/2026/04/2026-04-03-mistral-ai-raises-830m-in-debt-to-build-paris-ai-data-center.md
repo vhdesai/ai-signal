@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da
 - 2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp
 - 2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
+- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 embedding_id: 2026-04-03-mistral-ai-raises-830m-in-debt-to-build-paris-ai-data-center
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral AI Raises $830M in Debt to Build Paris AI Data Center with 13,800 Nvidia
 
 **Entities:** [[Mistral]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-01-mistral-ai-raises-830-million-in-debt-to-build-paris-data-ce]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]]
+**Related:** [[2026-04-01-mistral-ai-raises-830-million-in-debt-to-build-paris-data-ce]] · [[2026-03-30-mistral-ai-secures-830m-in-debt-to-build-13-800-gpu-paris-da]] · [[2026-04-03-mistral-ai-secured-830m-in-its-first-ever-debt-financing-bnp]] · [[2026-04-01-european-ai-lab-mistral-ai-has-secured-830-million-in-debt-f]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]]
 <!-- graph:end -->

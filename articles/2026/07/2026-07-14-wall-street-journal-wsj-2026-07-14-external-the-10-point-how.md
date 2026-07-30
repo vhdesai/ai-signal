@@ -19,11 +19,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
 - 2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the
+- 2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
-- 2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv
-- 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
 embedding_id: 2026-07-14-wall-street-journal-wsj-2026-07-14-external-the-10-point-how
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Wall Street Journal / WSJ - [2026-07-14] [EXTERNAL] The 10-Point: How China Hold
 ## Connections
 
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]]
+**Related:** [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the]] · [[2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
 <!-- graph:end -->

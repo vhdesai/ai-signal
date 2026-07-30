@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
+- 2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram
 - 2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv
-- 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
-- 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
-- 2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders
+- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 embedding_id: 2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive / Daily Dive - [2026-07-15] [EXTERNAL] July 15 - What IBM's warning rea
 ## Connections
 
 **Entities:** [[IBM]]
-**Related:** [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders]]
+**Related:** [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]]
 <!-- graph:end -->

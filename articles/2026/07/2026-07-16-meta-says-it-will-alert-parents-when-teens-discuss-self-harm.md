@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
+- 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and
-- 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 embedding_id: 2026-07-16-meta-says-it-will-alert-parents-when-teens-discuss-self-harm
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta says it will alert parents when teens discuss self-harm with Meta AI, makin
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]]
+**Related:** [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and]]
 <!-- graph:end -->

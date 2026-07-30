@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names
+- 2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras
+- 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
-- 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
-- 2026-07-20-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras
-- 2026-07-21-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras
 embedding_id: 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave was named a Visionary in Gartner's 2026 Magic Quadrant for Cloud AI In
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-07-20-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras]] · [[2026-07-21-coreweave-gpu-move-davids-outslinging-goliaths-and-ai-infras]]
+**Related:** [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names]] · [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-17-google-folds-notebooklm-into-gemini-notebook-and-adds-secure
 - 2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear
 - 2026-04-10-google-integrates-notebooklm-directly-into-gemini-interface
+- 2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-to-find-and-fix-so
 - 2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic
-- 2026-06-24-google-builds-computer-use-into-gemini-3-5-flash
 embedding_id: 2026-07-18-google-folds-notebooklm-into-gemini-notebook-and-adds-secure
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google folds NotebookLM into Gemini Notebook and adds secure cloud-computer/code
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-google-folds-notebooklm-into-gemini-notebook-and-adds-secure]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-04-10-google-integrates-notebooklm-directly-into-gemini-interface]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]] · [[2026-06-24-google-builds-computer-use-into-gemini-3-5-flash]]
+**Related:** [[2026-07-17-google-folds-notebooklm-into-gemini-notebook-and-adds-secure]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-04-10-google-integrates-notebooklm-directly-into-gemini-interface]] · [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-to-find-and-fix-so]] · [[2026-05-12-google-unveils-googlebooks-gemini-intelligence-suite-agentic]]
 <!-- graph:end -->

@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org
 - 2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga
 - 2026-03-10-with-dan-defrancesco-finding-her-second-act-100-a-barrel-mar
-- 2026-03-20-with-dan-defrancesco-there-s-a-slew-of-research-sure-makes-i
+- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
 embedding_id: 2026-05-01-what-you-need-to-know-dan-defrancesco-alistair-barr-livestre
 event_name: ''
 ---
@@ -34,5 +34,5 @@ What You Need to Know - Dan DeFrancesco - Alistair Barr - Livestream on Business
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-08-business-insider-logo-with-dan-defrancesco-but-it-taught-her]] · [[2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org]] · [[2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga]] · [[2026-03-10-with-dan-defrancesco-finding-her-second-act-100-a-barrel-mar]] · [[2026-03-20-with-dan-defrancesco-there-s-a-slew-of-research-sure-makes-i]]
+**Related:** [[2026-04-08-business-insider-logo-with-dan-defrancesco-but-it-taught-her]] · [[2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org]] · [[2026-05-07-business-insider-logo-with-dan-defrancesco-on-using-ai-to-ga]] · [[2026-03-10-with-dan-defrancesco-finding-her-second-act-100-a-barrel-mar]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]]
 <!-- graph:end -->

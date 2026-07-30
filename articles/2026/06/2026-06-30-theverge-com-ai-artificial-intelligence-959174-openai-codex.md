@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales
 - 2026-04-04-google-research-blog-techcrunch-ars-technicamarch-24-25-2026
+- 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
 - 2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15
-- 2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs
 embedding_id: 2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales]] · [[2026-04-04-google-research-blog-techcrunch-ars-technicamarch-24-25-2026]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]] · [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]]
+**Related:** [[2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales]] · [[2026-04-04-google-research-blog-techcrunch-ars-technicamarch-24-25-2026]] · [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]]
 <!-- graph:end -->

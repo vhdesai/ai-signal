@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 - 2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
-- 2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators
+- 2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or
 embedding_id: 2026-05-15-deepfake-voice-scam-snares-cushman-wakefield
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A deepfake voice-cloning attack successfully targeted real-estate giant Cushman 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-04-15-apple-s-grok-deepfake-standoff-disclosed-to-senators]]
+**Related:** [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-04-27-4tb-of-voice-data-stolen-from-40-000-ai-contractors-at-merco]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or]]
 <!-- graph:end -->

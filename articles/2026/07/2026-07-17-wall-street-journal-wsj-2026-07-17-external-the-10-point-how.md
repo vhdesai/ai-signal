@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
+- 2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
-- 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
-- 2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news
 embedding_id: 2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Wall Street Journal / WSJ - [2026-07-17] [EXTERNAL] The 10-Point: How IBM's Bold
 ## Connections
 
 **Entities:** [[Apple]] · [[IBM]] · [[NVIDIA]]
-**Related:** [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news]]
+**Related:** [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
 <!-- graph:end -->

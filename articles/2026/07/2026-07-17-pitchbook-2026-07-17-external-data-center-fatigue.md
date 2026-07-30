@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-19-pitchbook-2026-06-19-external-solar-surge
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 embedding_id: 2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook - [2026-07-17] [EXTERNAL] Data center fatigue
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-19-pitchbook-2026-06-19-external-solar-surge]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]]
+**Related:** [[2026-06-19-pitchbook-2026-06-19-external-solar-surge]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]]
 <!-- graph:end -->

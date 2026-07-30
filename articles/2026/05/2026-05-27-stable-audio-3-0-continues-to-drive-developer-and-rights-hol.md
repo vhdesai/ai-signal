@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of
 - 2026-05-26-stability-ai-releases-stable-audio-3
+- 2026-07-29-google-launches-lyria-3-5-in-flow-music
+- 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 - 2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m
-- 2026-05-13-
-- 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 embedding_id: 2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Stable Audio 3.0 continues to drive developer and rights-holder adoption — Sta
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]] · [[2026-05-13-]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]]
+**Related:** [[2026-05-27-trending-stability-ai-releases-the-stable-audio-3-family-of]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-07-29-google-launches-lyria-3-5-in-flow-music]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-03-28-mistral-released-voxtral-tts-an-open-source-text-to-speech-m]]
 <!-- graph:end -->

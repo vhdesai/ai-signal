@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
+- 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
 - 2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races
-- 2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the
 embedding_id: 2026-04-27-read-the-report-mapping-the-ai-supercycle-through-the-lookin
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Read the report - Mapping the AI Supercycle - Through the Looking Glass: The Rac
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the]]
+**Related:** [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]]
 <!-- graph:end -->

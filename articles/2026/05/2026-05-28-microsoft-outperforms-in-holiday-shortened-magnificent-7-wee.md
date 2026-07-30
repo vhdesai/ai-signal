@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
-- 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
-- 2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co
+- 2026-07-30-thursday-july-30-2026
+- 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 embedding_id: 2026-05-28-microsoft-outperforms-in-holiday-shortened-magnificent-7-wee
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In a two-session, Memorial-Day-shortened week, Microsoft rose roughly 3.4% to cl
 
 **Entities:** [[Microsoft]] · [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-06-25-microsoft-slides-as-stifel-cuts-target-on-ai-spend-margin-co]]
+**Related:** [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-07-30-thursday-july-30-2026]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]]
 <!-- graph:end -->

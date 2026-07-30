@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-22-google-invests-in-a24-to-develop-ai-powered-filmmaking-tools
 - 2026-06-23-google-deepmind-invests-75m-in-film-studio-a24
 - 2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre
 - 2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools
-- 2026-04-25-google-plans-up-to-40b-anthropic-investment
-- 2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next
+- 2026-06-22-google-deepmind-and-a24-announce-research-partnership
 embedding_id: 2026-06-22-google-invests-75m-in-a24-for-ai-powered-filmmaking-tools
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google is investing $75 million in A24 to develop AI-powered filmmaking tools, w
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next]]
+**Related:** [[2026-06-22-google-invests-in-a24-to-develop-ai-powered-filmmaking-tools]] · [[2026-06-23-google-deepmind-invests-75m-in-film-studio-a24]] · [[2026-06-27-a24-s-75m-google-deepmind-ai-research-partnership-sparks-cre]] · [[2026-06-22-google-deepmind-invests-75m-in-a24-for-ai-filmmaking-tools]] · [[2026-06-22-google-deepmind-and-a24-announce-research-partnership]]
 <!-- graph:end -->

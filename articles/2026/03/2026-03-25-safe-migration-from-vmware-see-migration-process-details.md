@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-03-25-march-25-the-state-of-tech-hiring-hsbc-appoints-first-ai-chi
 - 2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in
 - 2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter
+- 2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion
 - 2026-03-18-view-in-web-browser-the-wall-street-journal-the-unexpected-r
-- 2026-07-15-other-ai-related-publication-emails-2026-07-15-external-meet
 embedding_id: 2026-03-25-safe-migration-from-vmware-see-migration-process-details
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Safe Migration from VMware - See migration process details. - Global banking fir
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-25-march-25-the-state-of-tech-hiring-hsbc-appoints-first-ai-chi]] · [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-03-18-view-in-web-browser-the-wall-street-journal-the-unexpected-r]] · [[2026-07-15-other-ai-related-publication-emails-2026-07-15-external-meet]]
+**Related:** [[2026-03-25-march-25-the-state-of-tech-hiring-hsbc-appoints-first-ai-chi]] · [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]] · [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-07-27-hsbc-to-hire-100-ai-specialists-in-singapore-expansion]] · [[2026-03-18-view-in-web-browser-the-wall-street-journal-the-unexpected-r]]
 <!-- graph:end -->

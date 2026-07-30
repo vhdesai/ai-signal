@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-09-wall-street-journal-wsj-2026-07-09-external-the-10-point-ins
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how
-- 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
 embedding_id: 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Wall Street Journal / WSJ - [2026-07-10] [EXTERNAL] The 10-Point: The Making of 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Related:** [[2026-07-09-wall-street-journal-wsj-2026-07-09-external-the-10-point-ins]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]]
+**Related:** [[2026-07-09-wall-street-journal-wsj-2026-07-09-external-the-10-point-ins]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]]
 <!-- graph:end -->

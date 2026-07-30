@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r
 - 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 - 2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti
-- 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai
 embedding_id: 2026-05-26-yann-lecun-on-what-comes-after-llms-jepa-tapestry-and-a-quie
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's chief AI scientist lays out the JEPA-plus-Tapestry roadmap as his answer 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
+**Related:** [[2026-04-08-source-forbes-msn-the-neuron]] · [[2026-05-16-wired-published-a-feature-documenting-meta-s-current-state-r]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]]
 <!-- graph:end -->

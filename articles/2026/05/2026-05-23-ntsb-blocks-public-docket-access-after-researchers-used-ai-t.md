@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
+- 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
 - 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
-- 2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c
 embedding_id: 2026-05-23-ntsb-blocks-public-docket-access-after-researchers-used-ai-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The National Transportation Safety Board temporarily suspended public access to 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]] · [[2026-07-09-news-organizations-ask-federal-court-to-sanction-openai-in-c]]
+**Related:** [[2026-05-22-ntsb-to-review-docket-access-after-ai-reconstructs-deceased]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]]
 <!-- graph:end -->

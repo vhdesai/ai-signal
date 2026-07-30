@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-17-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben
 - 2026-07-18-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben
 - 2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets
-- 2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races
+- 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 embedding_id: 2026-07-19-post-ipo-share-offloading-fundless-deals-m-a-and-venture-liq
 event_name: ''
 ---
@@ -34,5 +34,5 @@ post-IPO share offloading, fundless deals, M&A and venture/liquidity context.
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]] · [[2026-07-17-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben]] · [[2026-07-18-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]]
+**Related:** [[2026-07-19-pitchbook-2026-07-19-external-the-new-rush-to-offload-post-i]] · [[2026-07-17-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben]] · [[2026-07-18-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben]] · [[2026-05-26-pitchbook-maps-the-ai-super-cycle-across-private-markets]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
 <!-- graph:end -->

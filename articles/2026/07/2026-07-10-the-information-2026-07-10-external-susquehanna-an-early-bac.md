@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n
 - 2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n
+- 2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall
 - 2026-07-09-the-information-2026-07-09-external-blue-origin-to-raise-10
 - 2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build
-- 2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip
 embedding_id: 2026-07-10-the-information-2026-07-10-external-susquehanna-an-early-bac
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The Information - [2026-07-10] [EXTERNAL] Susquehanna, an Early Backer of ByteDa
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n]] · [[2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n]] · [[2026-07-09-the-information-2026-07-09-external-blue-origin-to-raise-10]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip]]
+**Related:** [[2026-07-21-the-information-2026-07-21-external-exclusive-google-plans-n]] · [[2026-07-20-the-information-2026-07-20-external-exclusive-google-plans-n]] · [[2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall]] · [[2026-07-09-the-information-2026-07-09-external-blue-origin-to-raise-10]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]]
 <!-- graph:end -->

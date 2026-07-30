@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
 - 2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how
 - 2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler
-- 2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round
-- 2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the
+- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
+- 2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru
 embedding_id: 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wall Street Journal / WSJ - [2026-07-16] [EXTERNAL] The 10-Point: The Quiet Cash
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]] · [[2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the]]
+**Related:** [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]] · [[2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru]]
 <!-- graph:end -->

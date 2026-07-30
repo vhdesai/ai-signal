@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
+- 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
-- 2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners
 embedding_id: 2026-07-17-the-information-2026-07-17-external-moonshot-ai-s-new-kimi-k
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information - [2026-07-17] [EXTERNAL] Moonshot AI's New Kimi K3 Challenges U
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]]
+**Related:** [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]]
 <!-- graph:end -->

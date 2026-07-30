@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram
 - 2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 - 2026-07-10-cio-dive-2026-07-10-external-july-10-ai-dominates-in-demand
-- 2026-06-04-cio-dive-2026-06-04-external-do-you-know-the-impact-of-ai-on
-- 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 embedding_id: 2026-07-09-cio-dive-2026-07-09-external-july-9-the-hidden-workforce-adv
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-07-09] [EXTERNAL] July 9 - The hidden workforce advantage | AI 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-10-cio-dive-2026-07-10-external-july-10-ai-dominates-in-demand]] · [[2026-06-04-cio-dive-2026-06-04-external-do-you-know-the-impact-of-ai-on]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]]
+**Related:** [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-10-cio-dive-2026-07-10-external-july-10-ai-dominates-in-demand]]
 <!-- graph:end -->

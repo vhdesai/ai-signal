@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human
 - 2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid
+- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
-- 2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti
 embedding_id: 2026-05-10-meta-acquires-humanoid-robotics-startup-assured-robot-intell
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta acquired Assured Robot Intelligence, a humanoid robotics startup founded a 
 
 **Entities:** [[Meta]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-03-24-meta-has-hired-the-entire-founding-team-of-dreamer-an-agenti]]
+**Related:** [[2026-05-04-meta-acquires-assured-robot-intelligence-to-accelerate-human]] · [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]]
 <!-- graph:end -->

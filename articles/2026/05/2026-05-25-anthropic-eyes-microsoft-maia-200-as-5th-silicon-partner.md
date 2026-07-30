@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 - 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
-- 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
+- 2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi
 embedding_id: 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic is in talks to adopt Microsoft's custom Maia 200 AI chip for Claude mo
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi]]
 <!-- graph:end -->

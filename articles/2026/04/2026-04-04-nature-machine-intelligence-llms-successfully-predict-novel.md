@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-- 2026-05-13-nature-machine-intelligence-may-13-2026
-- 2026-04-04-nature-machine-intelligenceapril-1-2026
 - 2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
+- 2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro
+- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
 embedding_id: 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nature Machine Intelligence: LLMs Successfully Predict Novel Research Directions
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-05-13-nature-machine-intelligence-may-13-2026]] · [[2026-04-04-nature-machine-intelligenceapril-1-2026]] · [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]]
+**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-04-06-princeton-and-ut-austin-publish-joint-study-on-emergent-tool]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
 <!-- graph:end -->

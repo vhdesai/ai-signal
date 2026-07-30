@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki
 - 2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
+- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
+- 2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o
 embedding_id: 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Bank of America's top semiconductor analyst Vivek Arya raised Nvidia's price tar
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]]
+**Related:** [[2026-05-27-nvidia-pledges-150b-per-year-into-taiwan-ai-ecosystem-breaki]] · [[2026-05-23-nvidia-q1-fy27-81-6b-revenue-85-yoy-growth-vera-rubin-opens]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-26-nvidia-weighs-roughly-250b-financing-backstop-for-openai-s-o]]
 <!-- graph:end -->

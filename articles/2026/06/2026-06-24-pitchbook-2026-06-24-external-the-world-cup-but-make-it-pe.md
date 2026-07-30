@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
 - 2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work
 - 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
-- 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
+- 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 embedding_id: 2026-06-24-pitchbook-2026-06-24-external-the-world-cup-but-make-it-pe
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-24] [EXTERNAL] The World Cup, but make it PE
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]]
+**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]]
 <!-- graph:end -->

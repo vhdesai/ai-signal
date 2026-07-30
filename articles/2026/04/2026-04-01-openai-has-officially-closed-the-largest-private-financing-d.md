@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu
 - 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 - 2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise
+- 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
 - 2026-03-31-industry-news-funding
-- 2026-04-01-openai-closes-record-122-billion-funding-round-at-852-billio
 embedding_id: 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI has officially closed the largest private financing deal in Silicon Valle
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise]] · [[2026-03-31-industry-news-funding]] · [[2026-04-01-openai-closes-record-122-billion-funding-round-at-852-billio]]
+**Related:** [[2026-04-02-trending-openai-closes-122b-funding-round-mar-31-openai-secu]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]] · [[2026-04-04-openai-closes-122b-round-at-852b-valuation-largest-fundraise]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-03-31-industry-news-funding]]
 <!-- graph:end -->

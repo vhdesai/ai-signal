@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
+- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
+- 2026-07-24-cio-dive-daily-dive-2026-07-24-external-july-23-openai-model
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 - 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
-- 2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w
-- 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
-- 2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders
 embedding_id: 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive / Daily Dive - [2026-07-17] [EXTERNAL] July 17 - Keeping AI costs in ch
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders]]
+**Related:** [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-07-24-cio-dive-daily-dive-2026-07-24-external-july-23-openai-model]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]]
 <!-- graph:end -->

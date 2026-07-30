@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
 - 2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo
 - event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2
+- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 - 2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide
-- 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 embedding_id: 2026-05-14-enterprise-ai-governance-tools-outpace-policy-marktechpost-m
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Enterprise AI governance: tools outpace policy — MarkTechPost, May 13, 2026 A 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]]
+**Related:** [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-07-10-techcrunch-openai-launches-gpt-5-6-meta-enters-ai-coding-goo]] · [[event-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-microsoft-build-2026-preview-agents-copilot-azure-ai-foundry-2]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]]
 <!-- graph:end -->

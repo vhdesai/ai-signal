@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-chinese-model-progress-is-now-affecting-both-software-decisi
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt
-- 2026-07-20-waica-launches-as-a-peer-reviewed-academic-conference-alongs
+- 2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope
 embedding_id: 2026-07-20-chinese-model-progress-and-waic-messaging-continue-to-pressu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Chinese model progress and WAIC messaging continue to pressure Silicon Valley mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-21-chinese-model-progress-and-waic-messaging-continue-to-pressu]] · [[2026-07-20-chinese-model-progress-is-now-affecting-both-software-decisi]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-07-20-waica-launches-as-a-peer-reviewed-academic-conference-alongs]]
+**Related:** [[2026-07-21-chinese-model-progress-and-waic-messaging-continue-to-pressu]] · [[2026-07-20-chinese-model-progress-is-now-affecting-both-software-decisi]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-05-demand-signals-hold-as-china-presses-on-science-and-washingt]] · [[2026-07-26-silicon-valley-and-washington-continue-to-debate-chinese-ope]]
 <!-- graph:end -->

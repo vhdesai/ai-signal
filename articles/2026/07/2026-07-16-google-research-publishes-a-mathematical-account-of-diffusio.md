@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-17-google-research-offers-a-mathematical-account-of-diffusion-m
 - 2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl
 - 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
+- 2026-07-23-google-publishes-atlas-v1-0-ai-adoption-is-broad-but-shallow
 - 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 embedding_id: 2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio
 event_name: ''
@@ -38,5 +39,5 @@ Google Research publishes a mathematical account of diffusion-model creativity a
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-17-google-research-offers-a-mathematical-account-of-diffusion-m]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]]
+**Related:** [[2026-07-17-google-research-offers-a-mathematical-account-of-diffusion-m]] · [[2026-05-11-hugging-face-daily-papers-30-new-submissions-including-googl]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]] · [[2026-07-23-google-publishes-atlas-v1-0-ai-adoption-is-broad-but-shallow]] · [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]]
 <!-- graph:end -->

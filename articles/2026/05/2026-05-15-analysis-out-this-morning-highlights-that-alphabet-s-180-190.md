@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 embedding_id: 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 event_name: ''
 ---
@@ -41,5 +41,5 @@ analysis out this morning highlights that Alphabet's $180–$190B AI-driven cape
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]]
 <!-- graph:end -->

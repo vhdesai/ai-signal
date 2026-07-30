@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 75
+member_count: 77
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 75 connected article(s).
+> Auto-generated entity hub. 77 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ex-perplexity-engineer-launches-polar-an-ai-browser-for-know|Ex-Perplexity engineer launches Polar, an AI browser for knowledge work, with $5.7M seed]]
 - `2026-07-20` [[2026-07-20-perplexity-releases-wandr-an-open-benchmark-for-research-age|Perplexity releases WANDR, an open benchmark for research agents that must search wide and deep across source-linked…]]
 - `2026-07-20` [[2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa|Perplexity WANDR and SQRL indicate research-agent and database-agent evaluation is becoming more rigorous and…]]
 - `2026-07-19` [[2026-07-19-perplexity-releases-wandr-an-open-benchmark-for-research-age|Perplexity releases WANDR, an open benchmark for research agents that must search wide and deep across cited sources]]
@@ -15,6 +16,7 @@ member_count: 75
 - `2026-07-14` [[2026-07-14-chatgpt-returns-to-whatsapp-in-the-eu-after-brussels-forces|ChatGPT returns to WhatsApp in the EU after Brussels forces Meta to reopen]]
 - `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
 - `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
+- `2026-06-18` [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for|Perplexity launches Brain, a self-improving memory system for agent work]]
 - `2026-06-08` [[2026-06-08-openai-confidentially-files-for-ipo-following-anthropic-and|OpenAI Confidentially Files for IPO, Following Anthropic and SpaceX]]
 - `2026-05-31` [[2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier|Guardrail-Free Open-Weight Models Become Dramatically Easier to Deploy]]
 - `2026-05-31` [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity|AI Regulation Fractures on Three Fronts: CNN Sues Perplexity, OpenAI Aligns to EU Rules, DOJ Enters Colorado Fight]]

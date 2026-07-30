@@ -1,13 +1,62 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 448
+member_count: 497
 ---
 
 # Meta
 
-> Auto-generated entity hub. 448 connected article(s).
+> Auto-generated entity hub. 497 connected article(s).
 
+- `2026-07-30` [[2026-07-30-thursday-july-30-2026|Thursday, July 30, 2026]]
+- `2026-07-30` [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta|Microsoft shows AI capex with operating leverage while Meta stumbles]]
+- `2026-07-30` [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore|Meta’s AI spending pressures free cash flow while it explores compute monetization]]
+- `2026-07-30` [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea|Meta in Talks to Lease Excess AI Compute to Anthropic in Deal Worth Up to $10 Billion]]
+- `2026-07-30` [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n|Meta Q4: Profit Falls 14%, Free Cash Flow Plunges 91% as Capex Nearly Doubles]]
+- `2026-07-30` [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff|Capex Reckoning: Hyperscalers Split on AI Payoff]]
+- `2026-07-30` [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to|Business Insider - [2026-07-30] [EXTERNAL] Today: Meta wants you to trust in Zuck - [2026-07-30] [EXTERNAL] ‘The Diary…]]
+- `2026-07-29` [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey|Zuckerberg says Meta's enterprise-AI opportunity extends beyond agents]]
+- `2026-07-29` [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi|Zuckerberg predicts billions will have personal AI agents within five years]]
+- `2026-07-29` [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag|Zuckerberg frames Meta's enterprise-AI opportunity beyond agents — APIs and selling compute]]
+- `2026-07-29` [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea|Zuckerberg Defends Open AI Models, Warns Rival Labs Are Spreading “Doom”]]
+- `2026-07-29` [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex|Meta's free cash flow craters as it doubles down on AI capex]]
+- `2026-07-29` [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down|Meta's free cash flow craters 91% as Zuckerberg doubles down on AI spend]]
+- `2026-07-29` [[2026-07-29-meta-says-enterprise-ai-opportunity-extends-beyond-agents|Meta says enterprise AI opportunity extends beyond agents]]
+- `2026-07-29` [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-financing|Meta brings BlackRock into El Paso data-center financing]]
+- `2026-07-29` [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-through-14b-j|Meta brings BlackRock into El Paso data center through $14B joint venture]]
+- `2026-07-29` [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint|Meta Brings BlackRock Into El Paso Data Center in $5.9B Joint Venture]]
+- `2026-07-29` [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen|Mark Zuckerberg says the U.S. should accelerate AI development, not restrict it]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-daily-ai-news-digest-july-30-2026|Daily AI News Digest – July 30, 2026]]
+- `2026-07-29` [[2026-07-29-big-tech-stocks-are-pricing-in-a-miracle-on-costs|Big Tech Stocks Are Pricing In a “Miracle on Costs”]]
+- `2026-07-29` [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools|1,100+ AI-lab employees petition the U.S. government for tools to slow frontier AI]]
+- `2026-07-29` [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin|1,100+ AI staff — plus OpenAI and Anthropic — back a letter urging tools to slow risky AI]]
+- `2026-07-28` [[2026-07-28-visa-cuts-2-600-jobs-7-of-workforce-citing-ai-efficiency|Visa Cuts 2,600 Jobs — 7% of Workforce — Citing AI Efficiency]]
+- `2026-07-28` [[2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit|OpenAI model breaks containment and hacks Hugging Face, igniting an open-weights policy fight]]
+- `2026-07-28` [[2026-07-28-newsmax-and-meta-sign-ai-content-partnership|Newsmax and Meta sign AI content partnership]]
+- `2026-07-28` [[2026-07-28-meta-signs-the-eu-ai-act-code-of-practice-on-ai-content-tran|Meta signs the EU AI Act Code of Practice on AI-content transparency]]
+- `2026-07-28` [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da|Meta and BlackRock form ~$14B JV to build a 1 GW El Paso AI data center]]
+- `2026-07-28` [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow|Hyperscalers Forecast $5.3 Trillion Capex Through 2030; Borrowing $400B This Year Alone]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-28` [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus|BlackRock takes 80% stake in Meta's El Paso AI campus]]
+- `2026-07-27` [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms|Threads users can now chat with Meta AI in DMs]]
+- `2026-07-27` [[2026-07-27-nvidia-led-open-model-push-becomes-a-central-policy-fight|Nvidia-led open-model push becomes a central policy fight]]
+- `2026-07-27` [[2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data|Nvidia in talks to help fund a ~$500B, 10-gigawatt OpenAI data center in Ohio]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-27` [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test|Big Tech’s AI capex faces its first real earnings-week test]]
+- `2026-07-26` [[2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato|FAIRChem v2 + UMA: a universal ML potential for multidomain atomistic simulation]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub|Nvidia’s ‘Open Weights and American AI Leadership’ letter doubles to 50 signers, adding OpenAI and Google]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
+- `2026-07-25` [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op|NYT: OpenAI and Anthropic quietly lobby Washington to curb open-source AI]]
+- `2026-07-24` [[2026-07-24-meta-ai-s-muse-spark-1-1-shifts-from-thinking-to-acting|Meta AI's Muse Spark 1.1 shifts from thinking to acting]]
+- `2026-07-24` [[2026-07-24-daily-ai-news-digest-july-25-2026|Daily AI News Digest – July 25, 2026]]
+- `2026-07-24` [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system|AMD takes on NVIDIA with Helios rack-scale AI system]]
+- `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi|AMD Unveils Helios Rack-Scale AI System; OpenAI, Meta, Anthropic Preparing Deployments]]
+- `2026-07-23` [[2026-07-23-meta-s-ai-optimism-ad-is-scored-to-a-david-bowie-song-about|Meta's AI-optimism ad is scored to a David Bowie song about human extinction]]
+- `2026-07-22` [[2026-07-22-meta-reportedly-in-talks-for-a-anthropic-compute-deal|Meta reportedly in talks for a Anthropic compute deal]]
 - `2026-07-20` [[2026-07-20-frontiers-labs-increasingly-rent-compute-from-rivals-and-spe|Frontiers labs increasingly rent compute from rivals and specialists, distributing construction/permitting risk across…]]
 - `2026-07-19` [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in|Anthropic is reportedly in early talks to lease up to $10B in compute from Meta, potentially helping Meta monetize its…]]
 - `2026-07-18` [[2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands|Meta hires senior AWS compute chief Dave Brown as it expands AI data centers and considers a commercial AI cloud push]]

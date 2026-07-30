@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration
 - 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
+- 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
 - 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
-- 2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model
 embedding_id: 2026-06-21-analysis-of-satya-nadella-s-june-14-blog-post-reveals-a-star
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Analysis of Satya Nadella's June 14 blog post reveals a stark warning: "If all t
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]] · [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model]]
+**Related:** [[2026-06-20-nadella-there-is-no-societal-permission-for-ai-concentration]] · [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]] · [[2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie]]
 <!-- graph:end -->

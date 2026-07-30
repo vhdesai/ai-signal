@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall
 - 2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b
 - 2026-06-21-june-20-2026-24-7-wall-st-venturebeat
 - 2026-06-21-url
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
-- 2026-04-16-source-bloomberg-law-april-14-2026-big-tech-moves
 embedding_id: 2026-07-13-the-information-2026-07-13-external-wall-street-s-biggest-mo
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The Information - [2026-07-13] [EXTERNAL] Wall Street's Biggest Move to Blockcha
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-06-21-june-20-2026-24-7-wall-st-venturebeat]] · [[2026-06-21-url]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-04-16-source-bloomberg-law-april-14-2026-big-tech-moves]]
+**Related:** [[2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall]] · [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-06-21-june-20-2026-24-7-wall-st-venturebeat]] · [[2026-06-21-url]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
 <!-- graph:end -->

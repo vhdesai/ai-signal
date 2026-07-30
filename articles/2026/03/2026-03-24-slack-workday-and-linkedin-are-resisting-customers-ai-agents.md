@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin
 - 2026-05-01-we-had-an-ai-agent-do-our-job-2026-05-01-business-insider
 - 2026-04-10-salesforce-transforms-slackbot-into-autonomous-ai-work-assis
-- 2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-03-24-slack-workday-and-linkedin-are-resisting-customers-ai-agents
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Slack, Workday and LinkedIn Are Resisting Customers’ AI Agents [2026-03-24] ·
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]] · [[2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin]] · [[2026-05-01-we-had-an-ai-agent-do-our-job-2026-05-01-business-insider]] · [[2026-04-10-salesforce-transforms-slackbot-into-autonomous-ai-work-assis]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]]
+**Related:** [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]] · [[2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin]] · [[2026-05-01-we-had-an-ai-agent-do-our-job-2026-05-01-business-insider]] · [[2026-04-10-salesforce-transforms-slackbot-into-autonomous-ai-work-assis]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
 <!-- graph:end -->

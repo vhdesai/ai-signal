@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf
 - 2026-03-24-slack-workday-and-linkedin-are-resisting-customers-ai-agents
-- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 embedding_id: 2026-05-14-linkedin-layoffs-and-a-new-creator-led-events-pivot
 event_name: ''
 ---
@@ -37,5 +37,5 @@ LinkedIn announced layoffs across sales, marketing, engineering, and product —
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-03-24-slack-workday-and-linkedin-are-resisting-customers-ai-agents]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
+**Related:** [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-05-25-clickup-mass-layoff-signals-the-white-collar-ai-restructurin]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-05-25-clickup-mass-layoff-signals-the-next-wave-of-ai-driven-workf]] · [[2026-03-24-slack-workday-and-linkedin-are-resisting-customers-ai-agents]]
 <!-- graph:end -->

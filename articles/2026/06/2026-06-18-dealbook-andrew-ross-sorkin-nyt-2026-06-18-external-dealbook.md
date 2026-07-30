@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook
 - 2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook
 - 2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook
-- 2026-06-24-dealbook-andrew-ross-sorkin-nyt-2026-06-24-external-dealbook
+- 2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook
 embedding_id: 2026-06-18-dealbook-andrew-ross-sorkin-nyt-2026-06-18-external-dealbook
 event_name: ''
 ---
@@ -34,5 +34,5 @@ DealBook (Andrew Ross Sorkin / NYT) - [2026-06-18] [EXTERNAL] DealBook: Warshs h
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-16-dealbook-andrew-ross-sorkin-nyt-2026-06-16-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook]] · [[2026-06-24-dealbook-andrew-ross-sorkin-nyt-2026-06-24-external-dealbook]]
+**Related:** [[2026-06-16-dealbook-andrew-ross-sorkin-nyt-2026-06-16-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook]] · [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]]
 <!-- graph:end -->

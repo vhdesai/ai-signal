@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-google-is-reportedly-developing-a-gemini-specific-frozen-fro
 - 2026-07-21-google-is-reportedly-developing-a-gemini-specific-frozen-fro
+- 2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo
 - 2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered
 - 2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency
-- 2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai
 embedding_id: 2026-07-20-google-reportedly-plans-a-new-frozen-server-chip-to-run-gemi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google reportedly plans a new "Frozen" server chip to run Gemini-class AI models
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-google-is-reportedly-developing-a-gemini-specific-frozen-fro]] · [[2026-07-21-google-is-reportedly-developing-a-gemini-specific-frozen-fro]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-03-google-s-unreleased-gemini-3-2-flash-surfaces-on-eleuther-ai]]
+**Related:** [[2026-07-20-google-is-reportedly-developing-a-gemini-specific-frozen-fro]] · [[2026-07-21-google-is-reportedly-developing-a-gemini-specific-frozen-fro]] · [[2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]]
 <!-- graph:end -->

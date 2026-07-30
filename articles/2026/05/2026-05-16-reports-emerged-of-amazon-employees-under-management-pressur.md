@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees
 - 2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a
 - 2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools
-- 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
+- 2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali
 embedding_id: 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reports emerged of Amazon employees under management pressure to increase their 
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
+**Related:** [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-05-28-amazon-scraps-internal-ai-usage-leaderboard-after-employees]] · [[2026-05-18-openai-s-b2b-signals-report-found-that-companies-operating-a]] · [[2026-05-28-shadow-ai-is-pulling-enterprise-data-into-unmanaged-tools]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi
+- 2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
-- 2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week
-- 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia
 embedding_id: 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AMD and Meta have officially expanded their multi-year AI infrastructure partner
 
 **Entities:** [[AMD]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-06-08-amd-commits-2b-to-accelerate-uk-ai-at-london-tech-week]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-a-broad-industry-coalition-openai-amd-broadcom-intel-microso]]
+**Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi]] · [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]]
 <!-- graph:end -->

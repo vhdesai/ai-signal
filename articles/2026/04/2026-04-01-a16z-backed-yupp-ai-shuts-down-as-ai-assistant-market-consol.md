@@ -18,8 +18,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
+- 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
 - 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 - 2026-05-14-source-the-ai-track-april-27-2026
 - 2026-05-14-source-aitoolsrecap-may-9-2026
@@ -34,5 +34,5 @@ A16z-Backed Yupp AI Shuts Down as AI Assistant Market Consolidates
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-01-yupp-ai-an-andreessen-horowitz-backed-platform-that-aggregat]] · [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-05-14-source-the-ai-track-april-27-2026]] · [[2026-05-14-source-aitoolsrecap-may-9-2026]]
+**Related:** [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-05-14-source-the-ai-track-april-27-2026]] · [[2026-05-14-source-aitoolsrecap-may-9-2026]]
 <!-- graph:end -->

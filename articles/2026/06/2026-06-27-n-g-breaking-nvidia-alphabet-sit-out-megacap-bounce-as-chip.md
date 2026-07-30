@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
+- 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
 - 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
-- 2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos
-- 2026-03-25-the-latest-news-on-nvidia-corp-2026-03-25-wall-street-journa
-- 2026-03-18-the-latest-news-on-nvidia-corp-2026-03-18-wall-street-journa
+- 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
 embedding_id: 2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip
 event_name: ''
 ---
@@ -39,5 +39,5 @@ N G Breaking Nvidia, Alphabet sit out megacap bounce as chip stocks sink on AI c
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-03-25-the-latest-news-on-nvidia-corp-2026-03-25-wall-street-journa]] · [[2026-03-18-the-latest-news-on-nvidia-corp-2026-03-18-wall-street-journa]]
+**Related:** [[2026-06-27-u-s-and-european-semiconductor-stocks-sold-off-friday-on-fea]] · [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]]
 <!-- graph:end -->

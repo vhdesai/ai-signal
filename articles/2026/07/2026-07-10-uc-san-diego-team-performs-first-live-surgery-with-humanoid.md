@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera
 - 2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano
+- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi
 embedding_id: 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A UCSD team used two teleoperated Unitree G1 humanoid robots to perform gallblad
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-06-01-openai-stands-up-a-robotics-division-altman-lays-out-humanoi]]
+**Related:** [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-teleopera]] · [[2026-05-14-physical-ai-milestone-humanoid-robots-from-schaeffler-humano]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
 <!-- graph:end -->

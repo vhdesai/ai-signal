@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that
 - 2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 - 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 - 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
-- 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
 embedding_id: 2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA releases “HORIZON,” a hands-free agent framework for hardware design 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that]] · [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]]
+**Related:** [[2026-07-05-nvidia-introduced-horizon-an-autonomous-agent-framework-that]] · [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
 <!-- graph:end -->

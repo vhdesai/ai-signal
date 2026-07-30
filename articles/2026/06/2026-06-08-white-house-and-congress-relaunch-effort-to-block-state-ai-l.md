@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-31-white-house-ai-framework-vs-state-regulations-california-and
 - 2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie
+- 2026-07-24-white-house-draws-new-ai-line-on-china
 - 2026-04-01-white-house-releases-national-ai-policy-framework-amid-feder
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-06-21-six-months-after-president-trump-warned-states-not-to-regula
 embedding_id: 2026-06-08-white-house-and-congress-relaunch-effort-to-block-state-ai-l
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The White House and congressional allies are relaunching a coordinated effort to
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie]] · [[2026-04-01-white-house-releases-national-ai-policy-framework-amid-feder]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-06-21-six-months-after-president-trump-warned-states-not-to-regula]]
+**Related:** [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-04-20-axios-wsj-april-18-19-2026-reporting-indicates-an-intensifie]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-04-01-white-house-releases-national-ai-policy-framework-amid-feder]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
 <!-- graph:end -->

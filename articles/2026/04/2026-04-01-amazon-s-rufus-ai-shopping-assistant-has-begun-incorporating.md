@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-01-amazon-rufus-sponsored-prompts-show-cost-efficiency-but-mode
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
+- 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
 - 2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd
-- 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 embedding_id: 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon's Rufus AI shopping assistant has begun incorporating "sponsored prompts"
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-amazon-rufus-sponsored-prompts-show-cost-efficiency-but-mode]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]]
+**Related:** [[2026-04-01-amazon-rufus-sponsored-prompts-show-cost-efficiency-but-mode]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-05-15-amazon-rolled-out-a-new-ai-powered-shopping-assistant-embedd]]
 <!-- graph:end -->

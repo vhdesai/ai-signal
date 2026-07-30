@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 - 2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners
+- 2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost
 - 2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 embedding_id: 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-27] [EXTERNAL] How SpaceX prices the AI race
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]]
+**Related:** [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac
 - 2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking
-- 2026-05-14-source-mit-media-lab-arxiv-published-june-2025-resurfaces-ma
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-06-29-wimbledon-adds-ibm-ai-tools-match-chat-upgrade-key-moments-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Wimbledon adds IBM AI tools — Match Chat upgrade, "Key Moments," Slamtracker A
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-05-14-source-mit-media-lab-arxiv-published-june-2025-resurfaces-ma]]
+**Related:** [[2026-06-29-the-all-england-club-rolled-out-new-ibm-built-ai-features-ac]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
 <!-- graph:end -->

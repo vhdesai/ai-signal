@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 - 2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme
 - 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
+- 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
-- 2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock
 embedding_id: 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Codex point release tightens Model Context Protocol behavior and reworks how
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-21-openai-codex-now-controls-a-mac-even-when-the-laptop-is-lock]]
+**Related:** [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-05-27-openai-ships-codex-0-134-0-with-search-mcp-and-cli-improveme]] · [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
 <!-- graph:end -->

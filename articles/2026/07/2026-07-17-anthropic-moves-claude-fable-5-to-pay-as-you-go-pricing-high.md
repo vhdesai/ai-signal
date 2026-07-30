@@ -23,8 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-anthropic-changes-claude-fable-access-toward-metered-api-bil
 - 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
+- 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
+- 2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o
 - 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
-- 2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5
 embedding_id: 2026-07-17-anthropic-moves-claude-fable-5-to-pay-as-you-go-pricing-high
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic moves Claude Fable 5 to pay-as-you-go pricing, highlighting frontier-m
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-anthropic-changes-claude-fable-access-toward-metered-api-bil]] · [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-07-13-anthropic-extends-claude-fable-5-access-after-openai-s-gpt-5]]
+**Related:** [[2026-07-20-anthropic-changes-claude-fable-access-toward-metered-api-bil]] · [[2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-07-27-anthropic-launches-claude-opus-5-at-roughly-half-the-price-o]] · [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]]
 <!-- graph:end -->

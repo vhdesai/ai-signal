@@ -27,6 +27,7 @@ related_article_ids:
 - 2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive
 - 2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global
 - 2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat
+- 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 embedding_id: 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 event_name: ''
 ---
@@ -40,5 +41,5 @@ The AP reports that ~$700B in 2026 data‑center investment — led by Alphabet,
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]]
+**Related:** [[2026-06-25-apple-and-microsoft-raise-hardware-prices-as-ai-demand-drive]] · [[2026-07-11-goldman-sachs-warns-the-u-s-will-bear-the-brunt-of-a-global]] · [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat]] · [[2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs]]
 <!-- graph:end -->

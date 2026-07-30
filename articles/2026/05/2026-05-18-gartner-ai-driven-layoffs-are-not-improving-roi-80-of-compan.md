@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+- 2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in
 - 2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail
-- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
 embedding_id: 2026-05-18-gartner-ai-driven-layoffs-are-not-improving-roi-80-of-compan
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Gartner: AI-Driven Layoffs Are Not Improving ROI; 80% of Companies Report No Cor
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
+**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-07-26-monday-com-joins-growing-list-of-tech-companies-citing-ai-in]] · [[2026-04-02-new-ai-behind-25-of-recent-layoffs-apr-2-a-new-industry-anal]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-06-23-gartner-two-thirds-of-ai-led-legacy-migrations-will-fail]]
 <!-- graph:end -->

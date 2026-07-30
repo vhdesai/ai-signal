@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be
 - 2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm
+- 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
 - 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 embedding_id: 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic delivered a closed-door briefing to a G20 working group on frontier-mo
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-05-26-anthropic-and-openai-publish-updated-frontier-safety-commitm]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai]]
 <!-- graph:end -->

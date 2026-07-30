@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
 - 2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev
 - 2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec
-- 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
+- 2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t
 embedding_id: 2026-05-12-u-s-commerce-expands-pre-release-safety-testing-to-five-fron
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev]] · [[2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]]
+**Related:** [[2026-05-13-the-u-s-department-of-commerce-expanded-pre-release-safety-t]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev]] · [[2026-07-08-gpt-5-6-s-broad-release-came-only-after-a-u-s-government-sec]] · [[2026-06-22-trump-administration-reportedly-plans-pre-release-ai-model-t]]
 <!-- graph:end -->

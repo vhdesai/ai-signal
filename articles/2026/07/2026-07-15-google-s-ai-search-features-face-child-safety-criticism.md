@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-20-google-fights-manipulation-of-ai-search-results
 - 2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri
 - 2026-05-09-trump-administration-reverses-course-on-ai-safety-testing-si
-- 2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected
+- 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 embedding_id: 2026-07-15-google-s-ai-search-features-face-child-safety-criticism
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google's AI search features face child-safety criticism.
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-05-09-trump-administration-reverses-course-on-ai-safety-testing-si]] · [[2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected]]
+**Related:** [[2026-05-22-google-ai-overviews-vulnerable-to-disregard-prompt-style-man]] · [[2026-05-20-google-fights-manipulation-of-ai-search-results]] · [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-05-09-trump-administration-reverses-course-on-ai-safety-testing-si]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]]
 <!-- graph:end -->

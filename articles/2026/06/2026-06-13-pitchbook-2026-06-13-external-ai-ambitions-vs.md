@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt
-- 2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew
-- 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
 embedding_id: 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-13] [EXTERNAL] AI ambitions vs. exit pressures
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt]] · [[2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]]
+**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt]]
 <!-- graph:end -->

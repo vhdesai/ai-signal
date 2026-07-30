@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as
+- 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 - 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
 embedding_id: 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A May 8 analysis flags mounting structural evidence that Nvidia's AI chip franch
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

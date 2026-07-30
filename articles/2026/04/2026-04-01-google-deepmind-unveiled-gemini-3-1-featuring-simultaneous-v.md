@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim
 - 2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot
 - 2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability
-- 2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea
+- 2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas
 embedding_id: 2026-04-01-google-deepmind-unveiled-gemini-3-1-featuring-simultaneous-v
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Google DeepMind unveiled Gemini 3.1, featuring simultaneous voice and image anal
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-05-19-google-s-gemini-3-5-flash-continues-broad-rollout-across-sea]]
+**Related:** [[2026-04-02-google-deepmind-released-gemini-3-1-flash-live-in-march-desc]] · [[2026-04-02-google-deepmind-gemini-3-1-flash-live-now-available-real-tim]] · [[2026-05-19-google-gemini-3-5-flash-gemini-omni-debut-at-i-o-2026-hot]] · [[2026-05-07-newgemini-3-1-flash-lite-reaches-general-availability]] · [[2026-07-21-google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flas]]
 <!-- graph:end -->

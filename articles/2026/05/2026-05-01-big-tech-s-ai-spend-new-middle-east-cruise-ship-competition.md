@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
+- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
+- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
-- 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
-- 2026-03-13-ai-shopping-wars-health-insurance-costs-big-budget-fish-tank
 embedding_id: 2026-05-01-big-tech-s-ai-spend-new-middle-east-cruise-ship-competition
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Big Tech's AI Spend, New Middle East, Cruise Ship Competition [2026-05-01] · WS
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-03-13-ai-shopping-wars-health-insurance-costs-big-budget-fish-tank]]
+**Related:** [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
 <!-- graph:end -->

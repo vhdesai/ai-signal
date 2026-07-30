@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether
+- 2026-07-23-white-house-alleges-covert-distillation-behind-moonshot-s-ki
+- 2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi
+- 2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
-- 2026-07-20-kimi-k3-reportedly-pauses-new-signups-within-48-hours-becaus
-- 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
 embedding_id: 2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Kimi K3 sparks U.S. "losing the race" alarm and debate over distillation/model-e
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-20-kimi-k3-reportedly-pauses-new-signups-within-48-hours-becaus]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]]
+**Related:** [[2026-07-19-kimi-k3-triggers-western-and-u-s-policy-debate-over-whether]] · [[2026-07-23-white-house-alleges-covert-distillation-behind-moonshot-s-ki]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]]
 <!-- graph:end -->

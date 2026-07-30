@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions
+- 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 - 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
-- 2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta
 embedding_id: 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Meta's newsroom published "New AI Tools to Help You Make Things Happen on Facebo
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa]] · [[2026-03-24-zuckerberg-is-building-an-ai-agent-to-help-run-meta]]
+**Related:** [[2026-06-18-meta-unveils-ai-ad-and-commerce-tools-at-cannes-lions]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa]]
 <!-- graph:end -->

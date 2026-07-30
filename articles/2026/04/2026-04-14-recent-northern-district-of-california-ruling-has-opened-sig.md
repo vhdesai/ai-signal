@@ -45,7 +45,7 @@ related_article_ids:
 - 2026-04-14-source-tech-insider-updated-april-2026
 - 2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
+- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 embedding_id: 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 event_name: ''
 ---
@@ -59,5 +59,5 @@ Daily AI News Digest — April 23, 2026 — Curated for Vik Desai, Corp Dev, Mic
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]]
+**Related:** [[2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s]] · [[2026-04-14-source-tech-insider-updated-april-2026]] · [[2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
 <!-- graph:end -->

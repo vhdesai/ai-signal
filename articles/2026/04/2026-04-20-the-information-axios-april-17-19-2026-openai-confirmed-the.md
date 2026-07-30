@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
+- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 - 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
 - 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
-- 2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c
 embedding_id: 2026-04-20-the-information-axios-april-17-19-2026-openai-confirmed-the
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information / Axios • April 17–19, 2026 OpenAI confirmed the departures 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-04-02-hot-openai-s-greg-brockman-hints-at-agi-spud-model-apr-1-2-c]]
+**Related:** [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]]
 <!-- graph:end -->

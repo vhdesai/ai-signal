@@ -1,13 +1,56 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 358
+member_count: 404
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 358 connected article(s).
+> Auto-generated entity hub. 404 connected article(s).
 
+- `2026-07-30` [[2026-07-30-wall-street-journal-wsj-2026-07-30-external-the-10-point-the|Wall Street Journal / WSJ - [2026-07-30] [EXTERNAL] The 10-Point: The Rise of $1M Companies with One Employee -…]]
+- `2026-07-30` [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role|AWS VP Swami Sivasubramanian Takes Expanded Agentic AI Role]]
+- `2026-07-29` [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag|Zuckerberg frames Meta's enterprise-AI opportunity beyond agents — APIs and selling compute]]
+- `2026-07-29` [[2026-07-29-wednesday-july-29-2026|Wednesday, July 29, 2026]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names|Gartner's 2026 Cloud AI Infrastructure Magic Quadrant names AWS, Google, Microsoft, Oracle as leaders]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
+- `2026-07-29` [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras|Gartner names AWS, Google, Microsoft, Oracle as Cloud AI Infrastructure leaders]]
+- `2026-07-29` [[2026-07-29-daily-ai-news-digest-july-30-2026|Daily AI News Digest – July 30, 2026]]
+- `2026-07-29` [[2026-07-29-big-tech-stocks-are-pricing-in-a-miracle-on-costs|Big Tech Stocks Are Pricing In a “Miracle on Costs”]]
+- `2026-07-29` [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200|Amazon heads into Q2 earnings with AWS growth and record ~$200B AI capex]]
+- `2026-07-29` [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin|1,100+ AI staff — plus OpenAI and Anthropic — back a letter urging tools to slow risky AI]]
+- `2026-07-28` [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro|Recursive signs $410M multi-year AWS deal to scale self-improving AI]]
+- `2026-07-28` [[2026-07-28-recursive-superintelligence-signs-410m-compute-deal-with-ama|Recursive Superintelligence signs $410M compute deal with Amazon]]
+- `2026-07-28` [[2026-07-28-recursive-superintelligence-signs-410-million-compute-deal-w|Recursive Superintelligence signs $410 million compute deal with AWS]]
+- `2026-07-28` [[2026-07-28-openai-model-breaks-containment-and-hacks-hugging-face-ignit|OpenAI model breaks containment and hacks Hugging Face, igniting an open-weights policy fight]]
+- `2026-07-28` [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow|Hyperscalers Forecast $5.3 Trillion Capex Through 2030; Borrowing $400B This Year Alone]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-28` [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen|AWS signs a ~$410M compute deal with Recursive Superintelligence]]
+- `2026-07-28` [[2026-07-28-aws-and-newforma-enter-a-7-year-strategic-collaboration|AWS and Newforma enter a 7-year strategic collaboration]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-27` [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test|Big Tech’s AI capex faces its first real earnings-week test]]
+- `2026-07-27` [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor|Amazon and Microsoft's combined ~$400B AI spend tests investor patience]]
+- `2026-07-27` [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20|Amazon and Microsoft head into earnings defending ~$400B in 2026 AI spend]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub|Nvidia’s ‘Open Weights and American AI Leadership’ letter doubles to 50 signers, adding OpenAI and Google]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
+- `2026-07-25` [[2026-07-25-anthropic-asks-sk-hynix-to-supply-materials-for-its-own-cust|Anthropic asks SK Hynix to supply materials for its own custom chips]]
+- `2026-07-25` [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi|Anthropic asks SK Hynix for supplies to build its own AI chips]]
+- `2026-07-25` [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials|Anthropic asks SK Hynix for custom-chip materials]]
+- `2026-07-25` [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to|Anthropic Asks SK Hynix for Custom Chip Materials — Moving to Build Its Own Silicon]]
+- `2026-07-25` [[2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list|Amazon requires sellers to label AI-generated people in listings]]
+- `2026-07-24` [[2026-07-24-enterprise-ai-consolidates-as-infrastructure-provenance-and|Enterprise AI Consolidates as Infrastructure, Provenance, and Safety Take Center Stage]]
+- `2026-07-24` [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs|Amazon shuts an AI agent research lab during AGI layoffs]]
+- `2026-07-24` [[2026-07-24-amazon-makes-claude-opus-5-available-on-amazon-bedrock|Amazon makes Claude Opus 5 available on Amazon Bedrock]]
+- `2026-07-24` [[2026-07-24-aws-moves-q-business-kendra-and-bedrock-agents-to-maintenanc|AWS moves Q Business, Kendra, and Bedrock Agents to maintenance mode]]
+- `2026-07-24` [[2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena|AWS Retires Q Business, Kendra, and Bedrock Agents to Maintenance Mode]]
+- `2026-07-23` [[2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio|MIT projects selected for funding under DOE's Genesis Mission]]
+- `2026-07-23` [[2026-07-23-daily-ai-news-digest-july-24-2026|Daily AI News Digest – July 24, 2026]]
+- `2026-07-23` [[2026-07-23-amazon-shuts-ai-agent-research-lab-during-agi-layoffs|Amazon shuts AI agent research lab during AGI layoffs]]
+- `2026-07-22` [[2026-07-22-amazon-heads-into-earnings-with-wall-street-betting-big-on-a|Amazon heads into earnings with Wall Street betting big on AWS]]
+- `2026-07-22` [[2026-07-22-aws-crowdstrike-and-cerebras-push-ai-native-security-control|AWS, CrowdStrike, and Cerebras push AI-native security controls]]
 - `2026-07-18` [[2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands|Meta hires senior AWS compute chief Dave Brown as it expands AI data centers and considers a commercial AI cloud push]]
 - `2026-07-17` [[2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models-microso|Moonshot AI's Kimi K3 challenges U.S. frontier models; Microsoft preps Mythos-like AI bug finder; Xi calls for open…]]
 - `2026-07-17` [[2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi|Meta reportedly plans to hire a top Amazon computing executive as it weighs cloud/infrastructure ambitions]]
@@ -51,6 +94,7 @@ member_count: 358
 - `2026-07-05` [[2026-07-05-nvidia-partner-foxconn-posts-52-june-revenue-jump-on-sustain|Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand]]
 - `2026-07-05` [[2026-07-05-hon-hai-precision-foxconn-nvidia-s-key-server-assembly-partn|Hon Hai Precision (Foxconn), Nvidia's key server-assembly partner, said June revenue grew 52%, implying June-quarter…]]
 - `2026-07-05` [[2026-07-05-companies-nvidia-google-alphabet-deepmind-openai-anthropic-m|Companies: Nvidia, Google (Alphabet/DeepMind), OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
+- `2026-07-05` [[2026-07-05-amazon-will-stop-accepting-new-customers-for-mechanical-turk|Amazon will stop accepting new customers for Mechanical Turk]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-04` [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-07-04` [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw|CIO Dive - [2026-07-04] [EXTERNAL] Weekender: AWS funnels \ into forward deployed engineering hub]]
@@ -90,9 +134,11 @@ member_count: 358
 - `2026-06-24` [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia|Amazon’s Zoox unveils redesigned robotaxi ahead of commercial launch]]
 - `2026-06-22` [[2026-06-22-nvidia-introduces-halos-for-robotics-full-stack-safety-syste|Nvidia Introduces Halos for Robotics — Full-Stack Safety System for Physical AI]]
 - `2026-06-22` [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls|DeepMind Talent Exodus Becomes a Market Story — Alphabet Falls ~6%]]
+- `2026-06-22` [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet|Amazon pushes conversational AI ads onto the open internet]]
 - `2026-06-20` [[2026-06-20-cio-dive-2026-06-20-external-weekender-aws-unveils-agent-sec|CIO Dive - [2026-06-20] [EXTERNAL] Weekender: AWS unveils agent security, data access tools]]
 - `2026-06-20` [[2026-06-20-aws-unveils-agent-security-data-access-tools-2026-06-22-june|AWS unveils agent security, data access tools - [2026-06-22] June 22 - AI lessons from SMB banks | The road to…]]
 - `2026-06-18` [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt|CIO Dive - [2026-06-18] [EXTERNAL] June 18 - AWS responds to the Mythos moment | SaaS pricing models shift]]
+- `2026-06-18` [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia|Amazon looks to sell AI chips externally, challenging Nvidia more directly]]
 - `2026-06-18` [[2026-06-18-amazon-weighs-selling-trainium-chips-to-outside-data-centers|Amazon Weighs Selling Trainium Chips to Outside Data Centers]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-06-13` [[2026-06-13-amazon-ceo-jassy-s-talks-with-u-s-officials-triggered-crackd|Amazon CEO Jassy's Talks with U.S. Officials Triggered Crackdown on Anthropic]]

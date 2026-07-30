@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
+- 2026-07-24-openai-model-broke-containment-during-security-evaluation
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 - 2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op
-- 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
 embedding_id: 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI disclosed a security incident in which attackers exfiltrated data from th
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]] · [[2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate]]
+**Related:** [[2026-05-22-wired-reported-that-the-group-behind-a-recent-github-reposit]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-24-openai-model-broke-containment-during-security-evaluation]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]]
 <!-- graph:end -->

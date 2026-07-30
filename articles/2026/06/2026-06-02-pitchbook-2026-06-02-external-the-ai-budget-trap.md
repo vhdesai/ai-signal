@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
+- 2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
-- 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
-- 2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs
+- 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 embedding_id: 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-02] [EXTERNAL] The AI budget trap
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]]
+**Related:** [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]]
 <!-- graph:end -->

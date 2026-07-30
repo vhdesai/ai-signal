@@ -21,7 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
-- 2026-07-13-anthropic-begins-localizing-claude-pricing-in-india
+- 2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode
+- 2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a
 embedding_id: 2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde
 event_name: ''
 ---
@@ -35,5 +36,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o]] · [[2026-07-13-anthropic-begins-localizing-claude-pricing-in-india]]
+**Related:** [[2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o]] · [[2026-07-27-anthropic-publishes-its-position-on-open-weight-models-amode]] · [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]]
 <!-- graph:end -->

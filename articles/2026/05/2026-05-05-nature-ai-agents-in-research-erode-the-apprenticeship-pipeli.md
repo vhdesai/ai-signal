@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 - 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special
+- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-05-05-nature-ai-agents-in-research-erode-the-apprenticeship-pipeli
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A Nature comment piece argues that autonomous research agents are eroding the ap
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-22-mit-technology-review-ai-in-science-is-shifting-from-special]]
+**Related:** [[2026-05-05-cmu-and-nature-publish-on-ai-s-effect-on-research-apprentice]] · [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

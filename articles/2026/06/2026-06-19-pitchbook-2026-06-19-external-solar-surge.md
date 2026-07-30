@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 - 2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue
-- 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
 embedding_id: 2026-06-19-pitchbook-2026-06-19-external-solar-surge
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-19] [EXTERNAL] Solar surge
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]]
+**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]]
 <!-- graph:end -->

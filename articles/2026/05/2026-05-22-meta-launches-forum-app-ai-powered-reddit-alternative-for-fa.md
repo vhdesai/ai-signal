@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa
 - 2026-05-22-meta-launches-forum-reddit-like-standalone-app-with-ai-power
+- 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
 - 2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics
 - 2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook
-- 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
 embedding_id: 2026-05-22-meta-launches-forum-app-ai-powered-reddit-alternative-for-fa
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta released Forum on iOS — a standalone Reddit-like app for Facebook Groups 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa]] · [[2026-05-22-meta-launches-forum-reddit-like-standalone-app-with-ai-power]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]]
+**Related:** [[2026-05-22-meta-released-forum-on-ios-today-a-standalone-app-that-surfa]] · [[2026-05-22-meta-launches-forum-reddit-like-standalone-app-with-ai-power]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-05-13-meta-is-testing-a-meta-ai-integration-on-threads-that-mimics]] · [[2026-06-15-new-meta-rolls-out-new-ai-tools-for-facebook]]
 <!-- graph:end -->

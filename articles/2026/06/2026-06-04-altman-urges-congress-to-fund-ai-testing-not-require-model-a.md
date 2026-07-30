@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews
+- 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
+- 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su
-- 2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202
-- 2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde
-- 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
+- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's Sam Altman pressed lawmakers to reject mandatory pre-release model sign
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su]] · [[2026-06-03-sam-altman-admits-token-costs-are-a-huge-issue-rules-out-202]] · [[2026-06-22-trump-administration-plans-pre-release-ai-model-testing-unde]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]]
+**Related:** [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

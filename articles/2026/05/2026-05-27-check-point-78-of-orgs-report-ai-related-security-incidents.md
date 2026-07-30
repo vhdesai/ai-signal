@@ -19,6 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
 - 2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
@@ -33,5 +34,5 @@ Check Point's 2026 Cloud Security Report finds that 78% of organizations now rep
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]]
+**Related:** [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-06-08-ibm-study-finds-a-widening-enterprise-ai-control-gap]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]]
 <!-- graph:end -->

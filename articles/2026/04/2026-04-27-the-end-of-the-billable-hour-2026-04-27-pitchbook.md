@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
-- 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
 embedding_id: 2026-04-27-the-end-of-the-billable-hour-2026-04-27-pitchbook
 event_name: ''
 ---
@@ -33,5 +33,5 @@ The end of the billable hour [2026-04-27] · PitchBook
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]]
+**Related:** [[2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]]
 <!-- graph:end -->

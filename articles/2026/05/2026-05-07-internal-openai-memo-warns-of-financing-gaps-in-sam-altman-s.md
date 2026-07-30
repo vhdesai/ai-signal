@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for
 - 2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior
 - 2026-05-18-may-15-2026-openai-blog-theaitrack-techcrunch
-- 2026-05-18-may-7-2026-openai-blog
 embedding_id: 2026-05-07-internal-openai-memo-warns-of-financing-gaps-in-sam-altman-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Internal OpenAI Memo Warns of Financing Gaps in Sam Altman’s AI Chip Vision [2
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior]] · [[2026-05-18-may-15-2026-openai-blog-theaitrack-techcrunch]] · [[2026-05-18-may-7-2026-openai-blog]]
+**Related:** [[2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-06-26-openai-reportedly-delays-ipo-to-2027-as-altman-holds-out-for]] · [[2026-07-19-inference-chip-financing-and-ai-memory-shortages-from-prior]] · [[2026-05-18-may-15-2026-openai-blog-theaitrack-techcrunch]]
 <!-- graph:end -->

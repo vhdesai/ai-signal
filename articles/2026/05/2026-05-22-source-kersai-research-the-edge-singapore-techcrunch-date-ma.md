@@ -21,7 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-source-the-edge-singapore-bloomberg-date-may-22-2026
-- 2026-04-16-source-techcrunch-april-16-2026
 embedding_id: 2026-05-22-source-kersai-research-the-edge-singapore-techcrunch-date-ma
 event_name: ''
 ---
@@ -35,5 +34,5 @@ Source: Kersai Research, The Edge Singapore, TechCrunch | Date: May 2026
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-22-source-the-edge-singapore-bloomberg-date-may-22-2026]] · [[2026-04-16-source-techcrunch-april-16-2026]]
+**Related:** [[2026-05-22-source-the-edge-singapore-bloomberg-date-may-22-2026]]
 <!-- graph:end -->

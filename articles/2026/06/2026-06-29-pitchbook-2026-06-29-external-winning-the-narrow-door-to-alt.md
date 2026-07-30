@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-29] [EXTERNAL] Winning the narrow door to alts
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]]
+**Related:** [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
 <!-- graph:end -->

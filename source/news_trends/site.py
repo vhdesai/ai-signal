@@ -880,6 +880,255 @@ def _build_wwdc_analysis_page(cfg: Config, site: Path) -> int:
     return 1
 
 
+# --- Microsoft FY27 strategy & comparison analysis (curated, July 2026) ------
+# These files are rich narrative analysis docs (headings + tables) that are
+# rendered directly from news/ as curated pages, mirroring the Build vs I/O and
+# WWDC analysis pages. They are intentionally NOT parsed as digest articles
+# (see _is_curated_analysis_file in split.py). Files are auto-discovered so new
+# per-company briefings are picked up on the next build without code changes.
+_FY27_DATE = "2026-07-21"
+
+
+def _read_curated_doc(path: Path, fallback_title: str) -> tuple[str, str]:
+    """Return (raw_markdown, first-heading title) for a curated analysis file."""
+    text = path.read_text(encoding='utf-8', errors='replace')
+    title = fallback_title
+    for line in text.splitlines():
+        if line.startswith('#'):
+            title = line.lstrip('#').strip() or fallback_title
+            break
+    return text, title
+
+
+def _fy27_strategy_files(cfg: Config) -> list[tuple[Path, str, str]]:
+    """Discover FY27 strategy-signal files -> [(path, label, page-slug)].
+
+    Microsoft (the baseline) is listed first; the rest are alphabetical.
+    """
+    out: list[tuple[Path, str, str]] = []
+    for path in cfg.news_dir.glob(f"{_FY27_DATE}_*_Strategy*.md"):
+        if "_vs_" in path.name or path.name.endswith("_Comparison.md"):
+            continue
+        token = path.name[len(_FY27_DATE) + 1:-3]
+        token = _re.sub(r"_Strategy(?:_Signals)?$", "", token)
+        if token.startswith("Microsoft_FY27"):
+            label, slug = "Microsoft FY27", "fy27-microsoft"
+        else:
+            label = token.replace("_", " ")
+            slug = "fy27-" + _safe_filename(label).lower()
+        out.append((path, label, slug))
+    out.sort(key=lambda t: (t[1] != "Microsoft FY27", t[1].lower()))
+    return out
+
+
+def _fy27_compare_files(cfg: Config) -> list[tuple[Path, str]]:
+    """Discover Microsoft FY27 head-to-head comparison files -> [(path, tab)]."""
+    out: list[tuple[Path, str]] = []
+    for path in cfg.news_dir.glob(f"{_FY27_DATE}_Microsoft_FY27_vs_*_Comparison.md"):
+        token = path.name.split("_vs_", 1)[1][:-3]
+        token = _re.sub(r"_Comparison$", "", token)
+        out.append((path, "vs " + token.replace("_", " ")))
+    out.sort(key=lambda t: t[1].lower())
+    return out
+
+
+
+def _build_fy27_compare_page(cfg: Config, site: Path) -> int:
+    """Tabbed page comparing Microsoft FY27 against each big-tech competitor."""
+    docs: list[dict[str, str]] = []
+    for idx, (path, tab_label) in enumerate(_fy27_compare_files(cfg)):
+        text, title = _read_curated_doc(path, tab_label)
+        docs.append({
+            'id': f'fy27-compare-doc-{idx}',
+            'tab': tab_label,
+            'title': title,
+            'source': path.name,
+            'content': _md_to_html(text),
+        })
+    if not docs:
+        return 0
+
+    tabs_html = ''.join(
+        f'<button class="compare-tab-btn{" active" if i == 0 else ""}" '
+        f'onclick="showCompareDoc(this, \'{doc["id"]}\')">{_html.escape(doc["tab"])}</button>'
+        for i, doc in enumerate(docs)
+    )
+    docs_html = ''.join(
+        f'<section id="{doc["id"]}" class="compare-doc{" active" if i == 0 else ""}">'
+        f'<div class="compare-doc-header"><h2>{_html.escape(doc["title"])}</h2>'
+        f'<p class="compare-doc-source">Source: news/{_html.escape(doc["source"])}</p></div>'
+        f'{doc["content"]}'
+        '</section>'
+        for i, doc in enumerate(docs)
+    )
+    body = (
+        '<div class="compare-page-intro">'
+        '<h2>\u2694\ufe0f Microsoft FY27 vs Big Tech</h2>'
+        f'<p>Side-by-side comparison of Microsoft\u2019s FY27 kickoff strategy against '
+        f'{len(docs)} competitors across strategy, models, infrastructure, and '
+        'market positioning.</p>'
+        '<p class="compare-link-row"><a href="fy27-strategy.html" class="compare-link">'
+        'View the per-company strategy signals \u2192</a></p>'
+        '</div>'
+        '<div class="compare-page-layout">'
+        f'<div class="compare-tabs">{tabs_html}</div>'
+        f'<div class="compare-content">{docs_html}</div>'
+        '</div>'
+        '<script>'
+        'function showCompareDoc(btn,id){'
+        'document.querySelectorAll(".compare-doc").forEach(el=>el.classList.remove("active"));'
+        'document.querySelectorAll(".compare-tab-btn").forEach(el=>el.classList.remove("active"));'
+        'document.getElementById(id).classList.add("active");'
+        'btn.classList.add("active");}'
+        '</script>'
+    )
+    _write(site / 'compare-fy27.html',
+           _render('Microsoft FY27 vs Big Tech', body, active='events',
+                   subtitle='Tabbed comparison of Microsoft FY27 strategy vs big-tech competitors'))
+    return 1
+
+
+def _build_fy27_strategy_pages(cfg: Config, site: Path) -> int:
+    """Build a combined tabbed FY27 strategy page plus one page per company."""
+    docs: list[dict[str, str]] = []
+    for idx, (path, label, slug) in enumerate(_fy27_strategy_files(cfg)):
+        text, title = _read_curated_doc(path, label)
+        docs.append({
+            'id': f'fy27-strat-doc-{idx}',
+            'tab': label,
+            'title': title,
+            'slug': slug,
+            'source': path.name,
+            'content': _md_to_html(text),
+        })
+    if not docs:
+        return 0
+
+    pages = 0
+
+    # --- individual per-company event pages (events/<slug>.html) ---
+    for doc in docs:
+        detail_body = (
+            '<div class="compare-page-intro">'
+            f'<h2>{_html.escape(doc["title"])}</h2>'
+            '<p>Strategy signals extracted from the July 2026 briefings. '
+            'Part of the <a href="../compare-fy27.html">Microsoft FY27 vs Big Tech</a> series '
+            'and the <a href="../fy27-strategy.html">combined strategy view</a>.</p>'
+            '</div>'
+            '<section class="compare-doc active">'
+            f'<div class="compare-doc-header"><p class="compare-doc-source">Source: news/{_html.escape(doc["source"])}</p></div>'
+            f'{doc["content"]}'
+            '</section>'
+        )
+        _write(site / 'events' / f'{doc["slug"]}.html',
+               _render(doc['title'], detail_body, rel='../', active='events',
+                       subtitle='FY27 strategy signals'))
+        pages += 1
+
+    # --- combined tabbed page (fy27-strategy.html) ---
+    tabs_html = ''.join(
+        f'<button class="compare-tab-btn{" active" if i == 0 else ""}" '
+        f'onclick="showCompareDoc(this, \'{doc["id"]}\')">{_html.escape(doc["tab"])}</button>'
+        for i, doc in enumerate(docs)
+    )
+    docs_html = ''.join(
+        f'<section id="{doc["id"]}" class="compare-doc{" active" if i == 0 else ""}">'
+        f'<div class="compare-doc-header"><h2>{_html.escape(doc["title"])}</h2>'
+        f'<p class="compare-doc-source">Source: news/{_html.escape(doc["source"])} \u00b7 '
+        f'<a href="events/{doc["slug"]}.html">open standalone page \u2192</a></p></div>'
+        f'{doc["content"]}'
+        '</section>'
+        for i, doc in enumerate(docs)
+    )
+    body = (
+        '<div class="compare-page-intro">'
+        '<h2>\U0001f4c8 FY27 Strategy Signals</h2>'
+        f'<p>Per-company AI strategy signals from the July 2026 briefings: Microsoft\u2019s '
+        f'FY27 kickoff and the competitive posture of {len(docs) - 1} other companies '
+        'across models, agents, infrastructure, and go-to-market.</p>'
+        '<p class="compare-link-row"><a href="compare-fy27.html" class="compare-link">'
+        'See Microsoft FY27 head-to-head comparisons \u2192</a></p>'
+        '</div>'
+        '<div class="compare-page-layout">'
+        f'<div class="compare-tabs">{tabs_html}</div>'
+        f'<div class="compare-content">{docs_html}</div>'
+        '</div>'
+        '<script>'
+        'function showCompareDoc(btn,id){'
+        'document.querySelectorAll(".compare-doc").forEach(el=>el.classList.remove("active"));'
+        'document.querySelectorAll(".compare-tab-btn").forEach(el=>el.classList.remove("active"));'
+        'document.getElementById(id).classList.add("active");'
+        'btn.classList.add("active");}'
+        '</script>'
+    )
+    _write(site / 'fy27-strategy.html',
+           _render('FY27 Strategy Signals', body, active='events',
+                   subtitle='Per-company AI strategy signals \u00b7 July 2026'))
+    pages += 1
+    return pages
+
+
+def _fy27_events_section(cfg: Config) -> str:
+    """Card section for events.html linking the FY27 strategy & comparison pages."""
+    strat = _fy27_strategy_files(cfg)
+    compare = _fy27_compare_files(cfg)
+    if not strat and not compare:
+        return ""
+
+    company_cards = "".join(
+        '<div class="compare-card">'
+        f'<h3><a href="events/{slug}.html">{_html.escape(label)}</a></h3>'
+        '<div class="compare-stat">Strategy signals \u00b7 July 2026</div>'
+        '</div>'
+        for _f, label, slug in strat
+    )
+    combined_stat = (
+        f'<div class="compare-stat"><span class="compare-num">{len(strat)}</span> company briefings</div>'
+        if strat else ''
+    )
+    compare_stat = (
+        f'<div class="compare-stat"><span class="compare-num">{len(compare)}</span> head-to-head comparisons</div>'
+        if compare else ''
+    )
+    hub_cards = ""
+    if strat:
+        theme_names = ", ".join(label for _f, label, _s in strat[:6])
+        if len(strat) > 6:
+            theme_names += f", +{len(strat) - 6} more"
+        hub_cards += (
+            '<div class="compare-card">'
+            '<h3><a href="fy27-strategy.html">FY27 Strategy Signals</a></h3>'
+            f'{combined_stat}'
+            f'<div class="compare-themes">{_html.escape(theme_names)}</div>'
+            '</div>'
+        )
+    if compare:
+        hub_cards += (
+            '<div class="compare-card">'
+            '<h3><a href="compare-fy27.html">Microsoft FY27 vs Big Tech</a></h3>'
+            f'{compare_stat}'
+            '<div class="compare-themes">Strategy, models, infrastructure, positioning</div>'
+            '</div>'
+        )
+
+    link_row = ""
+    if compare:
+        link_row = ('<p class="compare-link-row"><a href="compare-fy27.html" class="compare-link">'
+                    'View full FY27 comparison \u2192</a></p>')
+    elif strat:
+        link_row = ('<p class="compare-link-row"><a href="fy27-strategy.html" class="compare-link">'
+                    'View FY27 strategy signals \u2192</a></p>')
+
+    return (
+        '<div class="compare-section">'
+        '<h2>\U0001f4c8 Microsoft FY27 &amp; Big Tech Strategy</h2>'
+        '<p class="compare-subtitle">Per-company strategy signals and Microsoft head-to-head comparisons \u00b7 July 2026</p>'
+        '<div class="compare-grid">' + hub_cards + company_cards + '</div>'
+        + link_row +
+        '</div>'
+    )
+
+
 def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
                        entity_files: dict[str, str]) -> int:
     """Build event pages using DB-indexed event articles.
@@ -1180,6 +1429,7 @@ def _build_event_pages(cfg: Config, site: Path, canonical: list[dict],
         upcoming_html
         + comparison_cards_html
         + wwdc_analysis_html
+        + _fy27_events_section(cfg)
         + '<div class="event-tabs">'
         '<button class="event-tab active" onclick="evTab(this,0)">By Event</button>'
         '<button class="event-tab" onclick="evTab(this,1)">By Company</button>'
@@ -1605,6 +1855,8 @@ def run_build_site(cfg: Config) -> dict:
     pages += events
     pages += _build_build_io_compare_page(cfg, site)
     pages += _build_wwdc_analysis_page(cfg, site)
+    pages += _build_fy27_compare_page(cfg, site)
+    pages += _build_fy27_strategy_pages(cfg, site)
 
     # --- submit link page ---
     pages += _build_submit_page(site, cfg, canonical)

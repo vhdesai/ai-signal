@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic
 - 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
+- 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
 - 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
-- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 embedding_id: 2026-07-06-terawulf-announces-anthropic-lease-at-justified-data-campus
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic signed a 20-year lease tied to a 401-megawatt AI infrastructure campus
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
 <!-- graph:end -->

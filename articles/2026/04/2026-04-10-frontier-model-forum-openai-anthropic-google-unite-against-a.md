@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-18-openai-anthropic-google-buildfastwithai-may-14-17-2026
 - 2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in
 - 2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us
-- 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
+- 2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace
 embedding_id: 2026-04-10-frontier-model-forum-openai-anthropic-google-unite-against-a
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Frontier Model Forum: OpenAI, Anthropic, Google Unite Against AI Model Distillat
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]] · [[2026-05-18-openai-anthropic-google-buildfastwithai-may-14-17-2026]] · [[2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in]] · [[2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]]
+**Related:** [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]] · [[2026-05-18-openai-anthropic-google-buildfastwithai-may-14-17-2026]] · [[2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in]] · [[2026-06-27-o-a-d-trending-openai-and-anthropic-face-a-new-reality-as-us]] · [[2026-07-29-openai-and-anthropic-endorse-letter-asking-u-s-to-help-pace]]
 <!-- graph:end -->

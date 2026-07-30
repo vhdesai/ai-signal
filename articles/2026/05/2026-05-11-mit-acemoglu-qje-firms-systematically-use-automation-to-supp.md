@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
-- 2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu
+- 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
+- 2026-07-26-unionized-workers-are-bargaining-with-the-bots
 embedding_id: 2026-05-11-mit-acemoglu-qje-firms-systematically-use-automation-to-supp
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A peer-reviewed study co-authored by MIT economist Daron Acemoglu and published 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]] · [[2026-05-08-trending-cloudflare-ai-made-1-100-jobs-obsolete-while-revenu]]
+**Related:** [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-07-26-unionized-workers-are-bargaining-with-the-bots]]
 <!-- graph:end -->

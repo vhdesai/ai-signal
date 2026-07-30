@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
 - 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
 - 2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt
-- 2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f
 embedding_id: 2026-06-01-cio-dive-2026-06-01-external-june-1-openais-response-to-regu
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive - [2026-06-01] [EXTERNAL] June 1 - OpenAIs response to regulation | Del
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]] · [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt]] · [[2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f]]
+**Related:** [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt]]
 <!-- graph:end -->

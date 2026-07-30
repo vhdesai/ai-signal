@@ -25,11 +25,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
-- 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
 embedding_id: 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The past day's cycle was defined less by new frontier models than by the economi
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
+**Related:** [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
 <!-- graph:end -->

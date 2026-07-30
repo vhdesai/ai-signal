@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge
-- 2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop
-- 2026-04-02-source-all-about-lawyer-the-neuron
-- event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications
-- 2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute
+- 2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras
+- 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
+- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
+- 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names
 embedding_id: 2026-05-04-trendingcloud-market-share-q1-2026-aws-microsoft-google-all
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Q1 2026 hyperscaler cloud market share data shows AWS, Microsoft Azure, and Goog
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]]
-**Related:** [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[event-google-cloud-next-2026-google-cloud-next-2026-strategic-implications]] · [[2026-07-01-meta-plans-a-cloud-business-to-sell-excess-ai-compute]]
+**Related:** [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge]] · [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names]]
 <!-- graph:end -->

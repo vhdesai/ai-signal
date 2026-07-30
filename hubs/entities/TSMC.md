@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 47
+member_count: 51
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 47 connected article(s).
+> Auto-generated entity hub. 51 connected article(s).
 
+- `2026-07-30` [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi|The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder to Return to OpenAI - [2026-07-30]…]]
+- `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]
+- `2026-07-29` [[2026-07-29-tsmc-gradually-resumes-japan-operations-after-earthquake|TSMC gradually resumes Japan operations after earthquake]]
+- `2026-07-28` [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker|OpenAI’s hardware roadmap sharpens: a Jony Ive smart speaker and an AI phone]]
 - `2026-07-21` [[2026-07-21-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift|TSMC added/accelerated another $100B in Arizona capacity, lifting its pipeline to roughly $265B and raising full-year…]]
 - `2026-07-20` [[2026-07-20-tsmc-added-accelerated-another-100b-in-arizona-capacity-lift|TSMC added/accelerated another $100B in Arizona capacity, lifting its pipeline to roughly $265B and raising full-year…]]
 - `2026-07-20` [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem|TSMC accelerates Arizona fab expansion on robust AI chip demand, reinforcing the AI semiconductor megatrend and U.S]]

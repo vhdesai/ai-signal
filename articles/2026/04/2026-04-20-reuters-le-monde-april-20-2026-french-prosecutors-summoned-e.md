@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 - 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
+- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 - 2026-05-18-elon-musk-vs-openai-trial-wraps-xai-bleeding-staff-post-merg
-- 2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming
 embedding_id: 2026-04-20-reuters-le-monde-april-20-2026-french-prosecutors-summoned-e
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reuters / Le Monde • April 20, 2026 French prosecutors summoned Elon Musk over
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-18-elon-musk-vs-openai-trial-wraps-xai-bleeding-staff-post-merg]] · [[2026-05-17-musk-v-openai-dismissed-pope-leo-xiv-s-ai-encyclical-coming]]
+**Related:** [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]] · [[2026-05-18-elon-musk-vs-openai-trial-wraps-xai-bleeding-staff-post-merg]]
 <!-- graph:end -->

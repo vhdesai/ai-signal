@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-03-google-vids-adds-veo-3-1-video-generation-lyria-3-music-and
 - 2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope
+- 2026-07-29-google-launches-lyria-3-5-in-flow-music
 - 2026-07-09-google-photos-rolls-out-ai-video-remix
-- 2026-07-17-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g
 embedding_id: 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google upgraded Vids with Veo 3.1 video generation, Lyria 3 music creation, and 
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-google-vids-adds-veo-3-1-video-generation-lyria-3-music-and]] · [[2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope]] · [[2026-07-09-google-photos-rolls-out-ai-video-remix]] · [[2026-07-17-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g]]
+**Related:** [[2026-04-03-google-vids-adds-veo-3-1-video-generation-lyria-3-music-and]] · [[2026-04-01-google-launches-veo-3-1-lite-sub-0-10-second-ai-video-as-ope]] · [[2026-07-29-google-launches-lyria-3-5-in-flow-music]] · [[2026-07-09-google-photos-rolls-out-ai-video-remix]]
 <!-- graph:end -->

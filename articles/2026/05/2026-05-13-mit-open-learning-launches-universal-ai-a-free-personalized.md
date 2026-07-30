@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces
 - 2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa
 - 2026-06-03-mit-news
-- 2026-05-13-discover-artificial-intelligence-open-access-may-13-2026
 - 2026-05-16-uc-berkeley-mit-optany-one-llm-system-beats-domain-specific
+- 2026-05-14-berkeley-mit-s-optany-achieves-state-of-the-art-on-6-diverse
 embedding_id: 2026-05-13-mit-open-learning-launches-universal-ai-a-free-personalized
 event_name: ''
 ---
@@ -34,5 +34,5 @@ MIT Open Learning Launches Universal AI — A Free, Personalized AI Fluency Prog
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-06-03-mit-news]] · [[2026-05-13-discover-artificial-intelligence-open-access-may-13-2026]] · [[2026-05-16-uc-berkeley-mit-optany-one-llm-system-beats-domain-specific]]
+**Related:** [[2026-05-12-mit-launches-universal-ai-ai-powered-education-program-acces]] · [[2026-05-13-mit-open-learning-debuted-universal-ai-described-as-a-pathwa]] · [[2026-06-03-mit-news]] · [[2026-05-16-uc-berkeley-mit-optany-one-llm-system-beats-domain-specific]] · [[2026-05-14-berkeley-mit-s-optany-achieves-state-of-the-art-on-6-diverse]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio
 - 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 - 2026-04-12-mit-csail-published-research-demonstrating-sparse-activation
-- 2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf
+- 2026-07-21-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf
 embedding_id: 2026-04-06-georgia-tech-introduces-sparse-attention-mechanism-cutting-t
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Georgia Tech Introduces Sparse Attention Mechanism Cutting Transformer Inference
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-07-20-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]]
+**Related:** [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-04-23-cornell-and-purdue-publish-work-on-energy-efficient-attentio]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]] · [[2026-04-12-mit-csail-published-research-demonstrating-sparse-activation]] · [[2026-07-21-etched-is-reportedly-seeking-a-valuation-near-20b-for-transf]]
 <!-- graph:end -->

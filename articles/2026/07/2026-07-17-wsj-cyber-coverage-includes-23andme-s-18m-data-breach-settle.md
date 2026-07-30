@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18
+- 2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on
 - 2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil
 - 2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales
 - 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
-- 2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push
 embedding_id: 2026-07-17-wsj-cyber-coverage-includes-23andme-s-18m-data-breach-settle
 event_name: ''
 ---
@@ -38,5 +38,5 @@ WSJ Cyber coverage includes 23andMe's $18M data-breach settlement and cyber M&A 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18]] · [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]] · [[2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push]]
+**Related:** [[2026-07-17-wsj-pro-cybersecurity-2026-07-17-external-23andme-settles-18]] · [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on]] · [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]] · [[2026-05-20-hasbro-cyberattack-to-cost-20m-delay-up-to-60m-in-q2-sales]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]]
 <!-- graph:end -->

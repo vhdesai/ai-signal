@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram
 - 2026-07-12-cio-dive-no-new-cio-dive-emails-found-for-2026-07-12
 - 2026-07-05-cio-dive-no-new-cio-dive-emails-found-for-2026-07-05
 - 2026-05-28-cio-dive-no-new-cio-dive-emails-found-for-2026-05-28
 - 2026-07-03-cio-dive-no-new-cio-dive-emails-found-for-2026-07-03
-- 2026-06-03-cio-dive-no-new-cio-dive-emails-found-for-2026-06-03
 embedding_id: 2026-05-07-the-future-of-erp-transformation-is-not-years-away
 event_name: ''
 ---
@@ -33,5 +33,5 @@ The future of ERP transformation is not years away. It is now. [2026-05-07] · C
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-12-cio-dive-no-new-cio-dive-emails-found-for-2026-07-12]] · [[2026-07-05-cio-dive-no-new-cio-dive-emails-found-for-2026-07-05]] · [[2026-05-28-cio-dive-no-new-cio-dive-emails-found-for-2026-05-28]] · [[2026-07-03-cio-dive-no-new-cio-dive-emails-found-for-2026-07-03]] · [[2026-06-03-cio-dive-no-new-cio-dive-emails-found-for-2026-06-03]]
+**Related:** [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-12-cio-dive-no-new-cio-dive-emails-found-for-2026-07-12]] · [[2026-07-05-cio-dive-no-new-cio-dive-emails-found-for-2026-07-05]] · [[2026-05-28-cio-dive-no-new-cio-dive-emails-found-for-2026-05-28]] · [[2026-07-03-cio-dive-no-new-cio-dive-emails-found-for-2026-07-03]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
+- 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 embedding_id: 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Forbes examined an apparent contradiction in Meta’s recent moves: the company 
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
+**Related:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

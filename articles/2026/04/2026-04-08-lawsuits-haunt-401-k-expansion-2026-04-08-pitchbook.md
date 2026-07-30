@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-30-private-credit-is-reeling-but-new-rule-may-allow-it-into-401
 - 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
+- 2026-07-28-pitchbook-2026-07-28-external-bain-vs
 - 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
 - 2026-04-08-energy-stocks-ai-replacement-analysts-corporate-retreat-fias
-- 2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only
 embedding_id: 2026-04-08-lawsuits-haunt-401-k-expansion-2026-04-08-pitchbook
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Lawsuits haunt 401(k) expansion [2026-04-08] · PitchBook
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-30-private-credit-is-reeling-but-new-rule-may-allow-it-into-401]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-04-08-energy-stocks-ai-replacement-analysts-corporate-retreat-fias]] · [[2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only]]
+**Related:** [[2026-03-30-private-credit-is-reeling-but-new-rule-may-allow-it-into-401]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-04-08-energy-stocks-ai-replacement-analysts-corporate-retreat-fias]]
 <!-- graph:end -->

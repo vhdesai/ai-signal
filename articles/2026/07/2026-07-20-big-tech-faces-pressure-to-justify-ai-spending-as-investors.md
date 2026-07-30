@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-04-02-source-all-about-lawyer-the-neuron
+- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-07-20-big-tech-faces-pressure-to-justify-ai-spending-as-investors
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Big Tech faces pressure to justify AI spending as investors scrutinize hyperscal
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
 <!-- graph:end -->

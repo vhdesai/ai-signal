@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
+- 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 - 2026-07-10-pitchbook-2026-07-10-external-energy-m-a-soars-5x
 - 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-15] [EXTERNAL] Small deals, strong returns
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-10-pitchbook-2026-07-10-external-energy-m-a-soars-5x]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]]
+**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-07-10-pitchbook-2026-07-10-external-energy-m-a-soars-5x]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

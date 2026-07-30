@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-19-moonshot-ai-is-reportedly-preparing-a-hong-kong-ipo-within-r
+- 2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of
 - 2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun
+- 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor
-- 2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
-- 2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
 embedding_id: 2026-07-20-moonshot-ai-seeks-investor-approval-for-an-ipo-process-and-i
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moonshot AI seeks investor approval for an IPO process and is reportedly plannin
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-19-moonshot-ai-is-reportedly-preparing-a-hong-kong-ipo-within-r]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]] · [[2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]] · [[2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
+**Related:** [[2026-07-19-moonshot-ai-is-reportedly-preparing-a-hong-kong-ipo-within-r]] · [[2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of]] · [[2026-05-19-moonshot-ai-restructures-for-hong-kong-ipo-as-chinese-ai-fun]] · [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-07-20-databricks-188b-valuation-moonshot-s-ipo-plans-and-the-infor]]
 <!-- graph:end -->

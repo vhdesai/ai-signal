@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-22-openai-announces-project-camellia-a-georgia-data-center-buil
 - 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
 - 2026-03-16-the-people-running-openai-s-stargate-computing-effort-2026-0
-- 2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public
-- 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
-- 2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena
+- 2026-07-23-openai-unveils-project-camellia-a-3-2-gw-data-center-campus
+- 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 embedding_id: 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced a 1-gigawatt data-center project in Michigan as part of Stargat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-03-16-the-people-running-openai-s-stargate-computing-effort-2026-0]] · [[2026-07-08-openai-opens-gpt-5-6-sol-terra-luna-to-the-public]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-10-frontier-model-launches-cluster-in-a-48-hour-window-as-opena]]
+**Related:** [[2026-07-22-openai-announces-project-camellia-a-georgia-data-center-buil]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-03-16-the-people-running-openai-s-stargate-computing-effort-2026-0]] · [[2026-07-23-openai-unveils-project-camellia-a-3-2-gw-data-center-campus]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]]
 <!-- graph:end -->

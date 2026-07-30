@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
+- 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
 embedding_id: 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Projected hyperscaler spending over the next three years characterized as ~$3 tr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]]
+**Related:** [[2026-06-19-hyperscaler-ai-capex-twice-the-u-s-defense-budget-over-three]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
 <!-- graph:end -->

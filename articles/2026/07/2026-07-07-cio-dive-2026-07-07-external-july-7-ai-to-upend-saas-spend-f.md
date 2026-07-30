@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
+- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
+- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt
-- 2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders
-- 2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders
-- 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
 embedding_id: 2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive - [2026-07-07] [EXTERNAL] July 7 - AI to upend SaaS spend, financial se
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt]] · [[2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders]] · [[2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]]
+**Related:** [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-06-18-cio-dive-2026-06-18-external-june-18-aws-responds-to-the-myt]]
 <!-- graph:end -->

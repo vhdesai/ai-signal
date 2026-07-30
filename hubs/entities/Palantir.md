@@ -1,13 +1,25 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 94
+member_count: 106
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 94 connected article(s).
+> Auto-generated entity hub. 106 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-28` [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence|Palantir faces growing European backlash over dependence]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-nvidia-spacex-microsoft-palantir-launch-open-secure-ai-allia|Nvidia, SpaceX, Microsoft & Palantir launch Open Secure AI Alliance]]
+- `2026-07-27` [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu|Nvidia, Microsoft, SpaceX, Palantir and IBM launch an “Open Secure AI Alliance” — without OpenAI, Google or Anthropic]]
+- `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub|Nvidia’s ‘Open Weights and American AI Leadership’ letter doubles to 50 signers, adding OpenAI and Google]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-as-op|Nvidia's “Open Weights” letter doubles to 50 signatories as OpenAI and Google sign on]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-doubles-to-50-signatories-opena|Nvidia's "Open Weights" Letter Doubles to 50 Signatories; OpenAI and Google Sign On]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-satya-nadella-warns-enterprises-about-dependence-on-ai-model|Satya Nadella warns enterprises about dependence on AI model labs]]

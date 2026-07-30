@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-deepseek-open-sources-dspark-accelerating-deepseek-v4-infere
+- 2026-07-24-venturebeat-2026-07-24-external-what-intuit-s-failed-orchest
 - 2026-07-16-venturebeat-2026-07-16-external-deepseek-s-price-cut-won-t-s
 - 2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85
-- 2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex
 embedding_id: 2026-06-30-venturebeat-com-orchestration-deepseek-open-sources-dspark
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-28-deepseek-open-sources-dspark-accelerating-deepseek-v4-infere]] · [[2026-07-16-venturebeat-2026-07-16-external-deepseek-s-price-cut-won-t-s]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex]]
+**Related:** [[2026-06-28-deepseek-open-sources-dspark-accelerating-deepseek-v4-infere]] · [[2026-07-24-venturebeat-2026-07-24-external-what-intuit-s-failed-orchest]] · [[2026-07-16-venturebeat-2026-07-16-external-deepseek-s-price-cut-won-t-s]] · [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]]
 <!-- graph:end -->

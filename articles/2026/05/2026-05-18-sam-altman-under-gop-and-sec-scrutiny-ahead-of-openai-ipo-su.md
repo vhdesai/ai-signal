@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv
 - 2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves
 - 2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s
-- 2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses
+- 2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai
 embedding_id: 2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Sam Altman Under GOP and SEC Scrutiny Ahead of OpenAI IPO; Sutskever Testimony D
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]] · [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-06-07-inside-altman-s-pitch-on-government-ai-stake-sacks-expresses]]
+**Related:** [[2026-05-18-the-republican-led-house-oversight-committee-launched-an-inv]] · [[2026-05-13-sam-altman-s-personal-investments-prompt-gop-probe-sec-inves]] · [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-07-26-sam-altman-expected-to-brief-the-white-house-on-openai-s-ai]]
 <!-- graph:end -->

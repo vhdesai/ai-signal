@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-07-08-daily-ai-news-digest-july-9-2026
+- 2026-07-26-daily-ai-news-digest-july-27-2026
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
-- 2026-07-11-daily-ai-news-digest-july-12-2026
 embedding_id: 2026-07-10-daily-ai-news-digest-july-11-2026
 event_name: ''
 ---
@@ -38,5 +38,5 @@ The busiest model-launch week of 2026 settles into its first independent benchma
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]]
+**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
 <!-- graph:end -->

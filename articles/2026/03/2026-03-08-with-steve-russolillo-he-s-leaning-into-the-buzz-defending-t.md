@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit
 - 2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei
 - 2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai
 - 2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about
-- 2026-03-25-the-information-logo-meta-platforms-to-lay-off-hundreds-read
 embedding_id: 2026-03-08-with-steve-russolillo-he-s-leaning-into-the-buzz-defending-t
 event_name: ''
 ---
@@ -36,5 +36,5 @@ with Steve Russolillo - he’s leaning into the buzz - defending their bets - af
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]] · [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]] · [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai]] · [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]] · [[2026-03-25-the-information-logo-meta-platforms-to-lay-off-hundreds-read]]
+**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]] · [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]] · [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai]] · [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]]
 <!-- graph:end -->

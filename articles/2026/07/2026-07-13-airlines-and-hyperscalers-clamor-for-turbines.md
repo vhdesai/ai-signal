@@ -19,6 +19,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras
 - 2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize
+- 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
+- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi
 embedding_id: 2026-07-13-airlines-and-hyperscalers-clamor-for-turbines
 event_name: ''
 ---
@@ -30,5 +32,5 @@ Airlines and Hyperscalers Clamor for Turbines. Only a Few Companies Make the Par
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]] · [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]]
+**Related:** [[2026-07-13-hyperscaler-demand-turns-turbine-suppliers-into-an-ai-infras]] · [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi]]
 <!-- graph:end -->

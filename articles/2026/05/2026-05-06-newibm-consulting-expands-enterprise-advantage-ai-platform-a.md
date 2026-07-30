@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on
 - 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
+- 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 - 2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform
 - 2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o
-- 2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management
 embedding_id: 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At IBM Think 2026 in Boston, IBM Consulting announced significant updates to its
 
 **Entities:** [[IBM]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on]] · [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]] · [[2026-05-05-ibm-watsonx-orchestrate-unified-ai-agent-management]]
+**Related:** [[2026-05-20-ibm-expands-ai-security-portfolio-partners-with-anthropic-on]] · [[2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform]] · [[2026-05-06-new-ibm-ibv-study-of-global-ceos-found-that-76-of-surveyed-o]]
 <!-- graph:end -->

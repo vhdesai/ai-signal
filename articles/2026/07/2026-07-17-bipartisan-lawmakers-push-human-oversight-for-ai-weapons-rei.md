@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
+- 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
-- 2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe
 embedding_id: 2026-07-17-bipartisan-lawmakers-push-human-oversight-for-ai-weapons-rei
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Bipartisan lawmakers push human oversight for AI weapons, reinforcing human-in-t
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-27-white-house-delays-ai-cybersecurity-executive-order-hhs-embe]]
+**Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]]
 <!-- graph:end -->

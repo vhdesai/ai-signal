@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-04-06-techcrunch-april-6-2026
 - 2026-04-16-source-techcrunch-april-16-2026
 - 2026-04-02-products-tools-techcrunch-salesforce
+- 2026-05-13-techcrunch-may-12-2026
 embedding_id: 2026-04-04-techcrunch-salesforce-blogmarch-31-april-1-2026
 event_name: ''
 ---
@@ -34,5 +35,5 @@ TechCrunch / Salesforce BlogMarch 31 – April 1, 2026
 ## Connections
 
 **Entities:** [[Salesforce]]
-**Related:** [[2026-04-06-techcrunch-april-6-2026]] · [[2026-04-16-source-techcrunch-april-16-2026]] · [[2026-04-02-products-tools-techcrunch-salesforce]]
+**Related:** [[2026-04-06-techcrunch-april-6-2026]] · [[2026-04-16-source-techcrunch-april-16-2026]] · [[2026-04-02-products-tools-techcrunch-salesforce]] · [[2026-05-13-techcrunch-may-12-2026]]
 <!-- graph:end -->

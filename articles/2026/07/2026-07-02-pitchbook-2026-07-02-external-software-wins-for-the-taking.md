@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
 - 2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners
 - 2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 embedding_id: 2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-02] [EXTERNAL] Software wins for the taking
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]] · [[2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]]
+**Related:** [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]] · [[2026-06-29-pitchbook-2026-06-29-external-winning-the-narrow-door-to-alt]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a
+- 2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part
+- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
-- 2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof
-- 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 embedding_id: 2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mistral/Microsoft partnership coverage reinforces regional and multi-model strat
 
 **Entities:** [[Microsoft]] · [[Mistral]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-05-26-mistral-expanded-its-enterprise-footprint-with-new-high-prof]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
+**Related:** [[2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a]] · [[2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
 <!-- graph:end -->

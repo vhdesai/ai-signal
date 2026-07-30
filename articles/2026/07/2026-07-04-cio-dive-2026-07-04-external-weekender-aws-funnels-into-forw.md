@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 - 2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build
 - 2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag
-- 2026-07-01-cio-dive-2026-07-01-external-july-1-aws-builds-an-engineerin
 embedding_id: 2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CIO Dive - [2026-07-04] [EXTERNAL] Weekender: AWS funnels \ into forward deploye
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag]] · [[2026-07-01-cio-dive-2026-07-01-external-july-1-aws-builds-an-engineerin]]
+**Related:** [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-05-29-cio-dive-2026-05-29-external-may-29-salesforce-spotlights-ag]]
 <!-- graph:end -->

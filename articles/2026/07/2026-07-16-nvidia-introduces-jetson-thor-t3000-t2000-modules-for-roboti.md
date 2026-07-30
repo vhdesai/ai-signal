@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development
 - 2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv
 - 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
 - 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
 - 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
-- 2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
 embedding_id: 2026-07-16-nvidia-introduces-jetson-thor-t3000-t2000-modules-for-roboti
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia introduces Jetson Thor T3000/T2000 modules for robotics and edge AI, exte
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]] · [[2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]]
+**Related:** [[2026-07-28-nvidia-promotes-jetson-for-compact-physical-ai-development]] · [[2026-05-22-nvidia-sweeps-computex-2026-best-choice-awards-vera-rubin-nv]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t]]
 <!-- graph:end -->

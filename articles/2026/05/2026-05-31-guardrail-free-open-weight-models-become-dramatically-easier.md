@@ -32,7 +32,7 @@ related_article_ids:
 - 2026-07-07-see-the-original-digest-email-for-the-complete-content-with
 - 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
 - 2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut
-- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
+- 2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio
 embedding_id: 2026-05-31-guardrail-free-open-weight-models-become-dramatically-easier
 event_name: ''
 ---
@@ -46,5 +46,5 @@ Open-weight models with capabilities close to proprietary frontier systems — f
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]] · [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
+**Related:** [[2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open]] · [[2026-07-07-see-the-original-digest-email-for-the-complete-content-with]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-as-nvidia-chip-export-fut]] · [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio]]
 <!-- graph:end -->

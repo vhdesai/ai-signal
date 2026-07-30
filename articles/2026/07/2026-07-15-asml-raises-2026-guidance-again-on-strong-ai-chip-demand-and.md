@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
+- 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 - 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
 - 2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem
-- 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
-- 2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers
 embedding_id: 2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ASML raises 2026 guidance again on strong AI chip demand and EUV lithography ord
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]]
+**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]] · [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]]
 <!-- graph:end -->

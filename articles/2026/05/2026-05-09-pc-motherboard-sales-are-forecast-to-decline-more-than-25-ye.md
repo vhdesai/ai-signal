@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-pc-motherboard-sales-set-to-fall-25-in-2026-as-ai-inflates-m
+- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
+- 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
-- 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
-- 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 embedding_id: 2026-05-09-pc-motherboard-sales-are-forecast-to-decline-more-than-25-ye
 event_name: ''
 ---
@@ -34,5 +34,5 @@ PC motherboard sales are forecast to decline more than 25% year-over-year in 202
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-09-pc-motherboard-sales-set-to-fall-25-in-2026-as-ai-inflates-m]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in]] · [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]]
+**Related:** [[2026-05-09-pc-motherboard-sales-set-to-fall-25-in-2026-as-ai-inflates-m]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]]
 <!-- graph:end -->

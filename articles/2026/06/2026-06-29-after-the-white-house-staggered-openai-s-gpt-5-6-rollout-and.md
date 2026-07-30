@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 - 2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay
 - 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r
-- 2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe
+- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-06-29-after-the-white-house-staggered-openai-s-gpt-5-6-rollout-and
 event_name: ''
 ---
@@ -41,5 +41,5 @@ After the White House staggered OpenAI's GPT‑5.6 rollout and temporarily restr
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]]
+**Related:** [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]] · [[2026-06-29-the-pro-ai-movement-splinters-over-security-controls-vs-stay]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-us-frontier-model-r]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

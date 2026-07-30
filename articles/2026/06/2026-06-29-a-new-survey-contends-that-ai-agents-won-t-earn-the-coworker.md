@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin
+- 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-04-15-research-breakthroughs
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 embedding_id: 2026-06-29-a-new-survey-contends-that-ai-agents-won-t-earn-the-coworker
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new survey contends that AI agents won't earn the "coworker" label until they 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op]]
+**Related:** [[2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin]] · [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-04-15-research-breakthroughs]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

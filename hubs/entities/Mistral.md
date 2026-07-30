@@ -1,14 +1,27 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 156
+member_count: 169
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 156 connected article(s).
+> Auto-generated entity hub. 169 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-25` [[2026-07-25-nvidia-s-open-weights-letter-expands-to-50-signatories|Nvidia’s open-weights letter expands to 50 signatories]]
+- `2026-07-23` [[2026-07-23-other-ai-related-publication-emails-2026-07-23-items-surface|Other AI-related Publication Emails - [2026-07-23] Items surfaced in Daily AI source coverage: OpenAI Presence, OpenAI…]]
+- `2026-07-22` [[2026-07-22-other-ai-related-publication-emails-2026-07-22-daily-ai-news|Other AI-related Publication Emails - [2026-07-22] Daily AI News Digest variants from vdesai@microsoft.com -…]]
+- `2026-07-22` [[2026-07-22-microsoft-and-mistral-expand-european-sovereign-compute-part|Microsoft and Mistral expand European sovereign compute partnership]]
+- `2026-07-22` [[2026-07-22-efficient-new-models-and-mega-deals-collide-with-mounting-sa|Efficient new models and mega-deals collide with mounting safety alarms]]
 - `2026-07-21` [[2026-07-21-mistral-microsoft-partnership-coverage-reinforces-regional-a|Mistral/Microsoft partnership coverage reinforces regional and multi-model strategies for European and enterprise AI]]
+- `2026-07-21` [[2026-07-21-microsoft-mistral-expand-partnership-with-multibillion-dolla|Microsoft–Mistral Expand Partnership with Multibillion-Dollar European Compute Deal]]
+- `2026-07-21` [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership|Microsoft and Mistral expand sovereign AI partnership]]
+- `2026-07-21` [[2026-07-21-microsoft-and-mistral-expand-partnership-with-multibillion-d|Microsoft and Mistral expand partnership with multibillion-dollar Europe compute deal]]
+- `2026-07-21` [[2026-07-21-google-launches-gemini-3-5-flash-cyber-ai-for-vulnerability|Google Launches Gemini 3.5 Flash Cyber AI for Vulnerability Detection]]
 - `2026-07-20` [[2026-07-20-mistral-microsoft-partnership-coverage-reinforces-regional-a|Mistral/Microsoft partnership coverage reinforces regional and multi-model strategies for European and enterprise AI]]
 - `2026-07-15` [[2026-07-15-mistral-releases-robostral-navigate-for-single-camera-robot|Mistral releases Robostral Navigate for single-camera robot navigation]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]

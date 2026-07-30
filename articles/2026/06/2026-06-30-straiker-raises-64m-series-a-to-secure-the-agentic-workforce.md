@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
 - 2026-06-30-finance-yahoo-com-straiker-raises-64m-series-secure
+- 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
 - 2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser
-- 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 embedding_id: 2026-06-30-straiker-raises-64m-series-a-to-secure-the-agentic-workforce
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Straiker raises $64M Series A to secure the "agentic workforce"
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-06-30-finance-yahoo-com-straiker-raises-64m-series-secure]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]]
+**Related:** [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-06-30-finance-yahoo-com-straiker-raises-64m-series-secure]] · [[2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-06-30-agentic-ai-startup-kapture-cx-raises-10m-led-by-bajaj-finser]]
 <!-- graph:end -->

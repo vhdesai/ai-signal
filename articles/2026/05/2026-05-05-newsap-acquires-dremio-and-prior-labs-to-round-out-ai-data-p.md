@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a
+- 2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou
 - 2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties
 - 2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering
-- 2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents
-- 2026-05-04-1-model-releases-frontier-research
+- 2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m
 embedding_id: 2026-05-05-newsap-acquires-dremio-and-prior-labs-to-round-out-ai-data-p
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SAP is acquiring open data lakehouse provider Dremio alongside AI company Prior 
 
 **Entities:** [[SAP]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-05-04-sap-moves-to-block-openclaw-and-other-unauthorized-ai-agents]] · [[2026-05-04-1-model-releases-frontier-research]]
+**Related:** [[2026-05-04-sap-to-acquire-prior-labs-and-stand-up-a-european-frontier-a]] · [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou]] · [[2026-05-13-sap-unveils-enterprise-ai-platform-deepens-anthropic-ties]] · [[2026-05-19-anthropic-acquires-stainless-the-sdk-infrastructure-powering]] · [[2026-06-19-elastic-reportedly-agrees-to-buy-deductive-ai-for-up-to-85m]]
 <!-- graph:end -->

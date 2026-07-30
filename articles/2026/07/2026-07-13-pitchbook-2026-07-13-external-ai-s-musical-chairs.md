@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 - 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
-- 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
-- 2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard
-- 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
+- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
+- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-13] [EXTERNAL] AI's musical chairs
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]]
+**Related:** [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
 <!-- graph:end -->

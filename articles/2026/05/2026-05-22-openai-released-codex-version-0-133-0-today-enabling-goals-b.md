@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-20-openai-codex-0-122-0-ships-broad-platform-update
 - 2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile
+- 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
 - 2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau
 - 2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans
-- 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 embedding_id: 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI released Codex version 0.133.0 today, enabling Goals by default (backed b
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]] · [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]]
+**Related:** [[2026-04-20-openai-codex-0-122-0-ships-broad-platform-update]] · [[2026-05-27-openai-ships-codex-0-134-0-with-hardened-mcp-and-cli-profile]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]] · [[2026-05-13-openai-codex-now-available-from-anywhere-windows-sandbox-lau]] · [[2026-05-13-openai-publishes-codex-windows-sandbox-architecture-and-tans]]
 <!-- graph:end -->

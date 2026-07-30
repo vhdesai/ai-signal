@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
 - 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
-- 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
+- 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
 embedding_id: 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft told its ~11,000-person Copilot team the product must "earn the right 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]]
 <!-- graph:end -->

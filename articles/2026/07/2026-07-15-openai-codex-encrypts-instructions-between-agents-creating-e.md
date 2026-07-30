@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou
 - 2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred
 - 2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on
+- 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
 - 2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b
-- 2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon
 embedding_id: 2026-07-15-openai-codex-encrypts-instructions-between-agents-creating-e
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI Codex encrypts instructions between agents, creating enterprise transpare
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]] · [[2026-05-14-openai-brings-codex-to-mobile-extending-agentic-coding-beyon]]
+**Related:** [[2026-05-22-openai-codex-can-now-operate-locked-macs-expanding-autonomou]] · [[2026-05-20-1password-and-openai-collaborate-to-reduce-coding-agent-cred]] · [[2026-05-18-hot-openai-and-dell-partner-to-deploy-codex-in-enterprise-on]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]] · [[2026-05-22-openai-released-codex-version-0-133-0-today-enabling-goals-b]]
 <!-- graph:end -->

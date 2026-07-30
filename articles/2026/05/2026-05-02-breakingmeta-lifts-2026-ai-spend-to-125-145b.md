@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b
+- 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
 embedding_id: 2026-05-02-breakingmeta-lifts-2026-ai-spend-to-125-145b
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta raised its 2026 capex guidance to $125–145B, up from a prior $115B. The i
 
 **Entities:** [[AMD]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]]
+**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-05-04-big-tech-s-2026-ai-capex-tracking-near-700-725b]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 - 2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra
 - 2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
-- 2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers
 embedding_id: 2026-05-27-juliahub-ships-dyad-3-0-agentic-ai-for-physics-based-enginee
 event_name: ''
 ---
@@ -37,5 +37,5 @@ JuliaHub announced general availability of Dyad 3.0, bringing agentic AI to phys
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]]
+**Related:** [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-05-10-aws-labs-introduces-ai-dlc-workflow-governance-for-ai-progra]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]]
 <!-- graph:end -->

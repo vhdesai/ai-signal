@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-26-nyc-s-plan-to-tax-empty-second-homes-juliana-kaplan-business
+- 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est
 - 2026-05-23-us-house-airbnb-may-23-2026
-- 2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz
 embedding_id: 2026-04-26-nyc-s-plan-to-tax-empty-second-homes-2026-04-26-business-ins
 event_name: ''
 ---
@@ -33,5 +33,5 @@ NYC's plan to tax empty second homes [2026-04-26] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-26-nyc-s-plan-to-tax-empty-second-homes-juliana-kaplan-business]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-05-23-us-house-airbnb-may-23-2026]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]]
+**Related:** [[2026-04-26-nyc-s-plan-to-tax-empty-second-homes-juliana-kaplan-business]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-05-23-us-house-airbnb-may-23-2026]]
 <!-- graph:end -->

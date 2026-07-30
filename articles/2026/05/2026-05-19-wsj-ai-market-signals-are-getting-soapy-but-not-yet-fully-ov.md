@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog
+- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
@@ -34,5 +35,5 @@ The Wall Street Journal’s Intelligent Investor column examined whether the AI 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]]
+**Related:** [[2026-05-29-ai-market-exposure-is-spreading-beyond-obvious-u-s-technolog]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-05-29-wsj-markets-emerging-markets-won-t-protect-investors-from-ai]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]]
 <!-- graph:end -->

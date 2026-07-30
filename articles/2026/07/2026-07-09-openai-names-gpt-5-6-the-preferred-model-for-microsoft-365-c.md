@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 - 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 - 2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd
+- 2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence
 embedding_id: 2026-07-09-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c
 event_name: ''
 ---
@@ -38,5 +39,5 @@ OpenAI said GPT-5.6 will be the preferred model across M365 Copilot — Word, Ex
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]]
+**Related:** [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-05-19-microsoft-365-copilot-adds-gpt-5-5-reasoning-in-may-2026-upd]] · [[2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence]]
 <!-- graph:end -->

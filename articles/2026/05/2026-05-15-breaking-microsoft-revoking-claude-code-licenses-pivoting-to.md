@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-05-26-anthropic-ships-official-claude-code-plugins-directory
 embedding_id: 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
 event_name: ''
@@ -39,5 +40,5 @@ Microsoft is revoking internal licenses for Anthropic's Claude Code and directin
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]]
+**Related:** [[2026-05-26-anthropic-released-a-curated-github-hosted-directory-of-veri]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-05-26-anthropic-ships-official-claude-code-plugins-directory]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-tech-memo-logo-with-alistair-barr-tune-in-here-amazon-tracks
-- 2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on
-- 2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving
-- 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
-- 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
+- 2026-07-22-travis-kalanick-s-atoms-raises-7-billion-for-industrial-robo
+- 2026-07-22-travis-kalanick-s-robotics-venture-atoms-raises-7b-led-by-a1
+- 2026-07-22-travis-kalanick-s-robotics-startup-atoms-raises-7b-led-by-a1
+- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
 embedding_id: 2026-03-20-with-alistair-barr-nvidia-s-big-conference-travis-kalanick-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ with Alistair Barr - Nvidia's big conference - Travis Kalanick - atoms, not bits
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-05-01-tech-memo-logo-with-alistair-barr-tune-in-here-amazon-tracks]] · [[2026-04-23-nvidia-published-asset-harvester-a-new-image-to-3d-model-on]] · [[2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving]] · [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]]
+**Related:** [[2026-05-01-tech-memo-logo-with-alistair-barr-tune-in-here-amazon-tracks]] · [[2026-07-22-travis-kalanick-s-atoms-raises-7-billion-for-industrial-robo]] · [[2026-07-22-travis-kalanick-s-robotics-venture-atoms-raises-7b-led-by-a1]] · [[2026-07-22-travis-kalanick-s-robotics-startup-atoms-raises-7b-led-by-a1]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]]
 <!-- graph:end -->

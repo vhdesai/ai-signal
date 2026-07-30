@@ -23,10 +23,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 - 2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda
 - 2026-04-03-a-landmark-open-model-launch-from-google-microsoft-s-push-to
-- 2026-07-16-microsoft-is-reportedly-training-sales-teams-to-compete-more
 embedding_id: 2026-04-03-microsoft-launches-three-in-house-foundational-models-to-cha
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Launches Three In-House Foundational Models to Challenge OpenAI and Go
 
 **Entities:** [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-04-03-a-landmark-open-model-launch-from-google-microsoft-s-push-to]] · [[2026-07-16-microsoft-is-reportedly-training-sales-teams-to-compete-more]]
+**Related:** [[2026-07-23-microsoft-launches-in-house-ai-models-it-says-cut-costs-up-t]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-in-a-landmark-move-toward-ai-self-sufficiency-microsoft-toda]] · [[2026-04-03-a-landmark-open-model-launch-from-google-microsoft-s-push-to]]
 <!-- graph:end -->

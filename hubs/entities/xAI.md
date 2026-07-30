@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 259
+member_count: 269
 ---
 
 # xAI
 
-> Auto-generated entity hub. 259 connected article(s).
+> Auto-generated entity hub. 269 connected article(s).
 
+- `2026-07-30` [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s|xAI sues Minnesota to block its AI "nudification" law as the statute nears effect]]
+- `2026-07-29` [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification|xAI sues Minnesota over first-in-the-nation AI “nudification” ban]]
+- `2026-07-29` [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudify-ban|xAI sues Minnesota over first-in-nation AI 'nudify' ban]]
+- `2026-07-29` [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law|xAI sues Minnesota over first-in-nation AI "nudification" law]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-28` [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane|UK MP seeks a High Court order compelling xAI to add permanent Grok safeguards]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-23` [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima|Arkansas Family Sues xAI Over Grok-Generated Child-Abuse Images]]
 - `2026-07-20` [[2026-07-20-frontiers-labs-increasingly-rent-compute-from-rivals-and-spe|Frontiers labs increasingly rent compute from rivals and specialists, distributing construction/permitting risk across…]]
 - `2026-07-17` [[2026-07-17-xai-launches-grok-4-5-for-coding-agentic-tasks-engineering-a|xAI launches Grok 4.5 for coding, agentic tasks, engineering, and office work, with cost-framed pricing and heavy…]]
 - `2026-07-16` [[2026-07-16-xai-open-sources-grok-build-after-criticism-that-the-coding|xAI open-sources Grok Build after criticism that the coding assistant uploaded more repository data than users expected]]

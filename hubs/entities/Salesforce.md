@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 51
+member_count: 54
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 51 connected article(s).
+> Auto-generated entity hub. 54 connected article(s).
 
+- `2026-07-28` [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou|SAP Pins Future on Business AI Platform After Strong Q2 Cloud Earnings]]
+- `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]
 - `2026-07-09` [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr|OpenAI launches ChatGPT Work, an agent for multi-hour enterprise tasks]]
 - `2026-07-09` [[2026-07-09-openai-introduces-chatgpt-work-merging-codex-into-an-enterpr|OpenAI introduces ChatGPT Work, merging Codex into an enterprise agent platform]]
@@ -16,6 +18,7 @@ member_count: 51
 - `2026-07-06` [[2026-07-06-small-firms-use-anthropic-s-claude-to-replace-salesforce|Small Firms Use Anthropic's Claude to Replace Salesforce]]
 - `2026-06-30` [[2026-06-30-cio-dive-2026-06-30-external-salesforce-named-as-a-leader-in|CIO Dive - [2026-06-30] [EXTERNAL] Salesforce named as a Leader in the 2025 Gartner Magic Quadrant - [2026-06-30]…]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
+- `2026-06-19` [[2026-06-19-salesforce-codegen-tutorial-highlights-validate-and-rerank-c|Salesforce CodeGen tutorial highlights validate-and-rerank coding workflows]]
 - `2026-06-15` [[2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin|Trending Salesforce to acquire AI customer-service firm Fin for $3.6B]]
 - `2026-06-15` [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4|Survey: 85% of IT teams say every AI agent has an owner — only 42% can actually name one]]
 - `2026-05-30` [[2026-05-30-the-salesforce-veteran-leading-openai-s-push-to-outflank-ant|The Salesforce Veteran Leading OpenAI’s Push to Outflank Anthropic With Businesses [2026-05-30] · The Information]]

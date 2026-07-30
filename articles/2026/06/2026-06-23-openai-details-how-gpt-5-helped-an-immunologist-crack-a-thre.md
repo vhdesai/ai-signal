@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-16-openai-gpt-rosalind-targets-life-sciences-research
 - 2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve
 - 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
+- 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 - 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
-- 2026-04-23-
 embedding_id: 2026-06-23-openai-details-how-gpt-5-helped-an-immunologist-crack-a-thre
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published an account of how GPT-5 helped immunologist Derya Unutmaz resol
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]] · [[2026-04-23-]]
+**Related:** [[2026-04-16-openai-gpt-rosalind-targets-life-sciences-research]] · [[2026-05-05-openai-gpt-5-5-instant-becomes-default-chatgpt-model-improve]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]] · [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]]
 <!-- graph:end -->

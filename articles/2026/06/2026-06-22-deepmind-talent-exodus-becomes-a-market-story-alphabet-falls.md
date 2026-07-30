@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g
 - 2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye
 - 2026-06-17-daily-ai-news-digest-june-18-2026
+- 2026-07-30-thursday-july-30-2026
 - 2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c
-- 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
-- 2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1
 embedding_id: 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alphabet slid ~6% and Amazon ~4% as investors absorbed the back-to-back departur
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-04-01-openai-closed-the-largest-private-capital-raise-in-history-1]]
+**Related:** [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]] · [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye]] · [[2026-06-17-daily-ai-news-digest-june-18-2026]] · [[2026-07-30-thursday-july-30-2026]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]]
 <!-- graph:end -->

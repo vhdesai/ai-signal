@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli
 - 2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii
+- 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten
-- 2026-07-15-google-s-ai-search-features-face-child-safety-criticism
 embedding_id: 2026-07-19-apple-and-google-are-ordered-to-purge-ai-nudify-apps-increas
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple and Google are ordered to purge AI nudify apps, increasing platform liabil
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten]] · [[2026-07-15-google-s-ai-search-features-face-child-safety-criticism]]
+**Related:** [[2026-03-28-the-european-parliament-passed-a-resolution-banning-ai-appli]] · [[2026-03-28-eu-bans-nudify-apps-dutch-court-orders-xai-to-stop-grok-ncii]] · [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]] · [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten]]
 <!-- graph:end -->

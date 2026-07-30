@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-07-06-daily-ai-news-digest-july-8-2026
 - 2026-07-08-daily-ai-news-digest-july-9-2026
+- 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
-- 2026-07-12-july-13-2026
 embedding_id: 2026-07-11-daily-ai-news-digest-july-12-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ A quieter weekend after the densest model-launch week of 2026, but the signal ma
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-12-july-13-2026]]
+**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-06-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
 <!-- graph:end -->

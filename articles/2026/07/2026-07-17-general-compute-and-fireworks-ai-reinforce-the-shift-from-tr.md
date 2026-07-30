@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-fireworks-ai-releases-nexus-for-routing-coding-work-to-open
 - 2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud
 - 2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips
 - 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
@@ -37,5 +38,5 @@ General Compute and Fireworks AI reinforce the shift from training-only capital 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]]
+**Related:** [[2026-07-28-fireworks-ai-releases-nexus-for-routing-coding-work-to-open]] · [[2026-05-28-general-compute-raises-15m-seed-for-ai-inference-neocloud]] · [[2026-07-17-general-compute-lands-a-400m-loan-backed-by-inference-chips]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
+- 2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b
 - 2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid
 embedding_id: 2026-07-19-agibot-debuts-four-robots-at-waic-including-a3-ultra-humanoi
 event_name: ''
@@ -34,5 +35,5 @@ AGIBOT debuts four robots at WAIC, including A3 Ultra humanoid, an education pla
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]]
+**Related:** [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]] · [[2026-07-21-robotics-startup-humanoid-raises-series-a-at-35b]] · [[2026-07-10-uc-san-diego-team-performs-first-live-surgery-with-humanoid]]
 <!-- graph:end -->

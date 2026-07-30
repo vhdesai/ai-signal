@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
+- 2026-07-24-cio-dive-daily-dive-2026-07-24-external-july-23-openai-model
+- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
 - 2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be
-- 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
-- 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 embedding_id: 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive / Daily Dive - [2026-07-16] [EXTERNAL] July 16 - Meet Wells Fargo's AI 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]]
+**Related:** [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-24-cio-dive-daily-dive-2026-07-24-external-july-23-openai-model]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be]]
 <!-- graph:end -->

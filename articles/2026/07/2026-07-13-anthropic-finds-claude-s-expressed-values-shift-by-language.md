@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-anthropic-research-finds-claude-s-expressed-values-and-tone
+- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 - 2026-05-09-anthropic-publishes-natural-language-autoencoders-a-window-i
-- 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
+- 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
 embedding_id: 2026-07-13-anthropic-finds-claude-s-expressed-values-shift-by-language
 event_name: ''
 ---
@@ -36,5 +37,5 @@ In a new report on behavioral inconsistencies published Monday, Anthropic said C
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-anthropic-research-finds-claude-s-expressed-values-and-tone]] · [[2026-05-09-anthropic-publishes-natural-language-autoencoders-a-window-i]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
+**Related:** [[2026-07-15-anthropic-research-finds-claude-s-expressed-values-and-tone]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-05-09-anthropic-publishes-natural-language-autoencoders-a-window-i]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
 <!-- graph:end -->

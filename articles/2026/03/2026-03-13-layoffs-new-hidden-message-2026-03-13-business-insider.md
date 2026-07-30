@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider
 - 2026-03-08-your-r-sum-is-useless-2026-03-08-business-insider
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 - 2026-03-09-managers-are-sort-of-back-2026-03-09-business-insider
-- 2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret
 embedding_id: 2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Layoffs' new hidden message [2026-03-13] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider]] · [[2026-03-08-your-r-sum-is-useless-2026-03-08-business-insider]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-03-09-managers-are-sort-of-back-2026-03-09-business-insider]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]]
+**Related:** [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider]] · [[2026-03-08-your-r-sum-is-useless-2026-03-08-business-insider]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-03-09-managers-are-sort-of-back-2026-03-09-business-insider]]
 <!-- graph:end -->

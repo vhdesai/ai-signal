@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 93
+member_count: 107
 ---
 
 # IBM
 
-> Auto-generated entity hub. 93 connected article(s).
+> Auto-generated entity hub. 107 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on|IBM’s 2026 Cost of a Data Breach Report: AI now appears in one in four malicious breaches]]
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-27` [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu|Nvidia, Microsoft, SpaceX, Palantir and IBM launch an “Open Secure AI Alliance” — without OpenAI, Google or Anthropic]]
+- `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
+- `2026-07-23` [[2026-07-23-google-cloud-growth-and-alphabet-capex-ibm-mainframe-capex-p|Google Cloud growth and Alphabet capex; IBM mainframe/capex pressure; ServiceNow BusinessNext; Monday.com AI…]]
+- `2026-07-23` [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be|Capex Outpaces the Frontier: Alphabet's Guide and OpenAI's Bet]]
+- `2026-07-23` [[2026-07-23-alphabet-cloud-growth-and-capex-ibm-s-ai-hardware-pressure-s|Alphabet cloud growth and capex; IBM's AI hardware pressure; ServiceNow BusinessNext; Monday.com restructuring]]
+- `2026-07-22` [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas|IBM says AI hardware cost pressure delayed mainframe purchases]]
+- `2026-07-22` [[2026-07-22-ibm-insists-ai-isn-t-killing-the-mainframe-after-a-shocking|IBM insists AI isn't killing the mainframe after a shocking quarter]]
+- `2026-07-22` [[2026-07-22-daily-ai-news-digest-july-23-2026|Daily AI News Digest – July 23, 2026]]
 - `2026-07-17` [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how|Wall Street Journal / WSJ - [2026-07-17] [EXTERNAL] The 10-Point: How IBM's Bold Bet Backfired on Wall Street -…]]
 - `2026-07-17` [[2026-07-17-apple-nvidia-market-cap-shift-ibm-ai-spending-scrutiny-nvidi|Apple/Nvidia market-cap shift; IBM AI-spending scrutiny; Nvidia/Apple watchlist alerts; cyber M&A and data-breach…]]
 - `2026-07-15` [[2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri|IBM shares plunge roughly 24-25% after Q2 warning as enterprise spend shifts from software/mainframes toward AI hardware]]

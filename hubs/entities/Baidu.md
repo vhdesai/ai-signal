@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 66
+member_count: 71
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 66 connected article(s).
+> Auto-generated entity hub. 71 connected article(s).
 
+- `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
+- `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
+- `2026-07-28` [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg|Baidu and Lyft enter London's robotaxi market as testing begins]]
+- `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
+- `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-16` [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe|Apple Intelligence is approved for China through Alibaba Qwen and Baidu integrations]]
 - `2026-07-14` [[2026-07-14-security-concern-grok-build-xai-uploads-entire-git-repositor|Security concern: Grok Build (xAI) uploads entire Git repositories to xAI storage]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]

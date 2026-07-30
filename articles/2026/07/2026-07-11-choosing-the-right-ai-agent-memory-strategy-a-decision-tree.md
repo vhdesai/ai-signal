@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-26-abbel-belief-state-memory-for-llm-agents
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 embedding_id: 2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree
 event_name: ''
 ---
@@ -35,5 +35,5 @@ This practitioner guide frames AI-agent memory design as a five-question decisio
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]]
+**Related:** [[2026-07-26-abbel-belief-state-memory-for-llm-agents]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
 <!-- graph:end -->

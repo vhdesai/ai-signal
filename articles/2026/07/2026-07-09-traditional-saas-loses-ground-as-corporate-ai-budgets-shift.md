@@ -22,7 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri
 - 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
-- 2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet
+- 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
+- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
+- 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 embedding_id: 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
 event_name: ''
 ---
@@ -35,5 +37,5 @@ The Information reports that as businesses spend more on AI from Anthropic and o
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-07-07-why-the-rise-of-open-source-ai-isn-t-hurting-anthropic-yet]]
+**Related:** [[2026-07-09-traditional-saas-vendors-lose-budget-share-as-ai-spending-ri]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: SAP
-member_count: 22
+member_count: 24
 ---
 
 # SAP
 
-> Auto-generated entity hub. 22 connected article(s).
+> Auto-generated entity hub. 24 connected article(s).
 
+- `2026-07-28` [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou|SAP Pins Future on Business AI Platform After Strong Q2 Cloud Earnings]]
+- `2026-07-28` [[2026-07-28-cio-dive-2026-07-28-external-july-28-cio-skills-evolution-sa|CIO Dive - [2026-07-28] [EXTERNAL] July 28 - CIO skills evolution | SAP eyes the (AI) enterprise - [2026-07-28]…]]
 - `2026-07-10` [[2026-07-10-cio-dive-2026-07-10-external-july-10-ai-dominates-in-demand|CIO Dive - [2026-07-10] [EXTERNAL] July 10 - AI dominates in-demand skills | SAP eases EU competition concerns]]
 - `2026-06-29` [[2026-06-29-oracle-adds-four-agentic-supply-chain-apps-to-fusion-cloud-s|Oracle adds four agentic supply-chain apps to Fusion Cloud SCM]]
 - `2026-05-28` [[2026-05-28-lowe-s-says-semantic-data-is-materially-boosting-its-ai-agen|Lowe's says "semantic" data is materially boosting its AI agents]]

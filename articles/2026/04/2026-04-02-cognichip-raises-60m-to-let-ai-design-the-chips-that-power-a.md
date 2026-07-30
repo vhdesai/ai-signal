@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond
+- 2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
-- 2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip
 embedding_id: 2026-04-02-cognichip-raises-60m-to-let-ai-design-the-chips-that-power-a
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Cognichip Raises $60M to Let AI Design the Chips That Power AI
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]]
+**Related:** [[2026-04-02-cognichip-a-startup-building-ai-systems-that-design-semicond]] · [[2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]]
 <!-- graph:end -->

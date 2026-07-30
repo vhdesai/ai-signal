@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo
 - 2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
-- 2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an
+- 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
 embedding_id: 2026-05-14-novo-nordisk-signs-company-wide-ai-partnership-with-openai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Pharmaceutical giant Novo Nordisk signed a full company-wide AI partnership with
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-05-11-openai-launches-the-deployment-company-with-4b-investment-an]]
+**Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-05-18-openai-codex-enterprise-partnership-with-dell-chatgpt-produc]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce]]
 <!-- graph:end -->

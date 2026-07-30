@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an
+- 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
 - 2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
 embedding_id: 2026-07-09-nvidia-s-valuation-resets-to-pre-ai-boom-levels-as-the-trade
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia has shed roughly $1 trillion in market value since its May 14 high and no
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
+**Related:** [[2026-07-28-nvidia-briefly-cedes-largest-us-company-crown-to-apple-in-an]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-05-09-nvidia-tops-40b-in-equity-bets-backs-corning-and-iren-data-c]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

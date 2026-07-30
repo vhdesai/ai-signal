@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Snowflake
-member_count: 14
+member_count: 15
 ---
 
 # Snowflake
 
-> Auto-generated entity hub. 14 connected article(s).
+> Auto-generated entity hub. 15 connected article(s).
 
+- `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-06-04` [[2026-06-04-daily-ai-news-digest-23-items-coverage-window-june-3-06-00-p|Daily AI News Digest · 23 items · Coverage window: June 3 06:00 PDT – June 4 07:20 PDT]]
 - `2026-05-31` [[2026-05-31-what-every-ceo-needs-to-know-about-ai-in-may-2026|What every CEO needs to know about AI in May 2026]]
 - `2026-05-29` [[2026-05-29-snowflake-targets-ai-agent-adoption-with-aws-deal-and-natoma|Snowflake targets AI agent adoption with AWS deal and Natoma acquisition]]

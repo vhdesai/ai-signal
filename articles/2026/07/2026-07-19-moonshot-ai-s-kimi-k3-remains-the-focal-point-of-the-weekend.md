@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
 - 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
-- 2026-07-17-moonshot-ai-releases-kimi-k3-a-reported-2-8t-parameter-open
-- 2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
-- 2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
+- 2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race
+- 2026-07-27-moonshot-ai-publishes-open-weights-for-kimi-k3-the-largest-o
 embedding_id: 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Moonshot AI's Kimi K3 remains the focal point of the weekend: open-weight Chines
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-17-moonshot-ai-releases-kimi-k3-a-reported-2-8t-parameter-open]] · [[2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]] · [[2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
+**Related:** [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-27-moonshot-s-kimi-k3-intensifies-the-open-weight-model-race]] · [[2026-07-27-moonshot-ai-publishes-open-weights-for-kimi-k3-the-largest-o]]
 <!-- graph:end -->

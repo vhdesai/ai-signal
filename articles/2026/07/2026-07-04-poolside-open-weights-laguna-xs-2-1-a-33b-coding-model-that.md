@@ -21,9 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
 - 2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier
-- 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 embedding_id: 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
 event_name: ''
 ---
@@ -36,5 +36,5 @@ San Francisco lab Poolside released (July 2) its first open-weight model, Laguna
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]]
+**Related:** [[2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-06-01-minimax-releases-m3-an-open-weight-model-targeting-frontier]]
 <!-- graph:end -->

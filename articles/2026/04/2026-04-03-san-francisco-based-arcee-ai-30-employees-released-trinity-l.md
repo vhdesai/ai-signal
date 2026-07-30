@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-03-arcee-ai-releases-399b-american-open-weights-reasoning-model
+- 2026-07-27-daily-ai-news-digest-july-28-2026
 - 2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra
 - 2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 embedding_id: 2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l
 event_name: ''
 ---
@@ -46,5 +46,5 @@ San Francisco-based Arcee AI (30 employees) released Trinity-Large-Thinking, a 3
 
 **Entities:** [[Alibaba]] · [[Google]] · [[Meta]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-03-arcee-ai-releases-399b-american-open-weights-reasoning-model]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
+**Related:** [[2026-04-03-arcee-ai-releases-399b-american-open-weights-reasoning-model]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-04-29-mistral-medium-3-5-released-as-open-source-with-256k-context]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
 <!-- graph:end -->

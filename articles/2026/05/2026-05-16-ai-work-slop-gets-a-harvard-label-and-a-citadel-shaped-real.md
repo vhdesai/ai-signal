@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
 - 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 - 2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva
+- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 - 2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far
-- 2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not
 embedding_id: 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Harvard working paper has formalized "AI work slop" — outputs that are polis
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-05-26-business-insider-s-aki-ito-argues-the-ai-revolution-will-not]]
+**Related:** [[2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-05-16-a-landmark-multi-institution-paper-by-mit-stanford-cmu-harva]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]]
 <!-- graph:end -->
