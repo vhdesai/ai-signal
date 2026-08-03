@@ -15,7 +15,7 @@ tags: []
 entities:
 - NVIDIA
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +38,6 @@ Meituan released LongCat-2.0, a Mixture-of-Experts model with 1.6 trillion total
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra]] · [[2026-06-22-meituan-s-general-365-benchmark-exposes-broad-gaps-in-ai-rea]]
 <!-- graph:end -->

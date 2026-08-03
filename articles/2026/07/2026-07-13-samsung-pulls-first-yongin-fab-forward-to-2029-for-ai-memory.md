@@ -11,21 +11,21 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 1e3865b48c730a85ad5a31e7aa0ce36e5717306ebfc76072e4c14a5f8674dfd1
 normalized_title_hash: de4be748653452f7
 canonical_url_hash: e4c686b5cb3daaa2
-tags: []
+tags:
+- New
 entities:
 - Samsung
 themes:
 - datacenter-infrastructure
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu
 - 2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea
+- 2026-07-13-semiconductors-samsung-capacity
 - 2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
-- 2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom
 embedding_id: 2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory
 event_name: ''
 ---
@@ -38,6 +38,6 @@ Samsung will start operations 1–2 years ahead of schedule at the first of six 
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-07-samsung-expects-1-800-operating-profit-leap-on-ai-boom]]
+**Topics:** [[Infrastructure & Compute]]
+**Related:** [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-07-13-semiconductors-samsung-capacity]] · [[2026-06-29-south-korea-unveils-518b-samsung-sk-hynix-ai-and-chip-mega-p]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]]
 <!-- graph:end -->

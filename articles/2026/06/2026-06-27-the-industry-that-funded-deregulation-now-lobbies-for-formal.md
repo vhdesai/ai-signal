@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 28,
   2026.md
-content_hash: 508edef408c338c55f0e448545578c0ca7300415da82f2db0ae3b9873fa500bd
+content_hash: 1786a79a619b99bab6919a67b797aafce2bdfb6537a246e7c0dbd6661ec27bae
 normalized_title_hash: c959ac5371170d2c
 canonical_url_hash: ''
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # The industry that funded deregulation now lobbies for formal AI rules
 
-Frontier-AI executives who backed the administration's deregulation agenda now tell Politico that Washington's ad hoc, deal-by-deal oversight — export controls on Anthropic, a government-managed GPT-5.6 launch — is more damaging than anything the prior administration proposed, and they are asking for a predictable framework. The reversal underscores how case-by-case clearance has itself become a competitive variable firms cannot plan around. It sets up a fight over codifying fixed review timelines versus open-ended pauses.
+Frontier-AI executives who backed the administration's deregulation agenda now tell Politico that Washington's ad hoc, deal-by-deal oversight — export controls on Anthropic, a government-managed GPT-5.6 launch — is more damaging than anything the prior administration proposed, and they are asking for a predictable framework. The reversal underscores how case-by-case clearance has itself become a competitive variable firms cannot plan around. It sets up a fight over codifying fixed review timelines versus open-ended pauses. SECURITY
 
 <!-- graph:start -->
 ## Connections

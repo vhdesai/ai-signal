@@ -18,14 +18,9 @@ entities:
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal
-- 2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r
-- 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-04-27-
-- 2026-05-18-microsoft-openai-end-exclusive-cloud-agreement-openai-can-no
+dedupe_status: duplicate
+canonical_article_id: 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
+related_article_ids: []
 embedding_id: 2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains
 event_name: ''
 ---
@@ -39,5 +34,5 @@ Microsoft and OpenAI restructured their landmark partnership, ending the exclusi
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-27-microsoft-openai-restructure-exclusive-cloud-deal]] · [[2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-]] · [[2026-05-18-microsoft-openai-end-exclusive-cloud-agreement-openai-can-no]]
+**Canonical:** [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]]
 <!-- graph:end -->

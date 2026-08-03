@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-open
 url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
-content_hash: be0adec17408580995453a0ba196bec51babb5e4f165d1c22edcbf84e734cf86
+content_hash: 877b1997e32497a4d921054f04b8a8a4812721359729545e83fe17650c60ef3c
 normalized_title_hash: a5de5186ab111d7e
 canonical_url_hash: cf980a9dfc71c2ae
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Fidji Simo steps down from OpenAI's No. 2 role
 
-Fidji Simo, OpenAI's CEO of Applications and effectively its No. 2 operating executive, is stepping down permanently from her full-time role and moving to part-time advisory work after medical leave. The timing matters: OpenAI is scaling enterprise products, preparing for potential public-market scrutiny, and facing rising competition just as several senior commercial and product leaders have exited.
+Fidji Simo, OpenAI's CEO of Applications and effectively its No. 2 operating executive, is stepping down permanently from her full-time role and moving to part-time advisory work after medical leave. The timing matters: OpenAI is scaling enterprise products, preparing for potential public-market scrutiny, and facing rising competition just as several senior commercial and product leaders have exited. AI-ROIHYPERSCALERSCAPEX
 
 <!-- graph:start -->
 ## Connections

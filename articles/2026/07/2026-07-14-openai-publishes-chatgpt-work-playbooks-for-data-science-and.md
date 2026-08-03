@@ -8,13 +8,14 @@ url_canonical: https://openai.com/academy/codex-for-work/how-data-science-teams-
 url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
-content_hash: 4bd6505c9c60c41aff62da4d50ec4498744eabdf41cf3c082cf4a428a790e32d
+content_hash: c452dffcd1253f9bdbe930c4c958a77f7fb7313d56a697903b673ad1dc49a8ef
 normalized_title_hash: 3feaf4c0e76f9f2d
 canonical_url_hash: 0cb6e04b90aaab85
 tags: []
 entities:
 - OpenAI
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -27,12 +28,12 @@ event_name: ''
 
 # OpenAI publishes ChatGPT Work playbooks for data science and sales teams
 
-OpenAI published role-specific ChatGPT Work guidance for data science and sales teams, positioning the product as a workflow layer for root-cause briefs, KPI readouts, forecast reviews, account plans, and deal diagnostics. The posts are not a model launch, but they show OpenAI tightening enterprise packaging around repeatable job functions. That matters because adoption is increasingly being sold as operational workflow transformation rather than generic chatbot usage.
+OpenAI published role-specific ChatGPT Work guidance for data science and sales teams, positioning the product as a workflow layer for root-cause briefs, KPI readouts, forecast reviews, account plans, and deal diagnostics. The posts are not a model launch, but they show OpenAI tightening enterprise packaging around repeatable job functions. That matters because adoption is increasingly being sold as operational workflow transformation rather than generic chatbot usage. PRODUCTGOOGLEGEMINI
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-07-09-chatgpt-is-now-a-partner-for-your-most-ambitious-work]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 157
+member_count: 162
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 157 connected article(s).
+> Auto-generated entity hub. 162 connected article(s).
 
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
 - `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
@@ -41,6 +44,7 @@ member_count: 157
 - `2026-06-30` [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op|Sources scanned: Companies — Nvidia, Google / Alphabet / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta,…]]
 - `2026-06-30` [[2026-06-30-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-overtakes-it|Nvidia's AI-chip sales in China stall as Huawei overtakes it at home]]
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
+- `2026-06-29` [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk|xAI's Grok 4.5 enters private beta at SpaceX and Tesla; Musk pledges monthly from-scratch models]]
 - `2026-06-29` [[2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in|With U.S. export controls limiting Nvidia's advanced chips in China, domestic players led by Huawei are overtaking…]]
 - `2026-06-29` [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c|Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze Bites]]
 - `2026-06-29` [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
@@ -48,6 +52,7 @@ member_count: 157
 - `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-takes-the-home|Nvidia's China AI-chip sales stall as Huawei takes the home market lead]]
 - `2026-06-29` [[2026-06-29-nvidia-s-china-ai-chip-sales-stall-as-huawei-and-local-rival|Nvidia's China AI-chip sales stall as Huawei and local rivals take the lead]]
 - `2026-06-29` [[2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch|Nvidia's AI chip sales in China stall as Huawei and local chipmakers take the lead Associated Press (via Newsday) •…]]
+- `2026-06-29` [[2026-06-29-meituan-open-sources-longcat-2-0-a-1-6t-model-reportedly-tra|Meituan open-sources LongCat-2.0, a 1.6T model reportedly trained entirely on Chinese chips]]
 - `2026-06-28` [[2026-06-28-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-27` [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a|Sources scanned — Official blogs: OpenAI, Google DeepMind, Meta AI, Apple ML Research, BAIR]]
 - `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]

@@ -17,8 +17,6 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- policy-regulation
-- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,7 +35,7 @@ Chinese chipmakers led by Huawei are overtaking Nvidia in its home market, as Wa
 ## Connections
 
 **Entities:** [[Huawei]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-06-29-nvidia-s-ai-chip-sales-in-china-stall-as-huawei-and-local-ch]]
 **Related:** [[2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in]]
 <!-- graph:end -->

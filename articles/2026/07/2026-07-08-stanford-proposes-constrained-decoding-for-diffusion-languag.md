@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9
 content_hash: 639cb20896a5a8db8c02b5be8061f141033da71180a9c6474a93865d2a3a31da
 normalized_title_hash: 020c222ace2eb1eb
 canonical_url_hash: 06c64bc6d20a61ef
-tags: []
+tags:
+- New
 entities: []
 themes:
 - model-capabilities

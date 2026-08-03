@@ -22,10 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 - 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 embedding_id: 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba opened preview access to Qwen 3.7-Max on May 20, leading a wave of Chine
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
+**Related:** [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview]] · [[2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]]
 <!-- graph:end -->

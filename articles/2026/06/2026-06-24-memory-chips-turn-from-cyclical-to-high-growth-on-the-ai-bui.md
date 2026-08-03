@@ -8,7 +8,7 @@ url_canonical: https://www.forbes.com/sites/rashishrivastava/2026/06/24/the-worl
 url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
-content_hash: 3c36cbd78032f13573ce35a9b4636e8b1136b7c6ea04361c89ff5977a3f88568
+content_hash: d141f55262d142eb66740a4899adbb38ed62b6493329b716acfe80c88e315dad
 normalized_title_hash: 472e53632f8a4f32
 canonical_url_hash: 2a45fc1bb7a56a4c
 tags: []
@@ -23,18 +23,18 @@ related_article_ids:
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
+- 2026-07-13-semiconductors-earnings-ai-supply-chain
 embedding_id: 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 event_name: ''
 ---
 
 # Memory chips turn from cyclical to high-growth on the AI buildout
 
-Forbes details how the trillion-dollar data-center land grab has transformed memory makers such as Micron and SK Hynix from cyclical commodity suppliers into a sustained growth sector. Memory increasingly governs how fast AI servers process information, making high-bandwidth memory a gating factor for throughput — and a structural beneficiary of hyperscaler capex rather than a swing-cycle business.
+Forbes details how the trillion-dollar data-center land grab has transformed memory makers such as Micron and SK Hynix from cyclical commodity suppliers into a sustained growth sector. Memory increasingly governs how fast AI servers process information, making high-bandwidth memory a gating factor for throughput — and a structural beneficiary of hyperscaler capex rather than a swing-cycle business. Academic Research RESEARCH AGENTS
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-13-semiconductors-earnings-ai-supply-chain]]
 <!-- graph:end -->

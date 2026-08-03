@@ -25,9 +25,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
-- 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
+- 2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture
+- 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
+- 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 embedding_id: 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Alibaba posted its largest stock jump since September after an earnings update, 
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]]
+**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]] · [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview]]
 <!-- graph:end -->

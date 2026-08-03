@@ -9,7 +9,7 @@ url_canonical: https://spectrum.ieee.org/state-of-ai-index-2026
 url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
-content_hash: 07ee466ac0b6059c413d71e12871c30f7480c8abde392dea1a56009fd2c96d5f
+content_hash: 147c951add39df25462afad01ffd4cb7950cebd8a7ed292ad48f4fc8399de9f5
 normalized_title_hash: 9e49c635011d797c
 canonical_url_hash: 30eda00ea79545a5
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Stanford's 2026 AI Index: investment surges as jobs and public sentiment stay mixed
 
-IEEE Spectrum's analysis of Stanford HAI's 2026 AI Index highlights record AI investment alongside an uneven picture for labor markets and public perception. Companion coverage notes the report's adoption figures — generative AI reaching majority population adoption and high organizational uptake — underscoring how quickly frontier tools have become mainstream. For executives, the Index remains the most cited cross-industry baseline for benchmarking AI's economic and societal trajectory.
+IEEE Spectrum's analysis of Stanford HAI's 2026 AI Index highlights record AI investment alongside an uneven picture for labor markets and public perception. Companion coverage notes the report's adoption figures — generative AI reaching majority population adoption and high organizational uptake — underscoring how quickly frontier tools have become mainstream. For executives, the Index remains the most cited cross-industry baseline for benchmarking AI's economic and societal trajectory. AI Safety & Policy SAFETY RESEARCH
 
 <!-- graph:start -->
 ## Connections

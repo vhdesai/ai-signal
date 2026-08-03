@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 1
 content_hash: ed9be3652a20d890192fa39ad6901dde95c9d726367a89ff1023d87ed0c19bce
 normalized_title_hash: 46667a3ce4270999
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Meta
 - NVIDIA

@@ -14,7 +14,6 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -32,6 +31,6 @@ Beijing-based Moonshot AI, maker of the Kimi models, closed a $3.5 billion round
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]]
 <!-- graph:end -->

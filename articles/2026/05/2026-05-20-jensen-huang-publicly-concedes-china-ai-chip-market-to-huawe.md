@@ -11,8 +11,7 @@ digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 
 content_hash: 9b32d9d6c7e16b13127009667104ebdcbb9c3da6712d4e775775b680ba8f4034
 normalized_title_hash: f15f2f372018e8a3
 canonical_url_hash: ff64723b308b9cff
-tags:
-- Trending
+tags: []
 entities:
 - Huawei
 - NVIDIA

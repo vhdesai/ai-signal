@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: 53056e7836cdaf5dddbbb395cfc30883fa79a82d1cab9240df267fb4e9ceddb0
 normalized_title_hash: 0ed75647e583773d
 canonical_url_hash: dc493af0556bb44e
-tags: []
+tags:
+- New
 entities:
 - Meta
 themes:
@@ -20,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
+- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
-- 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
-- 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
-- 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
-- 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
+- 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
+- 2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules
 embedding_id: 2026-07-28-meta-signs-the-eu-ai-act-code-of-practice-on-ai-content-tran
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Meta announced it is signing the EU AI Act Code of Practice on transparency of A
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]]
+**Related:** [[2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]] · [[2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules]]
 <!-- graph:end -->

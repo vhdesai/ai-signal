@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8
 content_hash: 0864a6e5acb09128b00278aee8d3595f683f4cd9ccbf597e8ab1069d6caad852
 normalized_title_hash: 46ab6ecc72993cf9
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Amazon
 - Meta

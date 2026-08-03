@@ -8,14 +8,16 @@ url_canonical: https://whbl.com/2026/06/30/agentic-ai-may-require-regulatory-ref
 url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: 2aa55ffa7441868f6cfb3577e3fead7dee4b5e874d9089a304b37b3d2bb934b3
+content_hash: 047d51fc7914122cf1d388ecba06898d002fac65be962943ba83a467417b3265
 normalized_title_hash: 8d882b706e2de9ea
 canonical_url_hash: 44306901c004924d
 tags: []
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
-cross_cutting_topics: []
+cross_cutting_topics:
+- china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
@@ -30,11 +32,11 @@ event_name: ''
 
 # Bank of England's Breeden warns agentic AI may require regulatory reform
 
-Speaking at the ECB Forum in Portugal, BoE Deputy Governor for Financial Stability Sarah Breeden warned that existing frameworks “were not built to contemplate autonomous agents” and that relying on a human-in-the-loop for all agent actions is unrealistic, flagging the need for more sophisticated governance and accountability. The warning follows the Financial Stability Board's June call for tighter safeguards on AI agents. For boards, it signals that financial-stability scrutiny is shifting from models to agents — and the capital behind them.
+Speaking at the ECB Forum in Portugal, BoE Deputy Governor for Financial Stability Sarah Breeden warned that existing frameworks “were not built to contemplate autonomous agents” and that relying on a human-in-the-loop for all agent actions is unrealistic, flagging the need for more sophisticated governance and accountability. The warning follows the Financial Stability Board's June call for tighter safeguards on AI agents. For boards, it signals that financial-stability scrutiny is shifting from models to agents — and the capital behind them. BREAKING Export Controls China Cybersecurity
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all]]
 <!-- graph:end -->

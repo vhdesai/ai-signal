@@ -8,7 +8,7 @@ url_canonical: https://www.techrepublic.com/article/news-meta-ai-spending-job-cu
 url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
-content_hash: f53046382f2326eb4fdc438920d32da82072a227c858635c3d502770cb2d4dec
+content_hash: 894a63381ffdcee1aead8aa9809246924c70030d3927f8a5159978f133d94a41
 normalized_title_hash: 980125368028bb73
 canonical_url_hash: e6711d033f97237c
 tags:
@@ -16,7 +16,7 @@ tags:
 entities:
 - Meta
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion
@@ -27,12 +27,12 @@ event_name: ''
 
 # Meta to cut 8,000 jobs while raising AI capex guidance to $145B
 
-Meta is preparing to eliminate approximately 8,000 jobs (~10% of workforce) starting May 20, while leaving 6,000 open roles unfilled and raising its 2026 capital expenditure guidance to as much as $145 billion — the bulk earmarked for AI infrastructure. The story is defined by its contrast: Meta is cutting from a position of record ad-profit strength, not distress, reallocating headcount spend to compute. The move reinforces the hyperscaler pattern of workforce reduction paired with record AI infrastructure investment.
+Meta is preparing to eliminate approximately 8,000 jobs (~10% of workforce) starting May 20, while leaving 6,000 open roles unfilled and raising its 2026 capital expenditure guidance to as much as $145 billion — the bulk earmarked for AI infrastructure. The story is defined by its contrast: Meta is cutting from a position of record ad-profit strength, not distress, reallocating headcount spend to compute. The move reinforces the hyperscaler pattern of workforce reduction paired with record AI infrastructure investment. T DS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-05-19-meta-cuts-8-000-jobs-as-ai-capex-rises-to-145-billion]]
 <!-- graph:end -->

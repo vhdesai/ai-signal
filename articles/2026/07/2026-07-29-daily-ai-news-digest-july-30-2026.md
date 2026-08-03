@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
+- 2026-08-01-daily-ai-news-digest-august-1-2026
 - 2026-07-08-daily-ai-news-digest-july-9-2026
 - 2026-07-11-daily-ai-news-digest-july-12-2026
-- 2026-07-09-daily-ai-news-digest-july-10-2026
 embedding_id: 2026-07-29-daily-ai-news-digest-july-30-2026
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Today's news is dominated by the widening gap between AI's soaring capital costs
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]] · [[Tencent]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
+**Related:** [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-08-01-daily-ai-news-digest-august-1-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-11-daily-ai-news-digest-july-12-2026]]
 <!-- graph:end -->

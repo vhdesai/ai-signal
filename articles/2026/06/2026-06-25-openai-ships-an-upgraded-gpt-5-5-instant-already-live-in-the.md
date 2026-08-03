@@ -15,7 +15,7 @@ tags: []
 entities:
 - OpenAI
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ OpenAI updated GPT-5.5 Instant — the default model for free ChatGPT users — 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-25-openai-updates-gpt-5-5-instant-for-intent-constraints-and-sh]] · [[2026-05-06-breakingopenai-releases-gpt-5-5-instant-as-new-default-model]] · [[2026-05-18-openai-rolled-out-gpt-5-5-instant-as-the-new-default-model-f]] · [[2026-05-16-gpt-5-5-instant-becomes-chatgpt-s-default-model]] · [[2026-05-08-openai-on-may-5-pushed-gpt-5-5-instant-as-the-default-chatgp]]
 <!-- graph:end -->

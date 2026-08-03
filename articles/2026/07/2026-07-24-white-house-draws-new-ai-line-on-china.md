@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: 5ee0660c9bed860ad75d4f2ee83e27745be272f26ca01d3ef860a02bc937c09d
+content_hash: 61ad484ade4be386aba5c9395ed329d60432b90713cf0df47ef09f5092842311
 normalized_title_hash: 1809110abcd728e3
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # White House draws new AI line on China
 
-Axios reports that the White House is drawing a new AI line on China as policymakers consider responses to Chinese model advances and alleged IP theft. The story fits the week's broader debate over whether to restrict Chinese open-weight models, sanction companies, or target specific misconduct instead. The outcome will shape how U.S. companies can use, host, or fine-tune China-origin models in enterprise environments. URL not verified.
+Axios reports that the White House is drawing a new AI line on China as policymakers consider responses to Chinese model advances and alleged IP theft. The story fits the week's broader debate over whether to restrict Chinese open-weight models, sanction companies, or target specific misconduct instead. The outcome will shape how U.S. companies can use, host, or fine-tune China-origin models in enterprise environments. URL not verified. AI POLICYCOMPANION AICHINA
 
 <!-- graph:start -->
 ## Connections

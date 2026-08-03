@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
 - 2026-03-10-microsoft-doubles-down-on-seat-based-pricing-for-ai-2026-03
 - 2026-03-16-march-16-adobe-touts-enterprise-spend-ai-speeds-up-cyberatta
-- 2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p
-- 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
+- 2026-08-02-other-ai-related-publication-emails-2026-08-02-external-open
+- 2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics
 embedding_id: 2026-04-26-adobe-and-hubspot-join-shift-to-outcome-based-ai-pricing-202
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Adobe and HubSpot Join Shift to ‘Outcome-Based’ AI Pricing [2026-04-26] · T
 ## Connections
 
 **Entities:** [[Adobe]]
-**Related:** [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-03-10-microsoft-doubles-down-on-seat-based-pricing-for-ai-2026-03]] · [[2026-03-16-march-16-adobe-touts-enterprise-spend-ai-speeds-up-cyberatta]] · [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]]
+**Related:** [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-03-10-microsoft-doubles-down-on-seat-based-pricing-for-ai-2026-03]] · [[2026-03-16-march-16-adobe-touts-enterprise-spend-ai-speeds-up-cyberatta]] · [[2026-08-02-other-ai-related-publication-emails-2026-08-02-external-open]] · [[2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics]]
 <!-- graph:end -->

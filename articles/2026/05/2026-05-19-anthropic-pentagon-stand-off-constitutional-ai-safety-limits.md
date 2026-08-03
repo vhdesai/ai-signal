@@ -16,7 +16,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-05-19-anthropic-s-exclusion-from-pentagon-ai-contracts-continues-t]] · [[2026-05-10-pentagon-signs-8-ai-vendors-for-classified-il6-il7-networks]] · [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]]
 <!-- graph:end -->

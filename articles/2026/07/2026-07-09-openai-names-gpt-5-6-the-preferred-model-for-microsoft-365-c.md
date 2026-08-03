@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 1
 content_hash: 272c4ade6e7c2efa82f7ea68d1d6c61137092c97443b7f2ba9722a346490097d
 normalized_title_hash: f13e735f24db7651
 canonical_url_hash: 5390181be54fda4b
-tags: []
+tags:
+- Trending
 entities:
 - Microsoft
 - OpenAI

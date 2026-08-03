@@ -8,13 +8,14 @@ url_canonical: https://yourstory.com/2026/06/startup-news-and-updates-daily-roun
 url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: 7e8196ee9f73f348ee85dde330a3cfc49f197d3fb2fb491f27701c41181bf4d1
+content_hash: 12a1e96c21e2d962935c3b2f023c2639d7837b973d16abbea671645ad3d83c89
 normalized_title_hash: 2596eca4dbb84747
 canonical_url_hash: 2f89a72d4a44bd18
 tags: []
 entities: []
 themes:
-- company-storylines
+- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,11 +31,11 @@ event_name: ''
 
 # Agentic-AI startup Kapture CX raises $10M led by Bajaj Finserv Ventures
 
-Bengaluru-based Kapture CX, which builds agentic AI for customer experience, raised $10M in a pre-Series B round led by Bajaj Finserv Ventures, with existing investors Cactus Venture Partners and India Alternatives participating. It is a smaller deal, but a useful data point on enterprise demand for agentic AI in customer support and financial services — an area where deployment, not model novelty, is the differentiator.
+Bengaluru-based Kapture CX, which builds agentic AI for customer experience, raised $10M in a pre-Series B round led by Bajaj Finserv Ventures, with existing investors Cactus Venture Partners and India Alternatives participating. It is a smaller deal, but a useful data point on enterprise demand for agentic AI in customer support and financial services — an area where deployment, not model novelty, is the differentiator. AI Safety & Policy POLICY
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-06-30-bengaluru-based-agentic-ai-startup-kapture-cx-raised-10m-in]] · [[2026-06-30-kapture-cx-raises-10m-for-agentic-customer-experience-ai-jun]] · [[2026-06-25-patronus-ai-raises-50m-series-b-to-stress-test-ai-agents]] · [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-07-08-sambanova-raises-1b-at-an-11b-valuation-lands-jpmorgan-as-an]]
 <!-- graph:end -->

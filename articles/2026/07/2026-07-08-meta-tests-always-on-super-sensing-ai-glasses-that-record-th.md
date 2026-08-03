@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 61bb3c2af039cb6af797d0c10b1aef23712ed390a41b2a85d1d56074b4456e1e
 normalized_title_hash: 449b46db28bf6235
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - Meta
 - NVIDIA

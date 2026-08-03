@@ -9,10 +9,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-23_060602_Inbox_Daily AI News Digest - July 23,
   2026.md
-content_hash: 9c41895a85edc24b7a6e1b587b7442b5b0281eb61bfb2ea49e6c62d60af67e3d
+content_hash: d8415565eeaf1ed549f180cce5d3a79bbafe49f9739598e016ed7a68f0691023
 normalized_title_hash: 9f3ce5b8044c9b4b
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 themes:
@@ -31,7 +32,7 @@ event_name: ''
 
 # Experts question claim that Kimi K3 got strong primarily by distilling Anthropic's Fable
 
-# Experts question claim that Kimi K3 got strong primarily by distilling Anthropic's Fable
+AI POLICYSANCTIONSMOONSHOT AI
 
 <!-- graph:start -->
 ## Connections

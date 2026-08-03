@@ -14,15 +14,15 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
+- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 - 2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers
-- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 embedding_id: 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 event_name: ''
 ---
@@ -34,6 +34,6 @@ CIO Dive led with Dell revenue jumping 88% as the company rides enterprise AI de
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-07-11-executives-say-ai-demand-is-almost-unlimited-even-as-buyers]]
 <!-- graph:end -->

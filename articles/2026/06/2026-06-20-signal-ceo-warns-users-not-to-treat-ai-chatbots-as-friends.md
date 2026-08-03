@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre
 - 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search
-- 2026-05-15-northwestern-american-u-ai-chatbots-wildly-disagree-on-which
 embedding_id: 2026-06-20-signal-ceo-warns-users-not-to-treat-ai-chatbots-as-friends
 event_name: ''
 ---
@@ -36,5 +36,5 @@ TechCrunch reported Signal president Meredith Whittaker's warning that users sho
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search]] · [[2026-05-15-northwestern-american-u-ai-chatbots-wildly-disagree-on-which]]
+**Related:** [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search]]
 <!-- graph:end -->

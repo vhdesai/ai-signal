@@ -8,7 +8,7 @@ url_canonical: https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3
 url_status: found
 digest_source: digests\raw\2026-06-29_060726_Inbox_Daily AI News Digest - June 29,
   2026.md
-content_hash: 1ef34c5fdb160e01ecac46bee93bfdbbb6ae359702c6628b5c881332154dd6f6
+content_hash: 70c4d410dbc385d1f139e3da559e7177057bb5eaa0674eeecf3a1fc2b8461180
 normalized_title_hash: d44949f6f8b214e5
 canonical_url_hash: 800847a4ba8ac59b
 tags: []
@@ -16,7 +16,8 @@ entities:
 - Samsung
 themes:
 - datacenter-infrastructure
-cross_cutting_topics: []
+cross_cutting_topics:
+- china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
@@ -31,12 +32,12 @@ event_name: ''
 
 # South Korea unveils ~$518B Samsung/SK Hynix AI and chip mega-project
 
-President Lee Jae Myung unveiled an 800-trillion-won (~$517.9B) national plan to entrench South Korea's lead in AI and semiconductors, with Samsung Electronics and SK Hynix building two new fabs in the country's southwest alongside investment in memory, data centers, and robotics. Notably, shares of both chipmakers fell on Monday on the scale of required capital outlay. The plan is the latest state-backed industrial program treating compute capacity as strategic infrastructure.
+President Lee Jae Myung unveiled an 800-trillion-won (~$517.9B) national plan to entrench South Korea's lead in AI and semiconductors, with Samsung Electronics and SK Hynix building two new fabs in the country's southwest alongside investment in memory, data centers, and robotics. Notably, shares of both chipmakers fell on Monday on the scale of required capital outlay. The plan is the latest state-backed industrial program treating compute capacity as strategic infrastructure. HOT Semiconductors China
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Samsung]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-06-26-samsung-group-to-unveil-648b-1-000-trillion-won-south-korea]] · [[2026-06-29-south-korea-commits-1t-to-memory-fabs-ai-data-centers-and-hu]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-07-06-infrastructure-markets-sk-hynix-launches-28b-us-share-sale-o]]
 <!-- graph:end -->

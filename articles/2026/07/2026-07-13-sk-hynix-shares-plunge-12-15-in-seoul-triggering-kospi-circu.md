@@ -11,9 +11,11 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: ec95f197c1dd97902644235506fcc62568a97c4fb195f99ad83992945f3d6036
 normalized_title_hash: 5174713fbf224c21
 canonical_url_hash: 64dc1e8c2d95946a
-tags: []
+tags:
+- Hot
 entities: []
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,5 +35,6 @@ SK Hynix shares fell 12–15% in Seoul, dragging the Kospi into a steep selloff 
 <!-- graph:start -->
 ## Connections
 
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-13-sk-hynix-suffers-its-biggest-kospi-drop-in-two-decades-trigg]] · [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]]
 <!-- graph:end -->

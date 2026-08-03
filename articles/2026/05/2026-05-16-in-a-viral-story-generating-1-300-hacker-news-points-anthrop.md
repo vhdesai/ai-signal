@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 - 2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope
 - 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
-- 2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s
-- 2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos
+- 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
+- 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 embedding_id: 2026-05-16-in-a-viral-story-generating-1-300-hacker-news-points-anthrop
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In a viral story generating ~1,300 Hacker News points, Anthropic's Claude AI suc
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Related:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-04-21-anthropic-investigates-unauthorized-access-to-claude-mythos]]
+**Related:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]] · [[2026-05-16-reports-emerged-650-hacker-news-upvotes-of-a-grey-market-ope]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]]
 <!-- graph:end -->

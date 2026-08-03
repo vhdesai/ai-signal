@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
+- 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
+- 2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic
 embedding_id: 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]]
+**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-01-most-us-companies-still-lack-mature-ai-governance-as-agentic]]
 <!-- graph:end -->

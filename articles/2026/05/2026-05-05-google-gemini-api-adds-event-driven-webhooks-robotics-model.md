@@ -23,7 +23,6 @@ related_article_ids:
 - 2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini
 - 2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in
 - event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview
-- 2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun
 embedding_id: 2026-05-05-google-gemini-api-adds-event-driven-webhooks-robotics-model
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Google Gemini API Adds Event-Driven Webhooks; Robotics Model ER 1.6
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api]] · [[2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini]] · [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]] · [[2026-06-28-google-caps-meta-s-use-of-gemini-ai-models-amid-compute-crun]]
+**Related:** [[2026-05-04-google-launches-event-driven-webhooks-in-the-gemini-api]] · [[2026-05-05-google-launched-event-driven-webhooks-support-in-the-gemini]] · [[2026-05-22-google-published-a-major-update-to-its-gemini-for-science-in]] · [[event-google-i-o-2026-gemini-as-the-agentic-platform-google-i-o-2026-gemini-as-the-agentic-platform-overview]]
 <!-- graph:end -->

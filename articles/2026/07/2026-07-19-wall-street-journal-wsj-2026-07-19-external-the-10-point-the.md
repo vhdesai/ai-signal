@@ -20,8 +20,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
 - 2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the
+- 2026-08-02-wall-street-journal-wsj-2026-08-02-external-the-10-point-how
 - 2026-07-11-wall-street-journal-wsj-2026-07-11-external-the-10-point-the
-- 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
 embedding_id: 2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Wall Street Journal / WSJ - [2026-07-19] [EXTERNAL] The 10-Point: The CIA Operat
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the]] · [[2026-07-11-wall-street-journal-wsj-2026-07-11-external-the-10-point-the]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]]
+**Related:** [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the]] · [[2026-08-02-wall-street-journal-wsj-2026-08-02-external-the-10-point-how]] · [[2026-07-11-wall-street-journal-wsj-2026-07-11-external-the-10-point-the]]
 <!-- graph:end -->

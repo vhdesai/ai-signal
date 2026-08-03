@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
+- 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
+- 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
+- 2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun
 - 2026-04-10-research-details-how-depth-estimation-foundation-segmentatio
-- 2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini
-- 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
-- 2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce
 embedding_id: 2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind has connected its Genie 3 world model to Street View imagery, al
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-04-10-research-details-how-depth-estimation-foundation-segmentatio]] · [[2026-05-13-google-deepmind-ai-enabled-mouse-pointer-powered-by-gemini]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-07-07-google-research-using-collaboration-and-algorithms-to-reduce]]
+**Related:** [[2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]] · [[2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun]] · [[2026-04-10-research-details-how-depth-estimation-foundation-segmentatio]]
 <!-- graph:end -->

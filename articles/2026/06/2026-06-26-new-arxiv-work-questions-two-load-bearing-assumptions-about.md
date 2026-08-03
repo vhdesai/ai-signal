@@ -14,7 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-06-25-agent-reliability-and-verification-dominate-this-week-s-arxi]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-19-new-arxiv-formal-safety-architecture-required-for-llm-agent]] · [[2026-05-31-fresh-arxiv-wave-centers-on-inference-efficiency-and-faithfu]] · [[2026-05-14-arxiv-history-anchors-how-prior-behavior-steers-llms-toward]]
 <!-- graph:end -->

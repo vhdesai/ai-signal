@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
 - 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
+- 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
 - 2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h
-- 2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r
 embedding_id: 2026-07-06-path-constrained-mixture-of-experts
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple researchers introduced PathMoE, which constrains token routing paths acros
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h]] · [[2026-06-26-this-study-empirically-examines-when-ensembling-strategies-r]]
+**Related:** [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n]] · [[2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h]]
 <!-- graph:end -->

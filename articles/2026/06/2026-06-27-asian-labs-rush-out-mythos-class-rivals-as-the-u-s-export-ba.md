@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-28_060911_Inbox_Daily AI News Digest - June 28,
   2026.md
-content_hash: b5dba917cdfaca76e945502d24b8df74dee26b7d4310cefc90e2c5f78e1a7454
+content_hash: ab9fb49a054f5d2003967593ea201d25d9b396f2cb8329ba276d842e6abaa990
 normalized_title_hash: b98b0bc12148b5c6
 canonical_url_hash: ''
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # Asian labs rush out Mythos-class rivals as the U.S. export ban drags on
 
-With Anthropic's Mythos 5 and Fable 5 still restricted, two Asian labs moved to fill the gap. Chinese cybersecurity firm 360 unveiled "Tulongfeng," which it claims can go head-to-head with Mythos, while Tokyo-based Sakana AI launched "Fugu," an agent-oriented frontier model it says "stands shoulder-to-shoulder" with Fable 5 and Mythos Preview. TechCrunch frames the launches as early evidence that U.S. export controls may be ceding a large global market for top-tier cybersecurity and agentic models to non-U.S. providers.
+With Anthropic's Mythos 5 and Fable 5 still restricted, two Asian labs moved to fill the gap. Chinese cybersecurity firm 360 unveiled "Tulongfeng," which it claims can go head-to-head with Mythos, while Tokyo-based Sakana AI launched "Fugu," an agent-oriented frontier model it says "stands shoulder-to-shoulder" with Fable 5 and Mythos Preview. TechCrunch frames the launches as early evidence that U.S. export controls may be ceding a large global market for top-tier cybersecurity and agentic models to non-U.S. providers. Infrastructure Hot Infrastructure
 
 <!-- graph:start -->
 ## Connections

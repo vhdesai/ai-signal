@@ -16,16 +16,17 @@ tags: []
 entities:
 - Anthropic
 themes:
+- policy-regulation
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-california-signs-anthropic-deal-giving-state-and-local-agenc
+- 2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord
 - 2026-07-15-anthropic-launches-claude-for-teachers-for-verified-u-s
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 embedding_id: 2026-06-29-california-strikes-deal-giving-all-state-and-local-agencies
 event_name: ''
 ---
@@ -38,6 +39,6 @@ Governor Gavin Newsom and Anthropic signed an agreement giving all California st
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-california-signs-anthropic-deal-giving-state-and-local-agenc]] · [[2026-07-15-anthropic-launches-claude-for-teachers-for-verified-u-s]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Related:** [[2026-06-30-california-signs-anthropic-deal-giving-state-and-local-agenc]] · [[2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord]] · [[2026-07-15-anthropic-launches-claude-for-teachers-for-verified-u-s]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]]
 <!-- graph:end -->

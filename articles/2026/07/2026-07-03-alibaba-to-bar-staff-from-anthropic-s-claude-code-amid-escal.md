@@ -17,6 +17,7 @@ entities:
 - Alibaba
 - Anthropic
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -35,6 +36,6 @@ Alibaba will prohibit employees from using Claude Code inside workplace environm
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]]
 <!-- graph:end -->

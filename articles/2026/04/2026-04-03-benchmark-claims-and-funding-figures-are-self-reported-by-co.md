@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
+- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 embedding_id: 2026-04-03-benchmark-claims-and-funding-figures-are-self-reported-by-co
 event_name: ''
 ---
@@ -34,5 +35,5 @@ Benchmark claims and funding figures are self-reported by companies unless other
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]]
+**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
 <!-- graph:end -->

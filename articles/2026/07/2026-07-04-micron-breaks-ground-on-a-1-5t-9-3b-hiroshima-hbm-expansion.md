@@ -8,14 +8,14 @@ url_canonical: https://www.moneycontrol.com/news/business/micron-breaks-ground-o
 url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
-content_hash: cb79d75e6bbbe3d095ffc56ac07310167abd0e5daa987ca81fc4912cf29df15c
+content_hash: 8619b5d204d8fcc5509ff9d3fa622c82957dd66f75dda90b79576ba9c0e6b10f
 normalized_title_hash: 453b53ac6c77db3c
 canonical_url_hash: 3526e657d368848a
 tags: []
 entities:
 - NVIDIA
 themes:
-- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,12 +31,12 @@ event_name: ''
 
 # Micron breaks ground on a ¥1.5T ($9.3B) Hiroshima HBM expansion for AI memory
 
-Micron began construction Saturday on a ¥1.5 trillion (~$9.3B) expansion of its western-Japan fab to produce high-bandwidth memory — the supply-constrained component behind Nvidia-class AI accelerators — with shipments slated for summer 2028. Japan's Ministry of Economy, Trade and Industry has earmarked up to ¥500B in subsidies. The move underscores that AI's binding constraint has migrated from GPUs to memory and power, and that HBM capacity is now a multi-year, government-backed race.
+Micron began construction Saturday on a ¥1.5 trillion (~$9.3B) expansion of its western-Japan fab to produce high-bandwidth memory — the supply-constrained component behind Nvidia-class AI accelerators — with shipments slated for summer 2028. Japan's Ministry of Economy, Trade and Industry has earmarked up to ¥500B in subsidies. The move underscores that AI's binding constraint has migrated from GPUs to memory and power, and that HBM capacity is now a multi-year, government-backed race. Industry & Business STRATEGY ENTERPRISE
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-04-micron-breaks-ground-on-a-9-3b-hiroshima-plant-for-ai-memory]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]] · [[2026-07-10-micron-expands-u-s-manufacturing-plan-to-about-250b-on-ai-me]] · [[2026-07-09-micron-commits-250b-to-u-s-memory-manufacturing-as-ai-demand]]
 <!-- graph:end -->

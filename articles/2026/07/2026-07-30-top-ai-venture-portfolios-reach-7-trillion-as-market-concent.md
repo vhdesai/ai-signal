@@ -11,10 +11,10 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: d953807103eb49219bf16d3c661df32d1ce6e78fb944d0e4401e95a7b3fa88b5
 normalized_title_hash: ebff27c784498fba
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -31,6 +31,6 @@ PitchBook reported that portfolio valuations across the top 30 VC firms have dou
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-19-waic-2026-advances-a-china-led-world-ai-cooperation-organiza
 - 2026-07-17-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la
 - 2026-07-18-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la
-- 2026-07-18-the-white-house-reportedly-moves-to-control-access-to-fronti
+- 2026-07-17-the-white-house-reportedly-moves-to-control-access-to-fronti
 embedding_id: 2026-07-20-australia-s-ai-water-power-governance-waic-waico-governance
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Australia's AI water/power governance, WAIC/WAICO governance blocs, and frontier
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an]] · [[2026-07-19-waic-2026-advances-a-china-led-world-ai-cooperation-organiza]] · [[2026-07-17-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]] · [[2026-07-18-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]] · [[2026-07-18-the-white-house-reportedly-moves-to-control-access-to-fronti]]
+**Related:** [[2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an]] · [[2026-07-19-waic-2026-advances-a-china-led-world-ai-cooperation-organiza]] · [[2026-07-17-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]] · [[2026-07-18-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]] · [[2026-07-17-the-white-house-reportedly-moves-to-control-access-to-fronti]]
 <!-- graph:end -->

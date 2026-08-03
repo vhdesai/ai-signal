@@ -22,10 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 - 2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness
-- 2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
-- 2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee
+- 2026-07-31-amazon-says-aws-growth-accelerated-to-37-as-ai-demand-lifts
+- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
 embedding_id: 2026-05-14-alibaba-cloud-grows-38-but-core-profit-plunges-84-on-ai-cape
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Alibaba cloud grows 38% but core profit plunges 84% on AI capex — CNBC, May 13
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-05-22-alibaba-and-tencent-in-advanced-talks-to-invest-in-deepseek]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-04-22-tencent-and-alibaba-are-in-discussions-to-participate-in-dee]]
+**Related:** [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-06-10-oracle-s-ai-cloud-surge-is-offset-by-software-weakness]] · [[2026-07-31-amazon-says-aws-growth-accelerated-to-37-as-ai-demand-lifts]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]]
 <!-- graph:end -->

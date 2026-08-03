@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 2
 content_hash: 64bf7d2471f13664700feb7e9cf8cc8beef6c1329dd0820c66fe6e6773265eca
 normalized_title_hash: 4a00cf47f5849f2c
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Anthropic
 - Samsung

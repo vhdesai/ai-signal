@@ -8,7 +8,7 @@ url_canonical: https://venturebeat.com/technology/openai-introduces-chatgpt-work
 url_status: found
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: e975253a4833d97f60be213644f4a88a114f8d8d2f3c1d9d493eb3701b1bed72
+content_hash: 9f700c2ab979a492319c1d9cea7dbd01870ce45e61d06bdae92cd1e0ca4e8460
 normalized_title_hash: 8b46096f70fd7625
 canonical_url_hash: b47d984e1b1c5747
 tags: []
@@ -17,7 +17,7 @@ entities:
 - Microsoft
 - OpenAI
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
@@ -28,12 +28,12 @@ event_name: ''
 
 # OpenAI launches ChatGPT Work, an autonomous cross-app work agent
 
-OpenAI introduced ChatGPT Work, a cloud-based agent embedded in ChatGPT that connects to email, calendars, Slack, code repositories and files to execute multi-step tasks and produce finished documents, spreadsheets, presentations and websites. Powered by GPT-5.6, it decomposes a stated outcome into steps and works autonomously for hours, folding Codex into a single ChatGPT desktop "super app." The move squares OpenAI directly against Anthropic's Claude Cowork and Microsoft's Copilot Cowork — a clear signal that the next competitive front is the everyday work interface, not just model quality.
+OpenAI introduced ChatGPT Work, a cloud-based agent embedded in ChatGPT that connects to email, calendars, Slack, code repositories and files to execute multi-step tasks and produce finished documents, spreadsheets, presentations and websites. Powered by GPT-5.6, it decomposes a stated outcome into steps and works autonomously for hours, folding Codex into a single ChatGPT desktop "super app." The move squares OpenAI directly against Anthropic's Claude Cowork and Microsoft's Copilot Cowork — a clear signal that the next competitive front is the everyday work interface, not just model quality. A PRODUCT
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
 <!-- graph:end -->

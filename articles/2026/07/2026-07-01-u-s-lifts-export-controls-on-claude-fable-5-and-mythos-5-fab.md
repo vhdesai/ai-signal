@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-03_062005_Inbox_Daily AI News Digest - July 3
 content_hash: 8662507924afc190a85a03a50e308e612376457b33d4beb13de60b83a0cc8813
 normalized_title_hash: 946ff2a5be518ab5
 canonical_url_hash: 6111d6b673c52433
-tags: []
+tags:
+- Breaking
 entities:
 - Amazon
 - Anthropic

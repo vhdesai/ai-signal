@@ -8,7 +8,7 @@ url_canonical: https://www.businessinsider.com/anthropic-soared-1-2-trillion-val
 url_status: found
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
-content_hash: ddfd5b005df1fdb55e212601204cb9739891c7842e93840393adbdf594c32fe7
+content_hash: 4b559af664774176e3663039aee5d9d6e74697d40cedf0b1253bdb0d384c7801
 normalized_title_hash: d0a678b5b73d9d61
 canonical_url_hash: bea46f114d7193a8
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Anthropic has soared to a $1.2 trillion valuation on secondary markets
 
-Anthropic shares are reportedly trading around a $1.2 trillion valuation on secondary markets, with demand significantly exceeding available supply. The read-through is that private-market investors are assigning public-company-scale value to frontier AI labs before IPO, intensifying pressure on enterprises and regulators to treat these firms as systemically important technology platforms.
+Anthropic shares are reportedly trading around a $1.2 trillion valuation on secondary markets, with demand significantly exceeding available supply. The read-through is that private-market investors are assigning public-company-scale value to frontier AI labs before IPO, intensifying pressure on enterprises and regulators to treat these firms as systemically important technology platforms. AI-IPOSVENTURE-CAPITALMARKET-STRUCTURE
 
 <!-- graph:start -->
 ## Connections

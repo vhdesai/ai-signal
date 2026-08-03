@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 128
+member_count: 134
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 128 connected article(s).
+> Auto-generated entity hub. 134 connected article(s).
 
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc|Cerebras signs a 10-year AI colocation agreement with CleanCore in Minnesota]]
 - `2026-07-29` [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol|Cerebras signs 10-year AI colocation deal with CleanCore Solutions]]
@@ -73,10 +76,12 @@ member_count: 128
 - `2026-05-17` [[2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up|💼 Industry News & Deals Anthropic in Talks to Raise $30–50B at Up to $950B Valuation — Near-Trillion-Dollar Club…]]
 - `2026-05-17` [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record|Nvidia vs. Cerebras: Chip Market Battle Heats Up After Record-Breaking IPO Trending]]
 - `2026-05-17` [[2026-05-17-may-14-2026-cerebras|May 14, 2026 | Cerebras |]]
+- `2026-05-17` [[2026-05-17-microsoft-corp-dev-ai-intelligence|MICROSOFT CORP DEV · AI INTELLIGENCE]]
 - `2026-05-17` [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel|Cerebras Systems hit the Nasdaq on May 14 in the most closely watched tech IPO of 2026, raising $4.8 billion at an IPO…]]
 - `2026-05-17` [[2026-05-17-cerebras-ipo-raises-5-5b-stock-pops-108-in-biggest-tech-ipo|Cerebras IPO Raises $5.5B, Stock Pops 108% in Biggest Tech IPO of 2026]]
 - `2026-05-15` [[2026-05-15-wsj-cerebras-ipo-is-a-huge-bet-on-nvidia-fatigue|WSJ: Cerebras IPO Is a “Huge Bet on Nvidia Fatigue”]]
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
+- `2026-05-15` [[2026-05-15-microsoft-corp-dev-tech-assessment|MICROSOFT CORP DEV · TECH ASSESSMENT]]
 - `2026-05-15` [[2026-05-15-cerebras-closes-ipo-at-95b-market-cap-kicking-off-2026-tech|Cerebras closes IPO at $95B market cap, kicking off 2026 tech IPO season]]
 - `2026-05-15` [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68|Cerebras Stages Largest US Tech IPO of 2026, Stock Surges 68% on Debut]]
 - `2026-05-15` [[2026-05-15-cerebras-ipo-stock-surges-68-in-2026-s-largest-tech-offering|Cerebras IPO: Stock Surges ~68% in 2026's Largest Tech Offering to Date]]
@@ -107,6 +112,7 @@ member_count: 128
 - `2026-05-05` [[2026-05-05-cerebras-prices-ipo-at-up-to-a-40b-valuation|Cerebras prices IPO at up to a $40B valuation]]
 - `2026-05-05` [[2026-05-05-ai-chip-maker-cerebras-systems-disclosed-ipo-terms-seeking-t|AI chip maker Cerebras Systems disclosed IPO terms seeking to raise up to $3.5B by selling 28 million shares at…]]
 - `2026-05-04` [[2026-05-04-trendingcerebras-ipo-on-track-seeking-3-5b-at-26-6b-valuatio|TrendingCerebras IPO on Track — Seeking $3.5B at $26.6B Valuation]]
+- `2026-05-04` [[2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo|TRENDINGCerebras on track for blockbuster IPO]]
 - `2026-05-04` [[2026-05-04-cerebras-prices-ipo-at-26-6b-valuation-seeks-3-5b|Cerebras prices IPO at $26.6B valuation, seeks $3.5B]]
 - `2026-05-03` [[2026-05-03-cerebras-formalizes-4b-ipo-targeting-a-40b-valuation|Cerebras formalizes $4B IPO targeting a $40B valuation]]
 - `2026-05-02` [[2026-05-02-may-1-2026-bloomberg|📅 May 1, 2026 📰 Bloomberg…]]

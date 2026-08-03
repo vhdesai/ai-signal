@@ -12,12 +12,11 @@ digest_source: digests\raw\2026-07-09_083415_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 2beb324cdbcadf14ba4cccaa14a876ee383c6407d48886a594a58214e6f62717
 normalized_title_hash: a9e3e87870eb96f3
 canonical_url_hash: 9e0759be5802ddf3
-tags:
-- Hot
+tags: []
 entities:
 - OpenAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model
@@ -34,6 +33,6 @@ Axios reported Commerce cleared OpenAI's GPT-5.6, but the White House told CNBC 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model]]
 <!-- graph:end -->

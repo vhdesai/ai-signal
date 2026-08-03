@@ -8,7 +8,7 @@ url_canonical: https://www.hpcwire.com/aiwire/
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: c2970421ef3ac3eca6804a299d7a5e2507e7fe192d89a3d8c1d0007eb31d7275
+content_hash: b5d63c84152c75d49c2c9affe816c58cda14cd8884926bbade9b1f11f7f616eb
 normalized_title_hash: d98655d094a6dfbc
 canonical_url_hash: 4feb40e0d1c8cc9f
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # ClickHouse Crosses $250M ARR, Launches Agentic Analytics at Open House 2026
 
-At its Open House 2026 user conference, ClickHouse disclosed it has crossed $250M ARR and shipped agentic analytics and benchmarking tools. The growth rate and product expansion put the company on a credible path to a 2026/2027 IPO conversation and confirms the analytics-database market is consolidating around real-time, AI-augmented query workloads.
+At its Open House 2026 user conference, ClickHouse disclosed it has crossed $250M ARR and shipped agentic analytics and benchmarking tools. The growth rate and product expansion put the company on a credible path to a 2026/2027 IPO conversation and confirms the analytics-database market is consolidating around real-time, AI-augmented query workloads. Industry & Business C BREAKING FUNDING
 
 <!-- graph:start -->
 ## Connections

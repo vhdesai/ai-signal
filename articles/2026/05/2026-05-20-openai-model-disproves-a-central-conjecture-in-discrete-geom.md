@@ -8,7 +8,7 @@ url_canonical: https://openai.com/news/
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: 90285ebd92bb8aed753ebf51aee467ec5751699e8d67c73a5d8cf260225c5837
+content_hash: 3a9fc82a5df825b5609380763f6fb5eb01d8eb7583de6fbf1f7c3db9d13746ca
 normalized_title_hash: 8a057bbbbcb1ea55
 canonical_url_hash: 36b87804a01a2d45
 tags: []
@@ -34,7 +34,7 @@ event_name: ''
 
 # OpenAI model disproves a central conjecture in discrete geometry
 
-"An OpenAI model has disproved a central conjecture in discrete geometry" — the system produced a counterexample to Paul Erdős's 1946 unit-distance conjecture, an 80-year-old open problem. The result lands alongside DeepMind's AlphaEvolve production update (genomics, grid optimization, quantum circuits) as evidence that AI-discovery loops are graduating from demo to verified research output. 6. AI Safety & Policy
+"An OpenAI model has disproved a central conjecture in discrete geometry" — the system produced a counterexample to Paul Erdős's 1946 unit-distance conjecture, an 80-year-old open problem. The result lands alongside DeepMind's AlphaEvolve production update (genomics, grid optimization, quantum circuits) as evidence that AI-discovery loops are graduating from demo to verified research output. 6. AI Safety & Policy BREAKING V A
 
 <!-- graph:start -->
 ## Connections

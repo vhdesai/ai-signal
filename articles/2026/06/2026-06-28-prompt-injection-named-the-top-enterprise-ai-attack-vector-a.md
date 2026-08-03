@@ -15,7 +15,7 @@ canonical_url_hash: 6650f116c8aeac1b
 tags: []
 entities: []
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ VentureBeat details how prompt injection — ranked LLM01 in the OWASP LLM Top 1
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-06-29-venturebeat-details-how-prompt-injection-remains-the-top-ent]] · [[2026-06-29-prompt-injection-is-exploiting-enterprise-ai-s-biggest-desig]] · [[2026-06-26-this-paper-examines-prompt-injection-attacks-against-llm-bas]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]]
 <!-- graph:end -->

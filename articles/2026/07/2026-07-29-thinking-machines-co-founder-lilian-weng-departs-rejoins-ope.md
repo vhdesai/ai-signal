@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/29/thinking-machines-co-founder-li
 url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: fd3216f2ea98d2800349be5f0e4570e9d54edee07134445e271c16a23de7e181
+content_hash: 1eb3eef865a3c8d212adef133084138a7c954784b05bc0f7737493dbff368029
 normalized_title_hash: 39d9c80c1428da7b
 canonical_url_hash: cd3a9a73777f2803
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Thinking Machines co-founder Lilian Weng departs, rejoins OpenAI
 
-Lilian Weng, co-founder of Thinking Machines, said she is stepping down citing the unsustainable stress and workload of startup life, and will rejoin OpenAI — where she previously served as VP of AI Safety Research. OpenAI told TechCrunch she will lead a top-level team focused on accelerating its internal research. The move underscores the continued reshuffling of senior AI talent among the frontier labs.
+Lilian Weng, co-founder of Thinking Machines, said she is stepping down citing the unsustainable stress and workload of startup life, and will rejoin OpenAI — where she previously served as VP of AI Safety Research. OpenAI told TechCrunch she will lead a top-level team focused on accelerating its internal research. The move underscores the continued reshuffling of senior AI talent among the frontier labs. G STRATEGY
 
 <!-- graph:start -->
 ## Connections

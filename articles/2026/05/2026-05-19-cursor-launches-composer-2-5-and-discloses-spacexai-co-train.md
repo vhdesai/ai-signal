@@ -9,7 +9,7 @@ url_canonical: https://indianexpress.com/article/technology/artificial-intellige
 url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
-content_hash: c77094a0815c0c2be36dbb132d885b56c71b34ac6f4ad5fd8d26a15f4a8a26b7
+content_hash: 2125ad95bbabfef6dcb978f92da107f12e24dc92d71aece81b335b8da34fcc30
 normalized_title_hash: e7ec4dc083f134d8
 canonical_url_hash: fc98005b60af348a
 tags:
@@ -34,7 +34,7 @@ event_name: ''
 
 # Cursor launches Composer 2.5 — and discloses SpaceXAI co-training and acquisition talks
 
-Cursor released Composer 2.5, a coding model optimized for long-running tasks with stronger instruction-following and lower token costs than competitive offerings. Alongside the launch, Cursor disclosed it is co-training a much larger model with SpaceXAI using 10× more compute via the Colossus 2 supercomputer — and that SpaceX has signaled intent to acquire Cursor later this year. The co-training arrangement is one of the most significant AI infrastructure partnerships to emerge outside the hyperscaler tier.
+Cursor released Composer 2.5, a coding model optimized for long-running tasks with stronger instruction-following and lower token costs than competitive offerings. Alongside the launch, Cursor disclosed it is co-training a much larger model with SpaceXAI using 10× more compute via the Colossus 2 supercomputer — and that SpaceX has signaled intent to acquire Cursor later this year. The co-training arrangement is one of the most significant AI infrastructure partnerships to emerge outside the hyperscaler tier. Research Breakthroughs DM G
 
 <!-- graph:start -->
 ## Connections

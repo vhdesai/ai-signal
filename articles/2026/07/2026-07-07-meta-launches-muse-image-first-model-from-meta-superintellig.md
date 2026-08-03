@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 10cd30a8d15dd85a8572e983093d983b76e32a99560556f17f729ce57351932d
 normalized_title_hash: 78faf2662787e101
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Meta
 - OpenAI

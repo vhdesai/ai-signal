@@ -18,6 +18,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +36,6 @@ Axios reported that the US Commerce Department cleared OpenAI to proceed with a 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model]]
 <!-- graph:end -->

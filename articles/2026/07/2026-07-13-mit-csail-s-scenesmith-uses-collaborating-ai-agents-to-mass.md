@@ -9,7 +9,7 @@ url_canonical: https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to
 url_status: found
 digest_source: digests\raw\2026-07-14_061116_Inbox_Daily AI News Digest - July 14,
   2026.md
-content_hash: 0fd5cf65f16bfe25f39ff1d54bc54df2509bc58790f318b368e07699adf3f6f5
+content_hash: b22f0daf85ee95a7e110742849003b27ca11ea80e8d58b1c2073b8a7a1b75a9e
 normalized_title_hash: d9dc662e161ecdfa
 canonical_url_hash: 7057161d98c69151
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # MIT CSAIL's “SceneSmith” uses collaborating AI agents to mass-produce robot-training worlds
 
-Researchers at MIT CSAIL and the Toyota Research Institute introduced SceneSmith, which orchestrates three vision-language-model agents — a “designer,” a “critic,” and an “orchestrator” — to auto-generate realistic, object-dense 3D indoor scenes for robot simulation. The team produced more than 1,300 scenes with up to six times more objects than prior methods, and pretrained robot policies operated in them without prior exposure. The work targets robotics' data bottleneck, letting teams validate control policies in simulation before real-world deployment; the main trade-off is slow per-scene generation.
+Researchers at MIT CSAIL and the Toyota Research Institute introduced SceneSmith, which orchestrates three vision-language-model agents — a “designer,” a “critic,” and an “orchestrator” — to auto-generate realistic, object-dense 3D indoor scenes for robot simulation. The team produced more than 1,300 scenes with up to six times more objects than prior methods, and pretrained robot policies operated in them without prior exposure. The work targets robotics' data bottleneck, letting teams validate control policies in simulation before real-world deployment; the main trade-off is slow per-scene generation. AI Safety & Policy Breaking Policy
 
 <!-- graph:start -->
 ## Connections

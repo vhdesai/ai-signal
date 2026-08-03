@@ -8,7 +8,7 @@ url_canonical: https://www.hpcwire.com/aiwire/
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: a2031828b8c227cb23ef7f91a408532fd60b2d786106cc0b78ad85b2aa18f015
+content_hash: c34fd811cb34edb280664117d4a7f6306da13e057618d9f38e32bdb516e52a4d
 normalized_title_hash: fb629abf010d0f53
 canonical_url_hash: 4feb40e0d1c8cc9f
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # JuliaHub Ships Dyad 3.0 — Agentic AI for Physics-Based Engineering
 
-JuliaHub announced general availability of Dyad 3.0, bringing agentic AI to physics-based engineering. The release targets simulation-heavy industries — automotive, aerospace, energy — and is one of the more notable vertical-AI launches in the window, bringing tool-augmented agents into model-based systems engineering workflows that have historically resisted ML augmentation.
+JuliaHub announced general availability of Dyad 3.0, bringing agentic AI to physics-based engineering. The release targets simulation-heavy industries — automotive, aerospace, energy — and is one of the more notable vertical-AI launches in the window, bringing tool-augmented agents into model-based systems engineering workflows that have historically resisted ML augmentation. Research Breakthroughs G
 
 <!-- graph:start -->
 ## Connections

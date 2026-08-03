@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-04-20-daily-ai-news-digest-prepared-april-20-2026
 - 2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-07-29-daily-ai-news-digest-july-30-2026
-- 2026-05-20-ai-news-digest-may-20-2026
+- 2026-05-17-microsoft-corp-dev-ai-intelligence
+- 2026-08-01-daily-ai-news-digest-august-1-2026
 embedding_id: 2026-05-17-this-edition-covers-ai-news-published-in-the-past-24-48-hour
 event_name: ''
 ---
@@ -43,5 +43,5 @@ This edition covers AI news published in the past 24–48 hours across monitored
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]]
+**Related:** [[2026-04-20-daily-ai-news-digest-prepared-april-20-2026]] · [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-05-17-microsoft-corp-dev-ai-intelligence]] · [[2026-08-01-daily-ai-news-digest-august-1-2026]]
 <!-- graph:end -->

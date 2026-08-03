@@ -8,10 +8,11 @@ url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-
 url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
-content_hash: 8ace7b7c5ec36d5e730c7aad023eb9df0449f2abf3609558f25e49fac5457e09
+content_hash: d681ea4a45bfa4fd7b82974fd10e0ade50672c4605ad29ceabf3ae7e0a6e0e7f
 normalized_title_hash: d8b546c40a55a738
 canonical_url_hash: d1757e92863383ad
-tags: []
+tags:
+- Breaking
 entities:
 - Amazon
 - Meta
@@ -29,7 +30,7 @@ event_name: ''
 
 # Nvidia partner Foxconn posts 52% June revenue jump on sustained AI-server demand
 
-Hon Hai (Foxconn), Nvidia’s key server-assembly partner, reported June revenue up 52%, implying June-quarter sales rose almost 40% to about NT$2.51T (~$79B) — above the ~NT$2.37T analyst consensus. The print is a clean, real-time read on hyperscale capex, with Alphabet, Amazon, Meta and Microsoft steering roughly $725B into AI this year. Server and cloud hardware has now overtaken smartphones in Foxconn’s mix, making it a direct proxy for the AI-datacenter buildout — even as overcapacity and monetization questions persist.
+Hon Hai (Foxconn), Nvidia’s key server-assembly partner, reported June revenue up 52%, implying June-quarter sales rose almost 40% to about NT$2.51T (~$79B) — above the ~NT$2.37T analyst consensus. The print is a clean, real-time read on hyperscale capex, with Alphabet, Amazon, Meta and Microsoft steering roughly $725B into AI this year. Server and cloud hardware has now overtaken smartphones in Foxconn’s mix, making it a direct proxy for the AI-datacenter buildout — even as overcapacity and monetization questions persist. Research Breakthroughs RESEARCH
 
 <!-- graph:start -->
 ## Connections

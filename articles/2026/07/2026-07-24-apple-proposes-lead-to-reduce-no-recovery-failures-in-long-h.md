@@ -15,7 +15,7 @@ tags: []
 entities:
 - Apple
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
@@ -32,6 +32,6 @@ Apple published LEAD, or Lookahead-Enhanced Atomic Decomposition, a method aimed
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]]
 <!-- graph:end -->

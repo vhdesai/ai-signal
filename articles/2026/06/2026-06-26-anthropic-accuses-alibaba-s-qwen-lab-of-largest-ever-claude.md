@@ -17,7 +17,7 @@ entities:
 - Alibaba
 - Anthropic
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +35,6 @@ In a letter to the Senate Banking Committee — dated June 10 and made public th
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi]]
 <!-- graph:end -->

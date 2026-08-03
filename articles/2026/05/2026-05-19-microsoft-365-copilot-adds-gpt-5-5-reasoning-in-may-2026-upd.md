@@ -18,7 +18,6 @@ entities:
 - OpenAI
 - xAI
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -41,6 +40,6 @@ Microsoft's May 2026 Copilot update brings GPT-5.5 reasoning into Microsoft 365 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-22-microsoft-rolled-out-its-may-2026-copilot-update-for-microso]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]] · [[2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res]] · [[2026-07-09-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-365]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

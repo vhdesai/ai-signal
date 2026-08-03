@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 - 2026-07-18-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
 - 2026-07-19-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively
+- 2026-08-01-minnesota-nudify-app-ban-remains-in-effect-after-judge-denie
 - 2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts
-- 2026-07-19-apple-and-google-are-ordered-to-purge-ai-nudify-apps-increas
 embedding_id: 2026-07-20-ai-nudify-app-enforcement-patreon-ai-bot-blocking-and-conten
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI nudify app enforcement, Patreon AI bot blocking, and content/data scraping di
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-18-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-19-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts]] · [[2026-07-19-apple-and-google-are-ordered-to-purge-ai-nudify-apps-increas]]
+**Related:** [[2026-07-17-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-18-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-07-19-patreon-moves-from-asking-ai-bots-not-to-scrape-to-actively]] · [[2026-08-01-minnesota-nudify-app-ban-remains-in-effect-after-judge-denie]] · [[2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts]]
 <!-- graph:end -->

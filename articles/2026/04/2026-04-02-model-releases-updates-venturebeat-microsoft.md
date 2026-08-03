@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-04-02-model-releases-updates
 - 2026-04-04-venturebeat-techcrunchapril-4-2026
 - 2026-05-22-model-releases-new-models-specialized-variants
 - 2026-04-06-venturebeat-april-5-2026
@@ -36,5 +37,5 @@ Model Releases & Updates VentureBeat · Microsoft
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-venturebeat-techcrunchapril-4-2026]] · [[2026-05-22-model-releases-new-models-specialized-variants]] · [[2026-04-06-venturebeat-april-5-2026]]
+**Related:** [[2026-04-02-model-releases-updates]] · [[2026-04-04-venturebeat-techcrunchapril-4-2026]] · [[2026-05-22-model-releases-new-models-specialized-variants]] · [[2026-04-06-venturebeat-april-5-2026]]
 <!-- graph:end -->

@@ -16,7 +16,7 @@ tags: []
 entities:
 - NVIDIA
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +38,6 @@ At Nvidia’s annual stockholder meeting, Jensen Huang said national security ta
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-05-15-breaking-nvidia-s-china-future-unclear-after-trump-xi-summit]] · [[2026-06-08-nvidia-ceo-declines-senate-testimony-on-ai-china-and-exports]] · [[2026-05-20-jensen-huang-publicly-concedes-china-ai-chip-market-to-huawe]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]]
 <!-- graph:end -->

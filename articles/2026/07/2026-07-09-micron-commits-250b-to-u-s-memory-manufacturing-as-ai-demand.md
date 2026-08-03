@@ -8,11 +8,10 @@ url_canonical: https://www.foxbusiness.com/media/micron-ceo-says-ai-boom-drives-
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: 0de842aa9dcc873e27855ffac1e96aed237dfa2af783b08fb1375e799e26f5a2
+content_hash: fb542253abeff2fbc8fedc07879b59acdfe4cbade5bd8081a17b84937b1b4738
 normalized_title_hash: ad7637a8f3316102
 canonical_url_hash: 6b8cd60e3e28cfc0
-tags:
-- Hot
+tags: []
 entities: []
 themes:
 - datacenter-infrastructure
@@ -31,7 +30,7 @@ event_name: ''
 
 # Micron commits $250B to U.S. memory manufacturing as AI demand shifts the bottleneck
 
-Micron detailed a $250 billion U.S. investment aimed at eventually producing 40% of its DRAM domestically. CEO Sanjay Mehrotra called memory demand “unprecedented,” with data centers now accounting for more than half of memory demand. The commitment shows the AI supply bottleneck moving from GPUs to high-bandwidth memory and DRAM.
+Micron detailed a $250 billion U.S. investment aimed at eventually producing 40% of its DRAM domestically. CEO Sanjay Mehrotra called memory demand “unprecedented,” with data centers now accounting for more than half of memory demand. The commitment shows the AI supply bottleneck moving from GPUs to high-bandwidth memory and DRAM. HOT MARKETS
 
 <!-- graph:start -->
 ## Connections

@@ -11,11 +11,10 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: d0c353b65c31a464dccd38dd9fea622feb6ede6c44463a983806dc6639e27964
 normalized_title_hash: 5de2f094faf10b76
 canonical_url_hash: 9a9aa0ede1301b0c
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -36,6 +35,6 @@ A potential Stripe acquisition of OpenRouter near $10 billion would value the mo
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in]] · [[2026-07-18-openrouter-reportedly-fields-multibillion-dollar-takeover-in]]
 <!-- graph:end -->

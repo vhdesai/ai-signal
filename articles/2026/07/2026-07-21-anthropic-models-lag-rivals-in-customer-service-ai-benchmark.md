@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4
 - 2026-05-16-trending-anthropic-overtakes-openai-in-u-s
 - 2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio
+- 2026-08-01-anthropic-institute-publishes-analysis-on-recursive-self-imp
 - 2026-05-08-anthropic-openai-both-form-asset-manager-joint-ventures-to-s
 embedding_id: 2026-07-21-anthropic-models-lag-rivals-in-customer-service-ai-benchmark
 event_name: ''
@@ -37,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]] · [[2026-05-16-trending-anthropic-overtakes-openai-in-u-s]] · [[2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio]] · [[2026-05-08-anthropic-openai-both-form-asset-manager-joint-ventures-to-s]]
+**Related:** [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]] · [[2026-05-16-trending-anthropic-overtakes-openai-in-u-s]] · [[2026-05-08-anthropic-adds-dreaming-outcomes-and-multiagent-orchestratio]] · [[2026-08-01-anthropic-institute-publishes-analysis-on-recursive-self-imp]] · [[2026-05-08-anthropic-openai-both-form-asset-manager-joint-ventures-to-s]]
 <!-- graph:end -->

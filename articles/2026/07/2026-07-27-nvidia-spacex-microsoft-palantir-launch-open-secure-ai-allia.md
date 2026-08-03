@@ -8,7 +8,7 @@ url_canonical: https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber
 url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 984f295f3f7b31d85c120ae41016aff376b99f6cd91420cc7a101024b9adc39b
+content_hash: a3bd56204e7cb36be5e2498a95fa1e21be6406406e6b80b225aa29198be1d514
 normalized_title_hash: ac717e4a76519eb1
 canonical_url_hash: 64eeef18cd78cd17
 tags: []
@@ -37,7 +37,7 @@ event_name: ''
 
 # Nvidia, SpaceX, Microsoft & Palantir launch Open Secure AI Alliance
 
-In the wake of the breach, an open-model AI-safety initiative launched to "remediate and disclose vulnerabilities using open technologies," per Nvidia. Founding members include Microsoft, SpaceX, and Palantir — notably not OpenAI, Google, or Anthropic — and the effort doubles as pushback against proposed curbs on Chinese open-weight models. The lineup underscores a widening rift over how open the AI-security stack should be.
+In the wake of the breach, an open-model AI-safety initiative launched to "remediate and disclose vulnerabilities using open technologies," per Nvidia. Founding members include Microsoft, SpaceX, and Palantir — notably not OpenAI, Google, or Anthropic — and the effort doubles as pushback against proposed curbs on Chinese open-weight models. The lineup underscores a widening rift over how open the AI-security stack should be. Hot Geopolitics
 
 <!-- graph:start -->
 ## Connections

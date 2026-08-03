@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 2
 content_hash: 00c479bc71edbc2bb15f04b04a6b87a22eb679462360df17d9d7c82366f1a2a8
 normalized_title_hash: 14dc7fcd96f09e99
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - DeepSeek
 - NVIDIA

@@ -15,8 +15,9 @@ tags: []
 entities:
 - Meta
 themes:
-- company-storylines
-cross_cutting_topics: []
+- model-capabilities
+cross_cutting_topics:
+- china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
@@ -37,6 +38,6 @@ Meta unveiled Muse Image (code-named “Mango”), a free AI image generator fro
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-07-07-meta-launches-muse-image-generator-amid-privacy-backlash]] · [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-backlas]] · [[2026-07-07-meta-launches-muse-image-generator-drawing-immediate-consent]] · [[2026-07-07-meta-launches-muse-image-generator-immediately-drawing-conse]] · [[2026-07-07-meta-launches-muse-image-first-model-from-meta-superintellig]]
 <!-- graph:end -->

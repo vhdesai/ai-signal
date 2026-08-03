@@ -9,14 +9,16 @@ url_canonical: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a
 url_status: found
 digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: 7769d51e9e7cb86fbb09c2ebc1862980ad1f873f1df837e38cb042b7d4b9bffa
+content_hash: c7dfd10e118e22db6ea10b7ad1879e41a2c16ecdef8c58d0d339efd0d3a22930
 normalized_title_hash: 0b4ba7ac09940017
 canonical_url_hash: 54a8803ad5837385
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - datacenter-infrastructure
-cross_cutting_topics: []
+cross_cutting_topics:
+- china-compete
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob
 related_article_ids: []
@@ -26,11 +28,11 @@ event_name: ''
 
 # single downed power line dropped 3.1 GW of data centers, exposing grid-stability risk
 
-A power-line fault outside Washington, D.C. on July 25 caused more than 3.1 GW of data-center load to disconnect within ~30 seconds, sending a ~3.49 GW surplus and voltage spike across the PJM grid from Northern Virginia to Chicago and taking ~11 minutes to stabilize. With PJM projecting data centers will grow from ~6% of load in 2024 to ~24% by 2040, mass simultaneous “defensive” disconnects during faults are becoming a systemic reliability concern. The episode strengthens the case for new interconnection standards and fault ride-through requirements before more AI capacity is added.
+A power-line fault outside Washington, D.C. on July 25 caused more than 3.1 GW of data-center load to disconnect within ~30 seconds, sending a ~3.49 GW surplus and voltage spike across the PJM grid from Northern Virginia to Chicago and taking ~11 minutes to stabilize. With PJM projecting data centers will grow from ~6% of load in 2024 to ~24% by 2040, mass simultaneous “defensive” disconnects during faults are becoming a systemic reliability concern. The episode strengthens the case for new interconnection standards and fault ride-through requirements before more AI capacity is added. INFRASTRUCTURESEMICONDUCTORSCHINA
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-07-25-fallen-power-line-exposes-ai-data-center-grid-stability-prob]]
 <!-- graph:end -->

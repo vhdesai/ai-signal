@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-- 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
-- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-06-18-ferc-fast-tracks-data-center-power-requests
+- 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
+- 2026-07-13-infrastructure-local-policy-data-centers
 embedding_id: 2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new
 event_name: ''
 ---
@@ -37,5 +36,5 @@ York becomes the first U.S. state to pause approvals for new hyperscale data cen
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-06-18-ferc-fast-tracks-data-center-power-requests]]
+**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-07-13-infrastructure-local-policy-data-centers]]
 <!-- graph:end -->

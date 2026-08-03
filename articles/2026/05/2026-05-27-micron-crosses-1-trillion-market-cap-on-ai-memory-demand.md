@@ -8,7 +8,7 @@ url_canonical: https://www.fool.com/coverage/stock-market-today/2026/05/27/stock
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: dc651e9696eb0a4e50e0e6fdac76e25ba562bba194ed5a84858a665ec0a64ef3
+content_hash: e428986e79556886378c6c194c3b0e02bd684166531239acfb25aaaea6387d6f
 normalized_title_hash: f3d95db947425462
 canonical_url_hash: 9ef35de529962607
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Micron Crosses $1 Trillion Market Cap on AI Memory Demand
 
-Micron Technology crossed a $1 trillion market capitalization during the May 27 session, becoming the latest pure-play AI infrastructure name to enter the four-comma club. Drivers cited: HBM3e supply tightness, hyperscaler capex commitments, and the structural shift toward memory-bandwidth-bound inference workloads. Notable that Micron's run kept AI chips in focus even as broader US benchmarks barely budged — the AI-infrastructure trade is once again decoupling from the rest of the tape.
+Micron Technology crossed a $1 trillion market capitalization during the May 27 session, becoming the latest pure-play AI infrastructure name to enter the four-comma club. Drivers cited: HBM3e supply tightness, hyperscaler capex commitments, and the structural shift toward memory-bandwidth-bound inference workloads. Notable that Micron's run kept AI chips in focus even as broader US benchmarks barely budged — the AI-infrastructure trade is once again decoupling from the rest of the tape. H A
 
 <!-- graph:start -->
 ## Connections

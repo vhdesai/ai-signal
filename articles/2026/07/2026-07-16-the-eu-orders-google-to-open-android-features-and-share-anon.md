@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios
 - 2026-07-17-eu-google-android-and-search-data-access-remedies-remain-par
+- 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
 - 2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f
-- 2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi
 embedding_id: 2026-07-16-the-eu-orders-google-to-open-android-features-and-share-anon
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The EU orders Google to open Android features and share anonymized search data w
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios]] · [[2026-07-17-eu-google-android-and-search-data-access-remedies-remain-par]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]]
+**Related:** [[2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios]] · [[2026-07-17-eu-google-android-and-search-data-access-remedies-remain-par]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]]
 <!-- graph:end -->

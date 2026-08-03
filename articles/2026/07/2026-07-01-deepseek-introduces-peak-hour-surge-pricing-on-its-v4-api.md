@@ -15,8 +15,7 @@ tags: []
 entities:
 - DeepSeek
 themes:
-- datacenter-infrastructure
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +37,6 @@ DeepSeek told API customers it will double V4 model prices during two Beijing pe
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-03-china-s-deepseek-v4-heads-to-official-release-with-peak-off]] · [[2026-05-23-deepseek-makes-its-75-v4-pro-discount-permanent]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: https://openai.com/index/chatgpt-for-your-most-ambitious-work/
 url_status: found
 digest_source: digests\raw\2026-07-10_061505_Inbox_Daily AI News Digest - July 10,
   2026.md
-content_hash: b5e866b5f3534da159c6a255bb4b61b390b5c424da58ce27a9a389ea59532d53
+content_hash: 7c4f557fe94fa79651e5ee9c6be6ad5a1f761cf0fce62f9a402bb289dc346508
 normalized_title_hash: a2aa096f68007999
 canonical_url_hash: 73199f93c3a0b1f9
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # ChatGPT is now a partner for your most ambitious work
 
-OpenAI introduced ChatGPT Work as an agentic work surface for longer-running tasks across apps, files, and business workflows. Although the official announcement sits just outside the strict timestamp window, the product was materially covered and tied to in-window GPT-5.6 rollout news; it is important because OpenAI is consolidating ChatGPT and Codex-style agent capabilities into a single enterprise work layer.
+OpenAI introduced ChatGPT Work as an agentic work surface for longer-running tasks across apps, files, and business workflows. Although the official announcement sits just outside the strict timestamp window, the product was materially covered and tied to in-window GPT-5.6 rollout news; it is important because OpenAI is consolidating ChatGPT and Codex-style agent capabilities into a single enterprise work layer. OPENAIDEUTSCHE-TELEKOMENTERPRISE-AI
 
 <!-- graph:start -->
 ## Connections

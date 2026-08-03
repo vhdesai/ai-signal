@@ -8,11 +8,10 @@ url_canonical: https://www.heise.de/en/news/Robostral-Navigate-Mistral-releases-
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: b1e14477df678f11228525c5ba3acad8e652beaadbc53636aedac58e5887325e
+content_hash: 2d9d063c54813bd8034c8025ac9a08ef364c36db286410513bcedbef097d60f4
 normalized_title_hash: 2ec6a9f0ffb2432e
 canonical_url_hash: ba709d623ee890b0
-tags:
-- New
+tags: []
 entities:
 - Mistral
 themes:
@@ -32,7 +31,7 @@ event_name: ''
 
 # Mistral enters physical AI with Robostral Navigate
 
-Mistral released Robostral Navigate, an 8B-parameter model that navigates robots using only a single RGB camera and natural-language instructions, without lidar or depth sensors. It reports a 76.6% success rate on R2R-CE, nearly 10 points above the best prior single-camera approach. The hardware-agnostic design marks Mistral's push into robotics and physical AI.
+Mistral released Robostral Navigate, an 8B-parameter model that navigates robots using only a single RGB camera and natural-language instructions, without lidar or depth sensors. It reports a 76.6% success rate on R2R-CE, nearly 10 points above the best prior single-camera approach. The hardware-agnostic design marks Mistral's push into robotics and physical AI. Products & Tools NEW ENTERPRISE AGENTS
 
 <!-- graph:start -->
 ## Connections

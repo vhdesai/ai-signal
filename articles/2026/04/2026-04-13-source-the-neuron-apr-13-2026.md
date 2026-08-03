@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
+- 2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due
 - 2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum
 - 2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c
 - 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
-- 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 embedding_id: 2026-04-13-source-the-neuron-apr-13-2026
 event_name: ''
 ---
@@ -37,5 +37,5 @@ U.S.–EU Regulatory Divergence Deepens; AI Sovereignty Becomes Global Organizin
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]]
+**Related:** [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-07-31-europe-s-ai-safety-playbook-looms-over-the-u-s-framework-due]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-05-03-global-regulatory-snapshot-eu-ai-act-u-s-federal-framework-c]] · [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]]
 <!-- graph:end -->

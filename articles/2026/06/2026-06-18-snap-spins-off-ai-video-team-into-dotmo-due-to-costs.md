@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-products-tools
+- 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 - 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 - 2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai
 embedding_id: 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Snap is spinning off an AI video team into a new company, Dotmo, with cost press
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-01-products-tools]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-10-hugging-face-ceo-enterprises-are-done-renting-their-ai]]
+**Related:** [[2026-04-01-products-tools]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]] · [[2026-05-21-google-s-consumer-agent-pitch-after-i-o-skepticism-mounting]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
 <!-- graph:end -->

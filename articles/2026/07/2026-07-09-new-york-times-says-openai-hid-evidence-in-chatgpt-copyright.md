@@ -15,7 +15,7 @@ tags: []
 entities:
 - OpenAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ The New York Times and The Daily News filed a sanctions motion alleging OpenAI c
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
 <!-- graph:end -->

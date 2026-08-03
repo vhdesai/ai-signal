@@ -15,6 +15,7 @@ tags: []
 entities:
 - Alibaba
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -38,6 +39,6 @@ Singapore-based PixVerse said it closed a Series C extension totaling $439 milli
 ## Connections
 
 **Entities:** [[Alibaba]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-13-pixverse-raises-439m-ai-video-valuation-crosses-2b]] · [[2026-07-13-pixverse-raises-439m-as-ai-video-valuation-crosses-2b]] · [[2026-07-13-video-generation-startup-pixverse-raises-439m-valuation-tops]] · [[2026-07-14-pixverse-raises-439-million-as-valuation-passes-2-billion]] · [[2026-07-14-video-generation-startup-pixverse-raises-439m-at-a-2b-valuat]]
 <!-- graph:end -->

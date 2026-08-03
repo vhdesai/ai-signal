@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
-content_hash: 4e7660a157fe944433a075b71e59a8ebb60d2ce5b181ed7a0a1f63ba6654818a
+content_hash: 213c55c44a0fa36bd456eedc218d247801ecec10d759c60528f59e874082a8e0
 normalized_title_hash: 6ee894da8c16bfcc
 canonical_url_hash: ''
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # Anthropic Closing $30B Round at $900B Valuation — Surpasses OpenAI's $852B
 
-Anthropic has agreed terms on a $30 billion fundraising round at a $900 billion pre-money valuation — surpassing rival OpenAI's most recent $852B mark. The round is led by Dragoneer, Greenoaks, Sequoia Capital, and Altimeter Capital, each contributing at least $2B. The raise moved at extraordinary speed: investor outreach began only weeks ago, and the deal is expected to close this month. The total Disruptor 50 list now shows Anthropic and OpenAI together accounting for most of a $2.4T combined valuation across the 50 companies.
+Anthropic has agreed terms on a $30 billion fundraising round at a $900 billion pre-money valuation — surpassing rival OpenAI's most recent $852B mark. The round is led by Dragoneer, Greenoaks, Sequoia Capital, and Altimeter Capital, each contributing at least $2B. The raise moved at extraordinary speed: investor outreach began only weeks ago, and the deal is expected to close this month. The total Disruptor 50 list now shows Anthropic and OpenAI together accounting for most of a $2.4T combined valuation across the 50 companies. IL TC Trending Funding
 
 <!-- graph:start -->
 ## Connections

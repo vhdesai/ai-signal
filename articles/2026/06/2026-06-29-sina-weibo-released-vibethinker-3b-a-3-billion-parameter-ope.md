@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-sina-s-open-vibethinker-3b-shows-reasoning-compresses-into-s
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
-- 2026-07-27-kimi-k3-weights-go-live-the-largest-open-model-ever-at-2-8t
+- 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 embedding_id: 2026-06-29-sina-weibo-released-vibethinker-3b-a-3-billion-parameter-ope
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Sina Weibo released VibeThinker‑3B, a 3-billion-parameter open model that matc
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-29-sina-s-open-vibethinker-3b-shows-reasoning-compresses-into-s]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-07-27-kimi-k3-weights-go-live-the-largest-open-model-ever-at-2-8t]]
+**Related:** [[2026-06-29-sina-s-open-vibethinker-3b-shows-reasoning-compresses-into-s]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]]
 <!-- graph:end -->

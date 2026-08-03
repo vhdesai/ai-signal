@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-08-02-anthropic-and-openai-models-breached-real-companies-during-s
 - 2026-05-08-anthropic-openai-both-form-asset-manager-joint-ventures-to-s
-- 2026-05-16-trending-anthropic-overtakes-openai-in-u-s
 embedding_id: 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic and OpenAI are reported to split on AI regulation strategy: state-by-s
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-05-08-anthropic-openai-both-form-asset-manager-joint-ventures-to-s]] · [[2026-05-16-trending-anthropic-overtakes-openai-in-u-s]]
+**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-08-02-anthropic-and-openai-models-breached-real-companies-during-s]] · [[2026-05-08-anthropic-openai-both-form-asset-manager-joint-ventures-to-s]]
 <!-- graph:end -->

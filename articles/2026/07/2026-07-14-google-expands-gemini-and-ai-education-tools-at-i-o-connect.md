@@ -15,6 +15,8 @@ tags: []
 entities:
 - Google
 themes:
+- datacenter-infrastructure
+- policy-regulation
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -32,6 +34,6 @@ At Google I/O Connect India 2026 in Bengaluru, Google unveiled a slate of AI ini
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
 <!-- graph:end -->

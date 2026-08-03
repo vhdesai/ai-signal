@@ -11,13 +11,13 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: f9e857c002a9d63d6906a7684e5e7c5f9812ce52ae73ddb1b4b2c6b9e0a1f43a
 normalized_title_hash: 29ab4fad3fb86a6d
 canonical_url_hash: 45d6c7481a2c4236
-tags: []
+tags:
+- Breaking
 entities:
 - NVIDIA
 - OpenAI
 themes:
 - policy-regulation
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
@@ -34,6 +34,6 @@ The OpenAI breach is intensifying the open-source AI policy debate, and dozens o
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]]
 <!-- graph:end -->

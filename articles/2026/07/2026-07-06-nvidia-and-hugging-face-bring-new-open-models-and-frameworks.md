@@ -15,7 +15,8 @@ tags: []
 entities:
 - NVIDIA
 themes:
-- company-storylines
+- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero
@@ -32,6 +33,6 @@ NVIDIA and Hugging Face announced new open models and frameworks for LeRobot, ai
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]]
 <!-- graph:end -->

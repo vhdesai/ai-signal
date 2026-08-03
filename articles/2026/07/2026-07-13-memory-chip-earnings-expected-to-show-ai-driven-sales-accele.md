@@ -11,20 +11,20 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: a76a6729fd0a2e769a244d9bf6ab67595ec0fb5662c0778bf440e7d81a4dac68
 normalized_title_hash: 8ce0f466524bc8db
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
-- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-13-semiconductors-earnings-ai-supply-chain
 - 2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
 embedding_id: 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
 event_name: ''
 ---
@@ -36,6 +36,6 @@ Memory-chip companies are expected to post large sales gains as earnings season 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-06-24-memory-chips-turn-from-cyclical-to-high-growth-on-the-ai-bui]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

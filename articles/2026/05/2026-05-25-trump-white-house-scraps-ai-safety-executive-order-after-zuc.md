@@ -9,11 +9,10 @@ url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: fd814d226617f1edd519f53b50769cdd1ae14faae1c83b69df8ec7f28cc28d30
+content_hash: 5f637174efba8df4e66aa4cb38c57b5afae9d4e221f1bdb2f11645027951fe58
 normalized_title_hash: 69ddc3bf4ca1d225
 canonical_url_hash: b203a0955f6daec3
-tags:
-- Hot
+tags: []
 entities:
 - Anthropic
 themes:
@@ -32,7 +31,7 @@ event_name: ''
 
 # Trump White House scraps AI safety executive order after Zuckerberg, Musk, Sacks call directly
 
-President Trump abruptly canceled the signing of an AI executive order, telling reporters it risked undermining America's competitive edge. The order would have created a pre-release vetting process for advanced models — a direct response to security concerns triggered by Anthropic's Claude Mythos. Axios reported that Mark Zuckerberg, Elon Musk, and David Sacks called the president directly in the hours before the scheduled signing. A White House source said Trump "just hates regulation." The vacuum leaves California (SB 1047 successors) and the EU AI Act to fill the federal gap.
+President Trump abruptly canceled the signing of an AI executive order, telling reporters it risked undermining America's competitive edge. The order would have created a pre-release vetting process for advanced models — a direct response to security concerns triggered by Anthropic's Claude Mythos. Axios reported that Mark Zuckerberg, Elon Musk, and David Sacks called the president directly in the hours before the scheduled signing. A White House source said Trump "just hates regulation." The vacuum leaves California (SB 1047 successors) and the EU AI Act to fill the federal gap. O G
 
 <!-- graph:start -->
 ## Connections

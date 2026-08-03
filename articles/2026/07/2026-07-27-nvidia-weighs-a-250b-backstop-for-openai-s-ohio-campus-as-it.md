@@ -9,10 +9,11 @@ url_canonical: https://finance.yahoo.com/technology/ai/articles/nvidia-750-billi
 url_status: found
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: f423504d52c64d95e52dc9d63a5034e9045ddf6cab68b97480bdf2d388d30cdf
+content_hash: d953802cad106f68df7fc55ea3474aae29d810fc53feb15f8cd32b88b5b32b37
 normalized_title_hash: 3e711ba5a5b00021
 canonical_url_hash: 3ce33edd72bbaf51
-tags: []
+tags:
+- Hot
 entities:
 - NVIDIA
 - OpenAI
@@ -28,7 +29,7 @@ event_name: ''
 
 # Nvidia weighs a ~$250B backstop for OpenAI's Ohio campus as its deal spree revives “circular financing” fears
 
-Bloomberg reports Nvidia is assembling a fresh round of AI-infrastructure deals potentially worth more than $750 billion, reviving concern that the chipmaker is financing the very demand for its own product. The centerpiece, first reported by The Wall Street Journal on July 26, is a proposed ~$250 billion financing guarantee to help OpenAI lease a 10-gigawatt data center on a former uranium-enrichment site in Piketon, Ohio, alongside separate talks of up to ~$350 billion in chip financing. For executives, a supplier underwriting its customer's demand is the clearest sign yet that the buildout has outgrown any single balance sheet — a structure skeptics including Michael Burry have flagged as classic vendor financing. Reuters could not independently confirm the WSJ figures, so treat the specifics as credible reporting rather than a closed deal.
+Bloomberg reports Nvidia is assembling a fresh round of AI-infrastructure deals potentially worth more than $750 billion, reviving concern that the chipmaker is financing the very demand for its own product. The centerpiece, first reported by The Wall Street Journal on July 26, is a proposed ~$250 billion financing guarantee to help OpenAI lease a 10-gigawatt data center on a former uranium-enrichment site in Piketon, Ohio, alongside separate talks of up to ~$350 billion in chip financing. For executives, a supplier underwriting its customer's demand is the clearest sign yet that the buildout has outgrown any single balance sheet — a structure skeptics including Michael Burry have flagged as classic vendor financing. Reuters could not independently confirm the WSJ figures, so treat the specifics as credible reporting rather than a closed deal. FUNDING
 
 <!-- graph:start -->
 ## Connections

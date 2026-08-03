@@ -8,7 +8,7 @@ url_canonical: https://aiweekly.co/
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: 1223322121af507100a4639ea74fa10443f310b77dbc448d6b0ab1c8d9e7b79d
+content_hash: 6fddfabc3a3ad2cd3e328817cadfcf3aca3508da31d9e0a8b3f382ce9f04a9d2
 normalized_title_hash: 1b00eb930ac8cce5
 canonical_url_hash: 1dd91e7e2feaf9d8
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Demis Hassabis Pulls AGI Timeline Forward to "Real Possibility by 2029"
 
-DeepMind CEO Demis Hassabis moved his stated AGI timeline from "five to ten years" to "a real possibility by 2029" on the Big Technology Podcast, tying the revision explicitly to AlphaProof Nexus solving nine open Erdős problems and 44 OEIS conjectures for "the cost of a steak dinner" per problem. He simultaneously cautioned that current systems are "nowhere near" AGI — accelerating the timeline while denying current AGI is itself the news.
+DeepMind CEO Demis Hassabis moved his stated AGI timeline from "five to ten years" to "a real possibility by 2029" on the Big Technology Podcast, tying the revision explicitly to AlphaProof Nexus solving nine open Erdős problems and 44 OEIS conjectures for "the cost of a steak dinner" per problem. He simultaneously cautioned that current systems are "nowhere near" AGI — accelerating the timeline while denying current AGI is itself the news. G RESEARCH
 
 <!-- graph:start -->
 ## Connections

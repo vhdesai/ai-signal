@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 81c464a9c6424ea7ebfe151009e027aa1566ebca2f7e3169274f1474bb5924ee
 normalized_title_hash: a6f95bdb50752bb2
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - DeepSeek
 - Google

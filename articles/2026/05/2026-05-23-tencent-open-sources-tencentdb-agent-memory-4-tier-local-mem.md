@@ -8,7 +8,7 @@ url_canonical: https://www.marktechpost.com/
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: 51efcffd626ceee34499bc1469ad7ac0c6c09b8173a66b687007ff7f1ebcbb44
+content_hash: dbccd0b85f249750490f98e6eae477de7d3c0eb81b28a578f2a5b32a2353fa14
 normalized_title_hash: 948911b590bb5910
 canonical_url_hash: df49ec7b07c297a4
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Tencent open-sources TencentDB Agent Memory — 4-tier local memory pipeline
 
-Tencent open-sourced TencentDB Agent Memory, a 4-tier local memory pipeline for AI agents combining hot working memory, episodic memory, semantic memory, and archival memory. The release joins a small but growing canon of open agent-memory primitives (CopilotKit, mem0, LangGraph state).
+Tencent open-sourced TencentDB Agent Memory, a 4-tier local memory pipeline for AI agents combining hot working memory, episodic memory, semantic memory, and archival memory. The release joins a small but growing canon of open agent-memory primitives (CopilotKit, mem0, LangGraph state). G A C
 
 <!-- graph:start -->
 ## Connections

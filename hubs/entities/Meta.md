@@ -1,20 +1,33 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 497
+member_count: 512
 ---
 
 # Meta
 
-> Auto-generated entity hub. 497 connected article(s).
+> Auto-generated entity hub. 512 connected article(s).
 
+- `2026-08-03` [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-03] [EXTERNAL] The latest news on Meta Platforms Inc]]
+- `2026-08-03` [[2026-08-03-cuspai-hits-2-6b-valuation-as-bezos-nvidia-and-meta-back-ai|CuspAI hits $2.6B valuation as Bezos, Nvidia and Meta back AI-driven chip-materials research]]
+- `2026-08-01` [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-01] [EXTERNAL] The latest news on Amazon.com Inc]]
+- `2026-08-01` [[2026-08-01-meta-signals-up-to-145b-in-2026-ai-infrastructure-spending|Meta signals up to ~$145B in 2026 AI infrastructure spending]]
+- `2026-08-01` [[2026-08-01-meta-reaffirms-up-to-145b-in-2026-ai-capex-and-fields-premiu|Meta reaffirms up to $145B in 2026 AI capex and fields premium bids for spare compute]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins|Wall Street Journal / WSJ - [2026-07-31] [EXTERNAL] The 10-Point: Inside Trump’s Unprecedented Fundraising Blitz -…]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-31` [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai|Capex vs. Cash Flow: Big Tech Doubles Down on AI]]
 - `2026-07-30` [[2026-07-30-thursday-july-30-2026|Thursday, July 30, 2026]]
 - `2026-07-30` [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta|Microsoft shows AI capex with operating leverage while Meta stumbles]]
 - `2026-07-30` [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore|Meta’s AI spending pressures free cash flow while it explores compute monetization]]
+- `2026-07-30` [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla|Meta raises the floor on AI spending as free cash flow collapses 91%]]
 - `2026-07-30` [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea|Meta in Talks to Lease Excess AI Compute to Anthropic in Deal Worth Up to $10 Billion]]
 - `2026-07-30` [[2026-07-30-meta-q4-profit-falls-14-free-cash-flow-plunges-91-as-capex-n|Meta Q4: Profit Falls 14%, Free Cash Flow Plunges 91% as Capex Nearly Doubles]]
+- `2026-07-30` [[2026-07-30-meta-q2-revenue-28-but-ai-capex-raised-to-130-145b|Meta Q2: revenue +28% but AI capex raised to $130–145B]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-30` [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff|Capex Reckoning: Hyperscalers Split on AI Payoff]]
 - `2026-07-30` [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to|Business Insider - [2026-07-30] [EXTERNAL] Today: Meta wants you to trust in Zuck - [2026-07-30] [EXTERNAL] ‘The Diary…]]
+- `2026-07-30` [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai|Amazon's cloud surge wins over Wall Street despite higher AI capex]]
 - `2026-07-29` [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey|Zuckerberg says Meta's enterprise-AI opportunity extends beyond agents]]
 - `2026-07-29` [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi|Zuckerberg predicts billions will have personal AI agents within five years]]
 - `2026-07-29` [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag|Zuckerberg frames Meta's enterprise-AI opportunity beyond agents — APIs and selling compute]]
@@ -76,6 +89,7 @@ member_count: 497
 - `2026-07-13` [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c|Meta pours an additional $40B into its Hyperion data-center campus in Louisiana]]
 - `2026-07-13` [[2026-07-13-meta-patent-describes-an-always-listening-ai-that-infers-and|Meta patent describes an always‑listening AI that infers and logs your emotions]]
 - `2026-07-13` [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor|Meta expands Louisiana Hyperion supercluster to 5 GW and more than $50B]]
+- `2026-07-13` [[2026-07-13-infrastructure-meta-capex|INFRASTRUCTURE META CAPEX]]
 - `2026-07-13` [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu|EU forces Meta to readmit ChatGPT to WhatsApp as AI distribution battles intensify]]
 - `2026-07-13` [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-distribution-b|EU Forces Meta to Readmit ChatGPT to WhatsApp; Distribution Battles Intensify]]
 - `2026-07-13` [[2026-07-13-daily-ai-news-digest-monday-july-13-2026-12-items-source-win|Daily AI News Digest Monday, July 13, 2026 · 12 items · Source window: July 12–13, 2026]]
@@ -186,6 +200,7 @@ member_count: 497
 - `2026-06-29` [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits|Google capped Meta's Gemini usage as the compute crunch hits even hyperscalers]]
 - `2026-06-29` [[2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met|Google DeepMind's coding pivot triggers talent exodus to Meta, OpenAI, Anthropic Tech Times • June 28, 2026]]
 - `2026-06-29` [[2026-06-29-daily-ai-news-digest-june-29-2026|Daily AI News Digest – June 29, 2026]]
+- `2026-06-29` [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip|Baidu jumps 7% as chip arm Kunlunxin targets ~$50B Hong Kong IPO]]
 - `2026-06-29` [[2026-06-29-a-structural-look-at-deepmind-s-sharpest-talent-losses-in-ye|A structural look at DeepMind's sharpest talent losses in years: Denny Zhou and Dawn Song to Meta's Superintelligence…]]
 - `2026-06-28` [[2026-06-28-products-tools-new-meta-open-sources-astryx-an-agent-readabl|Products & Tools New Meta open-sources Astryx, an agent-readable React design system with CLI and MCP server…]]
 - `2026-06-28` [[2026-06-28-per-a-financial-times-report-google-told-meta-around-march-t|Per a Financial Times report, Google told Meta around March that it could not supply the full Gemini capacity Meta…]]

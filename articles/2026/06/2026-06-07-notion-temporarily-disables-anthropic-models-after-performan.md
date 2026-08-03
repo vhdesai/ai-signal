@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
 - 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
+- 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
 - 2026-06-06-anthropic-suffers-multi-model-claude-outage
-- 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
 embedding_id: 2026-06-07-notion-temporarily-disables-anthropic-models-after-performan
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Notion temporarily disabled Anthropic model access after service disruptions. Th
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
+**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
 <!-- graph:end -->

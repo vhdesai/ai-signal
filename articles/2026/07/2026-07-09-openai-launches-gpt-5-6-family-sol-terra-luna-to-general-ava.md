@@ -8,7 +8,7 @@ url_canonical: https://openai.com/index/gpt-5-6/
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: 791117cd77bcf149a6276e6ad695e4ecfd67bd1a8c0c089444be4196ccbb8c07
+content_hash: 35cc54266fa8b4649a536dbc3f9c8d1d39215b9e7131af8feafec5e2a68a653c
 normalized_title_hash: 737ca814574a4e3a
 canonical_url_hash: caaa735c832bdb26
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # OpenAI launches GPT-5.6 family — Sol, Terra, Luna — to general availability
 
-OpenAI moved GPT-5.6 to GA after a two-week restricted preview tied to U.S. cybersecurity review. The family has three tiers — flagship Sol, mid-range Terra, and budget Luna — with Sol positioned as OpenAI's strongest coding, cybersecurity, and scientific reasoning model. OpenAI says Sol edges Anthropic's Fable 5 on a coding-agent index while costing less.
+OpenAI moved GPT-5.6 to GA after a two-week restricted preview tied to U.S. cybersecurity review. The family has three tiers — flagship Sol, mid-range Terra, and budget Luna — with Sol positioned as OpenAI's strongest coding, cybersecurity, and scientific reasoning model. OpenAI says Sol edges Anthropic's Fable 5 on a coding-agent index while costing less. NEW PRICE WAR
 
 <!-- graph:start -->
 ## Connections

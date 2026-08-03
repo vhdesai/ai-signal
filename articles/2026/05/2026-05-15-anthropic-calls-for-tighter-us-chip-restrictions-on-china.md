@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
+- 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
-- 2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing
 embedding_id: 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Anthropic publicly urged Washington to tighten restrictions on advanced US chip 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-07-03-alibaba-to-bar-employees-from-anthropic-s-claude-code-citing]]
+**Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-07-03-anthropic-moves-to-close-loopholes-that-let-chinese-firms-ac]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 555f487a15fde185316a3c9cb6f9b322433d562014a667542e1a6fb3edf5eff6
+content_hash: 5d401c9fd2316ae5246767c436cd96309fb9625374a79969e1df4b03cfe00c34
 normalized_title_hash: 905f48a9265635fc
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Princeton: Privileged Self-Distillation Can Degrade Reasoning Models
 
-A Princeton team shows that "privileged" self-distillation — letting a model teach itself using access to a problem's solution — can actually degrade reasoning ("thinking") models, with up to a 17% relative drop in accuracy across five Qwen3 and OLMo models on AIME24, AIME25, and HMMT25. The damage grows the more privileged context is withheld from the student and is worst at long reasoning budgets. Diagnostics link the failure to suppressed verification, backtracking, and hedging — implying distillation for strong reasoners must preserve token-level signal around self-correction. Read the paper on arXiv →https://arxiv.org/abs/2607.05184
+A Princeton team shows that "privileged" self-distillation — letting a model teach itself using access to a problem's solution — can actually degrade reasoning ("thinking") models, with up to a 17% relative drop in accuracy across five Qwen3 and OLMo models on AIME24, AIME25, and HMMT25. The damage grows the more privileged context is withheld from the student and is worst at long reasoning budgets. Diagnostics link the failure to suppressed verification, backtracking, and hedging — implying distillation for strong reasoners must preserve token-level signal around self-correction. Read the paper on arXiv →https://arxiv.org/abs/2607.05184 NEW Security
 
 <!-- graph:start -->
 ## Connections

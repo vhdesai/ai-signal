@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total
 - 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
+- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
 - 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
-- 2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i
-- 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
+- 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 embedding_id: 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 event_name: ''
 ---
@@ -41,5 +41,5 @@ data shows Microsoft has earned more than $30B in revenue from OpenAI-tied servi
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]]
+**Related:** [[2026-05-14-microsoft-discloses-it-has-spent-more-than-100-billion-total]] · [[2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]]
 <!-- graph:end -->

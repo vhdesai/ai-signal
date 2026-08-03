@@ -16,6 +16,7 @@ tags: []
 entities: []
 themes:
 - policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Australia's assistant technology minister, Andrew Charlton, warned that AI syste
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis]] · [[2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
 <!-- graph:end -->

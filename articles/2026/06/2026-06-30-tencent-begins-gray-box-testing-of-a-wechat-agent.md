@@ -8,13 +8,14 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-01_060607_Inbox_Daily AI News Digest - July 1,
   2026.md
-content_hash: 1acdb94b93bb591e840933f183ea1b1c357ee9e62d4515308d59a13536c8d0c2
+content_hash: d352b00523fc270a6b8ea4d8a6e507da7dcff65ad3fb769d67fc37175a3ab217
 normalized_title_hash: 275efd58307d8897
 canonical_url_hash: ''
 tags: []
 entities:
 - Tencent
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -31,12 +32,12 @@ event_name: ''
 
 # Tencent begins gray-box testing of a WeChat Agent
 
-Tencent shares rose about 2.3% on June 30 as gray-box testing began for a "WeChat Agent," with analysts highlighting WeChat's portal value in the AI era. It is an early-stage product signal rather than a formal launch. (Single-source report; directional.) https://www.newtimespace.com/en/research/1420686.html
+Tencent shares rose about 2.3% on June 30 as gray-box testing began for a "WeChat Agent," with analysts highlighting WeChat's portal value in the AI era. It is an early-stage product signal rather than a formal launch. (Single-source report; directional.) https://www.newtimespace.com/en/research/1420686.html Academic Research ACADEMIC
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-03-10-tencent-joins-china-s-ai-agent-race-with-top-secret-wechat-p]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-07-07-tencent-launches-hunyuan-hy3-a-295b-parameter-moe-tuned-for]]
 <!-- graph:end -->

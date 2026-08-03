@@ -15,15 +15,16 @@ tags: []
 entities: []
 themes:
 - datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-eliyan-hits-unicorn-status-with-145m-to-fix-the-ai-chip-inte
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
+- 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 - 2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation
 - 2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 embedding_id: 2026-07-29-eliyan-hits-unicorn-status-with-145m-series-c-for-ai-chip-in
 event_name: ''
 ---
@@ -35,6 +36,6 @@ Chip-connectivity startup Eliyan reached unicorn status with a $145M Series C le
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-eliyan-hits-unicorn-status-with-145m-to-fix-the-ai-chip-inte]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
+**Related:** [[2026-07-29-eliyan-hits-unicorn-status-with-145m-to-fix-the-ai-chip-inte]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]] · [[2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r]]
 <!-- graph:end -->

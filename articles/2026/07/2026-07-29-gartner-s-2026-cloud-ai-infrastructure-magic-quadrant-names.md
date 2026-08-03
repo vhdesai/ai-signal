@@ -9,7 +9,7 @@ url_canonical: https://www.crn.com/news/ai/2026/aws-google-oracle-microsoft-top-
 url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: aa3fd5d73d81a35e38ac42300e1167c63809ae954d9c3255eb54d90a217fb38e
+content_hash: 092e0ac19d645a2106070ed1276a4c0f95c108dfe26ab1535c3f3bb3a61c0952
 normalized_title_hash: 28ed56d9d3af4de1
 canonical_url_hash: 212d9242eadeda8b
 tags: []
@@ -20,7 +20,7 @@ entities:
 - Oracle
 - Tencent
 themes:
-- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -32,12 +32,12 @@ event_name: ''
 
 # Gartner's 2026 Cloud AI Infrastructure Magic Quadrant names AWS, Google, Microsoft, Oracle as leaders
 
-Gartner's 2026 Magic Quadrant for Cloud AI Infrastructure ranks 17 providers, placing AWS, Google, Microsoft, and Oracle in the Leaders quadrant, with CoreWeave, Nebius, and Crusoe among Visionaries and Vultr, OVHcloud, and Tencent Cloud as Challengers. The map reflects how quickly specialized "neocloud" GPU providers have entered the enterprise consideration set. For buyers, it's a signal to weigh niche GPU clouds alongside incumbents on capacity and price.
+Gartner's 2026 Magic Quadrant for Cloud AI Infrastructure ranks 17 providers, placing AWS, Google, Microsoft, and Oracle in the Leaders quadrant, with CoreWeave, Nebius, and Crusoe among Visionaries and Vultr, OVHcloud, and Tencent Cloud as Challengers. The map reflects how quickly specialized "neocloud" GPU providers have entered the enterprise consideration set. For buyers, it's a signal to weigh niche GPU clouds alongside incumbents on capacity and price. Research Breakthroughs RESEARCH
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[Oracle]] · [[Tencent]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]]
 <!-- graph:end -->

@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June
 content_hash: 9e3b04eed94304495f570ad28d461b35e6920ad199d57b0fb1f9422c0aaf0cc8
 normalized_title_hash: 1db91b50b11c9727
 canonical_url_hash: fe2ec096bd3bee3d
-tags: []
+tags:
+- Breaking
 entities: []
 themes:
 - policy-regulation

@@ -15,7 +15,6 @@ tags: []
 entities: []
 themes:
 - model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +34,6 @@ Cognition, maker of the Devin coding agent, launched Devin Security Swarm, which
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-01-cognition-launches-devin-security-swarm-to-attack-the-vulner]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]]
 <!-- graph:end -->

@@ -8,14 +8,14 @@ url_canonical: https://investors.terawulf.com/news-events/press-releases/detail/
 url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: e1c53a160d13aedb53bbb1cde5837b2e534aff80424086615eb0b235df963d7e
+content_hash: acac8417418e796e1633ad30c96931773103b21f25cabeb68565e6859fa6658c
 normalized_title_hash: ad259d5545c77cad
 canonical_url_hash: a7da2fa1b3420932
 tags: []
 entities:
 - Anthropic
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,12 +30,12 @@ event_name: ''
 
 # TeraWulf announces Anthropic lease at Justified Data Campus
 
-Anthropic signed a 20-year lease tied to a 401-megawatt AI infrastructure campus in Kentucky, expected to generate about $19 billion in contracted lease revenue over the initial term. The scale and duration show frontier-model companies are increasingly treating power and data-center access as strategic balance-sheet commitments, not short-term cloud procurement.
+Anthropic signed a 20-year lease tied to a 401-megawatt AI infrastructure campus in Kentucky, expected to generate about $19 billion in contracted lease revenue over the initial term. The scale and duration show frontier-model companies are increasingly treating power and data-center access as strategic balance-sheet commitments, not short-term cloud procurement. SAMSUNGHBMAI-INFRASTRUCTURE
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-06-terawulf-signs-19b-ai-infrastructure-lease-with-anthropic]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
 <!-- graph:end -->

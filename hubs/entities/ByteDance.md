@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 64
+member_count: 70
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 64 connected article(s).
+> Auto-generated entity hub. 70 connected article(s).
 
+- `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
+- `2026-07-31` [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow|MiniMax releases H3 video model, with open weights to follow]]
+- `2026-07-31` [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat|MiniMax Releases H3, a Unified Text-Image-Video-Audio Generation Model]]
+- `2026-07-31` [[2026-07-31-china-s-minimax-releases-h3-multimodal-video-model|China's MiniMax releases H3 multimodal video model]]
+- `2026-07-31` [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model|ByteDance launches Seedance 2.5 video-generation model]]
+- `2026-07-31` [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene|ByteDance launches Seedance 2.5 as Chinese labs press a generative-video offensive]]
 - `2026-07-21` [[2026-07-21-neill-blomkamp-released-the-ai-generated-short-nightborne-us|Neill Blomkamp released the AI-generated short Nightborne using ByteDance Seedance 2.0, showing AI video moving toward…]]
 - `2026-07-20` [[2026-07-20-neill-blomkamp-released-the-ai-generated-short-nightborne-us|Neill Blomkamp released the AI-generated short Nightborne using ByteDance Seedance 2.0, showing AI video moving toward…]]
 - `2026-07-19` [[2026-07-19-zte-s-nubia-navix-ultra-debuts-as-an-agent-first-phone-built|ZTE's Nubia NaviX Ultra debuts as an agent-first phone built around ByteDance's Doubao, with no traditional home…]]

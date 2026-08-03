@@ -15,7 +15,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ Anthropic has deployed ~6 engineers to the NSA to help the agency use Mythos, it
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-18-anthropic-s-claude-mythos-posts-new-sota-on-cybersecurity-be]] · [[2026-04-22-anthropic-has-launched-an-internal-investigation-after-repor]] · [[2026-05-01-nsa-uses-anthropic-s-mythos-to-find-microsoft-tech-flaws-202]]
 <!-- graph:end -->

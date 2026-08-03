@@ -8,14 +8,14 @@ url_canonical: https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting
 url_status: found
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: d14e2524d70a8fcf31b51e406b25364c05bc963ea30c874b0053230b13dc2e01
+content_hash: 6523e2ff4816e0282ca36d6b0565810eee598e67952650fb2b3f58e78099eabd
 normalized_title_hash: 115f475e264f4f80
 canonical_url_hash: 566599dd56a09c23
 tags: []
 entities:
 - Microsoft
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,12 +30,12 @@ event_name: ''
 
 # Microsoft joins AI cost-cutting trend by relying more on its own models
 
-Microsoft has reportedly begun routing some Office 365 prompts in Excel and Word through its own MAI models rather than relying exclusively on external frontier providers. The strategic signal is clear: even deeply partnered AI platforms are optimizing model routing for cost and control, which will affect enterprise procurement, workload placement, and vendor leverage.
+Microsoft has reportedly begun routing some Office 365 prompts in Excel and Word through its own MAI models rather than relying exclusively on external frontier providers. The strategic signal is clear: even deeply partnered AI platforms are optimizing model routing for cost and control, which will affect enterprise procurement, workload placement, and vendor leverage. Model Releases METAGENERATIVE-AIAGENTIC-MEDIA
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-08-microsoft-quietly-replaces-partner-models-with-mai-models-in]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-07-07-microsoft-mai-model-deployment]] · [[2026-07-10-openai-names-gpt-5-6-the-preferred-model-for-microsoft-365-c]]
 <!-- graph:end -->

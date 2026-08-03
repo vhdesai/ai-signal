@@ -17,7 +17,7 @@ entities:
 - NVIDIA
 - OpenAI
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center
@@ -37,7 +37,7 @@ The Wall Street Journal reported that Nvidia is in talks to guarantee roughly $2
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-26-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-data-center]]
 **Related:** [[2026-07-27-nvidia-in-talks-to-guarantee-250b-financing-for-openai-s-10]] · [[2026-07-27-nvidia-in-talks-to-guarantee-250b-in-financing-for-openai-s]] · [[2026-07-27-nvidia-in-talks-to-backstop-250b-for-openai-s-500b-10-gigawa]]
 <!-- graph:end -->

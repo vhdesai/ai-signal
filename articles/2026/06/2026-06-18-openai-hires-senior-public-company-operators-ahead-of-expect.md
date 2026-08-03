@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
 - 2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential
+- 2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 - 2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected
-- 2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test
 embedding_id: 2026-06-18-openai-hires-senior-public-company-operators-ahead-of-expect
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reported that OpenAI is adding experienced corporate leaders as it pr
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]] · [[2026-05-26-openai-s-ipo-path-sets-up-the-first-true-public-market-test]]
+**Related:** [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-05-02-openai-s-cfo-is-reported-to-be-signaling-2027-as-a-potential]] · [[2026-05-04-trendingcerebras-on-track-for-blockbuster-ipo]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-04-09-openai-is-actively-preparing-for-a-public-offering-expected]]
 <!-- graph:end -->

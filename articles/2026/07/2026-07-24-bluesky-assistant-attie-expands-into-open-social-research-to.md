@@ -15,7 +15,6 @@ tags: []
 entities: []
 themes:
 - model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +35,6 @@ TechCrunch reports that Bluesky's AI assistant Attie expanded into a tool for as
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-18-tweaktown-academic-research]] · [[2026-07-22-substack-adds-ai-writing-detection-for-posts-notes-and-comme]] · [[2026-05-18-openai-blog-theaitrack-research-breakthroughs]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]]
 <!-- graph:end -->

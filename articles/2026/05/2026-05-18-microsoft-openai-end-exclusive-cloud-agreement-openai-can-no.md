@@ -24,8 +24,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains
-- 2026-04-27-
+- 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
 embedding_id: 2026-05-18-microsoft-openai-end-exclusive-cloud-agreement-openai-can-no
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Microsoft–OpenAI End Exclusive Cloud Agreement; OpenAI Can Now Deploy on AWS, 
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
-**Related:** [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains]] · [[2026-04-27-]]
+**Related:** [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]]
 <!-- graph:end -->

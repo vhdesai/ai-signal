@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
 - 2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega
+- 2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent
 - 2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching
-- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 embedding_id: 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 event_name: ''
 ---
@@ -33,5 +33,5 @@ CIO Dive - [2026-07-30] [EXTERNAL] July 30 - How much AI spend is wasted? | Gove
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]]
+**Related:** [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-13-cio-dive-2026-07-13-external-july-13-agentic-ai-strains-lega]] · [[2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent]] · [[2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching]]
 <!-- graph:end -->

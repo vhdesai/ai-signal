@@ -18,7 +18,7 @@ entities:
 - Mistral
 - xAI
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -41,6 +41,6 @@ May delivered the most dramatic AI API pricing changes in a single month. xAI ra
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Mistral]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-05-06-xai-ships-grok-4-3-now-available-in-palantir-aip]] · [[2026-05-22-deepseek-makes-75-v4-pro-price-cut-permanent-china-ai-price]] · [[2026-05-10-deepseek-v4-1m-token-context-at-0-27-million-tokens]] · [[2026-07-08-spacex-xai-launches-grok-4-5-at-roughly-half-the-price-of-ri]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]]
 <!-- graph:end -->

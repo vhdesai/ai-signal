@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-av
 url_status: found
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: 60171deeb829e3fc92ee55ad234b9aae478478d0461edcc262cd2db47d7517d8
+content_hash: b2324abf37a8999c647661a1a5da8be1aed167dfc512692b51589c8037952755
 normalized_title_hash: 859ecdc51a1eb9f0
 canonical_url_hash: 9e41de97b1347bf8
 tags: []
@@ -28,7 +28,7 @@ event_name: ''
 
 # “Avoiding AI” workshops go viral at public libraries
 
-TechCrunch reports that librarians are hosting high-demand workshops teaching people how to disable or avoid consumer AI features on phones, search, email, and productivity tools. The demand reflects frustration with forced AI adoption and a broader desire for autonomy over when AI is present in everyday software. For executives, this is a warning that AI feature rollouts can create trust and adoption backlash if users feel defaulted into tools they did not choose.
+TechCrunch reports that librarians are hosting high-demand workshops teaching people how to disable or avoid consumer AI features on phones, search, email, and productivity tools. The demand reflects frustration with forced AI adoption and a broader desire for autonomy over when AI is present in everyday software. For executives, this is a warning that AI feature rollouts can create trust and adoption backlash if users feel defaulted into tools they did not choose. AI ADOPTIONCONSUMER BEHAVIORFAMILY
 
 <!-- graph:start -->
 ## Connections

@@ -11,19 +11,15 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 5374864f754070a9bd0e394dd5348767177c0bb1a409b69cb13999428b4214b6
 normalized_title_hash: 014f55603db06449
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
-- policy-regulation
+- datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
-- 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
-- 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
+dedupe_status: duplicate
+canonical_article_id: 2026-07-13-infrastructure-local-policy-data-centers
+related_article_ids: []
 embedding_id: 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
 event_name: ''
 ---
@@ -35,6 +31,6 @@ Orleans has paused data-center activity amid rising local concern over AI-driven
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
+**Topics:** [[Infrastructure & Compute]]
+**Canonical:** [[2026-07-13-infrastructure-local-policy-data-centers]]
 <!-- graph:end -->

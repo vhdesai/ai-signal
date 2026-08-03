@@ -11,10 +11,12 @@ digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 1
 content_hash: 6cec1524cf6ca98e1dda12144e9205394ae58b5d94754c50c0fb86fef6e47dd6
 normalized_title_hash: 31fde9ed985005e5
 canonical_url_hash: 1692383452e7c406
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift
@@ -31,5 +33,6 @@ The Information reports that as businesses spend more on AI from Anthropic and o
 ## Connections
 
 **Entities:** [[Anthropic]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-09-traditional-saas-loses-ground-as-corporate-ai-budgets-shift]]
 <!-- graph:end -->

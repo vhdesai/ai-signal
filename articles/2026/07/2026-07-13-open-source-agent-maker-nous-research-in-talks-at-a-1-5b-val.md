@@ -14,6 +14,7 @@ canonical_url_hash: 965e2f380a4c12db
 tags: []
 entities: []
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -30,6 +31,6 @@ Nous Research, the startup behind the open-source Hermes agent, is finalizing a 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation]]
 <!-- graph:end -->

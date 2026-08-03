@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict
 - 2026-04-07-model-releases
+- 2026-08-01-anthropic-updates-project-glasswing-citing-claude-mythos-zer
 - 2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu
 - 2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude
-- 2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo
 embedding_id: 2026-04-10-anthropic-claude-mythos-preview-selective-release-via-projec
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic Claude Mythos Preview — Selective Release via Project Glasswing Hot 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict]] · [[2026-04-07-model-releases]] · [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]] · [[2026-05-14-anthropic-announced-claude-mythos-preview-in-late-april-a-mo]]
+**Related:** [[2026-05-14-anthropic-s-claude-mythos-preview-project-glasswing-restrict]] · [[2026-04-07-model-releases]] · [[2026-08-01-anthropic-updates-project-glasswing-citing-claude-mythos-zer]] · [[2026-05-23-anthropic-claude-mythos-preview-has-found-10-000-critical-vu]] · [[2026-05-26-anthropic-prepares-mythos-1-for-staged-release-inside-claude]]
 <!-- graph:end -->

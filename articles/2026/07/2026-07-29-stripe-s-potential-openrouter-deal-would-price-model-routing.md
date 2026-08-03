@@ -11,10 +11,10 @@ digest_source: digests\raw\2026-07-29_070258_Inbox_Daily AI News Digest - July 2
 content_hash: b7c084dbeae51051c0e1c8e632ffae4566c85f79c18b4702ba0b814fe51b736f
 normalized_title_hash: dd8cccdcc222ab29
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -31,6 +31,6 @@ If Stripe buys OpenRouter for close to $10 billion, it would pay roughly 70 time
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]]
 <!-- graph:end -->

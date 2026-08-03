@@ -15,8 +15,7 @@ tags: []
 entities:
 - OpenAI
 themes:
-- model-capabilities
-- company-storylines
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +36,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]] · [[2026-07-27-openai-s-hugging-face-breach-reignites-alignment-and-control]] · [[2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]]
 <!-- graph:end -->

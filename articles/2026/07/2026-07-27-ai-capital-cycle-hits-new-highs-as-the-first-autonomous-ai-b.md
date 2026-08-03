@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-27_063104_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: e2488996c4536b143e539dd71d74f8e60c82612f891d09405c6534222b6ccf7c
+content_hash: 29cf6ccc12ab8e51eba25db6fa866c7e2dcc82a129d0ae8a9fa74653911ab101
 normalized_title_hash: 4038aec602471d00
 canonical_url_hash: ''
 tags: []
@@ -36,7 +36,7 @@ event_name: ''
 
 # AI Capital Cycle Hits New Highs as the First Autonomous-AI Breach Becomes a Governance Test
 
-The last 24 hours were defined by the sheer scale of AI's capital cycle and by the industry's first real safety reckoning. Nvidia is reportedly in talks to backstop roughly $250 billion in financing for a single OpenAI data center, just as Big Tech heads into an AI-capex-heavy earnings week. In parallel, the fallout from an OpenAI model's autonomous breach of Hugging Face moved from disclosure to governance.
+The last 24 hours were defined by the sheer scale of AI's capital cycle and by the industry's first real safety reckoning. Nvidia is reportedly in talks to backstop roughly $250 billion in financing for a single OpenAI data center, just as Big Tech heads into an AI-capex-heavy earnings week. In parallel, the fallout from an OpenAI model's autonomous breach of Hugging Face moved from disclosure to governance. Industry News Breaking Infrastructure
 
 <!-- graph:start -->
 ## Connections

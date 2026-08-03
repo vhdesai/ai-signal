@@ -11,12 +11,13 @@ digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 1
 content_hash: f5495e55b94a10d3ffcccc5aa74a61509bb2555599dc8b0d5e2886b68cb7c9c0
 normalized_title_hash: b7babdbeec6e442a
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - ByteDance
 - DeepSeek
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -37,6 +38,6 @@ Goldman published research naming Zhipu as its top pick alongside DeepSeek and B
 ## Connections
 
 **Entities:** [[ByteDance]] · [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]] · [[2026-06-18-open-source-ai-stocks-surge-as-fable-5-ban-spotlights-closed]] · [[2026-05-04-chinese-labs-release-four-frontier-open-weights-coding-model]]
 <!-- graph:end -->

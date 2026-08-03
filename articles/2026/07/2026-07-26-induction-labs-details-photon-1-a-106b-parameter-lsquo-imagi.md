@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 2
 content_hash: daea82b067ba881c322af925d5c48e2eae2373b6b8453c2f4aee57e9eb96a908
 normalized_title_hash: 095db4f49828b150
 canonical_url_hash: 55a8ae5017866efb
-tags: []
+tags:
+- New
 entities: []
 themes:
 - model-capabilities
@@ -23,7 +24,7 @@ related_article_ids:
 - 2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task
 - 2026-05-11-
 - 2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl
-- 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights
 embedding_id: 2026-07-26-induction-labs-details-photon-1-a-106b-parameter-lsquo-imagi
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Induction Labs detailed Photon-1, a sparse 106B-parameter (5B active) mixture-of
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task]] · [[2026-05-11-]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
+**Related:** [[2026-07-26-induction-labs-photon-1-models-desktop-game-and-physics-task]] · [[2026-05-11-]] · [[2026-05-13-thinking-machines-lab-debuts-tml-interaction-small-full-dupl]] · [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights]]
 <!-- graph:end -->

@@ -1,14 +1,33 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 269
+member_count: 290
 ---
 
 # xAI
 
-> Auto-generated entity hub. 269 connected article(s).
+> Auto-generated entity hub. 290 connected article(s).
 
+- `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
+- `2026-08-02` [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai|Minnesota’s “nudify” ban takes effect after judge rejects xAI’s bid to pause it]]
+- `2026-08-02` [[2026-08-02-minnesota-s-ai-nudify-ban-takes-effect-after-judge-denies-xa|Minnesota’s AI nudify ban takes effect after judge denies xAI’s bid to block it]]
+- `2026-08-02` [[2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules|EU AI Act enforcement powers and content-transparency rules take effect]]
+- `2026-08-01` [[2026-08-01-u-s-federal-judge-denies-xai-bid-to-block-minnesota-s-nudify|U.S. federal judge denies xAI bid to block Minnesota's nudify app ban]]
+- `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
+- `2026-08-01` [[2026-08-01-minnesota-nudify-app-ban-remains-in-effect-after-judge-denie|Minnesota nudify-app ban remains in effect after judge denies xAI request]]
+- `2026-08-01` [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite|Judge lets Minnesota's AI “nudify” app ban take effect despite xAI challenge]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-ban-on-ai-nudify|Judge denies xAI's bid to block Minnesota's ban on AI nudify apps]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-ban-on-ai-nudify-a|Judge denies xAI's bid to block Minnesota ban on AI nudify apps]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-request-to-block-minnesota-ban-on-nudify-ap|Judge denies xAI request to block Minnesota ban on nudify apps]]
+- `2026-07-31` [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for|SpaceX won't remove xAI's unpermitted Colossus turbines for another year]]
+- `2026-07-31` [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20|SpaceX will not remove all xAI unpermitted turbines until 2027]]
+- `2026-07-31` [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot|SpaceX will not remove all xAI unpermitted turbines for another year]]
+- `2026-07-31` [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth|SpaceX says xAI's unpermitted turbines will remain for another year]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s|xAI sues Minnesota to block its AI "nudification" law as the statute nears effect]]
+- `2026-07-30` [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of|xAI faces lawsuits over Grok generating explicit content of a minor]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification|xAI sues Minnesota over first-in-the-nation AI “nudification” ban]]
 - `2026-07-29` [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudify-ban|xAI sues Minnesota over first-in-nation AI 'nudify' ban]]
 - `2026-07-29` [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law|xAI sues Minnesota over first-in-nation AI "nudification" law]]
@@ -229,12 +248,14 @@ member_count: 269
 - `2026-05-02` [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m|xAI Drops Grok 4.3 With Steep Price Cuts and Imagine Agent Mode Breaking]]
 - `2026-05-02` [[2026-05-02-today-s-big-picture-ai-s-front-lines-collided-on-multiple-di|Today's big picture: AI's front lines collided on multiple dimensions in the past 24 hours]]
 - `2026-05-02` [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay|TRENDINGxAI Bringing Grok Voice Mode to Apple CarPlay]]
+- `2026-05-02` [[2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning|TRENDINGGrok 4.3 adds sub-2-minute voice cloning]]
 - `2026-05-02` [[2026-05-02-saturday-may-2-2026-today-s-digest-covers-18-confirmed-stori|Saturday, May 2, 2026 Today's digest covers 18 confirmed stories from the past 24 hours across frontier model releases,…]]
 - `2026-05-02` [[2026-05-02-musk-on-the-stand-fool-a-terminator-warning-and-xai-s-covert|Musk on the Stand: "Fool," a Terminator Warning, and xAI's Covert Use of OpenAI Models Trending]]
 - `2026-05-02` [[2026-05-02-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia · Google/DeepMind · OpenAI · Anthropic · Mistral · Cursor · Replit · Meta · Apple · Amazon · Cerebras…]]
 - `2026-05-01` [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay|xAI ships Grok 4.3 and brings Grok Voice to Apple CarPlay]]
 - `2026-05-01` [[2026-05-01-replit-s-masad-argues-for-independence-as-cursor-spacex-xai|Replit's Masad Argues for Independence as Cursor/SpaceX/xAI Talks Continue]]
 - `2026-05-01` [[2026-05-01-pentagon-signs-8-classified-ai-contracts-anthropic-permanent|Pentagon Signs 8 Classified AI Contracts — Anthropic Permanently Excluded After Safety Dispute]]
+- `2026-05-01` [[2026-05-01-newxai-releases-grok-4-3|NEWxAI Releases Grok 4.3]]
 - `2026-04-27` [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis|Meta AI Releases Sapiens2: State-of-the-Art Human-Centric Vision Foundation Model Trending]]
 - `2026-04-23` [[2026-04-23-spacex-s-500b-premium-gets-harder-to-sell-as-cursor-option-l|SpaceX’s $500B premium gets harder to sell as Cursor option lands]]
 - `2026-04-23` [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve|Bloomberg reports Jeff Bezos is backing a new AI research venture dubbed "Project Prometheus" at a $38 billion valuation, with JPMorgan and BlackRock among investors in the $10 billion raise. The lab's stated focus is "Physical AI" — models that natively understand physics for applications in robotics and real-world autonomous systems. The initiative underscores the growing conviction among top technology investors that the next frontier in AI is not just language and reasoning, but spatial and physical intelligence integrated with robotic systems.]]

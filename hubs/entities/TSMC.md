@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 51
+member_count: 52
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 51 connected article(s).
+> Auto-generated entity hub. 52 connected article(s).
 
 - `2026-07-30` [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi|The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder to Return to OpenAI - [2026-07-30]…]]
+- `2026-07-30` [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu|TSMC works on advanced AI chip packaging as the infrastructure bottleneck shifts]]
 - `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]
 - `2026-07-29` [[2026-07-29-tsmc-gradually-resumes-japan-operations-after-earthquake|TSMC gradually resumes Japan operations after earthquake]]
 - `2026-07-28` [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker|OpenAI’s hardware roadmap sharpens: a Jony Ive smart speaker and an AI phone]]

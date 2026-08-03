@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: e0a8931d2d39fdbbb5820794046a60ebeab52f634078d0f21c8afe562dae28fd
 normalized_title_hash: 1f1d2a9ebe7b78a5
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Microsoft
 - NVIDIA

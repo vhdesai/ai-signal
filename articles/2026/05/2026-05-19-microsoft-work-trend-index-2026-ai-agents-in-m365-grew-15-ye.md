@@ -16,7 +16,6 @@ tags:
 entities:
 - Microsoft
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -37,6 +36,6 @@ Microsoft's 2026 Work Trend Index — drawn from trillions of M365 signals and a
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]] · [[2026-05-10-microsoft-global-ai-diffusion-report-17-8-of-working-age-pop]] · [[2026-05-13-microsoft-q1-2026-global-ai-diffusion-report-enterprise-adop]]
 <!-- graph:end -->

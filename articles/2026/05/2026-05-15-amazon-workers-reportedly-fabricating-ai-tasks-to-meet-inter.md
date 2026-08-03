@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
-content_hash: a7ea78a4d1f454b697573860016c5db5e64bdb9f6b54c98a5332e4e9db11a059
+content_hash: 79e31f4ba16714f9596d5e1079e58e25fca04c32b19a1efe394b1c21df41dfe6
 normalized_title_hash: 1f8f3169729bca84
 canonical_url_hash: ''
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Amazon Workers Reportedly Fabricating AI Tasks to Meet Internal Quotas
 
-Reports surfaced that Amazon employees are under pressure to increase internal AI usage metrics, with some creating extraneous tasks to satisfy quotas rather than generate genuine productivity gains. The story reflects a broader tension in enterprise AI rollouts between top-down mandates and organic adoption — and raises questions about the reliability of AI usage statistics cited by major tech companies.
+Reports surfaced that Amazon employees are under pressure to increase internal AI usage metrics, with some creating extraneous tasks to satisfy quotas rather than generate genuine productivity gains. The story reflects a broader tension in enterprise AI rollouts between top-down mandates and organic adoption — and raises questions about the reliability of AI usage statistics cited by major tech companies. SECTION 4
 
 <!-- graph:start -->
 ## Connections

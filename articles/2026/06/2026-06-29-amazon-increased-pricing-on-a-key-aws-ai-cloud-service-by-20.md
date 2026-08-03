@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and
-- 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
-- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
-- 2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou
+- 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
+- 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
+- 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
 embedding_id: 2026-06-29-amazon-increased-pricing-on-a-key-aws-ai-cloud-service-by-20
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Amazon increased pricing on a key AWS AI cloud service by 20%, citing rising mem
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-07-amazon-readies-25b-plus-bond-sale-to-fund-ai-and-aws-buildou]]
+**Related:** [[2026-06-29-amazon-raises-aws-ai-cloud-prices-20-amid-rising-memory-and]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]]
 <!-- graph:end -->

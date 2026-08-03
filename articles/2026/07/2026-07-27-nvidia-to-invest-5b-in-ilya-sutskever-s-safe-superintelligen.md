@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-28_065310_Inbox_Daily AI News Digest - July 2
 content_hash: e0610ab9783b2f366f30abec9680e5761475c6d713d53f16cfee6dc50fe62b7e
 normalized_title_hash: 9e3cca2096f91854
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - NVIDIA
 - OpenAI

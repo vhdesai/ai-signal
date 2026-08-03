@@ -11,14 +11,17 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: 6ab283a5679e217701d5e60b9e4ea145bec703d739bccc81f6da6ef401555952
 normalized_title_hash: 70da5c2fdba5e690
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - Huawei
 - Microsoft
 - Mistral
 - NVIDIA
 themes:
+- datacenter-infrastructure
 - policy-regulation
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -40,6 +43,6 @@ President Trump confirmed he raised the topic of AI safety guardrails with Presi
 ## Connections
 
 **Entities:** [[Huawei]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-05-23-presidents-trump-and-xi-had-direct-discussions-about-possibl]] · [[2026-05-15-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]] · [[2026-05-28-u-s-china-dialogue-on-ai-guardrails-continues-as-nvidia-expo]] · [[2026-05-15-trump-and-xi-discuss-ai-guardrails-nvidia-chip-export-policy]]
 <!-- graph:end -->

@@ -37,7 +37,7 @@ related_article_ids:
 - 2026-04-02-market-signals-context
 - 2026-04-27-
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
+- 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
 embedding_id: 2026-04-02-bloomberg-reports-mustafa-suleyman-has-set-2027-as-the-year
 event_name: ''
 ---
@@ -51,5 +51,5 @@ Arm Holdings Enters Chip Market with First AGI CPU — Eyes $15B Revenue by 2031
 
 **Entities:** [[Anthropic]] · [[Arm]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-market-signals-context]] · [[2026-04-27-]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
+**Related:** [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-04-02-market-signals-context]] · [[2026-04-27-]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]]
 <!-- graph:end -->

@@ -8,10 +8,11 @@ url_canonical: https://techstartups.com/2026/07/29/top-tech-news-today-july-29-2
 url_status: found
 digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - July
   30, 2026 (Revised).md
-content_hash: cf955f0463fdae60b0ee8706d0f62e4df287c9589666277b1b2e1240cc235040
+content_hash: d5aebe684b71acb6a6ee77ca214cf26bea68d91c0ff95973604cc0bb58fbe71b
 normalized_title_hash: 22de8c8e9fc2fc61
 canonical_url_hash: d4a8bfb5a0a65bf3
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 themes:
@@ -31,7 +32,7 @@ event_name: ''
 
 # Anthropic’s unreleased Claude Mythos surfaces novel cryptographic attacks
 
-An unreleased Anthropic model, Claude Mythos Preview, reportedly found techniques that weakened a NIST post-quantum signature candidate and accelerated attacks on reduced-round AES. The results do not break deployed systems, but they suggest advanced models may become useful discovery engines for cryptanalysis and other specialized research domains. The disclosure strengthens the case for treating frontier models as dual-use scientific instruments, not just productivity tools.
+An unreleased Anthropic model, Claude Mythos Preview, reportedly found techniques that weakened a NIST post-quantum signature candidate and accelerated attacks on reduced-round AES. The results do not break deployed systems, but they suggest advanced models may become useful discovery engines for cryptanalysis and other specialized research domains. The disclosure strengthens the case for treating frontier models as dual-use scientific instruments, not just productivity tools. Academic Research ACADEMICHEALTH AIDATA SHARING
 
 <!-- graph:start -->
 ## Connections

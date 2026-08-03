@@ -14,7 +14,7 @@ canonical_url_hash: a9f8a1e66d193aaf
 tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ A new study led by the INGENIO Institute (a joint CSIC–Universitat Politècnic
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise]]
 <!-- graph:end -->

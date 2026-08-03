@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 2
 content_hash: 97efa6c7a9078e13b74e5c6cabf2cc8912420cf512ce9fe9b38a3c4af8a8c4f2
 normalized_title_hash: 46bcf2383691c66b
 canonical_url_hash: 9a872b7670bf608d
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 themes:

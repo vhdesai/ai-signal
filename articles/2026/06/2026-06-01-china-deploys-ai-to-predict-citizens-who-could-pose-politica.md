@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
+- 2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop
 - 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
+- 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-07-24-white-house-draws-new-ai-line-on-china
-- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
-- 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 embedding_id: 2026-06-01-china-deploys-ai-to-predict-citizens-who-could-pose-politica
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The New York Times reported that Chinese authorities are deploying AI systems de
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-06-21-politico-published-a-deep-investigation-into-the-integration]]
+**Related:** [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]] · [[2026-07-31-reuters-chinese-military-researchers-used-openai-and-anthrop]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-24-white-house-draws-new-ai-line-on-china]]
 <!-- graph:end -->

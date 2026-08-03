@@ -15,7 +15,7 @@ tags: []
 entities:
 - OpenAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ Axios reports that OpenAI CEO Sam Altman is expected to tell the White House thi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
 <!-- graph:end -->

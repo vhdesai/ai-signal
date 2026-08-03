@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-dealbook-andrew-ross-sorkin-nyt-2026-08-01-external-dealbook
 - 2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook
 - 2026-06-18-dealbook-andrew-ross-sorkin-nyt-2026-06-18-external-dealbook
 - 2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook
 - 2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook
-- 2026-06-24-dealbook-andrew-ross-sorkin-nyt-2026-06-24-external-dealbook
 embedding_id: 2026-06-11-dealbook-andrew-ross-sorkin-nyt-2026-06-11-external-dealbook
 event_name: ''
 ---
@@ -34,5 +34,5 @@ DealBook (Andrew Ross Sorkin / NYT) - [2026-06-11] [EXTERNAL] DealBook: SpaceX v
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-06-18-dealbook-andrew-ross-sorkin-nyt-2026-06-18-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]] · [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]] · [[2026-06-24-dealbook-andrew-ross-sorkin-nyt-2026-06-24-external-dealbook]]
+**Related:** [[2026-08-01-dealbook-andrew-ross-sorkin-nyt-2026-08-01-external-dealbook]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-06-18-dealbook-andrew-ross-sorkin-nyt-2026-06-18-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]] · [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]]
 <!-- graph:end -->

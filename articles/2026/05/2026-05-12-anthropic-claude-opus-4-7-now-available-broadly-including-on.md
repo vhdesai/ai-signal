@@ -19,7 +19,6 @@ entities:
 - Microsoft
 - Palantir
 themes:
-- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -41,6 +40,6 @@ Claude Opus 4.7, launched April 16, is now available on Microsoft 365 Copilot, P
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[Palantir]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-11-claude-opus-4-7-is-now-generally-available]] · [[2026-05-28-anthropic-launches-claude-opus-4-8-with-dynamic-workflows-an]] · [[2026-05-02-anthropic-releases-claude-opus-4-7-with-improved-software-en]] · [[2026-05-17-anthropic-released-claude-opus-4-7-fast-this-week-an-inferen]]
 <!-- graph:end -->

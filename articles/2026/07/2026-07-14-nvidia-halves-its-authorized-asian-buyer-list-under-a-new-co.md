@@ -16,7 +16,7 @@ tags: []
 entities:
 - NVIDIA
 themes:
-- policy-regulation
+- datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -39,6 +39,6 @@ Per the Financial Times (citing three people familiar), Nvidia has cut its roste
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-new-ai-c]] · [[2026-07-14-nvidia-slashes-its-list-of-authorized-customers-in-asia-to-c]] · [[2026-07-15-nvidia-tightens-ai-chip-sales-in-asia-through-a-stricter-cus]] · [[2026-05-14-trump-administration-clears-nvidia-h200-sales-to-alibaba-ten]] · [[2026-05-31-us-moves-to-halt-nvidia-and-amd-advanced-chip-shipments-to-c]]
 <!-- graph:end -->

@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news
 - 2026-06-09-wall-street-journal-wsj-2026-06-09-your-daily-roundup-from-w
 - 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
-- 2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou
+- 2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news
 embedding_id: 2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Wall Street Journal / WSJ - [2026-07-06] [EXTERNAL] The latest news on Microsoft
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-06-09-wall-street-journal-wsj-2026-06-09-your-daily-roundup-from-w]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou]]
+**Related:** [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news]] · [[2026-06-09-wall-street-journal-wsj-2026-06-09-your-daily-roundup-from-w]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news]]
 <!-- graph:end -->

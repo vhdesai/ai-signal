@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
+- 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
-- 2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down
 embedding_id: 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia's Q1 2026 results — released this week — completed the Magnificent Se
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down]]
+**Related:** [[2026-05-21-reuters-magnificent-seven-ai-fueled-earnings-wrap-nvidia-sti]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]]
 <!-- graph:end -->

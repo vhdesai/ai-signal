@@ -16,7 +16,7 @@ entities:
 - Anthropic
 - OpenAI
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-anthropic-begins-localizing-claude-pricing-for-india
@@ -33,6 +33,6 @@ Anthropic has started localizing Claude’s pricing in India — its largest mar
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-13-anthropic-begins-localizing-claude-pricing-for-india]]
 <!-- graph:end -->

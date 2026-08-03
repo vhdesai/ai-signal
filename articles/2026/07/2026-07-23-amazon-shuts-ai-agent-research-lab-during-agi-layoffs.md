@@ -8,14 +8,14 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-24_060655_Inbox_Daily AI News Digest - July 24,
   2026.md
-content_hash: 6fc60b8098fa2204cc9b235df803cda96cbe844f4fdcd96f9c0474041e98bf20
+content_hash: 21143792d9cbc60dfa7ecb5e90459f7826d1b47fd3ef4879337d109bc2fbc9a7
 normalized_title_hash: 6c993f5825bcd61b
 canonical_url_hash: ''
 tags: []
 entities:
 - Amazon
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,12 +30,12 @@ event_name: ''
 
 # Amazon shuts AI agent research lab during AGI layoffs
 
-# Amazon shuts AI agent research lab during AGI layoffs
+GOOGLEADOPTIONAI ASSISTANTS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-05-28-amazon-kills-internal-ai-leaderboard-after-employees-gamed-i]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]]
 <!-- graph:end -->

@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom
 - 2026-06-26-daily-ai-news-digest-june-26-2026
 - 2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei
-- 2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r
+- 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
 embedding_id: 2026-05-09-openai-broadcom-18b-project-nexus-chip-deal-stalls-microsoft
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI–Broadcom $18B Project Nexus Chip Deal Stalls — Microsoft Holds the Ke
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei]] · [[2026-04-06-anthropic-disclosed-it-has-reached-a-30-billion-annualized-r]]
+**Related:** [[2026-05-09-openai-s-18-billion-custom-ai-chip-initiative-with-broadcom]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]] · [[2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]]
 <!-- graph:end -->

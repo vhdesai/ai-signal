@@ -13,8 +13,7 @@ content_hash: c8005a2862e46e53b9200e0602b32361d8711a6fc069e8ed90e5c16c23ecc01e
 normalized_title_hash: d94fa4cc393efcc0
 canonical_url_hash: ''
 tags: []
-entities:
-- Intel
+entities: []
 themes:
 - policy-regulation
 - model-capabilities
@@ -37,7 +36,6 @@ Beijing confirmed Xi will open WAIC (July 17–20) and deliver a keynote — his
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Intel]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-07-13-read-at-reuters-via-u-s-news]] · [[2026-07-17-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]] · [[2026-07-18-xi-jinping-keynotes-waic-2026-promotes-open-source-ai-and-la]]
 <!-- graph:end -->

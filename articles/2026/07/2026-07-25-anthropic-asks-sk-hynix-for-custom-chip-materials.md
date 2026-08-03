@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 2
 content_hash: 390e3eb895af17c71b0cf2494c8ae45f629d8ad47603432acf5b2c5dff0256c1
 normalized_title_hash: 1533bc6d1ff18bec
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Amazon
 - Anthropic

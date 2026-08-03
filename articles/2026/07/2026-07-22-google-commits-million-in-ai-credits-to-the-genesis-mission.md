@@ -14,7 +14,8 @@ canonical_url_hash: ''
 tags: []
 entities:
 - Google
-themes: []
+themes:
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,5 +37,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Google]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-04-04-google-deepmind-blog-techcrunchapril-2-2026]] · [[2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe]] · [[2026-05-26-google-deepmind-aitoolsrecap-may-26-2026]] · [[2026-05-09-google-deepmind-blog-may-7-2026]]
 <!-- graph:end -->

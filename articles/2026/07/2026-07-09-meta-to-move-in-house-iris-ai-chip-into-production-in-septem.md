@@ -11,14 +11,13 @@ digest_source: digests\raw\2026-07-11_065909_Inbox_Daily AI News Digest - July 1
 content_hash: dd0e5d339435c9b3bb224dc154180b1ce3b75dec92dcd097e1a65b843609f5b6
 normalized_title_hash: 2fe9ba46eebe4d31
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Meta
 - NVIDIA
 themes:
 - datacenter-infrastructure
-- model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ An internal memo reviewed by Reuters says Meta plans to begin manufacturing its 
 ## Connections
 
 **Entities:** [[Meta]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-09-meta-to-move-its-in-house-iris-ai-chip-into-production-in-se]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september]] · [[2026-07-09-meta-to-start-producing-in-house-iris-ai-chip-in-september-t]] · [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio]] · [[2026-07-09-daily-ai-news-digest-july-10-2026]]
 <!-- graph:end -->

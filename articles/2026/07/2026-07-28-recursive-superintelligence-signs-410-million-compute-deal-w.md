@@ -8,14 +8,14 @@ url_canonical: https://techcrunch.com/2026/07/28/recursive-superintelligence-sig
 url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: ab98fddaa819078105114cc9a48b385f83815ad2838f3228fc5628331351c525
+content_hash: 1bbeddae9a912fe6e5748b89e0ab78a47258f0d27f92f68f119e029830d4857f
 normalized_title_hash: 7b9e78458a315500
 canonical_url_hash: e458eb461571301b
 tags: []
 entities:
 - Amazon
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen
@@ -26,12 +26,12 @@ event_name: ''
 
 # Recursive Superintelligence signs $410 million compute deal with AWS
 
-Recursive Superintelligence signed a $410 million multiyear compute deal with Amazon Web Services as it pursues open-ended self-improving AI systems. The company says much of its spending will go directly to compute rather than headcount as it seeks to automate product development processes. The deal illustrates a continued shift in AI startup economics: compute commitments can consume the majority of capital before product revenue is visible.
+Recursive Superintelligence signed a $410 million multiyear compute deal with Amazon Web Services as it pursues open-ended self-improving AI systems. The company says much of its spending will go directly to compute rather than headcount as it seeks to automate product development processes. The deal illustrates a continued shift in AI startup economics: compute commitments can consume the majority of capital before product revenue is visible. NVIDIAEDGE AIPHYSICAL AI
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-28-aws-signs-a-410m-compute-deal-with-recursive-superintelligen]]
 <!-- graph:end -->

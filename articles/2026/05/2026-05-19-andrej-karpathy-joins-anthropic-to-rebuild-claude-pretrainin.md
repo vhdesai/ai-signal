@@ -8,7 +8,7 @@ url_canonical: https://theaitrack.com/ai-news-may-2026-in-depth-and-concise/
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: 7aec35cf92f15b1988250cba3d64f5122bf0eea7f719d8f252a5c1d4becc926d
+content_hash: f73cf15c95f978a45e8bacce6cd94528d708e4fa92e8c1adf3dd0ff3be68780d
 normalized_title_hash: 2cf0097c5aecee17
 canonical_url_hash: ab7d7bf3fb0cca77
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # Andrej Karpathy joins Anthropic to rebuild Claude pretraining team
 
-Andrej Karpathy — OpenAI co-founder, former Tesla Autopilot lead, and the most beloved AI educator alive — has joined Anthropic to rebuild its pretraining research team. He cited "the next few years at the LLM frontier as especially formative." The highest-profile AI talent move of 2026.
+Andrej Karpathy — OpenAI co-founder, former Tesla Autopilot lead, and the most beloved AI educator alive — has joined Anthropic to rebuild its pretraining research team. He cited "the next few years at the LLM frontier as especially formative." The highest-profile AI talent move of 2026. N D
 
 <!-- graph:start -->
 ## Connections

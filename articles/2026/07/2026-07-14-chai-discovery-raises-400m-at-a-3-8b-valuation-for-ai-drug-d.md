@@ -15,6 +15,8 @@ tags: []
 entities:
 - OpenAI
 themes:
+- datacenter-infrastructure
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -32,6 +34,6 @@ OpenAI-backed Chai Discovery closed a $400 million round led by Index Ventures a
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]]
 <!-- graph:end -->

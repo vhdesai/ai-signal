@@ -9,7 +9,7 @@ url_canonical: https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-
 url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
-content_hash: ad14d8e5c3caa7a0be3e303ee2217297a4c6e4d63638b2ea8110d0ce4520bb2e
+content_hash: 3a62d97205479b4e90dbb46582eb7e8c9142d91eac91e8f2458b4acd685c2edc
 normalized_title_hash: 7dee5b8ab7ee7b41
 canonical_url_hash: 1d3aabd3b0b73997
 tags: []
@@ -17,7 +17,7 @@ entities:
 - Anthropic
 - DeepSeek
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -33,12 +33,12 @@ event_name: ''
 
 # Startup Lindy drops Claude entirely for DeepSeek as AI cost pressure mounts on Anthropic
 
-Lindy CEO Flo Crivello said the AI-agent startup migrated 100% of its traffic from Anthropic's Claude to DeepSeek (hosted on U.S. soil), telling CNBC the move saved millions as inference costs had grown "unsustainable" and exceeded payroll. Crivello said he would switch back if Anthropic cut prices, framing it as "a matter of survival for the business." The episode underscores growing margin pressure from cheaper Chinese open-weight models as enterprises tighten AI budgets.
+Lindy CEO Flo Crivello said the AI-agent startup migrated 100% of its traffic from Anthropic's Claude to DeepSeek (hosted on U.S. soil), telling CNBC the move saved millions as inference costs had grown "unsustainable" and exceeded payroll. Crivello said he would switch back if Anthropic cut prices, framing it as "a matter of survival for the business." The episode underscores growing margin pressure from cheaper Chinese open-weight models as enterprises tighten AI budgets. WORKFORCE ENTERPRISE
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-06-27-as-enterprises-rein-in-ai-bills-customers-are-tilting-toward]] · [[2026-06-26-as-enterprises-curb-tokenmaxxing-openai-and-anthropic-face-a]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
 <!-- graph:end -->

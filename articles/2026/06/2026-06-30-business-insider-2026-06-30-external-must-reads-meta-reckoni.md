@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai
 - 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 - 2026-06-09-2026-06-15-wsj-wealth-adviser-briefing-european-investments
 - 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
 - 2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret
-- 2026-06-26-wall-street-journal-wsj-2026-06-26-external-your-daily-round
 embedding_id: 2026-06-30-business-insider-2026-06-30-external-must-reads-meta-reckoni
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-06-30] [EXTERNAL] Must reads: Meta reckoning, Call Her 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-06-09-2026-06-15-wsj-wealth-adviser-briefing-european-investments]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]] · [[2026-06-26-wall-street-journal-wsj-2026-06-26-external-your-daily-round]]
+**Related:** [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-06-09-2026-06-15-wsj-wealth-adviser-briefing-european-investments]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-06-19-business-insider-2026-06-19-external-the-modern-american-ret]]
 <!-- graph:end -->

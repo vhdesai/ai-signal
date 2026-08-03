@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 2
 content_hash: cdca62f04d17590d4f411f63f6038bb32c426680209ade76ebf23317585098c9
 normalized_title_hash: da786d38e2263102
 canonical_url_hash: 54fd18a43702631d
-tags: []
+tags:
+- Breaking
 entities:
 - Google
 - Meta

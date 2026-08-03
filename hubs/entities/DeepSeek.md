@@ -1,13 +1,34 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 287
+member_count: 308
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 287 connected article(s).
+> Auto-generated entity hub. 308 connected article(s).
 
+- `2026-08-03` [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below|DeepSeek V4-Flash pressures frontier pricing from below]]
+- `2026-08-03` [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model|DeepSeek Makes a Splash with Small, Affordable V4-Flash Model]]
+- `2026-08-02` [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne|DeepSeek data-center plan points to infrastructure as the next phase of China’s model race]]
+- `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
+- `2026-08-01` [[2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero|DeepSeek's new bargain model accelerates AI's race to zero]]
+- `2026-08-01` [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner|DeepSeek reportedly plans a 1+ gigawatt data center in Inner Mongolia]]
+- `2026-08-01` [[2026-08-01-daily-ai-news-digest-august-1-2026|Daily AI News Digest — August 1, 2026]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-31` [[2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co|DeepSeek upgrades DeepSeek-V4-Flash-0731 with agentic and coding gains]]
+- `2026-07-31` [[2026-07-31-deepseek-ships-v4-flash-0731-with-major-agentic-and-coding-g|DeepSeek ships V4-Flash-0731 with major agentic and coding gains at ~$0.14/$0.28 per million tokens]]
+- `2026-07-31` [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and|DeepSeek ships DeepSeek-V4-Flash-0731 with major agentic and coding gains]]
+- `2026-07-31` [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia|DeepSeek plans 1-gigawatt data center in Inner Mongolia]]
+- `2026-07-31` [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta|DeepSeek moves agent-focused V4-Flash API into public beta]]
+- `2026-07-31` [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age|DeepSeek moves V4-Flash-0731 into public beta with major agentic and coding gains]]
+- `2026-07-31` [[2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains|DeepSeek launches upgraded V4-Flash API with big agent gains]]
+- `2026-07-31` [[2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai|DeepSeek Ships V4-Flash-0731 with Big Agentic and Coding Gains — and Aggressive Pricing]]
+- `2026-07-31` [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep|AI inference price war deepens as OpenAI's 80% cut meets DeepSeek's low-cost floor]]
+- `2026-07-30` [[2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f|OpenAI cuts GPT-5.6 prices to defend the price-performance frontier]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr|Moonshot AI closes $3.5B round as open-weight China models draw scrutiny]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]

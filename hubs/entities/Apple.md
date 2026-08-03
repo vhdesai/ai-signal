@@ -1,13 +1,40 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 330
+member_count: 362
 ---
 
 # Apple
 
-> Auto-generated entity hub. 330 connected article(s).
+> Auto-generated entity hub. 362 connected article(s).
 
+- `2026-08-03` [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview|The Information - [2026-08-03] [EXTERNAL] Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - [2026-08-03] [EXTERNAL]…]]
+- `2026-08-03` [[2026-08-03-apple-icloud-policy-fueled-employee-leaks-ahead-of-openai-tr|Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Trade Secrets Suit]]
+- `2026-08-02` [[2026-08-02-apple-caps-bug-report-submissions-amid-ai-generated-deluge|Apple caps bug-report submissions amid AI-generated deluge]]
+- `2026-08-01` [[2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra|The Information - [2026-08-01] [EXTERNAL] Why Apple Should Buy Granola]]
+- `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
+- `2026-08-01` [[2026-08-01-daily-ai-news-digest-august-1-2026|Daily AI News Digest — August 1, 2026]]
+- `2026-07-31` [[2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users|Siri AI could come with a paywall for power users]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-31` [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai|Capex vs. Cash Flow: Big Tech Doubles Down on AI]]
+- `2026-07-31` [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall|Big Tech earnings diverge on AI: Amazon rallies ~11%, Apple falls ~8%]]
+- `2026-07-31` [[2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u|Apple reportedly considers paid tiers for advanced Siri AI use]]
+- `2026-07-31` [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo|Apple posts record June quarter but warns of AI-driven component shortages]]
+- `2026-07-31` [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl|Apple considers paywalling heavier Siri AI usage through iCloud+]]
+- `2026-07-31` [[2026-07-31-amazon-surges-as-aws-reaccelerates-apple-falls-on-supply-con|Amazon Surges as AWS Reaccelerates; Apple Falls on Supply Constraints]]
+- `2026-07-31` [[2026-07-31-amazon-surges-15-as-aws-reaccelerates-apple-falls-7-on-suppl|Amazon Surges 15% as AWS Reaccelerates; Apple Falls 7% on Supply Constraints]]
+- `2026-07-31` [[2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products|AWS hires Apple and Google veteran to lead key AI products]]
+- `2026-07-31` [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products|AWS Taps Apple Executive to Lead Key AI Products]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
+- `2026-07-30` [[2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida|Apple’s capex-light AI strategy wins investors even as guidance disappoints]]
+- `2026-07-30` [[2026-07-30-apple-publishes-momo-for-controllable-robot-manipulation-sty|Apple publishes MoMo for controllable robot manipulation styles]]
+- `2026-07-30` [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c|Apple posts record $109.4B June quarter but warns AI-driven component shortages will bite]]
+- `2026-07-30` [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite|Apple beats on revenue but guides weak as memory crunch bites; Google-powered Siri due in September]]
+- `2026-07-30` [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c|Apple beats but guides soft in Tim Cook's final quarter as CEO]]
+- `2026-07-30` [[2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n|Apple applies network science to UMAP's internal k-nearest-neighbor graph]]
+- `2026-07-30` [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen|Apple Posts Record June Quarter but Warns AI-Driven Component Shortages Will Bite]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-apple-launches-apple-upgrade-leasing-program-amid-ai-driven|Apple launches 'Apple Upgrade' leasing program amid AI-driven component inflation]]
 - `2026-07-28` [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker|OpenAI’s hardware roadmap sharpens: a Jony Ive smart speaker and an AI phone]]
@@ -20,6 +47,8 @@ member_count: 330
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
 - `2026-07-27` [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test|Big Tech’s AI capex faces its first real earnings-week test]]
 - `2026-07-27` [[2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in|Apple publishes GH-ESD for grounded error-slice discovery in vision models]]
+- `2026-07-26` [[2026-07-26-deepseek-reportedly-puts-current-funding-round-on-hold|DeepSeek reportedly puts current funding round on hold]]
+- `2026-07-26` [[2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management|BAIR proposes ABBEL for long-horizon belief-state management]]
 - `2026-07-25` [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking|Why the OpenAI agent broke into Hugging Face: reward hacking, not malice]]
 - `2026-07-24` [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno|Other AI-related Publication Emails - [2026-07-24] [EXTERNAL] Announcing Developers.ai: Call for Speakers -…]]
 - `2026-07-24` [[2026-07-24-apple-proposes-lead-to-reduce-no-recovery-failures-in-long-h|Apple proposes LEAD to reduce no-recovery failures in long-horizon reasoning]]
@@ -95,6 +124,7 @@ member_count: 330
 - `2026-07-07` [[2026-07-07-the-information-2026-07-07-external-china-s-ai-lab-ziphu-wei|The Information - [2026-07-07] [EXTERNAL] China's AI Lab Ziphu Weighs Custom Chip As Demand for its GLM Model Soars -…]]
 - `2026-07-06` [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m|Scaling Properties of Continuous Diffusion Spoken Language Models]]
 - `2026-07-06` [[2026-07-06-path-constrained-mixture-of-experts|Path-Constrained Mixture-of-Experts]]
+- `2026-07-06` [[2026-07-06-openai-rolls-out-gpt-5-5-instant-mini-as-chatgpt-s-new-fallb|OpenAI Rolls Out GPT-5.5 Instant Mini as ChatGPT's New Fallback Model]]
 - `2026-07-06` [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha|Nvidia's next-gen rack slips to 2028, Amazon winds down Mechanical Turk, and Beijing's companion-AI rules force shutdowns]]
 - `2026-07-06` [[2026-07-06-chinese-platforms-curb-ai-companion-features-ahead-of-july-1|Chinese Platforms Curb "AI Companion" Features Ahead of July 15 Rules]]
 - `2026-07-06` [[2026-07-06-broadcom-expands-work-for-apple-supplying-products-through-2|Broadcom expands work for Apple, supplying products through 2031]]
@@ -210,6 +240,7 @@ member_count: 330
 - `2026-05-15` [[2026-05-15-replit-returns-to-iphone-app-store-with-agent-4-after-4-mont|Replit Returns to iPhone App Store with Agent 4 After 4-Month Apple Dispute]]
 - `2026-05-15` [[2026-05-15-osaurus-brings-unified-local-cloud-ai-model-management-to-ma|Osaurus Brings Unified Local + Cloud AI Model Management to macOS]]
 - `2026-05-15` [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl|OpenAI is reported to be preparing legal action against Apple, adding to a growing list of tech giants OpenAI has…]]
+- `2026-05-15` [[2026-05-15-microsoft-corp-dev-tech-assessment|MICROSOFT CORP DEV · TECH ASSESSMENT]]
 - `2026-05-14` [[2026-05-14-macos-privilege-escalation-vulnerability-discovered-using-ai|macOS Privilege-Escalation Vulnerability Discovered Using AI — Apple Issues Emergency Patch]]
 - `2026-05-14` [[2026-05-14-oracle-ai-gains-traction-in-utilities-air-selangor-el-paso-e|Oracle AI Gains Traction in Utilities: Air Selangor, El Paso Electric, and Exelon Recognized as AI Leaders]]
 - `2026-05-14` [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over|OpenAI Reportedly Preparing Legal Action Against Apple Over Siri + ChatGPT Integration Terms]]
@@ -256,6 +287,7 @@ member_count: 330
 - `2026-05-01` [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay|xAI ships Grok 4.3 and brings Grok Voice to Apple CarPlay]]
 - `2026-05-01` [[2026-05-01-view-in-web-browser-read-wsj-s-latest-headlines-apple-app-st|View in web browser › - Read WSJ's latest headlines › - Apple app store icon]]
 - `2026-05-01` [[2026-05-01-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et|Tech news and analysis. - Every weekday at 10 am PT / 1 pm ET]]
+- `2026-05-01` [[2026-05-01-newxai-releases-grok-4-3|NEWxAI Releases Grok 4.3]]
 - `2026-05-01` [[2026-05-01-is-this-email-difficult-to-read-view-it-in-a-web-browser|Is this email difficult to read? View it in a web browser]]
 - `2026-05-01` [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands|Big Tech Q1 2026 Recap: Capex Boom Continues, but Apple Stands Out]]
 - `2026-04-29` [[2026-04-29-is-this-email-difficult-to-read-view-it-in-a-web-browser|Is this email difficult to read? View it in a web browser]]

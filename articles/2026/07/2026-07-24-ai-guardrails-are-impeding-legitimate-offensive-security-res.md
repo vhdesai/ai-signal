@@ -14,7 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-01-6-ai-safety-policy]] · [[2026-06-07-politico-it-s-a-hurricane-warning-ai-guardrails-may-be-too-l]] · [[2026-05-07-trump-and-xi-consider-guardrails-for-ai-rivalry-2026-05-07-w]] · [[2026-05-12-ethics-debate-over-autonomous-ai-weapons-intensifies-in-euro]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
 <!-- graph:end -->

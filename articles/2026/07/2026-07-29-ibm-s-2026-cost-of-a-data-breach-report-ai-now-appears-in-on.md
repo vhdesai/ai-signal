@@ -12,10 +12,12 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: 52e65f8d0ecbd1e7176a76ba2b57a8f7453bdc10e0d244d77a4e137d403eaf15
 normalized_title_hash: 957a37b7239e818f
 canonical_url_hash: cb4f1b19c859c22b
-tags: []
+tags:
+- Trending
 entities:
 - IBM
-themes: []
+themes:
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4
@@ -32,5 +34,6 @@ IBM’s 2026 Cost of a Data Breach Report finds that roughly one in four malicio
 ## Connections
 
 **Entities:** [[IBM]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4]]
 <!-- graph:end -->

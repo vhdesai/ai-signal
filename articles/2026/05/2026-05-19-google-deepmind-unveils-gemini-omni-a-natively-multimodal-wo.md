@@ -8,7 +8,7 @@ url_canonical: https://deepmind.google/blog/
 url_status: found
 digest_source: digests\raw\2026-05-20_071850_Inbox_Daily AI News Digest – May 20,
   2026.md
-content_hash: e15cdc8250f3f86b76be617a4703c401af88f56e7d04205bd7ecb72d8f84ade6
+content_hash: afcca68aadea2fe2b9b43c64284d2c64453021808658481d07d821af749ad775
 normalized_title_hash: 5b5205f09dffa18c
 canonical_url_hash: dd5d9b8662f33e9f
 tags:
@@ -27,7 +27,7 @@ event_name: ''
 
 # Google DeepMind unveils Gemini Omni — a natively multimodal world model
 
-DeepMind introduced Gemini Omni, a natively multimodal model that processes video, audio, images, and text from a single architecture — rather than converting each modality to text tokens first. The first variant, Gemini Omni Flash, ships immediately in the Gemini app, Google Flow, and YouTube Shorts, and supports multi-turn conversational video editing with character continuity and physics-aware scene consistency. DeepMind framed Omni as a step toward "creating anything from any input, starting with video."
+DeepMind introduced Gemini Omni, a natively multimodal model that processes video, audio, images, and text from a single architecture — rather than converting each modality to text tokens first. The first variant, Gemini Omni Flash, ships immediately in the Gemini app, Google Flow, and YouTube Shorts, and supports multi-turn conversational video editing with character continuity and physics-aware scene consistency. DeepMind framed Omni as a step toward "creating anything from any input, starting with video." C SpX
 
 <!-- graph:start -->
 ## Connections

@@ -16,10 +16,7 @@ entities:
 - Anthropic
 - OpenAI
 themes:
-- datacenter-infrastructure
-- policy-regulation
 - model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +38,6 @@ The Commerce Department granted Anthropic permission to release its Mythos 5 mod
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-06-27-the-u-s-commerce-department-granted-anthropic-permission-to]] · [[2026-06-29-anthropic-s-mythos-5-cleared-by-the-u-s-for-wider-still-limi]] · [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]] · [[2026-06-27-u-s-government-partially-restores-anthropic-s-claude-mythos]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven
+- 2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor
 - 2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr
-- 2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa
-- 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
 embedding_id: 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fresh policy coverage highlights rising public opposition to AI-driven job disru
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr]] · [[2026-05-20-dealbook-ai-backlash-goes-global-as-meta-cuts-jobs-and-compa]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
+**Related:** [[2026-05-27-labor-market-evidence-still-does-not-show-a-broad-ai-driven]] · [[2026-07-31-simple-answer-to-ai-job-loss-tax-capital-not-labor]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-07-31-wsj-argues-ai-job-loss-policy-should-tax-capital-not-labor]] · [[2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
+- 2026-07-12-openai-safety-governance
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
-- 2026-04-06-openai-loses-three-executives-in-one-week-ahead-of-ipo
 embedding_id: 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's C-suite experienced significant turbulence this week, with three senior
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-04-06-openai-loses-three-executives-in-one-week-ahead-of-ipo]]
+**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-07-12-openai-safety-governance]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]]
 <!-- graph:end -->

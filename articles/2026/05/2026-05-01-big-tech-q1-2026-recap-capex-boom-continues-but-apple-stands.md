@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave
-- 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida
 embedding_id: 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 event_name: ''
 ---
@@ -41,5 +41,5 @@ In a busy earnings week, Meta revenue grew 33%, Alphabet beat across the board, 
 
 **Entities:** [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave]] · [[2026-07-30-apple-s-capex-light-ai-strategy-wins-investors-even-as-guida]]
 <!-- graph:end -->

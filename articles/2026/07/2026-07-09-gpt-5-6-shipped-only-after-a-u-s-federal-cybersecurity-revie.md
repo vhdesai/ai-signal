@@ -17,7 +17,7 @@ entities:
 - OpenAI
 - xAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ OpenAI's broad GPT‑5.6 rollout followed an unusual government-gated process. A
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-10-openai-gpt-5-5-cyber-rolls-out-to-vetted-security-teams]] · [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request]] · [[2026-07-08-white-house-disputes-clearing-gpt-5-6-as-u-s-frontier-model]]
 <!-- graph:end -->

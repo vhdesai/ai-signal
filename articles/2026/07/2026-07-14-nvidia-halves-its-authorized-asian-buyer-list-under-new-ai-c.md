@@ -12,11 +12,12 @@ digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 0244dd712e342f43d2ee4cf8e23b82a378c55194c5bd571708deb960d87d29b8
 normalized_title_hash: b0557965f7edddf7
 canonical_url_hash: ''
-tags:
-- Breaking
+tags: []
 entities:
+- Microsoft
 - NVIDIA
 themes:
+- datacenter-infrastructure
 - policy-regulation
 cross_cutting_topics:
 - china-compete
@@ -34,7 +35,7 @@ Nvidia reportedly cut its approved AI-chip customers in Asia by more than half a
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Entities:** [[Microsoft]] · [[NVIDIA]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-07-14-nvidia-halves-its-authorized-asian-buyer-list-under-a-new-co]]
 <!-- graph:end -->

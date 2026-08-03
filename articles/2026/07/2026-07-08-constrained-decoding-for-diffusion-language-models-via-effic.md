@@ -9,7 +9,7 @@ url_canonical: https://arxiv.org/abs/2607.07026
 url_status: found
 digest_source: digests\raw\2026-07-09_083947_Inbox_Daily AI News Digest - July 9,
   2026.md
-content_hash: 73e567f7fdcce2a80a6b5e617f0b22b2ad043319195ac7e5ce22862e6e5e7aed
+content_hash: 7acf2ebc3c89ccdb1e3a7cf6ad413958188ed16bad2db919e174e25a5300a3d3
 normalized_title_hash: 726567c0da76920c
 canonical_url_hash: 06c64bc6d20a61ef
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata
 
-Stanford researchers proposed an efficient method for constrained decoding in diffusion language models, enabling structured outputs such as function calls, SQL, planning formats, and mathematical constraints. If diffusion LLMs continue to gain traction for parallel generation, this work addresses a key production blocker: reliable structured output without sacrificing most of the speed advantage.
+Stanford researchers proposed an efficient method for constrained decoding in diffusion language models, enabling structured outputs such as function calls, SQL, planning formats, and mathematical constraints. If diffusion LLMs continue to gain traction for parallel generation, this work addresses a key production blocker: reliable structured output without sacrificing most of the speed advantage. Academic Research CORNELLRETRIEVALKNOWLEDGE-CONTROL
 
 <!-- graph:start -->
 ## Connections

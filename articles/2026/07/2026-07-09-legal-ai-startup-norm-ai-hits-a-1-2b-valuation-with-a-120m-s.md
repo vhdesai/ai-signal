@@ -8,12 +8,13 @@ url_canonical: https://www.jdjournal.com/2026/07/09/norm-ai-1-2-billion-valuatio
 url_status: found
 digest_source: digests\raw\2026-07-09_062747_Inbox_Daily AI News Digest - July 9,
   2026.md
-content_hash: 314e1fb3479ddcbbf0b84650b7e369e1bd3adbd2634025a0e3d513c651f943c7
+content_hash: 89dad8a0f775d8e82c2ff3f62a99ceb2a187e609688caf09b0a885681f837bd8
 normalized_title_hash: 47a8d068ef3d31df
 canonical_url_hash: bf3b4c6a37b04537
 tags: []
 entities: []
 themes:
+- policy-regulation
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -27,11 +28,11 @@ event_name: ''
 
 # Legal-AI startup Norm AI hits a $1.2B valuation with a $120M Series C
 
-York-based Norm AI raised $120 million in a Series C that lifted its valuation to $1.2 billion, joining a growing cohort of legal-technology unicorns. The company builds software that interprets complex regulations and automates compliance reviews and governance workflows. The round signals sustained investor appetite for vertical, compliance-focused AI as enterprises look to contain regulatory risk and manual review cost.
+York-based Norm AI raised $120 million in a Series C that lifted its valuation to $1.2 billion, joining a growing cohort of legal-technology unicorns. The company builds software that interprets complex regulations and automates compliance reviews and governance workflows. The round signals sustained investor appetite for vertical, compliance-focused AI as enterprises look to contain regulatory risk and manual review cost. AI Safety & Policy POLICYHOT
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Related:** [[2026-07-07-ai-legal-startup-norm-raises-120m-at-1-2b-valuation]] · [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]]
 <!-- graph:end -->

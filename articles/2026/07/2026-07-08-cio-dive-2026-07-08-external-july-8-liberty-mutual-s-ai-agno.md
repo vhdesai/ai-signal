@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
 - 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
 - 2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without
-- 2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 embedding_id: 2026-07-08-cio-dive-2026-07-08-external-july-8-liberty-mutual-s-ai-agno
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-07-08] [EXTERNAL] July 8 - Liberty Mutual's AI agnostic strateg
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching]]
+**Related:** [[2026-07-15-cio-dive-daily-dive-2026-07-15-external-july-15-what-ibm-s-w]] · [[2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]]
 <!-- graph:end -->

@@ -14,7 +14,7 @@ canonical_url_hash: 9b5596c25048c2ca
 tags: []
 entities: []
 themes:
-- policy-regulation
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-05-22-sources-forbes-buildfastwithai-semafor-the-decoder-axios-blo]] · [[2026-05-13-techcrunch-androguider-may-12-13-2026]] · [[2026-04-04-google-research-blog-techcrunch-ars-technicamarch-24-25-2026]]
 <!-- graph:end -->

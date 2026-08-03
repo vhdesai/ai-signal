@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 - 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
 - 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
 - 2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris
-- 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 embedding_id: 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI filed a motion requiring alleged victims of Grok-generated deepfake nudes to
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]]
+**Related:** [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris]]
 <!-- graph:end -->

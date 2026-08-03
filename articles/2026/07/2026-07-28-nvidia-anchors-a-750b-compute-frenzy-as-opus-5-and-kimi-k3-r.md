@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-28_061729_Inbox_Daily AI News Digest - July 28,
   2026.md
-content_hash: cccef51e5657e20ac5c845623a5a8ac242b22859ca2969252f4521db184134da
+content_hash: 8abac7f0528af9a0417d6a40a6baa6069ec5d7207b82779a181b6b896fbd8eb3
 normalized_title_hash: 719338501c798d80
 canonical_url_hash: ''
 tags: []
@@ -37,7 +37,7 @@ event_name: ''
 
 # Nvidia Anchors a $750B Compute Frenzy as Opus 5 and Kimi K3 Reset the Model Race
 
-Nvidia dominated the past 24 hours on three fronts — a reported ~$250B financing backstop for OpenAI's ~$500B Ohio megacampus, a $5B equity stake in Ilya Sutskever's Safe Superintelligence, and the launch of a cross-industry Open Secure AI Alliance — even as the widening web of vendor-financed deals triggered a sharp chip-stock selloff. On models, Anthropic shipped Claude Opus 5 at roughly half the price of its flagship tier, while China's Moonshot AI published open weights for Kimi K3, the largest open-weight model released to date. The enterprise story is shifting to agentic security and applied AI, with Microsoft unveiling a purpose-built cyber model and OpenAI extending ChatGPT into personal health records.
+Nvidia dominated the past 24 hours on three fronts — a reported ~$250B financing backstop for OpenAI's ~$500B Ohio megacampus, a $5B equity stake in Ilya Sutskever's Safe Superintelligence, and the launch of a cross-industry Open Secure AI Alliance — even as the widening web of vendor-financed deals triggered a sharp chip-stock selloff. On models, Anthropic shipped Claude Opus 5 at roughly half the price of its flagship tier, while China's Moonshot AI published open weights for Kimi K3, the largest open-weight model released to date. The enterprise story is shifting to agentic security and applied AI, with Microsoft unveiling a purpose-built cyber model and OpenAI extending ChatGPT into personal health records. Industry News N S HOT Investment
 
 <!-- graph:start -->
 ## Connections

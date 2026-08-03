@@ -15,7 +15,7 @@ canonical_url_hash: a0066582e5747cc5
 tags: []
 entities: []
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ In the studios' 2025 copyright suit, Midjourney is asking the court to compel Di
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-02-midjourney-moves-to-force-disney-universal-and-warner-bros-t]] · [[2026-07-05-in-the-copyright-suit-brought-by-disney-universal-and-warner]] · [[2026-07-04-in-the-studios-copyright-case-against-image-generator-midjou]] · [[2026-07-04-ai-safety-policy-trending-disney-warner-bros]] · [[2026-07-05-midjourney-moves-to-force-hollywood-studios-to-disclose-thei]]
 <!-- graph:end -->

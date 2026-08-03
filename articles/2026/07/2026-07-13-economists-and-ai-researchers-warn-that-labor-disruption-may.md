@@ -11,11 +11,11 @@ digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 0a34ea89bc75fe2a0c309ae82c2003f4e6742b2ad3fd32b5c1f0aaf5f2ef4c89
 normalized_title_hash: cb4130a481035c11
 canonical_url_hash: 8333555f4ae63a90
-tags:
-- Hot
+tags: []
 entities:
 - Anthropic
 - Google
+- Microsoft
 - OpenAI
 themes:
 - model-capabilities
@@ -37,7 +37,7 @@ More than 200 economists and AI researchers, including 16 Nobel laureates and le
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
+**Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]] · [[2026-07-13-nobel-laureates-and-ai-researchers-warn-on-ai-s-economic-imp]] · [[2026-07-15-economists-and-ai-researchers-warn-that-ai-labor-market-disr]]
 <!-- graph:end -->

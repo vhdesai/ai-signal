@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-19-judges-lawyers-confront-ai-s-role-in-courts-ai-policy-spendi
 - 2026-07-17-ai-policy-groups-researchers-and-political-actors-converge-o
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease
+- 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
 embedding_id: 2026-07-18-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending-m
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Pro-AI and AI-safety groups prepare major midterm spending, making AI policy a f
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending-m]] · [[2026-07-19-judges-lawyers-confront-ai-s-role-in-courts-ai-policy-spendi]] · [[2026-07-17-ai-policy-groups-researchers-and-political-actors-converge-o]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-05-20-hot-ai-anxiety-grows-in-the-us-graduation-boos-voter-unease]]
+**Related:** [[2026-07-17-pro-ai-and-ai-safety-groups-prepare-major-midterm-spending-m]] · [[2026-07-19-judges-lawyers-confront-ai-s-role-in-courts-ai-policy-spendi]] · [[2026-07-17-ai-policy-groups-researchers-and-political-actors-converge-o]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]]
 <!-- graph:end -->

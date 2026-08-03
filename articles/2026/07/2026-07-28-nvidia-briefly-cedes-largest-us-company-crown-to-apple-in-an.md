@@ -11,13 +11,12 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: 7cfdeed1773f32219fc6f7322af8b0c5ef9b989d0eec6e4ecda2026b33ef4d1f
 normalized_title_hash: 303dd5440e4ec6fc
 canonical_url_hash: feb8eb9b826d25d7
-tags: []
+tags:
+- Hot
 entities:
 - Apple
 - NVIDIA
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -36,6 +35,6 @@ Nvidia fell roughly 5%, allowing Apple to reclaim the top US market-cap spot ami
 ## Connections
 
 **Entities:** [[Apple]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]]
 <!-- graph:end -->

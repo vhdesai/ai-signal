@@ -8,7 +8,7 @@ url_canonical: https://finance.yahoo.com/markets/stocks/articles/openai-delay-ip
 url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
-content_hash: 365f30974e48045f8f1f13df479d76a3eb16093d08fa8f1a90f6198c4f5594b5
+content_hash: 86b8dce1247cfbdfb3b0c69d3197d7117fd0ce0c1395763613adf1efcd3e44d7
 normalized_title_hash: 3ef46285d2888111
 canonical_url_hash: 1d338136aeb37e0f
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # OpenAI reportedly delays IPO to 2027 as Altman holds out for a $1T valuation
 
-OpenAI is leaning toward postponing its public listing until next year over concerns it cannot currently reach CEO Sam Altman’s roughly $1 trillion valuation target, according to reporting cited by Yahoo Finance. The company confidentially filed preliminary IPO paperwork with the SEC earlier in June and has called an IPO the “most likely path,” but said timing remains undecided. The reported pause lands amid broader market jitters about AI valuations and the cost of the data-center buildout.
+OpenAI is leaning toward postponing its public listing until next year over concerns it cannot currently reach CEO Sam Altman’s roughly $1 trillion valuation target, according to reporting cited by Yahoo Finance. The company confidentially filed preliminary IPO paperwork with the SEC earlier in June and has called an IPO the “most likely path,” but said timing remains undecided. The reported pause lands amid broader market jitters about AI valuations and the cost of the data-center buildout. MARKETS
 
 <!-- graph:start -->
 ## Connections

@@ -11,8 +11,7 @@ digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 
 content_hash: 61736264613d46bf10c24dda0411eae0029142d8877c61822eb3259b7479b2b5
 normalized_title_hash: f8d405405dd53c2d
 canonical_url_hash: a78e0f922702c64d
-tags:
-- New
+tags: []
 entities:
 - Amazon
 - Google

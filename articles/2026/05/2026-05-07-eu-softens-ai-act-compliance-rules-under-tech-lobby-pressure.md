@@ -16,7 +16,8 @@ tags:
 - Trending
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The EU Council and Parliament reached a provisional agreement to simplify parts 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Related:** [[2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin]] · [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-18-the-european-union-reached-a-provisional-deal-to-simplify-an]] · [[2026-05-17-the-european-union-reached-a-provisional-deal-to-simplify-th]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]]
 <!-- graph:end -->

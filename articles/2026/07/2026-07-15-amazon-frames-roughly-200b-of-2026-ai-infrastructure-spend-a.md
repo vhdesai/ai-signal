@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
 - 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 embedding_id: 2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Amazon frames roughly $200B of 2026 AI infrastructure spend as a binding constra
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]]
+**Related:** [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]]
 <!-- graph:end -->

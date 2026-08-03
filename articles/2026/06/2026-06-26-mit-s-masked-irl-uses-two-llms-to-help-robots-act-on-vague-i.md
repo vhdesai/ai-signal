@@ -14,6 +14,7 @@ canonical_url_hash: cdeb37f2167c8b43
 tags: []
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -35,6 +36,6 @@ MIT CSAIL researchers introduced “Masked IRL,” an approach that pairs two la
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-06-27-mit-csail-researchers-introduced-masked-irl-a-method-that-he]] · [[2026-06-27-m-new-llms-help-robots-understand-vague-instructions-and-foc]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]]
 <!-- graph:end -->

@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-23_060602_Inbox_Daily AI News Digest - July 23,
   2026.md
-content_hash: d5e5cac2d9c2ab012b4f594700597001ad958255da8ef1aa0efadf3a02451552
+content_hash: 0fafff77bec0853d72b362b0d5f33372297533fdb64d422cb74903bbb8fd0ffe
 normalized_title_hash: f4967938d9b8f643
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
@@ -30,7 +31,7 @@ event_name: ''
 
 # OpenAI's planned AI infrastructure spending rises to billion
 
-# OpenAI's planned AI infrastructure spending rises to billion
+NVIDIADEFENSEPUBLIC SECTOR
 
 <!-- graph:start -->
 ## Connections

@@ -8,7 +8,7 @@ url_canonical: https://www.theinformation.com/briefings/andrej-karpathy-joins-an
 url_status: found
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
-content_hash: 128f12c8757e1e8afcb141a838f17d9259a438616e56b6d0324375da36b7617a
+content_hash: e2adb04f95eaed9d7af74a611320f7edadf5ee0bd20684fe3fab89d9c683b059
 normalized_title_hash: c997e93f03de42fc
 canonical_url_hash: a61e758fdce970ef
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # Andrej Karpathy joins Anthropic’s pretraining team
 
-The Information reported that Andrej Karpathy, a founding member of OpenAI and former Tesla AI leader, is joining Anthropic. Business Insider also highlighted the move as a major win in the AI talent wars, noting Karpathy’s profile in deep learning education and “vibe coding.” The hire strengthens Anthropic’s research bench at a moment when frontier labs are competing on both model performance and AI-assisted research velocity.
+The Information reported that Andrej Karpathy, a founding member of OpenAI and former Tesla AI leader, is joining Anthropic. Business Insider also highlighted the move as a major win in the AI talent wars, noting Karpathy’s profile in deep learning education and “vibe coding.” The hire strengthens Anthropic’s research bench at a moment when frontier labs are competing on both model performance and AI-assisted research velocity. WSJAMZ
 
 <!-- graph:start -->
 ## Connections

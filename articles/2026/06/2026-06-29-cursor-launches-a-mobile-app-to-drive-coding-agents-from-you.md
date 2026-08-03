@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for
 url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: 34b53eee63714da72372fd28c05110d83ca0965e8f887b60824850afbe51fe53
+content_hash: 146c01ac0e7b006058639633bc8ad411e22678b0fe3d4448a8a2b223fa8866dc
 normalized_title_hash: 106952181f35754e
 canonical_url_hash: 0a742ed714ec6c89
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # Cursor launches a mobile app to drive coding agents from your phone
 
-Anysphere released Cursor Mobile, an iPhone/iPad app (public beta) that lets developers spin up and supervise autonomous coding agents away from the desktop. It extends the agent-centric direction of Cursor 2.0 and follows comparable mobile moves from Anthropic and OpenAI — part of a broader shift from writing code to overseeing code-writing agents. The launch lands weeks after SpaceX's reported $60B acquisition of the company.
+Anysphere released Cursor Mobile, an iPhone/iPad app (public beta) that lets developers spin up and supervise autonomous coding agents away from the desktop. It extends the agent-centric direction of Cursor 2.0 and follows comparable mobile moves from Anthropic and OpenAI — part of a broader shift from writing code to overseeing code-writing agents. The launch lands weeks after SpaceX's reported $60B acquisition of the company. PRODUCT HARDWARE
 
 <!-- graph:start -->
 ## Connections

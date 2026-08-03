@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: 9b40b3c6ff738eb20e84d0bac417ad0672ba2a21498e073a0234f6ffbfce716b
 normalized_title_hash: d18bbca895981a33
 canonical_url_hash: d6bc93a70cdb6154
-tags: []
+tags:
+- New
 entities:
 - Alibaba
 - Amazon
@@ -35,8 +36,6 @@ entities:
 - xAI
 themes:
 - policy-regulation
-- model-capabilities
-- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -57,6 +56,6 @@ Cursor (Anysphere) patched a high-severity Windows vulnerability that let malici
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Related:** [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-04-23-cursor-and-replit-push-deeper-agentic-coding-workflows]] · [[2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w]]
 <!-- graph:end -->

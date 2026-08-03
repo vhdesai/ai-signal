@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 907290ae3cc5ef3597c413ab45fdd0dc825106a488d9652da245123ca92bf1a4
 normalized_title_hash: dcfcf839515f3daa
 canonical_url_hash: 20bc5c88143c6f8a
-tags: []
+tags:
+- New
 entities:
 - Intel
 themes:

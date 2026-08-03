@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow
 - 2026-07-23-google-cloud-growth-and-alphabet-capex-ibm-mainframe-capex-p
-- 2026-07-23-alphabet-cloud-growth-and-capex-ibm-s-ai-hardware-pressure-s
-- 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
+- 2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 embedding_id: 2026-07-22-google-defends-ai-capex-with-booming-cloud-growth
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-23-google-cloud-growth-and-alphabet-capex-ibm-mainframe-capex-p]] · [[2026-07-23-alphabet-cloud-growth-and-capex-ibm-s-ai-hardware-pressure-s]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
+**Related:** [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-22-google-justifies-massive-ai-spending-with-booming-cloud-grow]] · [[2026-07-23-google-cloud-growth-and-alphabet-capex-ibm-mainframe-capex-p]] · [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]]
 <!-- graph:end -->

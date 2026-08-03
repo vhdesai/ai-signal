@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 - 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
+- 2026-08-01-daily-ai-news-digest-august-1-2026
 - 2026-05-14-source-moneycontrol-aitoolsrecap-may-8-10-2026
 - 2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz
-- 2026-07-28-pitchbook-2026-07-28-external-bain-vs
-- 2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar
 embedding_id: 2026-03-25-with-hallam-bullock-travelers-are-facing-hourslong-security
 event_name: ''
 ---
@@ -34,5 +34,5 @@ with Hallam Bullock - travelers are facing hourslong security lines - parking ga
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-05-14-source-moneycontrol-aitoolsrecap-may-8-10-2026]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]]
+**Related:** [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-08-01-daily-ai-news-digest-august-1-2026]] · [[2026-05-14-source-moneycontrol-aitoolsrecap-may-8-10-2026]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]]
 <!-- graph:end -->

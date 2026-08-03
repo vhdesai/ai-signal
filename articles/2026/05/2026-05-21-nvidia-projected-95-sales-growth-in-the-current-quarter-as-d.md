@@ -29,8 +29,8 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+- 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel
-- 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 embedding_id: 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Products & Tools Trending Google's Biggest Search Overhaul in 25 Years — AI Mo
 
 **Entities:** [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]]
+**Related:** [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-04-12-cursor-released-cursor-3-with-both-cloud-hosted-and-local-de]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-05-21-magnificent-seven-q1-2026-earnings-nvidia-rounds-out-ai-fuel]]
 <!-- graph:end -->

@@ -11,11 +11,11 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 15387d09e71e6cefba47e89c9d648693ac3fd230578d42b20da21563eadf6281
 normalized_title_hash: 8ad8c52a5aec243b
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - datacenter-infrastructure
-- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ Reuters reports the White House is preparing to rally utilities and data-center 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-04-ai-data-centers-trigger-a-third-u-s-federal-grid-emergency-i]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
 <!-- graph:end -->

@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-20-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l
 - 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 - 2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close
 - 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
-- 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
 embedding_id: 2026-07-21-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba's Tongyi Lab released Qwen-Audio-3.0-TTS across 16 languages, expanding 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]]
+**Related:** [[2026-07-20-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]] · [[2026-04-23-alongside-qwen3-6-27b-alibaba-s-qwen-team-released-a-text-to]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]] · [[2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap]]
 <!-- graph:end -->

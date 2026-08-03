@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Salesforce
-member_count: 54
+member_count: 55
 ---
 
 # Salesforce
 
-> Auto-generated entity hub. 54 connected article(s).
+> Auto-generated entity hub. 55 connected article(s).
 
+- `2026-08-03` [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise|Marc Benioff-backed “June” exits stealth to tackle enterprise AI deployment]]
 - `2026-07-28` [[2026-07-28-sap-pins-future-on-business-ai-platform-after-strong-q2-clou|SAP Pins Future on Business AI Platform After Strong Q2 Cloud Earnings]]
 - `2026-07-27` [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance|NVIDIA and partners launch Open Secure AI Alliance]]
 - `2026-07-09` [[2026-07-09-starbucks-builds-ai-software-to-cut-reliance-on-microsoft-an|Starbucks Builds AI Software to Cut Reliance on Microsoft and IBM]]

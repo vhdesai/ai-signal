@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 169
+member_count: 174
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 169 connected article(s).
+> Auto-generated entity hub. 174 connected article(s).
 
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
 - `2026-07-27` [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th|China vows 'all necessary measures' against US AI-sanctions threat]]
@@ -48,6 +51,7 @@ member_count: 169
 - `2026-07-04` [[2026-07-04-only-items-with-a-confirmed-publication-date-of-july-3-4-202|Only items with a confirmed publication date of July 3–4, 2026 were included; undated and out-of-window items were…]]
 - `2026-07-04` [[2026-07-04-deployment-silicon-power-take-center-stage|Deployment, Silicon & Power Take Center Stage]]
 - `2026-07-04` [[2026-07-04-companies-blogs-nvidia-google-deepmind-openai-anthropic-mist|Companies & blogs: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
+- `2026-07-03` [[2026-07-03-trump-administration-will-oppose-a-centralized-us-ai-regulat|Trump administration will oppose a centralized US AI regulator, says outgoing adviser]]
 - `2026-07-03` [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist|Sources scanned: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras, Microsoft, Palantir, Oracle, IBM, Tencent, Baidu, Databricks, xAI, Alibaba, Huawei, SenseTime, DeepSeek • UC Berkeley, Stanford, MIT, Purdue, Georgia Tech, Princeton, Carnegie Mellon, University of Washington, Cornell, UT Austin, UC San Diego • OpenAI Blog, Google DeepMind Blog, Meta AI Blog, BAIR Blog, Apple Machine Learning Research • WSJ, MarkTechPost, TechCrunch, VentureBeat, Axios AI+, AI News, AiThority, MIT News, The Batch, Machine Learning Mastery, DigitalOcean AI Blog, Pitchbook News, The Information, Business Insider.]]
 - `2026-07-02` [[2026-07-02-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-07-02` [[2026-07-02-mistral-releases-leanstral-1-5-an-open-formal-verification-c|Mistral releases Leanstral 1.5, an open formal-verification code agent for Lean 4]]
@@ -149,6 +153,7 @@ member_count: 169
 - `2026-05-03` [[2026-05-03-google-gemini-ai-assistant-deployed-in-millions-of-vehicles|Google Gemini AI Assistant Deployed in Millions of Vehicles NEW TechCrunch · April 30, 2026 Google announced that its…]]
 - `2026-05-03` [[2026-05-03-anthropic-approaches-900b-valuation-50b-round-could-close-wi|Anthropic Approaches $900B+ Valuation — $50B Round Could Close Within Two Weeks BREAKING TechCrunch / Marina Temkin ·…]]
 - `2026-05-02` [[2026-05-02-may-1-2026-the-decoder|📅 May 1, 2026 📰 The Decoder…]]
+- `2026-05-02` [[2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning|TRENDINGGrok 4.3 adds sub-2-minute voice cloning]]
 - `2026-05-02` [[2026-05-02-saturday-may-2-2026-today-s-digest-covers-18-confirmed-stori|Saturday, May 2, 2026 Today's digest covers 18 confirmed stories from the past 24 hours across frontier model releases,…]]
 - `2026-05-02` [[2026-05-02-newmistral-ships-medium-3-5-with-vibe-remote-agents-and-le-c|NEWMistral ships Medium 3.5 with Vibe remote agents and Le Chat Work Mode]]
 - `2026-05-02` [[2026-05-02-mistral-has-shipped-medium-3-5-a-128-billion-parameter-dense|Mistral has shipped Medium 3.5, a 128-billion-parameter dense merged model released under open weights]]

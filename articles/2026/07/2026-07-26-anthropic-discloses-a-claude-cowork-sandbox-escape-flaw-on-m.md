@@ -16,7 +16,7 @@ entities:
 - Anthropic
 - OpenAI
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ The Next Web reports a flaw in Anthropic's Claude Cowork that could let the agen
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

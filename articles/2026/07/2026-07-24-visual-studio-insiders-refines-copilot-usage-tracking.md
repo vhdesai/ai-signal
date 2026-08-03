@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
+- 2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built
 - 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
-- 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 embedding_id: 2026-07-24-visual-studio-insiders-refines-copilot-usage-tracking
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]] · [[2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a]]
+**Related:** [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]]
 <!-- graph:end -->

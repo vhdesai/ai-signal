@@ -8,7 +8,7 @@ url_canonical: https://epoch.ai/MirrorCode
 url_status: found
 digest_source: digests\raw\2026-06-27_092146_Inbox_Daily AI News Digest - June 27,
   2026.md
-content_hash: 63fffc70f10d99f36dcf8a3cbb09e1ef14871239ea9fc2aaeaa4304c417795e5
+content_hash: e9e60176c31c20b8b8983825ec7bcd6272dc87bd4e3c2ae6b67af881d3af11cc
 normalized_title_hash: 522aa289e5ada5c9
 canonical_url_hash: 1f4f91f345df2c3d
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Epoch AI and METR launch MirrorCode, a long-horizon coding benchmark
 
-MirrorCode, co-developed by Epoch AI and METR, tasks models with reimplementing entire programs end-to-end — 25 target programs spanning Unix utilities, interpreters, bioinformatics, cryptography and compression — with no access to the original source code. Unlike most software benchmarks capped at a few dollars per task, MirrorCode grants serious inference budgets: one of the largest runs cost $2,600 and had a model working autonomously for 19 days. Early results show frontier models leading but still failing the most complex tasks, sharpening the picture of where autonomous coding agents top out.
+MirrorCode, co-developed by Epoch AI and METR, tasks models with reimplementing entire programs end-to-end — 25 target programs spanning Unix utilities, interpreters, bioinformatics, cryptography and compression — with no access to the original source code. Unlike most software benchmarks capped at a few dollars per task, MirrorCode grants serious inference budgets: one of the largest runs cost $2,600 and had a model working autonomously for 19 days. Early results show frontier models leading but still failing the most complex tasks, sharpening the picture of where autonomous coding agents top out. Academic Research RESEARCH ACADEMIC
 
 <!-- graph:start -->
 ## Connections

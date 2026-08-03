@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
-content_hash: 76cf724db95e1d02ee3926da67d986d37d52614c061307325f1e4f385ba7cf97
+content_hash: 0c4cbe89c1f44ff5e6f269db668aa9eea58b6ec3f821740aea1ba031a86330cc
 normalized_title_hash: 63fd8bfeb61181a8
 canonical_url_hash: ''
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # Welcome to the era of the forever layoff
 
-Business Insider analyzed how AI investment is contributing to a permanent restructuring cycle across large technology firms, including Microsoft, Cloudflare, Cisco, and Amazon. The article frames layoffs less as recessionary events and more as continuous workforce recalibration as companies fund AI buildouts, search for AI productivity gains, and reshape roles around automation.
+Business Insider analyzed how AI investment is contributing to a permanent restructuring cycle across large technology firms, including Microsoft, Cloudflare, Cisco, and Amazon. The article frames layoffs less as recessionary events and more as continuous workforce recalibration as companies fund AI buildouts, search for AI productivity gains, and reshape roles around automation. APPLEOPENAIAI-HARDWARE
 
 <!-- graph:start -->
 ## Connections

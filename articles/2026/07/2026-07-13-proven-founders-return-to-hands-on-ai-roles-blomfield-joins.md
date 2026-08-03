@@ -11,11 +11,12 @@ digest_source: digests\raw\2026-07-14_065240_Inbox_Daily AI News Digest - July 1
 content_hash: 02cee086623348f963a1898b4cd6ac4a44d583d5ec269b7597f83ee06b6a1f71
 normalized_title_hash: 206bcd6e7606051c
 canonical_url_hash: 5ff9e4858ff1b61a
-tags: []
+tags:
+- Trending
 entities:
 - Anthropic
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +34,6 @@ Monzo/GoCardless co-founder Tom Blomfield leaves YC to join Anthropic's compute 
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-19-andrej-karpathy-joins-anthropic-pretraining-team-to-work-on]]
 <!-- graph:end -->

@@ -14,7 +14,8 @@ canonical_url_hash: ''
 tags:
 - New
 entities: []
-themes: []
+themes:
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,5 +36,6 @@ Three major U.S. states are advancing distinct AI regulatory frameworks, creatin
 <!-- graph:start -->
 ## Connections
 
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-11-state-ai-regulatory-roundup-colorado-connecticut-california]] · [[2026-05-15-state-legislatures-are-moving-aggressively-in-2026-with-colo]] · [[2026-03-31-white-house-ai-framework-vs-state-regulations-california-and]] · [[2026-05-28-us-states-continue-to-fill-federal-ai-oversight-vacuum]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
 <!-- graph:end -->

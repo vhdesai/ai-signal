@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_060843_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 4fb62411bd6adb4ac445ceb377dafebde691ec5ec5d6812c28235a8da34df598
+content_hash: 8452a2c45d3420f337401c8926605673438882877763f355c7812d61466ec0b2
 normalized_title_hash: 625c88f1bcebe465
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Alibaba
 - ByteDance
@@ -33,7 +34,7 @@ event_name: ''
 
 # Beijing Reportedly Weighs Restricting Overseas Access to Advanced Chinese Models
 
-Reuters reported that Chinese authorities recently met with Alibaba, ByteDance, Z.ai, and others to weigh restricting overseas access to advanced Chinese open- and closed-weight AI models. The discussions mark a notable inversion of the usual U.S.-export-control framing, with Beijing now considering curbs on outbound model access. The report is based on sources and the deliberations remain preliminary. Read at Reuters →https://www.reuters.com/
+Reuters reported that Chinese authorities recently met with Alibaba, ByteDance, Z.ai, and others to weigh restricting overseas access to advanced Chinese open- and closed-weight AI models. The discussions mark a notable inversion of the usual U.S.-export-control framing, with Beijing now considering curbs on outbound model access. The report is based on sources and the deliberations remain preliminary. Read at Reuters →https://www.reuters.com/ TRENDING Regulation
 
 <!-- graph:start -->
 ## Connections

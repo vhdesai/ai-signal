@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
-content_hash: 7e01eb5e3b46016fb6be5468fa40d3b7be13d6ba03626d40fec5b093f8a38789
+content_hash: 64762175f60e7bfe4ce9566f5df8ca2609116993a34d678706c56fced7f93e13
 normalized_title_hash: aa2960ffb48504ee
 canonical_url_hash: ''
 tags:
@@ -40,7 +40,7 @@ event_name: ''
 
 # Pentagon Awards IL6/IL7 AI Contracts to 8 Firms — Anthropic Excluded Over Safety Limits
 
-The Pentagon finalized AI agreements for SECRET/TOP SECRET (IL6/IL7) classified networks with eight companies — OpenAI, Google, Microsoft, AWS, Nvidia, SpaceX, Oracle, and startup Reflection AI — permanently excluding Anthropic, which had previously held a $200M contract. Anthropic's contract was voided after it refused a "for all lawful purposes" usage clause that would cover autonomous weapons and mass surveillance. The exclusion represents a defining moment in the AI safety-vs-commercialization debate: seven competitors accepted the clause; Anthropic did not. Daniela Amodei has expressed hope that the standoff is temporary. 🔬 Academic Research
+The Pentagon finalized AI agreements for SECRET/TOP SECRET (IL6/IL7) classified networks with eight companies — OpenAI, Google, Microsoft, AWS, Nvidia, SpaceX, Oracle, and startup Reflection AI — permanently excluding Anthropic, which had previously held a $200M contract. Anthropic's contract was voided after it refused a "for all lawful purposes" usage clause that would cover autonomous weapons and mass surveillance. The exclusion represents a defining moment in the AI safety-vs-commercialization debate: seven competitors accepted the clause; Anthropic did not. Daniela Amodei has expressed hope that the standoff is temporary. 🔬 Academic Research New Research
 
 <!-- graph:start -->
 ## Connections

@@ -11,12 +11,11 @@ digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 177d5ff6b2844f8078e8e9bb0f7c7460a1efe3821d9c374675a8af05449e9fb6
 normalized_title_hash: 47797ad1f053cb29
 canonical_url_hash: 9588f0d947e93e5f
-tags:
-- New
+tags: []
 entities:
 - Mistral
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ Mistral released an 8B embodied-navigation model that uses a single RGB camera a
 ## Connections
 
 **Entities:** [[Mistral]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-14-mistral-releases-robostral-navigate-for-single-camera-embodi]] · [[2026-07-14-mistral-ai-releases-robostral-navigate-an-8b-model-for-robot]] · [[2026-07-15-mistral-releases-robostral-navigate-for-single-camera-robot]] · [[2026-07-09-mistral-enters-physical-ai-with-robostral-navigate]] · [[2026-05-10-mistral-medium-3-5-128b-enterprise-open-weight-model-with-re]]
 <!-- graph:end -->

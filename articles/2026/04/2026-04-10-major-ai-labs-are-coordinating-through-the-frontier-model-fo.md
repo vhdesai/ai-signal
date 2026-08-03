@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-10-frontier-model-forum-openai-anthropic-google-unite-against-a
+- 2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model
 - 2026-07-12-frontier-model-competition-is-accelerating-agentic-ai-is-bec
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
-- 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 embedding_id: 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Major AI labs are coordinating through the Frontier Model Forum to address the g
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-10-frontier-model-forum-openai-anthropic-google-unite-against-a]] · [[2026-07-12-frontier-model-competition-is-accelerating-agentic-ai-is-bec]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]]
+**Related:** [[2026-04-10-frontier-model-forum-openai-anthropic-google-unite-against-a]] · [[2026-07-31-chinese-military-researchers-used-openai-and-anthropic-model]] · [[2026-07-12-frontier-model-competition-is-accelerating-agentic-ai-is-bec]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]]
 <!-- graph:end -->

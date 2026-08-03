@@ -16,7 +16,10 @@ tags: []
 entities:
 - Google
 themes:
+- datacenter-infrastructure
+- policy-regulation
 - model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +39,6 @@ DeepMind published detailed research on AlphaEvolve showing its Gemini-powered a
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-05-09-google-deepmind-published-detailed-results-for-alphaevolve-a]] · [[2026-05-08-alphaevolve-coming-to-google-cloud-enterprise-gemini-powered]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]]
 <!-- graph:end -->

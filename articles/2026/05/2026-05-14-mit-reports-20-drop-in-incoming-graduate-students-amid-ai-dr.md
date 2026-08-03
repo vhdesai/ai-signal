@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
-content_hash: 2eea6a7ebdea6542e65ac1613a9ef5b08cce3573bc4736c9c81e5efdc61e9c0e
+content_hash: 5fa80eb0432c07912a75ff38cb9eedb675ff3aa7ffc4884df2ff574a0117624d
 normalized_title_hash: e7a674047e8b32d7
 canonical_url_hash: ''
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # MIT Reports 20% Drop in Incoming Graduate Students Amid AI-Driven Talent Shifts
 
-MIT disclosed a 20% year-over-year decline in incoming graduate students, a trend attributed to multiple factors including AI's impact on the perceived ROI of advanced degrees, international student visa restrictions, and high-compensation opportunities at AI labs attracting candidates who previously would have pursued PhDs. The finding raises strategic questions about the long-term research talent pipeline for academic AI programs.
+MIT disclosed a 20% year-over-year decline in incoming graduate students, a trend attributed to multiple factors including AI's impact on the perceived ROI of advanced degrees, international student visa restrictions, and high-compensation opportunities at AI labs attracting candidates who previously would have pursued PhDs. The finding raises strategic questions about the long-term research talent pipeline for academic AI programs. SECTION 6
 
 <!-- graph:start -->
 ## Connections

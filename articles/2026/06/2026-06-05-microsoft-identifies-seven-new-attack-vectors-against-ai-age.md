@@ -17,8 +17,7 @@ entities:
 - Anthropic
 - Microsoft
 themes:
-- model-capabilities
-- company-storylines
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +39,6 @@ Microsoft published research identifying seven new ways AI agents can be hacked 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-20-research-agents-of-chaos-paper-harvard-mit-stanford-cmu-docu]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-06-12-agentjacking-attack-tricks-ai-coding-agents-into-malicious-c]] · [[2026-06-02-turncoat-ai-agents-emerge-as-the-new-inside-hackers]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]]
 <!-- graph:end -->

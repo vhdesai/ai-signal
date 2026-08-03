@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews
 - 2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen
 - 2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo
+- 2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate
 - 2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 embedding_id: 2026-06-04-altman-urges-congress-to-fund-ai-testing-not-require-model-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's Sam Altman pressed lawmakers to reject mandatory pre-release model sign
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-07-26-openai-presses-white-house-to-speed-frontier-model-reviews]] · [[2026-07-28-sam-altman-says-he-is-ready-to-consider-pacing-ai-developmen]] · [[2026-07-28-sam-altman-signals-willingness-to-pace-ai-as-1-100-lab-emplo]] · [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate]] · [[2026-06-10-sam-altman-tells-staff-openai-could-go-public-within-the-nex]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: https://finance.yahoo.com/technology/ai/articles/softbanks-son-sa
 url_status: found
 digest_source: digests\raw\2026-07-14_082213_Inbox_Fw Daily AI News Digest - July
   14, 2026.md
-content_hash: 64714196846016bb4f161767a25ecbd74b5f4cf9cccfcfb287f1e5a7b6af66f5
+content_hash: d03e324dba8670a53266e955eca7f9c56d162833b8acb3d51591939ab3e58a06
 normalized_title_hash: c47ff76a8aa8b40d
 canonical_url_hash: 8a92ad0bd7b6ef96
 tags:
@@ -30,7 +30,7 @@ event_name: ''
 
 # SoftBank's Masayoshi Son says AI will require $5T a year by 2040
 
-Masayoshi Son projected that AI buildout will require roughly $5 trillion of annual investment by 2040 and dismissed bubble concerns as “absurd.” He forecast AI data centers consuming 3 terawatts, about 1.8x today's global power draw.
+Masayoshi Son projected that AI buildout will require roughly $5 trillion of annual investment by 2040 and dismissed bubble concerns as “absurd.” He forecast AI data centers consuming 3 terawatts, about 1.8x today's global power draw. HOT COMPUTE
 
 <!-- graph:start -->
 ## Connections

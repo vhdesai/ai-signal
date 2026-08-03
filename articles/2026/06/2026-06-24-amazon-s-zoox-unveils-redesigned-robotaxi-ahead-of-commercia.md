@@ -14,16 +14,16 @@ canonical_url_hash: a8b8798b700e6b17
 tags: []
 entities:
 - Amazon
-themes:
-- company-storylines
+themes: []
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
+- 2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit
+- 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 - 2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles
 - 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-04-09-products-tools
 embedding_id: 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
 event_name: ''
 ---
@@ -36,6 +36,5 @@ Amazon-owned Zoox revealed design and functional upgrades to its purpose-built, 
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-09-products-tools]]
+**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit]] · [[2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]] · [[2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed]]
 <!-- graph:end -->

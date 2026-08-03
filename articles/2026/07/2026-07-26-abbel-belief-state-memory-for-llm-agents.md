@@ -8,12 +8,13 @@ url_canonical: https://bair.berkeley.edu/blog/2026/07/26/abbel/
 url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 5f7bb1dec198e13ae39ca31b86e919ea7a61f7ebb751dfef8ff2188c4467235d
+content_hash: ff252cb4afe2cabbf453e834ce60c8fa76de6c2dd6ee4828505468c0e7c95056
 normalized_title_hash: 39dd802efbef48a6
 canonical_url_hash: 6b5cb1a0cb2c5ec5
 tags: []
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -29,11 +30,11 @@ event_name: ''
 
 # ABBEL: belief-state memory for LLM agents
 
-Berkeley AI Research introduced ABBEL, a framework that isolates and supervises the information content of an agent's summaries as explicit natural-language "belief states." On the CollabBench benchmark, ABBEL reduces the performance gap versus full-context models by about 50% while training in 50% fewer steps. The work points toward more memory-efficient, interpretable long-horizon LLM agents.
+Berkeley AI Research introduced ABBEL, a framework that isolates and supervises the information content of an agent's summaries as explicit natural-language "belief states." On the CollabBench benchmark, ABBEL reduces the performance gap versus full-context models by about 50% while training in 50% fewer steps. The work points toward more memory-efficient, interpretable long-horizon LLM agents. AI Safety & Policy Hot Security
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-07-26-bair-proposes-abbel-for-long-horizon-belief-state-management]] · [[2026-07-11-choosing-the-right-ai-agent-memory-strategy-a-decision-tree]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]]
 <!-- graph:end -->

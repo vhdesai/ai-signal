@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
 - 2026-05-04-nature-medicine-a-call-for-an-independent-international-scie
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-- 2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew
+- 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 embedding_id: 2026-04-06-embedded-within-openai-s-broader-intelligence-age-policy-pap
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Embedded within OpenAI's broader intelligence-age policy paper is a call for an 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-22-singapore-imda-releases-updated-agentic-ai-governance-framew]]
+**Related:** [[2026-04-06-openai-policy-paper-calls-for-international-ai-governance-fr]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-05-04-nature-medicine-a-call-for-an-independent-international-scie]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]]
 <!-- graph:end -->

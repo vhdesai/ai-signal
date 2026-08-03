@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-23_060602_Inbox_Daily AI News Digest - July 23,
   2026.md
-content_hash: 85a01b5dbccec32c1785d104e503170bd1323b24b6fe536916653741da8c1bf6
+content_hash: 54d0e945e5ab2ca87554f78ae969a6111f9089961dc92337ac0040ab4f098abc
 normalized_title_hash: 42ff65c9cb66ae36
 canonical_url_hash: ''
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # ServiceNow invests million in BusinessNext to deepen banking AI push
 
-ServiceNow invested million in Indian banking software specialist BusinessNext at a million valuation.
+ServiceNow invested million in Indian banking software specialist BusinessNext at a million valuation. WORKFORCEAI TRANSFORMATIONSAAS
 
 <!-- graph:start -->
 ## Connections

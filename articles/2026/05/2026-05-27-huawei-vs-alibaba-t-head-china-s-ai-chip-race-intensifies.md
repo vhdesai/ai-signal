@@ -8,7 +8,7 @@ url_canonical: https://www.reuters.com/technology/artificial-intelligence/huawei
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: a65bd6ed32a2254fed249be1813a05f5642d2a33a21074e8436bae39d536129a
+content_hash: b7c541b68a0465f3a5f58bf22998bb20d7259cbbacd24090b09314ed72ca9ccc
 normalized_title_hash: c9f6deb650ce2ed2
 canonical_url_hash: 8d20b7267ddc3623
 tags: []
@@ -34,7 +34,7 @@ event_name: ''
 
 # Huawei vs. Alibaba T-Head: China's AI Chip Race Intensifies
 
-Reuters reported Alibaba's T-Head chip unit unveiled the Zhenwu M890 and a multi-year roadmap targeting "massive performance gains." T-Head is now explicitly chasing Huawei's Ascend 910/CloudMatrix 384 roadmap (running through 2028) rather than chasing Nvidia, signaling the Chinese AI silicon market is consolidating around two domestic vertical stacks. For US-headquartered enterprises with China exposure, 2026–2027 capacity decisions will increasingly be made against a Huawei-vs-T-Head matrix rather than an Nvidia-availability matrix.
+Reuters reported Alibaba's T-Head chip unit unveiled the Zhenwu M890 and a multi-year roadmap targeting "massive performance gains." T-Head is now explicitly chasing Huawei's Ascend 910/CloudMatrix 384 roadmap (running through 2028) rather than chasing Nvidia, signaling the Chinese AI silicon market is consolidating around two domestic vertical stacks. For US-headquartered enterprises with China exposure, 2026–2027 capacity decisions will increasingly be made against a Huawei-vs-T-Head matrix rather than an Nvidia-availability matrix. M
 
 <!-- graph:start -->
 ## Connections

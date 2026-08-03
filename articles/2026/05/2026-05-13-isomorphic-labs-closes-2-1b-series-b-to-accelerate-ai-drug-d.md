@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
+- 2026-07-30-google-deepmind-disbands-its-alphafold-team
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
 - 2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus
-- 2026-07-16-google-deepmind-and-isomorphic-labs-outline-a-bioresilience
 embedding_id: 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Isomorphic Labs — the Google DeepMind spinout behind AlphaFold — closed a $2
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus]] · [[2026-07-16-google-deepmind-and-isomorphic-labs-outline-a-bioresilience]]
+**Related:** [[2026-05-13-isomorphic-labs-deepmind-spinout-raises-2-1b-series-b-for-ai]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-07-30-google-deepmind-disbands-its-alphafold-team]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus]]
 <!-- graph:end -->

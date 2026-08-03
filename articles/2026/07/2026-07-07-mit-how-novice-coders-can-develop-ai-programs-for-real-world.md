@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: 0f8013e546489326dc90975109d7b3bc021793cf2c629e19520b0d5ba680fefa
+content_hash: 5da6df38ba55aa36e492ab822d13048e93c3d919888fe9982f710d99d82ccbea
 normalized_title_hash: 10b2edec75afe6d7
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
 - datacenter-infrastructure
@@ -30,7 +31,7 @@ event_name: ''
 
 # MIT: How Novice Coders Can Develop AI Programs for Real-World Applications
 
-Through the U.S. Department of the Air Force–MIT AI Accelerator’s Phantom Program, a cadet with no coding background built a functional application by “vibe-coding” with Claude, ChatGPT, and Gemini, mentored by a Lincoln Laboratory researcher. The study documents where chatbots help and fail for non-technical users; the cadet had to re-scope the project as capability and security limits surfaced. The takeaway: generative AI can meaningfully empower domain experts to prototype software, but current models still require careful scoping.
+Through the U.S. Department of the Air Force–MIT AI Accelerator’s Phantom Program, a cadet with no coding background built a functional application by “vibe-coding” with Claude, ChatGPT, and Gemini, mentored by a Lincoln Laboratory researcher. The study documents where chatbots help and fail for non-technical users; the cadet had to re-scope the project as capability and security limits surfaced. The takeaway: generative AI can meaningfully empower domain experts to prototype software, but current models still require careful scoping. Read at MIT News → LEADERSHIP
 
 <!-- graph:start -->
 ## Connections

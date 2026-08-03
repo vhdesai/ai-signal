@@ -11,9 +11,11 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: a746071699374944f47f1b3d8a76cb379e0e7c1960465a5e0d273584320a4b51
 normalized_title_hash: 53e8feb422a21b33
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,5 +35,6 @@ A coalition representing music labels and artists is pushing streaming platforms
 <!-- graph:start -->
 ## Connections
 
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor]] · [[2026-07-13-coalition-of-groups-representing-music-labels-and-artists-sa]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]]
 <!-- graph:end -->

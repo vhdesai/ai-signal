@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl
 - 2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on
 - 2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos
-- 2026-07-17-open-source-ai-copyright-teen-safety-ai-weapons-oversight-an
+- 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
 embedding_id: 2026-07-21-youtube-clarified-monetization-rules-for-repetitive-ai-gener
 event_name: ''
 ---
@@ -37,5 +37,5 @@ YouTube clarified monetization rules for repetitive AI-generated and low-quality
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-youtube-clarified-monetization-rules-for-repetitive-ai-gener]] · [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-07-17-open-source-ai-copyright-teen-safety-ai-weapons-oversight-an]]
+**Related:** [[2026-07-20-youtube-clarified-monetization-rules-for-repetitive-ai-gener]] · [[2026-05-24-publishers-are-increasingly-contending-with-ai-generated-unl]] · [[2026-05-23-pirated-ai-generated-audiobooks-become-a-growing-headache-on]] · [[2026-05-27-hot-youtube-to-automatically-label-ai-generated-videos]] · [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]]
 <!-- graph:end -->

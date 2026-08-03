@@ -8,7 +8,7 @@ url_canonical: https://www.analyticsinsight.net/news/alibaba-tencent-and-baidu-j
 url_status: found
 digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5,
   2026.md
-content_hash: f064d3544cfc52cfe9665bd442b09786e64533a557e988bbe4bfa48b26ebc949
+content_hash: 2799d1d7f245cb1c053be999d9d15004be06a4a595de77f8a2a0de266826f420
 normalized_title_hash: 5f69544e83f24814
 canonical_url_hash: 2889d7b039f5b759
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # Kling AI raises >$2.8B from Alibaba, Tencent and Baidu at a ~$15B valuation
 
-Kuaishou’s AI-video unit Kling AI secured more than $2.8B (~19B yuan) from investors including Alibaba, Tencent and Baidu, valuing the business at about $15B before the new capital. The round cuts Kuaishou’s ownership to roughly 68% and underscores how aggressively China’s big-tech incumbents are consolidating around a domestic answer to generative-video leaders. Expect it to fund the unit’s next model upgrade and an enterprise push.
+Kuaishou’s AI-video unit Kling AI secured more than $2.8B (~19B yuan) from investors including Alibaba, Tencent and Baidu, valuing the business at about $15B before the new capital. The round cuts Kuaishou’s ownership to roughly 68% and underscores how aggressively China’s big-tech incumbents are consolidating around a domestic answer to generative-video leaders. Expect it to fund the unit’s next model upgrade and an enterprise push. ENTERPRISE
 
 <!-- graph:start -->
 ## Connections

@@ -16,7 +16,8 @@ tags:
 entities:
 - Anthropic
 - Google
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,5 +39,6 @@ Anthropic shipped MCP tunnels and self-hosted sandboxes for Claude Managed Agent
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-19-anthropic-ships-mcp-tunnels-and-self-hosted-sandboxes-for-cl]] · [[2026-05-19-anthropic-expands-claude-managed-agents-self-hosted-sandboxe]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]]
 <!-- graph:end -->

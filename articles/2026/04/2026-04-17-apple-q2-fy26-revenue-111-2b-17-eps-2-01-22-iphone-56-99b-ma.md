@@ -24,11 +24,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo
+- 2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c
+- 2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen
 - 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
-- 2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records
-- 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
-- 2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco
-- 2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c
+- 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
 embedding_id: 2026-04-17-apple-q2-fy26-revenue-111-2b-17-eps-2-01-22-iphone-56-99b-ma
 event_name: ''
 ---
@@ -42,5 +42,5 @@ event_name: ''
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-04-03-crunchbase-confirmed-q1-2026-shattered-all-global-vc-records]] · [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-07-07-ai-megarounds-drive-north-american-venture-funding-to-a-reco]] · [[2026-07-07-samsung-posts-record-q2-profit-but-shares-fall-as-ai-capex-c]]
+**Related:** [[2026-07-31-apple-posts-record-june-quarter-but-warns-of-ai-driven-compo]] · [[2026-07-30-apple-posts-record-109-4b-june-quarter-but-warns-ai-driven-c]] · [[2026-07-30-apple-posts-record-june-quarter-but-warns-ai-driven-componen]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]]
 <!-- graph:end -->

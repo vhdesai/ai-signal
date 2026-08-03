@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7
 content_hash: 26c76bce3ca843e79be814f828107d699b4e8655b1dbd6d4f5977cc1f54b568f
 normalized_title_hash: af03e69af420e99e
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 themes:

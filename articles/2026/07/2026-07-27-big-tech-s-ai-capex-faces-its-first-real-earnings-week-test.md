@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-27_070014_Inbox_Daily AI News Digest - July 2
 content_hash: 857f724a1cbaa3d1cff263aabfc6470ccd77b6d0eb6503afdeba0590886cf8a5
 normalized_title_hash: 96dff084ff487d4d
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Amazon
 - Apple
@@ -25,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
+- 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
+- 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
-- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
 embedding_id: 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
 event_name: ''
 ---
@@ -41,5 +42,5 @@ Alphabet, Amazon, Meta, Microsoft, and Apple enter earnings week with investors 
 
 **Entities:** [[Amazon]] · [[Apple]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]]
+**Related:** [[2026-05-03-hyperscaler-2026-ai-capex-tracking-700b-combined]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-05-25-salesforce-snowflake-and-asana-all-report-q1-earnings-this-w]]
 <!-- graph:end -->

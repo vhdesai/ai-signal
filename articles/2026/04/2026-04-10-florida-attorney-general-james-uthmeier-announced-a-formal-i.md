@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-06-12-state-attorneys-general-open-investigation-into-openai
 - 2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over
 - 2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s
-- 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
+- 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 embedding_id: 2026-04-10-florida-attorney-general-james-uthmeier-announced-a-formal-i
 event_name: ''
 ---
@@ -45,5 +45,5 @@ xAI Sues Colorado Over AI Regulation Law
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-06-12-state-attorneys-general-open-investigation-into-openai]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
+**Related:** [[2026-04-12-florida-attorney-general-james-uthmeier-announced-a-formal-i]] · [[2026-06-12-state-attorneys-general-open-investigation-into-openai]] · [[2026-06-01-florida-files-first-of-its-kind-lawsuit-against-openai-over]] · [[2026-04-09-suspect-threw-a-molotov-cocktail-at-openai-ceo-sam-altman-s]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]]
 <!-- graph:end -->

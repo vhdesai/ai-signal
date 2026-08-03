@@ -11,14 +11,15 @@ digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 1
 content_hash: a8c2fd76e14e42344df86d5f39c76333ae557f26149e214a45c735b2a7a5e959
 normalized_title_hash: bfeacca6ce8454e2
 canonical_url_hash: 6fc155c9f7612184
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - Microsoft
 - OpenAI
 - Palantir
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
@@ -35,6 +36,6 @@ In a Monday blog post, Microsoft CEO Satya Nadella joined a growing chorus — i
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors]]
 <!-- graph:end -->

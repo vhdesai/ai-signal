@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-07-30_065951_Inbox_Daily AI News Digest - July 3
 content_hash: a2544c86c5a0f9a930f5fe1a7707e954473084e1280f6be43214bcdee5acd0d9
 normalized_title_hash: aa245a6958468cd6
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -24,6 +25,7 @@ related_article_ids:
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize
 - 2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip
+- 2026-08-02-market-turmoil-exposes-a-circular-and-opaque-ai-economy-rest
 embedding_id: 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 event_name: ''
 ---
@@ -35,6 +37,6 @@ Investors continued rotating out of chip and memory stocks as concerns grew over
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]] · [[2026-08-02-market-turmoil-exposes-a-circular-and-opaque-ai-economy-rest]]
 <!-- graph:end -->

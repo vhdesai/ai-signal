@@ -8,7 +8,7 @@ url_canonical: https://finance.yahoo.com/sectors/technology/articles/merlin-succ
 url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
-content_hash: a9295eccdeaa007d94564a3816ab6c040bdcd744f42a77ae1f415bba375468d8
+content_hash: f8ecc36c841f75c4b035f00a99a3434790af3dbdd6ca7c43641fa7effaa2bfdd
 normalized_title_hash: 4edc483732aedc28
 canonical_url_hash: 0d5d900660047892
 tags:
@@ -26,7 +26,7 @@ event_name: ''
 
 # Merlin Completes Critical Design Review for Autonomous Systems
 
-Merlin announced the successful completion of a critical design review for its autonomous systems platform, advancing AI-driven autonomous design toward production readiness.
+Merlin announced the successful completion of a critical design review for its autonomous systems platform, advancing AI-driven autonomous design toward production readiness. Academic Research RESEARCH
 
 <!-- graph:start -->
 ## Connections

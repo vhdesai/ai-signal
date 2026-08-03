@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
+- 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 embedding_id: 2026-07-28-microsoft-launches-mai-cyber-1-flash-its-first-cybersecurity
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Microsoft introduced MAI-Cyber-1-Flash, its first purpose-built cybersecurity mo
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]]
+**Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio]]
 <!-- graph:end -->

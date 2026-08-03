@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 2
 content_hash: 1e454420817230e7af963decfa958d090c2198f55ad56a5e2f7ee045568d0093
 normalized_title_hash: 2ce3e530314b6b28
 canonical_url_hash: e3241e8afa1e2bbb
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:

@@ -16,8 +16,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- model-capabilities
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +34,6 @@ Anthropic issued an official position on open-weights models, and CEO Dario Amod
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-07-27-anthropic-clarifies-does-not-oppose-open-weights-but-warns-a]]
 <!-- graph:end -->

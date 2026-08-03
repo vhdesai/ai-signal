@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-07-15-1password-launches-ai-spend-consumption-management-for-enter
+- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
+- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi
-- 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
-- 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
 embedding_id: 2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI adoption/spend-management emails emphasize token forecasting, AI chargeback, 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-07-15-1password-launches-ai-spend-consumption-management-for-enter]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]]
+**Related:** [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-07-15-1password-launches-ai-spend-consumption-management-for-enter]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]]
 <!-- graph:end -->

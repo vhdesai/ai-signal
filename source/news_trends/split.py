@@ -22,7 +22,7 @@ from .articles_io import write_article
 TAG_WORDS = ("hot", "new", "trending", "breaking", "updated", "developing", "launch")
 _TAG_TOKEN_RE = re.compile("|".join(TAG_WORDS), re.IGNORECASE)
 _TAG_LINE_RE = re.compile(r"^(?:\s*(?:" + "|".join(TAG_WORDS) + r"))+\s*$", re.IGNORECASE)
-_ACRONYM_RE = re.compile(r"^[A-Z]{2,5}$")
+_ACRONYM_RE = re.compile(r"^[A-Z][A-Za-z]?$|^[A-Z]{2,5}$")
 _YEAR_RE = re.compile(r"\b20\d{2}\b")
 
 _URL_RE = re.compile(r"https?://[^\s)>\]]+")
@@ -100,6 +100,22 @@ def _tags_from_md_line(line: str) -> list[str] | None:
 def _tags_from_line(line: str) -> list[str] | None:
     if _TAG_LINE_RE.match(line.strip()):
         return [t.capitalize() for t in _TAG_TOKEN_RE.findall(line)]
+    # Also treat lines starting with a tag word + category keywords as tag lines
+    # e.g. "HOT CHINA FRONTIER MODELS", "BREAKING REGULATION EU AI ACT"
+    words = line.strip().split()
+    if words and words[0].lower() in TAG_WORDS and 2 <= len(words) <= 8:
+        # All words are uppercase-like (tags are typically ALL CAPS)
+        if all(w.isupper() or w == "&" or w.replace("-", "").isupper() for w in words):
+            return [words[0].capitalize()]
+    # Concatenated tag lines like "HOTAI MONETIZATIONBIG TECH", "TRENDINGORACLEAI CAPEX"
+    s = line.strip()
+    if s and any(s.lower().startswith(tw) for tw in TAG_WORDS) and len(s) <= 60:
+        # If the line starts with a tag word (possibly concatenated) and is mostly uppercase
+        upper_ratio = sum(1 for c in s if c.isupper()) / max(len(s.replace(" ", "")), 1)
+        if upper_ratio > 0.6:
+            for tw in TAG_WORDS:
+                if s.lower().startswith(tw):
+                    return [tw.capitalize()]
     return None
 
 
@@ -126,7 +142,20 @@ def _is_theme_candidate(line: str) -> bool:
         return False
     if _YEAR_RE.search(s) or "http" in s:
         return False
+    # Reject very short lines (single/double chars are email formatting artifacts)
+    if len(s) <= 2:
+        return False
     words = s.split()
+    # Reject lines that start with a tag word (e.g. "HOT CHINA FRONTIER MODELS")
+    if words and words[0].lower() in TAG_WORDS:
+        return False
+    # Reject concatenated tag lines (e.g. "HOTAI MONETIZATIONBIG TECH")
+    if any(s.lower().startswith(tw) for tw in TAG_WORDS):
+        return False
+    # Reject mostly-uppercase lines (tag patterns, not section headers)
+    alpha_chars = [c for c in s if c.isalpha()]
+    if alpha_chars and sum(1 for c in alpha_chars if c.isupper()) / len(alpha_chars) > 0.7:
+        return False
     return (
         1 <= len(words) <= 6
         and len(s) <= 48

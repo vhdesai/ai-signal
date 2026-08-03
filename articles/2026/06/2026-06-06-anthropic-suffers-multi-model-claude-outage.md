@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an
+- 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
+- 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
+- 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
 - 2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter
-- 2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove
-- 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
-- 2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g
 embedding_id: 2026-06-06-anthropic-suffers-multi-model-claude-outage
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Beginning 15:08 UTC on June 5, Anthropic's status page flagged elevated error ra
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]] · [[2026-05-14-anthropic-publishes-claude-code-quality-postmortem-three-ove]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]] · [[2026-04-02-anthropic-accidentally-leaks-claude-code-source-takes-down-g]]
+**Related:** [[2026-06-05-anthropic-faces-multi-model-claude-outage-notion-disables-an]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]] · [[2026-04-08-anthropic-has-quietly-deployed-a-next-generation-model-inter]]
 <!-- graph:end -->

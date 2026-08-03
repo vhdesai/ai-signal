@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 1
 content_hash: 7daf37c7d34471cfd643a3def51a2b4704f26499fa0ca43fa3285f1aa2b3876d
 normalized_title_hash: 4d322ed961dfad30
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Amazon
 - Meta

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-other-ai-related-publication-emails-2026-07-31-external-2-ho
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
 - 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
 - 2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen
-- 2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are
 embedding_id: 2026-07-30-other-ai-related-publication-emails-2026-07-30-external-mcp
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Other AI-related Publication Emails - [2026-07-30] [EXTERNAL] MCP just killed th
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen]] · [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]]
+**Related:** [[2026-07-31-other-ai-related-publication-emails-2026-07-31-external-2-ho]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen]]
 <!-- graph:end -->

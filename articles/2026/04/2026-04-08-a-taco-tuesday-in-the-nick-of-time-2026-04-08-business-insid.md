@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-03-15-an-uber-eats-pricing-mystery-2026-03-15-business-insider
 - 2026-06-20-business-insider-2026-06-20-external-i-tested-side-hustles-f
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
+- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
 embedding_id: 2026-04-08-a-taco-tuesday-in-the-nick-of-time-2026-04-08-business-insid
 event_name: ''
 ---
@@ -33,5 +33,5 @@ A TACO Tuesday in the nick of time [2026-04-08] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-25-165b-by-making-you-angry-2026-03-25-business-insider]] · [[2026-03-15-an-uber-eats-pricing-mystery-2026-03-15-business-insider]] · [[2026-06-20-business-insider-2026-06-20-external-i-tested-side-hustles-f]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]]
+**Related:** [[2026-03-25-165b-by-making-you-angry-2026-03-25-business-insider]] · [[2026-03-15-an-uber-eats-pricing-mystery-2026-03-15-business-insider]] · [[2026-06-20-business-insider-2026-06-20-external-i-tested-side-hustles-f]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]]
 <!-- graph:end -->

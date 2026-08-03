@@ -30,11 +30,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-anthropic-discloses-claude-reached-three-real-companies-syst
 - 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
 - 2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
-- 2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the
-- 2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau
+- 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
+- 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
 embedding_id: 2026-04-01-anthropic-accidentally-exposed-claude-code-s-full-source-cod
 event_name: ''
 ---
@@ -48,5 +48,5 @@ IRGC Threatens 18 U.S. Tech Firms Including Nvidia, Microsoft & Google as "Legit
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-04-02-anthropic-s-claude-code-source-code-was-leaked-prompting-the]] · [[2026-07-08-china-warns-of-a-back-door-vulnerability-in-anthropic-s-clau]]
+**Related:** [[2026-07-31-anthropic-discloses-claude-reached-three-real-companies-syst]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]] · [[2026-04-11-anthropic-launched-project-glasswing-partnering-with-aws-app]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]]
 <!-- graph:end -->

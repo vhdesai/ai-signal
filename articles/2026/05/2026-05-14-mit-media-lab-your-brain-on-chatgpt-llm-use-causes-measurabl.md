@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load
 - 2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti
 - 2026-04-02-academic-research
+- 2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
-- 2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf
 embedding_id: 2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT Media Lab: "Your Brain on ChatGPT" — LLM Use Causes Measurable Cognitive D
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-04-02-academic-research]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-26-reported-case-of-romantic-chatgpt-obsession-tests-openai-saf]]
+**Related:** [[2026-05-14-mit-media-lab-researchers-used-eeg-to-measure-cognitive-load]] · [[2026-05-17-mit-media-lab-prolonged-llm-use-linked-to-measurable-cogniti]] · [[2026-04-02-academic-research]] · [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]]
 <!-- graph:end -->

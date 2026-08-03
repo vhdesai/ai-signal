@@ -11,11 +11,11 @@ digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 1
 content_hash: c7e10e98c9cee99848241616e4202bbe78eb61a3f5d7ec2d145954723b3e4c46
 normalized_title_hash: 1e92a88f05736755
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ Stanford highlighted Biomni, a general-purpose biomedical AI co-scientist that c
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

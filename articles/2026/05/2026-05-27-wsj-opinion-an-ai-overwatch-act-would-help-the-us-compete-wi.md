@@ -19,8 +19,7 @@ entities:
 - Meta
 - OpenAI
 themes:
-- datacenter-infrastructure
-- model-capabilities
+- policy-regulation
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -43,6 +42,6 @@ A WSJ opinion piece argues for an "AI Overwatch Act" — a legislative framework
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Related:** [[2026-07-01-u-s-nears-voluntary-framework-with-ai-companies-for-releasin]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
 <!-- graph:end -->

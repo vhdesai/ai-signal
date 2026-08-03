@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 1
 content_hash: 6d96c880ee6eb7a79d17c1f904b19371f8ec624f8201da35b797dcfafdf3f15c
 normalized_title_hash: aa494d801a992d74
 canonical_url_hash: f499f014cf966598
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - Meta

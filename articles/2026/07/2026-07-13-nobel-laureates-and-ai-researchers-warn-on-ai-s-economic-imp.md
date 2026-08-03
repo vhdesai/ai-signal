@@ -11,11 +11,11 @@ digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 1
 content_hash: 3b25ccbc95b90963e5e38e884349d60a563b4a852f5a14fb68ab6c2099bde16a
 normalized_title_hash: ad1f9152793a342d
 canonical_url_hash: 8333555f4ae63a90
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - policy-regulation
-- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for
@@ -31,6 +31,6 @@ More than 200 economists and AI researchers, including 16 Nobel laureates and le
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-13-nobel-laureates-and-ai-researchers-call-for-preparation-for]]
 <!-- graph:end -->

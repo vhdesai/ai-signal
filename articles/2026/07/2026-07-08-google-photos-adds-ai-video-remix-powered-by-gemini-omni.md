@@ -19,8 +19,6 @@ entities:
 - Google
 - OpenAI
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -38,6 +36,6 @@ Google rolled out a "Video Remix" feature in Google Photos that edits and restyl
 ## Connections
 
 **Entities:** [[Adobe]] · [[Apple]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]]
 <!-- graph:end -->

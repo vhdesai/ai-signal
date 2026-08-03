@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning
 - 2026-07-02-xai-launches-no-code-grok-voice-agent-builder
+- 2026-05-01-newxai-releases-grok-4-3
 - 2026-07-02-xai-launches-grok-voice-ai-agent-builder
 - 2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api
-- 2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl
-- 2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th
 embedding_id: 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI has released Grok 4.3 through its API with aggressively competitive pricing 
 
 **Entities:** [[OpenAI]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]] · [[2026-05-02-xai-launches-custom-voices-one-minute-of-speech-creates-a-cl]] · [[2026-04-20-xai-april-17-2026-xai-pushed-grok-4-3-into-public-beta-on-th]]
+**Related:** [[2026-05-02-trendinggrok-4-3-adds-sub-2-minute-voice-cloning]] · [[2026-07-02-xai-launches-no-code-grok-voice-agent-builder]] · [[2026-05-01-newxai-releases-grok-4-3]] · [[2026-07-02-xai-launches-grok-voice-ai-agent-builder]] · [[2026-05-12-xai-ships-grok-voice-think-fast-1-0-via-api]]
 <!-- graph:end -->

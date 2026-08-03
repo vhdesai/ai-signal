@@ -17,7 +17,7 @@ entities:
 - Anthropic
 - Google
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents
@@ -34,6 +34,6 @@ Anthropic shipped two enterprise-grade features for Claude Managed Agents: MCP t
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-05-19-anthropic-adds-enterprise-controls-for-managed-claude-agents]]
 <!-- graph:end -->

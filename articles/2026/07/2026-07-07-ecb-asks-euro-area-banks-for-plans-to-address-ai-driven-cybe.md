@@ -13,8 +13,7 @@ normalized_title_hash: 8041cbc1f976a182
 canonical_url_hash: ''
 tags: []
 entities: []
-themes:
-- policy-regulation
+themes: []
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +33,5 @@ The European Central Bank has asked euro-area banks to submit plans for addressi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac]] · [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]]
 <!-- graph:end -->

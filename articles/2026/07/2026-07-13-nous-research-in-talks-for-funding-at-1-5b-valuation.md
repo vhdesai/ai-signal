@@ -11,11 +11,10 @@ digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 1
 content_hash: 76be4d201575c8f550580fbddc88b6e3ed302a83aa9a4a856b7ea0ff46dfdb54
 normalized_title_hash: 1b5a40078d14ba87
 canonical_url_hash: 965e2f380a4c12db
-tags: []
+tags:
+- New
 entities: []
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -37,6 +36,6 @@ Nous Research, maker of the Hermes agent, is reportedly finalizing at least $75 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua]] · [[2026-07-14-nous-research-in-talks-to-raise-75m-at-a-1-5b-valuation-for]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val]]
 <!-- graph:end -->

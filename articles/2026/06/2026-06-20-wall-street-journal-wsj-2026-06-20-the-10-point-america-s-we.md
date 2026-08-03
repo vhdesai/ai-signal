@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
 - 2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv
+- 2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news
 - 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news
-- 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
 embedding_id: 2026-06-20-wall-street-journal-wsj-2026-06-20-the-10-point-america-s-we
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Wall Street Journal / WSJ - [2026-06-20] The 10-Point: America's Wealthiest Lose
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]]
+**Related:** [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv]] · [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news]]
 <!-- graph:end -->

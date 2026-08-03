@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build
 - 2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai
 - 2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles
-- 2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 embedding_id: 2026-06-26-cio-dive-2026-06-26-external-june-26-ice-cream-titan-sets-it
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-06-26] [EXTERNAL] June 26 - Ice cream titan sets IT plan | Entr
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-08-cio-dive-2026-06-08-external-june-8-ice-cream-giant-serves-u]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]]
+**Related:** [[2026-06-08-cio-dive-2026-06-08-external-june-8-ice-cream-giant-serves-u]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]] · [[2026-06-23-cio-dive-2026-06-23-june-23-mainframe-exit-plans-at-risk-ai]] · [[2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]]
 <!-- graph:end -->

@@ -15,7 +15,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ In a new report on behavioral inconsistencies published Monday, Anthropic said C
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-15-anthropic-research-finds-claude-s-expressed-values-and-tone]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-05-09-anthropic-publishes-natural-language-autoencoders-a-window-i]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
 <!-- graph:end -->

@@ -16,7 +16,7 @@ tags: []
 entities:
 - OpenAI
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit
@@ -36,7 +36,7 @@ OpenAI previewed its next-generation GPT-5.6 family in three tiers: Sol (flagshi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-06-26-openai-previews-gpt-5-6-family-sol-terra-and-luna-in-a-limit]]
 **Related:** [[2026-06-26-openai-soft-launches-gpt-5-6-sol-terra-luna-under-restricted]] · [[2026-07-09-openai-launches-the-gpt-5-6-family-sol-terra-and-luna]] · [[2026-07-29-openai-launches-the-gpt-5-6-family-competing-on-intelligence]]
 <!-- graph:end -->

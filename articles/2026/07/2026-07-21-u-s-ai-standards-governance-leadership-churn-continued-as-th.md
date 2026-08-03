@@ -21,9 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-u-s-ai-standards-governance-leadership-churn-continued-as-th
-- 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
-- 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
-- 2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use
+- 2026-07-12-openai-safety-governance
+- 2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks
 embedding_id: 2026-07-21-u-s-ai-standards-governance-leadership-churn-continued-as-th
 event_name: ''
 ---
@@ -36,5 +35,5 @@ U.S. AI standards/governance leadership churn continued as the Center for AI Sta
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-u-s-ai-standards-governance-leadership-churn-continued-as-th]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]] · [[2026-07-27-most-corporate-boards-still-lack-rules-for-ai-use]]
+**Related:** [[2026-07-20-u-s-ai-standards-governance-leadership-churn-continued-as-th]] · [[2026-07-12-openai-safety-governance]] · [[2026-08-01-most-us-companies-lack-mature-ai-governance-frameworks]]
 <!-- graph:end -->

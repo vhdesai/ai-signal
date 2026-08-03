@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June
 content_hash: ec3e8096a14c25a1b67dbdc22e8ae6cc154e401de220e666042506af94b3bac3
 normalized_title_hash: faf385377247452c
 canonical_url_hash: 9d046b68f7c5455f
-tags: []
+tags:
+- Trending
 entities:
 - Google
 themes:

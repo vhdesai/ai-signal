@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-24_060655_Inbox_Daily AI News Digest - July 2
 content_hash: 5dd17e15c1d8b04dc51143b38cf1e5fb4c2255b1ee15958a9bac175dbd008068
 normalized_title_hash: 26df489479ad4c4b
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - AMD
 - NVIDIA

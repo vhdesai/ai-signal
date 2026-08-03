@@ -8,7 +8,7 @@ url_canonical: https://l.businessinsider.com/a/sc/WtHU3EOcXgHN2CKBV_pm2Ac8hayXKQ
 url_status: found
 digest_source: digests\raw\2026-05-20_085232_Inbox_Daily AI News Digest –– May 20,
   2026.md
-content_hash: 12e9b1d51c2582f8a3f892b20b47d03edf744100409f6efbfb700bc44ef2dc5d
+content_hash: 2b8563715311b9a1cb3e82b64f5572460b510101c7dafb0e553b7f9ed6805bec
 normalized_title_hash: 1b1745ec45d2c164
 canonical_url_hash: beae05ac8025c84b
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # Google Spark frames the next phase of personal AI agents
 
-Business Insider described Spark as a 24/7 digital assistant that will run in Gemini and work across Google’s apps even when a user’s laptop is shut. The agent is initially tied to paid Google AI subscriptions, indicating that Google is testing premium packaging around always-on personal automation. For executives, the launch is another signal that agentic workflows are becoming a platform layer rather than a standalone chatbot feature.
+Business Insider described Spark as a 24/7 digital assistant that will run in Gemini and work across Google’s apps even when a user’s laptop is shut. The agent is initially tied to paid Google AI subscriptions, indicating that Google is testing premium packaging around always-on personal automation. For executives, the launch is another signal that agentic workflows are becoming a platform layer rather than a standalone chatbot feature. A9
 
 <!-- graph:start -->
 ## Connections

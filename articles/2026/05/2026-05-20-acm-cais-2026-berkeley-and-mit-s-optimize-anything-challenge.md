@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: 2ecd2da25fd4399344bed3675182d8ace75c8f2390edbb431d9b5bab00ed49f9
 normalized_title_hash: e4bf43d95924ca2b
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
 - policy-regulation

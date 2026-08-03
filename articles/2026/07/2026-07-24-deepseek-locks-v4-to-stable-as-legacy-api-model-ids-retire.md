@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models
 - 2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap
 - 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
+- 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
 embedding_id: 2026-07-24-deepseek-locks-v4-to-stable-as-legacy-api-model-ids-retire
 event_name: ''
 ---
@@ -38,5 +39,5 @@ event_name: ''
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v]] · [[2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]]
+**Related:** [[2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v]] · [[2026-05-13-tencent-cloud-forces-deepseek-api-migration-off-older-models]] · [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap]] · [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]] · [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]]
 <!-- graph:end -->

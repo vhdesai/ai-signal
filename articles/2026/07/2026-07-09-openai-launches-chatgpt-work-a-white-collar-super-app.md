@@ -8,10 +8,11 @@ url_canonical: https://techcrunch.com/2026/07/09/openai-launches-its-new-family-
 url_status: found
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: 523348f4596afd76acdb3dd7fafc55b225be5df626c9ff8a7960f8cacf003ba2
+content_hash: c7dfa4b127819b633f44318a8c91c36a41dff0a52c206551c164b21490b0a040
 normalized_title_hash: cf48ee4611758ce5
 canonical_url_hash: 40c4cf9177d51c76
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - Microsoft
@@ -28,7 +29,7 @@ event_name: ''
 
 # OpenAI launches ChatGPT Work, a white-collar "super app"
 
-Alongside GPT‑5.6, OpenAI released ChatGPT Work, a workplace companion that merges ChatGPT and Codex so non-engineers can draft documents, spreadsheets, presentations, and websites from a single workspace across desktop, web, and mobile. It puts OpenAI in direct competition with Anthropic's Claude Cowork and Microsoft's Copilot for the everyday enterprise-AI interface. The strategic read: the next battle is less about model benchmarks and more about who owns the daily surface where knowledge work happens.
+Alongside GPT‑5.6, OpenAI released ChatGPT Work, a workplace companion that merges ChatGPT and Codex so non-engineers can draft documents, spreadsheets, presentations, and websites from a single workspace across desktop, web, and mobile. It puts OpenAI in direct competition with Anthropic's Claude Cowork and Microsoft's Copilot for the everyday enterprise-AI interface. The strategic read: the next battle is less about model benchmarks and more about who owns the daily surface where knowledge work happens. Infrastructure FUNDING INFRASTRUCTURE
 
 <!-- graph:start -->
 ## Connections

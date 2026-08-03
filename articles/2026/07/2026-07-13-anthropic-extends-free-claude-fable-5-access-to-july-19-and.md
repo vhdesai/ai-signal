@@ -12,10 +12,12 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 82088cce95ed55965b48a7c53170d76fa7da7a14242ff7539829ae8068613bf6
 normalized_title_hash: 0a0fac1f8f35d76f
 canonical_url_hash: 04f686dd56e14e78
-tags: []
+tags:
+- New
 entities:
 - Anthropic
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep
@@ -32,5 +34,6 @@ Free-access window pushed from Jul 12 to Jul 19 for Pro/Max/Team, with Claude Co
 ## Connections
 
 **Entities:** [[Anthropic]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-13-anthropic-extends-claude-fable-5-free-access-to-july-19-keep]]
 <!-- graph:end -->

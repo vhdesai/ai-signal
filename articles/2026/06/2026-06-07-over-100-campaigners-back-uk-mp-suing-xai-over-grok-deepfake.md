@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
+- 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 - 2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day
-- 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 embedding_id: 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
 event_name: ''
 ---
@@ -38,5 +38,5 @@ More than 100 campaigners and organizations are now backing a UK MP's lawsuit ag
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]]
+**Related:** [[2026-07-28-uk-mp-seeks-a-high-court-order-compelling-xai-to-add-permane]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-06-11-grok-still-hosting-deepfakes-on-spacex-s-first-trading-day]]
 <!-- graph:end -->

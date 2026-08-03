@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: fdb8f227720feda473b5f82fa11a7717b8fd9dfce042893a29e4b0d258627ea3
 normalized_title_hash: 25f2f738929f81e8
 canonical_url_hash: 977a186afd001c2f
-tags: []
+tags:
+- New
 entities: []
 themes:
 - company-storylines

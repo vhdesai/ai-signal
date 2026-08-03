@@ -17,8 +17,6 @@ entities:
 - NVIDIA
 themes:
 - policy-regulation
-- model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +37,6 @@ Nvidia and more than 30 technology companies launched an alliance to build open-
 ## Connections
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]]
 <!-- graph:end -->

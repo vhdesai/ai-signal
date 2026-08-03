@@ -15,7 +15,7 @@ tags: []
 entities:
 - Google
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ Google made computer use a native, built-in tool in Gemini 3.5 Flash, retiring t
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-06-24-google-makes-computer-use-a-built-in-tool-in-gemini-3-5-flas]] · [[2026-05-19-google-releases-gemini-3-5-flash-agent-optimized-efficiency]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-07-21-google-deepmind-ships-gemini-3-6-flash-3-5-flash-lite-and-3]]
 <!-- graph:end -->

@@ -16,7 +16,7 @@ entities:
 - Anthropic
 - Microsoft
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ SonicWall confirmed it is participating in Anthropic's opt-in Project Glasswing 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-04-07-source-the-hacker-news-reuters-the-star]] · [[2026-04-10-anthropic-launched-project-glasswing-on-april-7-a-coordinate]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]]
 <!-- graph:end -->

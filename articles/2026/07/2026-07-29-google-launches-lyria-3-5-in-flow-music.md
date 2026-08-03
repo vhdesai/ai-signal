@@ -11,11 +11,12 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: bfba25f6506f6aab48a46d26289915f0f7f00621192d72a34312b754950e22c7
 normalized_title_hash: 91e18f9f51e497fc
 canonical_url_hash: 8349f68dd8803365
-tags: []
+tags:
+- Hot
 entities:
 - Google
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +37,6 @@ Google launched Lyria 3.5 in Flow Music, with improvements in musicality, lyrics
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-06-05-stock-music-watermarks-surface-in-gemini-generated-songs]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-27-stable-audio-3-0-continues-to-drive-developer-and-rights-hol]]
 <!-- graph:end -->

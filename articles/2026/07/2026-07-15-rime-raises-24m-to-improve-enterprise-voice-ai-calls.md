@@ -19,10 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
+- 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 - 2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models
 - 2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi
 - 2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-07-15-rime-raises-24m-to-improve-enterprise-voice-ai-calls
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Rime raises $24M to improve enterprise voice AI calls.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-28-fish-audio-raises-52m-seed-for-ai-voice-models]] · [[2026-05-13-vapi-raises-50m-series-b-as-enterprise-voice-ai-hits-1-billi]] · [[2026-07-28-fish-audio-raises-52m-seed-to-build-ai-voice-models]]
 <!-- graph:end -->

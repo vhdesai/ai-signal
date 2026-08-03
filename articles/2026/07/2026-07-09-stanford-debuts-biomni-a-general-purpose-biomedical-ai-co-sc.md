@@ -8,14 +8,13 @@ url_canonical: https://news.stanford.edu/stories/2026/07/biomni-ai-powered-biome
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: 06cfe9c5c9251534e9874f67c6a13583fe0327b982d5d08f469e547e04b5abb8
+content_hash: 6e0271be4c021fedb0c16eb6698da70567d470bea06d3057301fd31b1307061e
 normalized_title_hash: d8e2e7766bb5d8d5
 canonical_url_hash: da96ed2d33a5a5c1
-tags:
-- Hot
+tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,11 +29,11 @@ event_name: ''
 
 # Stanford debuts Biomni, a general-purpose biomedical AI co-scientist
 
-Stanford unveiled Biomni, an AI agent that autonomously executes biomedical research workflows: reading literature, forming hypotheses, selecting tools, writing code, and interpreting results. It integrates 150 tools, 105 software packages, and 59 databases across 25 subdomains. In one case, it analyzed more than 450 files in roughly 40 minutes.
+Stanford unveiled Biomni, an AI agent that autonomously executes biomedical research workflows: reading literature, forming hypotheses, selecting tools, writing code, and interpreting results. It integrates 150 tools, 105 software packages, and 59 databases across 25 subdomains. In one case, it analyzed more than 450 files in roughly 40 minutes. NEW ROBOTICS
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]]
 <!-- graph:end -->

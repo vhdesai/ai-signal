@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 8b11bd9ade51f0e4f696be1b6657489a4bd6d4c9fe4d0edc8047e53d5c618772
 normalized_title_hash: 58ebfc8f38dea8b1
 canonical_url_hash: 460f49e707a88477
-tags: []
+tags:
+- Hot
 entities:
 - Meta
 themes:

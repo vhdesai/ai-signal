@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
 - 2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize
-- 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close
 embedding_id: 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba launched Qwen3.7-Max, a proprietary (no longer open-source) agentic mode
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]]
+**Related:** [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-05-21-alibaba-s-qwen3-7-max-runs-autonomously-for-35-hours-tops-ap]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]]
 <!-- graph:end -->

@@ -18,7 +18,7 @@ entities:
 - Google
 - OpenAI
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 - 2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h
 - 2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h
+- 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
 - 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
-- 2026-05-26-regulatory-tracking-confirms-that-eu-commission-enforcement
 embedding_id: 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 event_name: ''
 ---
@@ -40,6 +40,6 @@ OpenAI announced three coordinated provenance moves: becoming a C2PA Conforming 
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]] · [[2026-05-26-regulatory-tracking-confirms-that-eu-commission-enforcement]]
+**Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an]] · [[2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
 <!-- graph:end -->

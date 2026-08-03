@@ -17,17 +17,16 @@ entities:
 - Anthropic
 - Google
 themes:
-- datacenter-infrastructure
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro
 - 2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag
-- 2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni
-- 2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use
-- 2026-07-08-google-photos-adds-a-new-ai-video-remix-tool
+- 2026-07-30-nano-banana-image-generation-comes-to-google-earth
+- 2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun
 embedding_id: 2026-05-19-google-launches-pics-ai-native-design-app-embedded-in-google
 event_name: ''
 ---
@@ -40,6 +39,6 @@ Google announced Pics, a new AI design app powered by the Nano Banana 2 image mo
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-07-08-google-photos-adds-ai-video-remix-powered-by-gemini-omni]] · [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]] · [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-nano-banana-2-and-pro]] · [[2026-05-28-google-promotes-gemini-3-1-flash-image-and-gemini-3-pro-imag]] · [[2026-07-30-nano-banana-image-generation-comes-to-google-earth]] · [[2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun]]
 <!-- graph:end -->

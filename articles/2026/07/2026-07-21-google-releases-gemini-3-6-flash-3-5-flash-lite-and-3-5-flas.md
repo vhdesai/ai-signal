@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-22_060455_Inbox_Daily AI News Digest - July 22,
   2026.md
-content_hash: 73fa15a53e0c294e2493bf7b0ce38fc093f87d9643908f6196d187c4be8f9a8d
+content_hash: d45596b9c103f918593f6ae6eb6aeb562449e1fa73c2d6e39ac6766d0f56c2dd
 normalized_title_hash: dfbb77d99cb61dc6
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Google
 themes:
@@ -26,7 +27,7 @@ event_name: ''
 
 # Google releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
 
-Google introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, positioning the releases around lower latency, token efficiency, and agentic workflows.
+Google introduced Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, positioning the releases around lower latency, token efficiency, and agentic workflows. OPEN WEIGHTSCODINGMODEL RELEASE
 
 <!-- graph:start -->
 ## Connections

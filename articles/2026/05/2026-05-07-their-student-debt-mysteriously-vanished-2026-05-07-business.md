@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-student-debt-spiral-2026-05-07-business-insider
+- 2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni
 - 2026-05-07-their-student-loan-lender-said-their-debt-was-gone
 - 2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov
 - 2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz
-- 2026-06-07-business-insider-no-new-business-insider-emails-found-for-20
 embedding_id: 2026-05-07-their-student-debt-mysteriously-vanished-2026-05-07-business
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Their student debt mysteriously vanished [2026-05-07] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-07-student-debt-spiral-2026-05-07-business-insider]] · [[2026-05-07-their-student-loan-lender-said-their-debt-was-gone]] · [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]] · [[2026-06-07-business-insider-no-new-business-insider-emails-found-for-20]]
+**Related:** [[2026-05-07-student-debt-spiral-2026-05-07-business-insider]] · [[2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni]] · [[2026-05-07-their-student-loan-lender-said-their-debt-was-gone]] · [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]]
 <!-- graph:end -->

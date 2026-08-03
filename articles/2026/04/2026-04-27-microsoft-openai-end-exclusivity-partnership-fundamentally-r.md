@@ -23,7 +23,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains
+canonical_article_id: 2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity
 related_article_ids: []
 embedding_id: 2026-04-27-microsoft-openai-end-exclusivity-partnership-fundamentally-r
 event_name: ''
@@ -38,5 +38,5 @@ Microsoft and OpenAI have formally amended their partnership agreement, ending t
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Canonical:** [[2026-04-27-microsoft-and-openai-end-exclusive-cloud-deal-azure-remains]]
+**Canonical:** [[2026-04-27-hotmicrosoft-and-openai-end-cloud-exclusivity]]
 <!-- graph:end -->

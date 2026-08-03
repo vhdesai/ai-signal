@@ -8,18 +8,16 @@ url_canonical: https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-codi
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: c55622f25c9a4d0c2cdc25553d00b95b4d04be6854d1d33f94b503072f18819b
+content_hash: 17a82a76c59fc1f94271b569f3445f6734e2bcb7673e65fcc0f68b5f45f1d888
 normalized_title_hash: 16799a96bf490793
 canonical_url_hash: 9683c84e437bc211
-tags:
-- New
+tags: []
 entities:
 - Anthropic
 - Google
 - Meta
 - OpenAI
 themes:
-- datacenter-infrastructure
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -33,13 +31,13 @@ event_name: ''
 
 # Meta enters the agentic-coding race with Muse Spark 1.1, its first paid API
 
-Meta's Superintelligence Labs released Muse Spark 1.1, its first paid developer API, with pricing pitched at roughly a quarter of rival frontier-model costs. The model emphasizes computer-use skills, app navigation, browsing, and form completion with a 1M-token multimodal context window. Meta is explicitly using price to pressure OpenAI, Anthropic, and Google.
+Meta's Superintelligence Labs released Muse Spark 1.1, its first paid developer API, with pricing pitched at roughly a quarter of rival frontier-model costs. The model emphasizes computer-use skills, app navigation, browsing, and form completion with a 1M-token multimodal context window. Meta is explicitly using price to pressure OpenAI, Anthropic, and Google. NEW ROBOTICS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-09-meta-enters-the-agentic-coding-market-with-muse-spark-1-1]]
 **Related:** [[2026-07-10-meta-opens-muse-spark-1-1-its-first-paid-ai-api-at-cut-rate]] · [[2026-07-10-meta-s-muse-spark-1-1-resets-enterprise-price-expectations-f]]
 <!-- graph:end -->

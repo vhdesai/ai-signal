@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
+- 2026-07-13-infrastructure-meta-capex
 - 2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint
 - 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
-- 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
 embedding_id: 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta is adding roughly $40 billion to its Hyperion campus in Richland Parish, ta
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]]
+**Related:** [[2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-07-29-meta-brings-blackrock-into-el-paso-data-center-in-5-9b-joint]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]]
 <!-- graph:end -->

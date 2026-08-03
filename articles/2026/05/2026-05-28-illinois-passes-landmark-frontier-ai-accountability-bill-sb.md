@@ -8,13 +8,14 @@ url_canonical: https://www.wglt.org/illinois/2026-05-28/illinois-lawmakers-pass-
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: ce2275530fe39d501157441c389ec7e2115b4ce3fe8bd527dbc1d128a5bc70dc
+content_hash: 44543cbc6bafce4455592939d8e8d5bf125528bd1904e1cd5024ee593bcf000e
 normalized_title_hash: fc949cac841d3158
 canonical_url_hash: 42b5232bc8318363
 tags: []
 entities: []
 themes:
 - policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -29,11 +30,11 @@ event_name: ''
 
 # Illinois Passes Landmark Frontier-AI Accountability Bill (SB 315)
 
-The Illinois House passed Senate Bill 315 unanimously, making Illinois the third US state — after California and New York — to regulate frontier AI models. The bill mandates annual third-party audits of the largest AI labs and capability-reporting requirements; it now awaits the governor's signature, which is expected. The bill matters because it materially advances a state-led regulatory baseline at exactly the moment federal action remains paused following the December 2025 Executive Order on national AI policy.
+The Illinois House passed Senate Bill 315 unanimously, making Illinois the third US state — after California and New York — to regulate frontier AI models. The bill mandates annual third-party audits of the largest AI labs and capability-reporting requirements; it now awaits the governor's signature, which is expected. The bill matters because it materially advances a state-led regulatory baseline at exactly the moment federal action remains paused following the December 2025 Executive Order on national AI policy. O
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-05-26-illinois-senate-advances-ai-safety-measures-act-sb-315]] · [[2026-05-28-illinois-passes-a-landmark-ai-safety-framework]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]] · [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]]
 <!-- graph:end -->

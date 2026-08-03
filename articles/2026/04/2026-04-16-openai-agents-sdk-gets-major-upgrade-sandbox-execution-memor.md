@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem
+- 2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
-- 2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in
 embedding_id: 2026-04-16-openai-agents-sdk-gets-major-upgrade-sandbox-execution-memor
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI Agents SDK Gets Major Upgrade: Sandbox Execution, Memory Control
 
 **Entities:** [[DeepSeek]] · [[Huawei]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]] · [[2026-06-15-new-xai-ships-agent-dashboard-in-grok-build-and-use-grok-in]]
+**Related:** [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-4-tier-local-mem]] · [[2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]]
 <!-- graph:end -->

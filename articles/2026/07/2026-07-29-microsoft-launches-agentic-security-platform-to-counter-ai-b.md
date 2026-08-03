@@ -11,10 +11,12 @@ digest_source: digests\raw\2026-07-30_065951_Inbox_Daily AI News Digest - July 3
 content_hash: 4058b4673576715f4e1f4f3ae0d75054a5d1796366cd83f05c5867631f437577
 normalized_title_hash: 59fc8a76c9b5ac7c
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Microsoft
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,5 +37,6 @@ Microsoft launched an agentic security platform designed to combat AI-based atta
 ## Connections
 
 **Entities:** [[Microsoft]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]]
 <!-- graph:end -->

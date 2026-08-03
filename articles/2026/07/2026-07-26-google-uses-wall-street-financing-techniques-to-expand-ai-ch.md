@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-28_070006_Inbox_Daily AI News Digest - July 2
 content_hash: 84efd9b96e3f4a173cad3117200a6b10fbe3590611075a266981fab7d446f10c
 normalized_title_hash: 117c4b3b56f10e32
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Google
 themes:
@@ -21,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
-- 2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny
-- 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
+- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
+- 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
+- 2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay
+- 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 embedding_id: 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The Information reports that Google is using more sophisticated financing struct
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
+**Related:** [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev]] · [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]] · [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]]
 <!-- graph:end -->

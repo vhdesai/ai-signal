@@ -8,13 +8,14 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-24_060655_Inbox_Daily AI News Digest - July 24,
   2026.md
-content_hash: bfe1339e76c8b6e985f9638342d393ea8b2409a3c8084eb38a9f73783fcb26fb
+content_hash: 09896c4d89029283355bbb8314b92b7930905ee929dff9163d5b068e46ee2aea
 normalized_title_hash: 2d9a0b4ca5e504e8
 canonical_url_hash: ''
 tags: []
 entities:
 - Google
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-23-google-s-gemini-nears-a-one-billion-user-milestone
@@ -25,11 +26,12 @@ event_name: ''
 
 # Google's Gemini nears one billion monthly users
 
-# Google's Gemini nears one billion monthly users
+Model Releases MICROSOFTMODEL RELEASECOST REDUCTION
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-23-google-s-gemini-nears-a-one-billion-user-milestone]]
 <!-- graph:end -->

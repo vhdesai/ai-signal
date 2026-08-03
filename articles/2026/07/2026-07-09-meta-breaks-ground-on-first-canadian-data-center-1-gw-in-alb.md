@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
 - 2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus
 - 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
+- 2026-07-13-infrastructure-meta-capex
 - 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 embedding_id: 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta broke ground on a 1-gigawatt AI data center in Sturgeon County, Alberta, an
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-28-blackrock-takes-80-stake-in-meta-s-el-paso-ai-campus]] · [[2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai]]
 <!-- graph:end -->

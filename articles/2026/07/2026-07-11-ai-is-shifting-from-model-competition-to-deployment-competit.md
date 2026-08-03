@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-frontier-model-competition-is-accelerating-agentic-ai-is-bec
 - 2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel
+- 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 - 2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r
 - 2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software
-- 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
 embedding_id: 2026-07-11-ai-is-shifting-from-model-competition-to-deployment-competit
 event_name: ''
 ---
@@ -36,5 +36,5 @@ AI is shifting from model competition to deployment competition. Differentiation
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-12-frontier-model-competition-is-accelerating-agentic-ai-is-bec]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]] · [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]]
+**Related:** [[2026-07-12-frontier-model-competition-is-accelerating-agentic-ai-is-bec]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-05-29-ai-labor-displacement-debate-sharpens-as-public-opposition-r]] · [[2026-07-11-the-ai-industry-is-focused-on-agentic-ai-ai-native-software]]
 <!-- graph:end -->

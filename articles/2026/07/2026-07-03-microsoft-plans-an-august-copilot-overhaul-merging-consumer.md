@@ -9,7 +9,7 @@ url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Micros
 url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
-content_hash: 6d31d7646c70abdabd5ba78c631b6fdc21fd343e19c58e8d6c0212df3b2dcce6
+content_hash: 04ac63234930d44b1ad37bb47af16d607f8c293285ee1372639e565eef78f9a3
 normalized_title_hash: bbbda7a5c6e0452f
 canonical_url_hash: 53943197c893523a
 tags: []
@@ -18,7 +18,7 @@ entities:
 - Microsoft
 - OpenAI
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -27,19 +27,19 @@ related_article_ids:
 - 2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa
 - 2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one
 - 2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil
-- 2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c
+- 2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi
 embedding_id: 2026-07-03-microsoft-plans-an-august-copilot-overhaul-merging-consumer
 event_name: ''
 ---
 
 # Microsoft plans an August Copilot overhaul, merging consumer and enterprise apps with background "AutoPilot" agents
 
-Per an internal memo seen by The Information, Microsoft will consolidate its consumer and enterprise Copilot apps into a single product in August, adding AI coding tools and background agents branded "AutoPilot" that handle tasks like scheduling and email summaries for a premium fee. EVP Jacob Andreou wrote that the team "stripped out what wasn't working" — including Copilot Podcasts and Copilot Labs — so the app is "optimized for outcomes" and must "earn the right to exist." The direction mirrors the "super-app" ambitions of OpenAI's Codex and Anthropic's Claude Code.
+Per an internal memo seen by The Information, Microsoft will consolidate its consumer and enterprise Copilot apps into a single product in August, adding AI coding tools and background agents branded "AutoPilot" that handle tasks like scheduling and email summaries for a premium fee. EVP Jacob Andreou wrote that the team "stripped out what wasn't working" — including Copilot Podcasts and Copilot Labs — so the app is "optimized for outcomes" and must "earn the right to exist." The direction mirrors the "super-app" ambitions of OpenAI's Codex and Anthropic's Claude Code. STRATEGY AGENTS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil]] · [[2026-07-30-nadella-previews-a-unified-copilot-super-app-spanning-chat-c]]
+**Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]] · [[2026-07-04-microsoft-reportedly-plans-a-unified-copilot-app-and-an-alwa]] · [[2026-07-04-microsoft-to-merge-consumer-and-enterprise-copilot-into-one]] · [[2026-07-04-products-tools-new-microsoft-is-planning-an-overhauled-copil]] · [[2026-07-31-microsoft-confirms-a-unified-copilot-super-app-is-coming-thi]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children
 - 2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake
 - 2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla
-- 2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su
+- 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
 embedding_id: 2026-05-13-altman-testifies-musk-sought-90-control-of-openai-and-mulled
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Altman Testifies: Musk Sought 90% Control of OpenAI and Mulled Passing It to His
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-05-18-sam-altman-under-gop-and-sec-scrutiny-ahead-of-openai-ipo-su]]
+**Related:** [[2026-05-13-sam-altman-took-the-stand-in-oakland-on-may-12-in-the-high-s]] · [[2026-05-12-altman-testifies-musk-mulled-handing-openai-to-his-children]] · [[2026-05-15-musk-vs-altman-openai-trial-key-claims-and-what-s-at-stake]] · [[2026-05-15-the-elon-musk-vs-sam-altman-openai-trial-is-ongoing-in-oakla]] · [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]]
 <!-- graph:end -->

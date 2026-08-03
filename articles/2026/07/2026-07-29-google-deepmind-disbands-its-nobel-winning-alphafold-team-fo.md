@@ -17,7 +17,7 @@ entities:
 - Anthropic
 - Google
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus
 - 2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
 - 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
+- 2026-07-30-google-deepmind-disbands-its-alphafold-team
 - 2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge
-- 2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro
 embedding_id: 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo
 event_name: ''
 ---
@@ -39,6 +39,6 @@ Less than a year after AlphaFold earned DeepMind a Nobel Prize, the lab has brok
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus]] · [[2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge]] · [[2026-06-19-nobel-laureate-john-jumper-leaves-google-deepmind-for-anthro]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus]] · [[2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-30-google-deepmind-disbands-its-alphafold-team]] · [[2026-07-29-deepmind-winds-down-its-alphafold-team-as-focus-shifts-to-ge]]
 <!-- graph:end -->

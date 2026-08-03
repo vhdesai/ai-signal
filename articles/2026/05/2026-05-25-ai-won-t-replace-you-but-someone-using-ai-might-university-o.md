@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust
+- 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
 - 2026-05-23-researchers-from-northwestern-and-american-university-tested
-- 2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di
 embedding_id: 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Zhe Zhu's doctoral dissertation argues that GenAI's biggest workforce risk is ad
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust]] · [[2026-05-23-researchers-from-northwestern-and-american-university-tested]] · [[2026-05-12-northwestern-american-university-study-ai-chatbots-wildly-di]]
+**Related:** [[2026-05-25-university-of-vaasa-research-argues-ai-adoption-risk-is-a-sk]] · [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-05-25-university-of-vaasa-reframes-ai-risk-around-skills-and-trust]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-05-23-researchers-from-northwestern-and-american-university-tested]]
 <!-- graph:end -->

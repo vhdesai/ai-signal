@@ -8,7 +8,7 @@ url_canonical: https://www.globalbankingandfinance.com/openai-triple-workforce-d
 url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 514a5b39bafddaa03f1562f3fdcac2339394fb6f896f4fc1b6bd553f42fbeea1
+content_hash: 3dc1ca7fd7287f83926fb33b7080e5b54f50eedd12fe973fd0f370b4ae15c0b6
 normalized_title_hash: 1377048327c97bb6
 canonical_url_hash: 2ff89657c5726f58
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # OpenAI to triple its Dublin European HQ to ~350 staff
 
-OpenAI plans to hire around 250 more people to roughly triple its Dublin office to about 350 staff, deepening its European footprint amid rising demand and regulatory scrutiny. The expansion signals continued investment in EU operations and policy engagement. Dublin remains a strategic base for OpenAI's European data-protection and go-to-market work.
+OpenAI plans to hire around 250 more people to roughly triple its Dublin office to about 350 staff, deepening its European footprint amid rising demand and regulatory scrutiny. The expansion signals continued investment in EU operations and policy engagement. Dublin remains a strategic base for OpenAI's European data-protection and go-to-market work. New Workforce
 
 <!-- graph:start -->
 ## Connections

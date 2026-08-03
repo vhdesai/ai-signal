@@ -8,7 +8,7 @@ url_canonical: https://visualstudiomagazine.com/articles/2026/07/13/visual-studi
 url_status: found
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
-content_hash: 67b46207dd79b4dda2e24415850d3600d1e2733749bc85ef36f5df8c2cf9b3b5
+content_hash: 6ef03a1b1540bf9b0ffdc184e33a3eafe1e8aa743f0ac4254a3a74be891b981d
 normalized_title_hash: e3fe440ab1d03ac3
 canonical_url_hash: 53b59a2e7714b57c
 tags: []
@@ -26,7 +26,7 @@ event_name: ''
 
 # Visual Studio adds real-time Copilot usage tracking to curb billing shock
 
-Microsoft’s June update to Visual Studio 2022 adds real-time GitHub Copilot usage tracking and configurable quota alerts, responding to developer backlash after Copilot shifted to token-based, usage-based billing on June 1. The release also introduces MCP server trust validation and AI-assisted C++ modernization. The changes reflect a broader pivot across the industry toward metered-AI cost visibility as agentic tooling scales.
+Microsoft’s June update to Visual Studio 2022 adds real-time GitHub Copilot usage tracking and configurable quota alerts, responding to developer backlash after Copilot shifted to token-based, usage-based billing on June 1. The release also introduces MCP server trust validation and AI-assisted C++ modernization. The changes reflect a broader pivot across the industry toward metered-AI cost visibility as agentic tooling scales. A MARKETS
 
 <!-- graph:start -->
 ## Connections

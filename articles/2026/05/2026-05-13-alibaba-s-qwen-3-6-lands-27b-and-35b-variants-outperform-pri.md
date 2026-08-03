@@ -27,9 +27,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
+- 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-- 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-- 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close
 embedding_id: 2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Alibaba's new Qwen 3.6 series headlines a step-function efficiency jump: a 35B-p
 
 **Entities:** [[Alibaba]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]]
+**Related:** [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]]
 <!-- graph:end -->

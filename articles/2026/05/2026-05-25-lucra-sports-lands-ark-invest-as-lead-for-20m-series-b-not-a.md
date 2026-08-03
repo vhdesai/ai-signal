@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: 368c4d2aa3b5d49d4500e49057d75cab5b2cfd7f5ae0a3f24bba7f6434726ec3
+content_hash: e5ccf30018dfbe81685c4ae389435c0f665d9648524ef4edda70d926a391373d
 normalized_title_hash: 769814766f194a55
 canonical_url_hash: c4b980fc66f47f2d
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # Lucra Sports lands ARK Invest as lead for $20M Series B — not an AI startup
 
-Lucra Sports founder Dylan Robbins landed Cathie Wood and her ARK Invest Venture Fund as the lead in a $20M Series B — despite Lucra being a white-label interactive-gaming-as-loyalty-program company, not AI. A rare counter-trend data point: the entire VC market is chasing AI, but a non-AI raise this size still closed in May 2026.
+Lucra Sports founder Dylan Robbins landed Cathie Wood and her ARK Invest Venture Fund as the lead in a $20M Series B — despite Lucra being a white-label interactive-gaming-as-loyalty-program company, not AI. A rare counter-trend data point: the entire VC market is chasing AI, but a non-AI raise this size still closed in May 2026. A K
 
 <!-- graph:start -->
 ## Connections

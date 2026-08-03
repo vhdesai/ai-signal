@@ -17,7 +17,7 @@ tags:
 entities:
 - Microsoft
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +39,6 @@ Effective today, Microsoft 365 Copilot Chat is no longer available inside Word, 
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-04-16-as-of-yesterday-microsoft-removed-free-copilot-chat-access-f]] · [[2026-05-10-microsoft-removing-free-copilot-chat-from-office-apps]] · [[2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-take-shape]] · [[2026-05-25-microsoft-copilot-multi-model-story-and-agent-365-reach-ga-a]]
 <!-- graph:end -->

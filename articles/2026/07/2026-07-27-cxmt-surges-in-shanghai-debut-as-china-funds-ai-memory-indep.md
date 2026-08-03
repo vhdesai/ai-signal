@@ -11,9 +11,11 @@ digest_source: digests\raw\2026-07-28_070006_Inbox_Daily AI News Digest - July 2
 content_hash: d4127822b16df1ad4c29d1bcfa8458b733904b453d94de0fb249b92d4fa9c118
 normalized_title_hash: 776479efb02e2c14
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
-themes: []
+themes:
+- datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -30,6 +32,6 @@ ChangXin Memory Technologies jumped more than 470% in its Shanghai trading debut
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-07-27-cxmt-soars-in-shanghai-debut-as-china-funds-ai-memory-indepe]]
 <!-- graph:end -->

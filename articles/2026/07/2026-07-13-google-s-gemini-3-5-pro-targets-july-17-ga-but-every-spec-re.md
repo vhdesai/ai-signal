@@ -15,7 +15,7 @@ tags: []
 entities:
 - Google
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ Google DeepMind is reportedly targeting July 17 for general availability of Gemi
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-targets-july-17-general-availability-for-gemini-3-5-p]] · [[2026-07-06-gemini-3-5-pro-specs-surface-ahead-of-reported-july-17-launc]] · [[2026-07-15-gemini-3-5-pro-is-reportedly-targeting-a-july-17-launch-with]]
 <!-- graph:end -->

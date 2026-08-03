@@ -15,7 +15,8 @@ canonical_url_hash: ''
 tags:
 - Trending
 entities: []
-themes: []
+themes:
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,5 +35,6 @@ An AI system successfully recovered an 11-year-old Bitcoin wallet containing app
 <!-- graph:start -->
 ## Connections
 
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-16-in-a-viral-story-generating-1-300-hacker-news-points-anthrop]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-07-08-ai-chip-maker-sambanova-raises-1b-at-11b-valuation]]
 <!-- graph:end -->

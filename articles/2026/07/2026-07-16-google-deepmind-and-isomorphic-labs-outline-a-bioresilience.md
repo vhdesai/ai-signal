@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d
+- 2026-07-30-google-deepmind-disbands-its-alphafold-team
 - 2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital
 - 2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent
-- 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
 embedding_id: 2026-07-16-google-deepmind-and-isomorphic-labs-outline-a-bioresilience
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind and Isomorphic Labs outline a bioresilience approach for prevent
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]] · [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]]
+**Related:** [[2026-05-13-isomorphic-labs-closes-2-1b-series-b-to-accelerate-ai-drug-d]] · [[2026-07-30-google-deepmind-disbands-its-alphafold-team]] · [[2026-05-12-isomorphic-labs-raises-2-1b-series-b-led-by-thrive-capital]] · [[2026-05-19-google-deepmind-publishes-co-scientist-in-nature-multi-agent]]
 <!-- graph:end -->

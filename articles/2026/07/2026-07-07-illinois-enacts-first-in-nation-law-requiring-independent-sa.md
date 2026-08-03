@@ -12,12 +12,14 @@ digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8
 content_hash: 355dc326f8a832ed3de836d7f75c4edf5f6341a4454f5edf35b27b3d5f6d9957
 normalized_title_hash: ceddad53cf53746d
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - OpenAI
 themes:
 - policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ Governor JB Pritzker signed SB 315, the AI Safety Measures Act — the first U.S
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Related:** [[2026-07-07-illinois-enacts-ai-safety-measures-act-imposing-transparency]] · [[2026-07-07-illinois-ai-safety-law-toughens-reporting-requirements]] · [[2026-05-26-illinois-sb-315-advances-third-party-audits-72-hour-safety-i]]
 <!-- graph:end -->

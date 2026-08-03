@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
+- 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
+- 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-04-02-source-all-about-lawyer-the-neuron
-- 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
-- 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 embedding_id: 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Wall Street expects accelerating AWS growth alongside record capital spending of
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
+**Related:** [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
 <!-- graph:end -->

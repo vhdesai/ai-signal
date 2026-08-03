@@ -20,6 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest
 - 2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest
+- 2026-08-03-microsoft-news-2026-08-03-microsoft-daily-digest
 - 2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest
 - 2026-07-26-microsoft-news-2026-07-26-news-you-might-have-missed
 embedding_id: 2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest
@@ -34,5 +35,5 @@ Microsoft News - [2026-07-27] Microsoft Daily Digest
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]] · [[2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest]] · [[2026-07-26-microsoft-news-2026-07-26-news-you-might-have-missed]]
+**Related:** [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]] · [[2026-08-03-microsoft-news-2026-08-03-microsoft-daily-digest]] · [[2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest]] · [[2026-07-26-microsoft-news-2026-07-26-news-you-might-have-missed]]
 <!-- graph:end -->

@@ -17,8 +17,7 @@ entities:
 - Alibaba
 - Anthropic
 themes:
-- model-capabilities
-- company-storylines
+- policy-regulation
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -36,6 +35,6 @@ China’s National Vulnerability Database, under the MIIT, warned that several v
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-07-08-china-flags-a-backdoor-in-anthropic-s-claude-code-alibaba-ba]]
 <!-- graph:end -->

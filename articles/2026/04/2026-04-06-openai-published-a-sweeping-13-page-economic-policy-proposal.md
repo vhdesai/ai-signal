@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ
 - 2026-04-06-openai-publishes-superintelligence-policy-blueprint-sovereig
+- 2026-07-31-ai-at-the-collision-of-capability-and-reality
 - 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
 embedding_id: 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Google DeepMind Publishes Landmark Research Mapping Six Categories of "AI Agent 
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ]] · [[2026-04-06-openai-publishes-superintelligence-policy-blueprint-sovereig]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
+**Related:** [[2026-04-06-openai-formally-petitioned-the-attorneys-general-of-californ]] · [[2026-04-06-openai-publishes-superintelligence-policy-blueprint-sovereig]] · [[2026-07-31-ai-at-the-collision-of-capability-and-reality]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
 <!-- graph:end -->

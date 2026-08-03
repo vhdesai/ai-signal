@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9
 content_hash: d9f444741112dbced3693b9c76b3416eb028fa2a10fc030ed6f349af3b58acb8
 normalized_title_hash: 89538b7f05f82152
 canonical_url_hash: afe2544836558c64
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Prime Intellect raised $130 million at a $1 billion valuation for enterprise age
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-08-prime-intellect-raises-130m-series-a-to-help-enterprises-bui]] · [[2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-adoption-scales]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-toward]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-to-9m]]
 <!-- graph:end -->

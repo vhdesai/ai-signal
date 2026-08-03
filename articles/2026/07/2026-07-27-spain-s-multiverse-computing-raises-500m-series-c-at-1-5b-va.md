@@ -8,7 +8,7 @@ url_canonical: https://www.eu-startups.com/2026/07/spains-multiverse-computing-h
 url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: ebc1adaab40c89bbfd6d0e45bcc144f0731d58fa82221e1ece0657b3ebbb4be8
+content_hash: f5c4bc539a8b7a462455c6d62ad1304fb16d2c8eb58bce4141c55ac0875b4a0d
 normalized_title_hash: e1799cd5e9b93ec9
 canonical_url_hash: 0a07bce6fc40cc12
 tags: []
@@ -25,7 +25,7 @@ event_name: ''
 
 # Spain's Multiverse Computing raises €500M Series C at €1.5B valuation
 
-Multiverse Computing closed a €500M (~$570M) Series C at a €1.5B (~$1.7B) valuation, reaching unicorn status on the strength of model-compression technology that shrinks AI models for cheaper inference and edge deployment. The raise reflects investor conviction that reducing AI's cost-per-token — not just raising capability — is a durable value driver. Efficiency and compression plays are becoming a distinct, well-funded layer of the AI stack. For cost-conscious enterprise buyers, this is a signal that smaller, cheaper-to-run models are a growing procurement option.
+Multiverse Computing closed a €500M (~$570M) Series C at a €1.5B (~$1.7B) valuation, reaching unicorn status on the strength of model-compression technology that shrinks AI models for cheaper inference and edge deployment. The raise reflects investor conviction that reducing AI's cost-per-token — not just raising capability — is a durable value driver. Efficiency and compression plays are becoming a distinct, well-funded layer of the AI stack. For cost-conscious enterprise buyers, this is a signal that smaller, cheaper-to-run models are a growing procurement option. ADOPTION
 
 <!-- graph:start -->
 ## Connections

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-07-the-information-logo-how-elon-musk-s-team-is-struggling-to-p
 - 2026-04-20-reuters-le-monde-april-20-2026-french-prosecutors-summoned-e
 - 2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 - 2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu
-- 2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs
 embedding_id: 2026-05-07-how-elon-musk-s-team-is-struggling-to-prove-his-case-in-cour
 event_name: ''
 ---
@@ -36,5 +36,5 @@ How Elon Musk’s Team is Struggling to Prove His Case in Court [2026-05-07] · 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-07-the-information-logo-how-elon-musk-s-team-is-struggling-to-p]] · [[2026-04-20-reuters-le-monde-april-20-2026-french-prosecutors-summoned-e]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]] · [[2026-05-19-musk-loses-openai-lawsuit-jury-rejects-claims-judge-concurs]]
+**Related:** [[2026-05-07-the-information-logo-how-elon-musk-s-team-is-struggling-to-p]] · [[2026-04-20-reuters-le-monde-april-20-2026-french-prosecutors-summoned-e]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-05-14-musk-vs-altman-trial-what-the-jury-will-decide-a-plain-langu]]
 <!-- graph:end -->

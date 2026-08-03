@@ -8,12 +8,13 @@ url_canonical: https://news.mit.edu/2026/how-an-mit-database-evolved-into-global
 url_status: found
 digest_source: digests\raw\2026-07-30_062819_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: 2320917bf19150b980eaef850278810624469d0a2e0339ed677813ed8a23037b
+content_hash: 0c28b873338273ae57c0b67fcb2f86b96ab2b28c8a40baa04e5f034023ebead3
 normalized_title_hash: 3844c992ad22c1b1
 canonical_url_hash: 1fb8820b9fa3c356
 tags: []
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -25,11 +26,11 @@ event_name: ''
 
 # MIT's PhysioNet marks 25 years as a global biomedical data-sharing standard
 
-MIT News marked the 25th anniversary of PhysioNet, the open biomedical data repository rooted in the 1970s MIT–BIH Arrhythmia Database, now cited by more than 15,000 publications last year with registered users in over 180 countries. The platform is a foundational, openly shared clinical-data resource that underpins a large share of medical machine-learning research. Its longevity is a reminder that high-quality, well-governed datasets — not just models — remain a durable competitive asset in applied AI.
+MIT News marked the 25th anniversary of PhysioNet, the open biomedical data repository rooted in the 1970s MIT–BIH Arrhythmia Database, now cited by more than 15,000 publications last year with registered users in over 180 countries. The platform is a foundational, openly shared clinical-data resource that underpins a large share of medical machine-learning research. Its longevity is a reminder that high-quality, well-governed datasets — not just models — remain a durable competitive asset in applied AI. AI Safety & Policy O H
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Canonical:** [[2026-07-29-how-an-mit-database-evolved-into-a-global-standard-for-data]]
 <!-- graph:end -->

@@ -14,9 +14,12 @@ normalized_title_hash: 41633abdd1a22b61
 canonical_url_hash: 44e536c15b5baf69
 tags: []
 entities:
+- Huawei
 - NVIDIA
 - xAI
 themes:
+- datacenter-infrastructure
+- policy-regulation
 - model-capabilities
 cross_cutting_topics:
 - china-compete
@@ -39,7 +42,7 @@ Chinese super-app Meituan open-sourced LongCat-2.0 under an MIT license — a 1.
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[NVIDIA]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Entities:** [[Huawei]] · [[NVIDIA]] · [[xAI]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6t-parameter-model-trai]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]] · [[2026-07-25-meituan-open-sources-longcat-2-0-a-1-6-trillion-parameter-ag]] · [[2026-07-13-meituan-launches-longcat-2-0-a-1-6-trillion-parameter-agenti]] · [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]]
 <!-- graph:end -->

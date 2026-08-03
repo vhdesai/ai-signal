@@ -19,7 +19,7 @@ entities:
 - Anthropic
 - OpenAI
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -41,6 +41,6 @@ Multiple newsletters led with Anthropic’s new financing and valuation, portray
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-29-dealbook-how-anthropic-got-so-big-and-what-it-means-for-the]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-06-28-openai-weighs-a-2027-ipo-delay-as-anthropic-overtakes-it-on]] · [[2026-07-03-anthropic-taps-freshfields-to-steer-a-potential-trillion-dol]] · [[2026-05-26-tech-titans-prepare-for-blockbuster-ipos-in-a-new-front-of-t]]
 <!-- graph:end -->

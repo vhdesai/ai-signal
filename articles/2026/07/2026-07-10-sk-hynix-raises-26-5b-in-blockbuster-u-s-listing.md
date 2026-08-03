@@ -8,11 +8,10 @@ url_canonical: https://techxplore.com/news/2026-07-sk-hynix-billion-powered-ai.h
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: e5c82d7870e40b45ada0aed922cc1863813465019518ca982548d0b53f9ccb18
+content_hash: d83468353b1e33a392da48e5ab27db4ed2b088d7be57eeb18fb04b08feff4bea
 normalized_title_hash: f1d416d993c7c2c5
 canonical_url_hash: 5a5ec8b8ce4e8571
-tags:
-- Hot
+tags: []
 entities:
 - NVIDIA
 themes:
@@ -32,7 +31,7 @@ event_name: ''
 
 # SK Hynix raises $26.5B in blockbuster U.S. listing
 
-SK Hynix priced one of the largest equity deals on record, raising $26.5 billion in a Nasdaq listing driven by demand for AI memory chips. The sale was reportedly more than seven times oversubscribed. As a key high-bandwidth-memory supplier to Nvidia, SK Hynix gives investors a direct read on AI memory-supply appetite.
+SK Hynix priced one of the largest equity deals on record, raising $26.5 billion in a Nasdaq listing driven by demand for AI memory chips. The sale was reportedly more than seven times oversubscribed. As a key high-bandwidth-memory supplier to Nvidia, SK Hynix gives investors a direct read on AI memory-supply appetite. Research Breakthroughs HOT BIOMEDICAL AI
 
 <!-- graph:start -->
 ## Connections

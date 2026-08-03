@@ -16,7 +16,7 @@ tags:
 entities:
 - ByteDance
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ The Information reported that ByteDance is developing a new AI inference chip wi
 ## Connections
 
 **Entities:** [[ByteDance]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-29-china-s-bytedance-developing-ai-chips-modeled-on-nvidia-part]] · [[2026-05-26-bytedance-offers-core-ai-team-special-equity-to-fend-off-poa]] · [[2026-05-26-breakinghot-qualcomm-strikes-ai-asic-supply-deal-with-byteda]] · [[2026-07-08-hot-french-startup-zml-releases-free-product-to-speed-infere]]
 <!-- graph:end -->

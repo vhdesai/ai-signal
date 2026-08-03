@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search
+- 2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt
 - 2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t
 - 2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright
-- 2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl
 embedding_id: 2026-05-30-llmshare-campaign-abuses-shared-chatgpt-and-claude-links-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers at Push Security detailed a live campaign, dubbed "LLMShare," that a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]] · [[2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl]]
+**Related:** [[2026-07-27-claude-shared-chats-and-artifacts-appeared-in-google-search]] · [[2026-07-31-openai-disrupts-cambodia-based-scam-operation-using-chatgpt]] · [[2026-07-09-nyt-accuses-openai-of-hiding-evidence-in-chatgpt-copyright-t]] · [[2026-07-09-new-york-times-says-openai-hid-evidence-in-chatgpt-copyright]]
 <!-- graph:end -->

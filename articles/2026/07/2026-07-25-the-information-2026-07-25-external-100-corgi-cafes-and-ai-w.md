@@ -19,6 +19,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 - 2026-07-28-the-new-york-times-the-morning-2026-07-28-external-the-morni
+- 2026-04-04-google-research-blog-techcrunch-ars-technicamarch-24-25-2026
 embedding_id: 2026-07-25-the-information-2026-07-25-external-100-corgi-cafes-and-ai-w
 event_name: ''
 ---
@@ -30,5 +31,5 @@ The Information - [2026-07-25] [EXTERNAL] 100 Corgi Cafes and AI Workaholism
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-07-28-the-new-york-times-the-morning-2026-07-28-external-the-morni]]
+**Related:** [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-07-28-the-new-york-times-the-morning-2026-07-28-external-the-morni]] · [[2026-04-04-google-research-blog-techcrunch-ars-technicamarch-24-25-2026]]
 <!-- graph:end -->

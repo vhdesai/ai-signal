@@ -11,10 +11,10 @@ digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7
 content_hash: 7a8a8a81cc7067fe1ad04789cda4c0e08ec848f1be49b126c2858998eb451773
 normalized_title_hash: e719f8fb3d1e50fe
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
-- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -31,6 +31,6 @@ Carnegie Mellon's Software Engineering Institute released FLARE-AI (Flaw Reporti
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-ai-flaw-report]]
 <!-- graph:end -->

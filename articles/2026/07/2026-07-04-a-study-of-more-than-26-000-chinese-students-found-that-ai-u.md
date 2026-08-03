@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
 - 2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl
-- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
+- 2026-08-02-largest-ever-study-of-a-dedicated-ai-learning-assistant-trac
 embedding_id: 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A study of more than 26,000 Chinese students found that AI users completed homew
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-04-large-study-students-who-lean-on-ai-finish-faster-but-score]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
+**Related:** [[2026-07-04-large-study-students-who-lean-on-ai-finish-faster-but-score]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-21-cornell-uc-berkeley-1-in-3-college-students-uses-ai-to-compl]] · [[2026-08-02-largest-ever-study-of-a-dedicated-ai-learning-assistant-trac]]
 <!-- graph:end -->

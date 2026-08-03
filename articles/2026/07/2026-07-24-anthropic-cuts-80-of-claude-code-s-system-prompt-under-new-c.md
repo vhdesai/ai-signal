@@ -16,7 +16,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ Anthropic published new context-engineering guidance for Claude Opus 5 and Fable
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

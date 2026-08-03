@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 838c4faec7353069a18763e28416525dcf9196f1f622c7aa97577046c4c493cc
 normalized_title_hash: bd075c8bf3b11553
 canonical_url_hash: ab204e0941b11147
-tags: []
+tags:
+- Hot
 entities:
 - Apple
 - OpenAI

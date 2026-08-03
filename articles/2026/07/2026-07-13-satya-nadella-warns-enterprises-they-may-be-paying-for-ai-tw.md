@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shoc
 url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
-content_hash: 594c2a7f3bda61eb3398940e6ace9ecb1c9e588b865613b658db9af3c097919a
+content_hash: 6bd4be407831f90cc78cb0fa74c9268a5d96f526d892116cf3276747fe545c1f
 normalized_title_hash: a12cd9d4974d6c3f
 canonical_url_hash: 6fc155c9f7612184
 tags: []
@@ -27,7 +27,7 @@ event_name: ''
 
 # Satya Nadella warns enterprises they may be paying for AI twice
 
-TechCrunch covered Satya Nadella's warning that companies using proprietary AI models may pay once in token fees and again by exposing proprietary knowledge through prompts, corrections, tool use, and workflow data. Nadella argues enterprises should retain ownership of those learning loops and build orchestration layers that avoid lock-in to a single model provider. The strategic implication is clear: Microsoft is framing enterprise AI advantage around control of data, model routing, and cloud-based proprietary learning environments.
+TechCrunch covered Satya Nadella's warning that companies using proprietary AI models may pay once in token fees and again by exposing proprietary knowledge through prompts, corrections, tool use, and workflow data. Nadella argues enterprises should retain ownership of those learning loops and build orchestration layers that avoid lock-in to a single model provider. The strategic implication is clear: Microsoft is framing enterprise AI advantage around control of data, model routing, and cloud-based proprietary learning environments. OPENAIAPPLELITIGATION
 
 <!-- graph:start -->
 ## Connections

@@ -11,10 +11,12 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: febbd66aeecfa8da0ca6b3dbef81847de243908ee6e5e9e178fb1415893fd6a6
 normalized_title_hash: 17c087aa0459b25d
 canonical_url_hash: 6997f336193c3324
-tags: []
+tags:
+- New
 entities:
 - Amazon
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,5 +38,6 @@ Architecture/engineering/construction software firm Newforma announced a seven-y
 ## Connections
 
 **Entities:** [[Amazon]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-04-16-openai-signed-a-strategic-partnership-with-wegovy-maker-novo]] · [[2026-04-27-]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
 <!-- graph:end -->

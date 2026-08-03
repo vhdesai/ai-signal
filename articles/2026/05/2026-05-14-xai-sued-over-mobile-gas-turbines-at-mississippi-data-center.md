@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-xai-s-mississippi-data-center-50-unchecked-gas-turbines-prom
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
-- 2026-07-15-xai-elon-musk-energy-buildout-coverage-includes-gas-turbine
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr
+- 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
+- 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot
+- 2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for
 embedding_id: 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI sued over "mobile" gas turbines at Mississippi data center — TechCrunch, M
 
 **Entities:** [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-xai-s-mississippi-data-center-50-unchecked-gas-turbines-prom]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-07-15-xai-elon-musk-energy-buildout-coverage-includes-gas-turbine]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-05-18-the-elon-musk-vs-sam-altman-civil-trial-in-california-has-wr]]
+**Related:** [[2026-05-15-xai-s-mississippi-data-center-50-unchecked-gas-turbines-prom]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot]] · [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]]
 <!-- graph:end -->

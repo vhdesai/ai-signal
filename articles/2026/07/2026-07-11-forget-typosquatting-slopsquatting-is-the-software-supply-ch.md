@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
-content_hash: 19f29ed9133698add6a18f2dd7c1fe5b9b48e59743940d9c1c2b0fee3eed0f3a
+content_hash: b6924ce242692d02552929d5e5a69f6236c97b1c040a7966d73e5b8ec8ffab85
 normalized_title_hash: c1a3f7985d1adab7
 canonical_url_hash: ''
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools
 
-VentureBeat highlighted “slopsquatting,” a new software supply-chain threat where attackers register packages with names that AI coding assistants commonly hallucinate. For enterprises scaling AI-assisted development, this creates a practical control requirement: package validation, dependency provenance, and registry checks must become part of the AI coding workflow rather than relying on developer trust in generated code.
+VentureBeat highlighted “slopsquatting,” a new software supply-chain threat where attackers register packages with names that AI coding assistants commonly hallucinate. For enterprises scaling AI-assisted development, this creates a practical control requirement: package validation, dependency provenance, and registry checks must become part of the AI coding workflow rather than relying on developer trust in generated code. METAINSTAGRAMAI-GOVERNANCE
 
 <!-- graph:start -->
 ## Connections

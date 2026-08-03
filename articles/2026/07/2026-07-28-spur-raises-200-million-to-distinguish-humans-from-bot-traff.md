@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs
 url_status: found
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
-content_hash: 40592536db20d475ceff0f37602ed285ceda738fa867233bc32e7a6cf7cb1383
+content_hash: 007cc899462382626ca0250957293e9526407ac6b60bf231d96560844e5003bf
 normalized_title_hash: acba80e310a7c67b
 canonical_url_hash: c7d6cf696f32ff33
 tags: []
@@ -25,7 +25,7 @@ event_name: ''
 
 # Spur raises $200 million to distinguish humans from bot traffic
 
-Spur Intelligence raised $200 million from Insight Partners for technology that distinguishes legitimate human traffic from bots, proxies, VPNs, and anonymized infrastructure. The timing matters because agentic and automated traffic is rising quickly; Cloudflare recently reported that bot activity has surpassed human traffic online. For enterprises, identity and traffic-quality controls are becoming core infrastructure for commerce, security, and analytics.
+Spur Intelligence raised $200 million from Insight Partners for technology that distinguishes legitimate human traffic from bots, proxies, VPNs, and anonymized infrastructure. The timing matters because agentic and automated traffic is rising quickly; Cloudflare recently reported that bot activity has surpassed human traffic online. For enterprises, identity and traffic-quality controls are becoming core infrastructure for commerce, security, and analytics. Infrastructure DATA CENTERSGRIDAI INFRASTRUCTURE
 
 <!-- graph:start -->
 ## Connections

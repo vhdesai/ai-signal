@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: f64803d4b9da92e3d8396edecd44ea57fa00a18486cf7edbb842ba585ead02c2
 normalized_title_hash: 60cb725ab36187d9
 canonical_url_hash: 11ad9c1a8739323f
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:

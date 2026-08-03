@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-t
 url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 4ef6ae5af3ddbaea6592ec813687acd90a979b19f612c8d764bcc69d47f884cd
+content_hash: 5d12ba1c2d69bdd86534027590f6c87872105f3e2454e056cd5b637b8867dd71
 normalized_title_hash: 71f29c0919450fa0
 canonical_url_hash: 394931127984d96d
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Vercel CEO Guillermo Rauch on the fight to split off models from agents
 
-Vercel's CEO argued that production AI architecture is separating model access from agent execution, with coding agents and internal enterprise agents emerging as the first durable categories. The most relevant point for CIOs is data governance: agent tooling can create new code and data egress paths unless execution environments, policies, and sandboxes are designed into the platform layer.
+Vercel's CEO argued that production AI architecture is separating model access from agent execution, with coding agents and internal enterprise agents emerging as the first durable categories. The most relevant point for CIOs is data governance: agent tooling can create new code and data egress paths unless execution environments, policies, and sandboxes are designed into the platform layer. GOOGLEPRIVACYDATA-GOVERNANCE
 
 <!-- graph:start -->
 ## Connections

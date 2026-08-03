@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: 4cc842b1fd12dbd32e8997a98d9e7ce0fa17f94aca0bc835272dc652ef6c96f9
 normalized_title_hash: c61975c76ccee9b4
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - DeepSeek
 - Huawei

@@ -8,12 +8,13 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_062455_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 13538380cb069d33e7715fc9ef46aa74adf1f7c0d1aac6add42d2d1575489371
+content_hash: 039dc1be6d88213c8b41c265f4f8d258a7e2bf7f7361873016dc8b266cbe6cec
 normalized_title_hash: 63097453dfbb2db2
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
+- policy-regulation
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -28,11 +29,11 @@ event_name: ''
 
 # AI legal startup Norm raises $120M at ~$1.2B valuation
 
-Legal-AI company Norm raised $120 million at a roughly $1.2 billion post-money valuation in a round led by Khosla Ventures, with Blackstone, Bain Capital Ventures and Coatue participating; total funding now exceeds $260 million. Rather than selling software to law firms, Norm operates its own firm and bills on outcomes, and is extending its "AI regulating AI" compliance agents into finance and healthcare. The raise signals that outcome-based, vertically integrated AI services — not just tooling — are drawing growth capital. URL behind paywall.
+Legal-AI company Norm raised $120 million at a roughly $1.2 billion post-money valuation in a round led by Khosla Ventures, with Blackstone, Bain Capital Ventures and Coatue participating; total funding now exceeds $260 million. Rather than selling software to law firms, Norm operates its own firm and bills on outcomes, and is extending its "AI regulating AI" compliance agents into finance and healthcare. The raise signals that outcome-based, vertically integrated AI services — not just tooling — are drawing growth capital. URL behind paywall. X
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Related:** [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]] · [[2026-07-07-legal-ai-startup-norm-ai-raises-120m-series-c-at-a-1-2b-valu]] · [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]]
 <!-- graph:end -->

@@ -22,10 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
+- 2026-05-02-microsoft-agent-365-generally-available
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
-- 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 - 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
-- 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
 embedding_id: 2026-05-18-microsoft-agent-365-generally-available-anthropic-claude-age
 event_name: ''
 ---
@@ -38,5 +37,5 @@ Microsoft Agent 365 Generally Available; Anthropic Claude Agent SDK Opens to All
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
-**Related:** [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]] · [[2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte]]
+**Related:** [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-02-microsoft-agent-365-generally-available]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
+- 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 - 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
-- 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
 embedding_id: 2026-07-21-data-center-owners-rush-to-sell-stakes-at-pipeline-valuation
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Data center stake sales and acquisitions show AI data centers becoming an instit
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand]]
+**Related:** [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 37
+member_count: 39
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 37 connected article(s).
+> Auto-generated entity hub. 39 connected article(s).
 
+- `2026-08-01` [[2026-08-01-other-ai-related-publication-emails-2026-08-01-external-the|Other AI-related Publication Emails - [2026-08-01] [EXTERNAL] The energy story under the Grand Canyon - [2026-08-01]…]]
 - `2026-07-18` [[2026-07-18-agility-robotics-opens-a-training-center-near-tesla-s-factor|Agility Robotics opens a training center near Tesla's factory for Digit humanoid deployments, reinforcing…]]
 - `2026-07-17` [[2026-07-17-agility-robotics-opens-a-training-center-near-tesla-s-factor|Agility Robotics opens a training center near Tesla's factory for Digit humanoid deployments, reinforcing…]]
 - `2026-07-11` [[2026-07-11-helsing-like-other-far-smaller-defense-start-ups-has-already|Helsing, like other far smaller defense start-ups, has already flipped the script on sluggish governments, by…]]
@@ -41,6 +42,7 @@ member_count: 37
 - `2026-05-02` [[2026-05-02-trendingmeta-acquires-humanoid-robotics-startup-assured-robo|TRENDINGMeta acquires humanoid robotics startup Assured Robot Intelligence]]
 - `2026-05-02` [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid|Meta has acquired Assured Robot Intelligence (ARI), a humanoid robotics startup, in a move to accelerate its physical…]]
 - `2026-05-01` [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay|xAI ships Grok 4.3 and brings Grok Voice to Apple CarPlay]]
+- `2026-05-01` [[2026-05-01-newxai-releases-grok-4-3|NEWxAI Releases Grok 4.3]]
 - `2026-04-23` [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect|Ahead of its anticipated IPO, SpaceX has signaled to prospective investors that it intends "substantial capital expenditures" potentially including in-house GPU manufacturing, as part of its broader Terafab infrastructure vision in Austin shared with xAI and Tesla. The move represents the latest example of major technology groups seeking vertical integration over AI compute supply — reducing dependency on Nvidia and third-party chip vendors. SpaceX disclosed it currently lacks long-term supply contracts with many key vendors, a risk factor that is accelerating its in-house ambitions.]]
 - `2026-04-16` [[2026-04-16-google-deepmind-released-gemini-robotics-er-1-6-with-upgrade|Google DeepMind released Gemini Robotics ER 1.6 with upgraded spatial reasoning and live instrument-reading for…]]
 - `2026-04-02` [[2026-04-02-iran-s-islamic-revolutionary-guard-corps-declared-18-america|Iran's Islamic Revolutionary Guard Corps declared 18 American and Gulf technology companies "legitimate military…]]

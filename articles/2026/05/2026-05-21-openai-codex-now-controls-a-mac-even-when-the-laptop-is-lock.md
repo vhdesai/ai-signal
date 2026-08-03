@@ -8,7 +8,7 @@ url_canonical: https://releasebot.io/updates/openai
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: a5833222d0a3cb5bab2be8e9361a62ea6da27e8e24d5f5d5e29fcbf80b249a05
+content_hash: 8dd86f5cfd3f55ea88cba827add0d1224f986e4617f5bd68e79a56bc840e52a6
 normalized_title_hash: 9633db12ca9f73cc
 canonical_url_hash: 15dda31e49f093f9
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # OpenAI Codex now controls a Mac even when the laptop is locked
 
-OpenAI Codex's "locked computer use" lets eligible Mac Computer Use users keep Codex working remotely and securely after the Mac locks. Combined with general-availability "Goal mode" and Appshots, Codex is now a credible always-on agent — eliminating the need to leave laptops open for long-running agents.
+OpenAI Codex's "locked computer use" lets eligible Mac Computer Use users keep Codex working remotely and securely after the Mac locks. Combined with general-availability "Goal mode" and Appshots, Codex is now a credible always-on agent — eliminating the need to leave laptops open for long-running agents. R D
 
 <!-- graph:start -->
 ## Connections

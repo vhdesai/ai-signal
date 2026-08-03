@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 2
 content_hash: 1780b369d884d8884708ef6103acc8989b64ebc85548296da6cf4cdab41daf5d
 normalized_title_hash: 59a5aec488e21e95
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ In its Annual Economic Report released Sunday, the BIS flagged an AI-driven bust
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
 <!-- graph:end -->

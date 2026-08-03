@@ -8,10 +8,11 @@ url_canonical: https://techcrunch.com/2026/07/09/openai-launches-its-new-family-
 url_status: found
 digest_source: digests\raw\2026-07-10_061000_Inbox_Daily AI News Digest - July 10,
   2026.md
-content_hash: 5182334a5dce1f0b5e8cec0090e3d64f833f7e525fea48b83ac56b7e808af997
+content_hash: 17c69730f9a003b5d0d0be11e8510c0539b25d33437a00a4cb19d7d2e89e0dab
 normalized_title_hash: edbaaa3725b9b8cf
 canonical_url_hash: 40c4cf9177d51c76
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
@@ -27,7 +28,7 @@ event_name: ''
 
 # OpenAI launches the GPT-5.6 family: Sol, Terra and Luna
 
-OpenAI unveiled GPT-5.6 in three tiers — Sol (flagship), Terra (mid-range) and Luna (budget) — positioned for enterprise work, coding and scientific research. Sam Altman says Sol is about 54% more token-efficient on coding tasks, and OpenAI calls 5.6 its “strongest cybersecurity model yet,” a capability that had drawn earlier US export-review scrutiny limiting the preview to a small set of approved organizations. Sol rolls to paid plans within 24 hours, with Terra and Luna reaching free users.
+OpenAI unveiled GPT-5.6 in three tiers — Sol (flagship), Terra (mid-range) and Luna (budget) — positioned for enterprise work, coding and scientific research. Sam Altman says Sol is about 54% more token-efficient on coding tasks, and OpenAI calls 5.6 its “strongest cybersecurity model yet,” a capability that had drawn earlier US export-review scrutiny limiting the preview to a small set of approved organizations. Sol rolls to paid plans within 24 hours, with Terra and Luna reaching free users. ________________________________ MODEL
 
 <!-- graph:start -->
 ## Connections

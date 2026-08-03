@@ -9,7 +9,7 @@ url_canonical: https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-d
 url_status: found
 digest_source: digests\raw\2026-07-04_061951_Inbox_Daily AI News Digest - July 4,
   2026.md
-content_hash: 7758b5e2bc76bfacd6cb5b2891402b7adfab3334f750778e241f1209b8ffaf30
+content_hash: a517d8060110c8cac6886f5505a4765ec2a9b3804bb2c233dc68d971ebc02095
 normalized_title_hash: 4e2c39c6df375105
 canonical_url_hash: acd0d232ab24c111
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # Microsoft and AWS stand up rival "forward-deployed engineer" armies to make enterprise AI pay off
 
-On Thursday, Microsoft launched Microsoft Frontier Company, a new operating business backed by a $2.5 billion investment and 6,000 industry and engineering experts embedded with customers to design, deploy, and continuously improve production AI systems. Commercial Business CEO Judson Althoff pitched it as going "beyond what has been labeled as Forward-Deployed Engineering… the largest, most capable, outcome-driven engineering organization in the industry." It lands two days after AWS unveiled a comparable ~$1 billion Forward Deployed Engineering organization. Both target the same gap: nearly 90% of companies have deployed AI somewhere, yet a large majority still report no material benefit — signaling that the competitive frontier is shifting from model access to deployment and change-management muscle.
+On Thursday, Microsoft launched Microsoft Frontier Company, a new operating business backed by a $2.5 billion investment and 6,000 industry and engineering experts embedded with customers to design, deploy, and continuously improve production AI systems. Commercial Business CEO Judson Althoff pitched it as going "beyond what has been labeled as Forward-Deployed Engineering… the largest, most capable, outcome-driven engineering organization in the industry." It lands two days after AWS unveiled a comparable ~$1 billion Forward Deployed Engineering organization. Both target the same gap: nearly 90% of companies have deployed AI somewhere, yet a large majority still report no material benefit — signaling that the competitive frontier is shifting from model access to deployment and change-management muscle. Model Releases Launch Open Source
 
 <!-- graph:start -->
 ## Connections

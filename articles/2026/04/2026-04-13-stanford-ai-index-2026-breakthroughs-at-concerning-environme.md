@@ -9,12 +9,13 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
-content_hash: b631adf7977a73f0042e6e6b56ed3c4a4f73d254971c7eabd17cf93efeae249a
+content_hash: 9105b0411b902ca7f0574553a4b6ead4e85886267393761d8aaa1258f5c517e2
 normalized_title_hash: bbd1d17d4a34e7f2
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -31,11 +32,11 @@ event_name: ''
 
 # Stanford AI Index 2026: Breakthroughs at Concerning Environmental & Talent Cost
 
-The Stanford Human-Centered AI Institute released its 2026 AI Index Report, documenting AI achieving unprecedented results in science and complex reasoning. Key findings: the US leads global AI investment by a wide margin but is struggling to attract top global talent; AI workforce disruption has moved from prediction to measurable reality; and the environmental toll of frontier AI training has become a critical policy concern. The report serves as the field's most comprehensive annual benchmark and signals where policymakers and executives should focus.
+The Stanford Human-Centered AI Institute released its 2026 AI Index Report, documenting AI achieving unprecedented results in science and complex reasoning. Key findings: the US leads global AI investment by a wide margin but is struggling to attract top global talent; AI workforce disruption has moved from prediction to measurable reality; and the environmental toll of frontier AI training has become a critical policy concern. The report serves as the field's most comprehensive annual benchmark and signals where policymakers and executives should focus. New Research
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-06-01-stanford-hai-publishes-the-2026-ai-index-report]] · [[2026-05-14-the-stanford-human-centered-ai-institute-released-its-2026-a]] · [[2026-05-28-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]] · [[2026-06-27-stanford-s-2026-ai-index-investment-surges-as-jobs-and-publi]] · [[2026-04-13-stanford-hai-2026-ai-index-continues-to-drive-boardroom-conv]]
 <!-- graph:end -->

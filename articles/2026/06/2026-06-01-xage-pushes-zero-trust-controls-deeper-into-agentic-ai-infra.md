@@ -11,13 +11,12 @@ digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June
 content_hash: e18ff5ded03108909ea62aa1a84d5ba708938406161fd2434116b0a59da4fa29
 normalized_title_hash: 1194a9bc5582092e
 canonical_url_hash: 58c71118373f8d2c
-tags: []
+tags:
+- New
 entities:
 - NVIDIA
 themes:
-- datacenter-infrastructure
 - policy-regulation
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +38,6 @@ Xage Security announced enhancements to its zero-trust solution for agentic AI u
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-07-29-microsoft-launches-agentic-security-platform-to-counter-ai-b]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]]
 <!-- graph:end -->

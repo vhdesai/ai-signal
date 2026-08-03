@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 - 2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years
+- 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first
 - 2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years
-- event-google-i-o-2026-google-i-o-2026-search-commerce-and-media
 embedding_id: 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google confirmed this week the most significant redesign of its search product s
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]] · [[event-google-i-o-2026-google-i-o-2026-search-commerce-and-media]]
+**Related:** [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-05-19-google-search-gets-its-biggest-ai-makeover-in-25-years]] · [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-05-19-google-retires-the-25-year-old-search-box-launches-ai-first]] · [[2026-05-21-google-announced-its-most-sweeping-search-update-in-25-years]]
 <!-- graph:end -->

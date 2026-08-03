@@ -17,6 +17,7 @@ entities:
 - Anthropic
 themes:
 - model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -38,6 +39,6 @@ The landmark Stanford Human-Centered AI Index delivers nine key findings: AI cap
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-05-22-stanford-hai-releases-2026-ai-index-u-s-china-performance-ga]] · [[2026-05-20-stanford-2026-ai-index-us-china-gap-down-to-2-7-swe-bench-hi]] · [[2026-04-13-stanford-2026-ai-index-swe-bench-scores-60-100-in-one-year-u]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]]
 <!-- graph:end -->

@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
 - 2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha
+- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
+- 2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra
 - 2026-03-25-165b-by-making-you-angry-2026-03-25-business-insider
-- 2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz
-- 2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider
 embedding_id: 2026-03-15-an-uber-eats-pricing-mystery-2026-03-15-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ An Uber Eats pricing mystery [2026-03-15] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha]] · [[2026-03-25-165b-by-making-you-angry-2026-03-25-business-insider]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]] · [[2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider]]
+**Related:** [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra]] · [[2026-03-25-165b-by-making-you-angry-2026-03-25-business-insider]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-rati
 url_status: found
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: 3dd8e395e5f526c57c2b4b36e14f1cd48cad9799ef5ef9603eabb5fd21fb4e2b
+content_hash: ae966167e5009ffb33e5e273bb36f26a7e0fa03f4fd38ad42e492f964c511bfe
 normalized_title_hash: 275156a72101ae2e
 canonical_url_hash: cef2eb5471708332
 tags:
@@ -24,19 +24,19 @@ related_article_ids:
 - 2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon
 - 2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon
 - 2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual
+- 2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
 embedding_id: 2026-07-25-corporate-america-starts-rationing-ai-as-compute-bills-skyro
 event_name: ''
 ---
 
 # Corporate America starts rationing AI as compute bills skyrocket
 
-The WSJ reports enterprises are rationing AI usage after some exhausted annual budgets within three months or watched costs double and triple, pushing leaders toward lower-priced models — including Chinese ones. Cited examples include curtailed internal coding-assistant licenses on cost grounds and an unnamed company spending $500M on AI in a single month. Signal: the first mainstream “cost reckoning” for enterprise AI — ROI discipline is now a board-level topic.
+The WSJ reports enterprises are rationing AI usage after some exhausted annual budgets within three months or watched costs double and triple, pushing leaders toward lower-priced models — including Chinese ones. Cited examples include curtailed internal coding-assistant licenses on cost grounds and an unnamed company spending $500M on AI in a single month. Signal: the first mainstream “cost reckoning” for enterprise AI — ROI discipline is now a board-level topic. ADOPTION
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
+**Related:** [[2026-07-25-corporate-america-starts-rationing-ai-as-costs-balloon]] · [[2026-07-25-corporate-america-starts-rationing-ai-spend-as-costs-balloon]] · [[2026-06-02-uber-caps-employee-ai-spending-after-blowing-through-annual]] · [[2026-08-01-1-in-4-dollars-spent-on-ai-goes-to-waste-report-finds]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
 <!-- graph:end -->

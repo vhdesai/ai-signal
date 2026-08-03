@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 2
 content_hash: e4eeab7cfa68a3f73e40d373eaaaed084720edd17e780ccdfc4d5b9b3a88967c
 normalized_title_hash: 3ba7de3f850a0922
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Amazon
 - AMD

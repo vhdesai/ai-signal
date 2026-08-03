@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 7abc1b06378a2f7b13d4c224d9cf1b88bac8f424d182bb71ead9a1b6cb0f1c57
 normalized_title_hash: fced93cbcba8cf1c
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Alibaba
 - Amazon

@@ -17,7 +17,6 @@ tags:
 entities: []
 themes:
 - model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +37,6 @@ CIO Dive reported that executives and employees are clashing over AI usage polic
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-22-employee-distrust-and-skills-gaps-hinder-enterprise-ai-scali]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

@@ -16,7 +16,7 @@ tags: []
 entities:
 - Microsoft
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +38,6 @@ XBOW’s autonomous offensive-security agent uncovered two critical remote-code-
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-08-claude-security-launches-autonomous-codebase-vulnerability-s]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]] · [[2026-05-27-cve-2026-48710-badhost-critical-starlette-auth-bypass-hits-a]]
 <!-- graph:end -->

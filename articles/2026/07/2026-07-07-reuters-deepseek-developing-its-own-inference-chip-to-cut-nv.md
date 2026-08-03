@@ -20,7 +20,7 @@ entities:
 - NVIDIA
 - OpenAI
 themes:
-- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -38,6 +38,6 @@ Reuters reported exclusively (three sources) that DeepSeek is designing its own 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Huawei]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Canonical:** [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]]
 <!-- graph:end -->

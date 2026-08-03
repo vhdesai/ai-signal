@@ -23,7 +23,8 @@ related_article_ids:
 - 2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high
 - 2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si
 - 2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880
-- 2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b
+- 2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending
+- 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
 embedding_id: 2026-07-18-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Vertu tests demand for a $6,880 executive AI-agent phone, highlighting AI agents
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high]] · [[2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si]] · [[2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880]] · [[2026-07-14-openai-s-ad-business-on-pace-to-miss-its-own-2026-forecast-b]]
+**Related:** [[2026-07-17-vertu-tests-demand-for-a-6-880-executive-ai-agent-phone-high]] · [[2026-07-19-vertu-s-executive-ai-agent-phone-remains-a-premium-device-si]] · [[2026-05-28-vertu-launches-ai-foldable-for-ceos-starting-at-6-880]] · [[2026-07-31-gartner-agentic-ai-to-disrupt-234b-in-saas-spending]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]]
 <!-- graph:end -->

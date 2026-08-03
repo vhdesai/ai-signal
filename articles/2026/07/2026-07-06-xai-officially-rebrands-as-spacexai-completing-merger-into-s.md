@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7
 content_hash: 1a0944b73b6b41e9db548872d485791e3cbb47bcb48628ab74bfa93c965f25d2
 normalized_title_hash: fbce5731d2432bf2
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - xAI
 themes:

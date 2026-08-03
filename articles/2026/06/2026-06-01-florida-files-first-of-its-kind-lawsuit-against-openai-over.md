@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-
 url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
-content_hash: 8dfa6b05bc1f010ec51fa414ed4bd0b11db5d753ea07103f48a81050c5d10e28
+content_hash: d075357450a23af2cada963a442a26aa287582b40c989f91324c9dc7e5a395df
 normalized_title_hash: fd2de39dea7bb316
 canonical_url_hash: bf76b64ddbd79aeb
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Florida Files First-of-Its-Kind Lawsuit Against OpenAI Over Safety Risks
 
-Florida became the first U.S. state to sue OpenAI and CEO Sam Altman, alleging the company's products pose safety risks — particularly to children — including links to violent incidents. The case opens a new legal front for AI liability distinct from copyright or antitrust actions. Florida's case could become a template for other state AGs, potentially creating a patchwork of state-level AI safety litigation.
+Florida became the first U.S. state to sue OpenAI and CEO Sam Altman, alleging the company's products pose safety risks — particularly to children — including links to violent incidents. The case opens a new legal front for AI liability distinct from copyright or antitrust actions. Florida's case could become a template for other state AGs, potentially creating a patchwork of state-level AI safety litigation. ________________________________ SECURITY
 
 <!-- graph:start -->
 ## Connections

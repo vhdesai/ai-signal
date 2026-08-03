@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-30_065951_Inbox_Daily AI News Digest - July 3
 content_hash: 1199e59040513c8bb33beb36a00ed0177599f77644eb2c5a879e77d4c3cd3370
 normalized_title_hash: 7576695dbdc8d440
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Meta
 - Microsoft

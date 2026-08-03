@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-cuspai-hits-2-6b-valuation-as-bezos-nvidia-and-meta-back-ai
 - 2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i
 - 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
 - 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
-- 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
 embedding_id: 2026-07-21-cuspai-raises-450m-series-b-at-2-6b-for-ai-materials-discove
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cambridge-based CuspAI closed a Series B for AI materials discovery.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]] · [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]]
+**Related:** [[2026-08-03-cuspai-hits-2-6b-valuation-as-bezos-nvidia-and-meta-back-ai]] · [[2026-05-26-replit-closes-400m-round-at-9b-valuation-as-ai-coding-wars-i]] · [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]] · [[2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]]
 <!-- graph:end -->

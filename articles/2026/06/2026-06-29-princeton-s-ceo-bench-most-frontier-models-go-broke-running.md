@@ -15,7 +15,7 @@ canonical_url_hash: bb27be0380439821
 tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai
@@ -31,6 +31,6 @@ A Princeton benchmark, CEO-Bench, puts AI agents in charge of a simulated startu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-06-29-princeton-researchers-introduced-ceo-bench-which-drops-an-ai]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative
 - 2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen
+- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 - 2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e
-- 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
 embedding_id: 2026-05-22-ey-and-microsoft-announce-1-billion-enterprise-ai-initiative
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Professional services firm EY and Microsoft have committed more than $1 billion 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[Scale AI]]
-**Related:** [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-05-21-microsoft-and-ey-launch-1-billion-enterprise-ai-initiative]] · [[2026-04-04-microsoft-announced-a-10-billion-ai-infrastructure-commitmen]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-04-03-microsoft-announced-a-10b-investment-in-japan-2026-2029-to-e]]
 <!-- graph:end -->

@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 2
 content_hash: aae3d85554a2c14721b466806ab61fc66cdc2673c1afc1263a17851d7df7a5ab
 normalized_title_hash: d813a6a62dc993ba
 canonical_url_hash: cac4ea7775d779ba
-tags: []
+tags:
+- Breaking
 entities:
 - Alibaba
 - Anthropic

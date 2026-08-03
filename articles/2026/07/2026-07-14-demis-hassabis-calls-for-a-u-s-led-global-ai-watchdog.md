@@ -15,7 +15,8 @@ tags: []
 entities:
 - Google
 themes:
-- policy-regulation
+- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ Axios reports that Google DeepMind CEO Demis Hassabis called for a U.S.-led glob
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-07-14-deepmind-s-demis-hassabis-calls-for-a-us-led-global-ai-watch]] · [[2026-07-15-deepmind-ceo-demis-hassabis-proposes-an-independent-finra-st]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]]
 <!-- graph:end -->

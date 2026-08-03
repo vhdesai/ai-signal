@@ -18,8 +18,7 @@ entities:
 - DeepSeek
 - OpenAI
 themes:
-- policy-regulation
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -37,6 +36,6 @@ Reuters reports that Z.ai's open-weight GLM-5.2, released in June, is drawing no
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-02-china-s-low-cost-glm-5-2-z-ai-rivals-openai-and-anthropic-on]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: https://technode.com/2026/07/27/moonshot-ai-to-make-kimi-k3-avail
 url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 539b59dff685336208cfdf01d9ca3bc3f5791b64842b087b064b6e864aac62c7
+content_hash: f0b314d9a9206cb2103c88241c06f89661337e354972a4ab48a2bf621ca140ff
 normalized_title_hash: b1cf79883a2109be
 canonical_url_hash: 5d07768241355802
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Kimi K3 open weights go live — the largest open-weight model yet
 
-Moonshot AI released Kimi K3's weights on July 27 for public download and self-hosting. Launched earlier this month with 2.8 trillion parameters, native visual understanding, and a one-million-token context window, the model targets long-horizon coding and reasoning. At roughly 1.4 TB in MXFP4 format, self-hosting will favor large teams and providers — but it lands as the largest open-weight model released to date.
+Moonshot AI released Kimi K3's weights on July 27 for public download and self-hosting. Launched earlier this month with 2.8 trillion parameters, native visual understanding, and a one-million-token context window, the model targets long-horizon coding and reasoning. At roughly 1.4 TB in MXFP4 format, self-hosting will favor large teams and providers — but it lands as the largest open-weight model released to date. Trending Frontier Models
 
 <!-- graph:start -->
 ## Connections

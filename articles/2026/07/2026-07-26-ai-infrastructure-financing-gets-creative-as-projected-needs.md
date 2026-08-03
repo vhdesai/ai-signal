@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-07-28_070006_Inbox_Daily AI News Digest - July 2
 content_hash: f1b1a00c34971aeba52d292e30126e40dfff0abd14bed6a597632178bd261788
 normalized_title_hash: bdac82c87702cd07
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ The Information reports that bankers and investors are searching for capital to 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]]
 <!-- graph:end -->

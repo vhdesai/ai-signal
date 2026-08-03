@@ -9,7 +9,7 @@ url_canonical: https://cybersecuritynews.com/claude-mythos-moves-toward-public/
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: b6e0027a1755652e121891330b816915734362b0d6f43f453e550ea4ed626903
+content_hash: 824e4f90d23642ec3fc727fd0a2b351de1cc595d2150ef896733ae72471c8c81
 normalized_title_hash: 4d57ba13f9734e49
 canonical_url_hash: 19c36177cabdb269
 tags:
@@ -30,7 +30,7 @@ event_name: ''
 
 # Anthropic prepares "Mythos 1" for staged release inside Claude Code & Claude Security
 
-Anthropic is loosening its grip on Claude Mythos — its most powerful previously-restricted model — with source-code strings referencing claude-mythos-1-preview and a new access description: "Access to the Claude Mythos model in Claude Code and Claude Security." An updated Project Glasswing report says Mythos-class models could reach the public once the right safeguards are in place — a notable departure from earlier indefinite-restriction framing.
+Anthropic is loosening its grip on Claude Mythos — its most powerful previously-restricted model — with source-code strings referencing claude-mythos-1-preview and a new access description: "Access to the Claude Mythos model in Claude Code and Claude Security." An updated Project Glasswing report says Mythos-class models could reach the public once the right safeguards are in place — a notable departure from earlier indefinite-restriction framing. NEW A O
 
 <!-- graph:start -->
 ## Connections

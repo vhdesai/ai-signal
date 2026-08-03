@@ -8,14 +8,14 @@ url_canonical: https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-bi
 url_status: found
 digest_source: digests\raw\2026-07-11_061544_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: 00b9bd004a7fdfac506eb8f893e5be5f630a0e5361ada1db70d330d5161a1e4d
+content_hash: 3987e19af8b7168c7473f659ada34c66931e2138c88f686bf99920dabfb5ac61
 normalized_title_hash: 29e94942d876b25b
 canonical_url_hash: 215c84d847ed7459
 tags: []
 entities:
 - NVIDIA
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing
@@ -26,12 +26,12 @@ event_name: ''
 
 # SK Hynix raises $26.5B in the biggest foreign IPO in U.S. history
 
-SK Hynix raised $26.5 billion in a U.S. IPO, reflecting investor demand for high-bandwidth memory exposure as AI datacenter buildouts accelerate. The offering strengthens the financial position of one of Nvidia’s most important HBM suppliers and highlights that memory, advanced packaging, and fab location are now central AI infrastructure questions, not semiconductor back-office details.
+SK Hynix raised $26.5 billion in a U.S. IPO, reflecting investor demand for high-bandwidth memory exposure as AI datacenter buildouts accelerate. The offering strengthens the financial position of one of Nvidia’s most important HBM suppliers and highlights that memory, advanced packaging, and fab location are now central AI infrastructure questions, not semiconductor back-office details. OPEN-SOURCE-AIHUGGING-FACEENTERPRISE-AI
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-10-sk-hynix-raises-26-5b-in-blockbuster-u-s-listing]]
 <!-- graph:end -->

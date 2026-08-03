@@ -11,11 +11,12 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: 93a2cce77d9459fd867d7a49ba1a05a20718c6d04f8a42ada1cd6447d54c8194
 normalized_title_hash: 38f8d6e20eb3e15c
 canonical_url_hash: e458eb461571301b
-tags: []
+tags:
+- Breaking
 entities:
 - Amazon
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ Richard Socher’s startup Recursive Superintelligence signed a multiyear AWS co
 ## Connections
 
 **Entities:** [[Amazon]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-28-recursive-superintelligence-signs-410-million-compute-deal-w]] · [[2026-07-28-recursive-superintelligence-signs-410m-compute-deal-with-ama]] · [[2026-07-28-recursive-signs-410m-multi-year-aws-deal-to-scale-self-impro]] · [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] · [[2026-05-13-recursive-superintelligence-raises-650m-at-4-65b-valuation-s]]
 <!-- graph:end -->

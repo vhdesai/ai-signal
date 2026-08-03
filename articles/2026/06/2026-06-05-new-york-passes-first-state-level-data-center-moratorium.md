@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-06_070333_Inbox_Daily AI News Digest – June 6,
   2026.md
-content_hash: fed68a65db037e2f497cbc92bcdbe85de84502bd58695204cabd16b70615d0d8
+content_hash: 53d5676cffdf6eb2eaca2ef3458dfdb769da9f207273670a8ca2de8ceea38b94
 normalized_title_hash: a09a4aa96caf9e6e
 canonical_url_hash: ''
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # New York Passes First State-Level Data Center Moratorium
 
-York passed a one-year moratorium on large data center construction — the first such ban in the U.S. It reflects growing tension between AI infrastructure demand and community concerns about energy, water, and displacement. Permitting risk is now a material factor in site selection.
+York passed a one-year moratorium on large data center construction — the first such ban in the U.S. It reflects growing tension between AI infrastructure demand and community concerns about energy, water, and displacement. Permitting risk is now a material factor in site selection. ________________________________ SECURITYHOT
 
 <!-- graph:start -->
 ## Connections

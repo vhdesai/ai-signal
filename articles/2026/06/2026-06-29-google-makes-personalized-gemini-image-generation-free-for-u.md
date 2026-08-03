@@ -8,13 +8,14 @@ url_canonical: https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-g
 url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: bbacb1a3e44e67ce2fa78d1e0ff37e24379d4a287f74848c068d7d2d599ff21a
+content_hash: 195ff1cbc60bc2af692d49558696e6c09c202e5e0f5e34a108c7000201e33032
 normalized_title_hash: 442fd8d7858b5cb5
 canonical_url_hash: e21df0133831be8f
 tags: []
 entities:
 - Google
 themes:
+- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -30,12 +31,12 @@ event_name: ''
 
 # Google makes personalized Gemini image generation free for U.S. users
 
-Google removed the Plus/Pro/Ultra paywall on Gemini's "Nano Banana"-powered personalized image generation, making it free to all eligible U.S. users. The feature draws on a user's connected Google data — Gmail, Photos, YouTube, Search — to generate images aligned to their interests without explicit prompting. The move widens consumer reach for Gemini's image stack while sharpening the privacy questions that accompany data-personalized generation.
+Google removed the Plus/Pro/Ultra paywall on Gemini's "Nano Banana"-powered personalized image generation, making it free to all eligible U.S. users. The feature draws on a user's connected Google data — Gmail, Photos, YouTube, Search — to generate images aligned to their interests without explicit prompting. The move widens consumer reach for Gemini's image stack while sharpening the privacy questions that accompany data-personalized generation. PRODUCT
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Related:** [[2026-06-30-google-extended-the-gemini-app-s-nano-banana-powered-persona]] · [[2026-06-30-google-opened-gemini-s-nano-banana-powered-personalized-imag]] · [[2026-06-30-google-makes-gemini-s-personalized-image-generation-free-for]] · [[2026-06-30-google-makes-gemini-s-personalized-ai-image-generation-free]]
 <!-- graph:end -->

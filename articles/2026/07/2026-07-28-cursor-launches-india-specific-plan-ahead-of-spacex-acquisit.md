@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-
 url_status: found
 digest_source: digests\raw\2026-07-29_060511_Inbox_Daily AI News Digest - July 29,
   2026.md
-content_hash: e63c7851328ca7934b5efc5eb02ce55d63269d1846241353c8671ab8e8475109
+content_hash: b0abe3710faa0ac9da0dd0f5d33e241379fef0e814dce09e5eef87371da05180
 normalized_title_hash: c7d8458e2abfd7ae
 canonical_url_hash: 81e027808fb5bea2
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Cursor launches India-specific plan ahead of SpaceX acquisition
 
-Cursor launched a lower-priced India subscription, Cursor Start, at ₹649 per month, as India becomes its third-largest market and highest concentration of power users. The plan is built around Cursor's own Composer 2.5 and Grok 4.5 models rather than higher-cost frontier models, making the economics more sustainable. This is a useful case study in how AI developer tools are localizing pricing and model access for high-growth engineering markets.
+Cursor launched a lower-priced India subscription, Cursor Start, at ₹649 per month, as India becomes its third-largest market and highest concentration of power users. The plan is built around Cursor's own Composer 2.5 and Grok 4.5 models rather than higher-cost frontier models, making the economics more sustainable. This is a useful case study in how AI developer tools are localizing pricing and model access for high-growth engineering markets. AI SEARCHGOOGLEPUBLISHERS
 
 <!-- graph:start -->
 ## Connections

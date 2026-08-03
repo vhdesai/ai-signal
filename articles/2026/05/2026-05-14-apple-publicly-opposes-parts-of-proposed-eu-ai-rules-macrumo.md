@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios
 - 2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle
+- 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly
-- 2026-07-28-palantir-faces-growing-european-backlash-over-dependence
 embedding_id: 2026-05-14-apple-publicly-opposes-parts-of-proposed-eu-ai-rules-macrumo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple publicly opposes parts of proposed EU AI rules — MacRumors, May 13, 2026
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]] · [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence]]
+**Related:** [[2026-07-20-google-and-apple-clash-with-the-eu-over-opening-android-ios]] · [[2026-04-16-the-european-union-said-meta-s-ai-policies-for-whatsapp-alle]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-06-27-trump-s-ai-oversight-reversal-leaves-silicon-valley-quietly]]
 <!-- graph:end -->

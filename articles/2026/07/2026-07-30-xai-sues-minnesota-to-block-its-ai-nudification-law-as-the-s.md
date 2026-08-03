@@ -17,14 +17,14 @@ entities:
 - Microsoft
 - xAI
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity
+- 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
+- 2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite
 embedding_id: 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 event_name: ''
 ---
@@ -37,6 +37,6 @@ xAI has filed a federal lawsuit to block Minnesota's first-in-the-nation law ban
 ## Connections
 
 **Entities:** [[Microsoft]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-05-31-ai-regulation-fractures-on-three-fronts-cnn-sues-perplexity]]
+**Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]] · [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]] · [[2026-08-01-judge-lets-minnesota-s-ai-nudify-app-ban-take-effect-despite]]
 <!-- graph:end -->

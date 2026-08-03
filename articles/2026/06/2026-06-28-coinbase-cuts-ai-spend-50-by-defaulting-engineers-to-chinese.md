@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-06-29_062122_Inbox_Daily AI News Digest - June 2
 content_hash: ba67b258f794d7c5b93da0a5e20d004b6a5ee840c36db186e0470b7b49c0d96c
 normalized_title_hash: 60fe0c3ca24318c3
 canonical_url_hash: 5159ebe30ab4cd1a
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - company-storylines

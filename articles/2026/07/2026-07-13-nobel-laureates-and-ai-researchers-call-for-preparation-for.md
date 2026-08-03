@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 11f9e9dc6dc20fc9f51453f29e0874701b0359d3b25e1391d58df4cb8056f395
 normalized_title_hash: f5c81f50035e5f20
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - Google

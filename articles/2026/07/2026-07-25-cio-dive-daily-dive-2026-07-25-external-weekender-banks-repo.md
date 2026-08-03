@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent
 - 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
 - 2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw
 - 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
-- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 embedding_id: 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive / Daily Dive - [2026-07-25] [EXTERNAL] Weekender: Banks report operatio
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]]
+**Related:** [[2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]]
 <!-- graph:end -->

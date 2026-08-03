@@ -9,7 +9,7 @@ url_canonical: https://www.politico.com/news/2026/06/04/obernolte-trahan-ai-bill
 url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
-content_hash: 3be1029d38a5df475d83f6096f1df5333a766494dc832d1dea780fb61c338112
+content_hash: f9ff2d2545e3db7ab1a06c7c2da59c33c816a197cb8ed604c9704b681c20a0cc
 normalized_title_hash: 86405af716e76708
 canonical_url_hash: 89e6aa5ecec8b999
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Bipartisan "Great American AI Act" Proposes Federal Governance, Would Preempt State Laws
 
-A 269-page bipartisan draft requires large developers (over $500M revenue) to publish governance frameworks, report safety incidents, and submit to cybersecurity audits. It would preempt state AI laws for three years, fund a $100M/year Center for AI Standards, and create criminal penalties for AI impersonation of officials. It represents the last realistic window for federal AI rules before the midterms.
+A 269-page bipartisan draft requires large developers (over $500M revenue) to publish governance frameworks, report safety incidents, and submit to cybersecurity audits. It would preempt state AI laws for three years, fund a $100M/year Center for AI Standards, and create criminal penalties for AI impersonation of officials. It represents the last realistic window for federal AI rules before the midterms. ________________________________ POLICY
 
 <!-- graph:start -->
 ## Connections

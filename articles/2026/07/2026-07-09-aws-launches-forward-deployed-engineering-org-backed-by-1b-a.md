@@ -11,12 +11,13 @@ digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 1
 content_hash: d563269b74e37e0380539fe0841f32a223f627969132214531c6a8b4801e4e7e
 normalized_title_hash: 4a96d4aa04e991e5
 canonical_url_hash: 67ea1011fc80b222
-tags: []
+tags:
+- New
 entities:
 - Amazon
 - Palantir
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ AWS stood up a Forward Deployed Engineering organization, backed by $1B, to embe
 ## Connections
 
 **Entities:** [[Amazon]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-09-aws-stands-up-a-forward-deployed-engineering-org-backed-by-a]] · [[2026-07-01-amazon-s-aws-commits-1-billion-to-a-new-forward-deployed-eng]] · [[2026-07-02-microsoft-and-aws-stand-up-rival-forward-deployed-engineer-a]] · [[2026-07-03-microsoft-launches-2-5b-frontier-enterprise-ai-unit-with-6-0]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Baidu
-member_count: 71
+member_count: 75
 ---
 
 # Baidu
 
-> Auto-generated entity hub. 71 connected article(s).
+> Auto-generated entity hub. 75 connected article(s).
 
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-28` [[2026-07-28-cursor-patches-a-high-severity-git-remote-code-execution-fla|Cursor patches a high-severity Git remote-code-execution flaw (CVE-2026-63093)]]
 - `2026-07-28` [[2026-07-28-baidu-and-lyft-enter-london-s-robotaxi-market-as-testing-beg|Baidu and Lyft enter London's robotaxi market as testing begins]]
@@ -34,6 +37,7 @@ member_count: 71
 - `2026-06-30` [[2026-06-30-sources-scanned-companies-nvidia-google-alphabet-deepmind-op|Sources scanned: Companies — Nvidia, Google / Alphabet / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta,…]]
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
 - `2026-06-29` [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
+- `2026-06-29` [[2026-06-29-meta-s-brain2qwerty-v2-decodes-typed-sentences-from-brain-si|Meta's Brain2Qwerty v2 decodes typed sentences from brain signals — no implant]]
 - `2026-06-29` [[2026-06-29-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-ties|Baidu's chip unit Kunlunxin targets a ~$50B Hong Kong IPO, ties chip buys to allocations The Next Web (reporting The…]]
 - `2026-06-29` [[2026-06-29-baidu-s-ai-chip-arm-kunlunxin-is-planning-a-hong-kong-ipo-at|Baidu's AI chip arm Kunlunxin is planning a Hong Kong IPO at a ~$50B target — up sharply from the ~$14.7B valuation…]]
 - `2026-06-29` [[2026-06-29-baidu-jumps-7-as-chip-arm-kunlunxin-targets-50b-hong-kong-ip|Baidu jumps 7% as chip arm Kunlunxin targets ~$50B Hong Kong IPO]]

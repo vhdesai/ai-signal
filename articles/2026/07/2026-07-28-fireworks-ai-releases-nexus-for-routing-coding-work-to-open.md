@@ -14,7 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -33,6 +33,6 @@ MarkTechPost reports that Fireworks AI released Fireworks Nexus, a drop-in routi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-17-general-compute-and-fireworks-ai-reinforce-the-shift-from-tr]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
 <!-- graph:end -->

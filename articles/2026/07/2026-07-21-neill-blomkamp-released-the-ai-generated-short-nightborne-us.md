@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-20-neill-blomkamp-released-the-ai-generated-short-nightborne-us
 - 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
 - 2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation
+- 2026-07-31-bytedance-launches-seedance-2-5-video-generation-model
 - 2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi
-- 2026-07-05-hollywood-seeks-to-ban-bytedance-s-seedance-ai-video-tool-wh
 embedding_id: 2026-07-21-neill-blomkamp-released-the-ai-generated-short-nightborne-us
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Neill Blomkamp released the AI-generated short Nightborne using ByteDance Seedan
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-neill-blomkamp-released-the-ai-generated-short-nightborne-us]] · [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi]] · [[2026-07-05-hollywood-seeks-to-ban-bytedance-s-seedance-ai-video-tool-wh]]
+**Related:** [[2026-07-20-neill-blomkamp-released-the-ai-generated-short-nightborne-us]] · [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-03-28-bytedance-released-seedance-2-0-an-upgraded-video-generation]] · [[2026-07-31-bytedance-launches-seedance-2-5-video-generation-model]] · [[2026-07-03-bytedance-opens-the-public-launch-window-for-seedance-2-5-vi]]
 <!-- graph:end -->

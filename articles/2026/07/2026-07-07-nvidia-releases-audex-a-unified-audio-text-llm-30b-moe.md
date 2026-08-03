@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 3878ee412b43a8ce4cbcbda7d7073b031aebe929b3b025ca3b650e020df8a880
 normalized_title_hash: 4f5bade84e42bca5
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - NVIDIA
 themes:

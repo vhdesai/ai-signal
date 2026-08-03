@@ -16,7 +16,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m
@@ -33,6 +33,6 @@ Bun creator Jarred Sumner (now at Anthropic) used a pre-release Claude "Fable 5"
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-10-anthropic-s-fable-5-rewrites-bun-runtime-from-zig-to-rust-1m]]
 <!-- graph:end -->

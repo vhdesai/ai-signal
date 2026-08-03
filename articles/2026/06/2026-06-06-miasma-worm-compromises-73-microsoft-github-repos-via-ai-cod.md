@@ -8,14 +8,14 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
-content_hash: 0e8fb6745435c0c13c70d7192ebcb1ce94045b06465e4c107b5ed3284a7f289c
+content_hash: cca119968f61e99e86c27ea735beda10e94214ad2e16d4263e2a141b4ca9f4f3
 normalized_title_hash: 91cda31b162c9873
 canonical_url_hash: ''
 tags: []
 entities:
 - Microsoft
 themes:
-- company-storylines
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -29,12 +29,12 @@ event_name: ''
 
 # "Miasma Worm" Compromises 73 Microsoft GitHub Repos via AI Coding Tools
 
-A supply chain attack exploited trust that AI coding assistants place in repository dependencies — compromising 73 Microsoft repos. A new threat class where AI tool adoption expands the attack surface rather than reducing it.
+A supply chain attack exploited trust that AI coding assistants place in repository dependencies — compromising 73 Microsoft repos. A new threat class where AI tool adoption expands the attack surface rather than reducing it. Academic Research RESEARCH
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-06-06-miasma-worm-supply-chain-attack-compromises-73-microsoft-git]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]]
 <!-- graph:end -->

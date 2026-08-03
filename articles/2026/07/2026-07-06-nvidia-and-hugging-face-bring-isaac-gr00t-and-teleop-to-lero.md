@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_060820_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 7ba60ff85afde0e9270b3cf50f0c95a901dd10819d65e981fe00fc589dde744c
+content_hash: 16806cab92b0a5d607b89b39d092138843e0536576199d15ef2e5ec21932203a
 normalized_title_hash: 00dc485b91c5fef3
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # NVIDIA and Hugging Face bring Isaac GR00T and Teleop to LeRobot
 
-NVIDIA and Hugging Face are integrating NVIDIA's Isaac GR00T 1.7 vision-language-action model and the Isaac Teleop framework into LeRobot, Hugging Face's open-source robotics library, with the Cosmos 3 physical-AI model family planned to follow. The goal is a standardized, lower-cost path for end-to-end humanoid and general robot development on open tooling. It extends the momentum behind open "physical AI" stacks and positions NVIDIA's models as default infrastructure for the robotics developer community. Read at NVIDIA Blog →https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
+NVIDIA and Hugging Face are integrating NVIDIA's Isaac GR00T 1.7 vision-language-action model and the Isaac Teleop framework into LeRobot, Hugging Face's open-source robotics library, with the Cosmos 3 physical-AI model family planned to follow. The goal is a standardized, lower-cost path for end-to-end humanoid and general robot development on open tooling. It extends the momentum behind open "physical AI" stacks and positions NVIDIA's models as default infrastructure for the robotics developer community. Read at NVIDIA Blog →https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/ PRODUCTMICROSOFTGOVERNANCE
 
 <!-- graph:start -->
 ## Connections

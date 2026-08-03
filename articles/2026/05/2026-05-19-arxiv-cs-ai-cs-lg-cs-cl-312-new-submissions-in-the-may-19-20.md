@@ -15,7 +15,9 @@ tags:
 - New
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +38,6 @@ arXiv logged over 312 new cs.AI submissions on May 20 alone, reflecting the typi
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-07-13-arxiv-cs-ai-daily-drop-116-new-ai-preprints-posted-july-13]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]] · [[2026-05-14-arxiv-cs-ai-259-new-submissions-on-may-14-2026-arxiv-may-14]] · [[2026-05-27-arxiv-cs-ai-submissions-sustain-high-volume-through-the-wind]]
 <!-- graph:end -->

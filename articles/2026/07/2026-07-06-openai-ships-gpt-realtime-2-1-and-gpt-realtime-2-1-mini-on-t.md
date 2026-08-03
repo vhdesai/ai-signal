@@ -11,12 +11,12 @@ digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7
 content_hash: a56c953fe0c65fe570325fdd356b6e1f2912d262085a055b75f69145bc11e113
 normalized_title_hash: 08dee3221ae001d7
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - OpenAI
 themes:
 - model-capabilities
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
@@ -33,6 +33,6 @@ OpenAI shipped two new Realtime API models for low-latency voice and multimodal 
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]]
 <!-- graph:end -->

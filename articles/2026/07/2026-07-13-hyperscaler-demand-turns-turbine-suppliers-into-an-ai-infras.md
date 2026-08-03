@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 4d5f592efefd0ef1d59cce52edbf20ba33801de421decafb3baeef85358ca580
 normalized_title_hash: 77cbf653d53dedcc
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ WSJ highlighted surging demand for specialized turbine parts as airlines and hyp
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-13-wsj-wealth-adviser-highlighted-surging-demand-for-specialize]] · [[2026-07-13-airlines-and-hyperscalers-clamor-for-turbines]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-06-18-ai-data-centers-receive-a-government-mandated-fast-lane-to-t]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

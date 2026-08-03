@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
+- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 - 2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
-- 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 embedding_id: 2026-04-06-eu-ai-act-enforcement-office-publishes-first-non-compliance
 event_name: ''
 ---
@@ -37,5 +37,5 @@ EU AI Act Enforcement Office Publishes First Non-Compliance Guidance for Foundat
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]]
+**Related:** [[2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-05-16-eu-ai-act-enters-full-enforcement-new-u-s-federal-guidance-a]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]]
 <!-- graph:end -->

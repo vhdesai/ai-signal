@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 107
+member_count: 113
 ---
 
 # IBM
 
-> Auto-generated entity hub. 107 connected article(s).
+> Auto-generated entity hub. 113 connected article(s).
 
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand|IBM earnings read as a gauge of AI-infrastructure demand]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-31` [[2026-07-31-ibm-and-sarvam-collaborate-to-advance-ai-sovereignty-in-indi|IBM and Sarvam collaborate to advance AI sovereignty in India]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-s-2026-cost-of-a-data-breach-report-ai-now-appears-in-on|IBM’s 2026 Cost of a Data Breach Report: AI now appears in one in four malicious breaches]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
@@ -68,6 +73,7 @@ member_count: 107
 - `2026-05-26` [[2026-05-26-ferrari-deploys-ibm-ai-to-build-personalized-f1-fan-experien|Ferrari deploys IBM AI to build personalized F1 fan experiences]]
 - `2026-05-25` [[2026-05-25-ibm-launches-bob-an-ai-platform-to-govern-sdlc-costs|IBM Launches "Bob" — an AI Platform to Govern SDLC Costs]]
 - `2026-05-24` [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter|Enterprise AI-restructuring signals broaden: Standard Chartered cuts, Meta reorgs 7,000+ into AI teams]]
+- `2026-05-23` [[2026-05-23-microsoft-is-worst-magnificent-seven-performer-of-2026-down|Microsoft Is Worst Magnificent Seven Performer of 2026 — Down ~13% YTD Despite Doubled AI Revenue]]
 - `2026-05-23` [[2026-05-23-ibm-and-the-u-s-government-commit-2b-to-a-new-quantum-foundr|IBM and the U.S. government commit $2B to a new quantum foundry]]
 - `2026-05-23` [[2026-05-23-ibm-and-scuderia-ferrari-hp-launch-ai-powered-f1-fan-engagem|IBM and Scuderia Ferrari HP Launch AI-Powered F1 Fan Engagement Partnership]]
 - `2026-05-23` [[2026-05-23-ferrari-taps-ibm-ai-to-scale-its-f1-fan-experience|Ferrari taps IBM AI to scale its F1 fan experience]]

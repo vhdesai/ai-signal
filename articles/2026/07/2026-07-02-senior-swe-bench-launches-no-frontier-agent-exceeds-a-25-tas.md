@@ -15,7 +15,7 @@ canonical_url_hash: 5196eea50d09f893
 tags: []
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s
@@ -31,6 +31,6 @@ Snorkel AI, with Princeton and the University of Wisconsin–Madison, released S
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-02-senior-swe-bench-frontier-coding-agents-fail-three-of-four-s]]
 <!-- graph:end -->

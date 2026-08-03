@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 2
 content_hash: 799bec3f9ed8f12b2f7bae04a2c5416bd54205638c3862931de7f919e94afd0d
 normalized_title_hash: af35f2978fcd05fe
 canonical_url_hash: f123e87e197cca73
-tags: []
+tags:
+- New
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +36,6 @@ A MarkTechPost tutorial walks through building “self-evolving” AI agents wit
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self]]
 <!-- graph:end -->

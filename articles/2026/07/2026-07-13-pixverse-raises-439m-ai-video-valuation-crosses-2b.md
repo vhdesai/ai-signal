@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-14_065240_Inbox_Daily AI News Digest - July 1
 content_hash: aad2bacf5dfdee3933b0ec37f5ec7a6afa1e70cb8f7db4699fc51baa9b937e40
 normalized_title_hash: 3acc58201e93d792
 canonical_url_hash: 4efd27519b8173ae
-tags: []
+tags:
+- New
 entities:
 - Alibaba
 themes:

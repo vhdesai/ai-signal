@@ -17,7 +17,7 @@ entities:
 - Anthropic
 - OpenAI
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs
@@ -34,6 +34,6 @@ Anthropic said the U.S. government has authorized it to redeploy Claude Mythos 5
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-06-27-u-s-commerce-clears-anthropic-s-mythos-5-for-100-vetted-orgs]]
 <!-- graph:end -->

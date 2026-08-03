@@ -14,6 +14,7 @@ canonical_url_hash: d35912a3f59f85f0
 tags: []
 entities: []
 themes:
+- datacenter-infrastructure
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -34,6 +35,6 @@ In its annual economic report (released Sunday), the Bank for International Sett
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
 **Related:** [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]] · [[2026-06-28-bis-warns-the-ai-boom-and-record-debt-are-raising-global-fin]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]]
 <!-- graph:end -->

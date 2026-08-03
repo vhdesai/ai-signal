@@ -16,7 +16,7 @@ entities:
 - Amazon
 - Microsoft
 themes:
-- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20
@@ -33,6 +33,6 @@ Ahead of both companies' earnings (Amazon reports July 30), coverage highlighted
 ## Connections
 
 **Entities:** [[Amazon]] · [[Microsoft]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-27-amazon-and-microsoft-head-into-earnings-defending-400b-in-20]]
 <!-- graph:end -->

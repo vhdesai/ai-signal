@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_074231_Inbox_Daily AI News Digest - July 8
 content_hash: 789ac53812acad4f9d21fbf09ed8fa18bb679cfd293f737ca1bfa03581925dbe
 normalized_title_hash: 8c89de87f23dc100
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Arm
 - NVIDIA

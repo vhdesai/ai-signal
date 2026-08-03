@@ -16,7 +16,6 @@ tags:
 - Trending
 entities:
 - Anthropic
-- Google
 themes:
 - policy-regulation
 - model-capabilities
@@ -38,7 +37,7 @@ The Vatican announced on May 19 that an Anthropic co-founder will appear alongsi
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Anthropic]] · [[Google]]
+**Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-05-20-vatican-to-release-papal-encyclical-on-ai-alongside-anthropi]] · [[2026-05-23-vatican-unveils-first-ai-encyclical-anthropic-s-christopher]] · [[2026-05-26-pope-leo-xiv-released-the-vatican-s-first-ever-encyclical-on]]
 <!-- graph:end -->

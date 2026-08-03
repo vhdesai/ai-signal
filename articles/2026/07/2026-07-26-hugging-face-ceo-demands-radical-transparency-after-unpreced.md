@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 2
 content_hash: fae065a6f8dfeb8eb23c7019bde1346fd94e4d8b73cfb5ebcf4a9a67bc577e8e
 normalized_title_hash: f834319f15711674
 canonical_url_hash: 446a8454722be8bb
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:

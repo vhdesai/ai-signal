@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags
 - 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 - 2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test
+- 2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai
 - 2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c
-- 2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv
 embedding_id: 2026-07-24-moody-s-warns-ai-capex-is-straining-big-tech-credit-quality
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-06-28-bis-warns-the-ai-capex-boom-could-turn-into-a-protracted-inv]]
+**Related:** [[2026-05-24-ai-capex-is-showing-up-in-the-ig-bond-market-barclays-flags]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]] · [[2026-05-04-ai-data-center-buildouts-becoming-a-credit-risk-stress-test]] · [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]]
 <!-- graph:end -->

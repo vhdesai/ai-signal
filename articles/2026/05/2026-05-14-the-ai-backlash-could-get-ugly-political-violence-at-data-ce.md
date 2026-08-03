@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
-- 2026-05-19-the-american-rebellion-against-ai-gains-steam
+- 2026-07-13-infrastructure-local-policy-data-centers
 embedding_id: 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-05-19-the-american-rebellion-against-ai-gains-steam]]
+**Related:** [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-13-infrastructure-local-policy-data-centers]]
 <!-- graph:end -->

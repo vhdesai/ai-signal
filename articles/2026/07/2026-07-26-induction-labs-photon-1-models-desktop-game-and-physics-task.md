@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: c160996d166b030bd6d81682bf52cecf5b3f19270ca586973f6da628daccd06d
+content_hash: 5e7b43333841283a40df7687fa8a8eafcb9b0cf4f571e83c8e628058336b36e2
 normalized_title_hash: 0bedc793c86a14bf
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Induction Labs Photon-1 models desktop, game, and physics tasks from one pretraining run
 
-MarkTechPost reports that Induction Labs' Photon-1 can simulate desktops, play checkers, and model billiard physics from a single pretraining run. The item points to ongoing work on general-purpose world models that can bridge software environments, games, and physical reasoning. For enterprise AI, the longer-term relevance is whether such models can support reliable simulation for training agents before deployment in real systems. URL not verified.
+MarkTechPost reports that Induction Labs' Photon-1 can simulate desktops, play checkers, and model billiard physics from a single pretraining run. The item points to ongoing work on general-purpose world models that can bridge software environments, games, and physical reasoning. For enterprise AI, the longer-term relevance is whether such models can support reliable simulation for training agents before deployment in real systems. URL not verified. Products & Tools OPENAICODEXHARDWARE
 
 <!-- graph:start -->
 ## Connections

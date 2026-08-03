@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-
 url_status: found
 digest_source: digests\raw\2026-06-04_070640_Inbox_Daily AI News Digest – June 2,
   2026.md
-content_hash: ad104b88d82eb051161c4a0cdc8f18030500d64eff017daec9e94f5f1da16093
+content_hash: bef8e9689f2981d6a52c622bd356d11d49d20bb634c608e52f960d0a6aa0cee7
 normalized_title_hash: f52057aca54abf38
 canonical_url_hash: c7f2a881dd4b7b13
 tags:
@@ -23,18 +23,18 @@ related_article_ids:
 - 2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
-- 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
+- 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 embedding_id: 2026-06-02-zerodrift-raises-10m-for-ai-runtime-compliance
 event_name: ''
 ---
 
 # ZeroDrift Raises $10M for AI Runtime Compliance
 
-ZeroDrift raised $10M for an AI compliance service that sits between models and end users to flag or replace outputs creating compliance risk. The emerging middleware category reflects enterprise demand for runtime governance — not just pre-deployment evaluations. If it matures, compliance controls may become standard in production AI stacks.
+ZeroDrift raised $10M for an AI compliance service that sits between models and end users to flag or replace outputs creating compliance risk. The emerging middleware category reflects enterprise demand for runtime governance — not just pre-deployment evaluations. If it matures, compliance controls may become standard in production AI stacks. ________________________________ PRODUCT
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]]
+**Related:** [[2026-07-30-dili-raises-21-7-million-to-bring-ai-compliance-to-infrastru]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]]
 <!-- graph:end -->

@@ -8,13 +8,14 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-24_060655_Inbox_Daily AI News Digest - July 24,
   2026.md
-content_hash: 52aa2a0177ddeffa482e97342559f3923eef4e6dd92838fc9475bc93fad1b5e0
+content_hash: 000ac4db283bb1da25dd2aa30c88ab9594f2058bab28dd2f53de264030fb03d9
 normalized_title_hash: c0b7430a3ee7c32f
 canonical_url_hash: ''
 tags: []
 entities:
 - OpenAI
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -27,11 +28,12 @@ event_name: ''
 
 # OpenAI brings full-duplex voice control to Codex and desktop ChatGPT
 
-# OpenAI brings full-duplex voice control to Codex and desktop ChatGPT
+Infrastructure NVIDIASOUTH KOREASOVEREIGN AI
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
 <!-- graph:end -->

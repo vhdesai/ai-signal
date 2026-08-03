@@ -21,7 +21,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
-- 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
@@ -37,5 +36,5 @@ Trustwise announced it has joined HPE’s Unleash AI partner program to bring ru
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
+**Related:** [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]]
 <!-- graph:end -->

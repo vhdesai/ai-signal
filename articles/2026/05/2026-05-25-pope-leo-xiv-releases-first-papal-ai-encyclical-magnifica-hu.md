@@ -12,8 +12,7 @@ digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 
 content_hash: a158775523b60afb1067312d6a3024c2b6227cf410d35026d15c32e294a1ee85
 normalized_title_hash: 08682fdfe6172124
 canonical_url_hash: f6aa679babd7a46a
-tags:
-- Breaking
+tags: []
 entities:
 - Anthropic
 - Google

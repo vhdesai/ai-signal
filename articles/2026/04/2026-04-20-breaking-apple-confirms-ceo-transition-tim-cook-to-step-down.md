@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli
 - 2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o
+- 2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite
 - 2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli
-- 2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch
-- 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 embedding_id: 2026-04-20-breaking-apple-confirms-ceo-transition-tim-cook-to-step-down
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple confirmed that CEO Tim Cook will step down later in 2026, with SVP of Hard
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]] · [[2026-07-11-apple-announces-30b-custom-silicon-deal-with-broadcom-15b-ch]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]]
+**Related:** [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-ios-27-and-apple-intelli]] · [[2026-06-08-apple-wwdc-2026-gemini-powered-siri-and-apple-intelligence-o]] · [[2026-07-30-apple-beats-on-revenue-but-guides-weak-as-memory-crunch-bite]] · [[2026-06-08-apple-unveils-siri-ai-ios-27-and-comprehensive-apple-intelli]]
 <!-- graph:end -->

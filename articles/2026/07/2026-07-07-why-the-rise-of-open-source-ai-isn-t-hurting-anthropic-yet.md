@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-
 url_status: found
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: 7b9f2368da4171d3101d76fadeb03bb579e04bdb228d15a2309a43fd700e6cdf
+content_hash: 5a1626a40dff6f089cbe91beaf397231cc4effc754229d2efed954a1e0d4eedc
 normalized_title_hash: c9858a6bd7ee7a22
 canonical_url_hash: d8d8ef485f43990e
 tags: []
@@ -16,7 +16,7 @@ entities:
 - Anthropic
 - DeepSeek
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -32,12 +32,12 @@ event_name: ''
 
 # Why the rise of open source AI isn’t hurting Anthropic yet
 
-TechCrunch analyzed the emerging two-tier enterprise model market: frontier models capture discovery and new use cases, while open-source models increasingly absorb mature, cost-sensitive workloads. The article cites Vercel AI gateway data showing DeepSeek driving a large share of tokens while Anthropic still captures a majority of spend, underscoring that model strategy is becoming workload-specific rather than winner-take-all.
+TechCrunch analyzed the emerging two-tier enterprise model market: frontier models capture discovery and new use cases, while open-source models increasingly absorb mature, cost-sensitive workloads. The article cites Vercel AI gateway data showing DeepSeek driving a large share of tokens while Anthropic still captures a majority of spend, underscoring that model strategy is becoming workload-specific rather than winner-take-all. Products & Tools ANTHROPICAGENTSENTERPRISE-PRODUCTIVITY
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-06-27-techcrunch-argues-the-ai-competitive-frame-has-broadened-wel]] · [[2026-07-17-ai-commoditization-pressures-proprietary-model-economics-for]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]]
 <!-- graph:end -->

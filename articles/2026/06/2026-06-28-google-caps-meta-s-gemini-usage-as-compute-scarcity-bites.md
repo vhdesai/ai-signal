@@ -11,12 +11,13 @@ digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 2
 content_hash: 48eda5c06b497fc3765b534a05b42171ee38bdcc23513605806125fd66798fa0
 normalized_title_hash: 4ef560b884ee66cb
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Google
 - Meta
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Google has limited Meta's use of its Gemini models after Meta sought more capaci
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-29-google-capped-meta-s-gemini-usage-as-the-compute-crunch-hits]] · [[2026-06-30-google-was-forced-to-limit-meta-s-consumption-of-gemini-afte]] · [[2026-06-29-google-caps-meta-s-gemini-usage-amid-a-compute-crunch]] · [[2026-06-29-per-the-ft-google-was-forced-to-cap-meta-s-gemini-usage-afte]] · [[2026-06-28-google-rations-gemini-capacity-to-meta-amid-a-deepening-comp]]
 <!-- graph:end -->

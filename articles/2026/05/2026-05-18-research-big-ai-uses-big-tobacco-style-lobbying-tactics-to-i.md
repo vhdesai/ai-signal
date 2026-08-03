@@ -9,7 +9,7 @@ url_canonical: https://phys.org/news/2026-05-big-ai-laws-oversight.html
 url_status: found
 digest_source: digests\raw\2026-05-20_071345_Inbox_Daily AI News Digest – May 20,
   2026.md
-content_hash: a7fb3d7f6cee515f089569ea0da84507bd2ea398bfa826fdbcff813b354fea52
+content_hash: c2f531b222d6339157ed82110c0fba2a236e0327c5747ed68d7954028a546d84
 normalized_title_hash: f653dcf684c1df4f
 canonical_url_hash: 240f6978b3ad2cda
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # Research "Big AI" Uses Big Tobacco–Style Lobbying Tactics to Influence AI Laws — Study
 
-Researchers from the University of Edinburgh, Trinity College Dublin, TU Delft, and Carnegie Mellon University mapped 27 established patterns of "corporate capture" used by major AI companies to influence policy — tactics similar to those historically used by Big Tobacco, Big Pharma, and Big Oil. The study analyzed news coverage around major global AI policy events and found AI companies systematically shaping regulatory narratives, raising urgent questions about whether current AI governance frameworks genuinely represent public interests.
+Researchers from the University of Edinburgh, Trinity College Dublin, TU Delft, and Carnegie Mellon University mapped 27 established patterns of "corporate capture" used by major AI companies to influence policy — tactics similar to those historically used by Big Tobacco, Big Pharma, and Big Oil. The study analyzed news coverage around major global AI policy events and found AI companies systematically shaping regulatory narratives, raising urgent questions about whether current AI governance frameworks genuinely represent public interests. H MIT S CMU
 
 <!-- graph:start -->
 ## Connections

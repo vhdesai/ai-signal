@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar
 - 2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce
+- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
 - 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
-- 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
 embedding_id: 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Business Insider - [2026-07-04] [EXTERNAL] Today: The latest wellness obsession
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]]
+**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]]
 <!-- graph:end -->

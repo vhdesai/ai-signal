@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
+- 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 - 2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos
-- 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 embedding_id: 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The European Commission published draft guidelines defining high-risk AI systems
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]]
+**Related:** [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-05-05-trendingeu-ai-act-full-enforcement-approaches-august-2026-hi]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]] · [[2026-04-10-the-eu-ai-act-is-transitioning-from-draft-to-enforcement-pos]]
 <!-- graph:end -->

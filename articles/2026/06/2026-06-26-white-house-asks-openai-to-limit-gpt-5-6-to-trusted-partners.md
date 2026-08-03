@@ -8,10 +8,11 @@ url_canonical: https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-tr
 url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
-content_hash: 58536f0e5c88834b3cbd43e5d8d3d6efb6e581eca57044d4f70acef4744ff84f
+content_hash: 8aea2b8286edc2924d5e678a9951e7a8ab80e9e6da2df0f19256dc5699582d5e
 normalized_title_hash: 06d9ff7e1f5ae998
 canonical_url_hash: 7be3a73d12a23ada
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - OpenAI
@@ -27,7 +28,7 @@ event_name: ''
 
 # White House asks OpenAI to limit GPT‑5.6 to “trusted partners”
 
-OpenAI said it is complying with a U.S. government request to initially limit GPT‑5.6 (Sol, Terra, Luna) to a small group of trusted partners, vetted on a customer-by-customer basis, citing the model’s advanced cybersecurity capability and the absence of a federal review framework. The move mirrors the administration’s recent restriction of Anthropic’s most capable models and marks the first time Washington has constrained a public OpenAI release. OpenAI pushed back, saying such government access “should not become the long-term default,” and expects broader availability “in the coming weeks.”
+OpenAI said it is complying with a U.S. government request to initially limit GPT‑5.6 (Sol, Terra, Luna) to a small group of trusted partners, vetted on a customer-by-customer basis, citing the model’s advanced cybersecurity capability and the absence of a federal review framework. The move mirrors the administration’s recent restriction of Anthropic’s most capable models and marks the first time Washington has constrained a public OpenAI release. OpenAI pushed back, saying such government access “should not become the long-term default,” and expects broader availability “in the coming weeks.” SAFETY
 
 <!-- graph:start -->
 ## Connections

@@ -17,8 +17,6 @@ tags:
 entities:
 - Anthropic
 themes:
-- datacenter-infrastructure
-- policy-regulation
 - model-capabilities
 cross_cutting_topics:
 - china-compete
@@ -42,6 +40,6 @@ Stanford's ninth annual AI Index (400+ pages) delivers stark findings: SWE-bench
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-04-13-stanford-hai-2026-ai-index-us-china-gap-nearly-closed-ai-inc]] · [[2026-05-20-stanford-2026-ai-index-us-china-gap-down-to-2-7-swe-bench-hi]] · [[2026-05-20-research-stanford-hai-2026-ai-index-report-us-china-gap-clos]] · [[2026-05-26-stanford-2026-ai-index-u-s-china-performance-gap-narrows-to]] · [[2026-05-17-trending-stanford-ai-index-2026-us-china-lead-evaporates-ai]]
 <!-- graph:end -->

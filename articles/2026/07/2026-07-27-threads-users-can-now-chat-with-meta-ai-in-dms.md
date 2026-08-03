@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with
 url_status: found
 digest_source: digests\raw\2026-07-28_060522_Inbox_Daily AI News Digest - July 28,
   2026.md
-content_hash: 5b2c95b15df64bcb0083942f674836c3c43aecf5e37e4899b18ad47f3565911c
+content_hash: 933214929a7177b6b08a96386c91758c4274608b7e42278dd31d81bb0d449156
 normalized_title_hash: 8dc1f3c11e0fc31b
 canonical_url_hash: 67f9ec1723933d06
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # Threads users can now chat with Meta AI in DMs
 
-Meta is rolling out Meta AI inside Threads direct messages, giving users another surface for conversational AI within a social app. The integration is not technically surprising, but it shows Meta continuing to distribute AI through existing consumer products rather than relying on a standalone assistant. The pattern reinforces a broader platform advantage: AI adoption is increasingly driven by placement inside high-frequency workflows.
+Meta is rolling out Meta AI inside Threads direct messages, giving users another surface for conversational AI within a social app. The integration is not technically surprising, but it shows Meta continuing to distribute AI through existing consumer products rather than relying on a standalone assistant. The pattern reinforces a broader platform advantage: AI adoption is increasingly driven by placement inside high-frequency workflows. ROBOTICSUXPHYSICAL AI
 
 <!-- graph:start -->
 ## Connections

@@ -1,13 +1,31 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 805
+member_count: 828
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 805 connected article(s).
+> Auto-generated entity hub. 828 connected article(s).
 
+- `2026-08-03` [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic|UK’s Olix raises $312M Series B at a $3.3B valuation for optical AI chips]]
+- `2026-08-03` [[2026-08-03-cuspai-hits-2-6b-valuation-as-bezos-nvidia-and-meta-back-ai|CuspAI hits $2.6B valuation as Bezos, Nvidia and Meta back AI-driven chip-materials research]]
+- `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
+- `2026-08-02` [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and|Nvidia’s planned ~$750B AI outlay draws “circular financing” and bubble scrutiny]]
+- `2026-08-02` [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c|Nvidia still on pace for $1 trillion in Blackwell and Rubin chip sales through 2027]]
+- `2026-08-02` [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement|NVIDIA releases Molt, a PyTorch-native agentic reinforcement-learning framework]]
+- `2026-08-02` [[2026-08-02-market-turmoil-exposes-a-circular-and-opaque-ai-economy-rest|Market turmoil exposes a circular and opaque AI economy resting on Nvidia]]
+- `2026-08-01` [[2026-08-01-supabase-releases-evals-an-open-benchmark-scoring-claude-cod|Supabase releases “Evals,” an open benchmark scoring Claude Code, Codex, and OpenCode on real tasks]]
+- `2026-08-01` [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip|Nvidia to report Q2 FY2027 results on August 26, with AI-chip demand the key read]]
+- `2026-08-01` [[2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re|NVIDIA releases “Molt,” an Apache-2.0 PyTorch-native agentic reinforcement-learning framework]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-thinking-machines-lab-debuts-inkling-small-with-open-weights|Thinking Machines Lab debuts Inkling-Small with open weights]]
+- `2026-07-31` [[2026-07-31-moonshot-s-kimi-cluster-runs-on-20-000-nvidia-chips-leased-f|Moonshot's Kimi cluster runs on ~20,000 Nvidia chips leased from Alibaba]]
+- `2026-07-31` [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch|MediaTek approves up to $5B to build custom AI data-center chips]]
+- `2026-07-31` [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent|MediaTek approves $5B financing to expand custom AI data-center chips]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
+- `2026-07-30` [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow|Amazon Lifts 2026 AI Capex to $220B as AWS Posts Fastest Growth in Five Years]]
 - `2026-07-29` [[2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design|Nvidia partner ChipAgents raises $60M to automate chip design]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-28` [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio|The Information - [2026-07-28] [EXTERNAL] Nvidia Makes Multibillion Dollar Investment in Ilya Sutskever’s Safe…]]
@@ -150,6 +168,7 @@ member_count: 805
 - `2026-07-14` [[2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester|Chinese AI startup DFSX releases chip to compete with Western suppliers]]
 - `2026-07-13` [[2026-07-13-z-ai-zhipu-founder-publishes-the-great-wave-has-arrived-memo|Z.ai (Zhipu) founder publishes "The Great Wave Has Arrived" memo, reaffirms open frontier AI and GLM-5.2]]
 - `2026-07-13` [[2026-07-13-meta-readies-its-custom-iris-ai-chip-for-september-productio|Meta readies its custom “Iris” AI chip for September production]]
+- `2026-07-13` [[2026-07-13-launch-open-source|Launch Open Source]]
 - `2026-07-13` [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers|Google pushes TPUs against Nvidia's most loyal customers]]
 - `2026-07-13` [[2026-07-13-german-consortium-releases-soofi-s-a-sovereign-open-30b-mode|German consortium releases Soofi S, a sovereign open 30B model]]
 - `2026-07-12` [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model|OpenAI: Launched GPT-5.6 (Sol, Terra, Luna), GPT-Live voice model, and new scientific benchmarks]]
@@ -259,6 +278,7 @@ member_count: 805
 - `2026-06-30` [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i|MIT's Phillip Isola on what agentic AI is — and what we want it to be]]
 - `2026-06-30` [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m|Good morning, Vik. The past 24 hours were quiet for frontier model launches and university research, with the day's…]]
 - `2026-06-30` [[2026-06-30-claude-reaches-ga-in-microsoft-foundry-on-azure-running-on-n|Claude reaches GA in Microsoft Foundry on Azure, running on Nvidia GB300]]
+- `2026-06-29` [[2026-06-29-xai-s-grok-4-5-enters-private-beta-at-spacex-and-tesla-musk|xAI's Grok 4.5 enters private beta at SpaceX and Tesla; Musk pledges monthly from-scratch models]]
 - `2026-06-29` [[2026-06-29-with-u-s-export-controls-limiting-nvidia-s-advanced-chips-in|With U.S. export controls limiting Nvidia's advanced chips in China, domestic players led by Huawei are overtaking…]]
 - `2026-06-29` [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c|Washington Tightens Its Grip on Frontier AI as the Compute & Cost Squeeze Bites]]
 - `2026-06-29` [[2026-06-29-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned — Companies: Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
@@ -282,6 +302,7 @@ member_count: 805
 - `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
 - `2026-06-25` [[2026-06-25-sk-hynix-confirms-29-4b-us-ipo-trading-expected-july-10|SK Hynix confirms ~$29.4B US IPO, trading expected July 10]]
+- `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct|Amazon commits an additional $13B to AI and cloud infrastructure in India]]
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in|OpenAI and Broadcom unveil “Jalapeño,” OpenAI’s first custom inference chip]]
 - `2026-06-24` [[2026-06-24-openai-and-broadcom-unveil-jalape-o-their-first-custom-ai-in|OpenAI and Broadcom unveil "Jalapeño," their first custom AI inference chip]]
 - `2026-06-24` [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s|Nvidia’s Huang calls smuggled-chip data centers a “dead end,” says AI ROI is “answered”]]
@@ -526,6 +547,7 @@ member_count: 805
 - `2026-05-17` [[2026-05-17-nvidia-vs-cerebras-chip-market-battle-heats-up-after-record|Nvidia vs. Cerebras: Chip Market Battle Heats Up After Record-Breaking IPO Trending]]
 - `2026-05-17` [[2026-05-17-nvidia-released-sana-wm-a-2-6-billion-parameter-world-model|NVIDIA released SANA-WM, a 2.6 billion parameter world model capable of generating 1-minute 720p video from text prompts]]
 - `2026-05-17` [[2026-05-17-nvidia-releases-sana-wm-2-6b-world-model-for-1-minute-720p-v|NVIDIA Releases SANA-WM: 2.6B World Model for 1-Minute 720p Video]]
+- `2026-05-17` [[2026-05-17-microsoft-copilot-ai-intelligence-briefing|MICROSOFT COPILOT · AI INTELLIGENCE BRIEFING]]
 - `2026-05-17` [[2026-05-17-cerebras-systems-hit-the-nasdaq-on-may-14-in-the-most-closel|Cerebras Systems hit the Nasdaq on May 14 in the most closely watched tech IPO of 2026, raising $4.8 billion at an IPO…]]
 - `2026-05-16` [[2026-05-16-breaking-cerberus-ipo-new-nvidia-rival-raises-5-6b-stock-sur|🔴 BREAKING Cerberus IPO: New Nvidia Rival Raises $5.6B, Stock Surges 68% on Debut]]
 - `2026-05-16` [[2026-05-16-hot-bank-of-america-raises-nvidia-target-to-320-lifts-ai-dat|🔥 HOT Bank of America Raises Nvidia Target to $320, Lifts AI Data Center TAM to $1.7T by 2030]]
@@ -545,6 +567,7 @@ member_count: 805
 - `2026-05-15` [[2026-05-15-the-batch-deeplearning-ai-china-meta-policy-caisi-evaluation|The Batch (DeepLearning.AI): China-Meta Policy, CAISI Evaluations, AI Mammogram Diagnosis]]
 - `2026-05-15` [[2026-05-15-nvidia-h200-china-sales-approved-but-no-chips-shipped-as-sta|Nvidia H200 China Sales Approved — But No Chips Shipped as Standoff Continues]]
 - `2026-05-15` [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations|Multiple companies are progressing beyond lab demonstrations into real factory deployments for humanoid and physical AI…]]
+- `2026-05-15` [[2026-05-15-microsoft-corp-dev-tech-assessment|MICROSOFT CORP DEV · TECH ASSESSMENT]]
 - `2026-05-15` [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia|EU AI Act High-Risk Enforcement Now in Effect; Global Compliance Complexity Rises]]
 - `2026-05-15` [[2026-05-15-cerebras-stages-largest-us-tech-ipo-of-2026-stock-surges-68|Cerebras Stages Largest US Tech IPO of 2026, Stock Surges 68% on Debut]]
 - `2026-05-15` [[2026-05-15-anthropic-potential-30b-funding-round-could-push-valuation-t|Anthropic Potential $30B Funding Round Could Push Valuation to ~$900 Billion]]

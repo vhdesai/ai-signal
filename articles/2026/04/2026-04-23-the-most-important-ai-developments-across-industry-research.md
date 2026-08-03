@@ -31,7 +31,7 @@ related_article_ids:
 - 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 - 2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-07-27-daily-ai-news-digest-july-28-2026
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
 embedding_id: 2026-04-23-the-most-important-ai-developments-across-industry-research
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Today's big picture: April 23, 2026 finds AI at a genuine inflection point — n
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-07-27-daily-ai-news-digest-july-28-2026]]
+**Related:** [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]] · [[2026-05-20-alibaba-unveils-new-qwen-model-and-custom-ai-chips-targets-c]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]]
 <!-- graph:end -->

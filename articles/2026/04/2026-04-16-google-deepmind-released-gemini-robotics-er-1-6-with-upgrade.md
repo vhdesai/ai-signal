@@ -23,11 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
-- 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
-- 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-- 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
-- 2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid
+- 2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots
+- 2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co
+- 2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h
+- 2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu
+- 2026-07-30-google-deepmind-unveils-gemini-robotics-2
 embedding_id: 2026-04-16-google-deepmind-released-gemini-robotics-er-1-6-with-upgrade
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google DeepMind released Gemini Robotics ER 1.6 with upgraded spatial reasoning 
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[Tesla]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-05-02-meta-has-acquired-assured-robot-intelligence-ari-a-humanoid]]
+**Related:** [[2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co]] · [[2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h]] · [[2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2]]
 <!-- graph:end -->

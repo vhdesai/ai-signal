@@ -11,12 +11,13 @@ digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9
 content_hash: fa3dcf689f8016cbf6f8d9aefff9f67b809e9f79fce6ae65772dbc9cb0832177
 normalized_title_hash: 5e4f75dc34348645
 canonical_url_hash: 255a1ec5e3e85467
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - OpenAI
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year
@@ -33,6 +34,6 @@ TechCrunch, citing the Q2 2026 PitchBook-NVCA Venture Monitor, reported that exp
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-09-anthropic-openai-and-spacex-are-bigger-than-the-last-25-year]]
 <!-- graph:end -->

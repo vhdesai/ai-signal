@@ -9,10 +9,10 @@ member_count: 67
 > Auto-generated entity hub. 67 connected article(s).
 
 - `2026-07-30` [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi|The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder to Return to OpenAI - [2026-07-30]…]]
+- `2026-07-30` [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu|TSMC works on advanced AI chip packaging as the infrastructure bottleneck shifts]]
 - `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]
 - `2026-07-24` [[2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand|Intel's data-center and AI unit jumps on AI customer demand]]
 - `2026-07-21` [[2026-07-21-nvidia-details-vera-cpu-opening-a-new-front-against-amd-and|Nvidia details Vera CPU, opening a new front against AMD and Intel]]
-- `2026-07-13` [[2026-07-13-xi-jinping-to-personally-keynote-shanghai-s-world-ai-confere|Xi Jinping to personally keynote Shanghai's World AI Conference for the first time]]
 - `2026-07-13` [[2026-07-13-monday-july-13-2026|Monday, July 13, 2026]]
 - `2026-07-13` [[2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips|Intel commits €5B to expand Leixlip, Ireland fab for AI chips]]
 - `2026-07-13` [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for|Intel commits €5B ($5.7B) to expand its Leixlip, Ireland fab for AI chips]]

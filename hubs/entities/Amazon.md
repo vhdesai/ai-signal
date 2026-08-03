@@ -1,14 +1,52 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 404
+member_count: 444
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 404 connected article(s).
+> Auto-generated entity hub. 444 connected article(s).
 
+- `2026-08-03` [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-03] [EXTERNAL] The latest news on Meta Platforms Inc]]
+- `2026-08-03` [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via|Anthropic to offer in-country Claude inference in India via Amazon Bedrock]]
+- `2026-08-03` [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via|Anthropic to enable in-country Claude inference in India via Amazon Bedrock]]
+- `2026-08-03` [[2026-08-03-amazon-completes-another-35b-investment-in-openai|Amazon completes another $35B investment in OpenAI]]
+- `2026-08-03` [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai|Amazon Completes Additional $35 Billion Investment in OpenAI]]
+- `2026-08-02` [[2026-08-02-amazon-completes-50b-openai-investment-taking-5-stake-as-cha|Amazon completes $50B OpenAI investment, taking ~5% stake as ChatGPT maker nears IPO]]
+- `2026-08-01` [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay|Wall Street focuses on how tech giants will make AI pay]]
+- `2026-08-01` [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay|Wall Street Thinks It Knows How Tech Giants Will Make AI Pay]]
+- `2026-08-01` [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-01] [EXTERNAL] The latest news on Amazon.com Inc]]
+- `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
+- `2026-08-01` [[2026-08-01-daily-ai-news-digest-august-1-2026|Daily AI News Digest — August 1, 2026]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-31` [[2026-07-31-capex-vs-cash-flow-big-tech-doubles-down-on-ai|Capex vs. Cash Flow: Big Tech Doubles Down on AI]]
+- `2026-07-31` [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall|Big Tech earnings diverge on AI: Amazon rallies ~11%, Apple falls ~8%]]
+- `2026-07-31` [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi|Amazon’s AWS acceleration validates AI infrastructure spending—for now]]
+- `2026-07-31` [[2026-07-31-amazon-s-zoox-wins-first-u-s-approval-for-paid-robotaxis-wit|Amazon's Zoox wins first U.S. approval for paid robotaxis with no steering wheel]]
+- `2026-07-31` [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle|Amazon's Zoox becomes first steering-wheel-free robotaxi cleared for paid rides]]
+- `2026-07-31` [[2026-07-31-amazon-says-aws-growth-accelerated-to-37-as-ai-demand-lifts|Amazon says AWS growth accelerated to 37% as AI demand lifts cloud]]
+- `2026-07-31` [[2026-07-31-amazon-surges-as-aws-reaccelerates-apple-falls-on-supply-con|Amazon Surges as AWS Reaccelerates; Apple Falls on Supply Constraints]]
+- `2026-07-31` [[2026-07-31-amazon-surges-15-as-aws-reaccelerates-apple-falls-7-on-suppl|Amazon Surges 15% as AWS Reaccelerates; Apple Falls 7% on Supply Constraints]]
+- `2026-07-31` [[2026-07-31-amazon-q2-aws-revenue-accelerates-to-37-capex-guided-to-220b|Amazon Q2: AWS revenue accelerates to +37%, capex guided to ~$220B]]
+- `2026-07-31` [[2026-07-31-amazon-q2-aws-revenue-growth-accelerates-to-37-stock-jumps-9|Amazon Q2: AWS Revenue Growth Accelerates to 37%, Stock Jumps 9%]]
+- `2026-07-31` [[2026-07-31-aws-hires-apple-and-google-veteran-to-lead-key-ai-products|AWS hires Apple and Google veteran to lead key AI products]]
+- `2026-07-31` [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick|AWS announces agentic catalog experience in Amazon Quick]]
+- `2026-07-31` [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products|AWS Taps Apple Executive to Lead Key AI Products]]
 - `2026-07-30` [[2026-07-30-wall-street-journal-wsj-2026-07-30-external-the-10-point-the|Wall Street Journal / WSJ - [2026-07-30] [EXTERNAL] The 10-Point: The Rise of $1M Companies with One Employee -…]]
+- `2026-07-30` [[2026-07-30-investors-continue-to-reward-ai-spend-when-it-is-paired-with|Investors continue to reward AI spend when it is paired with cloud demand]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
+- `2026-07-30` [[2026-07-30-apple-beats-but-guides-soft-in-tim-cook-s-final-quarter-as-c|Apple beats but guides soft in Tim Cook's final quarter as CEO]]
+- `2026-07-30` [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai|Amazon's cloud surge wins over Wall Street despite higher AI capex]]
+- `2026-07-30` [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in|Amazon's cloud growth helps justify another step-up in AI infrastructure spending]]
+- `2026-07-30` [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi|Amazon raises 2026 capital spending to ~$220B as AWS growth hits 37%]]
+- `2026-07-30` [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to|Amazon lifts 2026 capex to ~$220B as AWS growth accelerates to 37%]]
+- `2026-07-30` [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-reaccelerates-to-37-g|Amazon lifts 2026 capex to $220B as AWS reaccelerates to 37% growth]]
+- `2026-07-30` [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four|Amazon lifts 2026 AI capex to ~$220B as AWS growth hits a four-year high]]
+- `2026-07-30` [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity|Amazon Q2: AWS +37%, AI demand “outpaces capacity”]]
+- `2026-07-30` [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow|Amazon Lifts 2026 AI Capex to $220B as AWS Posts Fastest Growth in Five Years]]
 - `2026-07-30` [[2026-07-30-aws-vp-swami-sivasubramanian-takes-expanded-agentic-ai-role|AWS VP Swami Sivasubramanian Takes Expanded Agentic AI Role]]
 - `2026-07-29` [[2026-07-29-zuckerberg-frames-meta-s-enterprise-ai-opportunity-beyond-ag|Zuckerberg frames Meta's enterprise-AI opportunity beyond agents — APIs and selling compute]]
 - `2026-07-29` [[2026-07-29-wednesday-july-29-2026|Wednesday, July 29, 2026]]
@@ -128,6 +166,7 @@ member_count: 404
 - `2026-06-26` [[2026-06-26-openai-to-stagger-gpt-5-6-release-at-white-house-request|OpenAI to stagger GPT-5.6 release at White House request]]
 - `2026-06-26` [[2026-06-26-companies-nvidia-google-deepmind-openai-anthropic-mistral-cu|Companies: Nvidia, Google / DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon, Cerebras,…]]
 - `2026-06-25` [[2026-06-25-sources-scanned-companies-nvidia-google-deepmind-openai-anth|Sources scanned: Companies — Nvidia, Google/DeepMind, OpenAI, Anthropic, Mistral, Cursor, Replit, Meta, Apple, Amazon,…]]
+- `2026-06-25` [[2026-06-25-openai-study-97-9-of-staff-now-use-codex-as-the-shift-to-age|OpenAI study: 97.9% of staff now use Codex as the shift to agentic AI accelerates]]
 - `2026-06-25` [[2026-06-25-amazon-microsoft-back-raise-us-a-1b-nonprofit-to-retrain-ai|Amazon, Microsoft back RAISE US — a $1B nonprofit to retrain AI-displaced workers]]
 - `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud|Amazon commits an additional $13B to India AI and cloud]]
 - `2026-06-25` [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct|Amazon commits an additional $13B to AI and cloud infrastructure in India]]
@@ -282,6 +321,7 @@ member_count: 404
 - `2026-05-04` [[2026-05-04-q1-2026-cloud-market-129b-record-ai-as-the-wedge|Q1 2026 cloud market: $129B record, AI as the wedge]]
 - `2026-05-04` [[2026-05-04-pentagon-signs-classified-ai-deals-with-seven-companies-anth|Pentagon signs classified AI deals with seven companies — Anthropic excluded]]
 - `2026-05-04` [[2026-05-04-pentagon-inks-classified-network-ai-deals-with-seven-vendors|Pentagon inks classified-network AI deals with seven vendors — Anthropic notably absent]]
+- `2026-05-04` [[2026-05-04-newgoogle-gemini-api-adds-event-driven-webhooks|NEWGoogle Gemini API adds event-driven webhooks]]
 - `2026-05-04` [[2026-05-04-ibm-consulting-aws-enterprise-scale-agentic-ai-platform|IBM Consulting + AWS: enterprise-scale agentic AI platform]]
 - `2026-05-04` [[2026-05-04-big-tech-s-725b-ai-capex-vs-2026-layoff-wave|Big Tech's $725B AI capex vs. 2026 layoff wave]]
 - `2026-05-04` [[2026-05-04-big-tech-s-725b-ai-capex-wave-google-amazon-microsoft-meta-i|Big Tech's $725B AI Capex Wave: Google, Amazon, Microsoft & Meta in 2026]]

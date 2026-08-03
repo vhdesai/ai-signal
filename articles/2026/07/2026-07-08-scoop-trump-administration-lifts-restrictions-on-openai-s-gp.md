@@ -8,10 +8,11 @@ url_canonical: https://www.theverge.com/ai-artificial-intelligence/957845/openai
 url_status: found
 digest_source: digests\raw\2026-07-08_061307_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: f91d15e712285812f7436ed09d4335cea0c0955ca55b9a9d65cae6920e2b6c68
+content_hash: b8505f31f5d083a6e7e39c2229f2bef80a63aab62bcdbd409ff0566ece11c7bc
 normalized_title_hash: 7a8e45fe284d3b97
 canonical_url_hash: 7ec59b6a76d611d1
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
@@ -27,7 +28,7 @@ event_name: ''
 
 # Scoop: Trump administration lifts restrictions on OpenAI’s GPT 5.6
 
-OpenAI reportedly received U.S. government clearance to launch GPT-5.6 in limited preview after a short delay tied to security review. The reported suite includes Sol, Terra, and Luna tiers, with Sol variants for deeper reasoning and sub-agent orchestration; the episode is notable because it shows frontier model releases becoming subject to real-time government scrutiny even when companies argue the process should not become the default.
+OpenAI reportedly received U.S. government clearance to launch GPT-5.6 in limited preview after a short delay tied to security review. The reported suite includes Sol, Terra, and Luna tiers, with Sol variants for deeper reasoning and sub-agent orchestration; the episode is notable because it shows frontier model releases becoming subject to real-time government scrutiny even when companies argue the process should not become the default. OPENAILEADERSHIPAGI-SAFETY
 
 <!-- graph:start -->
 ## Connections

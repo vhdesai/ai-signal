@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-24_060529_Inbox_Daily AI News Digest - June 24,
   2026.md
-content_hash: 608fda23797e6c89244fd9f5988cd027d4b32411c806559e7dcce21cd45d16d6
+content_hash: 2c4f28180833acaf6bc175dc74cb2a4e0bf3b62095094dca81882c46c9670a5d
 normalized_title_hash: 9e4099b9ac2a3801
 canonical_url_hash: ''
 tags: []
@@ -21,20 +21,20 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 - 2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
-- 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 embedding_id: 2026-06-23-sovereign-ai-startup-dream-raises-260m-at-a-3b-valuation
 event_name: ''
 ---
 
 # Sovereign-AI startup Dream raises $260M at a $3B valuation
 
-Tel Aviv– and Vienna-based sovereign-AI and cyber-defense company Dream closed a $260M round at a $3B valuation, co-led by Bicycle Capital and Group 11, to accelerate expansion across Southeast Asia. The three-year-old firm's total funding now reaches $412M as governments race to control their own AI infrastructure and reduce dependence on foreign-controlled systems. The raise is another data point in the rapid commercialization of "sovereign AI" as a distinct market category. https://www.ibtimes.sg/sovereign-ai-unicorn-dream-raises-another-260m-3b-valuation-eyes-southeast-asia-expansion-88419
+Tel Aviv– and Vienna-based sovereign-AI and cyber-defense company Dream closed a $260M round at a $3B valuation, co-led by Bicycle Capital and Group 11, to accelerate expansion across Southeast Asia. The three-year-old firm's total funding now reaches $412M as governments race to control their own AI infrastructure and reduce dependence on foreign-controlled systems. The raise is another data point in the rapid commercialization of "sovereign AI" as a distinct market category. https://www.ibtimes.sg/sovereign-ai-unicorn-dream-raises-another-260m-3b-valuation-eyes-southeast-asia-expansion-88419 Model Releases & Frontier Capabilities Hot Model Security
 
 <!-- graph:start -->
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]]
+**Related:** [[2026-07-29-china-s-moonshot-ai-closes-3-5b-round-at-35b-valuation-eyes]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-07-29-china-s-moonshot-ai-raises-3-5b-at-a-35b-valuation-ahead-of]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
 <!-- graph:end -->

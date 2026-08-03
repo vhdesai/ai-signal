@@ -15,8 +15,6 @@ tags: []
 entities:
 - Apple
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -38,6 +36,6 @@ Apple published research on the memory-efficient audio synthesis architecture be
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]]
 <!-- graph:end -->

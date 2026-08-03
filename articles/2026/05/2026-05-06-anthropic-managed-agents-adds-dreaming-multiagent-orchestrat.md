@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-16_070541_Inbox_Daily AI News Digest – May 16,
   2026.md
-content_hash: f11bcc52cb12712d609b92d741b775f34c8e41716351cbb2f9e0c511a914f16a
+content_hash: 1a246d76a072c3ddfa279e38a1c62f49827d075ad1a90489ce5ff4f965520326
 normalized_title_hash: 1725622cc4a4346a
 canonical_url_hash: ''
 tags:
@@ -32,7 +32,7 @@ event_name: ''
 
 # Anthropic Managed Agents Adds Dreaming, Multiagent Orchestration & Memory
 
-Anthropic's Managed Agents platform gained three major capabilities: Dreaming (a scheduled background process that reviews past sessions and self-improves agent memory), Multiagent Orchestration (a lead agent that delegates in parallel to specialist sub-agents on a shared filesystem — already in production at Netflix), and Memory (now in public beta). Claude Cowork also reached general availability on macOS and Windows alongside a connector directory now exceeding 200 integrations.
+Anthropic's Managed Agents platform gained three major capabilities: Dreaming (a scheduled background process that reviews past sessions and self-improves agent memory), Multiagent Orchestration (a lead agent that delegates in parallel to specialist sub-agents on a shared filesystem — already in production at Netflix), and Memory (now in public beta). Claude Cowork also reached general availability on macOS and Windows alongside a connector directory now exceeding 200 integrations. SECTION 3
 
 <!-- graph:start -->
 ## Connections

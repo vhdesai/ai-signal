@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-23_060602_Inbox_Daily AI News Digest - July 23,
   2026.md
-content_hash: b6ec683ea2de607ba7f5440fec18b1e1de83f5252b92ba8cb2de14d40f976f98
+content_hash: 9948b0e76545e4fd8d57a247581b3a6d3e949e58a6b24fd377081183edbc586d
 normalized_title_hash: 3806f9deb56379ff
 canonical_url_hash: ''
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # NVIDIA open-sources GPU-accelerated medical physics simulation framework
 
-# NVIDIA open-sources GPU-accelerated medical physics simulation framework
+Research Breakthroughs ACADEMIC RESEARCHDOEAI FOR SCIENCE
 
 <!-- graph:start -->
 ## Connections

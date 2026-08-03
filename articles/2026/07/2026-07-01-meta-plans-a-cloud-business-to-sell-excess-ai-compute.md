@@ -19,7 +19,6 @@ entities:
 - xAI
 themes:
 - datacenter-infrastructure
-- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus
@@ -36,6 +35,6 @@ Bloomberg, via TechCrunch, reports Meta is developing a cloud infrastructure bus
 ## Connections
 
 **Entities:** [[Amazon]] · [[Google]] · [[Meta]] · [[xAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-01-meta-moves-to-sell-excess-ai-compute-through-a-new-cloud-bus]]
 <!-- graph:end -->

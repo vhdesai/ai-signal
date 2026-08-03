@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for
+- 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
-- 2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post
-- 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-03-13-view-in-web-browser-the-wall-street-journal-musk-says-xai-mu
+- 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20
+- 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 embedding_id: 2026-07-15-xai-elon-musk-energy-buildout-coverage-includes-gas-turbine
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI/Elon Musk energy buildout coverage includes gas-turbine acquisition and unpe
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-05-27-elon-musk-hints-at-xai-direction-in-pre-dawn-post]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-03-13-view-in-web-browser-the-wall-street-journal-musk-says-xai-mu]]
+**Related:** [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]] · [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot]] · [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-until-20]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]]
 <!-- graph:end -->

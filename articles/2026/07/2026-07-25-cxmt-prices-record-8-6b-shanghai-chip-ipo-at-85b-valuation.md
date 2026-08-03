@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-26_065237_Inbox_Daily AI News Digest - July 2
 content_hash: c509ed949d124ee164adaf5d36e944534fbffbf55e5062b84c7132abc87f84ca
 normalized_title_hash: 47c281a311d08cb9
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Samsung
 themes:

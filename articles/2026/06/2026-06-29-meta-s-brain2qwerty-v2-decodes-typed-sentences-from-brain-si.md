@@ -13,10 +13,12 @@ normalized_title_hash: 21e7d94ba22fd06f
 canonical_url_hash: 24507b105d491a16
 tags: []
 entities:
+- Baidu
 - Meta
 themes:
-- model-capabilities
-cross_cutting_topics: []
+- datacenter-infrastructure
+cross_cutting_topics:
+- china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
@@ -36,7 +38,7 @@ Meta FAIR unveiled Brain2Qwerty v2, a non-invasive brain-to-text system that dec
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Meta]]
-**Topics:** [[Model Breakthroughs]]
+**Entities:** [[Baidu]] · [[Meta]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-06-30-meta-ai-published-brain2qwerty-v2-a-non-invasive-pipeline-th]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-05-07-meta-ai-releases-neuralbench-largest-open-benchmark-for-brai]] · [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]]
 <!-- graph:end -->

@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-22_060455_Inbox_Daily AI News Digest - July 22,
   2026.md
-content_hash: adc01129845195115b3c98698ba893112e449e45544b469ef2f536324d13e39c
+content_hash: 05228fe8fb1de5276bc914d6507d4507b5c5943e79a6188fabf0665de68d54fd
 normalized_title_hash: 3e3ef692c206e274
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
@@ -31,7 +32,7 @@ event_name: ''
 
 # OpenAI announces AI infrastructure project in Effingham County, Georgia
 
-OpenAI announced Project Camellia in Effingham County, Georgia.
+OpenAI announced Project Camellia in Effingham County, Georgia. AI INFRASTRUCTURENVIDIAU.S. MANUFACTURING
 
 <!-- graph:start -->
 ## Connections

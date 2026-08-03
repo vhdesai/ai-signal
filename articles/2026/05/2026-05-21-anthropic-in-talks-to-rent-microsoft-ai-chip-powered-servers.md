@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 - 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
+- 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 - 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 - 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
-- 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
 embedding_id: 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Anthropic is in active discussions to rent servers powered by Microsoft's AI chi
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s]] · [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]]
 <!-- graph:end -->

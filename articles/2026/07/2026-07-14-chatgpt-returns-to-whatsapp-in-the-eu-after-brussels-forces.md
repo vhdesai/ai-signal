@@ -18,6 +18,7 @@ entities:
 - OpenAI
 - Perplexity
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -39,6 +40,6 @@ OpenAI re-enabled ChatGPT inside WhatsApp across the European Economic Area — 
 ## Connections
 
 **Entities:** [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-07-13-eu-forces-meta-to-readmit-chatgpt-to-whatsapp-as-ai-distribu]] · [[2026-05-12-meta-offers-rival-ai-chatbots-free-whatsapp-business-api-acc]] · [[2026-06-09-eu-orders-meta-to-reopen-whatsapp-to-rival-ai-chatbots-for-f]] · [[2026-05-14-meta-opens-whatsapp-api-to-ai-chatbot-rivals-siliconrepublic]]
 <!-- graph:end -->

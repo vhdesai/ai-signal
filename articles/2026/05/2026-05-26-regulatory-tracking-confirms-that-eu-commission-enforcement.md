@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-23-eu-ai-act-enforcement-window-opens-for-gpai-on-august-2
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
+- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 - 2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state
-- 2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of
 embedding_id: 2026-05-26-regulatory-tracking-confirms-that-eu-commission-enforcement
 event_name: ''
 ---
@@ -40,5 +40,5 @@ regulatory tracking confirms that EU Commission enforcement powers for new GPAI 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-eu-ai-act-enforcement-window-opens-for-gpai-on-august-2]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]] · [[2026-04-06-the-european-union-s-newly-established-ai-act-enforcement-of]]
+**Related:** [[2026-05-23-eu-ai-act-enforcement-window-opens-for-gpai-on-august-2]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-05-19-eu-ai-act-gpai-enforcement-goes-fully-operational-u-s-state]]
 <!-- graph:end -->

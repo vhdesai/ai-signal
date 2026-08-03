@@ -11,13 +11,13 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 922134b8872ec1ec858a959e4ac94481d6aed73a1d57e26f048938a41df80e87
 normalized_title_hash: 972987a8e7c3bf9d
 canonical_url_hash: 0897946aa9183c5a
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - OpenAI
 themes:
 - policy-regulation
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +38,6 @@ More than 1,100 executives and employees across leading AI companies signed a le
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-07-29-1-100-ai-lab-employees-petition-the-u-s-government-for-tools]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-20-white-house-briefs-openai-anthropic-reflection-ai-on-planned]]
 <!-- graph:end -->

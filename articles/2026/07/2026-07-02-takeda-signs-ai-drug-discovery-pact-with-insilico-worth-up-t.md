@@ -13,7 +13,8 @@ normalized_title_hash: d6634deb09e72bdb
 canonical_url_hash: 7bdd1dc4ee1fd70a
 tags: []
 entities: []
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
@@ -29,5 +30,6 @@ Insilico Medicine and Takeda unveiled a collaboration applying Insilico’s Phar
 <!-- graph:start -->
 ## Connections
 
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]]
 <!-- graph:end -->

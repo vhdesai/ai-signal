@@ -16,7 +16,7 @@ tags:
 - New
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +37,6 @@ UT Austin's Dell Medical School announced Hongfang Liu is joining to lead a new 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-09-ut-austin-keeping-humanity-at-the-center-of-ai-in-education]] · [[2026-07-28-uc-san-diego-spotlights-its-leadership-in-ai-for-health-care]] · [[2026-04-20-bair-uw-ut-austin-april-2026-a-wave-of-new-curriculum-and-la]] · [[2026-05-12-jensen-huang-at-carnegie-mellon-commencement-ai-won-t-take-y]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]]
 <!-- graph:end -->

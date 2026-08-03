@@ -20,8 +20,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and
 - 2026-04-16-federal-court-rules-ai-chats-have-no-attorney-client-privile
-- 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 embedding_id: 2026-05-15-ai-chat-logs-ruled-legally-discoverable-enterprise-risk-aler
 event_name: ''
 ---
@@ -33,5 +33,5 @@ AI Chat Logs Ruled Legally Discoverable — Enterprise Risk Alert
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-04-16-federal-court-rules-ai-chats-have-no-attorney-client-privile]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]]
+**Related:** [[2026-05-04-trending-ai-chat-logs-are-now-legally-discoverable-evidence]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-08-02-eu-ai-act-transparency-rules-go-live-chatbot-disclosure-and]] · [[2026-04-16-federal-court-rules-ai-chats-have-no-attorney-client-privile]]
 <!-- graph:end -->

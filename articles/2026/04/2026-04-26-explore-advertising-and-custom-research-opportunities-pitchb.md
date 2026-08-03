@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-15-oracle-netsuite-pitchbook-com-subscribe-request-a-free-trial
+- 2026-08-01-pitchbook-2026-08-01-external-stress-testing-private-markets
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
 - 2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking
-- 2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri
 embedding_id: 2026-04-26-explore-advertising-and-custom-research-opportunities-pitchb
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Explore advertising and custom research opportunities - pitchbook.com/subscribe 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-15-oracle-netsuite-pitchbook-com-subscribe-request-a-free-trial]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]] · [[2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri]]
+**Related:** [[2026-03-15-oracle-netsuite-pitchbook-com-subscribe-request-a-free-trial]] · [[2026-08-01-pitchbook-2026-08-01-external-stress-testing-private-markets]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-02-pitchbook-2026-07-02-external-software-wins-for-the-taking]]
 <!-- graph:end -->

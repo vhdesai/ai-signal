@@ -11,9 +11,11 @@ digest_source: digests\raw\2026-07-14_065946_Inbox_Daily AI News Digest - July 1
 content_hash: ad10ed00e74a23f5f10995e8ee2cff43f2e62b6ad4a9f22ecb02ea484c7897f9
 normalized_title_hash: 9a2743f130049600
 canonical_url_hash: 83a8f8e7650604dd
-tags: []
+tags:
+- Hot
 entities: []
-themes: []
+themes:
+- policy-regulation
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -30,6 +32,6 @@ Xi will keynote the 2026 World AI Conference, with analysts expecting him to adv
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
 **Canonical:** [[2026-07-13-read-at-reuters-via-u-s-news]]
 <!-- graph:end -->

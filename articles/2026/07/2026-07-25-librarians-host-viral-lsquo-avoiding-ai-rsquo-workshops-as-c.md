@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 2
 content_hash: a4a0efc82a18a0e884d91d8e0b84ea6093987c713131a1edcad41471a3e0da7e
 normalized_title_hash: b149b85b6652a202
 canonical_url_hash: d91b1a307571d77e
-tags: []
+tags:
+- Trending
 entities: []
 themes:
 - company-storylines

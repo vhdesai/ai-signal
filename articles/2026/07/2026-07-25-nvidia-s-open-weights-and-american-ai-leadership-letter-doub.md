@@ -9,7 +9,7 @@ url_canonical: https://www.forbes.com/sites/sandycarter/2026/07/25/huangs-open-w
 url_status: found
 digest_source: digests\raw\2026-07-26_062227_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: f2f1809a868a511b8157ceeb739be8716a2a3c1a036c3eb4f19bdc60435af005
+content_hash: 25f6eb36a552a36a1c07aedf03d8e2a2e5ba569f41c5b6581da5eff7fe5cf048
 normalized_title_hash: c03c5d809c320c42
 canonical_url_hash: 9f0ed51b71612995
 tags: []
@@ -41,7 +41,7 @@ event_name: ''
 
 # Nvidia’s ‘Open Weights and American AI Leadership’ letter doubles to 50 signers, adding OpenAI and Google
 
-Jensen Huang’s open-weights letter — launched July 24 with 25 signatories including Meta, Microsoft and Palantir — doubled to 50 within a day, with new joiners disclosed July 25 including OpenAI, Google, AMD, Cisco, Cloudflare, GitHub and Block; Amazon and Anthropic remained off the list. Signal: U.S. industry is coalescing around open-weight models as a competitive-and-policy stance versus China, though notable abstentions reveal strategic divergence.
+Jensen Huang’s open-weights letter — launched July 24 with 25 signatories including Meta, Microsoft and Palantir — doubled to 50 within a day, with new joiners disclosed July 25 including OpenAI, Google, AMD, Cisco, Cloudflare, GitHub and Block; Amazon and Anthropic remained off the list. Signal: U.S. industry is coalescing around open-weight models as a competitive-and-policy stance versus China, though notable abstentions reveal strategic divergence. POLICY
 
 <!-- graph:start -->
 ## Connections

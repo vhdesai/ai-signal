@@ -8,7 +8,7 @@ url_canonical: https://www.digitaltrends.com/computing/turns-out-teaching-games-
 url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
-content_hash: 8e72360dfce07a3d68586d757f0e09f3bb4c569cc28cbbd9e82f15126f0e4ee4
+content_hash: cb82fdef7cc6f4f2402a5269985a6cb596f3a248a45dede57d57b201791a3f32
 normalized_title_hash: 36f0bfc97f96871a
 canonical_url_hash: 5b863573d7b50409
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # MIT Uses "Battleship" to Show Small Models Can Out-Question Large Ones
 
-MIT used a Battleship-style task to show that improving question-planning lets a small model jump from rarely beating humans to winning most games — at ~1% of cost. Better agent design, not just bigger models, is a path to capability.
+MIT used a Battleship-style task to show that improving question-planning lets a small model jump from rarely beating humans to winning most games — at ~1% of cost. Better agent design, not just bigger models, is a path to capability. ________________________________ RESEARCH
 
 <!-- graph:start -->
 ## Connections

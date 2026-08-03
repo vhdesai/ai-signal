@@ -18,6 +18,7 @@ entities:
 - Google
 themes:
 - model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Google DeepMind published Co-Scientist in Nature — a multi-agent system built 
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-05-20-google-deepmind-publishes-co-scientist-in-nature]] · [[2026-05-21-google-deepmind-publishes-co-scientist-multi-agent-ai-for-sc]] · [[2026-05-27-google-deepmind-publishes-gemini-for-science-experiments-and]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
 <!-- graph:end -->

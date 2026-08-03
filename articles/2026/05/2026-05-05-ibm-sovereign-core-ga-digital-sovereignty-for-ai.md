@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-ibm-and-sarvam-collaborate-to-advance-ai-sovereignty-in-indi
 - 2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a
 - 2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race
 - 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
 - 2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense
-- 2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership
 embedding_id: 2026-05-05-ibm-sovereign-core-ga-digital-sovereignty-for-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ IBM made Sovereign Core generally available, providing AI-ready sovereign enviro
 
 **Entities:** [[IBM]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]] · [[2026-07-21-microsoft-and-mistral-expand-sovereign-ai-partnership]]
+**Related:** [[2026-07-31-ibm-and-sarvam-collaborate-to-advance-ai-sovereignty-in-indi]] · [[2026-05-06-newibm-consulting-expands-enterprise-advantage-ai-platform-a]] · [[2026-06-21-forbes-energy-sovereignty-will-decide-the-ai-race]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-06-02-airbus-partners-with-mistral-ai-for-sovereign-ai-in-defense]]
 <!-- graph:end -->

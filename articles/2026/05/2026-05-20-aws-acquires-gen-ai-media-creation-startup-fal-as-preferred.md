@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: 015564ad9e87008b3fe3e348fc9dc8c6f833675f722163d2e441a52d37372a49
 normalized_title_hash: a1b5d714dc4ed592
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Amazon
 - Google
@@ -23,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
+- 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
-- 2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai
-- 2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10
 embedding_id: 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Amazon Web Services confirmed on May 20 that it has acquired fal, a fast-growing
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-28-amazon-launches-genai-creators-fund-and-project-nara-for-ai]] · [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10]]
+**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]]
 <!-- graph:end -->

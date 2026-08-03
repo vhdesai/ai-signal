@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8
 content_hash: 3ee2d534a8b84fbd3a878081e2dcd5a69fff4f419e7185eea965ddc5eacc18fb
 normalized_title_hash: 8274982b39c61e8e
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - Microsoft

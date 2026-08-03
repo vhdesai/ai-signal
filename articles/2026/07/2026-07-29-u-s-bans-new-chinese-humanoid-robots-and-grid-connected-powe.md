@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 40dce967bd2ae39efe90573e9a54106e869f551f026e05d969ed57d829a1259a
 normalized_title_hash: a9ede44f7a6d5679
 canonical_url_hash: 7744e3d8039bbdfc
-tags: []
+tags:
+- Breaking
 entities: []
 themes:
 - policy-regulation

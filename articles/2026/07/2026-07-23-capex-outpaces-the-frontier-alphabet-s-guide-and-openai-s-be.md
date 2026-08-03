@@ -27,9 +27,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle
+- 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 - 2026-07-22-daily-ai-news-digest-july-23-2026
 - 2026-07-03-the-economics-and-governance-of-ai-took-center-stage
-- 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 embedding_id: 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
 event_name: ''
 ---
@@ -43,5 +43,5 @@ The latest cycle made clear that the AI economy is now dominated by compute, pow
 
 **Entities:** [[Anthropic]] · [[Google]] · [[IBM]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]]
+**Related:** [[2026-07-23-ai-s-capital-and-compute-race-outpaces-the-model-cycle]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]] · [[2026-07-03-the-economics-and-governance-of-ai-took-center-stage]]
 <!-- graph:end -->

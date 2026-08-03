@@ -8,14 +8,16 @@ url_canonical: https://the-decoder.com/anthropic-doesnt-need-junior-engineers-an
 url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
-content_hash: 7dd532023fcea2550a67bd41d1b1abcac909d02c5f8499b1180e25a480b0dfa6
+content_hash: 08b41196d8b1f78256b094183be7363340547dddc9408029be6048e083692842
 normalized_title_hash: 36729c57a4df14f3
 canonical_url_hash: e5853b47b0f7851d
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
+- OpenAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,12 +32,12 @@ event_name: ''
 
 # Anthropic says it no longer hires junior engineers, warns of an economic shock
 
-Co-founder Jack Clark told Reason that Anthropic is “hiring more people with lots and lots of experience” because “the returns on intuition are much greater” — with Claude now handling the experiment-scaling work that once required junior teams. Clark warned the pattern will spread, potentially producing far above-trend GDP growth alongside recession-level unemployment spikes, and argued no government is prepared for that divergence.
+Co-founder Jack Clark told Reason that Anthropic is “hiring more people with lots and lots of experience” because “the returns on intuition are much greater” — with Claude now handling the experiment-scaling work that once required junior teams. Clark warned the pattern will spread, potentially producing far above-trend GDP growth alongside recession-level unemployment spikes, and argued no government is prepared for that divergence. MARKETS OPENAI
 
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Anthropic]]
-**Topics:** [[Policy & Regulation]]
+**Entities:** [[Anthropic]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]]
 <!-- graph:end -->

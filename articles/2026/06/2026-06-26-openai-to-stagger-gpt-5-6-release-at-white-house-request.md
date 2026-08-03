@@ -17,6 +17,8 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +39,6 @@ OpenAI will initially release its next model, GPT-5.6, to roughly 20 government-
 ## Connections
 
 **Entities:** [[Amazon]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-06-25-white-house-asks-openai-to-limit-gpt-5-6-s-release-over-safe]] · [[2026-07-08-u-s-clears-openai-s-gpt-5-6-for-broad-public-rollout]] · [[2026-06-25-washington-gates-openai-s-gpt-5-6-behind-customer-by-custome]] · [[2026-07-08-scoop-trump-administration-lifts-restrictions-on-openai-s-gp]]
 <!-- graph:end -->

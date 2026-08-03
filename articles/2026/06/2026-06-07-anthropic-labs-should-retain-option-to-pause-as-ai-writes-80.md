@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-06-07_070249_Inbox_Daily AI News Digest – June 7,
   2026.md
-content_hash: f4d97f19f38959c9803e7a0ca66d2a16fcd8be299d64c2ad78f1f84c42663f5b
+content_hash: 28c13041c0d6fcdeb15aa60b3fe56cc176fd5a6bb027e9cd013f2a3334dfbb2f
 normalized_title_hash: b2cf5128120386ac
 canonical_url_hash: ''
 tags:
@@ -28,7 +28,7 @@ event_name: ''
 
 # Anthropic: Labs Should Retain Option to Pause as AI Writes 80%+ of Its Own Code
 
-Clark and Favaro argued labs should preserve the option to slow or pause if "recursive self-improvement" approaches. Anthropic disclosed Claude authored 80%+ of code merged into its own codebase (May 2026), with engineers merging ~8× more code/day than 2024. The proposed pause is conditional — contingent on multiple labs agreeing — and lands days after Anthropic's S-1 filing.
+Clark and Favaro argued labs should preserve the option to slow or pause if "recursive self-improvement" approaches. Anthropic disclosed Claude authored 80%+ of code merged into its own codebase (May 2026), with engineers merging ~8× more code/day than 2024. The proposed pause is conditional — contingent on multiple labs agreeing — and lands days after Anthropic's S-1 filing. Forbes SECURITYHOT
 
 <!-- graph:start -->
 ## Connections

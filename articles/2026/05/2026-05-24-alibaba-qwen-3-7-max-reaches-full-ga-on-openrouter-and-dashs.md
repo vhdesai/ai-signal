@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
 - 2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack
 - 2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre
+- 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
-- 2026-07-19-alibaba-previews-qwen3-8-max-and-signals-a-2-4t-parameter-op
 embedding_id: 2026-05-24-alibaba-qwen-3-7-max-reaches-full-ga-on-openrouter-and-dashs
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alibaba's Qwen 3.7 Max — first shown as a preview on May 20 — is now fully l
 
 **Entities:** [[Alibaba]] · [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-07-19-alibaba-previews-qwen3-8-max-and-signals-a-2-4t-parameter-op]]
+**Related:** [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-20-alibaba-qwen-3-7-max-deepseek-v4-pro-and-the-china-stack]] · [[2026-04-04-alibaba-quietly-released-qwen-3-6-plus-on-openrouter-for-fre]] · [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview]] · [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]]
 <!-- graph:end -->

@@ -9,7 +9,7 @@ url_canonical: https://link.springer.com/subjects/machine-learning
 url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
-content_hash: dd60c8902daf5994e88c752e1fb022b1094cabaadb1ec35f4104049db3b0f537
+content_hash: 60c24a01d25e3cdc13f4a6cc6b115ad6853f381b48898f49b4696d4012ec795b
 normalized_title_hash: 2adb8a427ced2419
 canonical_url_hash: d3f0c2c8e8e8612f
 tags:
@@ -26,20 +26,20 @@ related_article_ids:
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 - 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
+- 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 - 2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta
-- 2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito
 embedding_id: 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 event_name: ''
 ---
 
 # Six Peer-Reviewed Springer Papers Published: Legal AI Agents, Clinical XAI, Weather Forecasting, Logistics
 
-Springer published six peer-reviewed papers in the 24-hour window covering applied AI across regulated industries: legal-AI agent workflow design, domain generalization methods for clinical imaging models, explainable AI (XAI) frameworks for manufacturing quality control, AI-driven weather forecasting improvements, and multi-agent coordination for logistics optimization. The cluster of publication activity reflects the continued maturation of applied AI research from exploratory to publishable, peer-reviewed science across sectors where trust and interpretability matter most. AI Safety & Policy 2 items
+Springer published six peer-reviewed papers in the 24-hour window covering applied AI across regulated industries: legal-AI agent workflow design, domain generalization methods for clinical imaging models, explainable AI (XAI) frameworks for manufacturing quality control, AI-driven weather forecasting improvements, and multi-agent coordination for logistics optimization. The cluster of publication activity reflects the continued maturation of applied AI research from exploratory to publishable, peer-reviewed science across sectors where trust and interpretability matter most. AI Safety & Policy 2 items UK PA
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta]] · [[2026-03-31-arxiv-cs-ai-337-new-papers-on-march-31-agentic-rl-llm-monito]]
+**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta]]
 <!-- graph:end -->

@@ -11,13 +11,13 @@ digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9
 content_hash: 22f827be5d01d5f75e3ce188ce06b7f58023858ab6cfbbda3cdf6471b3fed7ab
 normalized_title_hash: cb6b9a8a059d7c99
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - Microsoft
 - OpenAI
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -35,6 +35,6 @@ Microsoft is reportedly routing tens of thousands of prompts per week in Excel a
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-08-microsoft-quietly-replaces-openai-anthropic-with-mai-models]]
 <!-- graph:end -->

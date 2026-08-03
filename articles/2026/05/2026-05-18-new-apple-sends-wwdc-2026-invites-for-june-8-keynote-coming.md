@@ -8,7 +8,7 @@ url_canonical: https://www.forbes.com/sites/prakharkhanna/2026/05/18/apple-sends
 url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
-content_hash: ca4cd1eb324df9c383bd22c47d07ee75c89fec819d3605389314b20f8e2fb5bf
+content_hash: 50f0d919deb3a357c55239d44ac1c55295b0fd249dafdb2001aebf8f8bf3dccc
 normalized_title_hash: 4f64b5833e584c89
 canonical_url_hash: 866b006d874b6547
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # New Apple Sends WWDC 2026 Invites for June 8 Keynote — "Coming Bright Up" Tease
 
-Apple released the WWDC 2026 schedule (June 8-12) and sent in-person keynote invites carrying the tagline "Coming bright up." The Monday June 8 event is expected to cover an updated Siri, iOS/iPadOS/macOS 27, and platform-wide Apple Intelligence upgrades. Apple's deliberate timing — announcing immediately before Google I/O concludes — reflects intensifying competition for developer and consumer mindshare in the AI-native platform cycle.
+Apple released the WWDC 2026 schedule (June 8-12) and sent in-person keynote invites carrying the tagline "Coming bright up." The Monday June 8 event is expected to cover an updated Siri, iOS/iPadOS/macOS 27, and platform-wide Apple Intelligence upgrades. Apple's deliberate timing — announcing immediately before Google I/O concludes — reflects intensifying competition for developer and consumer mindshare in the AI-native platform cycle. An CN
 
 <!-- graph:start -->
 ## Connections

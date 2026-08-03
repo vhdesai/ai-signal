@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in
+- 2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning
+- 2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h
 - 2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6
-- 2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current
-- 2026-04-16-google-deepmind-released-gemini-robotics-er-1-6-with-upgrade
-- 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
+- 2026-07-30-google-deepmind-unveils-gemini-robotics-2
 embedding_id: 2026-04-20-gemini-robotics-er-1-6-lands-with-boston-dynamics-spot-integ
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DeepMind shipped Gemini Robotics-ER 1.6, an embodied-reasoning model that plugs 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-05-05-google-deepmind-gemma-4-and-robotics-er-1-6-headline-current]] · [[2026-04-16-google-deepmind-released-gemini-robotics-er-1-6-with-upgrade]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]]
+**Related:** [[2026-04-14-newgoogle-deepmind-gemini-robotics-er-1-6-physical-ai-for-in]] · [[2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning]] · [[2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h]] · [[2026-05-04-google-deepmind-ships-gemma-4-and-gemini-robotics-er-1-6]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2]]
 <!-- graph:end -->

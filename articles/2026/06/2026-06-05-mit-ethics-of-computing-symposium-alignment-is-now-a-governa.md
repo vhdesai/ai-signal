@@ -16,7 +16,7 @@ entities:
 - Google
 - OpenAI
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +38,6 @@ MIT's third annual SERC symposium convened MIT, Google DeepMind, and OpenAI rese
 ## Connections
 
 **Entities:** [[Google]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-06-05-mit-ethics-of-computing-symposium-spotlights-ai-alignment-an]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-04-20-mit-sloan-axios-april-2026-new-survey-data-show-enterprises]] · [[2026-04-02-mit-develops-framework-for-evaluating-ethics-in-autonomous-a]] · [[2026-05-11-anthropic-and-openai-executives-engage-hindu-and-sikh-religi]]
 <!-- graph:end -->

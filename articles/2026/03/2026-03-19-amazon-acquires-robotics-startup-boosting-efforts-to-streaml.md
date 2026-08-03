@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti
 - 2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou
 - 2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou
-- 2026-03-25-how-jeff-bezos-and-private-equity-firms-boosted-the-case-for
+- 2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics
 embedding_id: 2026-03-19-amazon-acquires-robotics-startup-boosting-efforts-to-streaml
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Amazon Acquires Robotics Startup, Boosting Efforts to Streamline Deliveries [202
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]] · [[2026-03-25-how-jeff-bezos-and-private-equity-firms-boosted-the-case-for]]
+**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]] · [[2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics]]
 <!-- graph:end -->

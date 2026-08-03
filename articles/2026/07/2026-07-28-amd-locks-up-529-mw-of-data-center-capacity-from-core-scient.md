@@ -17,7 +17,7 @@ entities:
 - AMD
 - NVIDIA
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +39,6 @@ AMD secured more than 529 megawatts of U.S. AI data-center capacity from former 
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in]]
 <!-- graph:end -->

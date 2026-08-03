@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s
 - 2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve
 - 2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall
+- 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-03-19-amazon-acquires-robotics-startup-boosting-efforts-to-streaml
-- 2026-03-28-source-cnbc-march-26-2026
 embedding_id: 2026-03-25-how-jeff-bezos-and-private-equity-firms-boosted-the-case-for
 event_name: ''
 ---
@@ -34,5 +34,5 @@ How Jeff Bezos and Private Equity Firms Boosted the Case for AI [2026-03-25] · 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]] · [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve]] · [[2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall]] · [[2026-03-19-amazon-acquires-robotics-startup-boosting-efforts-to-streaml]] · [[2026-03-28-source-cnbc-march-26-2026]]
+**Related:** [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]] · [[2026-04-23-bloomberg-reports-jeff-bezos-is-backing-a-new-ai-research-ve]] · [[2026-07-26-the-information-2026-07-26-external-how-google-is-using-wall]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-03-19-amazon-acquires-robotics-startup-boosting-efforts-to-streaml]]
 <!-- graph:end -->

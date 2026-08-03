@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification
 - 2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s
 - 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudify-ban
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
-- 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
+- 2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica
+- 2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai
 embedding_id: 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Elon Musk's xAI sued Minnesota in federal court to block its first-in-the-nation
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudify-ban]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]]
+**Related:** [[2026-07-29-xai-sues-minnesota-over-first-in-the-nation-ai-nudification]] · [[2026-07-30-xai-sues-minnesota-to-block-its-ai-nudification-law-as-the-s]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudify-ban]] · [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica]] · [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai]]
 <!-- graph:end -->

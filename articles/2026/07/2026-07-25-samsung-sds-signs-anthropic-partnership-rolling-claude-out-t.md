@@ -17,7 +17,8 @@ entities:
 - Google
 - OpenAI
 - Samsung
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise
@@ -34,5 +35,6 @@ Samsung SDS and Anthropic signed a strategic partnership (made public July 25) t
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]] · [[Samsung]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise]]
 <!-- graph:end -->

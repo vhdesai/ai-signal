@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7
 content_hash: 0cef147033765345accbd60f1a924ca7d7052e07ffa1683c9e3d87f83ae738dd
 normalized_title_hash: 5917061a93776cf7
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - NVIDIA
 - Tencent

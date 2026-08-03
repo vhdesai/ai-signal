@@ -11,10 +11,12 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 808d96d0730f452c8689498f8c502375586a87d28fcfd94e1717ee359a4879cd
 normalized_title_hash: 8e8f036830658688
 canonical_url_hash: 5b471f123692e2d1
-tags: []
+tags:
+- Hot
 entities:
 - OpenAI
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-12-openai-temporarily-lifts-gpt-5-6-sol-usage-limits-after-a-de
@@ -31,5 +33,6 @@ OpenAI removed the rolling five-hour usage cap for Plus, Pro, and Business plans
 ## Connections
 
 **Entities:** [[OpenAI]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-12-openai-temporarily-lifts-gpt-5-6-sol-usage-limits-after-a-de]]
 <!-- graph:end -->

@@ -14,7 +14,7 @@ canonical_url_hash: 27666e7fb9fc4358
 tags: []
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ TechCrunch reports that Encord is testing brain-wave-tagged robotics training da
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-05-20-scaling-laws-for-embodied-ai]]
 <!-- graph:end -->

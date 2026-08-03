@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8
 content_hash: 48274e14b1c8eed6729a3113b79b6f75a48840d3501e14e3865b49f280e1019d
 normalized_title_hash: 5ea3348a66a2df09
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Alibaba
 - ByteDance

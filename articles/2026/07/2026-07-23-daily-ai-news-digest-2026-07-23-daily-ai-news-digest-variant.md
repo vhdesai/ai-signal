@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news
 - 2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest
 - 2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest
 - 2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg
 - 2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest
-- 2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest
 embedding_id: 2026-07-23-daily-ai-news-digest-2026-07-23-daily-ai-news-digest-variant
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Daily AI News Digest - [2026-07-23] Daily AI News Digest variants from vdesai@mi
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest]] · [[2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]] · [[2026-07-29-microsoft-news-2026-07-29-microsoft-weekly-digest]]
+**Related:** [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news]] · [[2026-07-28-microsoft-news-2026-07-28-microsoft-daily-digest]] · [[2026-07-27-microsoft-news-2026-07-27-microsoft-daily-digest]] · [[2026-07-26-other-ai-related-publication-emails-2026-07-26-external-heyg]] · [[2026-07-30-microsoft-news-2026-07-30-microsoft-daily-digest]]
 <!-- graph:end -->

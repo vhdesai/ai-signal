@@ -12,11 +12,12 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: d49b6db533de49e71013fc77425fd692024bfa3bf2e8ce1d069f13184b8af633
 normalized_title_hash: 8507a443b04c4b94
 canonical_url_hash: c36cba4bcb663ac7
-tags: []
+tags:
+- Hot
 entities:
 - TSMC
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Three new CoWoS fabs at Chiayi Science Park — the bottleneck step gating AI-ac
 ## Connections
 
 **Entities:** [[TSMC]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip]] · [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-04-11-tsmc-reported-record-first-quarter-revenue-of-35-6-billion-a]]
 <!-- graph:end -->

@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-02-26-the-tactical-allocation-letter-2026-02-26-external-allocatio
 - 2026-06-27-the-tactical-allocation-letter-2026-06-27-external-the-tacti
 - 2026-07-04-the-tactical-allocation-letter-2026-07-04-external-the-tacti
-- 2026-07-01-the-tactical-allocation-letter-2026-07-01-external-allocatio
+- 2026-08-02-the-tactical-allocation-letter-2026-08-02-external-the-tacti
 embedding_id: 2026-06-26-the-tactical-allocation-letter-2026-06-26-external-16-455-vs
 event_name: ''
 ---
@@ -33,5 +33,5 @@ The Tactical Allocation Letter - [2026-06-26] [EXTERNAL] +16,455% vs. +241% - Ou
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-24-the-tactical-allocation-letter-2026-06-24-external-16-455-vs]] · [[2026-02-26-the-tactical-allocation-letter-2026-02-26-external-allocatio]] · [[2026-06-27-the-tactical-allocation-letter-2026-06-27-external-the-tacti]] · [[2026-07-04-the-tactical-allocation-letter-2026-07-04-external-the-tacti]] · [[2026-07-01-the-tactical-allocation-letter-2026-07-01-external-allocatio]]
+**Related:** [[2026-06-24-the-tactical-allocation-letter-2026-06-24-external-16-455-vs]] · [[2026-02-26-the-tactical-allocation-letter-2026-02-26-external-allocatio]] · [[2026-06-27-the-tactical-allocation-letter-2026-06-27-external-the-tacti]] · [[2026-07-04-the-tactical-allocation-letter-2026-07-04-external-the-tacti]] · [[2026-08-02-the-tactical-allocation-letter-2026-08-02-external-the-tacti]]
 <!-- graph:end -->

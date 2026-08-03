@@ -22,7 +22,8 @@ tags: []
 entities:
 - Anthropic
 themes:
-- model-capabilities
+- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +44,6 @@ event_name: ''
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Corporate Moves]]
 **Related:** [[2026-05-01-pentagon-awards-il6-il7-ai-contracts-to-8-firms-anthropic-ex]] · [[2026-05-01-anthropic-s-pentagon-exclusion-litigation-ongoing-white-hous]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-19-anthropic-pentagon-stand-off-constitutional-ai-safety-limits]]
 <!-- graph:end -->

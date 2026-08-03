@@ -8,7 +8,7 @@ url_canonical: https://au.pcmag.com/migrated-15175-windows-10/117902/microsoft-b
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: b36edc1efec4da685b5f674f33d29edb07925018ca888dd291611a8529417880
+content_hash: 76eb8e9234490dd904c114858436b14fa6cd5a309501dbacf0f565f51cc116d5
 normalized_title_hash: a24b58ce70e51246
 canonical_url_hash: 1c145b6cc890d1b7
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Microsoft Build 2026 Preview: AI-Native Windows Push Coming June 2
 
-PCMag previewed Microsoft's Build 2026 conference, opening June 2 at Fort Mason in San Francisco, with a Satya Nadella keynote. Build is expected to formalize the "AI takeover of Windows" — deeper Copilot integration into the shell, OS-level agent surfaces, and additional first-party developer tooling that aligns with the agentic-OS thesis Microsoft has been building toward since late 2024.
+PCMag previewed Microsoft's Build 2026 conference, opening June 2 at Fort Mason in San Francisco, with a Satya Nadella keynote. Build is expected to formalize the "AI takeover of Windows" — deeper Copilot integration into the shell, OS-level agent surfaces, and additional first-party developer tooling that aligns with the agentic-OS thesis Microsoft has been building toward since late 2024. B M
 
 <!-- graph:start -->
 ## Connections

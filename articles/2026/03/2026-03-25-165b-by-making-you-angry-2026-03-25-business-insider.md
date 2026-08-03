@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha
 - 2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
+- 2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni
 - 2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider
-- 2026-07-09-business-insider-2026-07-09-external-today-anthropic-s-1-2t
 embedding_id: 2026-03-25-165b-by-making-you-angry-2026-03-25-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ $165B by making you angry [2026-03-25] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider]] · [[2026-07-09-business-insider-2026-07-09-external-today-anthropic-s-1-2t]]
+**Related:** [[2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha]] · [[2026-07-13-business-insider-2026-07-13-external-today-apple-s-explosive]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni]] · [[2026-03-11-new-ways-you-can-get-paid-2026-03-11-business-insider]]
 <!-- graph:end -->

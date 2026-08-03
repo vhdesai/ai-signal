@@ -22,6 +22,7 @@ entities:
 - OpenAI
 - Perplexity
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -43,6 +44,6 @@ The inaugural ACM Conference on AI and Agentic Systems (CAIS 2026) opens next we
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[OpenAI]] · [[Perplexity]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]] · [[2026-05-17-acm-conference-on-ai-agentic-systems-san-jose-may-26-29]] · [[2026-05-06-newuc-berkeley-stanford-cmu-launch-acm-cais-2026-workshop-on]] · [[event-acm-cais-2026-acm-cais-2026-ai-agents-for-discovery-in-the-wild]]
 <!-- graph:end -->

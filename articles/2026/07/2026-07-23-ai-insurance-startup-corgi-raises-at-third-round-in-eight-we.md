@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-23-ai-insurance-startup-corgi-reportedly-raises-at-a-valuation
 - 2026-04-01-products-tools
 - 2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun
-- 2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast
+- 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
 embedding_id: 2026-07-23-ai-insurance-startup-corgi-raises-at-third-round-in-eight-we
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-ai-insurance-startup-corgi-reportedly-raising-a-third-round]] · [[2026-07-23-ai-insurance-startup-corgi-reportedly-raises-at-a-valuation]] · [[2026-04-01-products-tools]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-07-30-dili-raises-15-million-to-automate-compliance-for-ai-infrast]]
+**Related:** [[2026-07-23-ai-insurance-startup-corgi-reportedly-raising-a-third-round]] · [[2026-07-23-ai-insurance-startup-corgi-reportedly-raises-at-a-valuation]] · [[2026-04-01-products-tools]] · [[2026-03-28-defense-ai-startup-shield-ai-closed-a-2-billion-funding-roun]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]]
 <!-- graph:end -->

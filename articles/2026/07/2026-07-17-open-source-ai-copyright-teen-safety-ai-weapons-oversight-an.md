@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 - 2026-07-20-the-pentagon-openai-regulation-dispute-and-european-assistan
 - 2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan
-- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
+- 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
 embedding_id: 2026-07-17-open-source-ai-copyright-teen-safety-ai-weapons-oversight-an
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Open-source AI, copyright, teen safety, AI weapons oversight, and platform-acces
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-07-20-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]]
+**Related:** [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-07-20-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it]]
 <!-- graph:end -->

@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-27_060542_Inbox_Daily AI News Digest - July 2
 content_hash: fa4e98167a7408893a13c55785dd278cd325b2983cd97473d0983c23922f8fbf
 normalized_title_hash: edcdf79d11d11e50
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
@@ -23,8 +24,8 @@ related_article_ids:
 - 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
 - 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a
 - 2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced
+- 2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10
 - 2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co
-- 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s
 embedding_id: 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
 event_name: ''
 ---
@@ -38,5 +39,5 @@ TechCrunch reports that Hugging Face CEO Clem Delangue called for OpenAI to rele
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co]] · [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s]]
+**Related:** [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-after-unpreced]] · [[2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10]] · [[2026-07-26-hugging-face-ceo-demands-radical-transparency-and-100m-in-co]]
 <!-- graph:end -->

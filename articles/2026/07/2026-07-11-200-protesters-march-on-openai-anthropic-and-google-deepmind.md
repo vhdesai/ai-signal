@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 1
 content_hash: 64837ddd09f86cd3bcd0d5b4f8223a0bc35505cbdf84701d361e4c6bc7b6d8c0
 normalized_title_hash: c40ac4f3d50aae4d
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - Anthropic
 - Google

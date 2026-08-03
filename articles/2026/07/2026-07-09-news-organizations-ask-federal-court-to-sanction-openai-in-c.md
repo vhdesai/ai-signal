@@ -8,15 +8,14 @@ url_canonical: https://www.upi.com/Top_News/US/2026/07/09/news-organizations-fil
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: 06670b5df2faff1a9f1c98206bc0bfd801db15e7b044b07dcb47825fa25ac9a6
+content_hash: 1edf7379ba36a94cf25c6a77a84fbcff275ea3e67078650e8236a5e987f4dc33
 normalized_title_hash: 9e7b5b6ec1312d3d
 canonical_url_hash: 12ce1abd8badc3c7
-tags:
-- Breaking
+tags: []
 entities:
 - OpenAI
 themes:
-- policy-regulation
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
@@ -27,12 +26,12 @@ event_name: ''
 
 # News organizations ask federal court to sanction OpenAI in copyright case
 
-A coalition of 17 news organizations asked a federal court to sanction OpenAI, alleging the company misrepresented its ability to search training datasets and withheld evidence. The filing escalates the discovery fight in publisher copyright litigation and raises the stakes around transparency into training data.
+A coalition of 17 news organizations asked a federal court to sanction OpenAI, alleging the company misrepresented its ability to search training datasets and withheld evidence. The filing escalates the discovery fight in publisher copyright litigation and raises the stakes around transparency into training data. POLICY GEOPOLITICS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]]
 <!-- graph:end -->

@@ -9,10 +9,11 @@ url_canonical: https://pandaily.com/alibaba-damo-elementsclaw-ai-superconductors
 url_status: found
 digest_source: digests\raw\2026-07-05_061331_Inbox_Daily AI News Digest - July 5,
   2026.md
-content_hash: 894c2c48fccfbb996498ced2c329584b3284c7fe2dd4abf9e973e75e3cd7fab1
+content_hash: 6fab3bdba0e54f6821117ee1e3d57e00216179e9e118a3f2e4f52ba23984bb80
 normalized_title_hash: 6036c71d8ad10372
 canonical_url_hash: 313e1bb5eff984d5
-tags: []
+tags:
+- Hot
 entities:
 - Alibaba
 - Microsoft
@@ -33,7 +34,7 @@ event_name: ''
 
 # Alibaba's DAMO Academy agent "Elements Claw" discovers four new superconductors, validated in the lab
 
-Alibaba DAMO Academy, with Renmin University and the University of Chinese Academy of Sciences, unveiled Elements Claw — described as the first AI agent purpose-built for superconductor discovery. Powered by a 1B-parameter model trained on 125M molecular and crystal structures, it screened 2.4M stable crystal structures in ~28 GPU-hours, surfaced ~68,000 candidates, and produced four previously unknown superconductors confirmed experimentally. Unlike prior structure-prediction efforts (DeepMind's GNoME, Microsoft's MatterGen), it runs an end-to-end workflow — literature review, synthesis feasibility, toxicity and cost checks — and published prediction data for all 2.4M materials. For context, the SuperCon database has catalogued only ~2,000 superconductors over a century.
+Alibaba DAMO Academy, with Renmin University and the University of Chinese Academy of Sciences, unveiled Elements Claw — described as the first AI agent purpose-built for superconductor discovery. Powered by a 1B-parameter model trained on 125M molecular and crystal structures, it screened 2.4M stable crystal structures in ~28 GPU-hours, surfaced ~68,000 candidates, and produced four previously unknown superconductors confirmed experimentally. Unlike prior structure-prediction efforts (DeepMind's GNoME, Microsoft's MatterGen), it runs an end-to-end workflow — literature review, synthesis feasibility, toxicity and cost checks — and published prediction data for all 2.4M materials. For context, the SuperCon database has catalogued only ~2,000 superconductors over a century. AI Safety & Policy CHINA GOVERNANCE EXPORT CONTROLS
 
 <!-- graph:start -->
 ## Connections

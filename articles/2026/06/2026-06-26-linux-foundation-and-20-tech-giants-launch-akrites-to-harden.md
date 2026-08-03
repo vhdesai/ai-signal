@@ -15,9 +15,7 @@ canonical_url_hash: 9697519df40651ab
 tags: []
 entities: []
 themes:
-- datacenter-infrastructure
 - policy-regulation
-- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +36,6 @@ The Linux Foundation unveiled Akrites, a joint effort with roughly twenty tech c
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-14-ai-tools-find-third-major-linux-kernel-vulnerability-in-two]] · [[2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir]] · [[2026-07-06-carnegie-mellon-helps-launch-flare-ai-an-open-source-pipelin]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]]
 <!-- graph:end -->

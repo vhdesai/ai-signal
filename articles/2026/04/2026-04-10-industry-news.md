@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 - 2026-04-16-source-coreweave-press-release-april-15-2026
+- 2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push
 - 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
 embedding_id: 2026-04-10-industry-news
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CoreWeave Books $21B+ in AI Cloud Deals in One Week — Stock Surges 10.87%
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-16-source-coreweave-press-release-april-15-2026]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-16-source-coreweave-press-release-april-15-2026]] · [[2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]]
 <!-- graph:end -->

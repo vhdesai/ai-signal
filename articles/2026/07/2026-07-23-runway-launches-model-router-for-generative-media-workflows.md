@@ -8,13 +8,13 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-24_060655_Inbox_Daily AI News Digest - July 24,
   2026.md
-content_hash: 1731286519a8c757679d63e80edc543eb33d3410a1f82203780bdd1b5f139591
+content_hash: 76fdd8589947216d004906cb255b85bf46355302bbe7b30c9436dd1e8d8e53aa
 normalized_title_hash: 24d64af9885921b9
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,11 +30,11 @@ event_name: ''
 
 # Runway launches model router for generative media workflows
 
-# Runway launches model router for generative media workflows
+OPENAICODEXVOICE INTERFACE
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]] · [[2026-04-02-model-releases-updates]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]] · [[2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age]]
 <!-- graph:end -->

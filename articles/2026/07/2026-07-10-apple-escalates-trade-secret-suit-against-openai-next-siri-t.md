@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-12_065239_Inbox_Daily AI News Digest - July 1
 content_hash: 7fafa2654566bb3e94219eb0bc165d801fbcd2fec2d6ff62fc0ec8341e4511c1
 normalized_title_hash: b8662bbf833ceb52
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Apple
 - Google

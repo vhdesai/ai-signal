@@ -9,7 +9,7 @@ url_canonical: https://www.edgen.tech/
 url_status: found
 digest_source: digests\raw\2026-05-23_071330_Inbox_Daily AI News Digest – May 23,
   2026.md
-content_hash: 1118d20a1668acd5391e83f31977e04360d2f792e3bb0e2e39bae91aea274831
+content_hash: 363444604c11901186990ae9694cf7370ef928d74cd6fdd58124e3a1bd8e5237
 normalized_title_hash: 397e16d544ff66f7
 canonical_url_hash: cdc4ef563bc7c6f7
 tags:
@@ -31,7 +31,7 @@ event_name: ''
 
 # DeepSeek Targets $10B Valuation in First External Fundraise; Tencent Joins as Investor
 
-DeepSeek, the Chinese AI lab whose open-weight models rattled the AI industry earlier this year, is pursuing its first external funding round at a target valuation of approximately $10 billion (70 billion yuan). Tencent has committed as an investor and will also commercialize DeepSeek's V4-Pro model, which the company has set a May 27 public launch date for. The fundraise signals a strategic shift from pure research toward revenue generation and commercial-scale deployment.
+DeepSeek, the Chinese AI lab whose open-weight models rattled the AI industry earlier this year, is pursuing its first external funding round at a target valuation of approximately $10 billion (70 billion yuan). Tencent has committed as an investor and will also commercialize DeepSeek's V4-Pro model, which the company has set a May 27 public launch date for. The fundraise signals a strategic shift from pure research toward revenue generation and commercial-scale deployment. A GF
 
 <!-- graph:start -->
 ## Connections

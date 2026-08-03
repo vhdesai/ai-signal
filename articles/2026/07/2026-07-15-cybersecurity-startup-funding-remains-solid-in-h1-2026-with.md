@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-09-2026-06-16-cyber-startup-ent-raises-100-million-in-seed-fund
+- 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
 - 2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a
 - 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 - 2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record
@@ -36,5 +37,5 @@ Cybersecurity startup funding remains solid in H1 2026, with AI-driven security 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-2026-06-16-cyber-startup-ent-raises-100-million-in-seed-fund]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record]]
+**Related:** [[2026-06-09-2026-06-16-cyber-startup-ent-raises-100-million-in-seed-fund]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]] · [[2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record]]
 <!-- graph:end -->

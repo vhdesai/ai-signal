@@ -9,10 +9,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 504fe082ba216ba76fd0a912c25f7c15e3aa3331a6a5fd7f6dbc3104befe064b
+content_hash: f69351029bc2667e055a9518506f54a6ec65b8df98cb5ccaf4e60d78b51775f1
 normalized_title_hash: 2724fc85c25f2ce2
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Alibaba
 - ByteDance
@@ -34,7 +35,7 @@ event_name: ''
 
 # Beijing Weighs Restricting Overseas Access to Advanced Chinese Models; Platforms Curb AI Companion Features
 
-Reuters reports that Chinese authorities recently met with Alibaba, ByteDance, Z.ai, and others to weigh restricting overseas access to advanced Chinese models — a notable inversion of the usual U.S.-export-control framing. Separately, ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's new anthropomorphic-AI rules. Read at TechNode →https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/
+Reuters reports that Chinese authorities recently met with Alibaba, ByteDance, Z.ai, and others to weigh restricting overseas access to advanced Chinese models — a notable inversion of the usual U.S.-export-control framing. Separately, ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent creation features on July 15, aligning with China's new anthropomorphic-AI rules. Read at TechNode →https://technode.com/2026/07/06/bytedances-doubao-and-alibabas-qwen-to-shut-down-ai-agent-features-on-july-15/ POLICY
 
 <!-- graph:start -->
 ## Connections

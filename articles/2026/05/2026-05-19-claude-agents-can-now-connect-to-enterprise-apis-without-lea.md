@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: b734760daaf2a1aed842ff8845a7ca74e7bb1729ac24eda040e8d8ce44ec87b2
 normalized_title_hash: 9f5789a79335e69e
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities:
 - Anthropic
 themes:

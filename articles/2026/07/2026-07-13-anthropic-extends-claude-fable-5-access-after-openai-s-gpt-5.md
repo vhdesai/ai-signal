@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 1
 content_hash: a9e411d01ff690d23197a00effc3961dcc26ae3cc488dd85ad64e04aac2e48af
 normalized_title_hash: 38dc0e468072714d
 canonical_url_hash: 96b040880516a2c3
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - OpenAI

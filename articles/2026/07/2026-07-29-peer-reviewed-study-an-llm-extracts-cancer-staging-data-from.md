@@ -9,7 +9,7 @@ url_canonical: https://markets.businessinsider.com/news/stocks/truveta-language-
 url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: 997271ba447d6d7da41623be193367b425761224baa463ddc522adac62b9fc8c
+content_hash: c433c3501fce671a95e758f72e3e4f129b14beef80daf5d0d9c538a453c1747f
 normalized_title_hash: 565350d3485dcdc3
 canonical_url_hash: bf1ebad0dddffad6
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Peer-reviewed study: an LLM extracts cancer-staging data from clinical notes at scale
 
-Truveta published a peer-reviewed study in JCO Clinical Cancer Informatics showing its oncology language model (TLM-Oncology) can extract complex cancer-staging information from unstructured clinical documentation with high precision and at large scale. Cancer stage is among the most important — and hardest to structure — variables in oncology research. If the approach generalizes, it could accelerate real-world-evidence generation and trial matching, and it is a concrete example of applied LLMs inside regulated healthcare workflows.
+Truveta published a peer-reviewed study in JCO Clinical Cancer Informatics showing its oncology language model (TLM-Oncology) can extract complex cancer-staging information from unstructured clinical documentation with high precision and at large scale. Cancer stage is among the most important — and hardest to structure — variables in oncology research. If the approach generalizes, it could accelerate real-world-evidence generation and trial matching, and it is a concrete example of applied LLMs inside regulated healthcare workflows. Academic Research RESEARCH ACADEMIC
 
 <!-- graph:start -->
 ## Connections

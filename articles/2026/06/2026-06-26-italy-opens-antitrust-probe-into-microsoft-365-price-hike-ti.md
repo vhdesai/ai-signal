@@ -8,10 +8,11 @@ url_canonical: https://www.ansa.it/english/news/business/2026/06/26/antitrust-op
 url_status: found
 digest_source: digests\raw\2026-06-26_060525_Inbox_Daily AI News Digest - June 26,
   2026.md
-content_hash: 5ed3fb166af0436c1fcf51ea3e144fc9a97ea4e7a208c30ab7db1ec79f5f2e35
+content_hash: 6d91385b74e7e71a52f7d188d9e93bb310a6d71e0d9300225d78daf637c193c4
 normalized_title_hash: 613e20638adef43d
 canonical_url_hash: 09d58211cc09fba6
-tags: []
+tags:
+- Hot
 entities:
 - Microsoft
 themes:
@@ -30,7 +31,7 @@ event_name: ''
 
 # Italy opens antitrust probe into Microsoft 365 price hike tied to Copilot integration
 
-Italy’s competition authority (AGCM) opened an investigation into Microsoft Ireland Operations and Microsoft S.r.l. over the Microsoft 365 price increase, alleging consumers were not adequately told the service had been integrated with the Copilot and Designer AI tools. Regulators said users were defaulted onto a more expensive plan unless they actively opted out, calling the practice potentially “aggressive” for limiting consumer choice. Microsoft was not immediately available for comment.
+Italy’s competition authority (AGCM) opened an investigation into Microsoft Ireland Operations and Microsoft S.r.l. over the Microsoft 365 price increase, alleging consumers were not adequately told the service had been integrated with the Copilot and Designer AI tools. Regulators said users were defaulted onto a more expensive plan unless they actively opted out, calling the practice potentially “aggressive” for limiting consumer choice. Microsoft was not immediately available for comment. SECURITY OPEN SOURCE
 
 <!-- graph:start -->
 ## Connections

@@ -16,7 +16,6 @@ tags:
 entities:
 - Meta
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -34,6 +33,6 @@ Meta unveiled Muse Image, a new AI image generator built by its Meta Superintell
 ## Connections
 
 **Entities:** [[Meta]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-07-meta-launches-muse-image-drawing-immediate-backlash-over-use]]
 <!-- graph:end -->

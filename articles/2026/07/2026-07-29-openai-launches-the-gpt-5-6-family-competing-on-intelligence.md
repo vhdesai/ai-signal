@@ -8,7 +8,7 @@ url_canonical: https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
 url_status: found
 digest_source: digests\raw\2026-07-30_060824_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: f31b5ab9cb854ee9d3f229024a0b3e5ddd3979a8cc91a47395d5fd8761f97bb8
+content_hash: 8b6f25ca934e6b4cde385c24e4bdd8c25922ead73f8cdbf29d3c4c132fc9931a
 normalized_title_hash: 3d159c8bbe1faac1
 canonical_url_hash: 11ad9c1a8739323f
 tags:
@@ -28,7 +28,7 @@ event_name: ''
 
 # OpenAI launches the GPT-5.6 family, competing on intelligence-per-dollar
 
-OpenAI introduced GPT-5.6, a model family spanning a flagship "Sol," a mid-tier "Terra," and a low-cost "Luna," emphasizing efficiency across models, inference, and its agentic harness. OpenAI says Sol at maximum reasoning beats a leading competitor on a coding-agent benchmark at under half the cost, Terra matches GPT-5.5 intelligence at half the price, and Luna is priced ~80% below Sol. The release reframes the frontier around cost-efficiency rather than raw capability alone. Expect renewed price/performance pressure across enterprise AI procurement.
+OpenAI introduced GPT-5.6, a model family spanning a flagship "Sol," a mid-tier "Terra," and a low-cost "Luna," emphasizing efficiency across models, inference, and its agentic harness. OpenAI says Sol at maximum reasoning beats a leading competitor on a coding-agent benchmark at under half the cost, Terra matches GPT-5.5 intelligence at half the price, and Luna is priced ~80% below Sol. The release reframes the frontier around cost-efficiency rather than raw capability alone. Expect renewed price/performance pressure across enterprise AI procurement. Products & Tools PRODUCT
 
 <!-- graph:start -->
 ## Connections

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
+- 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
-- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
-- 2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test
-- 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
-- 2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou
+- 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
+- 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
 embedding_id: 2026-07-22-amazon-heads-into-earnings-with-wall-street-betting-big-on-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]] · [[2026-07-27-big-tech-s-ai-capex-faces-its-first-real-earnings-week-test]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]]
+**Related:** [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]]
 <!-- graph:end -->

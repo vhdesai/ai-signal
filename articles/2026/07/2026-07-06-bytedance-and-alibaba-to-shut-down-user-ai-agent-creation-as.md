@@ -17,7 +17,7 @@ entities:
 - Alibaba
 - ByteDance
 themes:
-- policy-regulation
+- datacenter-infrastructure
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +35,6 @@ ByteDance's Doubao and Alibaba's Qwen will discontinue user-facing AI-agent crea
 ## Connections
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Canonical:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]]
 <!-- graph:end -->

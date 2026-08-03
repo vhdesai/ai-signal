@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 134
+member_count: 139
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 134 connected article(s).
+> Auto-generated entity hub. 139 connected article(s).
 
+- `2026-08-03` [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny|Oracle's AI infrastructure bet draws renewed scrutiny]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-oracle-expands-google-gemini-embedding-urges-faster-ai-drive|Oracle expands Google Gemini embedding; urges faster, AI-driven patching]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names|Gartner's 2026 Cloud AI Infrastructure Magic Quadrant names AWS, Google, Microsoft, Oracle as leaders]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]

@@ -17,7 +17,7 @@ entities:
 - NVIDIA
 - xAI
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +39,6 @@ xAI shipped two updates in the window: Skills (persistent expertise that Grok 4.
 ## Connections
 
 **Entities:** [[NVIDIA]] · [[xAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-25-xai-s-grok-officially-integrated-into-openclaw-via-oauth]] · [[2026-05-25-xai-made-grok-4-3-the-default-model-option-inside-the-nvidia]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-27-xai-launches-grok-integration-in-kilo-code]] · [[2026-05-14-xai-launches-grok-build-agentic-cli-for-autonomous-software]]
 <!-- graph:end -->

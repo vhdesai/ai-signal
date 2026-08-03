@@ -13,7 +13,8 @@ normalized_title_hash: 037e23a1397ac02e
 canonical_url_hash: ''
 tags: []
 entities: []
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,5 +33,6 @@ Axios reports that unionized workers are increasingly negotiating around AI depl
 <!-- graph:start -->
 ## Connections
 
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-09-google-deepmind-uk-staff-vote-98-to-unionize-over-pentagon-a]] · [[2026-05-12-google-deepmind-uk-staff-vote-98-to-unionize-over-classified]] · [[2026-05-21-in-a-historic-vote-google-deepmind-uk-employees-voted-98-in]]
 <!-- graph:end -->

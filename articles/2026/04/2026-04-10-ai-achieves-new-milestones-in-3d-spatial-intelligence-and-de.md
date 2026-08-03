@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl
 - 2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
-- 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
+- 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
 embedding_id: 2026-04-10-ai-achieves-new-milestones-in-3d-spatial-intelligence-and-de
 event_name: ''
 ---
@@ -35,5 +35,5 @@ AI Achieves New Milestones in 3D Spatial Intelligence and Depth Perception April
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-10-research-details-how-depth-estimation-foundation-segmentatio]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]]
+**Related:** [[2026-04-10-research-details-how-depth-estimation-foundation-segmentatio]] · [[2026-05-02-stanford-hai-2026-ai-index-capability-is-accelerating-not-pl]] · [[2026-05-05-per-the-stanford-ai-index-agentic-ai-benchmarks-saw-the-most]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]]
 <!-- graph:end -->

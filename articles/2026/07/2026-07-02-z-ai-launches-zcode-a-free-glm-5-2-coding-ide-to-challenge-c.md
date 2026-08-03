@@ -16,6 +16,7 @@ tags: []
 entities:
 - Google
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -34,6 +35,6 @@ Beijing-based Z.ai (formerly Zhipu AI) released ZCode, a free desktop "Agentic D
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]]
 <!-- graph:end -->

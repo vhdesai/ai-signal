@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
 - 2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g
 - 2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw
-- 2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc
+- 2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en
 embedding_id: 2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Alphabet raised its 2026 AI capital-spending guidance to roughly $205 billion an
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-06-03-alphabet-finalizes-record-85b-equity-raise-for-ai-infrastruc]]
+**Related:** [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]] · [[2026-06-02-alphabet-launches-80b-equity-raise-with-10b-berkshire-hathaw]] · [[2026-07-26-alphabet-leans-on-neoclouds-conceding-it-can-t-build-fast-en]]
 <!-- graph:end -->

@@ -19,7 +19,7 @@ entities:
 - NVIDIA
 - OpenAI
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -40,6 +40,6 @@ OpenAI disclosed plans for Jalapeño, a custom inference chip built with Broadco
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]] · [[Intel]] · [[NVIDIA]] · [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-06-25-openai-unveils-its-first-custom-chip-jalape-o-with-broadcom]] · [[2026-07-07-reuters-deepseek-developing-its-own-inference-chip-to-cut-nv]] · [[2026-07-07-deepseek-developing-its-own-ai-inference-chip-to-cut-nvidia]]
 <!-- graph:end -->

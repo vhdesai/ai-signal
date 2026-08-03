@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-22_060455_Inbox_Daily AI News Digest - July 22,
   2026.md
-content_hash: 07a840d009a0f8b638c907fa7abee07e400e87e1228c4d62cabdfd5bdbb4b839
+content_hash: 2e430268a2a434f7f8fdce41b5fb18cd912a89cf6fda229fe315217122312f52
 normalized_title_hash: f033596b77eda312
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - AMD
 - Anthropic
@@ -33,7 +34,7 @@ event_name: ''
 
 # AMD and Anthropic sign major chips-and-investment deal
 
-WSJ reports that AMD and Anthropic signed a major chips-and-investment agreement. The deal signals that frontier labs are broadening accelerator supply beyond NVIDIA as training and inference needs continue to outpace available capacity.
+WSJ reports that AMD and Anthropic signed a major chips-and-investment agreement. The deal signals that frontier labs are broadening accelerator supply beyond NVIDIA as training and inference needs continue to outpace available capacity. AI POLICYRESEARCH FUNDINGU.S. GOVERNMENT
 
 <!-- graph:start -->
 ## Connections

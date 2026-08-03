@@ -11,12 +11,13 @@ digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 1
 content_hash: 5c943ccadbc8e968e50adb80df7a53e993a8c8a8817cafaee465cf2a4d048283
 normalized_title_hash: c86712ee948b4dd0
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Amazon
 - Meta
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m
@@ -33,6 +34,6 @@ At the UN's AI for Good summit, Amazon CTO Werner Vogels said enterprises alarme
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-10-amazon-cto-enterprises-are-shifting-to-cheaper-open-source-m]]
 <!-- graph:end -->

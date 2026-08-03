@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 62
+member_count: 67
 ---
 
 # AMD
 
-> Auto-generated entity hub. 62 connected article(s).
+> Auto-generated entity hub. 67 connected article(s).
 
+- `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
+- `2026-08-01` [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper|AMD ships Instella-MoE-16B-A3B, a fully open Mixture-of-Experts LLM trained on its own GPUs]]
+- `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts|AMD releases Instella-MoE-16B-A3B, an open mixture-of-experts model trained on Instinct GPUs]]
+- `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-a-fully-open-mixture-of-ex|AMD releases Instella-MoE-16B-A3B, a fully open Mixture-of-Experts LLM trained on Instinct GPUs]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-28` [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow|Hyperscalers Forecast $5.3 Trillion Capex Through 2030; Borrowing $400B This Year Alone]]
 - `2026-07-28` [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient|AMD locks up 529 MW of data-center capacity from Core Scientific in $14B, 15-year deal]]
 - `2026-07-27` [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker|Global chip rout deepens; Korea's Kospi trips circuit-breaker]]

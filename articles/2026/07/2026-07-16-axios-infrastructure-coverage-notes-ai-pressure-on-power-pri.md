@@ -22,9 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
+- 2026-07-13-infrastructure-local-policy-data-centers
 - 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
-- 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
-- 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
 embedding_id: 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
 event_name: ''
 ---
@@ -37,5 +36,5 @@ Axios/infrastructure coverage notes AI pressure on power prices, water use, and 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]] · [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]]
+**Related:** [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-13-infrastructure-local-policy-data-centers]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
 <!-- graph:end -->

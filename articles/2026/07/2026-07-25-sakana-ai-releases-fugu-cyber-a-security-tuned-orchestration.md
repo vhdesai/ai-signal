@@ -11,11 +11,11 @@ digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 2
 content_hash: e0abe8d0e511c72980abaa0c0c046e3b77944342244c84effaa1fac1af05d841
 normalized_title_hash: 6954868842fac49d
 canonical_url_hash: 48ac63b2e556b9e0
-tags: []
+tags:
+- New
 entities:
 - Microsoft
 themes:
-- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -38,6 +38,6 @@ Sakana AI released Fugu-Cyber, a security-tuned orchestration model built on its
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-06-22-sakana-ai-launches-fugu-orchestration-model-that-routes-acro]] · [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-a-claude-code-compatible]] · [[2026-05-07-sakana-ai-trains-7b-model-to-orchestrate-gpt-5-claude-and-ge]]
 <!-- graph:end -->

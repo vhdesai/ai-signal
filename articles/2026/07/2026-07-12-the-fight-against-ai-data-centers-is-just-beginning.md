@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
-content_hash: d80aadc9855b802b5847431ff5ac4d5ed74bf204cf5bfb6b565bc9eda9e5cbc1
+content_hash: 39cd8baf8806e0310997f05f9afcfd56144786acf2708d1cd4c415fdbcc0860e
 normalized_title_hash: f3e5fda619c8b55e
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # The fight against AI data centers is just beginning
 
-The Verge reported that opposition to AI data center expansion is accelerating across the United States, with local groups challenging projects over water, power prices, pollution, and grid impacts. For technology leaders, the takeaway is that AI infrastructure planning now requires community, energy, and regulatory strategy — not just site selection, GPUs, and power contracts.
+The Verge reported that opposition to AI data center expansion is accelerating across the United States, with local groups challenging projects over water, power prices, pollution, and grid impacts. For technology leaders, the takeaway is that AI infrastructure planning now requires community, energy, and regulatory strategy — not just site selection, GPUs, and power contracts. AI-INFLATIONGOLDMAN-SACHSMACRO-RISK
 
 <!-- graph:start -->
 ## Connections

@@ -8,14 +8,13 @@ url_canonical: https://www.nature.com/articles/s41550-026-02910-w
 url_status: found
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: 44a3b6e507e05c1a68b4dfa1a3f040212dbcab531d154004a901cca4b246fce4
+content_hash: 4615f3958386f19a10fe438f7b115770a4c61b3d92c0dbbf1061eef7f6818aa6
 normalized_title_hash: 11592bd48afcf6c8
 canonical_url_hash: b8a6ba52990f4856
-tags:
-- New
+tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
@@ -26,11 +25,11 @@ event_name: ''
 
 # Nature frames multimessenger astronomy as a training ground for frontier AI
 
-A Nature Astronomy Perspective argues that multimessenger astronomy's data deluge — combining electromagnetic, gravitational-wave, and neutrino signals — is an ideal proving ground for physics-informed frontier AI. The authors frame the domain as one where AI can deliver transformative assistance while being disciplined by hard physical constraints.
+A Nature Astronomy Perspective argues that multimessenger astronomy's data deluge — combining electromagnetic, gravitational-wave, and neutrino signals — is an ideal proving ground for physics-informed frontier AI. The authors frame the domain as one where AI can deliver transformative assistance while being disciplined by hard physical constraints. AI Safety & Policy BREAKING COPYRIGHT
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
 <!-- graph:end -->

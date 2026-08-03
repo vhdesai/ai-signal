@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 65
+member_count: 70
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 65 connected article(s).
+> Auto-generated entity hub. 70 connected article(s).
 
+- `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
+- `2026-07-31` [[2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand|Samsung and SK hynix post record profits as AI memory demand surges]]
+- `2026-07-30` [[2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me|Samsung posts record profit, up 1,814% year-over-year, on AI memory demand]]
+- `2026-07-30` [[2026-07-30-samsung-posts-record-profit-as-hbm-and-ai-memory-demand-surg|Samsung Posts Record Profit as HBM and AI Memory Demand Surges]]
 - `2026-07-27` [[2026-07-27-global-chip-rout-deepens-korea-s-kospi-trips-circuit-breaker|Global chip rout deepens; Korea's Kospi trips circuit-breaker]]
 - `2026-07-26` [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san|Samsung and SK anchor a ~$950B Korean AI build-out under a “San Francisco AI Declaration”]]
 - `2026-07-25` [[2026-07-25-samsung-sds-signs-anthropic-partnership-rolling-claude-out-t|Samsung SDS signs Anthropic partnership, rolling Claude out to ~70,000 employees]]
@@ -26,6 +30,7 @@ member_count: 65
 - `2026-07-20` [[2026-07-20-google-s-frozen-chip-samsung-as-memory-chip-underdog-apple-d|Google's Frozen chip; Samsung as memory-chip underdog; Apple/DOJ settlement talks; Moonshot IPO; Alibaba model;…]]
 - `2026-07-20` [[2026-07-20-google-frozen-chip-samsung-memory-chip-positioning-apple-doj|Google Frozen chip; Samsung/memory-chip positioning; Apple/DOJ talks; Alibaba model; Moonshot IPO; SpaceX/Alphabet…]]
 - `2026-07-13` [[2026-07-13-samsung-pulls-first-yongin-fab-forward-to-2029-for-ai-memory|Samsung pulls first Yongin fab forward to 2029 for AI memory]]
+- `2026-07-13` [[2026-07-13-semiconductors-samsung-capacity|SEMICONDUCTORS SAMSUNG CAPACITY]]
 - `2026-07-13` [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill|Capital and governance outran the model race. Four multi-billion-dollar infrastructure commitments — Meta, Intel, Samsung, TSMC — landed in one day. 200+ economists (15 Nobel laureates) warned on AI labor disruption, Xi will keynote next week's World AI Conference, and a security teardown found xAI's Grok CLI uploads entire repos including secrets. Nine items follow.]]
 - `2026-07-12` [[2026-07-12-july-13-2026|July 13, 2026]]
 - `2026-07-10` [[2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab|U.S. officials urge AI memory suppliers to build domestic fabs]]

@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-27_065226_Inbox_Daily AI News Digest - July 2
 content_hash: 996a77f6a71ba3155f2dc85acfd98e9b29df13ec147225c57ad081a0184a60ad
 normalized_title_hash: 25d174e49375ed65
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - datacenter-infrastructure

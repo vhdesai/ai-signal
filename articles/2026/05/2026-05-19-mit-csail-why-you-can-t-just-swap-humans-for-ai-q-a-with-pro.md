@@ -36,7 +36,7 @@ entities:
 - Tencent
 - xAI
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -44,9 +44,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 - 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
+- 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 - 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 - 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
-- 2026-05-02-cmu-collaborators-publish-human-ai-teaming-complementarity-f
 embedding_id: 2026-05-19-mit-csail-why-you-can-t-just-swap-humans-for-ai-q-a-with-pro
 event_name: ''
 ---
@@ -59,6 +59,6 @@ MIT CSAIL Professor Armando Solar-Lezama argues in a published Q&A that the most
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-05-02-cmu-collaborators-publish-human-ai-teaming-complementarity-f]]
+**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Related:** [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]]
 <!-- graph:end -->

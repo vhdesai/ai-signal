@@ -9,14 +9,14 @@ url_canonical: https://www.unite.ai/nvidia-wires-physics-simulation-into-its-ai-
 url_status: found
 digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 28,
   2026.md
-content_hash: 86365df8b6001158a286d5951b2034e93246642de5ea179fd25bd9c30fb37271
+content_hash: 3cbc8b4a477e3455f91da257d1bbec73c9645aabe1b262ed9e32923cd951d56b
 normalized_title_hash: b348a9cc69776a54
 canonical_url_hash: 990fd4da77cbff6c
 tags: []
 entities:
 - NVIDIA
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,12 +32,12 @@ event_name: ''
 
 # Nvidia extends its Agent Toolkit with PhysicsNeMo and CUDA-X for engineering agents
 
-Nvidia expanded its Agent Toolkit to add PhysicsNeMo and CUDA-X libraries as agent-ready tools and skills, wiring physics simulation directly into AI-agent workflows for engineering, design, and manufacturing. The move targets a concrete enterprise gap — letting agents reason over simulation and physical-systems data rather than text alone. It positions Nvidia further up the software stack as it competes to own the agent-orchestration layer, not just the silicon beneath it.
+Nvidia expanded its Agent Toolkit to add PhysicsNeMo and CUDA-X libraries as agent-ready tools and skills, wiring physics simulation directly into AI-agent workflows for engineering, design, and manufacturing. The move targets a concrete enterprise gap — letting agents reason over simulation and physical-systems data rather than text alone. It positions Nvidia further up the software stack as it competes to own the agent-orchestration layer, not just the silicon beneath it. DEVELOPER TOOLS ANALYSIS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for]] · [[2026-06-30-nvidia-and-university-partners-introduce-aspire-a-self-impro]] · [[2026-07-05-nvidia-releases-horizon-a-hands-free-agent-framework-for-har]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]]
 <!-- graph:end -->

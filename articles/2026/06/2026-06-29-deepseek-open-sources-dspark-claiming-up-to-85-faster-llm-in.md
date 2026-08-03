@@ -8,7 +8,7 @@ url_canonical: https://venturebeat.com/orchestration/deepseek-open-sources-dspar
 url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: 52bce8907d1089862080956027bfa5a5a56bd8aa884deecadf49141665425bbf
+content_hash: cd0443af90c56c32cd25b36273ccb49e64db41c2972afc873a22096fe616ed70
 normalized_title_hash: 50f32c173bcad116
 canonical_url_hash: 3a0d8840158598fd
 tags: []
@@ -16,6 +16,7 @@ entities:
 - DeepSeek
 themes:
 - model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -32,12 +33,12 @@ event_name: ''
 
 # DeepSeek open-sources DSpark, claiming up to 85% faster LLM inference
 
-DeepSeek released DSpark, an MIT-licensed speculative-decoding framework that speeds up inference without changing model outputs, alongside a technical paper, model checkpoints, and the DeepSpec training codebase. In production tests it delivered 60–85% faster per-user generation on DeepSeek-V4-Flash and 57–78% on V4-Pro versus its prior baseline, with far larger aggregate-throughput gains under strict latency targets. Because the method generalizes to other open-weight families such as Qwen and Gemma, it pressures inference economics industry-wide and reinforces DeepSeek's open posture amid tightening U.S.–China AI tensions.
+DeepSeek released DSpark, an MIT-licensed speculative-decoding framework that speeds up inference without changing model outputs, alongside a technical paper, model checkpoints, and the DeepSpec training codebase. In production tests it delivered 60–85% faster per-user generation on DeepSeek-V4-Flash and 57–78% on V4-Pro versus its prior baseline, with far larger aggregate-throughput gains under strict latency targets. Because the method generalizes to other open-weight families such as Qwen and Gemma, it pressures inference economics industry-wide and reinforces DeepSeek's open posture amid tightening U.S.–China AI tensions. Industry & Business FUNDING CHINA
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[DeepSeek]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-06-27-deepseek-open-sources-dspark-accelerating-v4-inference-60-85]] · [[2026-06-30-deepseek-released-dspark-an-mit-licensed-speculative-decodin]] · [[2026-06-28-deepseek-released-dspark-an-open-source-speculative-decoding]] · [[2026-06-30-deepseek-open-sources-dspark-an-mit-licensed-framework-that]] · [[2026-06-28-deepseek-open-sources-dspark-accelerating-deepseek-v4-infere]]
 <!-- graph:end -->

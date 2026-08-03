@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-05-07-their-student-debt-mysteriously-vanished-2026-05-07-business
 - 2026-05-07-student-debt-spiral-2026-05-07-business-insider
 - 2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov
+- 2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni
 embedding_id: 2026-05-07-their-student-loan-lender-said-their-debt-was-gone
 event_name: ''
 ---
@@ -33,5 +34,5 @@ Their student-loan lender said their debt was gone. The lawsuit said otherwise. 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-07-their-student-debt-mysteriously-vanished-2026-05-07-business]] · [[2026-05-07-student-debt-spiral-2026-05-07-business-insider]] · [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]]
+**Related:** [[2026-05-07-their-student-debt-mysteriously-vanished-2026-05-07-business]] · [[2026-05-07-student-debt-spiral-2026-05-07-business-insider]] · [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]] · [[2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni]]
 <!-- graph:end -->

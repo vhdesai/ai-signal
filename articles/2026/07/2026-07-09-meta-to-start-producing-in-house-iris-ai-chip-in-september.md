@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-10_082135_Inbox_Fw Daily AI News Digest - July
   10, 2026.md
-content_hash: 9a97bdb11e546af2350cbca4cce052e621744ba6cb19e6114a54c64feda6026a
+content_hash: d5985f8997984f1eac0e9900a568d7148810eb70d2ca5c2bf17213cc93f93546
 normalized_title_hash: 51605421f9f5e33c
 canonical_url_hash: ''
 tags:
@@ -28,7 +28,7 @@ event_name: ''
 
 # Meta to start producing in-house Iris AI chip in September
 
-An internal memo reviewed by Reuters says Meta plans to begin manufacturing its in-house “Iris” data-center AI chip in September. Meta reportedly aims for roughly 7 GW of compute this year and 14 GW in 2027. The move reduces Nvidia dependence and deepens Meta's vertical integration across model development, inference, and infrastructure.
+An internal memo reviewed by Reuters says Meta plans to begin manufacturing its in-house “Iris” data-center AI chip in September. Meta reportedly aims for roughly 7 GW of compute this year and 14 GW in 2027. The move reduces Nvidia dependence and deepens Meta's vertical integration across model development, inference, and infrastructure. HOT MEMORY
 
 <!-- graph:start -->
 ## Connections

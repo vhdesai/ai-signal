@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-01_081907_Inbox_Daily AI News Digest – June
 content_hash: 4348e23956f8bfd43865766b7d83f542a566f941a7cf9572f05e78b9a9d59123
 normalized_title_hash: a83eb0fb43b26886
 canonical_url_hash: ef1eacc8b6e5af4d
-tags: []
+tags:
+- Breaking
 entities:
 - NVIDIA
 themes:

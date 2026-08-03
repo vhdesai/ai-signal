@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-05-19_071414_Inbox_Daily AI News Digest – May 19,
   2026.md
-content_hash: 244f0e0ef404adccf7eaebbeea2a316075ad888f46a5e211efc2b265f56098f6
+content_hash: dbfa33d1fe0dbeb3c4c3defcf865345f69e233aca31cca42c27e25272a29a196
 normalized_title_hash: d70c4211e7c8a027
 canonical_url_hash: ''
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # Meta to Cut 8,000 Jobs While Raising AI Infrastructure Capex to $145 Billion
 
-Meta is preparing to slash approximately 8,000 jobs — roughly 10% of its workforce — with the restructuring beginning May 20. Simultaneously, the company raised its 2026 capital expenditure plan to as much as $145 billion, nearly all targeted at AI infrastructure. The contrast is stark: Meta is cutting from a position of record ad revenue strength, not weakness — shrinking human headcount while scaling compute. An additional 6,000 open roles will be left unfilled, signaling the company's belief that AI productivity will compensate.
+Meta is preparing to slash approximately 8,000 jobs — roughly 10% of its workforce — with the restructuring beginning May 20. Simultaneously, the company raised its 2026 capital expenditure plan to as much as $145 billion, nearly all targeted at AI infrastructure. The contrast is stark: Meta is cutting from a position of record ad revenue strength, not weakness — shrinking human headcount while scaling compute. An additional 6,000 open roles will be left unfilled, signaling the company's belief that AI productivity will compensate. Hot Funding
 
 <!-- graph:start -->
 ## Connections

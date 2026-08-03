@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r
-- 2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc
+- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
 embedding_id: 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AI coding startup Lovable—which recently signed a multi-year Google Cloud deal
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r]] · [[2026-05-08-replit-ceo-amjad-masad-disclosed-at-techcrunch-s-strictlyvc]]
+**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-07-15-indian-ai-coding-startup-emergent-raises-130m-series-c-and-r]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]]
 <!-- graph:end -->

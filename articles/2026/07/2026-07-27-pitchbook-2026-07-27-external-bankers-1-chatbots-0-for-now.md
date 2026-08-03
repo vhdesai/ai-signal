@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
+- 2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics
 embedding_id: 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-27] [EXTERNAL] Bankers 1, Chatbots 0 (for now)
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]]
+**Related:** [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics]]
 <!-- graph:end -->

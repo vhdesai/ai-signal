@@ -8,7 +8,7 @@ url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=Google
 url_status: found
 digest_source: digests\raw\2026-07-14_060635_Inbox_Daily AI News Digest - July 14,
   2026.md
-content_hash: 8da5c2f82ffdf2c3631f1a5d461aa44578560f47d4e1907e958852d9fefe0246
+content_hash: 8a930a1cb9ccc95d106cd39c0c09790e8b9e2726d9e51e4cf1864011c00a5f4c
 normalized_title_hash: 34bb0b800eb1b84f
 canonical_url_hash: a55581b45419a495
 tags: []
@@ -17,6 +17,7 @@ entities:
 - NVIDIA
 themes:
 - datacenter-infrastructure
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,12 +33,12 @@ event_name: ''
 
 # Google pushes TPUs against Nvidia's most loyal customers
 
-The Information reports that Google is mounting a TPU campaign to win customers historically committed to Nvidia GPUs. The competitive importance is not just chip substitution; it is a broader attempt to use vertically integrated cloud infrastructure to reshape AI compute purchasing. If successful, the effort could increase buyer leverage and pressure Nvidia's software-and-ecosystem moat.
+The Information reports that Google is mounting a TPU campaign to win customers historically committed to Nvidia GPUs. The competitive importance is not just chip substitution; it is a broader attempt to use vertically integrated cloud infrastructure to reshape AI compute purchasing. If successful, the effort could increase buyer leverage and pressure Nvidia's software-and-ecosystem moat. INFRASTRUCTUREDATA CENTERSPOLICY
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]] · [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
 **Related:** [[2026-05-18-bloomberg-reported-monday-that-google-has-sold-so-much-tpu-c]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-18-google-s-internal-tpu-crunch-research-teams-squeezed-as-comm]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

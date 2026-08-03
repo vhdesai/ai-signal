@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil
 - 2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million
+- 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
 - 2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk
 - 2026-03-10-ai-security-startup-kai-raises-125-million-2026-03-10-wsj-pr
-- 2026-07-16-cyber-m-a-pushed-by-ai-appetite-hackers-claiming-nuclear-pla
 embedding_id: 2026-07-20-neo-raises-100m-from-stealth-coca-cola-hack-cyber-ai-startup
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Neo raises $100M from stealth; Coca-Cola hack; cyber/AI startup security context
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]] · [[2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-03-10-ai-security-startup-kai-raises-125-million-2026-03-10-wsj-pr]] · [[2026-07-16-cyber-m-a-pushed-by-ai-appetite-hackers-claiming-nuclear-pla]]
+**Related:** [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]] · [[2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-05-29-ceos-now-fear-cyberattacks-more-than-any-other-business-risk]] · [[2026-03-10-ai-security-startup-kai-raises-125-million-2026-03-10-wsj-pr]]
 <!-- graph:end -->

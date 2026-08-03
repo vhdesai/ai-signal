@@ -8,13 +8,15 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: fc33e27fcbc8ec87fbe2df94d1c7f6b668859800caed3a0e61c1ebcdcaf9460a
+content_hash: 453cd66f77e86d5b5ddddbcfa656eecbb264cea5feb76b91e72f391b6d3a3dd2
 normalized_title_hash: dd8b3f4151aee493
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
+- policy-regulation
 - model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,11 +32,11 @@ event_name: ''
 
 # ICML 2026 opens in Seoul
 
-The 43rd International Conference on Machine Learning opened July 6 at Seoul's COEX Center, running through July 11 with a sold-out tutorial and main-conference program. This year's accepted work concentrates on reasoning and post-training, generative and video models, multimodal systems, autonomous agents, and a substantial responsible-AI track. As the field's premier academic venue, ICML is a leading indicator of where research — and next year's products — are heading. 🔗 icml.cc/Conferences/2026https://icml.cc/Conferences/2026
+The 43rd International Conference on Machine Learning opened July 6 at Seoul's COEX Center, running through July 11 with a sold-out tutorial and main-conference program. This year's accepted work concentrates on reasoning and post-training, generative and video models, multimodal systems, autonomous agents, and a substantial responsible-AI track. As the field's premier academic venue, ICML is a leading indicator of where research — and next year's products — are heading. 🔗 icml.cc/Conferences/2026https://icml.cc/Conferences/2026 AI Safety & Policy POLICY SECURITY
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-07-05-no-confirmed-items-in-the-last-24-hours-frontier-model-track]] · [[2026-06-15-arxiv-june-15-listing-icml-uai-and-colt-2026-accepted-papers]] · [[2026-07-05-icml-2026-awards-highlight-diffusion-sampling-diffusion-lang]] · [[2026-07-07-july-7-2026]] · [[2026-05-17-the-inaugural-acm-cais-2026-conference-opens-in-san-jose-on]]
 <!-- graph:end -->

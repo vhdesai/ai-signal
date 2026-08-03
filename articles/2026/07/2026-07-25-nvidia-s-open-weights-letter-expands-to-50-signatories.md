@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-26_065947_Inbox_Daily AI News Digest - July 2
 content_hash: fa5faf114a3a3b088b992dab4cd499686cba396a98c59f40421a4cbb39fed5fc
 normalized_title_hash: 1ff7f77dd9c12ea4
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - AMD
 - Google

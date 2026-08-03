@@ -8,7 +8,7 @@ url_canonical: https://www.hpcwire.com/aiwire/
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: 69b68e71d9f547c96fc281cac73ee55fa78d1c4f1eec0af5208561afcb2d781b
+content_hash: 072f13fb5589c59683f5dbe83509aacc1c576e194f8d6801163cea34617c0de6
 normalized_title_hash: 77802fb929806432
 canonical_url_hash: 4feb40e0d1c8cc9f
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # Linux Foundation Launches DNS-AID for Decentralized AI Agent Discovery
 
-The Linux Foundation announced DNS-AID — a project to build decentralized discovery infrastructure for AI agents, analogous to DNS for the open web. The initiative is positioned as a non-vendor-locked alternative to proprietary agent registries from Anthropic, Google, and OpenAI. For enterprises planning multi-agent architectures, an open registry layer materially reduces lock-in risk in 2026–2027.
+The Linux Foundation announced DNS-AID — a project to build decentralized discovery infrastructure for AI agents, analogous to DNS for the open web. The initiative is positioned as a non-vendor-locked alternative to proprietary agent registries from Anthropic, Google, and OpenAI. For enterprises planning multi-agent architectures, an open registry layer materially reduces lock-in risk in 2026–2027. C
 
 <!-- graph:start -->
 ## Connections

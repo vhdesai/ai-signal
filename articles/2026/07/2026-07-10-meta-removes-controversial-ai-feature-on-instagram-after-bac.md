@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
-content_hash: 76f5b458d44372ca70365b195071454cca0e664d8673b7a54281bb2ef56ed74f
+content_hash: 9bc1fba380386365876aff9c059dd18bdba305cb4e5fbd8752d6a80b28bc3464
 normalized_title_hash: 6e2ca5408c40d23e
 canonical_url_hash: ''
 tags: []
@@ -26,7 +26,7 @@ event_name: ''
 
 # Meta removes controversial AI feature on Instagram after backlash
 
-Meta removed a Muse Image feature that allowed users to generate AI images referencing public Instagram accounts without notifying account owners. The reversal is a useful product-governance case study: consumer AI features involving likeness, creator identity, or public social content need explicit consent architecture before launch, not after public backlash.
+Meta removed a Muse Image feature that allowed users to generate AI images referencing public Instagram accounts without notifying account owners. The reversal is a useful product-governance case study: consumer AI features involving likeness, creator identity, or public social content need explicit consent architecture before launch, not after public backlash. EDUCATIONAI-CHEATINGWORKFORCE-SKILLS
 
 <!-- graph:start -->
 ## Connections

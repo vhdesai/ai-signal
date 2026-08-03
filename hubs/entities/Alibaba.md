@@ -1,13 +1,25 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 232
+member_count: 245
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 232 connected article(s).
+> Auto-generated entity hub. 245 connected article(s).
 
+- `2026-08-03` [[2026-08-03-monday-august-3-2026|Monday, August 3, 2026]]
+- `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
+- `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date|Alibaba unveils Qwen3.8-Max, its most capable model to date]]
+- `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture|Alibaba unveils Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model]]
+- `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate|Alibaba unveils Qwen3.8-Max as China's model race accelerates]]
+- `2026-08-03` [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic|Alibaba says its new AI model can compete with Anthropic]]
+- `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close|Alibaba launches Qwen3.8-Max, its largest model yet, to close the gap with frontier labs]]
+- `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo|Alibaba launches Qwen3.8-Max, its largest and most capable model yet]]
+- `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
+- `2026-07-31` [[2026-07-31-moonshot-s-kimi-cluster-runs-on-20-000-nvidia-chips-leased-f|Moonshot's Kimi cluster runs on ~20,000 Nvidia chips leased from Alibaba]]
+- `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr|Moonshot AI closes $3.5B round as open-weight China models draw scrutiny]]
 - `2026-07-29` [[2026-07-29-ibm-2026-cost-of-a-data-breach-report-ai-involved-in-1-in-4|IBM 2026 Cost of a Data Breach Report: AI involved in ~1 in 4 malicious breaches]]
 - `2026-07-29` [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o|Gartner's 2026 Cloud AI Infrastructure MQ names AWS, Google, Oracle, Microsoft as leaders]]
@@ -219,6 +231,7 @@ member_count: 232
 - `2026-04-22` [[2026-04-22-elon-musk-confirmed-xai-s-colossus-2-macrohard-supercluster|Elon Musk confirmed xAI's Colossus 2 (MACROHARD) supercluster is simultaneously training seven models, including a 6-trillion and a 10-trillion parameter variant — by far the largest publicly confirmed model size in the industry. The Grok Imagine V2 video model and multiple 1–1.5T parameter variants are also in training. Expected release timing is mid-2026, which would mark a significant scale inflection if xAI can close the quality gap alongside raw parameter count.]]
 - `2026-04-22` [[2026-04-22-anthropic-has-signed-a-landmark-agreement-committing-over-10|Anthropic has signed a landmark agreement committing over $100 billion to Amazon's AWS cloud platform over the next decade to train and run its Claude models. Amazon will invest $5 billion immediately plus up to $20 billion more — on top of a prior $8 billion commitment — for a total potential Amazon stake of $33 billion. The deal grants Anthropic access to up to 5 gigawatts of Amazon's custom Trainium chips. This positions AWS as the primary compute backbone for one of the world's leading AI labs, a significant competitive coup against Microsoft Azure and Google Cloud.]]
 - `2026-04-22` [[2026-04-22-alongside-its-hardware-and-agent-announcements-at-cloud-next|Alongside its hardware and agent announcements at Cloud Next, Google Cloud unveiled a $750 million fund to help businesses implement AI solutions faster, with a focus on enterprise digital transformation. The initiative includes expanded AI infrastructure support and training programs. The fund is designed to lower barriers for mid-market and large enterprise adoption of Google's AI stack, fueling demand across Google Cloud, TPU access, and partner ecosystems.]]
+- `2026-04-21` [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview|New Alibaba Ships Qwen 3.6-Max-Preview]]
 - `2026-04-16` [[2026-04-16-deepseek-s-v4-model-is-targeting-a-late-april-launch-with-ap|DeepSeek's V4 model is targeting a late April launch with approximately 1 trillion total parameters (MoE architecture,…]]
 - `2026-04-14` [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig|recent Northern District of California ruling has opened significant legal exposure for social media platforms whose AI systems materially contribute to fraudulent investment advertising. The court found that when a platform's AI exercises "ultimate authority" over assembled ad content, it may be considered a "maker" of fraudulent statements under Rule 10b-5, bypassing traditional Section 230 protections. The decision affects Meta, Alphabet, Snap, TikTok, and X Corp — all of which deploy generative AI in their advertising products — and is expected to reshape AI liability frameworks across the industry.]]
 - `2026-04-12` [[2026-04-12-sifive-founded-by-the-uc-berkeley-engineers-behind-the-risc|SiFive — founded by the UC Berkeley engineers behind the RISC-V open chip architecture — closed an oversubscribed $400M Series G round at a $3.65B valuation, led by Atreides Management with participation from Nvidia, Apollo Global, Point72, T. Rowe Price, and others. SiFive's designs integrate with Nvidia CUDA and NVLink Fusion infrastructure, positioning RISC-V as a potential third major CPU architecture in AI data centers alongside x86 and ARM. The CEO signaled this will likely be the last round before an IPO, with Nvidia's participation representing a notable vote of confidence in open ISA compute infrastructure.]]

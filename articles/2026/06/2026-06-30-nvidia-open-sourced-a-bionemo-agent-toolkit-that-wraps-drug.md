@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
 - 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
+- 2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re
 embedding_id: 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA open-sourced a BioNeMo Agent Toolkit that wraps drug-discovery models—O
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
+**Related:** [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-08-01-nvidia-releases-molt-an-apache-2-0-pytorch-native-agentic-re]]
 <!-- graph:end -->

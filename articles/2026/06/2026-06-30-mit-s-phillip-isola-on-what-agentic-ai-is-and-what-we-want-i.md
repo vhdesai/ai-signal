@@ -34,6 +34,7 @@ entities:
 - Tencent
 - xAI
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics:
 - china-compete
@@ -57,6 +58,6 @@ MIT News interviewed Phillip Isola, an EECS associate professor and CSAIL member
 ## Connections
 
 **Entities:** [[Alibaba]] · [[Amazon]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-22-agents-of-chaos-mit-stanford-cmu-paper-documents-10-critical]] · [[2026-06-25-mit-and-microsoft-build-a-tool-to-make-agentic-workflows-far]] · [[2026-07-07-mit-news-a-novice-coder-built-a-functional-military-prototyp]] · [[2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot]]
 <!-- graph:end -->

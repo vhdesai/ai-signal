@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real
+- 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
 - 2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
-- 2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s
 embedding_id: 2026-05-17-citadel-s-ken-griffin-fairly-depressed-watching-ai-agents-re
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Speaking at Stanford GSB's Leadership Forum, Citadel founder Ken Griffin — unt
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-06-30-ramp-revelio-study-heavy-ai-adopters-grew-headcount-10-not-s]]
+**Related:** [[2026-05-16-ai-work-slop-gets-a-harvard-label-and-a-citadel-shaped-real]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell]] · [[2026-05-26-altman-and-amodei-walk-back-ai-jobs-apocalypse-forecasts]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]]
 <!-- graph:end -->

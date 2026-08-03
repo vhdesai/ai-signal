@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
 - 2026-07-17-microsoft-reportedly-prepares-a-mythos-like-ai-bug-finder-ex
 - 2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod
 - 2026-07-04-serious-cve-reports-jump-3-5x-as-ai-models-start-hunting-bug
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
-- 2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir
 embedding_id: 2026-07-16-microsoft-patches-a-record-570-vulnerabilities-citing-ai-ass
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft patches a record 570 vulnerabilities, citing AI-assisted vulnerability
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-microsoft-reportedly-prepares-a-mythos-like-ai-bug-finder-ex]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-07-04-serious-cve-reports-jump-3-5x-as-ai-models-start-hunting-bug]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-16-security-researchers-leveraging-ai-tools-discovered-the-thir]]
+**Related:** [[2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t]] · [[2026-07-17-microsoft-reportedly-prepares-a-mythos-like-ai-bug-finder-ex]] · [[2026-06-06-miasma-worm-compromises-73-microsoft-github-repos-via-ai-cod]] · [[2026-07-04-serious-cve-reports-jump-3-5x-as-ai-models-start-hunting-bug]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]]
 <!-- graph:end -->

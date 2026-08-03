@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news
 - 2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round
 - 2026-07-18-dealbook-andrew-ross-sorkin-nyt-2026-07-18-external-dealbook
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round
 - 2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round
-- 2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round
 embedding_id: 2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wall Street Journal / WSJ - [2026-07-05] [EXTERNAL] WSJ Politics Special Edition
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-07-18-dealbook-andrew-ross-sorkin-nyt-2026-07-18-external-dealbook]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round]] · [[2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round]]
+**Related:** [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-07-18-dealbook-andrew-ross-sorkin-nyt-2026-07-18-external-dealbook]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-external-your-daily-round]] · [[2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round]]
 <!-- graph:end -->

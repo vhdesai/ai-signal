@@ -8,7 +8,7 @@ url_canonical: https://techxplore.com/news/2026-06-chartnet-ai-boosting-smaller-
 url_status: found
 digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June 5,
   2026 (Updated).md
-content_hash: 32d6ea94f6690ee1ab10c45fc6f1a46d970689a1e81489083da60b17457245ba
+content_hash: 5076bb1045f1238dd49f667b0e78e636c7e7141345926b297a6c69d6ae879d1b
 normalized_title_hash: d3bc1d759e172633
 canonical_url_hash: a2b278232faa8b08
 tags: []
@@ -25,7 +25,7 @@ event_name: ''
 
 # MIT's ChartNet Helps Smaller Models Read Charts Better Than Commercial Rivals
 
-MIT introduced ChartNet, a training dataset that improves vision-language models at interpreting charts. Smaller open models trained on it outperformed larger commercial systems — relevant to automating financial report and scientific figure analysis.
+MIT introduced ChartNet, a training dataset that improves vision-language models at interpreting charts. Smaller open models trained on it outperformed larger commercial systems — relevant to automating financial report and scientific figure analysis. ________________________________ RESEARCH
 
 <!-- graph:start -->
 ## Connections

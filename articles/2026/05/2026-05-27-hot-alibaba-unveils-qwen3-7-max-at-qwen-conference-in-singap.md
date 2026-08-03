@@ -23,8 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close
+- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
-- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 embedding_id: 2026-05-27-hot-alibaba-unveils-qwen3-7-max-at-qwen-conference-in-singap
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Alibaba showcased Qwen3.7-Max — its latest flagship LLM positioned for buildin
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
+**Related:** [[2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]] · [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]]
 <!-- graph:end -->

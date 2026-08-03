@@ -9,7 +9,7 @@ url_canonical: https://www.edgen.tech/news/post/tencent-cloud-to-launch-deepseek
 url_status: found
 digest_source: digests\raw\2026-07-04_062504_Inbox_Daily AI News Digest - July 4,
   2026.md
-content_hash: d1f046f7b333681f9354c9ca54f3d7c26048ef11a097186fd9a25e9a93f9b653
+content_hash: c659a924b077987b6efdcbd6aa61a06d03f2bdf4e6b5b5258a583f3f61f59b4c
 normalized_title_hash: 5353771cfb7c51c2
 canonical_url_hash: 3a06f9ec7ddfa1c9
 tags: []
@@ -33,7 +33,7 @@ event_name: ''
 
 # China's DeepSeek-V4 heads to official release with "peak/off-peak" surge pricing; Tencent Cloud to distribute
 
-Tencent Cloud will carry DeepSeek's "factory-direct" V4 model on its TokenHub marketplace as DeepSeek graduates the model out of preview in mid-July, introducing peak/off-peak pricing that doubles rates during Beijing business hours while holding off-peak costs at today's low baseline (V4-Pro ≈ $0.87 per million output tokens). CSIS analysts peg China's leading models within roughly eight months of the U.S. frontier, and Chinese models now account for about 41% of Hugging Face downloads. The strategic read: China's edge is shifting from raw capability toward distribution and price.
+Tencent Cloud will carry DeepSeek's "factory-direct" V4 model on its TokenHub marketplace as DeepSeek graduates the model out of preview in mid-July, introducing peak/off-peak pricing that doubles rates during Beijing business hours while holding off-peak costs at today's low baseline (V4-Pro ≈ $0.87 per million output tokens). CSIS analysts peg China's leading models within roughly eight months of the U.S. frontier, and Chinese models now account for about 41% of Hugging Face downloads. The strategic read: China's edge is shifting from raw capability toward distribution and price. AI Safety & Policy LEGAL COPYRIGHT
 
 <!-- graph:start -->
 ## Connections

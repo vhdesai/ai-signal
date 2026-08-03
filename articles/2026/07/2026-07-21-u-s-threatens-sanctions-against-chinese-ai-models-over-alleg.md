@@ -14,8 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- policy-regulation
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -36,6 +35,6 @@ Treasury Secretary Scott Bessent said the U.S. could examine Chinese open models
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-27-china-vows-all-necessary-measures-against-a-us-sanctions-thr]] · [[2026-07-28-china-rejects-u-s-claims-that-chinese-ai-firms-are-stealing]] · [[2026-07-27-china-vows-response-to-us-sanctions-threat-against-its-ai-fi]] · [[2026-05-14-u-s-china-ai-diplomacy-bessent-announces-forthcoming-bilater]]
 <!-- graph:end -->

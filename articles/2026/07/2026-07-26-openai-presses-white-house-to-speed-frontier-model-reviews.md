@@ -11,11 +11,12 @@ digest_source: digests\raw\2026-07-27_070014_Inbox_Daily AI News Digest - July 2
 content_hash: bf33b3d4d54b3229a50e337fa142ee6011e4234f9db7d835db3bd736c09a1d80
 normalized_title_hash: 77c64d6edd43afc3
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - OpenAI
 themes:
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model
@@ -32,6 +33,6 @@ Sam Altman is expected to brief the White House on OpenAI’s most capable model
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-26-openai-presses-the-white-house-to-fast-track-frontier-model]]
 <!-- graph:end -->

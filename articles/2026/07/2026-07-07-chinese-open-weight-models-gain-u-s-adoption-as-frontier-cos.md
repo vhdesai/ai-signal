@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-07_083408_Inbox_Daily AI News Digest - July 7
 content_hash: 98d9db8026cf080a981092723d88605f089649ca9285594a27785131dc78c0a1
 normalized_title_hash: 80f6c3af4353f204
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - Anthropic
 - DeepSeek
@@ -25,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-25-chinese-models-cross-60-of-all-openrouter-usage
 - 2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a
-- 2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif
+- 2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif
 embedding_id: 2026-07-07-chinese-open-weight-models-gain-u-s-adoption-as-frontier-cos
 event_name: ''
 ---
@@ -39,5 +40,5 @@ U.S. companies are increasingly routing production workloads to Chinese-built mo
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-20-u-s-policy-debate-around-chinese-open-weight-models-intensif]]
+**Related:** [[2026-05-25-chinese-models-cross-60-of-all-openrouter-usage]] · [[2026-07-07-chinese-ai-models-gain-ground-with-u-s-companies-as-openai-a]] · [[2026-07-21-u-s-policy-debate-around-chinese-open-weight-models-intensif]]
 <!-- graph:end -->

@@ -18,7 +18,9 @@ entities:
 - OpenAI
 - xAI
 themes:
+- datacenter-infrastructure
 - model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -39,6 +41,6 @@ Per an internal memo reported by The Information, SpaceXAI — the entity Musk c
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-05-16-elon-musk-s-xai-is-pursuing-a-three-way-alliance-with-french]] · [[2026-05-11-trendingxai-pursues-triple-alliance-with-cursor-and-mistral]] · [[2026-07-08-spacexai-launches-grok-4-5-for-coding-and-agentic-tasks]] · [[2026-05-22-xai-spacex-secures-60b-option-to-acquire-cursor-explores-thr]]
 <!-- graph:end -->

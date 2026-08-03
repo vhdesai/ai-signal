@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-04-26-adobe-and-hubspot-join-shift-to-outcome-based-ai-pricing-202
 - 2026-05-14-source-aitoolsrecap-microsoft-may-2-2026
 - 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
-- 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 embedding_id: 2026-03-10-microsoft-doubles-down-on-seat-based-pricing-for-ai-2026-03
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Microsoft Doubles Down on Seat-Based Pricing For AI [2026-03-10] · The Informat
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-03-13-the-information-the-information-write-a-post-microsoft-s-old]] · [[2026-04-26-adobe-and-hubspot-join-shift-to-outcome-based-ai-pricing-202]] · [[2026-05-14-source-aitoolsrecap-microsoft-may-2-2026]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]]
+**Related:** [[2026-03-13-the-information-the-information-write-a-post-microsoft-s-old]] · [[2026-04-26-adobe-and-hubspot-join-shift-to-outcome-based-ai-pricing-202]] · [[2026-05-14-source-aitoolsrecap-microsoft-may-2-2026]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]]
 <!-- graph:end -->

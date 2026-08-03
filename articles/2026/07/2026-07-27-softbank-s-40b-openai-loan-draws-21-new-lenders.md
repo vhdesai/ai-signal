@@ -8,7 +8,7 @@ url_canonical: https://www.theedgesingapore.com/news/funds/softbanks-us40-bil-lo
 url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 9baf39a0709562f85cad8516557fac8c0105ef80bc297489830088cc640aaf9d
+content_hash: e413e254ced3495e7de59f1f1b6ea36ef0747201c4d5ab8d8feab25af011b76c
 normalized_title_hash: d1dccff3a3b20459
 canonical_url_hash: 3361fdcaddefd290
 tags: []
@@ -26,7 +26,7 @@ event_name: ''
 
 # SoftBank's $40B OpenAI loan draws 21 new lenders
 
-SoftBank's $40B bridge loan tied to its OpenAI stake attracted 21 new lenders in a broader syndication phase. The widening lender base is another sign of how deeply debt markets are now financing the AI capital cycle. It also spreads SoftBank's OpenAI exposure across a larger group of institutions.
+SoftBank's $40B bridge loan tied to its OpenAI stake attracted 21 new lenders in a broader syndication phase. The widening lender base is another sign of how deeply debt markets are now financing the AI capital cycle. It also spreads SoftBank's OpenAI exposure across a larger group of institutions. New Funding
 
 <!-- graph:start -->
 ## Connections

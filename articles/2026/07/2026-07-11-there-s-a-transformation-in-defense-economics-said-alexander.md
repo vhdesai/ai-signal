@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad
 - 2026-05-02-defense-ai-expansion-raises-governance-questions-around-clas
+- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
+- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
-- 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-07-20-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst
 embedding_id: 2026-07-11-there-s-a-transformation-in-defense-economics-said-alexander
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-02-defense-ai-expansion-raises-governance-questions-around-clas]] · [[2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-20-banks-ai-wins-levi-s-erp-overhaul-liberty-mutual-legacy-syst]]
+**Related:** [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-02-defense-ai-expansion-raises-governance-questions-around-clas]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now]]
 <!-- graph:end -->

@@ -15,7 +15,8 @@ canonical_url_hash: 41879d61cf677bab
 tags: []
 entities:
 - Anthropic
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,5 +36,6 @@ Anthropic's sixth Economic Index ("Cadences") pairs hourly usage telemetry and a
 ## Connections
 
 **Entities:** [[Anthropic]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption]] · [[2026-05-16-for-the-first-time-anthropic-s-claude-has-surpassed-openai-s]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

@@ -8,13 +8,14 @@ url_canonical: https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-
 url_status: found
 digest_source: digests\raw\2026-06-30_061155_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: fd7502da5d9630e80d42037d18e2da651d0656e2bba6898939a0b182e8e416c5
+content_hash: d0bc804a6cca470b5b41eb4cbcc91e08d3fd4146bbc1efc81e0fe6d4562ac9a5
 normalized_title_hash: f68bb7d90db2a443
 canonical_url_hash: 2640f21e3ec6ea8b
 tags: []
 entities:
 - Baidu
 - ByteDance
+- Meta
 themes:
 - datacenter-infrastructure
 cross_cutting_topics:
@@ -32,12 +33,12 @@ event_name: ''
 
 # Baidu jumps 7% as chip arm Kunlunxin targets ~$50B Hong Kong IPO
 
-Baidu's Hong Kong shares jumped more than 7% on a report (The Information) that its independently run AI-chip unit Kunlunxin is targeting a Hong Kong IPO at a ~$50 billion valuation. Notably, prospective IPO investors were reportedly asked to commit to buying Kunlunxin chips worth three to seven times their share subscription — a circular-financing structure worth flagging on governance grounds. The listing reflects China's accelerating push for domestic AI-chip self-reliance; Kunlunxin already supplies Baidu and has drawn interest from ByteDance. (Report broke June 28; CNBC coverage and the share move June 29.)
+Baidu's Hong Kong shares jumped more than 7% on a report (The Information) that its independently run AI-chip unit Kunlunxin is targeting a Hong Kong IPO at a ~$50 billion valuation. Notably, prospective IPO investors were reportedly asked to commit to buying Kunlunxin chips worth three to seven times their share subscription — a circular-financing structure worth flagging on governance grounds. The listing reflects China's accelerating push for domestic AI-chip self-reliance; Kunlunxin already supplies Baidu and has drawn interest from ByteDance. (Report broke June 28; CNBC coverage and the share move June 29.) Research Breakthroughs HOT Meta FAIR Brain-Computer Interface
 
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Baidu]] · [[ByteDance]]
+**Entities:** [[Baidu]] · [[ByteDance]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
 **Related:** [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-06-29-baidu-s-ai-chip-arm-kunlunxin-is-planning-a-hong-kong-ipo-at]] · [[2026-06-29-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-ties]] · [[2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp]]
 <!-- graph:end -->

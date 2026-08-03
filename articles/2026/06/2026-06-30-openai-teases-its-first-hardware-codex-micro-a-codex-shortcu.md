@@ -9,13 +9,14 @@ url_canonical: https://www.cnbctv18.com/technology/codex-micro-openai-first-hard
 url_status: found
 digest_source: digests\raw\2026-06-30_061732_Inbox_Daily AI News Digest - June 30,
   2026.md
-content_hash: 820c62f568e985447bddf0526579ec5d382772d2993790032a420563813cd646
+content_hash: 934e3b9b83949ce232c3347f5037b31a36a5ed8bd12e17a8bc003c86c2ee82c5
 normalized_title_hash: d2e4b676b6d58467
 canonical_url_hash: 2138f10c28dd5e69
 tags: []
 entities:
 - OpenAI
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -27,12 +28,12 @@ event_name: ''
 
 # OpenAI teases its first hardware: Codex Micro, a Codex shortcut pad, ahead of a July 15 reveal
 
-OpenAI posted a teaser for Codex Micro — a programmable macro-pad accessory for its Codex coding assistant, built with peripheral maker Work Louder — with a full reveal set for July 15. The device ("your favorite Codex shortcuts are getting an upgrade") is a developer-tooling accessory rather than the long-rumored consumer AI device, which OpenAI says remains on track for later in 2026. It is a modest but notable first step into physical products for a company defined by software.
+OpenAI posted a teaser for Codex Micro — a programmable macro-pad accessory for its Codex coding assistant, built with peripheral maker Work Louder — with a full reveal set for July 15. The device ("your favorite Codex shortcuts are getting an upgrade") is a developer-tooling accessory rather than the long-rumored consumer AI device, which OpenAI says remains on track for later in 2026. It is a modest but notable first step into physical products for a company defined by software. Research Breakthroughs RESEARCH OPEN SOURCE
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]]
 <!-- graph:end -->

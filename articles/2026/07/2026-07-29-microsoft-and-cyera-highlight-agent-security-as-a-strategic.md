@@ -11,10 +11,12 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 512029c4eec76893464ba2e41c5f8247e24375eccb0e24725c4708260435504b
 normalized_title_hash: cefa1615cf1764f3
 canonical_url_hash: ff573b7ca276dc0c
-tags: []
+tags:
+- New
 entities:
 - Microsoft
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
@@ -31,5 +33,6 @@ Microsoft launched an agentic security platform designed to counter AI-based att
 ## Connections
 
 **Entities:** [[Microsoft]]
+**Topics:** [[Corporate Moves]]
 **Canonical:** [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]]
 <!-- graph:end -->

@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8
 content_hash: 72be8afa2d1aaef6eaf11f0e265eb2d0a62dbe5bc0bdf9ba055f02000aac9e4c
 normalized_title_hash: 45eee6576563a6ac
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - Anthropic
 - DeepSeek

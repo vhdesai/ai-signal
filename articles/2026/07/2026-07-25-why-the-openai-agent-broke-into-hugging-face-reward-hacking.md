@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 2
 content_hash: 30ebcb76e5f2f8c7cf438f4acef73f36ddced6f8a3429e9e5fb3187d227102a1
 normalized_title_hash: f5b82e3cec908dd2
 canonical_url_hash: 3657c86a8bf73d41
-tags: []
+tags:
+- Hot
 entities:
 - Alibaba
 - Amazon

@@ -22,11 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-05-02-microsoft-agent-365-generally-available
 - 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
 - 2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a
-- 2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a
 - 2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc
-- 2026-05-10-microsoft-365-e7-agent-365-generally-available
 embedding_id: 2026-05-14-microsoft-agent-365-became-generally-available-on-may-2-exte
 event_name: ''
 ---
@@ -40,5 +39,5 @@ Microsoft Agent 365 became generally available on May 2, extending enterprise-gr
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-02-microsoft-agent-365-goes-generally-available-enterprise-ai-a]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]]
+**Related:** [[2026-05-02-microsoft-agent-365-generally-available]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-05-microsoft-s-agent-365-a-platform-for-discovering-governing-a]] · [[2026-05-18-on-april-27-microsoft-and-openai-replaced-their-six-year-exc]]
 <!-- graph:end -->

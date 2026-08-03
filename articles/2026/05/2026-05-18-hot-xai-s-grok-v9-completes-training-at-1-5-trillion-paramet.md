@@ -8,7 +8,7 @@ url_canonical: https://news.aibase.com/news/28048
 url_status: found
 digest_source: digests\raw\2026-05-19_071242_Inbox_Daily AI News Digest – May 19,
   2026.md
-content_hash: 70bd8da560e714d31c679df02d87ec38077ddd3e02e0fc005142697a6941b1cf
+content_hash: ccc022f1837cb6ecb342333eab19fc47dde5587386b0394165d78e194ddc6271
 normalized_title_hash: c388d75e481d220d
 canonical_url_hash: 649da2d833b34d8f
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # Hot xAI's Grok V9 Completes Training at 1.5 Trillion Parameters
 
-xAI confirmed its V9 model — at 1.5 trillion parameters, roughly triple the current Grok 4.3 — has completed pre-training. Elon Musk says a public release is 3-4 weeks out, pending supervised fine-tuning and RL phases that will incorporate Cursor coding data. Reports also indicate xAI is exploring a possible Cursor acquisition at approximately $20B, which would give the lab direct access to the training dataset it is benchmarking against. If released as expected, Grok V9 would be the largest publicly disclosed model by parameter count.
+xAI confirmed its V9 model — at 1.5 trillion parameters, roughly triple the current Grok 4.3 — has completed pre-training. Elon Musk says a public release is 3-4 weeks out, pending supervised fine-tuning and RL phases that will incorporate Cursor coding data. Reports also indicate xAI is exploring a possible Cursor acquisition at approximately $20B, which would give the lab direct access to the training dataset it is benchmarking against. If released as expected, Grok V9 would be the largest publicly disclosed model by parameter count. O D
 
 <!-- graph:start -->
 ## Connections

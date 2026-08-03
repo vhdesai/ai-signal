@@ -17,7 +17,7 @@ entities:
 - DeepSeek
 - Tencent
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -35,6 +35,6 @@ Tencent Cloud announced paid commercial services for its Hy3 Preview and DeepSee
 ## Connections
 
 **Entities:** [[DeepSeek]] · [[Tencent]]
-**Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-05-19-hot-tencent-moves-ai-models-to-paid-commercial-services-shar]]
 <!-- graph:end -->

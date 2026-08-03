@@ -8,14 +8,15 @@ url_canonical: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
 url_status: found
 digest_source: digests\raw\2026-06-27_064706_Inbox_Daily AI News Digest - June 27,
   2026.md
-content_hash: a0cbd709bb693c017fac3a62a739308cbadd2216de19dd021f05e4f7b32d3ce2
+content_hash: 86a2340f9936e15515fe3020d49de6dbb6f333245ce65b0a185a78dba9765371
 normalized_title_hash: ca20fd96ec0d0b92
 canonical_url_hash: 3930e8dede7666d8
 tags: []
 entities:
 - OpenAI
 themes:
-- company-storylines
+- datacenter-infrastructure
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -28,12 +29,12 @@ event_name: ''
 
 # ChatGPT expands personal finance and dictation, and retires GPT‑4.5
 
-OpenAI broadened ChatGPT’s personal-finance experience to Plus users in the U.S. on web and iOS, and to Pro and Plus users on Android, letting people connect financial accounts and query a finances dashboard. A new speech-to-text model improved dictation accuracy across languages and accents, cutting word error rate by at least 10% for top languages tested. Separately, GPT‑4.5 was retired from ChatGPT as of June 26 after a 30-day sunset; existing chats continue on GPT‑5.5, and the API is unaffected.
+OpenAI broadened ChatGPT’s personal-finance experience to Plus users in the U.S. on web and iOS, and to Pro and Plus users on Android, letting people connect financial accounts and query a finances dashboard. A new speech-to-text model improved dictation accuracy across languages and accents, cutting word error rate by at least 10% for top languages tested. Separately, GPT‑4.5 was retired from ChatGPT as of June 26 after a 30-day sunset; existing chats continue on GPT‑5.5, and the API is unaffected. Infrastructure INFRASTRUCTURE
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
 **Related:** [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]] · [[2026-05-18-openai-launched-a-personal-finance-preview-for-chatgpt-pro-u]]
 <!-- graph:end -->

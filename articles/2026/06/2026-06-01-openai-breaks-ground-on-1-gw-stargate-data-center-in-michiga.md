@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-22-openai-announces-project-camellia-a-georgia-data-center-buil
 - 2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb
+- 2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner
 - 2026-03-16-the-people-running-openai-s-stargate-computing-effort-2026-0
 - 2026-07-23-openai-unveils-project-camellia-a-3-2-gw-data-center-campus
-- 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 embedding_id: 2026-06-01-openai-breaks-ground-on-1-gw-stargate-data-center-in-michiga
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI announced a 1-gigawatt data-center project in Michigan as part of Stargat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-22-openai-announces-project-camellia-a-georgia-data-center-buil]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-03-16-the-people-running-openai-s-stargate-computing-effort-2026-0]] · [[2026-07-23-openai-unveils-project-camellia-a-3-2-gw-data-center-campus]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]]
+**Related:** [[2026-07-22-openai-announces-project-camellia-a-georgia-data-center-buil]] · [[2026-07-09-meta-breaks-ground-on-first-canadian-data-center-1-gw-in-alb]] · [[2026-08-01-deepseek-reportedly-plans-a-1-gigawatt-data-center-in-inner]] · [[2026-03-16-the-people-running-openai-s-stargate-computing-effort-2026-0]] · [[2026-07-23-openai-unveils-project-camellia-a-3-2-gw-data-center-campus]]
 <!-- graph:end -->

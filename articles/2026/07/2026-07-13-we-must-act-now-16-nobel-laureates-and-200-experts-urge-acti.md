@@ -9,10 +9,11 @@ url_canonical: https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-w
 url_status: found
 digest_source: digests\raw\2026-07-14_061758_Inbox_Daily AI News Digest - July 14,
   2026.md
-content_hash: d752ffbae4eb7085f0e1aed3c69db4819ebe0eba2753ddf0eb206b434d623ae6
+content_hash: 711b14572e466acb15ad40e56988db83d0349b94e6b27c4979265090785c7a06
 normalized_title_hash: 07f4b9195c16d013
 canonical_url_hash: 8fd2308f0c775f1b
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - Google
@@ -29,7 +30,7 @@ event_name: ''
 
 # “We Must Act Now”: 16 Nobel laureates and 200+ experts urge action on AI’s economic impact
 
-More than 200 economists and AI researchers — including 16 Nobel laureates (Michael Spence, Daron Acemoglu, Simon Johnson) and figures from OpenAI, Anthropic, and Google DeepMind — signed an open letter, organized by Stanford’s Digital Economy Lab, warning that AI could drive a transformation “larger than the Industrial Revolution but unfolding over a vastly shorter time frame.” It urges governments and industry to build “incentives, guardrails, and institutions” to manage risks including large-scale job displacement. Organizer Anton Korinek: “waiting for certainty means arriving too late.”
+More than 200 economists and AI researchers — including 16 Nobel laureates (Michael Spence, Daron Acemoglu, Simon Johnson) and figures from OpenAI, Anthropic, and Google DeepMind — signed an open letter, organized by Stanford’s Digital Economy Lab, warning that AI could drive a transformation “larger than the Industrial Revolution but unfolding over a vastly shorter time frame.” It urges governments and industry to build “incentives, guardrails, and institutions” to manage risks including large-scale job displacement. Organizer Anton Korinek: “waiting for certainty means arriving too late.” OAG POLICY
 
 <!-- graph:start -->
 ## Connections

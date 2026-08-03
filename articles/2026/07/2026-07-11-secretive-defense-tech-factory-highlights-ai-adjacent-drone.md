@@ -11,19 +11,20 @@ digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 1
 content_hash: 4c5e99c17ef450580ec3da7126a7b271657ff6592e95f52369475ef688598f01
 normalized_title_hash: 6737adb1bd82c040
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in
+- 2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi
 - 2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside
 - 2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab
 - 2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi
-- 2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks
 embedding_id: 2026-07-11-secretive-defense-tech-factory-highlights-ai-adjacent-drone
 event_name: ''
 ---
@@ -35,6 +36,6 @@ DealBook reported on the expanding business of war technology, including secreti
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in]] · [[2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]] · [[2026-05-03-pentagon-signs-eight-vendors-to-ai-frameworks]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-11-good-morning-andrew-here-the-business-of-war-is-a-booming-in]] · [[2026-07-31-report-chinese-military-researchers-used-openai-and-anthropi]] · [[2026-07-11-but-few-believe-the-demand-for-unmanned-warfare-will-subside]] · [[2026-05-01-pentagon-expands-classified-network-ai-deals-anthropic-notab]] · [[2026-05-03-pentagon-signs-classified-ai-contracts-with-7-firms-anthropi]]
 <!-- graph:end -->

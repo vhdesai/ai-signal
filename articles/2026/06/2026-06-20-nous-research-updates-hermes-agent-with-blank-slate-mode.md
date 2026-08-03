@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val
 - 2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
-- 2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi
 embedding_id: 2026-06-20-nous-research-updates-hermes-agent-with-blank-slate-mode
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nous Research updated Hermes Agent with a Blank Slate setup mode that starts wit
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-05-10-nous-research-hermes-agent-claims-1-spot-on-openrouter-toppi]]
+**Related:** [[2026-07-31-nous-research-ships-hermes-agent-integration-for-block-s-ope]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-a-1-5b-val]] · [[2026-07-13-nous-research-in-talks-for-new-funding-at-1-5-billion-valuat]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-at-1-5b-valua]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]]
 <!-- graph:end -->

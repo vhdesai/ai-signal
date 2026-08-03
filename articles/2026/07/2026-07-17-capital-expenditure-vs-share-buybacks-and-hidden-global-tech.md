@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-19-s-p-500-concentration-risk-and-capital-allocation-context
 - 2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception
 - 2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi
-- 2026-07-19-the-perspective-log-2026-07-19-external-is-s-p-500-concentra
+- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 embedding_id: 2026-07-17-capital-expenditure-vs-share-buybacks-and-hidden-global-tech
 event_name: ''
 ---
@@ -34,5 +34,5 @@ capital expenditure vs share buybacks and hidden global tech supply-chain battle
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-18-capital-expenditure-vs-share-buybacks-and-hidden-global-tech]] · [[2026-07-19-s-p-500-concentration-risk-and-capital-allocation-context]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-07-19-the-perspective-log-2026-07-19-external-is-s-p-500-concentra]]
+**Related:** [[2026-07-18-capital-expenditure-vs-share-buybacks-and-hidden-global-tech]] · [[2026-07-19-s-p-500-concentration-risk-and-capital-allocation-context]] · [[2026-05-19-big-tech-slashes-buybacks-nvidia-may-be-the-lone-exception]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
 <!-- graph:end -->

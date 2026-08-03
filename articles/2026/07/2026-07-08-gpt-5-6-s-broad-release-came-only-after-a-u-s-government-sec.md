@@ -14,7 +14,7 @@ canonical_url_hash: 750a1942b099b2d1
 tags: []
 entities: []
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev
@@ -30,6 +30,6 @@ The Trump administration cleared GPT-5.6 for wide release (July 9) after weeks o
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-08-gpt-5-6-broad-release-came-after-u-s-government-security-rev]]
 <!-- graph:end -->

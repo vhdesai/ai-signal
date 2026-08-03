@@ -11,12 +11,13 @@ digest_source: digests\raw\2026-07-29_061307_Inbox_Daily AI News Digest - July 2
 content_hash: a976e3abc84c99f9ccb3953475a8c7a427e09099c9e67b9170d8329c5c14d75b
 normalized_title_hash: 890b9483876638b5
 canonical_url_hash: 4ef58cad22ea7270
-tags: []
+tags:
+- Trending
 entities:
 - Anthropic
 - Google
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +39,6 @@ Per the Financial Times, Google DeepMind has reassigned most of the original Alp
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-30-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-fo]] · [[2026-06-20-nobel-laureate-john-jumper-is-leaving-google-deepmind-for-an]] · [[2026-07-29-google-disbands-its-nobel-winning-alphafold-team-to-refocus]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-03-12-the-information-logo-kevin-mclaughlin-headshot-by-kevin-mcla
 - 2026-03-13-with-alistair-barr-oliver-the-puppy-tech-job-market-worry-ab
 - 2026-03-24-the-information-logo-laura-bratton-headshot-by-laura-bratton
-- 2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex
+- 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 embedding_id: 2026-05-01-tech-memo-logo-with-alistair-barr-tune-in-here-amazon-tracks
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Tech Memo Logo - with Alistair Barr - tune in here - Amazon tracks AI internally
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-03-12-the-information-logo-kevin-mclaughlin-headshot-by-kevin-mcla]] · [[2026-03-13-with-alistair-barr-oliver-the-puppy-tech-job-market-worry-ab]] · [[2026-03-24-the-information-logo-laura-bratton-headshot-by-laura-bratton]] · [[2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex]]
+**Related:** [[2026-05-01-compute-is-destiny-2026-05-01-business-insider]] · [[2026-03-12-the-information-logo-kevin-mclaughlin-headshot-by-kevin-mcla]] · [[2026-03-13-with-alistair-barr-oliver-the-puppy-tech-job-market-worry-ab]] · [[2026-03-24-the-information-logo-laura-bratton-headshot-by-laura-bratton]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]]
 <!-- graph:end -->

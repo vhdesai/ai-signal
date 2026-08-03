@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-05_062627_Inbox_Daily AI News Digest - July 5
 content_hash: 4a87b3a190f70da005baa8c2d3a8d15208c297edf7346ce6e50222f4c64c5a29
 normalized_title_hash: 631d0a4bf0c597a1
 canonical_url_hash: 32c04dbf621eeb7f
-tags: []
+tags:
+- Hot
 entities: []
 themes:
 - company-storylines

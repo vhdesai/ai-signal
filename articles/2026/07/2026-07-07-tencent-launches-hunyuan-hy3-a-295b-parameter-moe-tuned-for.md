@@ -9,7 +9,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-08_064841_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: 73c62ec85050fb931bda12d1d3d9d78402989500ac3ff9abbc2a72c9e64655e9
+content_hash: f254852d056ddb9577c9c98282b6a0de660bc6b66661b431705b190edb83f6ae
 normalized_title_hash: 820ac6e43855669e
 canonical_url_hash: ''
 tags: []
@@ -32,7 +32,7 @@ event_name: ''
 
 # Tencent launches Hunyuan Hy3, a 295B-parameter MoE tuned for agentic and coding tasks
 
-Tencent released Hunyuan Hy3, a hybrid fast/slow-thinking reasoning model built on a Mixture-of-Experts design with 295B total (21B active) parameters and a 256K-token context window, and integrated it across products including CodeBuddy, Yuanbao, Marvis, and ima. Pricing is aggressive — roughly $0.15 per million input tokens and $0.59 per million output tokens via Tencent Cloud’s TokenHub. The launch continues the rapid cadence of competitively priced Chinese frontier models targeting agentic and coding workloads.
+Tencent released Hunyuan Hy3, a hybrid fast/slow-thinking reasoning model built on a Mixture-of-Experts design with 295B total (21B active) parameters and a 256K-token context window, and integrated it across products including CodeBuddy, Yuanbao, Marvis, and ima. Pricing is aggressive — roughly $0.15 per million input tokens and $0.59 per million output tokens via Tencent Cloud’s TokenHub. The launch continues the rapid cadence of competitively priced Chinese frontier models targeting agentic and coding workloads. Products & Tools Launch Backlash
 
 <!-- graph:start -->
 ## Connections

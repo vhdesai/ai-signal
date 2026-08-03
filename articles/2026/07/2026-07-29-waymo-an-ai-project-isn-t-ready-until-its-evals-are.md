@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta
+- 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
+- 2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence
 - 2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
-- 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 embedding_id: 2026-07-29-waymo-an-ai-project-isn-t-ready-until-its-evals-are
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Waymo detailed how it treats AI evaluation as continuous engineering rather than
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]]
+**Related:** [[2026-06-29-the-paper-argues-llm-agents-stay-reactive-in-long-horizon-ta]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]] · [[2026-07-30-can-ai-agents-conduct-open-ended-ai-research-early-evidence]] · [[2026-05-21-agentic-programming-a-production-ready-roadmap-for-engineeri]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

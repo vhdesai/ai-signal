@@ -8,10 +8,11 @@ url_canonical: https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-s
 url_status: found
 digest_source: digests\raw\2026-07-30_060904_Inbox_Daily AI News Digest - July 30,
   2026.md
-content_hash: 84417a6395af391d32f7e7e6ab58fa0d2813ed9dc2f4b46b669892db4bf98ef9
+content_hash: f2cafac7ecdef718be3e98e5e9b714a9c86c39aa48cbe5dc7a0e1deb3e1b53af
 normalized_title_hash: c137179ed7e7ad71
 canonical_url_hash: 5051ed860834634b
-tags: []
+tags:
+- Breaking
 entities: []
 themes:
 - company-storylines
@@ -29,7 +30,7 @@ event_name: ''
 
 # Cyera agrees to acquire Oasis Security for $1 billion to secure AI agents
 
-Cyera agreed to acquire Oasis Security for about $1 billion, mostly in cash, to strengthen identity and data-security controls for non-human identities, including AI agents. Oasis focuses on monitoring AI-agent behavior and permissions as agents increasingly access enterprise software and data. The deal shows that agent identity is becoming a strategic security category, not a niche IAM feature.
+Cyera agreed to acquire Oasis Security for about $1 billion, mostly in cash, to strengthen identity and data-security controls for non-human identities, including AI agents. Oasis focuses on monitoring AI-agent behavior and permissions as agents increasingly access enterprise software and data. The deal shows that agent identity is becoming a strategic security category, not a niche IAM feature. AI DETECTIONCONTENT TRUSTFUNDING
 
 <!-- graph:start -->
 ## Connections

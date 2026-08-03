@@ -30,7 +30,7 @@ related_article_ids:
 - 2026-07-14-subject-daily-ai-news-digest-july-14-2026
 - 2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
-- 2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky
+- 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 embedding_id: 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
 event_name: ''
 ---
@@ -44,5 +44,5 @@ The last 24 hours were driven not by new frontier models but by the physical and
 
 **Entities:** [[Alibaba]] · [[ByteDance]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-07-06-the-compute-bill-comes-due-anthropic-s-19b-lease-nvidia-s-ky]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-14-subject-daily-ai-news-digest-july-14-2026]] · [[2026-04-20-model-cadence-tightening-anthropic-openai-and-xai-all-pushed]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]]
 <!-- graph:end -->

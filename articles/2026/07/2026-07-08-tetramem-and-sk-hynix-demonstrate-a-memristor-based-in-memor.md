@@ -14,7 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ TetraMem and SK hynix published a joint paper, “A Memristor-based In-Memory Co
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-08-tetramem-and-sk-hynix-demonstrate-memristor-based-in-memory]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-04-02-research-breakthroughs]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
 <!-- graph:end -->

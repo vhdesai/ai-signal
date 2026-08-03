@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 8638e518c16163e3e16469297d7f5609d5911e2c646bc7d30cccb5e8231c430c
 normalized_title_hash: ccac9ace4105c0c3
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - Tesla

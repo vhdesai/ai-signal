@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: ac6a3c7f6f935b54a7c8f8c7bc135d4773a542fd7e7e3fc04232cfa31d25bc0d
 normalized_title_hash: 4a0cfabac54c416f
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities: []
 themes:
 - datacenter-infrastructure

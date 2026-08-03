@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins
+- 2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news
 - 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
 - 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
 - 2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler
-- 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
-- 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
 embedding_id: 2026-07-28-wall-street-journal-wsj-2026-07-28-external-the-10-point-tru
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Wall Street Journal / WSJ - [2026-07-28] [EXTERNAL] The 10-Point: Trump’s Shif
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
+**Related:** [[2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins]] · [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-07-02-wall-street-journal-wsj-2026-07-02-external-wsj-markets-aler]]
 <!-- graph:end -->

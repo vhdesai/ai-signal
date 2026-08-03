@@ -8,10 +8,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-26_060512_Inbox_Daily AI News Digest - July 26,
   2026.md
-content_hash: 5b27ade30fe83cdb8ed7cfff3a24cfc562ba13c6475b37d59d4d5f4a8c630e49
+content_hash: 41d16c22e2475e0def11fc33c45f68bcc474c81216952314f57948864ea0d9d3
 normalized_title_hash: 6f5b0e9421d9a512
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities: []
 themes:
 - model-capabilities
@@ -30,7 +31,7 @@ event_name: ''
 
 # Sakana AI releases Fugu-Cyber orchestration model
 
-MarkTechPost reports that Sakana AI released Fugu-Cyber, an orchestration model reporting 86.9% on CyberGym and 72.1% on CTI-REALM. The release fits a broader trend toward specialized cyber models and orchestration systems that coordinate tools and reasoning rather than only answering prompts. Given recent debate over cyber guardrails and agentic attacks, the key question is how such systems are governed, audited, and safely made available to defenders. URL not verified.
+MarkTechPost reports that Sakana AI released Fugu-Cyber, an orchestration model reporting 86.9% on CyberGym and 72.1% on CTI-REALM. The release fits a broader trend toward specialized cyber models and orchestration systems that coordinate tools and reasoning rather than only answering prompts. Given recent debate over cyber guardrails and agentic attacks, the key question is how such systems are governed, audited, and safely made available to defenders. URL not verified. CODING MODELSAGENTIC AIOPEN MODELS
 
 <!-- graph:start -->
 ## Connections

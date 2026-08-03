@@ -8,12 +8,14 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-06_062258_Inbox_Daily AI News Digest - July 6,
   2026.md
-content_hash: 5088fd18f80e6b63481b976653f8c9e56a389191a8d9b44cb03e2bbc0e91b2d7
+content_hash: 9df0901fbfbf6e6ddd1dc79e6ba9cc53e80022c56ffa2be8b2b78097ab6385d6
 normalized_title_hash: 77abb4b8e54026b7
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
+- datacenter-infrastructure
+- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -30,11 +32,11 @@ event_name: ''
 
 # Sakana AI launches "Sakana Translate," a Namazu-powered JA–EN–ZH tool
 
-Sakana AI released Sakana Translate, a Japanese–English–Chinese translation tool built on its Namazu system, offering three modes — Translate, Proofread, and Ask. It targets professional and business translation workflows with an interactive, agentic interface rather than one-shot output. The launch continues Sakana's push to productize its research for enterprise language tasks.
+Sakana AI released Sakana Translate, a Japanese–English–Chinese translation tool built on its Namazu system, offering three modes — Translate, Proofread, and Ask. It targets professional and business translation workflows with an interactive, agentic interface rather than one-shot output. The launch continues Sakana's push to productize its research for enterprise language tasks. NewOpen Source
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-06-23-sakana-ai-launches-fugu-multi-agent-orchestration-system]] · [[2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-a-claude-code-compatible]] · [[2026-07-26-sakana-ai-releases-fugu-cyber-orchestration-model]] · [[2026-07-24-sakana-ai-ships-fugu-ultra-v1-1-and-claude-code-compatible-i]]
 <!-- graph:end -->

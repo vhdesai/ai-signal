@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-08_062121_Inbox_Daily AI News Digest - July 8,
   2026.md
-content_hash: ecdc119ba5bb9d863a956a656507f330faf8465fed1b7591fdff0c6bad2100ba
+content_hash: 904f3f77119b465fd03bb77fe6e4d3ea3026861a59861887e801725df5703222
 normalized_title_hash: a345bbc7ae946aa6
 canonical_url_hash: ''
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # Velocity Raises $27M Seed for AI Monetization Infrastructure
 
-Velocity raised $27 million in seed funding led by NFX and Red Dot Capital Partners to build monetization infrastructure for AI-native software companies. The pitch targets a real pain point: rising inference costs and weak subscription-conversion rates are squeezing AI application economics even as usage accelerates. Small in dollar terms, the round is a telling signal of where investors see the next bottleneck — converting AI adoption into durable revenue rather than model capability. https://markets.businessinsider.com/news/currencies/velocity-raises-27-million-to-help-ai-companies-turn-growth-into-sustainable-revenue-1036307065
+Velocity raised $27 million in seed funding led by NFX and Red Dot Capital Partners to build monetization infrastructure for AI-native software companies. The pitch targets a real pain point: rising inference costs and weak subscription-conversion rates are squeezing AI application economics even as usage accelerates. Small in dollar terms, the round is a telling signal of where investors see the next bottleneck — converting AI adoption into durable revenue rather than model capability. https://markets.businessinsider.com/news/currencies/velocity-raises-27-million-to-help-ai-companies-turn-growth-into-sustainable-revenue-1036307065 Products & Tools PRODUCT
 
 <!-- graph:start -->
 ## Connections

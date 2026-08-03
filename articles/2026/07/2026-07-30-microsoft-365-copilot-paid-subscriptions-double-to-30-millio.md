@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co
 - 2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta
+- 2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea
 - 2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l
-- 2026-05-10-microsoft-365-e7-agent-365-generally-available
 embedding_id: 2026-07-30-microsoft-365-copilot-paid-subscriptions-double-to-30-millio
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft disclosed that paid subscriptions for Microsoft 365 Copilot doubled to
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]] · [[2026-05-10-microsoft-365-e7-agent-365-generally-available]]
+**Related:** [[2026-07-30-microsoft-profit-jumps-31-as-azure-growth-accelerates-and-co]] · [[2026-07-30-microsoft-shows-ai-capex-with-operating-leverage-while-meta]] · [[2026-07-30-microsoft-fq4-azure-43-crosses-100b-run-rate-30m-copilot-sea]] · [[2026-07-01-microsoft-recaps-june-s-microsoft-365-copilot-feature-drop-l]]
 <!-- graph:end -->

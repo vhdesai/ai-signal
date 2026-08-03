@@ -14,6 +14,8 @@ canonical_url_hash: 5d77deb799966360
 tags: []
 entities: []
 themes:
+- datacenter-infrastructure
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -34,6 +36,6 @@ Ollama, the open-source tool for running open-weight models locally, raised a $6
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Related:** [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-toward]] · [[2026-07-09-ollama-raises-65m-series-b-as-local-ai-tooling-scales-to-9m]] · [[2026-07-09-popular-open-source-ai-developer-tool-ollama-raises-65m-grow]] · [[2026-07-08-prime-intellect-and-ollama-funding-point-to-enterprise-contr]]
 <!-- graph:end -->

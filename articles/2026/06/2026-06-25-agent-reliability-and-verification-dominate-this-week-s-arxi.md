@@ -14,7 +14,7 @@ canonical_url_hash: 22440187baf4a19d
 tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ The week’s most-surfaced arXiv papers cluster on making AI agents reliable rat
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-06-26-new-arxiv-work-questions-two-load-bearing-assumptions-about]] · [[2026-05-20-arxiv-preprints-highlight-new-agent-safety-signals]] · [[2026-05-28-arxiv-sees-new-wave-of-agentic-rl-and-tool-use-papers]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-23-arxiv-cs-ai-publishes-new-agentic-rl-and-world-model-work]]
 <!-- graph:end -->

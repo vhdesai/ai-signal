@@ -25,7 +25,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
+- 2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope
 embedding_id: 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's AI chief stated the company has been "set free" from OpenAI to pursu
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
+**Related:** [[2026-06-05-microsoft-ai-chief-company-set-free-from-openai-to-pursue-su]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-07-30-microsoft-books-3-2b-gain-on-anthropic-stake-writes-down-ope]]
 <!-- graph:end -->

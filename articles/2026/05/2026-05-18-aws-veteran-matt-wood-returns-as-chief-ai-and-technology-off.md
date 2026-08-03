@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
 - 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands
 - 2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands
-- 2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea
+- 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 embedding_id: 2026-05-18-aws-veteran-matt-wood-returns-as-chief-ai-and-technology-off
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Amazon Web Services veteran Matt Wood is returning to AWS in a newly created rol
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-05-13-microsoft-vp-of-copilot-security-shawn-bice-joins-aws-to-lea]]
+**Related:** [[2026-05-18-new-aws-appoints-matt-wood-as-chief-ai-and-technology-office]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
 <!-- graph:end -->

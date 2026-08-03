@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-03-19-the-information-the-information-write-a-post-will-meta-lose
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-06-21-url
-- 2026-03-10-microsoft-doubles-down-on-seat-based-pricing-for-ai-2026-03
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 embedding_id: 2026-03-13-the-information-the-information-write-a-post-microsoft-s-old
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Information The Information - Write a post - Microsoft’s “old-school” 
 
 **Entities:** [[Amazon]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-03-09-the-information-the-information-write-a-post-generations-of]] · [[2026-03-19-the-information-the-information-write-a-post-will-meta-lose]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-06-21-url]] · [[2026-03-10-microsoft-doubles-down-on-seat-based-pricing-for-ai-2026-03]]
+**Related:** [[2026-03-09-the-information-the-information-write-a-post-generations-of]] · [[2026-03-19-the-information-the-information-write-a-post-will-meta-lose]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-06-21-url]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]]
 <!-- graph:end -->

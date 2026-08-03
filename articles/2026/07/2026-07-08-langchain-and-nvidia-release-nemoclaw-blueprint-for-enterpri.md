@@ -11,12 +11,12 @@ digest_source: digests\raw\2026-07-09_084403_Inbox_Daily AI News Digest - July 9
 content_hash: 0dea78235f564a3b78d56bda3c26819e7089c7925535d45967871e06df20f4cb
 normalized_title_hash: ab96ca3b05228ae4
 canonical_url_hash: 0975346771dbdd9e
-tags: []
+tags:
+- New
 entities:
 - NVIDIA
 themes:
-- policy-regulation
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -38,6 +38,6 @@ LangChain and NVIDIA launched the NemoClaw blueprint for LangChain Deep Agents, 
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-nemotron-and-agent-stack]] · [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-05-12-nvidia-releases-nemotron-3-nano-omni-at-gtc-2026]]
 <!-- graph:end -->

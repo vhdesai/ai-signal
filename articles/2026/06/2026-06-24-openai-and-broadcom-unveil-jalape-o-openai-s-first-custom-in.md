@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 2
 content_hash: a442bf33415418e88b23fe183a75b162c43b1e8fb20838285f5ac48e8051f301
 normalized_title_hash: 3916aa479b54f315
 canonical_url_hash: e0542efafd2f8c5e
-tags: []
+tags:
+- Breaking
 entities:
 - AMD
 - NVIDIA

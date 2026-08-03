@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost
+- 2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny
 - 2026-04-01-oracle-cutting-up-to-30-000-jobs-to-fund-156-billion-ai-data
 - 2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou
 - 2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-07-19-oracle-s-165b-project-jupiter-ai-campus-is-rejected-by-regul
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle's $165B Project Jupiter AI campus is rejected by regulators for a second 
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-04-01-oracle-cutting-up-to-30-000-jobs-to-fund-156-billion-ai-data]] · [[2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost]] · [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny]] · [[2026-04-01-oracle-cutting-up-to-30-000-jobs-to-fund-156-billion-ai-data]] · [[2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou]] · [[2026-06-09-oracle-reports-earnings-with-record-553b-ai-backlog]]
 <!-- graph:end -->

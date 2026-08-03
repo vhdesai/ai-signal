@@ -11,12 +11,12 @@ digest_source: digests\raw\2026-07-28_070006_Inbox_Daily AI News Digest - July 2
 content_hash: 6d6df9f2283ce12728f2bb76dedeee830cb71dff302f10b048022b5a601e39bd
 normalized_title_hash: 8671fb9ac71980f9
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
-- datacenter-infrastructure
-- model-capabilities
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a
 - 2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai
 - 2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s
+- 2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10
 embedding_id: 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
 event_name: ''
 ---
@@ -36,6 +37,6 @@ Hugging Face CEO Clem Delangue called for full attack logs and a $100 million co
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a]] · [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s]]
+**Topics:** [[Policy & Regulation]]
+**Related:** [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-a]] · [[2026-07-26-hugging-face-ceo-calls-for-radical-transparency-after-openai]] · [[2026-07-27-hugging-face-ceo-demands-radical-transparency-after-openai-s]] · [[2026-08-02-hugging-face-ceo-uses-face-the-nation-to-press-openai-for-10]]
 <!-- graph:end -->

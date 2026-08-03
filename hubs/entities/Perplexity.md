@@ -1,12 +1,12 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 77
+member_count: 78
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 77 connected article(s).
+> Auto-generated entity hub. 78 connected article(s).
 
 - `2026-07-29` [[2026-07-29-ex-perplexity-engineer-launches-polar-an-ai-browser-for-know|Ex-Perplexity engineer launches Polar, an AI browser for knowledge work, with $5.7M seed]]
 - `2026-07-20` [[2026-07-20-perplexity-releases-wandr-an-open-benchmark-for-research-age|Perplexity releases WANDR, an open benchmark for research agents that must search wide and deep across source-linked…]]
@@ -84,4 +84,5 @@ member_count: 77
 - `2026-05-07` [[2026-05-07-new-perplexity-personal-computer-now-generally-available-for|New Perplexity Personal Computer Now Generally Available for All Mac Users]]
 - `2026-05-02` [[2026-05-02-trendingxai-bringing-grok-voice-mode-to-apple-carplay|TRENDINGxAI Bringing Grok Voice Mode to Apple CarPlay]]
 - `2026-05-01` [[2026-05-01-xai-ships-grok-4-3-and-brings-grok-voice-to-apple-carplay|xAI ships Grok 4.3 and brings Grok Voice to Apple CarPlay]]
+- `2026-05-01` [[2026-05-01-newxai-releases-grok-4-3|NEWxAI Releases Grok 4.3]]
 - `2026-03-12` [[2026-03-12-view-in-web-browser-the-wall-street-journal-google-s-approac|View in web browser › - The Wall Street Journal - Google’s Approach to the Changing Cybersecurity Landscape Read more ›…]]

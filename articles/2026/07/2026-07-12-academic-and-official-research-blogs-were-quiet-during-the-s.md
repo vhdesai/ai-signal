@@ -18,6 +18,7 @@ entities:
 - Meta
 - OpenAI
 themes:
+- policy-regulation
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -40,6 +41,6 @@ A sweep of BAIR, MIT News AI, Google DeepMind, Google Research, OpenAI, Apple Ma
 ## Connections
 
 **Entities:** [[Apple]] · [[Google]] · [[Meta]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-07-04-no-confirmed-items-from-the-monitored-universities-and-lab-b]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-05-no-confirmed-items-in-the-last-24-hours-thirteen-university]] · [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]]
 <!-- graph:end -->

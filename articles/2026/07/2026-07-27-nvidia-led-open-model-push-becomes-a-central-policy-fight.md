@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-28_070006_Inbox_Daily AI News Digest - July 2
 content_hash: fbf26418349f360caa2a7bdbee8a178052d3ff323b1a921cef8b3d08d184ca39
 normalized_title_hash: acf6c1e2b780af77
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Meta
 - Microsoft

@@ -32,10 +32,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-09-products-tools
+- 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
+- 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp
-- 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
+- 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
 embedding_id: 2026-04-01-amazon-ceo-andy-jassy-s-annual-shareholder-letter-disclosed
 event_name: ''
 ---
@@ -49,5 +49,5 @@ event_name: ''
 
 **Entities:** [[Amazon]] · [[Baidu]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-09-products-tools]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-04-27-anthropic-secures-additional-5b-from-amazon-with-100b-aws-sp]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]]
+**Related:** [[2026-04-09-products-tools]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-growth-hits-a-four]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]]
 <!-- graph:end -->

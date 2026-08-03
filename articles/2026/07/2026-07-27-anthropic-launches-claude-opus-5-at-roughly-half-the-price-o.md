@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-28_061729_Inbox_Daily AI News Digest - July 28,
   2026.md
-content_hash: 9bd103580ab920834894ba5ae3b4eb649bc2108c65193557ac87de69a3f4523e
+content_hash: 61f5a44bec73a0771acc828013b84a4f545bf4523b545d66303aae8013e29371
 normalized_title_hash: e0ab66e07bf7a3c5
 canonical_url_hash: ''
 tags: []
@@ -30,7 +30,7 @@ event_name: ''
 
 # Anthropic Launches Claude Opus 5 at Roughly Half the Price of Its Flagship
 
-Anthropic released Claude Opus 5, positioning it as a thoughtful and proactive model that approaches the frontier intelligence of its top-tier Fable 5 at about half the cost.
+Anthropic released Claude Opus 5, positioning it as a thoughtful and proactive model that approaches the frontier intelligence of its top-tier Fable 5 at about half the cost. M LAUNCH Open Weights
 
 <!-- graph:start -->
 ## Connections

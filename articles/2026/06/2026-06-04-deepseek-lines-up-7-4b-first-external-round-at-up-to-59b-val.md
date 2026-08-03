@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-05_081213_Inbox_Daily AI News Digest – June
 content_hash: 62b62bd98dee9a08e98155c08590e1af453cc960f27fd88e6e6146d0825998ea
 normalized_title_hash: fbbd4af2c9837d82
 canonical_url_hash: 1a927cddea6ae390
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - DeepSeek

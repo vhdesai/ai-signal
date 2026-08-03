@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-03-09-upgrade-to-paid-for-just-200-128680-allocation-update-bitcoi
 - 2026-03-14-the-tactical-allocation-weekly-update-march-14-2026-2026-03
 - 2026-06-20-the-tactical-allocation-letter-2026-06-21-the-tactical-alloc
-- 2026-05-30-the-tactical-allocation-weekly-update-may-30-2026-2026-05-30
+- 2026-08-02-the-tactical-allocation-letter-2026-08-02-external-the-tacti
 embedding_id: 2026-03-14-upgrade-to-paid-for-just-200-129517-the-tactical-allocation
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Upgrade to Paid for just 200$ - &#129517; The Tactical Allocation Weekly Update 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-30-upgrade-to-paid-for-just-200-129517-the-tactical-allocation]] · [[2026-03-09-upgrade-to-paid-for-just-200-128680-allocation-update-bitcoi]] · [[2026-03-14-the-tactical-allocation-weekly-update-march-14-2026-2026-03]] · [[2026-06-20-the-tactical-allocation-letter-2026-06-21-the-tactical-alloc]] · [[2026-05-30-the-tactical-allocation-weekly-update-may-30-2026-2026-05-30]]
+**Related:** [[2026-05-30-upgrade-to-paid-for-just-200-129517-the-tactical-allocation]] · [[2026-03-09-upgrade-to-paid-for-just-200-128680-allocation-update-bitcoi]] · [[2026-03-14-the-tactical-allocation-weekly-update-march-14-2026-2026-03]] · [[2026-06-20-the-tactical-allocation-letter-2026-06-21-the-tactical-alloc]] · [[2026-08-02-the-tactical-allocation-letter-2026-08-02-external-the-tacti]]
 <!-- graph:end -->

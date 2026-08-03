@@ -8,13 +8,15 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 8486c828baa24ba5a41aa58192323371b5a5ab17b76871229db17b3c78c32520
+content_hash: a7be60d6496096d4f658aa46ef2b3e2cc7e5e340c43731c13f82ec7e888da20e
 normalized_title_hash: 374b7b07651ccb8b
 canonical_url_hash: ''
 tags: []
 entities:
 - NVIDIA
 themes:
+- datacenter-infrastructure
+- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
@@ -26,12 +28,12 @@ event_name: ''
 
 # NVIDIA and Hugging Face open-source a humanoid-robotics stack via LeRobot
 
-NVIDIA and Hugging Face are bringing the open Isaac GR00T 1.7 vision-language-action model and the Isaac Teleop framework into LeRobot, Hugging Face's open-source robotics library, with a Cosmos 3 world-model integration planned. The aim is to standardize the open stack for humanoid and physical-AI development — datasets, foundation models, and simulation — lowering the barrier for robotics developers. It reinforces NVIDIA's pattern of seeding open tooling that ultimately drives demand for its compute. 🔗 blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-roboticshttps://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
+NVIDIA and Hugging Face are bringing the open Isaac GR00T 1.7 vision-language-action model and the Isaac Teleop framework into LeRobot, Hugging Face's open-source robotics library, with a Cosmos 3 world-model integration planned. The aim is to standardize the open stack for humanoid and physical-AI development — datasets, foundation models, and simulation — lowering the barrier for robotics developers. It reinforces NVIDIA's pattern of seeding open tooling that ultimately drives demand for its compute. 🔗 blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-roboticshttps://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/ Infrastructure INFRA CHIPS
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-07-06-nvidia-and-hugging-face-bring-isaac-gr00t-and-teleop-to-lero]]
 <!-- graph:end -->

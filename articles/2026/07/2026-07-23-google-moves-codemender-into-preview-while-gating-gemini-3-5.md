@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-google-restricts-gemini-3-5-flash-cyber-to-select-partners-a
+- 2026-07-23-google-holds-back-flash-cyber-codemender-enters-preview
 - 2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer
 - 2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform
-- 2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo
 embedding_id: 2026-07-23-google-moves-codemender-into-preview-while-gating-gemini-3-5
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-23-google-restricts-gemini-3-5-flash-cyber-to-select-partners-a]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]] · [[2026-07-23-google-gemini-flash-models-and-task-specific-coding-agent-mo]]
+**Related:** [[2026-07-23-google-restricts-gemini-3-5-flash-cyber-to-select-partners-a]] · [[2026-07-23-google-holds-back-flash-cyber-codemender-enters-preview]] · [[2026-05-19-google-i-o-2026-gemini-3-5-flash-and-the-agentic-layer]] · [[2026-05-21-google-i-o-2026-turns-gemini-into-an-agent-platform]]
 <!-- graph:end -->

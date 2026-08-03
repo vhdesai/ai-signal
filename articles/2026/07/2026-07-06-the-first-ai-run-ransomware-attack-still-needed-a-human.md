@@ -14,7 +14,7 @@ canonical_url_hash: ce297b0dfa3ddd52
 tags: []
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -35,6 +35,6 @@ TechCrunch reported that Sysdig's JadePuffer incident involved an AI agent execu
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-06-security-researchers-document-jadepuffer-described-as-the-fi]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-05-12-mini-shai-hulud-worm-compromises-mistral-ai-pypi-tanstack-np]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]]
 <!-- graph:end -->

@@ -15,7 +15,7 @@ tags: []
 entities:
 - Anthropic
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-anthropic-adds-reflect-a-claude-usage-recap-dashboard
@@ -32,6 +32,6 @@ Anthropic launched Reflect on July 9, giving Claude users monthly recaps of recu
 ## Connections
 
 **Entities:** [[Anthropic]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-09-anthropic-adds-reflect-a-claude-usage-recap-dashboard]]
 <!-- graph:end -->

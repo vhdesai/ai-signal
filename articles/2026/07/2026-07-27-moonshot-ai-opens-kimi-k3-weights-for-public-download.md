@@ -8,10 +8,11 @@ url_canonical: https://technode.com/2026/07/27/moonshot-ai-to-make-kimi-k3-avail
 url_status: found
 digest_source: digests\raw\2026-07-27_062053_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 4ce202f34e4086a8b43b65b82a195280a3c8aea001c1ac491eeaf39f2e3d8c6b
+content_hash: c9230e7ce1bf82038dcb5bcd09f9212101f46db7873920ab14ea2cb30ad172fe
 normalized_title_hash: 8f0d187f9845832a
 canonical_url_hash: 5d07768241355802
-tags: []
+tags:
+- Launch
 entities: []
 themes:
 - model-capabilities
@@ -26,7 +27,7 @@ event_name: ''
 
 # Moonshot AI opens Kimi K3 weights for public download
 
-Moonshot AI began releasing the model weights for Kimi K3, letting developers download, modify, and self-host what is being described as the largest open-weight model to date — a ~2.8-trillion-parameter Mixture-of-Experts system. The practical catch is scale: the full weights run to roughly 1.4 TB even with MXFP4 quantization, so self-hosting is realistic mainly for large teams or inference providers. Timed just ahead of Shanghai's World AI Conference, the release reinforces China's open-model strategy as a counter to US closed frontier labs. For enterprises, on-prem hosting offers a data-residency path that API access to Chinese models does not.
+Moonshot AI began releasing the model weights for Kimi K3, letting developers download, modify, and self-host what is being described as the largest open-weight model to date — a ~2.8-trillion-parameter Mixture-of-Experts system. The practical catch is scale: the full weights run to roughly 1.4 TB even with MXFP4 quantization, so self-hosting is realistic mainly for large teams or inference providers. Timed just ahead of Shanghai's World AI Conference, the release reinforces China's open-model strategy as a counter to US closed frontier labs. For enterprises, on-prem hosting offers a data-residency path that API access to Chinese models does not. Infrastructure INFRA EARNINGS
 
 <!-- graph:start -->
 ## Connections

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin
 - 2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center
-- 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
-- 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
-- 2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex
+- 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
+- 2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot
+- 2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for
 embedding_id: 2026-05-15-xai-s-mississippi-data-center-50-unchecked-gas-turbines-prom
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI's Mississippi Data Center: 50 Unchecked Gas Turbines Prompt Environmental Sc
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-06-22-microsoft-signs-20-year-power-deal-with-chevron-for-west-tex]]
+**Related:** [[2026-05-15-elon-musk-s-xai-is-reportedly-operating-nearly-50-gas-turbin]] · [[2026-05-14-xai-sued-over-mobile-gas-turbines-at-mississippi-data-center]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]] · [[2026-07-31-spacex-will-not-remove-all-xai-unpermitted-turbines-for-anot]] · [[2026-07-31-spacex-won-t-remove-xai-s-unpermitted-colossus-turbines-for]]
 <!-- graph:end -->

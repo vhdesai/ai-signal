@@ -16,7 +16,7 @@ tags: []
 entities:
 - OpenAI
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
@@ -33,6 +33,6 @@ At SoftBank World 2026 in Tokyo, Masayoshi Son projected that building out AI wi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]]
 <!-- graph:end -->

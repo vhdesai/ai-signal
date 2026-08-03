@@ -8,12 +8,13 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-12_061123_Inbox_Daily AI News Digest - July 12,
   2026.md
-content_hash: f7d3b8ad2caf05095d30d4fc69d82f1cbc17ce7887d78f0ffd70760461ba7de7
+content_hash: 963990280ac4ff8d1535a5e0d6ed60410135d28ac3e92b3dbdeab6447bbce2cf
 normalized_title_hash: 02ae5746e44582e1
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
+- datacenter-infrastructure
 - policy-regulation
 - model-capabilities
 cross_cutting_topics: []
@@ -31,11 +32,11 @@ event_name: ''
 
 # AI-enabled cheating is forcing some schools to go analog
 
-The University of Chicago Law School is banning laptops in first-year classes while expanding AI instruction elsewhere. The model is instructive for employers as well as schools: organizations may need to distinguish between foundational reasoning tasks that should remain unaided and professional workflows where AI augmentation is explicitly trained and governed.
+The University of Chicago Law School is banning laptops in first-year classes while expanding AI instruction elsewhere. The model is instructive for employers as well as schools: organizations may need to distinguish between foundational reasoning tasks that should remain unaided and professional workflows where AI augmentation is explicitly trained and governed. Infrastructure DATA-CENTERSAI-INFRASTRUCTUREENERGY
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-05-22-uc-berkeley-law-bans-ai-for-nearly-all-graded-work]] · [[2026-05-23-uc-berkeley-school-of-law-announced-it-will-prohibit-ai-use]] · [[2026-05-23-uc-berkeley-law-bans-ai-from-nearly-all-graded-work-starting]] · [[2026-07-06-new-study-argues-universities-must-rethink-teaching-and-asse]] · [[2026-05-24-uc-berkeley-law-tightens-ai-rules-without-banning-the-techno]]
 <!-- graph:end -->

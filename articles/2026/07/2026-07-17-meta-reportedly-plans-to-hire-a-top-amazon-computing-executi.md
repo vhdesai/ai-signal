@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands
 - 2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
+- 2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products
 embedding_id: 2026-07-17-meta-reportedly-plans-to-hire-a-top-amazon-computing-executi
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Meta reportedly plans to hire a top Amazon computing executive as it weighs clou
 
 **Entities:** [[Amazon]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]]
+**Related:** [[2026-07-17-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-07-18-meta-hires-senior-aws-compute-chief-dave-brown-as-it-expands]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-07-31-aws-taps-apple-executive-to-lead-key-ai-products]]
 <!-- graph:end -->

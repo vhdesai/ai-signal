@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
 - 2026-07-17-enterprise-communications-technology-news-context-for-ai-nat
-- 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
+- 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
 embedding_id: 2026-07-20-current-ai-a-nonprofit-is-building-open-public-interest-ai-i
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Current AI, a nonprofit, is building open public-interest AI infrastructure for 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-07-17-enterprise-communications-technology-news-context-for-ai-nat]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
+**Related:** [[2026-07-20-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-07-17-enterprise-communications-technology-news-context-for-ai-nat]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]]
 <!-- graph:end -->

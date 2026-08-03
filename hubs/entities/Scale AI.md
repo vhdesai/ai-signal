@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 33
+member_count: 36
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 33 connected article(s).
+> Auto-generated entity hub. 36 connected article(s).
 
+- `2026-07-31` [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia|DeepSeek plans 1-gigawatt data center in Inner Mongolia]]
+- `2026-07-30` [[2026-07-30-scale-ai-names-francis-desouza-as-ceo|Scale AI names Francis deSouza as CEO]]
+- `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]
 - `2026-07-29` [[2026-07-29-cerebras-signs-a-10-year-ai-colocation-agreement-with-cleanc|Cerebras signs a 10-year AI colocation agreement with CleanCore in Minnesota]]
 - `2026-07-29` [[2026-07-29-cerebras-signs-10-year-ai-colocation-deal-with-cleancore-sol|Cerebras signs 10-year AI colocation deal with CleanCore Solutions]]
 - `2026-07-24` [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia|AMD unveils Helios rack-scale AI system to challenge Nvidia at the system level]]

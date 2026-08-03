@@ -8,7 +8,7 @@ url_canonical: https://invezz.com/news/2026/07/08/zhipu-seeks-4b-in-hong-kong-sh
 url_status: found
 digest_source: digests\raw\2026-07-09_061541_Inbox_Daily AI News Digest - July 9,
   2026.md
-content_hash: 844d5cbcb2cad1863998d6aa3e31f64ef8d680bba43ac534acb301cddd71dbd3
+content_hash: cc9fb7dc468d08f8a209cc31349c153ca563948709d58da16c3141e7a76af617
 normalized_title_hash: 3b75efaebffe0c3b
 canonical_url_hash: 039638defdb86365
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # China's Zhipu AI Seeks ~$4B in Hong Kong Share Sale After Rally
 
-Zhipu AI (Z.ai) is seeking roughly $4 billion through a Hong Kong share placement following a strong post-listing rally, priced at a 7–13% discount. The raise funds the next leg of compute and hiring and signals institutional demand strong enough to underwrite dilution. It is a marker of how much capital is still flowing into Chinese frontier-model labs even as Beijing weighs tighter controls on their models.
+Zhipu AI (Z.ai) is seeking roughly $4 billion through a Hong Kong share placement following a strong post-listing rally, priced at a 7–13% discount. The raise funds the next leg of compute and hiring and signals institutional demand strong enough to underwrite dilution. It is a marker of how much capital is still flowing into Chinese frontier-model labs even as Beijing weighs tighter controls on their models. Hot Enterprise
 
 <!-- graph:start -->
 ## Connections

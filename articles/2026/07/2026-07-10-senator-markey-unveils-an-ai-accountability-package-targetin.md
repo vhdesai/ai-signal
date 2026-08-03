@@ -15,7 +15,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills
@@ -31,6 +31,6 @@ Senator Ed Markey introduced a broad AI accountability agenda targeting data-cen
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-10-senator-markey-unveils-an-ai-accountability-package-of-bills]]
 <!-- graph:end -->

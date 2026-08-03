@@ -11,11 +11,12 @@ digest_source: digests\raw\2026-07-27_070014_Inbox_Daily AI News Digest - July 2
 content_hash: c36331254424a5a53cc542e4d4e8eb6230ea7a4a85b5c73b04604cb3980445a9
 normalized_title_hash: b46ebfe2592966e0
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - OpenAI
 themes:
-- datacenter-infrastructure
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai
@@ -32,6 +33,6 @@ Hugging Face CEO Clem Delangue called for full attack logs and a $100 million co
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Policy & Regulation]]
 **Canonical:** [[2026-07-27-hugging-face-ceo-calls-for-radical-transparency-after-openai]]
 <!-- graph:end -->

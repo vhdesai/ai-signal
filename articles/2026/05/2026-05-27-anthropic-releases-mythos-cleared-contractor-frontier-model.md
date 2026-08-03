@@ -9,7 +9,7 @@ url_canonical: https://aiweekly.co/
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: a310d3856698d7add35b79c0ab4ec0b102720a4d5964e656070d96629d377504
+content_hash: cc7be555af2dbec8c7c350a3e6d9c98a5a0d6cb5232fa7cf216e55b0a484fc8c
 normalized_title_hash: c684f7b5ed9e6968
 canonical_url_hash: 1dd91e7e2feaf9d8
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # Anthropic Releases "Mythos" — Cleared-Contractor Frontier Model — to General Public
 
-Anthropic released its previously restricted Mythos frontier model to the general developer market, "collapsing the wall between cleared-contractor frontier AI and developer-grade frontier AI in a single press release." Early reports indicate the model can uncover thousands of zero-days in banking systems, triggering an ECB emergency meeting later in the cycle. European banks were notably excluded from initial access tiers. This is the most structurally significant release in the window.
+Anthropic released its previously restricted Mythos frontier model to the general developer market, "collapsing the wall between cleared-contractor frontier AI and developer-grade frontier AI in a single press release." Early reports indicate the model can uncover thousands of zero-days in banking systems, triggering an ECB emergency meeting later in the cycle. European banks were notably excluded from initial access tiers. This is the most structurally significant release in the window. J
 
 <!-- graph:start -->
 ## Connections

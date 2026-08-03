@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-ro
 url_status: found
 digest_source: digests\raw\2026-07-29_062619_Inbox_Daily AI News Digest - July 29,
   2026.md
-content_hash: 81380cb546672a6f0c711175146942a678de706dc5dc6c69301e80adceb4d4a9
+content_hash: cf23984ee0beb0026f73db79c2dc71525bfbb4f6e8a877071f125aceeb7dcb52
 normalized_title_hash: ad27795052532087
 canonical_url_hash: ba990fadf03ff9a0
 tags: []
@@ -16,6 +16,7 @@ entities:
 - Baidu
 themes:
 - policy-regulation
+- model-capabilities
 cross_cutting_topics:
 - china-compete
 dedupe_status: canonical
@@ -31,12 +32,12 @@ event_name: ''
 
 # Baidu and Lyft enter London's robotaxi market as testing begins
 
-Baidu's Apollo Go autonomous vehicles will begin operating in London through Freenow, the European mobility network Lyft acquired in 2025. It marks a notable push by a Chinese autonomy leader into a major Western market and adds competitive pressure on Waymo and UK operators. Watch regulatory posture: European permitting and safety scrutiny will govern how quickly the deployment scales.
+Baidu's Apollo Go autonomous vehicles will begin operating in London through Freenow, the European mobility network Lyft acquired in 2025. It marks a notable push by a Chinese autonomy leader into a major Western market and adds competitive pressure on Waymo and UK operators. Watch regulatory posture: European permitting and safety scrutiny will govern how quickly the deployment scales. Model Releases M LaunchSecurity
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Baidu]]
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-04-12-more-than-100-baidu-apollo-go-autonomous-robotaxis-experienc]] · [[2026-04-02-breaking-baidu-robotaxi-operations-suspended-in-wuhan-apr-1]] · [[2026-04-01-iran-s-irgc-declared-18-american-and-gulf-technology-compani]] · [[2026-05-26-pony-ai-lifts-2026-robotaxi-fleet-goal-to-3-500-vehicles]]
 <!-- graph:end -->

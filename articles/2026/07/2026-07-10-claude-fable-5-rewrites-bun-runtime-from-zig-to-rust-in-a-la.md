@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 1
 content_hash: 7b45643519659189c96b9b6e07bd7d9806f8124cbae34ddf9da506916e57d576
 normalized_title_hash: e23a65b7bae598f6
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Scale AI
 themes:

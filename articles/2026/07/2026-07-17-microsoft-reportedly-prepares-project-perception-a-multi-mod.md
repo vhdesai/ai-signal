@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod
 - 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
+- 2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio
 - 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
 - 2026-07-27-microsoft-unveils-mai-cyber-1-flash-and-project-perception-f
-- 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
 embedding_id: 2026-07-17-microsoft-reportedly-prepares-project-perception-a-multi-mod
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Microsoft reportedly prepares Project Perception, a multi-model AI cybersecurity
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-27-microsoft-unveils-mai-cyber-1-flash-and-project-perception-f]] · [[2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task]]
+**Related:** [[2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]] · [[2026-07-31-microsoft-introduces-mai-cyber-1-flash-and-project-perceptio]] · [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]] · [[2026-07-27-microsoft-unveils-mai-cyber-1-flash-and-project-perception-f]]
 <!-- graph:end -->

@@ -16,6 +16,7 @@ entities:
 - OpenAI
 themes:
 - policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -37,6 +38,6 @@ The intelligence agencies of the United States, United Kingdom, Canada, Australi
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
 **Related:** [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: https://aiweekly.co/
 url_status: found
 digest_source: digests\raw\2026-05-28_071441_Inbox_Daily AI News Digest – May 28,
   2026.md
-content_hash: 8ac48762cefb0c40f0be83219ab76677142da3324f5cd510609327071f0d7c7d
+content_hash: bca39a478c0138ea5e8b5628fd9e638f089589ad07c881fba5241ba01ab1c9c6
 normalized_title_hash: 5bb7709c6763ba14
 canonical_url_hash: 1dd91e7e2feaf9d8
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # BNP Paribas Partners With Mistral on European Cyber Defense
 
-Following the Anthropic-Mythos disclosure that triggered the ECB emergency meeting, BNP Paribas announced a partnership with Mistral AI to build European cybersecurity defenses specifically against "Mythos-class" frontier models. The deal is one of the more concrete signals that European banks are pursuing a sovereign-AI cyber-defense posture against US frontier labs, with implications for procurement strategies at any multinational financial institution.
+Following the Anthropic-Mythos disclosure that triggered the ECB emergency meeting, BNP Paribas announced a partnership with Mistral AI to build European cybersecurity defenses specifically against "Mythos-class" frontier models. The deal is one of the more concrete signals that European banks are pursuing a sovereign-AI cyber-defense posture against US frontier labs, with implications for procurement strategies at any multinational financial institution. Academic Research S RESEARCH
 
 <!-- graph:start -->
 ## Connections

@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news
 - 2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe
 - 2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 - 2026-07-18-dealbook-andrew-ross-sorkin-nyt-2026-07-18-external-dealbook
-- 2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be
 embedding_id: 2026-07-10-business-insider-2026-07-10-external-today-walmart-won-the-w
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-10] [EXTERNAL] Today: Walmart won the World Cup - [2
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-18-dealbook-andrew-ross-sorkin-nyt-2026-07-18-external-dealbook]] · [[2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be]]
+**Related:** [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news]] · [[2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-18-dealbook-andrew-ross-sorkin-nyt-2026-07-18-external-dealbook]]
 <!-- graph:end -->

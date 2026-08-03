@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-26_061151_Inbox_Daily AI News Digest - July 2
 content_hash: 06ca8526f5ff2fd1a600c36167bd7397ad10e37391fea4cfadf4ad3528977b47
 normalized_title_hash: 110722fa7bfd6122
 canonical_url_hash: ceb4599fcd5cbd49
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - Microsoft

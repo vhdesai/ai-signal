@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
+- 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 - 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 embedding_id: 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
@@ -38,5 +39,5 @@ Meta raised the low end of its annual capital-expenditure forecast to fund its A
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]]
+**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]]
 <!-- graph:end -->

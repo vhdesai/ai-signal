@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-08_074536_Inbox_Daily AI News Digest - July 8
 content_hash: 19e442ef50b46d7888f354ec4a7638781df978bf0db2d83227f200afdfadd21a
 normalized_title_hash: f3b89f52be3a3930
 canonical_url_hash: ''
-tags: []
+tags:
+- Breaking
 entities:
 - Alibaba
 - Anthropic

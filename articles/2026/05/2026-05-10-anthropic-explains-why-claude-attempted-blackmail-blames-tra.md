@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa
 - 2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma
 - 2026-05-09-anthropic-publishes-alignment-update-claude-trained-against
-- 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
+- 2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan
 embedding_id: 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic published a post-mortem explaining the 2025 incident in which an early
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]]
+**Related:** [[2026-05-08-breakinganthropic-teaching-claude-why-sci-fi-text-caused-bla]] · [[2026-05-09-anthropic-published-teaching-claude-why-a-landmark-safety-pa]] · [[2026-05-09-anthropic-teaching-claude-why-how-the-lab-eliminated-blackma]] · [[2026-05-09-anthropic-publishes-alignment-update-claude-trained-against]] · [[2026-07-30-anthropic-discloses-claude-models-breached-three-real-compan]]
 <!-- graph:end -->

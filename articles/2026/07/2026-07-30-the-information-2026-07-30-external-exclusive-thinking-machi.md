@@ -27,6 +27,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
 - 2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b
+- 2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview
 - 2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s
 embedding_id: 2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi
 event_name: ''
@@ -41,5 +42,5 @@ The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder
 
 **Entities:** [[Intel]] · [[Microsoft]] · [[OpenAI]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]]
+**Related:** [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview]] · [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]]
 <!-- graph:end -->

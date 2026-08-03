@@ -14,7 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato
@@ -30,6 +30,6 @@ MarkTechPost reports on FAIRChem v2 UMA for multidomain atomistic simulation acr
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-26-fairchem-v2-uma-a-universal-ml-potential-for-multidomain-ato]]
 <!-- graph:end -->

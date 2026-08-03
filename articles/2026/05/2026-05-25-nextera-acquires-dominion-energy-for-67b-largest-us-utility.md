@@ -9,7 +9,7 @@ url_canonical: https://www.buildfastwithai.com/blogs/ai-news-today-may-25-2026
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: cae4e004b93985b4730ae02efbcc1ce3c9d660b791e732a57287dbc711700d71
+content_hash: c419cb14e51808a97063748e948085480e3b31106d22da6340299a2d8435127d
 normalized_title_hash: ea9981102bc84f9f
 canonical_url_hash: b203a0955f6daec3
 tags: []
@@ -31,7 +31,7 @@ event_name: ''
 
 # NextEra acquires Dominion Energy for $67B — largest US utility merger ever, AI-driven
 
-NextEra Energy announced a $67 billion deal to acquire Dominion Energy — the largest US utility merger in history — with AI-driven power demand as the primary strategic rationale. AI data centers are projected to consume 15–25% of US electricity by 2030. NextEra, operator of the largest renewable portfolio in North America, is acquiring Dominion specifically to build generation and transmission for hyperscale AI workloads.
+NextEra Energy announced a $67 billion deal to acquire Dominion Energy — the largest US utility merger in history — with AI-driven power demand as the primary strategic rationale. AI data centers are projected to consume 15–25% of US electricity by 2030. NextEra, operator of the largest renewable portfolio in North America, is acquiring Dominion specifically to build generation and transmission for hyperscale AI workloads. L A
 
 <!-- graph:start -->
 ## Connections

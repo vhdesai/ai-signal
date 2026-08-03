@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-04-03-anthropic-vs-dod-openai-google-deepmind-employees-rally-behi
+- 2026-07-13-microsoft-anthropic-strategy
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
-- 2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4
 embedding_id: 2026-07-16-microsoft-is-reportedly-training-sales-teams-to-compete-more
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Microsoft is reportedly training sales teams to compete more directly against Op
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-04-03-anthropic-vs-dod-openai-google-deepmind-employees-rally-behi]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]]
+**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-04-03-anthropic-vs-dod-openai-google-deepmind-employees-rally-behi]] · [[2026-07-13-microsoft-anthropic-strategy]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]]
 <!-- graph:end -->

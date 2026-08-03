@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-07-08_060736_Inbox_Daily AI News Digest - July 8
 content_hash: 58fd93a48e39efb6e633c55f7d4136bee63c95fcad6b53332a7573230cdaf57a
 normalized_title_hash: 077719c02ac2d9e2
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Intel
 themes:

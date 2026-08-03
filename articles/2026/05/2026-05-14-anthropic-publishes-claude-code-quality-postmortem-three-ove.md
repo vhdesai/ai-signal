@@ -21,8 +21,7 @@ entities:
 - OpenAI
 - Palantir
 themes:
-- model-capabilities
-- company-storylines
+- policy-regulation
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -43,6 +42,6 @@ Anthropic published a detailed engineering postmortem attributing six weeks of C
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]] · [[OpenAI]] · [[Palantir]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Policy & Regulation]]
 **Related:** [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]] · [[2026-05-09-anthropic-code-w-claude-2026-developer-event-agentic-workflo]] · [[2026-04-23-anthropic-ships-claude-code-quality-and-reliability-fixes]]
 <!-- graph:end -->

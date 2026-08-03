@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme
+- 2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy
+- 2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via
 - 2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific
-- 2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi
-- 2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b
 embedding_id: 2026-04-16-anthropic-has-begun-requiring-government-id-verification-via
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic has begun requiring government ID verification (via Persona) before al
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]] · [[2026-05-24-anthropic-expected-to-keep-supplying-claude-to-the-nsa-despi]] · [[2026-04-01-a-federal-judge-granted-anthropic-a-preliminary-injunction-b]]
+**Related:** [[2026-06-22-anthropic-says-claude-may-ask-users-to-verify-their-governme]] · [[2026-07-30-anthropic-says-its-models-breached-three-companies-during-cy]] · [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-05-23-anthropic-launches-claude-security-public-beta-cyber-verific]]
 <!-- graph:end -->

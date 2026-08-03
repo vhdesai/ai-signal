@@ -8,13 +8,13 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-27_060542_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: d55daab26a62e6c02136ac9223875e9b02c550a0e60f9bc0e1c1f60a4a55fa4c
+content_hash: 987f1da5418ffb4ceb6dbf8b915481c585881ca1c3f1b15041b0e7a45c09ada3
 normalized_title_hash: 1346f82f3c0e100c
 canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- policy-regulation
+- company-storylines
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
@@ -26,11 +26,11 @@ event_name: ''
 
 # Silicon Valley and Washington continue to debate Chinese open-weight AI
 
-TechCrunch analyzed the recent panic over Moonshot AI's Kimi model, noting that concerns about Chinese AI combine security, competitiveness, protectionism, and open-versus-closed model economics.
+TechCrunch analyzed the recent panic over Moonshot AI's Kimi model, noting that concerns about Chinese AI combine security, competitiveness, protectionism, and open-versus-closed model economics. OPENAIWHITE HOUSEAI POLICY
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Policy & Regulation]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Canonical:** [[2026-07-26-making-sense-of-the-panic-over-chinese-ai]]
 <!-- graph:end -->

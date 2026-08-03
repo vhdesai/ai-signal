@@ -14,7 +14,7 @@ canonical_url_hash: ''
 tags: []
 entities: []
 themes:
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +34,6 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]] · [[2026-06-03-mit-news]] · [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]]
 <!-- graph:end -->

@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: 273a9bbd22ab1c2ce89e77c19f18b7453000017b59a54b4a160b94bf36ed1584
 normalized_title_hash: b4e78bc835e65c7c
 canonical_url_hash: ''
-tags: []
+tags:
+- New
 entities: []
 themes:
 - model-capabilities

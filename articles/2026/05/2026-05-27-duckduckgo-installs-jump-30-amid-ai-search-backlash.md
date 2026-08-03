@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
 - 2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ
 - 2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default
 - 2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis
-- 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
 embedding_id: 2026-05-27-duckduckgo-installs-jump-30-amid-ai-search-backlash
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DuckDuckGo reported a roughly 30% surge in app installs over the past month as a
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]]
+**Related:** [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-18-a-new-paper-analyzing-over-160-000-product-launches-on-produ]] · [[2026-07-27-google-s-ai-search-is-rapidly-becoming-the-default]] · [[2026-04-06-apple-is-tightening-app-store-review-policies-after-ai-assis]]
 <!-- graph:end -->

@@ -8,15 +8,14 @@ url_canonical: https://techcrunch.com/2026/07/06/if-you-use-google-youre-trainin
 url_status: found
 digest_source: digests\raw\2026-07-07_061720_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 5eab844905c173b844e090a0404ba5a94c99fcce3de905405005192e088f721f
+content_hash: 9a6516a7e2fa0cd27899626934a804ed9cbe3fe1ec67d61b2b3b5e620055e104
 normalized_title_hash: f228f8ad90b0e4f9
 canonical_url_hash: 553315ec957ffb15
 tags: []
 entities:
 - Google
 themes:
-- policy-regulation
-- model-capabilities
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,12 +30,12 @@ event_name: ''
 
 # If you use Google, you're training its AI. Here's how to opt out.
 
-TechCrunch reported that Google's privacy settings now enable broader use of user activity and uploaded content for AI training unless users opt out. For enterprises, this is less a consumer privacy footnote than a policy issue: employees using personal or unmanaged accounts may expose corporate searches, files, audio, or video to model-training workflows.
+TechCrunch reported that Google's privacy settings now enable broader use of user activity and uploaded content for AI training unless users opt out. For enterprises, this is less a consumer privacy footnote than a policy issue: employees using personal or unmanaged accounts may expose corporate searches, files, audio, or video to model-training workflows. Infrastructure ANTHROPICDATA-CENTERSAI-INFRASTRUCTURE
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Google]]
-**Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-06-03-uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scrapi]] · [[2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]]
 <!-- graph:end -->

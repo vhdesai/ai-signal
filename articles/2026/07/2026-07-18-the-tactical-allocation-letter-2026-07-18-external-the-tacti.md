@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-18-semiconductor-bear-market-capex-market-context
 - 2026-06-20-the-tactical-allocation-letter-2026-06-21-the-tactical-alloc
 - 2026-07-04-the-tactical-allocation-letter-2026-07-04-external-the-tacti
-- 2026-06-27-the-tactical-allocation-letter-2026-06-27-external-the-tacti
+- 2026-08-02-the-tactical-allocation-letter-2026-08-02-external-the-tacti
 embedding_id: 2026-07-18-the-tactical-allocation-letter-2026-07-18-external-the-tacti
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Tactical Allocation Letter - [2026-07-18] [EXTERNAL] The Tactical Allocation
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-semiconductor-bear-market-capex-market-context]] · [[2026-07-18-semiconductor-bear-market-capex-market-context]] · [[2026-06-20-the-tactical-allocation-letter-2026-06-21-the-tactical-alloc]] · [[2026-07-04-the-tactical-allocation-letter-2026-07-04-external-the-tacti]] · [[2026-06-27-the-tactical-allocation-letter-2026-06-27-external-the-tacti]]
+**Related:** [[2026-07-17-semiconductor-bear-market-capex-market-context]] · [[2026-07-18-semiconductor-bear-market-capex-market-context]] · [[2026-06-20-the-tactical-allocation-letter-2026-06-21-the-tactical-alloc]] · [[2026-07-04-the-tactical-allocation-letter-2026-07-04-external-the-tacti]] · [[2026-08-02-the-tactical-allocation-letter-2026-08-02-external-the-tacti]]
 <!-- graph:end -->

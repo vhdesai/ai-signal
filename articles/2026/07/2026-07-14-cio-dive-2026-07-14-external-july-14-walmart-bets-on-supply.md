@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be
 - 2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f
 - 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
+- 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
 - 2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders
-- 2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders
 embedding_id: 2026-07-14-cio-dive-2026-07-14-external-july-14-walmart-bets-on-supply
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-07-14] [EXTERNAL] July 14 - Walmart bets on supply chain AI | T
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders]] · [[2026-07-20-cio-dive-daily-dive-2026-07-20-external-july-20-banks-unders]]
+**Related:** [[2026-07-18-cio-dive-daily-dive-2026-07-18-external-weekender-walmart-be]] · [[2026-07-16-cio-dive-daily-dive-2026-07-16-external-july-16-meet-wells-f]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-07-21-cio-dive-daily-dive-2026-07-21-external-july-20-banks-unders]]
 <!-- graph:end -->

@@ -12,7 +12,8 @@ digest_source: digests\raw\2026-05-20_070632_Inbox_Daily AI News Digest – May 
 content_hash: 3988068a2b9b43b42349253dcbfdc769382aef2666223b2f86fa55baeba295e0
 normalized_title_hash: 153135806683ab1d
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Google
 - OpenAI

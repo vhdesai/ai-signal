@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation
 - 2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits
+- 2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
-- 2026-05-01-6-ai-safety-policy
 embedding_id: 2026-07-13-ai-safety-policy-policy-anthropic-free-speech
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The New York Times reports on what the government's fight with Anthropic reveals
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-05-01-6-ai-safety-policy]]
+**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-16-anthropic-and-openai-are-reported-to-split-on-ai-regulation]] · [[2026-06-21-anthropic-crackdown-debate-shifts-to-who-benefits]] · [[2026-07-30-judge-says-the-u-s-still-lacks-evidence-for-anthropic-supply]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]]
 <!-- graph:end -->

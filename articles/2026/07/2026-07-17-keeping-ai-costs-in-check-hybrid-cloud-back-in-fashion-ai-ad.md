@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
 - 2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co
 - 2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps
+- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
-- 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 embedding_id: 2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Keeping AI costs in check; hybrid cloud back in fashion; AI adoption for cyber d
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]]
+**Related:** [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-17-pitchbook-s-data-center-fatigue-and-cio-dive-s-keeping-ai-co]] · [[2026-07-25-cios-confront-ai-skills-trust-and-budget-gaps]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

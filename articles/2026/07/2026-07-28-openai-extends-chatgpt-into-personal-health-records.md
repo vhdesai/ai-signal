@@ -8,14 +8,15 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-28_061729_Inbox_Daily AI News Digest - July 28,
   2026.md
-content_hash: 79039f7add6fb7840729c38c7bb444508a8fbc87744bfabb37060787b30d45c6
+content_hash: 204913f490b01605be6bc4bedd1a365cb9ef59c6ce5e143e956721a2c4812ee7
 normalized_title_hash: a0bdf737ca251d01
 canonical_url_hash: ''
 tags: []
 entities:
 - Apple
 - OpenAI
-themes: []
+themes:
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -30,11 +31,12 @@ event_name: ''
 
 # OpenAI Extends ChatGPT into Personal Health Records
 
-OpenAI rolled out a health feature for U.S. ChatGPT users that lets them connect Apple Health and supported medical records to organize lab results, prescriptions, and reports.
+OpenAI rolled out a health feature for U.S. ChatGPT users that lets them connect Apple Health and supported medical records to organize lab results, prescriptions, and reports. Infrastructure N O BREAKING Data Centers
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]] · [[2026-05-17-openai-launched-chatgpt-for-personal-finance-for-pro-users-c]] · [[2026-05-18-hot-openai-rolls-out-chatgpt-personal-finance-in-us-with-ban]]
 <!-- graph:end -->

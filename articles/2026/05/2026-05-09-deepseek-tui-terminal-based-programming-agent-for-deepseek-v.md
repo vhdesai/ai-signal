@@ -25,9 +25,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc
+- 2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta
 - 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
 - 2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua
-- 2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier
 embedding_id: 2026-05-09-deepseek-tui-terminal-based-programming-agent-for-deepseek-v
 event_name: ''
 ---
@@ -41,5 +41,5 @@ An open-source developer released DeepSeek-TUI, a terminal user interface that i
 
 **Entities:** [[DeepSeek]] · [[Huawei]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]] · [[2026-05-02-simon-willison-deepseek-v4-is-almost-on-the-frontier]]
+**Related:** [[2026-05-01-deepseek-v4-reshapes-chinese-ai-compute-demand-on-huawei-asc]] · [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]] · [[2026-04-24-deepseek-v4-launches-1m-token-multimodal-model-debuts-on-hua]]
 <!-- graph:end -->

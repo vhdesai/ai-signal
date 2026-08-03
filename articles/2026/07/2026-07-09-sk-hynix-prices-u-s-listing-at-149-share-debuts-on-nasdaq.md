@@ -11,11 +11,13 @@ digest_source: digests\raw\2026-07-10_065350_Inbox_Daily AI News Digest - July 1
 content_hash: 0402697d6139b938c69746f569d6c1e4a9d713b73847091ad317f163fbaa9fbd
 normalized_title_hash: e9ec570140c5b55e
 canonical_url_hash: 4180fa5f10d32d88
-tags: []
+tags:
+- Hot
 entities:
 - Anthropic
 - OpenAI
-themes: []
+themes:
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda
@@ -32,5 +34,6 @@ SK Hynix priced its U.S. offering at $149/share — the largest first-time forei
 ## Connections
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-09-sk-hynix-prices-u-s-listing-at-149-share-and-debuts-on-nasda]]
 <!-- graph:end -->

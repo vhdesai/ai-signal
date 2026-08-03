@@ -11,19 +11,16 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 6f992d6d7b86b590c6d6424c209eed657c3c7831710a118d2c197cf3b15edc4a
 normalized_title_hash: 7082340da21b85c7
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Microsoft
 themes:
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat
-- 2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt
-- 2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors
+dedupe_status: duplicate
+canonical_article_id: 2026-07-13-microsoft-anthropic-strategy
+related_article_ids: []
 embedding_id: 2026-07-13-satya-nadella-takes-a-veiled-swipe-at-model-only-ai-companie
 event_name: ''
 ---
@@ -36,6 +33,6 @@ Microsoft CEO Satya Nadella indirectly criticized AI companies whose value is co
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-22-microsoft-s-satya-nadella-warns-against-ai-market-concentrat]] · [[2026-07-27-satya-nadella-warns-companies-not-to-trust-one-ai-for-everyt]] · [[2026-07-13-nadella-warns-enterprises-of-a-proprietary-model-trojan-hors]]
+**Topics:** [[Corporate Moves]]
+**Canonical:** [[2026-07-13-microsoft-anthropic-strategy]]
 <!-- graph:end -->

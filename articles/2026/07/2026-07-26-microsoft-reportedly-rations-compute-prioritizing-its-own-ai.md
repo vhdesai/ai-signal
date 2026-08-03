@@ -9,10 +9,11 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-27_061009_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 7c1d0363c1fecb0d467ebcf2542d327641b80a383a1d083941163ac22e843e52
+content_hash: dde372f3432c35ad4a704e49a6825e06e1129e202454dd65c85f8cc122c7071e
 normalized_title_hash: 4fd0b1e67cfa4969
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - Microsoft
 themes:
@@ -31,7 +32,7 @@ event_name: ''
 
 # Microsoft reportedly rations compute, prioritizing its own AI over some Azure customers
 
-Business Insider reports Microsoft is sufficiently compute-constrained that it is prioritizing its own AI products over some Azure cloud customers. If accurate, the trade-off cuts against Azure's core promise of on-demand capacity and shows how acute the industry-wide chip-and-power shortage has become — even at the largest providers. Enterprises with critical AI workloads may need to negotiate firm capacity commitments rather than assume elastic availability.
+Business Insider reports Microsoft is sufficiently compute-constrained that it is prioritizing its own AI products over some Azure cloud customers. If accurate, the trade-off cuts against Azure's core promise of on-demand capacity and shows how acute the industry-wide chip-and-power shortage has become — even at the largest providers. Enterprises with critical AI workloads may need to negotiate firm capacity commitments rather than assume elastic availability. URL not verified INFRASTRUCTUREMARKETS
 
 <!-- graph:start -->
 ## Connections

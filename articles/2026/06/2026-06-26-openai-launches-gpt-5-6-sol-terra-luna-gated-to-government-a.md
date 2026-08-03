@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-06-28_061921_Inbox_Daily AI News Digest - June 2
 content_hash: 268239fcea25e9283d0f0153560aa08b43bfc0c7270631c29f09fe81bccc7f8c
 normalized_title_hash: a1d5cce60cd6c9ce
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities:
 - OpenAI
 themes:

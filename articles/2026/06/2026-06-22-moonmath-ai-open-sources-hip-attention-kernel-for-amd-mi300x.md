@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire
+- 2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts
 - 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
 - 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
 - 2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at
@@ -39,5 +40,5 @@ Open-sourced a HIP attention kernel for AMD's MI300X GPU that outperforms AMD's 
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
+**Related:** [[2026-05-07-new-zaya1-8b-competitive-open-reasoning-model-trained-entire]] · [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-05-22-gated-deltanet-2-nvidia-uw-decouple-erase-write-in-linear-at]]
 <!-- graph:end -->

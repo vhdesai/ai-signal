@@ -8,13 +8,13 @@ url_canonical: https://techfundingnews.com/oxylabs-130m-warburg-pincus-3-6b-valu
 url_status: found
 digest_source: digests\raw\2026-07-11_060959_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: 4d183baf5378f79d1c582c95ab087f58142120b19e43204cc7fa8c3f4f0b2849
+content_hash: 39ef959d0b77772a5d70ee53e9aeacbb182e6404a8a82038824f102d67b8a6e5
 normalized_title_hash: fae69ae9a85ef226
 canonical_url_hash: 4a2030bce061deba
 tags: []
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -27,11 +27,11 @@ event_name: ''
 
 # Oxylabs raises $130M from Warburg Pincus at a $3.6B valuation
 
-Vilnius-based Oxylabs took its first outside investment in a decade — $130M from Warburg Pincus at a $3.6B valuation — reframing its web-scraping/proxy business as "live" data infrastructure for AI agents that browse the web. The company reports 350,000+ customers and $350M+ ARR, roughly a 10x revenue multiple. The deal marks where AI capital is rotating: away from models and toward the real-time data and retrieval layer that agentic systems depend on.
+Vilnius-based Oxylabs took its first outside investment in a decade — $130M from Warburg Pincus at a $3.6B valuation — reframing its web-scraping/proxy business as "live" data infrastructure for AI agents that browse the web. The company reports 350,000+ customers and $350M+ ARR, roughly a 10x revenue multiple. The deal marks where AI capital is rotating: away from models and toward the real-time data and retrieval layer that agentic systems depend on. Research Breakthroughs BREAKTHROUGH AGENTIC CODING
 
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-09-oxylabs-hits-3-6b-valuation-as-ai-training-data-infrastructu]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
 <!-- graph:end -->

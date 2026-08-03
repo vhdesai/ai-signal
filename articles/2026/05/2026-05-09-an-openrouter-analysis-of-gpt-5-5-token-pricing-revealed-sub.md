@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
+- 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
+- 2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-05-23-gpt-5-5-is-openai-s-most-capable-and-first-ground-up-retrain
-- 2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability
-- 2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra
 embedding_id: 2026-05-09-an-openrouter-analysis-of-gpt-5-5-token-pricing-revealed-sub
 event_name: ''
 ---
@@ -40,5 +40,5 @@ An OpenRouter analysis of GPT-5.5 token pricing revealed substantial cost increa
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-05-23-gpt-5-5-is-openai-s-most-capable-and-first-ground-up-retrain]] · [[2026-07-09-openai-moves-gpt-5-6-sol-terra-luna-to-broad-availability]] · [[2026-04-23-gpt-5-5-spud-rolls-out-to-chatgpt-and-codex-first-full-retra]]
+**Related:** [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]] · [[2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-05-23-gpt-5-5-is-openai-s-most-capable-and-first-ground-up-retrain]]
 <!-- graph:end -->

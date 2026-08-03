@@ -19,6 +19,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2
 - 2026-05-07-student-debt-spiral-2026-05-07-business-insider
+- 2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins
 - 2026-06-20-wall-street-journal-wsj-2026-06-20-the-10-point-america-s-we
 - 2026-07-08-wall-street-journal-wsj-2026-07-08-external-the-10-point-dem
 embedding_id: 2026-05-01-u-s-debt-smashes-through-unthinkable-milestone
@@ -32,5 +33,5 @@ U.S. Debt Smashes Through Unthinkable Milestone. Can It Be Stopped? [2026-05-01]
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-01-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2]] · [[2026-05-07-student-debt-spiral-2026-05-07-business-insider]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-the-10-point-america-s-we]] · [[2026-07-08-wall-street-journal-wsj-2026-07-08-external-the-10-point-dem]]
+**Related:** [[2026-05-01-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2]] · [[2026-05-07-student-debt-spiral-2026-05-07-business-insider]] · [[2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins]] · [[2026-06-20-wall-street-journal-wsj-2026-06-20-the-10-point-america-s-we]] · [[2026-07-08-wall-street-journal-wsj-2026-07-08-external-the-10-point-dem]]
 <!-- graph:end -->

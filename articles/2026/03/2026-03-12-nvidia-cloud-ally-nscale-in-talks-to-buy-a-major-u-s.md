@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-12-the-information-logo-nvidia-cloud-ally-nscale-in-talks-to-bu
-- 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
-- 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
-- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
-- 2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data
+- 2026-07-30-nscale-to-acquire-anyscale-for-1-65b
+- 2026-07-30-nscale-buys-anyscale-to-own-more-of-the-ai-compute-stack
+- 2026-07-31-nscale-acquires-anyscale-for-a-reported-1-65b-to-own-more-of
+- 2026-07-30-nscale-s-anyscale-deal-shows-ai-compute-providers-moving-up
 embedding_id: 2026-03-12-nvidia-cloud-ally-nscale-in-talks-to-buy-a-major-u-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Nvidia Cloud Ally Nscale in Talks to Buy a Major U.S. Data Center Site Ahead of 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-12-the-information-logo-nvidia-cloud-ally-nscale-in-talks-to-bu]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-07-27-nvidia-in-talks-to-help-fund-a-500b-10-gigawatt-openai-data]]
+**Related:** [[2026-03-12-the-information-logo-nvidia-cloud-ally-nscale-in-talks-to-bu]] · [[2026-07-30-nscale-to-acquire-anyscale-for-1-65b]] · [[2026-07-30-nscale-buys-anyscale-to-own-more-of-the-ai-compute-stack]] · [[2026-07-31-nscale-acquires-anyscale-for-a-reported-1-65b-to-own-more-of]] · [[2026-07-30-nscale-s-anyscale-deal-shows-ai-compute-providers-moving-up]]
 <!-- graph:end -->

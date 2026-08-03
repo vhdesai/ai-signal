@@ -8,10 +8,11 @@ url_canonical: https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.htm
 url_status: found
 digest_source: digests\raw\2026-06-25_062805_Inbox_Daily AI News Digest - June 25,
   2026.md
-content_hash: 9409b95ea0b5413e1b11a732bc2e0ed5e1df6a43dfb818b97760c4bc3a572f2e
+content_hash: e280a2d61e4a524bafe5aacfbfd14b790a1c699b8bebf4e9fc85134ffec22e9b
 normalized_title_hash: 47db977781bdf0dd
 canonical_url_hash: a8b8798b700e6b17
-tags: []
+tags:
+- Hot
 entities:
 - Meta
 themes:
@@ -30,7 +31,7 @@ event_name: ''
 
 # Qualcomm enters the data-center CPU race with Dragonfly C1000 and Meta as customer
 
-Qualcomm revealed the Dragonfly C1000, a data-center CPU built for agentic AI with an emphasis on performance-per-watt, naming Meta as a customer when production begins in 2028. The company nearly doubled its fiscal-2029 non-handset revenue target to $40B and set a $15B data-center sales goal, sending shares up ~15% after hours. Qualcomm also acquired Modular — software it frames as a CUDA alternative — and disclosed two custom-silicon deals with hyperscalers, marking an aggressive pivot beyond smartphones.
+Qualcomm revealed the Dragonfly C1000, a data-center CPU built for agentic AI with an emphasis on performance-per-watt, naming Meta as a customer when production begins in 2028. The company nearly doubled its fiscal-2029 non-handset revenue target to $40B and set a $15B data-center sales goal, sending shares up ~15% after hours. Qualcomm also acquired Modular — software it frames as a CUDA alternative — and disclosed two custom-silicon deals with hyperscalers, marking an aggressive pivot beyond smartphones. INFRA MEMORY ANALYSIS
 
 <!-- graph:start -->
 ## Connections

@@ -8,7 +8,7 @@ url_canonical: https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-codi
 url_status: found
 digest_source: digests\raw\2026-07-11_062053_Inbox_Daily AI News Digest - July 11,
   2026.md
-content_hash: 611cc578866c6a21cc049ec763cf320233068bc52b6b088a791b74b5722df5cf
+content_hash: 00927e7413c61e564810f9901c76f8df5c783a263fb3377f361651243525c306
 normalized_title_hash: ec808cf530e877e3
 canonical_url_hash: 9683c84e437bc211
 tags:
@@ -29,7 +29,7 @@ event_name: ''
 
 # Meta enters the agentic-coding race with Muse Spark 1.1
 
-Meta publicly launched Muse Spark 1.1, a multimodal model built for agentic coding — multistep reasoning, bug-fixing, large code migrations and enterprise workflow deployment — putting it in direct competition with OpenAI and Anthropic. Pricing is competitive at $1.25 per million input and $4.25 per million output tokens, roughly in line with (though slightly above) Anthropic's Claude Haiku tier. Meta is later to this market than its rivals, but its distribution and pricing make it a credible enterprise entrant rather than a fast-follow footnote.
+Meta publicly launched Muse Spark 1.1, a multimodal model built for agentic coding — multistep reasoning, bug-fixing, large code migrations and enterprise workflow deployment — putting it in direct competition with OpenAI and Anthropic. Pricing is competitive at $1.25 per million input and $4.25 per million output tokens, roughly in line with (though slightly above) Anthropic's Claude Haiku tier. Meta is later to this market than its rivals, but its distribution and pricing make it a credible enterprise entrant rather than a fast-follow footnote. Products & Tools O PRODUCT
 
 <!-- graph:start -->
 ## Connections

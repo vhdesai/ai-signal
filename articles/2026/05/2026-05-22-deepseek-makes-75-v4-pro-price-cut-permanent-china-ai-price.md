@@ -8,7 +8,7 @@ url_canonical: https://www.ibtimes.sg/deepseek-cuts-v4-pro-ai-model-prices-by-75
 url_status: found
 digest_source: digests\raw\2026-05-26_071831_Inbox_Daily AI News Digest – May 26,
   2026.md
-content_hash: c9ebb7e7ae9de2306ecab9e10a6c07e1d090571fa1cc256e676ac9f7385aed35
+content_hash: 3132727c3664602f28c83cc297099cf218838348b10a7fa3c30c8f2d35bd0a17
 normalized_title_hash: b535671da9e0a144
 canonical_url_hash: 45fb656aaccc17e5
 tags: []
@@ -34,7 +34,7 @@ event_name: ''
 
 # DeepSeek makes 75% V4-Pro price cut permanent — China AI price war intensifies
 
-DeepSeek announced it will permanently reduce flagship V4-Pro AI model prices by up to 75%, lowering API costs to $0.435 / $0.87 per 1M input/output tokens. The cut comes as Huawei Ascend 950 chip supplies ease compute constraints. A clear signal that Chinese-stack inference economics are decoupling from the NVIDIA-priced US market.
+DeepSeek announced it will permanently reduce flagship V4-Pro AI model prices by up to 75%, lowering API costs to $0.435 / $0.87 per 1M input/output tokens. The cut comes as Huawei Ascend 950 chip supplies ease compute constraints. A clear signal that Chinese-stack inference economics are decoupling from the NVIDIA-priced US market. A M
 
 <!-- graph:start -->
 ## Connections

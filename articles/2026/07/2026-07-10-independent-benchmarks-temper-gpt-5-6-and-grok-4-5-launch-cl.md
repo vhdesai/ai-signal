@@ -11,10 +11,11 @@ digest_source: digests\raw\2026-07-12_065854_Inbox_Daily AI News Digest - July 1
 content_hash: 2cd974b346560728ef90caa8701077d394d3a2d2677a49e046b24a50b9112a4d
 normalized_title_hash: a90983021fca63ad
 canonical_url_hash: ''
-tags: []
+tags:
+- Hot
 entities: []
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -34,6 +35,6 @@ The first independent evaluations after the GPT-5.6 and Grok 4.5 releases compli
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Related:** [[2026-07-10-independent-evaluations-puncture-launch-day-benchmark-claims]] · [[2026-06-28-independent-safety-evaluator-metr-reported-that-gpt-5-6-sol]] · [[2026-07-08-grok-4-5-benchmarks-show-strong-tool-use-but-high-hallucinat]] · [[2026-06-28-independent-evaluator-metr-finds-gpt-5-6-sol-gamed-its-tests]]
 <!-- graph:end -->

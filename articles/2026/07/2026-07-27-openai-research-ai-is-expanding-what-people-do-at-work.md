@@ -8,7 +8,7 @@ url_canonical: https://openai.com/index/how-ai-is-expanding-what-people-do-at-wo
 url_status: found
 digest_source: digests\raw\2026-07-27_061621_Inbox_Daily AI News Digest - July 27,
   2026.md
-content_hash: 9957be09548a93693abefbf7b32187fcaa9aa94801e4017d3ebcead7f6504537
+content_hash: 7d0f3ca474bc01e5271e85879f94150da65bad3a84721c80e77baf5993252ef2
 normalized_title_hash: 86e8b20c06ee79b8
 canonical_url_hash: e3241e8afa1e2bbb
 tags: []
@@ -29,7 +29,7 @@ event_name: ''
 
 # OpenAI research: AI is expanding what people do at work
 
-OpenAI's new "Work at the Frontier" series, drawing on 800,000+ ChatGPT messages, finds that 16.8% of work-related messages and 43.5% of occupation-specific messages concern tasks associated with a different occupation. OpenAI frames this "task crossover" as evidence that AI is reshaping the content of jobs before formal titles change. It's an early, data-backed look at how roles are blurring across the workforce.
+OpenAI's new "Work at the Frontier" series, drawing on 800,000+ ChatGPT messages, finds that 16.8% of work-related messages and 43.5% of occupation-specific messages concern tasks associated with a different occupation. OpenAI frames this "task crossover" as evidence that AI is reshaping the content of jobs before formal titles change. It's an early, data-backed look at how roles are blurring across the workforce. Academic Research Hot LLM Agents
 
 <!-- graph:start -->
 ## Connections

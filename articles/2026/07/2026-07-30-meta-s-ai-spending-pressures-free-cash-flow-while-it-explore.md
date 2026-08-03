@@ -11,20 +11,21 @@ digest_source: digests\raw\2026-07-30_101412_Inbox_Fw Daily AI News Digest - Jul
 content_hash: 164e3793b05f846269d72887444007d8d044d3092865a315b958e44888d56d0b
 normalized_title_hash: 50888de7cdcdfd4a
 canonical_url_hash: a435c4ed2f04756b
-tags: []
+tags:
+- Breaking
 entities:
 - Anthropic
 - Meta
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla
 - 2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down
 - 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 - 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
-- 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 embedding_id: 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
 event_name: ''
 ---
@@ -37,6 +38,6 @@ Meta reported record revenue, but profit fell 14% to $18.3 billion as operating 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Meta]]
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]] · [[2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-30-meta-raises-the-floor-on-ai-spending-as-free-cash-flow-colla]] · [[2026-07-29-meta-s-free-cash-flow-craters-91-as-zuckerberg-doubles-down]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
 <!-- graph:end -->

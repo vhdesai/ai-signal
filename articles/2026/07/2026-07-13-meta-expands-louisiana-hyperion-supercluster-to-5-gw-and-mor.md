@@ -11,7 +11,8 @@ digest_source: digests\raw\2026-07-13_073050_Inbox_Fw Daily AI News Digest - Jul
 content_hash: f6ee935a7189f7777e645ef93e2f4f509cd7860474aad4f842cd0647c664f18c
 normalized_title_hash: ce94a59439f6135a
 canonical_url_hash: 45cdabaa9ddfd061
-tags: []
+tags:
+- Hot
 entities:
 - Meta
 themes:
@@ -22,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c
 - 2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill
+- 2026-07-13-infrastructure-meta-capex
 - 2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
 embedding_id: 2026-07-13-meta-expands-louisiana-hyperion-supercluster-to-5-gw-and-mor
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Meta will scale Hyperion to 5 GW at >$50B — up from initial ~$10B/2 GW. Partne
 
 **Entities:** [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]]
+**Related:** [[2026-07-13-meta-pours-an-additional-40b-into-its-hyperion-data-center-c]] · [[2026-07-13-capital-and-governance-outran-the-model-race-four-multi-bill]] · [[2026-07-13-infrastructure-meta-capex]] · [[2026-07-28-meta-and-blackrock-form-14b-jv-to-build-a-1-gw-el-paso-ai-da]]
 <!-- graph:end -->

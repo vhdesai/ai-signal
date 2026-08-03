@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
-- 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
+- 2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth
 embedding_id: 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Chevron said it is negotiating additional U.S. data-center power deals across th
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]]
+**Related:** [[2026-06-22-chevron-strikes-power-deal-with-microsoft-for-west-texas-ai]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25]] · [[2026-07-31-spacex-says-xai-s-unpermitted-turbines-will-remain-for-anoth]]
 <!-- graph:end -->

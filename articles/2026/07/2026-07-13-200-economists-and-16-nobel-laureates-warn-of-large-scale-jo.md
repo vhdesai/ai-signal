@@ -18,7 +18,7 @@ entities:
 - Google
 - OpenAI
 themes:
-- policy-regulation
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now
@@ -35,6 +35,6 @@ A joint statement titled “We Must Act Now” — signed by more than 200 econo
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Topics:** [[Policy & Regulation]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-13-16-nobel-laureates-and-200-economists-issue-we-must-act-now]]
 <!-- graph:end -->

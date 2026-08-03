@@ -11,10 +11,12 @@ digest_source: digests\raw\2026-07-29_070258_Inbox_Daily AI News Digest - July 2
 content_hash: 79c5475a978ffa54b3ae6da72b9df8b668f212e47d5e99ca06c6755194824e82
 normalized_title_hash: 900f48f145acfbd4
 canonical_url_hash: ''
-tags: []
+tags:
+- Trending
 entities:
 - TSMC
-themes: []
+themes:
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -31,4 +33,5 @@ TSMC said it is gradually resuming operations at its Kumamoto, Japan, plant afte
 ## Connections
 
 **Entities:** [[TSMC]]
+**Topics:** [[Infrastructure & Compute]]
 <!-- graph:end -->

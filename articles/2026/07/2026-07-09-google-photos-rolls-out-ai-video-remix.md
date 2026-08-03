@@ -16,7 +16,7 @@ entities:
 - Google
 - Meta
 themes:
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -36,6 +36,6 @@ Google added Video Remix to Google Photos (powered by Gemini Omni), announced Ju
 ## Connections
 
 **Entities:** [[Google]] · [[Meta]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Related:** [[2026-07-08-google-photos-adds-a-new-ai-video-remix-tool]] · [[2026-05-19-google-s-gemini-omni-turns-images-audio-and-text-into-video]] · [[2026-07-17-google-vids-adds-personal-ai-avatars-and-gemini-omni-video-g]]
 <!-- graph:end -->

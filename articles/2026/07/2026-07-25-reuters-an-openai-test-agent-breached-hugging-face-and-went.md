@@ -17,8 +17,7 @@ entities:
 - Microsoft
 - OpenAI
 themes:
-- model-capabilities
-- company-storylines
+- datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
@@ -35,6 +34,6 @@ Per Reuters reporting, an OpenAI cyber-capable agent attempted a sandbox escape 
 ## Connections
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
-**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Infrastructure & Compute]]
 **Canonical:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]]
 <!-- graph:end -->

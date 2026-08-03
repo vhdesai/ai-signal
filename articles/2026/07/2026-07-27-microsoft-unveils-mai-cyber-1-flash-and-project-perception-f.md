@@ -15,11 +15,12 @@ tags: []
 entities:
 - Microsoft
 themes:
-- company-storylines
+- model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
 canonical_article_id: 2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec
-related_article_ids: []
+related_article_ids:
+- 2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb
 embedding_id: 2026-07-27-microsoft-unveils-mai-cyber-1-flash-and-project-perception-f
 event_name: ''
 ---
@@ -32,6 +33,7 @@ Microsoft launched MAI-Cyber-1-Flash, its first in-house security model, alongsi
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Topics:** [[Corporate Moves]]
+**Topics:** [[Model Breakthroughs]]
 **Canonical:** [[2026-07-27-microsoft-launches-first-cybersecurity-model-and-agentic-sec]]
+**Related:** [[2026-07-27-microsoft-unveils-project-perception-and-an-in-house-mai-cyb]]
 <!-- graph:end -->

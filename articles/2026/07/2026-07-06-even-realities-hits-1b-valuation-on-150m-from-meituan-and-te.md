@@ -8,7 +8,7 @@ url_canonical: null
 url_status: missing
 digest_source: digests\raw\2026-07-07_061919_Inbox_Daily AI News Digest - July 7,
   2026.md
-content_hash: 7d627101219d97e90023d07610ec86bb0498f0728b4401b014bc963990145f9b
+content_hash: b4b917eb1a7f8be730c6abe88d0b5d072c725568095a13490b5b0a58b7b4bff5
 normalized_title_hash: bcf9ad0aaf5dd6a7
 canonical_url_hash: ''
 tags: []
@@ -16,6 +16,7 @@ entities:
 - Meta
 - Tencent
 themes:
+- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -32,12 +33,12 @@ event_name: ''
 
 # Even Realities hits $1B valuation on $150M from Meituan and Tencent
 
-Shenzhen-based smart-glasses startup Even Realities raised $150 million in a pre-Series B led by Meituan and existing backer Tencent, reaching a $1 billion valuation. Unlike Meta and Snap's camera-first designs, Even is betting on display-only glasses that project information into the wearer's line of sight without an outward-facing camera, positioning privacy as a differentiator. The round underscores continued Chinese strategic-investor appetite for consumer AI hardware. 🔗 techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuationhttps://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
+Shenzhen-based smart-glasses startup Even Realities raised $150 million in a pre-Series B led by Meituan and existing backer Tencent, reaching a $1 billion valuation. Unlike Meta and Snap's camera-first designs, Even is betting on display-only glasses that project information into the wearer's line of sight without an outward-facing camera, positioning privacy as a differentiator. The round underscores continued Chinese strategic-investor appetite for consumer AI hardware. 🔗 techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuationhttps://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/ Model Releases MODEL LEAK UNVERIFIED
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Meta]] · [[Tencent]]
-**Topics:** [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-06-even-realities-hits-1b-valuation-with-smart-glasses-funding]] · [[2026-05-10-deepseek-nears-45b-valuation-china-s-big-fund-tencent-alibab]] · [[2026-05-09-deepseek-closing-45-50b-first-external-funding-round]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
 <!-- graph:end -->

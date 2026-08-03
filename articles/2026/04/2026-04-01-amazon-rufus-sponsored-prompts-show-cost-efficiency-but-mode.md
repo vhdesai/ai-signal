@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating
 - 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 - 2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn
+- 2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity
 - 2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage
-- 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
 embedding_id: 2026-04-01-amazon-rufus-sponsored-prompts-show-cost-efficiency-but-mode
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Amazon Rufus "Sponsored Prompts" Show Cost Efficiency but Modest Traffic Gains
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]]
+**Related:** [[2026-04-01-amazon-s-rufus-ai-shopping-assistant-has-begun-incorporating]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]] · [[2026-05-14-amazon-retires-rufus-and-launches-an-alexa-shopping-agent-cn]] · [[2026-07-30-amazon-q2-aws-37-ai-demand-outpaces-capacity]] · [[2026-05-18-amazon-reorganizes-shopping-ai-alexa-front-rufus-backstage]]
 <!-- graph:end -->

@@ -11,19 +11,20 @@ digest_source: digests\raw\2026-07-26_061102_Inbox_Daily AI News Digest - July 2
 content_hash: 8a9e295256cf28407346f1b7f8a9bccc49495a75a6a045b03ecf824061c9d90f
 normalized_title_hash: 94defbb6b6b88421
 canonical_url_hash: 4e5f641f036ebca4
-tags: []
+tags:
+- Trending
 entities: []
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-26-ai-becomes-part-of-the-american-family
 - 2026-04-06-axios-ai-april-5-2026
+- 2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent
+- 2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 embedding_id: 2026-07-25-ai-moves-into-family-life
 event_name: ''
 ---
@@ -35,6 +36,6 @@ Axios examined how AI is embedding itself into everyday household routines — f
 <!-- graph:start -->
 ## Connections
 
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-26-ai-becomes-part-of-the-american-family]] · [[2026-04-06-axios-ai-april-5-2026]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-26-ai-becomes-part-of-the-american-family]] · [[2026-04-06-axios-ai-april-5-2026]] · [[2026-08-01-sam-altman-continues-pitching-chatgpt-as-a-family-and-parent]] · [[2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
 <!-- graph:end -->

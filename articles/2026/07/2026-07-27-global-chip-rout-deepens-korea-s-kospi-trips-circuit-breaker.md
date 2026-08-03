@@ -11,14 +11,13 @@ digest_source: digests\raw\2026-07-28_060942_Inbox_Daily AI News Digest - July 2
 content_hash: ebb06a7bf303f648bc70fb54a6915004e89cc6977a7b35690821dc326619dfa6
 normalized_title_hash: 09e7b9f6a5dcc34f
 canonical_url_hash: 5b6a88642538dcca
-tags: []
+tags:
+- Hot
 entities:
 - AMD
 - NVIDIA
 - Samsung
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics:
 - china-compete
@@ -41,6 +40,6 @@ South Korean and Japanese chip stocks led a fresh global selloff, with SK hynix 
 ## Connections
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[Samsung]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
+**Topics:** [[Corporate Moves]] · [[Global AI Race]]
 **Related:** [[2026-07-13-sk-hynix-shares-plunge-12-15-in-seoul-triggering-kospi-circu]] · [[2026-06-26-global-tech-sell-off-as-investors-reprice-ai-kospi-triggers]] · [[2026-06-27-global-tech-stocks-tumbled-as-investors-questioned-ai-valuat]] · [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]]
 <!-- graph:end -->

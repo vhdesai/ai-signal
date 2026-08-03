@@ -14,11 +14,15 @@ normalized_title_hash: 40721697ac81c4f8
 canonical_url_hash: c4a4230f45e35aff
 tags: []
 entities:
+- Huawei
+- NVIDIA
 - Tesla
 - xAI
 themes:
+- datacenter-infrastructure
 - model-capabilities
-cross_cutting_topics: []
+cross_cutting_topics:
+- china-compete
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
@@ -37,7 +41,7 @@ xAI's Grok 4.5, built on its 1.5-trillion-parameter V9 foundation model, entered
 <!-- graph:start -->
 ## Connections
 
-**Entities:** [[Tesla]] · [[xAI]]
-**Topics:** [[Model Breakthroughs]]
+**Entities:** [[Huawei]] · [[NVIDIA]] · [[Tesla]] · [[xAI]]
+**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
 **Related:** [[2026-06-28-xai-puts-a-1-5-trillion-parameter-grok-4-5-into-private-beta]] · [[2026-07-08-musk-sets-grok-4-5-public-release-for-thursday-pitching-an-o]] · [[2026-07-08-xai-spacexai-to-launch-grok-4-5-publicly-thursday-musk-calls]] · [[2026-07-08-xai-ships-grok-4-5-aimed-squarely-at-coding-and-agentic-work]]
 <!-- graph:end -->

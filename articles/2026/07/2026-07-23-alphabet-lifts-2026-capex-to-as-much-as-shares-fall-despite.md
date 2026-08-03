@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc
 - 2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c
 - 2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls
-- 2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands
+- 2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to
 embedding_id: 2026-07-23-alphabet-lifts-2026-capex-to-as-much-as-shares-fall-despite
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]] · [[2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-05-01-big-tech-q1-2026-recap-capex-boom-continues-but-apple-stands]]
+**Related:** [[2026-07-22-alphabet-beats-on-revenue-but-shares-slip-as-2026-ai-capex-g]] · [[2026-07-26-alphabet-lifts-its-2026-ai-capex-and-leans-on-neoclouds-conc]] · [[2026-05-15-alphabet-and-meta-180-190b-ai-capex-squeeze-raises-buyback-c]] · [[2026-06-22-deepmind-talent-exodus-becomes-a-market-story-alphabet-falls]] · [[2026-07-30-amazon-lifts-2026-capex-to-220b-as-aws-growth-accelerates-to]]
 <!-- graph:end -->

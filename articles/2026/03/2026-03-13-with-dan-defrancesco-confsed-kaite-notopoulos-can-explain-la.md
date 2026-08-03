@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org
 - 2026-05-01-the-information-logo-secretive-zainar-exits-shadows-targets
+- 2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise
 - 2026-07-12-welcome-to-the-era-of-the-forever-layoff
 - 2026-03-19-the-information-the-information-write-a-post-will-meta-lose
-- 2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei
 embedding_id: 2026-03-13-with-dan-defrancesco-confsed-kaite-notopoulos-can-explain-la
 event_name: ''
 ---
@@ -34,5 +34,5 @@ with Dan DeFrancesco - Confsed? Kaite Notopoulos can explain - layoffs or an AI 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org]] · [[2026-05-01-the-information-logo-secretive-zainar-exits-shadows-targets]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-03-19-the-information-the-information-write-a-post-will-meta-lose]] · [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]]
+**Related:** [[2026-03-09-with-dan-defrancesco-with-this-r-sum-hack-rethinking-of-org]] · [[2026-05-01-the-information-logo-secretive-zainar-exits-shadows-targets]] · [[2026-08-03-marc-benioff-backed-june-exits-stealth-to-tackle-enterprise]] · [[2026-07-12-welcome-to-the-era-of-the-forever-layoff]] · [[2026-03-19-the-information-the-information-write-a-post-will-meta-lose]]
 <!-- graph:end -->

@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-06-coverage-from-newsletter-subscriptions-for-2026-06-06
 - 2026-06-18-coverage-from-newsletter-subscriptions-for-2026-06-18
+- 2026-08-02-coverage-from-newsletter-subscriptions-for-2026-08-02
 - 2026-06-19-coverage-from-newsletter-subscriptions-for-2026-06-19
 - 2026-06-08-coverage-from-newsletter-subscriptions-for-2026-06-08
-- 2026-06-20-coverage-from-newsletter-subscriptions-for-2026-06-20
 embedding_id: 2026-06-02-coverage-from-newsletter-subscriptions-for-2026-06-02
 event_name: ''
 ---
@@ -33,5 +33,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-06-coverage-from-newsletter-subscriptions-for-2026-06-06]] · [[2026-06-18-coverage-from-newsletter-subscriptions-for-2026-06-18]] · [[2026-06-19-coverage-from-newsletter-subscriptions-for-2026-06-19]] · [[2026-06-08-coverage-from-newsletter-subscriptions-for-2026-06-08]] · [[2026-06-20-coverage-from-newsletter-subscriptions-for-2026-06-20]]
+**Related:** [[2026-06-06-coverage-from-newsletter-subscriptions-for-2026-06-06]] · [[2026-06-18-coverage-from-newsletter-subscriptions-for-2026-06-18]] · [[2026-08-02-coverage-from-newsletter-subscriptions-for-2026-08-02]] · [[2026-06-19-coverage-from-newsletter-subscriptions-for-2026-06-19]] · [[2026-06-08-coverage-from-newsletter-subscriptions-for-2026-06-08]]
 <!-- graph:end -->

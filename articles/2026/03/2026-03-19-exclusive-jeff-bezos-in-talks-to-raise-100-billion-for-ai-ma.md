@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b
+- 2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins
 - 2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri
 - 2026-03-25-how-jeff-bezos-and-private-equity-firms-boosted-the-case-for
 - 2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the
-- 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
 embedding_id: 2026-03-19-exclusive-jeff-bezos-in-talks-to-raise-100-billion-for-ai-ma
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Exclusive | Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-03-25-how-jeff-bezos-and-private-equity-firms-boosted-the-case-for]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]]
+**Related:** [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins]] · [[2026-05-05-global-startup-funding-doubled-year-over-year-to-56b-in-apri]] · [[2026-03-25-how-jeff-bezos-and-private-equity-firms-boosted-the-case-for]] · [[2026-05-09-global-venture-funding-reached-56-billion-in-april-2026-the]]
 <!-- graph:end -->

@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns
 - 2026-07-18-pitchbook-2026-07-18-external-m-a-rebound-is-thinner-than-it
 - 2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only
+- 2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra
 - 2026-06-11-dealbook-andrew-ross-sorkin-nyt-2026-06-11-external-dealbook
-- 2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook
 embedding_id: 2026-04-26-what-to-buy-and-skip-2026-04-26-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ What to buy (and skip) [2026-04-26] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]] · [[2026-07-18-pitchbook-2026-07-18-external-m-a-rebound-is-thinner-than-it]] · [[2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only]] · [[2026-06-11-dealbook-andrew-ross-sorkin-nyt-2026-06-11-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]]
+**Related:** [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]] · [[2026-07-18-pitchbook-2026-07-18-external-m-a-rebound-is-thinner-than-it]] · [[2026-06-23-retirement-vs-the-ai-revolution-2026-06-23-we-found-the-only]] · [[2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra]] · [[2026-06-11-dealbook-andrew-ross-sorkin-nyt-2026-06-11-external-dealbook]]
 <!-- graph:end -->

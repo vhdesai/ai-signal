@@ -15,8 +15,6 @@ tags: []
 entities:
 - NVIDIA
 themes:
-- datacenter-infrastructure
-- model-capabilities
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
@@ -38,6 +36,6 @@ Together AI, which rents Nvidia GPU clusters optimized for open-weight models, r
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-07-01-neocloud-together-ai-raises-800m-leaps-to-an-8-3b-valuation]] · [[2026-07-01-together-ai-raises-800m-series-c-at-an-8-3b-valuation]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]]
 <!-- graph:end -->

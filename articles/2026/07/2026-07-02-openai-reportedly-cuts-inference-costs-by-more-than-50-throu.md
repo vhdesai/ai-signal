@@ -15,16 +15,16 @@ tags: []
 entities:
 - OpenAI
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model
-- 2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls
-- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
-- 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
-- 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
+- 2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent
+- 2026-07-31-openai-slashes-prices-on-some-of-its-newest-models
+- 2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast
+- 2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f
+- 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
 embedding_id: 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 event_name: ''
 ---
@@ -37,6 +37,6 @@ OpenAI engineers developed optimization techniques — a combination of quantiza
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-23-anthropic-and-openai-customers-switching-to-cheaper-ai-model]] · [[2026-06-18-openai-adds-enterprise-usage-analytics-and-spend-controls]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]]
+**Topics:** [[Corporate Moves]]
+**Related:** [[2026-07-31-openai-price-cuts-show-model-providers-are-responding-to-ent]] · [[2026-07-31-openai-slashes-prices-on-some-of-its-newest-models]] · [[2026-07-30-openai-cuts-gpt-5-6-api-pricing-up-to-80-and-adds-sol-fast]] · [[2026-07-30-openai-cuts-gpt-5-6-prices-to-defend-the-price-performance-f]] · [[2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6]]
 <!-- graph:end -->

@@ -8,7 +8,7 @@ url_canonical: https://www.theinformation.com/search?utf8=%E2%9C%93&query=apple-
 url_status: found
 digest_source: digests\raw\2026-05-29_075823_Inbox_Daily AI News Digest –– May 29,
   2026.md
-content_hash: f577ecb59cf5538fca0b8393f83ee63a3ab664821d7187975932d2b462a53e5f
+content_hash: 233be8e374f4b330e44232106fca9e8974dda89c519edb724bef97162a62cd5d
 normalized_title_hash: 56871dc090b89a65
 canonical_url_hash: aebbd354a943c025
 tags:
@@ -16,7 +16,7 @@ tags:
 entities:
 - Apple
 themes:
-- datacenter-infrastructure
+- company-storylines
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
@@ -32,12 +32,12 @@ event_name: ''
 
 # Apple prepares renewed push for on-device AI
 
-The Information reported that Apple plans to emphasize AI that runs on devices rather than in the cloud, positioning its custom silicon footprint as a privacy and cost advantage. If Apple succeeds, on-device inference could become a major competitive front for consumer AI, especially for assistants that require low latency, personalization, and privacy-sensitive context.
+The Information reported that Apple plans to emphasize AI that runs on devices rather than in the cloud, positioning its custom silicon footprint as a privacy and cost advantage. If Apple succeeds, on-device inference could become a major competitive front for consumer AI, especially for assistants that require low latency, personalization, and privacy-sensitive context. METAAMZTI
 
 <!-- graph:start -->
 ## Connections
 
 **Entities:** [[Apple]]
-**Topics:** [[Infrastructure & Compute]]
+**Topics:** [[Corporate Moves]]
 **Related:** [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-on-device-ai-and-private-inference]] · [[2026-04-23-apple-publishes-on-device-privacy-evaluations-of-small-langu]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]]
 <!-- graph:end -->
