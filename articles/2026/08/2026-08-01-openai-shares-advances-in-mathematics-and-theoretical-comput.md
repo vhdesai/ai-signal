@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 - 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 - 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
-- 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
 embedding_id: 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published new results on long-standing open problems in mathematics and t
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]]
+**Related:** [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]]
 <!-- graph:end -->

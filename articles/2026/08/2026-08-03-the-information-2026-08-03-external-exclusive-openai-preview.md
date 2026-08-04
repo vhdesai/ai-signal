@@ -26,7 +26,6 @@ related_article_ids:
 - 2026-08-02-other-ai-related-publication-emails-2026-08-02-external-open
 - 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
-- 2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi
 embedding_id: 2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview
 event_name: ''
 ---
@@ -40,5 +39,5 @@ The Information - [2026-08-03] [EXTERNAL] Exclusive: OpenAI Previews ‘Astra’
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-previews-astra-ai-model-to-washington-officials]] · [[2026-08-02-other-ai-related-publication-emails-2026-08-02-external-open]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi]]
+**Related:** [[2026-08-03-openai-previews-astra-ai-model-to-washington-officials]] · [[2026-08-02-other-ai-related-publication-emails-2026-08-02-external-open]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]]
 <!-- graph:end -->

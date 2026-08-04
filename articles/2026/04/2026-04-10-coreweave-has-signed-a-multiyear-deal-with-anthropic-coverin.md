@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 - 2026-04-10-industry-news-coreweave-signs-multiyear-infrastructure-deal
+- 2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia
 - 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 - 2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t
-- 2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai
 embedding_id: 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
 event_name: ''
 ---
@@ -42,5 +42,5 @@ CoreWeave has signed a multiyear deal with Anthropic covering a variety of Nvidi
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-10-industry-news-coreweave-signs-multiyear-infrastructure-deal]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]] · [[2026-05-11-anthropic-signs-1-8b-seven-year-cloud-deal-with-akamai]]
+**Related:** [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]] · [[2026-04-10-industry-news-coreweave-signs-multiyear-infrastructure-deal]] · [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]] · [[2026-05-13-anthropic-overtakes-openai-in-u-s-business-ai-adoption-for-t]]
 <!-- graph:end -->

@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Mistral
-member_count: 174
+member_count: 175
 ---
 
 # Mistral
 
-> Auto-generated entity hub. 174 connected article(s).
+> Auto-generated entity hub. 175 connected article(s).
 
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]

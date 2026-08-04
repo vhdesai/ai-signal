@@ -16,13 +16,9 @@ entities: []
 themes:
 - company-storylines
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
-- 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
-- 2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+dedupe_status: duplicate
+canonical_article_id: 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
+related_article_ids: []
 embedding_id: 2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven
 event_name: ''
 ---
@@ -35,5 +31,5 @@ Cybersecurity firm Horizon3 closed a $250M Series E at a $2B valuation for its N
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-07-01-neocloud-together-ai-raises-800m-at-an-8-3b-valuation]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Canonical:** [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
+- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 - 2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot
-- 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 embedding_id: 2026-05-27-hot-autonomous-ai-systems-begin-to-test-governance-in-physic
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new feature surveys early deployments of autonomous AI in factories, warehouse
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]]
+**Related:** [[2026-05-26-autonomous-ai-systems-test-governance-in-physical-environmen]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]] · [[2026-05-15-physical-ai-moves-closer-to-factory-floors-as-humanoid-robot]]
 <!-- graph:end -->

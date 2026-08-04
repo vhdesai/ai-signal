@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
@@ -35,5 +36,5 @@ CIO Dive reported that forward-deployed engineers are helping companies connect 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
+**Related:** [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]] · [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
 <!-- graph:end -->

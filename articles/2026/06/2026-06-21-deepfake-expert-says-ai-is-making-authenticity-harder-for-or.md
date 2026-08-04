@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
 - 2026-04-20-youtube-expands-ai-deepfake-detection-for-creators
 - 2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
-- 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 embedding_id: 2026-06-21-deepfake-expert-says-ai-is-making-authenticity-harder-for-or
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider interviewed digital forensics expert Hany Farid, who said AI-ge
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]]
+**Related:** [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]] · [[2026-04-20-youtube-expands-ai-deepfake-detection-for-creators]] · [[2026-05-17-ai-safety-policy-youtube-expands-ai-deepfake-detection-tool]] · [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]]
 <!-- graph:end -->

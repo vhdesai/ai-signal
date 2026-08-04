@@ -1,30 +1,43 @@
 ---
 type: topic-hub
 hub: Policy & Regulation
-member_count: 1332
+member_count: 1345
 ---
 
 # Policy & Regulation
 
-> Auto-generated topic hub. 1332 connected article(s).
+> Auto-generated topic hub. 1345 connected article(s).
 
+- `2026-08-04` [[2026-08-04-the-new-york-times-the-morning-2026-08-04-external-the-morni|The New York Times / The Morning - [2026-08-04] [EXTERNAL] The Morning: Trump’s top lawyer]]
+- `2026-08-04` [[2026-08-04-the-ai-boom-is-transforming-the-american-economy|The AI Boom Is Transforming the American Economy]]
+- `2026-08-04` [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit|NVIDIA and Open Secure AI Alliance propose SAFE cybersecurity transparency guidelines]]
+- `2026-08-04` [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ|California’s AI transparency law enters its first phase, targeting deepfakes and scams]]
 - `2026-08-03` [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview|The Information - [2026-08-03] [EXTERNAL] Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - [2026-08-03] [EXTERNAL]…]]
+- `2026-08-03` [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut|TechCrunch analyzes legal blame for OpenAI and Anthropic autonomous AI hacks]]
 - `2026-08-03` [[2026-08-03-monday-august-3-2026|Monday, August 3, 2026]]
+- `2026-08-03` [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r|House Homeland Security panel summons Altman over OpenAI's rogue-agent breach]]
 - `2026-08-03` [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises|Horizon3 raises $250M as autonomous pentesting demand rises]]
 - `2026-08-03` [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono|Horizon3 raises $250 million at $2 billion valuation as autonomous pentesting demand rises]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
+- `2026-08-03` [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe|EU AI Act transparency obligations take effect across Europe]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-now-apply-to-frontier-ai-provid|EU AI Act enforcement powers now apply to frontier AI providers]]
+- `2026-08-03` [[2026-08-03-databricks-completes-panther-acquisition-to-build-security-l|Databricks completes Panther acquisition to build security lakehouse strategy]]
 - `2026-08-03` [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in|Cyber Startup Horizon3.ai Raises $250M; Water Plants Hacked in Seven States]]
 - `2026-08-03` [[2026-08-03-chatgpt-accounts-for-80-of-identifiable-u-s-house-ai-spendin|ChatGPT accounts for ~80% of identifiable U.S. House AI spending]]
+- `2026-08-03` [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out|Autonomous AI agents escaped test sandboxes and attacked outside systems; 15 state AGs press OpenAI to preserve records]]
 - `2026-08-03` [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via|Anthropic to enable in-country Claude inference in India via Amazon Bedrock]]
+- `2026-08-03` [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via|Anthropic tells Congress a Chinese firm distilled Claude via millions of prompts]]
 - `2026-08-03` [[2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env|Anthropic says human error let Claude models escape test environment and hack third parties]]
+- `2026-08-03` [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after|15 attorneys general order OpenAI to preserve records after an AI agent allegedly hacked Hugging Face]]
 - `2026-08-02` [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate|Sam Altman's AI pacing comments keep the deceleration debate alive]]
 - `2026-08-02` [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development|Sam Altman calls on the industry to “pace” AI development]]
 - `2026-08-02` [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos|Rogue AI Hacks Herald New Era of Cyber Chaos]]
 - `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
+- `2026-08-02` [[2026-08-02-eu-transparency-rules-for-ai-generated-content-take-effect|EU transparency rules for AI-generated content take effect]]
 - `2026-08-02` [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare|EU AI Act: enforcement of general-purpose-model and transparency rules begins]]
 - `2026-08-02` [[2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules|EU AI Act enforcement powers and content-transparency rules take effect]]
 - `2026-08-02` [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect|EU AI Act enforcement and AI-transparency rules take effect today]]
+- `2026-08-02` [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative|California's AI Transparency Act (SB 942) becomes operative]]
 - `2026-08-02` [[2026-08-02-california-ai-transparency-act-sb-942-becomes-operative|California AI Transparency Act (SB 942) becomes operative]]
 - `2026-08-02` [[2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it|Attackers target open-source AI as Big Tech embraces it]]
 - `2026-08-02` [[2026-08-02-anthropic-and-openai-models-breached-real-companies-during-s|Anthropic and OpenAI models breached real companies during safety tests]]

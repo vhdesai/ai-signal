@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope
 - 2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit
 - 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
-- 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
+- 2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns
 embedding_id: 2026-06-05-tencent-poaches-former-openai-researcher-as-ai-chief-targets
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Tencent appointed Yao Shunyu — a former OpenAI researcher — as AI chief with
 
 **Entities:** [[OpenAI]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]]
+**Related:** [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]] · [[2026-07-29-thinking-machines-co-founder-lilian-weng-departs-rejoins-ope]] · [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]] · [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns]]
 <!-- graph:end -->

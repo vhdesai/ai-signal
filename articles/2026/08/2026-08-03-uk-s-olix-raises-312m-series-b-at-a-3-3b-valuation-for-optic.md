@@ -18,7 +18,7 @@ themes:
 - company-storylines
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica
+canonical_article_id: 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 related_article_ids: []
 embedding_id: 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 event_name: ''
@@ -33,5 +33,5 @@ London-based Olix, a two-year-old optical AI-chip startup, closed a $312 million
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Canonical:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]]
+**Canonical:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]]
 <!-- graph:end -->

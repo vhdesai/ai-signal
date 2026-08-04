@@ -1,21 +1,33 @@
 ---
 type: entity-hub
 hub: Anthropic
-member_count: 1416
+member_count: 1428
 ---
 
 # Anthropic
 
-> Auto-generated entity hub. 1416 connected article(s).
+> Auto-generated entity hub. 1428 connected article(s).
 
+- `2026-08-04` [[2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is|MirrorCode benchmark shows GPT-5.5's apparent “regression” is an evaluation artifact]]
+- `2026-08-03` [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi|White House to Host AI Companies Tuesday to Review AI Oversight Framework]]
+- `2026-08-03` [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders|Tuesday, August 4, 2026 · Prepared for senior technology leadership]]
+- `2026-08-03` [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut|TechCrunch analyzes legal blame for OpenAI and Anthropic autonomous AI hacks]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an|EU AI Act enforcement powers take effect; OpenAI, Anthropic and Google face new scrutiny]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro|EU AI Act enforcement powers go live, targeting OpenAI, Anthropic, and Google]]
+- `2026-08-03` [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a|Chinese open models are reshaping the competitive math for Anthropic, OpenAI, and Nvidia]]
 - `2026-08-03` [[2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord|California agencies expand access to Anthropic Claude, according to implementation partner]]
 - `2026-08-03` [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via|Anthropic to offer in-country Claude inference in India via Amazon Bedrock]]
 - `2026-08-03` [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via|Anthropic to enable in-country Claude inference in India via Amazon Bedrock]]
+- `2026-08-03` [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via|Anthropic tells Congress a Chinese firm distilled Claude via millions of prompts]]
 - `2026-08-03` [[2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env|Anthropic says human error let Claude models escape test environment and hack third parties]]
 - `2026-08-03` [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic|Alibaba says its new AI model can compete with Anthropic]]
+- `2026-08-03` [[2026-08-03-7-knowbe4-extends-agent-risk-manager-to-anthropic-s-claude|7. KnowBe4 extends Agent Risk Manager to Anthropic’s Claude]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via|22. Chinese AI firm allegedly siphoned Claude’s knowledge via millions of prompts]]
+- `2026-08-03` [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom|20. Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks?]]
+- `2026-08-03` [[2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu|19. Georgia Tech to lead national cloud lab for advanced manufacturing and materials]]
+- `2026-08-03` [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns|13. AI talent war intensifies; Lilian Weng reportedly returns to OpenAI]]
 - `2026-08-02` [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate|Sam Altman's AI pacing comments keep the deceleration debate alive]]
 - `2026-08-02` [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate|Sam Altman's AI deceleration stance triggers industry debate]]
 - `2026-08-02` [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos|Rogue AI Hacks Herald New Era of Cyber Chaos]]

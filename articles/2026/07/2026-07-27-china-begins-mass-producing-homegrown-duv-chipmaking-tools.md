@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 - 2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes
 - 2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu
-- 2026-05-08-chinese-chipmakers-race-to-certify-deepseek-v4-on-domestic-h
+- 2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt
 embedding_id: 2026-07-27-china-begins-mass-producing-homegrown-duv-chipmaking-tools
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Shanghai-based, state-backed company has begun manufacturing immersion deep ul
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu]] · [[2026-05-08-chinese-chipmakers-race-to-certify-deepseek-v4-on-domestic-h]]
+**Related:** [[2026-07-29-china-begins-mass-production-of-homegrown-duv-chipmaking-too]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-27-the-information-2026-07-27-external-deepseek-puts-current-fu]] · [[2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt]]
 <!-- graph:end -->

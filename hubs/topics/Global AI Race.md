@@ -1,24 +1,43 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 889
+member_count: 908
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 889 connected article(s).
+> Auto-generated topic hub. 908 connected article(s).
 
+- `2026-08-04` [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device|Trump Administration Mulls Ban on Chinese Data Center Devices]]
+- `2026-08-04` [[2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt|Major PC Makers Start Using Memory Chips from China's CXMT]]
+- `2026-08-04` [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s|18. HAI: open-weight models aren’t enough — we need truly open-source AI]]
+- `2026-08-03` [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders|Tuesday, August 4, 2026 · Prepared for senior technology leadership]]
 - `2026-08-03` [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin|South Korea’s DeepX valuation surges to $2.2B in fresh funding]]
+- `2026-08-03` [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo|Qwen3.8-Max claims frontier-level agentic computer-use performance]]
 - `2026-08-03` [[2026-08-03-monday-august-3-2026|Monday, August 3, 2026]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
+- `2026-08-03` [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age|DeepSeek's V4-Flash update surpasses its own flagship on agent benchmarks]]
+- `2026-08-03` [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run|DeepSeek's V4-Flash is the cheapest well-known model to run]]
+- `2026-08-03` [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs|DeepSeek V4-Flash sharpens price pressure on frontier labs]]
 - `2026-08-03` [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below|DeepSeek V4-Flash pressures frontier pricing from below]]
 - `2026-08-03` [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model|DeepSeek Makes a Splash with Small, Affordable V4-Flash Model]]
+- `2026-08-03` [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a|Chinese open models are reshaping the competitive math for Anthropic, OpenAI, and Nvidia]]
+- `2026-08-03` [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via|Anthropic tells Congress a Chinese firm distilled Claude via millions of prompts]]
+- `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod|Alibaba unveils Qwen3.8-Max, its “largest and most capable” model]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date|Alibaba unveils Qwen3.8-Max, its most capable model to date]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture|Alibaba unveils Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate|Alibaba unveils Qwen3.8-Max as China's model race accelerates]]
 - `2026-08-03` [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic|Alibaba says its new AI model can compete with Anthropic]]
+- `2026-08-03` [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo|Alibaba releases Qwen3.8-Max, a 2.4-trillion-parameter MoE model]]
 - `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close|Alibaba launches Qwen3.8-Max, its largest model yet, to close the gap with frontier labs]]
 - `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo|Alibaba launches Qwen3.8-Max, its largest and most capable model yet]]
+- `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c|Alibaba launches Qwen3.8-Max, a 2.4T-parameter MoE aimed at coding and long-horizon work]]
+- `2026-08-03` [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race|Alibaba Qwen3.8-Max raises the bar in China's model race]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-22-chinese-ai-firm-allegedly-siphoned-claude-s-knowledge-via|22. Chinese AI firm allegedly siphoned Claude’s knowledge via millions of prompts]]
+- `2026-08-03` [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r|2. DeepSeek V4-Flash rated the cheapest well-known model to run]]
+- `2026-08-03` [[2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising|14. Ant Group’s embodied-AI arm Robbyant begins fundraising]]
+- `2026-08-03` [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability|1. Alibaba moves Qwen3.8-Max to general availability]]
 - `2026-08-02` [[2026-08-02-op-ed-the-u-s-lead-over-china-in-ai-is-all-but-gone|Op-ed: The U.S. lead over China in AI “is all but gone”]]
 - `2026-08-02` [[2026-08-02-market-turmoil-exposes-a-circular-and-opaque-ai-economy-rest|Market turmoil exposes a circular and opaque AI economy resting on Nvidia]]
 - `2026-08-02` [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne|DeepSeek data-center plan points to infrastructure as the next phase of China’s model race]]

@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
+- 2026-08-04-openai-updates-gpt-5-6-price-performance-positioning
 - 2026-04-23-
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
 embedding_id: 2026-07-30-openai-advances-the-price-performance-frontier-with-gpt-5-6
@@ -37,5 +38,5 @@ OpenAI published its GPT-5.6 price-performance update, emphasizing efficiency ac
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-04-23-]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]]
+**Related:** [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]] · [[2026-08-04-openai-updates-gpt-5-6-price-performance-positioning]] · [[2026-04-23-]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]]
 <!-- graph:end -->

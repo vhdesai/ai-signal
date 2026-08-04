@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu
 - 2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
-- 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
+- 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 embedding_id: 2026-07-28-cyera-to-acquire-oasis-security-for-1b-to-secure-proliferati
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Data-security company Cyera — recently valued near $12 billion — signed a le
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]] · [[2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent]]
+**Related:** [[2026-07-29-cyera-agrees-to-acquire-oasis-security-for-1-billion-to-secu]] · [[2026-07-29-microsoft-and-cyera-highlight-agent-security-as-a-strategic]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
 <!-- graph:end -->

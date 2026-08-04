@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-24-white-house-draws-new-ai-line-on-china
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
-- 2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven
+- 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 embedding_id: 2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Axios reports that Silicon Valley AI leaders are flooding Washington with compet
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-06-29-the-pro-ai-coalition-splinters-over-security-vs-competitiven]]
+**Related:** [[2026-07-24-white-house-draws-new-ai-line-on-china]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
 <!-- graph:end -->

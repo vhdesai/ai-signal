@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
+- 2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv
+- 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 - 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
-- 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
-- 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 embedding_id: 2026-05-20-aws-acquires-gen-ai-media-creation-startup-fal-as-preferred
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon Web Services confirmed on May 20 that it has acquired fal, a fast-growing
 
 **Entities:** [[Amazon]] · [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]]
+**Related:** [[2026-03-19-the-information-logo-amazon-acquires-robotics-startup-boosti]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]] · [[2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi]]
 <!-- graph:end -->

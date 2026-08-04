@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi
 - 2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro
+- 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis
 - 2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f
-- 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
 embedding_id: 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT researchers developed an AI model that characterizes atomic-level defects in
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi]] · [[2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]] · [[2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel]]
+**Related:** [[2026-04-02-mit-researchers-developed-a-new-ai-model-that-measures-atomi]] · [[2026-04-02-mit-ai-model-identifies-atomic-defects-in-materials-to-impro]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-20-mit-profiles-ai-models-for-chemical-discovery-and-synthesis]] · [[2026-05-20-mit-building-ai-models-that-understand-chemical-principles-f]]
 <!-- graph:end -->

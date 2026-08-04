@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
+- 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
 - 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-- 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 embedding_id: 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's publication on ten advances in mathematics and theoretical computer sci
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]]
+**Related:** [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]]
 <!-- graph:end -->

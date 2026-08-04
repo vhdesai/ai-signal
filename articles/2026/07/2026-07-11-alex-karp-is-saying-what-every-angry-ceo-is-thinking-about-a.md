@@ -17,10 +17,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 - 2026-07-04-the-information-2026-07-04-external-alex-karp-open-source-ai
 - 2026-06-21-url
-- 2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse
-- 2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin
+- 2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio
 embedding_id: 2026-07-11-alex-karp-is-saying-what-every-angry-ceo-is-thinking-about-a
 event_name: ''
 ---
@@ -32,5 +32,5 @@ Alex Karp Is Saying What Every Angry CEO Is Thinking About AI
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-04-the-information-2026-07-04-external-alex-karp-open-source-ai]] · [[2026-06-21-url]] · [[2026-05-26-sam-altman-walks-back-fears-of-an-ai-jobs-apocalypse]] · [[2026-06-29-survey-argues-ai-won-t-be-a-coworker-until-it-stops-answerin]]
+**Related:** [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-07-04-the-information-2026-07-04-external-alex-karp-open-source-ai]] · [[2026-06-21-url]] · [[2026-05-12-palantir-ceo-alex-karp-meets-zelenskyy-deepens-ai-cooperatio]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 110
+member_count: 116
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 110 connected article(s).
+> Auto-generated entity hub. 116 connected article(s).
 
+- `2026-08-04` [[2026-08-04-the-information-2026-08-04-external-palantir-stock-surges-as|The Information - [2026-08-04] [EXTERNAL] Palantir Stock Surges as U.S]]
+- `2026-08-04` [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments|Palantir stock jumps 16% after Q2 blowout as AIP deployments scale]]
+- `2026-08-04` [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump|Palantir Stock Surges as U.S. Enterprise AI Sales Jump]]
+- `2026-08-03` [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s|Palantir CEO Alex Karp calls the AI industry "Marxist" after strong quarter]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand|10. Palantir posts blowout Q2 2026 on surging AI demand]]
 - `2026-08-01` [[2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape|Palantir earnings framed as a bellwether for the real shape of enterprise AI demand]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]

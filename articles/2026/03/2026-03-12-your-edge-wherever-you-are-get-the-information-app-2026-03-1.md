@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-source-the-edge-singapore-bloomberg-date-may-22-2026
 - 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-05-22-source-wired-via-aitoolsrecap-date-may-22-2026
 - 2026-06-30-june-29-2026-the-information-via-the-next-web
-- 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 embedding_id: 2026-03-12-your-edge-wherever-you-are-get-the-information-app-2026-03-1
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Your edge, wherever you are—Get The Information app [2026-03-12] · The Inform
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-22-source-the-edge-singapore-bloomberg-date-may-22-2026]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-05-22-source-wired-via-aitoolsrecap-date-may-22-2026]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]]
+**Related:** [[2026-05-22-source-the-edge-singapore-bloomberg-date-may-22-2026]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-05-22-source-wired-via-aitoolsrecap-date-may-22-2026]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]]
 <!-- graph:end -->

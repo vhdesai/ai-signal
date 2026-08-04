@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-06-30-techcrunch-com-2026-06-29-geminis-personalized-ai-image-gene
 - 2026-06-30-money-usnews-com-digital-realty-to-buy-blackstones-data-cent
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-06-29-google-capped-meta-s-use-of-gemini-after-meta-exceeded-compu
-- 2026-06-30-venturebeat-com-security-the-attack-that-hijacked-claude-cod
 embedding_id: 2026-06-30-engadget-com-2203579-google-reportedly-capped-meta-use-of-ge
 event_name: ''
 ---
@@ -40,5 +40,5 @@ event_name: ''
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-techcrunch-com-2026-06-29-geminis-personalized-ai-image-gene]] · [[2026-06-30-money-usnews-com-digital-realty-to-buy-blackstones-data-cent]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-06-29-google-capped-meta-s-use-of-gemini-after-meta-exceeded-compu]] · [[2026-06-30-venturebeat-com-security-the-attack-that-hijacked-claude-cod]]
+**Related:** [[2026-06-30-techcrunch-com-2026-06-29-geminis-personalized-ai-image-gene]] · [[2026-06-30-money-usnews-com-digital-realty-to-buy-blackstones-data-cent]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-29-google-capped-meta-s-use-of-gemini-after-meta-exceeded-compu]]
 <!-- graph:end -->

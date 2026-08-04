@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc
 - 2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial
 - 2026-04-22-ai-safety-policy
-- 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s
+- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 embedding_id: 2026-05-02-defense-ai-expansion-raises-governance-questions-around-clas
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Defense AI Expansion Raises Governance Questions Around Classified AI Accountabi
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-04-22-ai-safety-policy]] · [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight-in-the-u-s]]
+**Related:** [[2026-07-17-keeping-ai-costs-in-check-hybrid-cloud-back-in-fashion-ai-ad]] · [[2026-05-02-the-u-s-department-of-defense-has-expanded-its-ai-infrastruc]] · [[2026-05-02-the-pentagon-s-new-ai-deployment-agreements-with-commercial]] · [[2026-04-22-ai-safety-policy]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
 <!-- graph:end -->

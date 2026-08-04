@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait
 - 2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races
 - 2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors
-- 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
 embedding_id: 2026-07-05-pitchbook-2026-07-05-external-three-scenarios-if-openai-dela
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook - [2026-07-05] [EXTERNAL] Three scenarios if OpenAI delays its IPO
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]] · [[2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]]
+**Related:** [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]] · [[2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice
 - 2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-- 2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp
+- 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 embedding_id: 2026-05-23-google-docs-live-ai-voice-drafting-tool-moves-toward-summer
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A hands-on preview of Google Docs Live revealed a voice-first drafting experienc
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-07-08-openai-launches-gpt-live-full-duplex-voice-models-for-chatgp]]
+**Related:** [[2026-05-19-there-s-a-new-way-to-create-google-docs-with-your-voice]] · [[2026-04-10-google-has-fully-integrated-notebooklm-its-ai-powered-resear]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]]
 <!-- graph:end -->

@@ -1,18 +1,28 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 444
+member_count: 454
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 444 connected article(s).
+> Auto-generated entity hub. 454 connected article(s).
 
+- `2026-08-04` [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re|Amazon joins the $3 trillion club as AWS posts its fastest revenue growth in four-plus years]]
 - `2026-08-03` [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-03] [EXTERNAL] The latest news on Meta Platforms Inc]]
+- `2026-08-03` [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we|Formula 1 uses AWS agentic AI to cut data onboarding from weeks to minutes]]
 - `2026-08-03` [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via|Anthropic to offer in-country Claude inference in India via Amazon Bedrock]]
 - `2026-08-03` [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via|Anthropic to enable in-country Claude inference in India via Amazon Bedrock]]
+- `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears|Amazon tops $3 trillion as AWS growth eases AI-spending fears]]
 - `2026-08-03` [[2026-08-03-amazon-completes-another-35b-investment-in-openai|Amazon completes another $35B investment in OpenAI]]
+- `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel|Amazon Tops $3 Trillion Market Value as AI Cloud Demand Accelerates]]
 - `2026-08-03` [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai|Amazon Completes Additional $35 Billion Investment in OpenAI]]
+- `2026-08-03` [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv|AWS partners with Superblocks to bring vibe coding into private enterprise clouds]]
+- `2026-08-03` [[2026-08-03-aws-confirms-gpt-5-6-price-cuts-in-bedrock-weekly-roundup|AWS confirms GPT-5.6 price cuts in Bedrock weekly roundup]]
+- `2026-08-03` [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge|9. Amazon tops $3T as AI hyperscalers ride an earnings surge]]
+- `2026-08-03` [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private|6. AWS embeds vibe-coding startup Superblocks inside private clouds]]
+- `2026-08-03` [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27|5. Apple ships its long-promised Siri overhaul in iOS 27]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-02` [[2026-08-02-amazon-completes-50b-openai-investment-taking-5-stake-as-cha|Amazon completes $50B OpenAI investment, taking ~5% stake as ChatGPT maker nears IPO]]
 - `2026-08-01` [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay|Wall Street focuses on how tech giants will make AI pay]]
 - `2026-08-01` [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay|Wall Street Thinks It Knows How Tech Giants Will Make AI Pay]]

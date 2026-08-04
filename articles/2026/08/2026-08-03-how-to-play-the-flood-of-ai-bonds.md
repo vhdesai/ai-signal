@@ -18,7 +18,7 @@ themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
+canonical_article_id: 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 related_article_ids: []
 embedding_id: 2026-08-03-how-to-play-the-flood-of-ai-bonds
 event_name: ''
@@ -32,5 +32,5 @@ Big Tech companies are issuing long-duration bonds to finance AI infrastructure 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Canonical:** [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]]
+**Canonical:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]]
 <!-- graph:end -->

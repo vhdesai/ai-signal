@@ -1,17 +1,27 @@
 ---
 type: topic-hub
 hub: Corporate Moves
-member_count: 2912
+member_count: 2937
 ---
 
 # Corporate Moves
 
-> Auto-generated topic hub. 2912 connected article(s).
+> Auto-generated topic hub. 2937 connected article(s).
 
+- `2026-08-04` [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments|Palantir stock jumps 16% after Q2 blowout as AIP deployments scale]]
+- `2026-08-04` [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump|Palantir Stock Surges as U.S. Enterprise AI Sales Jump]]
+- `2026-08-04` [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re|Amazon joins the $3 trillion club as AWS posts its fastest revenue growth in four-plus years]]
+- `2026-08-04` [[2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a|8. SK hynix and Sandisk unveil first HBF standard specs for AI memory]]
+- `2026-08-04` [[2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp|4. Benefits of medical AI assistance vary sharply by user expertise]]
+- `2026-08-04` [[2026-08-04-11-bending-spoons-to-acquire-airtable-for-1-28b|11. Bending Spoons to acquire Airtable for $1.28B]]
+- `2026-08-03` [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents|Zenity raises $125M Series C to secure enterprise AI agents]]
+- `2026-08-03` [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise|Zenity raises $125M Series C to secure and govern enterprise AI agents]]
 - `2026-08-03` [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic|UK’s Olix raises $312M Series B at a $3.3B valuation for optical AI chips]]
+- `2026-08-03` [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders|Tuesday, August 4, 2026 · Prepared for senior technology leadership]]
 - `2026-08-03` [[2026-08-03-south-korea-s-deepx-valuation-surges-to-2-2b-in-fresh-fundin|South Korea’s DeepX valuation surges to $2.2B in fresh funding]]
 - `2026-08-03` [[2026-08-03-semianalysis-dylan-patel-targets-400-million-venture-capital|SemiAnalysis' Dylan Patel Targets $400 Million Venture Capital Fund]]
 - `2026-08-03` [[2026-08-03-saudi-pif-backed-humain-invests-in-mozn-for-financial-servic|Saudi PIF-backed HUMAIN invests in MOZN for financial-services AI]]
+- `2026-08-03` [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s|Palantir CEO Alex Karp calls the AI industry "Marxist" after strong quarter]]
 - `2026-08-03` [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny|Oracle's AI infrastructure bet draws renewed scrutiny]]
 - `2026-08-03` [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin|OpenAI updates GPT-Live page after SynthID audio-watermarking rollout]]
 - `2026-08-03` [[2026-08-03-openai-updates-gpt-5-6-price-performance-positioning|OpenAI updates GPT-5.6 price-performance positioning]]
@@ -21,16 +31,31 @@ member_count: 2912
 - `2026-08-03` [[2026-08-03-june-emerges-from-stealth-with-20-million-to-automate-enterp|June emerges from stealth with $20 million to automate enterprise AI deployment]]
 - `2026-08-03` [[2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven|Horizon3 raises $250M Series E at a $2B valuation as AI-driven threats mount]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
+- `2026-08-03` [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption|Forward-deployed engineers become the enterprise AI adoption bottleneck]]
+- `2026-08-03` [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we|Formula 1 uses AWS agentic AI to cut data onboarding from weeks to minutes]]
 - `2026-08-03` [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin|Enterprises seek help deploying AI as forward-deployed engineers become a bottleneck]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro|EU AI Act enforcement powers go live, targeting OpenAI, Anthropic, and Google]]
 - `2026-08-03` [[2026-08-03-deel-acquires-deepfake-detection-startup-clarity-as-ai-fraud|Deel acquires deepfake-detection startup Clarity as AI fraud rises]]
+- `2026-08-03` [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct|Databricks makes Variant generally available for semi-structured data]]
+- `2026-08-03` [[2026-08-03-cost-per-token-is-no-longer-enough-to-measure-ai-economics|Cost-per-token is no longer enough to measure AI economics]]
 - `2026-08-03` [[2026-08-03-cost-per-token-is-no-longer-enough-to-judge-ai-economics|Cost-per-token is no longer enough to judge AI economics]]
+- `2026-08-03` [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a|Chinese open models are reshaping the competitive math for Anthropic, OpenAI, and Nvidia]]
 - `2026-08-03` [[2026-08-03-california-agencies-expand-access-to-anthropic-claude-accord|California agencies expand access to Anthropic Claude, according to implementation partner]]
 - `2026-08-03` [[2026-08-03-cio-dive-2026-08-03-external-aug-3-fdes-enter-the-enterprise|CIO Dive - [2026-08-03] [EXTERNAL] Aug. 3 - FDEs enter the enterprise toolbox | Rethinking cost-per-token]]
+- `2026-08-03` [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the|Apple's rebuilt Siri is now useful, but TechCrunch argues the market has moved on]]
 - `2026-08-03` [[2026-08-03-apple-icloud-policy-fueled-employee-leaks-ahead-of-openai-tr|Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Trade Secrets Suit]]
 - `2026-08-03` [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via|Anthropic to offer in-country Claude inference in India via Amazon Bedrock]]
+- `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears|Amazon tops $3 trillion as AWS growth eases AI-spending fears]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date|Alibaba unveils Qwen3.8-Max, its most capable model to date]]
 - `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo|Alibaba launches Qwen3.8-Max, its largest and most capable model yet]]
+- `2026-08-03` [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv|AWS partners with Superblocks to bring vibe coding into private enterprise clouds]]
+- `2026-08-03` [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge|9. Amazon tops $3T as AI hyperscalers ride an earnings surge]]
+- `2026-08-03` [[2026-08-03-7-knowbe4-extends-agent-risk-manager-to-anthropic-s-claude|7. KnowBe4 extends Agent Risk Manager to Anthropic’s Claude]]
+- `2026-08-03` [[2026-08-03-3-cogent-ai-releases-vr-1-cyber-reasoning-model|3. Cogent AI releases VR-1 cyber-reasoning model]]
+- `2026-08-03` [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r|2. DeepSeek V4-Flash rated the cheapest well-known model to run]]
+- `2026-08-03` [[2026-08-03-14-ant-group-s-embodied-ai-arm-robbyant-begins-fundraising|14. Ant Group’s embodied-AI arm Robbyant begins fundraising]]
+- `2026-08-03` [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation|12. Horizon3 raises $250M Series E at a $2B valuation]]
+- `2026-08-03` [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand|10. Palantir posts blowout Q2 2026 on surging AI demand]]
 - `2026-08-02` [[2026-08-02-the-information-2026-08-02-external-robinhood-now-makes-more|The Information - [2026-08-02] [EXTERNAL] Robinhood Now Makes More Revenue From Predictions Than From Stock Trades]]
 - `2026-08-02` [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate|Sam Altman's AI deceleration stance triggers industry debate]]
 - `2026-08-02` [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development|Sam Altman calls on the industry to “pace” AI development]]

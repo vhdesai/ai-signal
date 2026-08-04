@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
+- 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 - 2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 - 2026-04-02-new-amazon-releases-a-evolve-agentic-framework-mar-29-aws-re
-- 2026-06-20-aws-unveils-agent-security-data-access-tools-2026-06-22-june
 embedding_id: 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS announced a preview of an agentic catalog experience in Amazon Quick that le
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-04-02-new-amazon-releases-a-evolve-agentic-framework-mar-29-aws-re]] · [[2026-06-20-aws-unveils-agent-security-data-access-tools-2026-06-22-june]]
+**Related:** [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-03-28-openai-and-amazon-web-services-announced-a-stateful-runtime]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-04-02-new-amazon-releases-a-evolve-agentic-framework-mar-29-aws-re]]
 <!-- graph:end -->

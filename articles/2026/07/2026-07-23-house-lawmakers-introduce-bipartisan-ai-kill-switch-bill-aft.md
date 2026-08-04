@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio
 - 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
 - 2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da
+- 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
 - 2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri
-- 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
 embedding_id: 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CYBERSECURITYAI GUARDRAILSDUAL USE
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio]] · [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]] · [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]]
+**Related:** [[2026-07-23-mit-projects-selected-for-funding-under-doe-s-genesis-missio]] · [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-05-13-missouri-ai-safeguards-bill-killed-11-0-in-committee-same-da]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-03-28-a-bipartisan-senate-coalition-introduced-legislation-requiri]]
 <!-- graph:end -->

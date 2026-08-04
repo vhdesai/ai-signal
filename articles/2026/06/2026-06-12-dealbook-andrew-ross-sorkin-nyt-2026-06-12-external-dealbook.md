@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-dealbook-andrew-ross-sorkin-nyt-2026-08-04-external-dealbook
 - 2026-08-01-dealbook-andrew-ross-sorkin-nyt-2026-08-01-external-dealbook
 - 2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook
 - 2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook
 - 2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook
-- 2026-06-24-dealbook-andrew-ross-sorkin-nyt-2026-06-24-external-dealbook
 embedding_id: 2026-06-12-dealbook-andrew-ross-sorkin-nyt-2026-06-12-external-dealbook
 event_name: ''
 ---
@@ -34,5 +34,5 @@ DealBook (Andrew Ross Sorkin / NYT) - [2026-06-12] [EXTERNAL] DealBook: Musks tr
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-01-dealbook-andrew-ross-sorkin-nyt-2026-08-01-external-dealbook]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]] · [[2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook]] · [[2026-06-24-dealbook-andrew-ross-sorkin-nyt-2026-06-24-external-dealbook]]
+**Related:** [[2026-08-04-dealbook-andrew-ross-sorkin-nyt-2026-08-04-external-dealbook]] · [[2026-08-01-dealbook-andrew-ross-sorkin-nyt-2026-08-01-external-dealbook]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]] · [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]] · [[2026-07-09-dealbook-andrew-ross-sorkin-nyt-2026-07-09-external-dealbook]]
 <!-- graph:end -->

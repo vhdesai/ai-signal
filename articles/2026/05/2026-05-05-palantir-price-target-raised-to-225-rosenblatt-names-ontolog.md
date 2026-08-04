@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
+- 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 - 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
+- 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 - 2026-04-13-products-tools
-- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
-- 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 embedding_id: 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Rosenblatt analyst John McPeake raised Palantir's (PLTR) price target to $225 fr
 
 **Entities:** [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-04-13-products-tools]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
+**Related:** [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-04-13-products-tools]]
 <!-- graph:end -->

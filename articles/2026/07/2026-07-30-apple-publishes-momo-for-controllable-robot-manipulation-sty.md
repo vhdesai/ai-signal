@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur
 - 2026-07-06-path-constrained-mixture-of-experts
 - 2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti
-- 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 embedding_id: 2026-07-30-apple-publishes-momo-for-controllable-robot-manipulation-sty
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple published MoMo, a two-stage imitation-learning framework that separates ta
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]]
+**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-07-09-carnegie-mellon-releases-robot-i-o-open-source-infrastructur]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-05-12-world-action-models-wams-survey-of-embodied-ai-s-next-fronti]]
 <!-- graph:end -->

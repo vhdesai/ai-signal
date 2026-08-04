@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 - 2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica
-- 2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev
+- 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 embedding_id: 2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and
 event_name: ''
 ---
@@ -37,5 +37,5 @@ ASML raises 2026 guidance again on strong AI chip demand and EUV lithography ord
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-05-02-huawei-is-projecting-approximately-12-billion-in-ai-chip-rev]]
+**Related:** [[2026-06-19-u-s-says-asml-s-top-chip-tool-may-be-in-china-asml-disputes]] · [[2026-07-27-china-s-shanghai-yuliangsheng-reportedly-reaches-asml-class]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]]
 <!-- graph:end -->

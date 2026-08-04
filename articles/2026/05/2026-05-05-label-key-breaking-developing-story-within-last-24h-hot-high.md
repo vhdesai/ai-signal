@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-05-23-digest-compiled-saturday-may-23-2026-at-7-05-am-pdt-coverage
 - 2026-05-03-sources-include-techcrunch-venturebeat-the-decoder-msn-stanf
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
-- 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
-- 2026-05-18-model-releases-technical-milestones-research-breakthroughs-p
 embedding_id: 2026-05-05-label-key-breaking-developing-story-within-last-24h-hot-high
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Label key: BREAKING — Developing story within last 24h HOT — High strategic 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-digest-compiled-saturday-may-23-2026-at-7-05-am-pdt-coverage]] · [[2026-05-03-sources-include-techcrunch-venturebeat-the-decoder-msn-stanf]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-05-18-model-releases-technical-milestones-research-breakthroughs-p]]
+**Related:** [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-05-23-digest-compiled-saturday-may-23-2026-at-7-05-am-pdt-coverage]] · [[2026-05-03-sources-include-techcrunch-venturebeat-the-decoder-msn-stanf]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]]
 <!-- graph:end -->

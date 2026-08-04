@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis
 - 2026-07-22-treasury-threatens-sanctions-after-white-house-claims-moonsh
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
-- 2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
+- 2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
 embedding_id: 2026-07-23-white-house-alleges-covert-distillation-behind-moonshot-s-ki
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-white-house-accuses-china-s-moonshot-ai-of-distilling-anthro]] · [[2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis]] · [[2026-07-22-treasury-threatens-sanctions-after-white-house-claims-moonsh]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-21-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
+**Related:** [[2026-07-23-white-house-accuses-china-s-moonshot-ai-of-distilling-anthro]] · [[2026-07-19-kimi-k3-sparks-u-s-losing-the-race-alarm-and-debate-over-dis]] · [[2026-07-22-treasury-threatens-sanctions-after-white-house-claims-moonsh]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
 <!-- graph:end -->

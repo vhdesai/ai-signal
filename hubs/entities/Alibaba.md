@@ -1,21 +1,29 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 245
+member_count: 253
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 245 connected article(s).
+> Auto-generated entity hub. 253 connected article(s).
 
+- `2026-08-04` [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s|18. HAI: open-weight models aren’t enough — we need truly open-source AI]]
+- `2026-08-03` [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo|Qwen3.8-Max claims frontier-level agentic computer-use performance]]
 - `2026-08-03` [[2026-08-03-monday-august-3-2026|Monday, August 3, 2026]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
+- `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod|Alibaba unveils Qwen3.8-Max, its “largest and most capable” model]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date|Alibaba unveils Qwen3.8-Max, its most capable model to date]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture|Alibaba unveils Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate|Alibaba unveils Qwen3.8-Max as China's model race accelerates]]
 - `2026-08-03` [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic|Alibaba says its new AI model can compete with Anthropic]]
+- `2026-08-03` [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo|Alibaba releases Qwen3.8-Max, a 2.4-trillion-parameter MoE model]]
 - `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close|Alibaba launches Qwen3.8-Max, its largest model yet, to close the gap with frontier labs]]
 - `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo|Alibaba launches Qwen3.8-Max, its largest and most capable model yet]]
+- `2026-08-03` [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c|Alibaba launches Qwen3.8-Max, a 2.4T-parameter MoE aimed at coding and long-horizon work]]
+- `2026-08-03` [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race|Alibaba Qwen3.8-Max raises the bar in China's model race]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability|1. Alibaba moves Qwen3.8-Max to general availability]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-moonshot-s-kimi-cluster-runs-on-20-000-nvidia-chips-leased-f|Moonshot's Kimi cluster runs on ~20,000 Nvidia chips leased from Alibaba]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]

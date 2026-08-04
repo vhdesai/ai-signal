@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
-- 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 embedding_id: 2026-07-29-pitchbook-2026-07-29-external-scoop-investcorp-s-play-for-ri
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-29] [EXTERNAL] Scoop: Investcorp's play for RIAs
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]]
+**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]]
 <!-- graph:end -->

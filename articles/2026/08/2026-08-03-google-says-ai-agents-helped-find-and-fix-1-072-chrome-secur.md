@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
 - 2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu
 - 2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security
 - 2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected
-- 2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse
 embedding_id: 2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google reported that AI-driven tooling identified and helped remediate 1,072 sec
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu]] · [[2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security]] · [[2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected]] · [[2026-05-16-cmu-benchmark-ai-agents-can-autonomously-exploit-real-browse]]
+**Related:** [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs]] · [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu]] · [[2026-07-30-google-says-ai-agents-found-and-fixed-1-072-chrome-security]] · [[2026-05-18-google-first-confirmed-ai-assisted-zero-day-exploit-detected]]
 <!-- graph:end -->

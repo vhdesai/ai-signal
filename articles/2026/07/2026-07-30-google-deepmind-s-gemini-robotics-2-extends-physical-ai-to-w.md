@@ -17,10 +17,12 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots
+dedupe_status: canonical
+canonical_article_id: null
 related_article_ids:
+- 2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu
 - 2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu
+- 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
 embedding_id: 2026-07-30-google-deepmind-s-gemini-robotics-2-extends-physical-ai-to-w
 event_name: ''
 ---
@@ -34,6 +36,5 @@ Google DeepMind released Gemini Robotics 2 as three models — a vision-language
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots]]
-**Related:** [[2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu]]
+**Related:** [[2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu]] · [[2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu]] · [[2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph]]
 <!-- graph:end -->

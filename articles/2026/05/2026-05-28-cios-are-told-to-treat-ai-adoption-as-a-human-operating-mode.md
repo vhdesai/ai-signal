@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
+- 2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption
 - 2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl
-- 2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin
 embedding_id: 2026-05-28-cios-are-told-to-treat-ai-adoption-as-a-human-operating-mode
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CIO Dive’s enterprise adoption coverage argued that AI rollouts often stall be
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]] · [[2026-08-03-enterprises-seek-help-deploying-ai-as-forward-deployed-engin]]
+**Related:** [[2026-05-21-cio-dive-reports-that-technology-leaders-face-a-growing-gap]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-08-03-forward-deployed-engineers-become-the-enterprise-ai-adoption]] · [[2026-07-27-enterprises-contend-with-mounting-ai-costs-as-tools-sprawl]]
 <!-- graph:end -->

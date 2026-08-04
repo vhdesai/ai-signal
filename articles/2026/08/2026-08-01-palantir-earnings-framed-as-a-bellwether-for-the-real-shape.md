@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
+- 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 - 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
+- 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
-- 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-- 2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog
-- 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
 embedding_id: 2026-08-01-palantir-earnings-framed-as-a-bellwether-for-the-real-shape
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Ahead of its results, Fast Company cast Palantir’s earnings as a key test of w
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-05-palantir-price-target-raised-to-225-rosenblatt-names-ontolog]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
+**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]]
 <!-- graph:end -->

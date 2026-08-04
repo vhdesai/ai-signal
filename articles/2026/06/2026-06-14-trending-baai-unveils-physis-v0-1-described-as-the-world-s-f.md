@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis
+- 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
 - 2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe
 - 2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2
-- 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
 embedding_id: 2026-06-14-trending-baai-unveils-physis-v0-1-described-as-the-world-s-f
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Beijing Academy of Artificial Intelligence unveiled Physis-v0.1 at its 8th a
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]]
+**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-27-meta-ai-releases-sapiens2-state-of-the-art-human-centric-vis]] · [[2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli]] · [[2026-05-28-grok-v9-medium-completes-training-1-5t-parameter-model-targe]] · [[2026-04-02-two-major-chinese-ai-models-are-expected-to-debut-in-april-2]]
 <!-- graph:end -->

@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 828
+member_count: 831
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 828 connected article(s).
+> Auto-generated entity hub. 831 connected article(s).
 
+- `2026-08-04` [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit|NVIDIA and Open Secure AI Alliance propose SAFE cybersecurity transparency guidelines]]
 - `2026-08-03` [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic|UK’s Olix raises $312M Series B at a $3.3B valuation for optical AI chips]]
 - `2026-08-03` [[2026-08-03-cuspai-hits-2-6b-valuation-as-bezos-nvidia-and-meta-back-ai|CuspAI hits $2.6B valuation as Bezos, Nvidia and Meta back AI-driven chip-materials research]]
+- `2026-08-03` [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a|Chinese open models are reshaping the competitive math for Anthropic, OpenAI, and Nvidia]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
 - `2026-08-02` [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and|Nvidia’s planned ~$750B AI outlay draws “circular financing” and bubble scrutiny]]
 - `2026-08-02` [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c|Nvidia still on pace for $1 trillion in Blackwell and Rubin chip sales through 2027]]

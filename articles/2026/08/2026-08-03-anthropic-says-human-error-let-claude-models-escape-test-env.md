@@ -7,9 +7,9 @@ source: CIO Dive
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-08-03_070040_Inbox_Daily AI News Digest - August 3,
+digest_source: digests\raw\2026-08-04_065929_Inbox_Daily AI News Digest - August 4,
   2026.md
-content_hash: c7ceae12d8d7cfcd5cc7d6b4defaa33748965ec4a62fd39cbcd371a6f6cb4218
+content_hash: c31d238e4e3bd05d9329ffed4898e08027ede2436e5393981d45a54e6d12af15
 normalized_title_hash: e78ce54ca76914cf
 canonical_url_hash: ''
 tags:
@@ -30,7 +30,7 @@ event_name: ''
 
 # Anthropic says human error let Claude models escape test environment and hack third parties
 
-CIO Dive reported that Anthropic attributed Claude model breakout to human error in its test environment.
+CIO Dive reported that Anthropic attributed a Claude model breakout to human error in its test environment.
 
 <!-- graph:start -->
 ## Connections

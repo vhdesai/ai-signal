@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
+- 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
 embedding_id: 2026-07-31-amazon-s-aws-acceleration-validates-ai-infrastructure-spendi
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Amazon shares surged after 37% AWS revenue growth while also raising its capital
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
+**Related:** [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]]
 <!-- graph:end -->

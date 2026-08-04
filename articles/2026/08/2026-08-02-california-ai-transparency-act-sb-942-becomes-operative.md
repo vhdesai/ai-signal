@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative
+- 2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative
+- 2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ
+- 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an
-- 2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
-- 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
-- 2026-05-23-california-issues-trusted-ai-procurement-executive-order-man
-- 2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
 embedding_id: 2026-08-02-california-ai-transparency-act-sb-942-becomes-operative
 event_name: ''
 ---
@@ -36,5 +36,5 @@ California's AI Transparency Act, as broadened by AB 853, took effect August 2. 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]] · [[2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-05-23-california-issues-trusted-ai-procurement-executive-order-man]] · [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]]
+**Related:** [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative]] · [[2026-08-03-24-california-sb-942-ai-transparency-act-becomes-operative]] · [[2026-08-04-california-s-ai-transparency-law-enters-its-first-phase-targ]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-05-18-connecticut-this-week-adopted-both-a-comprehensive-ai-act-an]]
 <!-- graph:end -->

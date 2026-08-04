@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-new-warning-in-race-to-superintelligence
 - 2026-07-11-new-warning-in-race-to-superintelligence
 - 2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open
-- 2026-06-29-the-pro-ai-movement-is-splintering-over-national-security-vs
+- 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
 embedding_id: 2026-07-09-new-warning-in-race-to-superintelligence
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Axios AI+ highlighted a new AI Futures Project proposal calling for an internati
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open]] · [[2026-06-29-the-pro-ai-movement-is-splintering-over-national-security-vs]]
+**Related:** [[2026-07-10-new-warning-in-race-to-superintelligence]] · [[2026-07-12-new-warning-in-race-to-superintelligence]] · [[2026-07-11-new-warning-in-race-to-superintelligence]] · [[2026-08-02-ai-s-manifesto-war-hardens-into-a-washington-fight-over-open]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
 <!-- graph:end -->

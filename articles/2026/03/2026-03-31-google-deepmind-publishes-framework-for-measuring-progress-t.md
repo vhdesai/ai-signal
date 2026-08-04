@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn
+- 2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph
+- 2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
 - 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
-- 2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met
-- 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 embedding_id: 2026-03-31-google-deepmind-publishes-framework-for-measuring-progress-t
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google DeepMind published a cognitive framework for measuring and evaluating AGI
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]] · [[2026-06-29-google-deepmind-s-coding-pivot-triggers-talent-exodus-to-met]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]]
+**Related:** [[2026-03-24-google-deepmind-released-a-research-paper-introducing-a-cogn]] · [[2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph]] · [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]]
 <!-- graph:end -->

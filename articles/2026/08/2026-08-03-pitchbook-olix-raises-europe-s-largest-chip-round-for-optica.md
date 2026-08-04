@@ -17,14 +17,9 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
-- 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
-- 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
-- 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
+dedupe_status: duplicate
+canonical_article_id: 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
+related_article_ids: []
 embedding_id: 2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica
 event_name: ''
 ---
@@ -37,5 +32,5 @@ PitchBook reported that UK optical AI-chip startup Olix raised a $312 million Se
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]] · [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]]
+**Canonical:** [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]]
 <!-- graph:end -->

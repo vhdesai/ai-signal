@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below
+- 2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs
 - 2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero
 - 2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas
-- 2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var
 embedding_id: 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek released V4-Flash, a small and affordable model that delivers competiti
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below]] · [[2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]] · [[2026-04-24-deepseek-v4-enters-preview-with-1m-context-pro-and-flash-var]]
+**Related:** [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below]] · [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs]] · [[2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero]] · [[2026-04-23-deepseek-previews-v4-family-1-6t-param-pro-and-1m-token-flas]]
 <!-- graph:end -->

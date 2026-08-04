@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 308
+member_count: 313
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 308 connected article(s).
+> Auto-generated entity hub. 313 connected article(s).
 
+- `2026-08-03` [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age|DeepSeek's V4-Flash update surpasses its own flagship on agent benchmarks]]
+- `2026-08-03` [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run|DeepSeek's V4-Flash is the cheapest well-known model to run]]
+- `2026-08-03` [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs|DeepSeek V4-Flash sharpens price pressure on frontier labs]]
 - `2026-08-03` [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below|DeepSeek V4-Flash pressures frontier pricing from below]]
 - `2026-08-03` [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model|DeepSeek Makes a Splash with Small, Affordable V4-Flash Model]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r|2. DeepSeek V4-Flash rated the cheapest well-known model to run]]
 - `2026-08-02` [[2026-08-02-deepseek-data-center-plan-points-to-infrastructure-as-the-ne|DeepSeek data-center plan points to infrastructure as the next phase of China’s model race]]
 - `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]

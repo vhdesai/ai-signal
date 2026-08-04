@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 113
+member_count: 114
 ---
 
 # IBM
 
-> Auto-generated entity hub. 113 connected article(s).
+> Auto-generated entity hub. 114 connected article(s).
 
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-08-01` [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand|IBM earnings read as a gauge of AI-infrastructure demand]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]

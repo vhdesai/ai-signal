@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-16-study-ai-assistance-reduces-persistence-and-hurts-unaided-pe
 - 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 - 2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u
-- 2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning
+- 2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp
 embedding_id: 2026-05-16-a-randomized-controlled-trial-n-1-222-published-in-april-and
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A randomized controlled trial (N=1,222) published in April and still generating 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-16-study-ai-assistance-reduces-persistence-and-hurts-unaided-pe]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-05-04-cmu-reflection-prompts-can-slow-down-ai-assisted-learning]]
+**Related:** [[2026-05-16-study-ai-assistance-reduces-persistence-and-hurts-unaided-pe]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-07-04-a-study-of-more-than-26-000-chinese-students-found-that-ai-u]] · [[2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp]]
 <!-- graph:end -->

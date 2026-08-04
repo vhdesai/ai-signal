@@ -6,7 +6,7 @@ source: The Information
 url_original: null
 url_canonical: null
 url_status: missing
-digest_source: digests\raw\2026-08-03_070040_Inbox_Daily AI News Digest - August 3,
+digest_source: digests\raw\2026-08-04_065929_Inbox_Daily AI News Digest - August 4,
   2026.md
 content_hash: cb93f4ca84fee775b36a258832180821b8724429b81f9fc761fac5b3be4bb8d3
 normalized_title_hash: 95319f30e7ae10fb

@@ -24,8 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l
+- 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-- 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
 embedding_id: 2026-05-27-alibaba-s-qwen-3-7-max-stakes-a-claim-on-the-agent-frontier
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba's Qwen team released Qwen 3.7-Max, positioning it explicitly as an "agen
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview]]
+**Related:** [[2026-05-23-alibaba-previews-qwen-3-7-max-as-china-s-price-performance-l]] · [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]]
 <!-- graph:end -->

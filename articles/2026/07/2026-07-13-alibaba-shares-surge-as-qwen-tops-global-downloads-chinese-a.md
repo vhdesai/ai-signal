@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
 - 2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture
 - 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
-- 2026-04-21-new-alibaba-ships-qwen-3-6-max-preview
+- 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
 embedding_id: 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Alibaba posted its largest stock jump since September after an earnings update, 
 
 **Entities:** [[Alibaba]] · [[Baidu]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]] · [[2026-04-21-new-alibaba-ships-qwen-3-6-max-preview]]
+**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate]] · [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race]]
 <!-- graph:end -->

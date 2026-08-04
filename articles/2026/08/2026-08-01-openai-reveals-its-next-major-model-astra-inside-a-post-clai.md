@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long
 - 2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on
 - 2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
-- 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 embedding_id: 2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI used a blog post about solving ten long-standing mathematics problems to 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on]] · [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]]
+**Related:** [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on]] · [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the
 - 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
 - 2026-05-08-source-techcrunch-wsj-published-may-4-2026
+- 2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou
 embedding_id: 2026-05-01-top-ai-companies-agree-to-pentagon-deals-2026-05-01-wall-str
 event_name: ''
 ---
@@ -32,5 +33,5 @@ Top AI Companies Agree to Pentagon Deals [2026-05-01] · Wall Street Journal
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-02-may-1-2026-techcrunch-industry-analysis-policy-dod]] · [[2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-05-08-source-techcrunch-wsj-published-may-4-2026]]
+**Related:** [[2026-05-02-may-1-2026-techcrunch-industry-analysis-policy-dod]] · [[2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-05-08-source-techcrunch-wsj-published-may-4-2026]] · [[2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou]]
 <!-- graph:end -->

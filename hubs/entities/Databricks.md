@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 79
+member_count: 82
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 79 connected article(s).
+> Auto-generated entity hub. 82 connected article(s).
 
+- `2026-08-03` [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct|Databricks makes Variant generally available for semi-structured data]]
+- `2026-08-03` [[2026-08-03-databricks-completes-panther-acquisition-to-build-security-l|Databricks completes Panther acquisition to build security lakehouse strategy]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]
 - `2026-07-30` [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories|EU commits €10B to build up to seven AI “gigafactories”]]

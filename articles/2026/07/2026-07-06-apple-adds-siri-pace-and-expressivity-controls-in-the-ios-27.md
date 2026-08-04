@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
 - 2026-07-15-apple-opens-revamped-siri-ai-through-the-ios-27-public-beta
+- 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
-- 2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap
-- event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing
 embedding_id: 2026-07-06-apple-adds-siri-pace-and-expressivity-controls-in-the-ios-27
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TechCrunch reported that Apple's latest iOS 27 beta lets users customize the new
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-15-apple-opens-revamped-siri-ai-through-the-ios-27-public-beta]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-04-02-new-apple-siri-gets-multi-command-support-in-ios-27-apr-1-ap]] · [[event-apple-wwdc-2026-preview-apple-wwdc-2026-preview-siri-redesign-and-model-routing]]
+**Related:** [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27]] · [[2026-07-15-apple-opens-revamped-siri-ai-through-the-ios-27-public-beta]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]]
 <!-- graph:end -->

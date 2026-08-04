@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 290
+member_count: 291
 ---
 
 # xAI
 
-> Auto-generated entity hub. 290 connected article(s).
+> Auto-generated entity hub. 291 connected article(s).
 
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
 - `2026-08-02` [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai|Minnesota’s “nudify” ban takes effect after judge rejects xAI’s bid to pause it]]
 - `2026-08-02` [[2026-08-02-minnesota-s-ai-nudify-ban-takes-effect-after-judge-denies-xa|Minnesota’s AI nudify ban takes effect after judge denies xAI’s bid to block it]]

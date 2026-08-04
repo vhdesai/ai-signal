@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
-- 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 embedding_id: 2026-07-10-pitchbook-2026-07-10-external-energy-m-a-soars-5x
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-10] [EXTERNAL] Energy M&A soars 5x
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-18-pitchbook-2026-07-18-external-m-a-rebound-is-thinner-than-it]] · [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]]
+**Related:** [[2026-07-18-pitchbook-2026-07-18-external-m-a-rebound-is-thinner-than-it]] · [[2026-06-15-pitchbook-2026-06-15-external-small-deals-strong-returns]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
 <!-- graph:end -->

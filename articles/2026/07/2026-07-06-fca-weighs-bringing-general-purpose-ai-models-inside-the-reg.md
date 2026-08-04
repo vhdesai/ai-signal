@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-15-researchers-at-northwestern-university-and-american-universi
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl
+- 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
 - 2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr
-- 2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal
 embedding_id: 2026-07-06-fca-weighs-bringing-general-purpose-ai-models-inside-the-reg
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The FCA's Sheldon Mills said Britain should consider whether large language mode
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr]] · [[2026-06-27-the-industry-that-funded-deregulation-now-lobbies-for-formal]]
+**Related:** [[2026-05-15-researchers-at-northwestern-university-and-american-universi]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-15-u-s-legal-practitioners-are-now-widely-warning-enterprise-cl]] · [[2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli]] · [[2026-07-14-hassabis-proposes-a-finra-style-u-s-standards-body-to-vet-fr]]
 <!-- graph:end -->

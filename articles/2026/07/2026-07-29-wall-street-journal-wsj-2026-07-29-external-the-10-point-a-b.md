@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
 - 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
+- 2026-08-04-wall-street-journal-wsj-2026-08-04-external-the-10-point-ice
 - 2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how
 - 2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the
-- 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
 embedding_id: 2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Wall Street Journal / WSJ - [2026-07-29] [EXTERNAL] The 10-Point: A Band of Soci
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
+**Related:** [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-08-04-wall-street-journal-wsj-2026-08-04-external-the-10-point-ice]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]] · [[2026-07-10-wall-street-journal-wsj-2026-07-10-external-the-10-point-the]]
 <!-- graph:end -->

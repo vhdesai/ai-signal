@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki
 - 2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h
 - 2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h
+- 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
-- 2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots
 embedding_id: 2026-05-19-google-s-synthid-ai-watermarking-adopted-by-openai-nvidia-an
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google announced that its SynthID AI content watermarking technology — used to
 
 **Entities:** [[Google]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-05-22-ai-is-being-used-to-resurrect-the-voices-of-dead-pilots]]
+**Related:** [[2026-05-19-openai-adopts-c2pa-conformance-and-google-synthid-watermarki]] · [[2026-07-08-google-s-synthid-helps-debunk-viral-ai-generated-mcconnell-h]] · [[2026-07-08-google-s-deepfake-detector-system-used-to-debunk-mcconnell-h]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]]
 <!-- graph:end -->

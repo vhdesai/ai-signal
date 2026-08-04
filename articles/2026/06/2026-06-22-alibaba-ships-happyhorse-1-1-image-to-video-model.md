@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse
 - 2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse
 - 2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un
-- 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
+- 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
 embedding_id: 2026-06-22-alibaba-ships-happyhorse-1-1-image-to-video-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Alibaba Cloud launched HappyHorse 1.1, an image-to-video model on Model Studio, 
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion]]
+**Related:** [[2026-04-10-alibaba-has-been-unmasked-as-the-developer-behind-happyhorse]] · [[2026-04-23-alibaba-was-unmasked-as-the-anonymous-creator-of-happyhorse]] · [[2026-04-12-alibaba-s-qwen-team-released-qwen3-6-plus-on-hugging-face-un]] · [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]]
 <!-- graph:end -->

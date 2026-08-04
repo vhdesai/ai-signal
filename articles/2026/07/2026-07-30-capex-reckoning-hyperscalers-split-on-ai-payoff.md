@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-30-thursday-july-30-2026
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore
+- 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
-- 2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex
 embedding_id: 2026-07-30-capex-reckoning-hyperscalers-split-on-ai-payoff
 event_name: ''
 ---
@@ -42,5 +42,5 @@ The past 24 hours put the defining tension of the AI cycle — capital in versus
 
 **Entities:** [[Google]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-30-thursday-july-30-2026]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-07-29-meta-s-free-cash-flow-craters-as-it-doubles-down-on-ai-capex]]
+**Related:** [[2026-07-30-thursday-july-30-2026]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-07-30-meta-s-ai-spending-pressures-free-cash-flow-while-it-explore]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox
 - 2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
-- 2026-07-05-pitchbook-2026-07-05-external-three-scenarios-if-openai-dela
 embedding_id: 2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook - [2026-06-03] [EXTERNAL] OpenAI goes public as AIs worst value
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox]] · [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-07-05-pitchbook-2026-07-05-external-three-scenarios-if-openai-dela]]
+**Related:** [[2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox]] · [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
 <!-- graph:end -->

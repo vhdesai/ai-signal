@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-publishes-eu-responsible-ai-compliance-positioning
+- 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
 - 2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia
-- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 embedding_id: 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published an overview of how its safety, security, transparency, and prov
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-publishes-eu-responsible-ai-compliance-positioning]] · [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
+**Related:** [[2026-07-31-openai-publishes-eu-responsible-ai-compliance-positioning]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-06-08-eu-publishes-draft-guidelines-on-high-risk-ai-under-the-ai-a]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-05-15-eu-ai-act-high-risk-enforcement-now-in-effect-global-complia]]
 <!-- graph:end -->

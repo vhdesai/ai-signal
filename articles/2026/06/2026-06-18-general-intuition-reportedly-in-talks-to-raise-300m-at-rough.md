@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains
-- 2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
+- 2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti
 embedding_id: 2026-06-18-general-intuition-reportedly-in-talks-to-raise-300m-at-rough
 event_name: ''
 ---
@@ -37,5 +37,5 @@ General Intuition is reportedly discussing a $300 million raise at about a $2 bi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-07-18-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]]
+**Related:** [[2026-06-25-general-intuition-raises-320m-series-a-at-a-2-3b-valuation-t]] · [[2026-06-25-general-intuition-raises-320m-to-train-agents-on-video-game]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-18-baseten-reportedly-raising-1-5b-as-inference-demand-remains]] · [[2026-07-17-humanoid-reportedly-raises-at-a-1-2b-valuation-showing-conti]]
 <!-- graph:end -->

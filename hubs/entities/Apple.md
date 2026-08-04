@@ -1,15 +1,20 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 362
+member_count: 367
 ---
 
 # Apple
 
-> Auto-generated entity hub. 362 connected article(s).
+> Auto-generated entity hub. 367 connected article(s).
 
 - `2026-08-03` [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview|The Information - [2026-08-03] [EXTERNAL] Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - [2026-08-03] [EXTERNAL]…]]
+- `2026-08-03` [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the|Apple's rebuilt Siri is now useful, but TechCrunch argues the market has moved on]]
+- `2026-08-03` [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships|Apple's long-delayed Siri AI overhaul finally ships]]
+- `2026-08-03` [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm|Apple researchers study alignment methods for multimodal LLMs]]
 - `2026-08-03` [[2026-08-03-apple-icloud-policy-fueled-employee-leaks-ahead-of-openai-tr|Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Trade Secrets Suit]]
+- `2026-08-03` [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27|5. Apple ships its long-promised Siri overhaul in iOS 27]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-02` [[2026-08-02-apple-caps-bug-report-submissions-amid-ai-generated-deluge|Apple caps bug-report submissions amid AI-generated deluge]]
 - `2026-08-01` [[2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra|The Information - [2026-08-01] [EXTERNAL] Why Apple Should Buy Granola]]
 - `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]

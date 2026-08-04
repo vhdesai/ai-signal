@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-openai-updates-gpt-5-6-price-performance-positioning
 - 2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability
 - 2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te
 - 2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien
@@ -37,5 +38,5 @@ OpenAI's price-performance article for GPT-5.6 was updated inside the window and
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability]]
+**Related:** [[2026-08-04-openai-updates-gpt-5-6-price-performance-positioning]] · [[2026-07-09-gpt-5-6-sol-terra-luna-reaches-general-availability]] · [[2026-07-10-openai-completes-public-rollout-of-the-gpt-5-6-family-sol-te]] · [[2026-07-29-openai-introduces-gpt-5-6-with-emphasis-on-frontier-efficien]] · [[2026-07-08-openai-takes-gpt-5-6-sol-terra-luna-to-general-availability]]
 <!-- graph:end -->

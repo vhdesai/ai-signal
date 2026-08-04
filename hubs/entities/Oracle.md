@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 139
+member_count: 140
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 139 connected article(s).
+> Auto-generated entity hub. 140 connected article(s).
 
 - `2026-08-03` [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny|Oracle's AI infrastructure bet draws renewed scrutiny]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-oracle-expands-google-gemini-embedding-urges-faster-ai-drive|Oracle expands Google Gemini embedding; urges faster, AI-driven patching]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]

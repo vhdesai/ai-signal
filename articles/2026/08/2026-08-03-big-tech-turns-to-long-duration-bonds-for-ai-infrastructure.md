@@ -17,14 +17,9 @@ entities: []
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-03-how-to-play-the-flood-of-ai-bonds
-- 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
-- 2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou
-- 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
+dedupe_status: duplicate
+canonical_article_id: 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
+related_article_ids: []
 embedding_id: 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 event_name: ''
 ---
@@ -37,5 +32,5 @@ The Wall Street Journal reported that large technology companies are borrowing f
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-how-to-play-the-flood-of-ai-bonds]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-13-wall-street-develops-new-financing-structures-for-ai-buildou]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]]
+**Canonical:** [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure]]
 <!-- graph:end -->

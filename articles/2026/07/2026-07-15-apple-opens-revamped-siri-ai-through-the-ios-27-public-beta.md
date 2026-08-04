@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-03-28-apple-opens-siri-to-rival-ai-models-in-ios-27
 - 2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed
+- 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 - 2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri
-- 2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+- 2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27
 embedding_id: 2026-07-15-apple-opens-revamped-siri-ai-through-the-ios-27-public-beta
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple opens revamped Siri AI through the iOS 27 public beta.
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-03-28-apple-opens-siri-to-rival-ai-models-in-ios-27]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-03-28-apple-announced-it-will-open-the-siri-platform-to-third-part]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
+**Related:** [[2026-03-28-apple-opens-siri-to-rival-ai-models-in-ios-27]] · [[2026-05-27-apple-s-ios-27-siri-overhaul-and-ai-features-previewed]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-06-21-apple-s-practical-ios-27-ai-features-move-beyond-siri]] · [[2026-08-03-5-apple-ships-its-long-promised-siri-overhaul-in-ios-27]]
 <!-- graph:end -->

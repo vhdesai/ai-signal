@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 39
+member_count: 40
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 39 connected article(s).
+> Auto-generated entity hub. 40 connected article(s).
 
+- `2026-08-04` [[2026-08-04-the-information-2026-08-04-external-palantir-stock-surges-as|The Information - [2026-08-04] [EXTERNAL] Palantir Stock Surges as U.S]]
 - `2026-08-01` [[2026-08-01-other-ai-related-publication-emails-2026-08-01-external-the|Other AI-related Publication Emails - [2026-08-01] [EXTERNAL] The energy story under the Grand Canyon - [2026-08-01]…]]
 - `2026-07-18` [[2026-07-18-agility-robotics-opens-a-training-center-near-tesla-s-factor|Agility Robotics opens a training center near Tesla's factory for Digit humanoid deployments, reinforcing…]]
 - `2026-07-17` [[2026-07-17-agility-robotics-opens-a-training-center-near-tesla-s-factor|Agility Robotics opens a training center near Tesla's factory for Digit humanoid deployments, reinforcing…]]

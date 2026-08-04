@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
+- 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-- 2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist
 embedding_id: 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's GPT-Live release page was sitemap-updated inside the reporting window a
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c]] · [[2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-07-10-openai-blog-gpt-5-6-launch-gpt-live-genebench-pro-ai-chemist]]
+**Related:** [[2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]]
 <!-- graph:end -->

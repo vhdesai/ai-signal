@@ -1,18 +1,30 @@
 ---
 type: entity-hub
 hub: Google
-member_count: 1058
+member_count: 1070
 ---
 
 # Google
 
-> Auto-generated entity hub. 1058 connected article(s).
+> Auto-generated entity hub. 1070 connected article(s).
 
+- `2026-08-04` [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a|SK hynix and Sandisk publish the first HBF memory standard at FMS 2026]]
+- `2026-08-04` [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-standard-expandin|SK hynix and SanDisk publish the first HBF standard, expanding the AI-memory ecosystem]]
+- `2026-08-04` [[2026-08-04-other-ai-related-publication-emails-2026-08-04-external-from|Other AI-related Publication Emails - [2026-08-04] [EXTERNAL] From learning AI & ML to applying them at scale | Attend…]]
+- `2026-08-04` [[2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a|8. SK hynix and Sandisk unveil first HBF standard specs for AI memory]]
+- `2026-08-03` [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi|White House to Host AI Companies Tuesday to Review AI Oversight Framework]]
 - `2026-08-03` [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu|Google says AI agents helped fix more than 1,000 Chrome security bugs]]
+- `2026-08-03` [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs|Google says AI agents helped fix 1,072 Chrome security bugs]]
 - `2026-08-03` [[2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur|Google says AI agents helped find and fix 1,072 Chrome security bugs across two releases]]
+- `2026-08-03` [[2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu|Google DeepMind unveils Gemini Robotics 2 with whole-body humanoid control]]
+- `2026-08-03` [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive|Google DeepMind frames record AI capex as a bet on recursive self-improvement]]
+- `2026-08-03` [[2026-08-03-google-deepmind-frames-gemini-robotics-2-as-a-step-toward-ph|Google DeepMind frames Gemini Robotics 2 as a step toward “physical AGI”]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an|EU AI Act enforcement powers take effect; OpenAI, Anthropic and Google face new scrutiny]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro|EU AI Act enforcement powers go live, targeting OpenAI, Anthropic, and Google]]
+- `2026-08-03` [[2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r|DeepMind strategy chief frames record AI capex as a bet on recursive self-improvement]]
+- `2026-08-03` [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge|9. Amazon tops $3T as AI hyperscalers ride an earnings surge]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
 - `2026-08-01` [[2026-08-01-google-scraps-standalone-ai-studio-app-folds-creation-tools|Google scraps standalone AI Studio app, folds creation tools into Gemini]]

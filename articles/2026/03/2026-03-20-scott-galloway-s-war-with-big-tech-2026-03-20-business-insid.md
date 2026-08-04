@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
 - 2026-07-28-pitchbook-2026-07-28-external-bain-vs
 - 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
-- 2026-06-21-url
+- 2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big
 embedding_id: 2026-03-20-scott-galloway-s-war-with-big-tech-2026-03-20-business-insid
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Scott Galloway's war with Big Tech [2026-03-20] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]] · [[2026-06-21-url]]
+**Related:** [[2026-07-29-dealbook-andrew-ross-sorkin-nyt-2026-07-29-external-dealbook]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]] · [[2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big]]
 <!-- graph:end -->

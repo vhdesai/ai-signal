@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
 - 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 - 2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions
-- 2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex
+- 2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex
 embedding_id: 2026-06-21-kevin-o-leary-says-portfolio-companies-are-bypassing-consult
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Business Insider reported comments from investor Kevin O'Leary that companies he
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex]]
+**Related:** [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]] · [[2026-05-20-top-vcs-are-using-ai-to-scout-map-markets-and-prep-decisions]] · [[2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex]]
 <!-- graph:end -->

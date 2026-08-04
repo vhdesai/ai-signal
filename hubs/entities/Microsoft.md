@@ -1,18 +1,29 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 789
+member_count: 800
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 789 connected article(s).
+> Auto-generated entity hub. 800 connected article(s).
 
+- `2026-08-04` [[2026-08-04-other-ai-related-publication-emails-2026-08-04-external-from|Other AI-related Publication Emails - [2026-08-04] [EXTERNAL] From learning AI & ML to applying them at scale | Attend…]]
+- `2026-08-04` [[2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count|Microsoft adds an in-meeting “Report” button to Teams to counter AI deepfake meetings]]
+- `2026-08-04` [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee|Microsoft Teams adds a “Report” button to flag AI deepfake meetings]]
+- `2026-08-04` [[2026-08-04-microsoft-news-2026-08-04-microsoft-daily-digest-2026-08-04|Microsoft News - [2026-08-04] Microsoft Daily Digest - [2026-08-04] News you might have missed]]
+- `2026-08-04` [[2026-08-04-microsoft-closes-up-for-2026-finally|Microsoft Closes Up for 2026, Finally]]
+- `2026-08-03` [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents|Zenity raises $125M Series C to secure enterprise AI agents]]
+- `2026-08-03` [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise|Zenity raises $125M Series C to secure and govern enterprise AI agents]]
 - `2026-08-03` [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-03] [EXTERNAL] The latest news on Meta Platforms Inc]]
 - `2026-08-03` [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news|Other AI-related Publication Emails - [2026-08-03] Daily AI News Digest variants from vdesai@microsoft.com]]
 - `2026-08-03` [[2026-08-03-microsoft-news-2026-08-03-microsoft-daily-digest|Microsoft News - [2026-08-03] Microsoft Daily Digest]]
+- `2026-08-03` [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via|Anthropic tells Congress a Chinese firm distilled Claude via millions of prompts]]
+- `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears|Amazon tops $3 trillion as AWS growth eases AI-spending fears]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-02` [[2026-08-02-other-ai-related-publication-emails-2026-08-02-external-open|Other AI-related Publication Emails - [2026-08-02] [EXTERNAL] OpenAI Quietly Reveals Astra as Its Next Major AI Model -…]]
 - `2026-08-02` [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai|Minnesota’s “nudify” ban takes effect after judge rejects xAI’s bid to pause it]]
+- `2026-08-02` [[2026-08-02-california-s-ai-transparency-act-sb-942-becomes-operative|California's AI Transparency Act (SB 942) becomes operative]]
 - `2026-08-01` [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay|Wall Street focuses on how tech giants will make AI pay]]
 - `2026-08-01` [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay|Wall Street Thinks It Knows How Tech Giants Will Make AI Pay]]
 - `2026-08-01` [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-01] [EXTERNAL] The latest news on Amazon.com Inc]]

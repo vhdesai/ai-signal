@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 - 2026-05-14-berkeley-mit-s-optany-achieves-state-of-the-art-on-6-diverse
 - 2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents
-- 2026-05-17-wave-of-agentic-product-launches-codex-on-mobile-alexa-shopp
+- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 embedding_id: 2026-07-15-vieu-launches-an-ai-ready-map-of-business-relationships
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Vieu launches an AI-ready map of business relationships.
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-15-mit-profiles-real-world-ai-models-for-structured-resource-co]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-14-berkeley-mit-s-optany-achieves-state-of-the-art-on-6-diverse]] · [[2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents]] · [[2026-05-17-wave-of-agentic-product-launches-codex-on-mobile-alexa-shopp]]
+**Related:** [[2026-07-15-mit-profiles-real-world-ai-models-for-structured-resource-co]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-14-berkeley-mit-s-optany-achieves-state-of-the-art-on-6-diverse]] · [[2026-05-28-lowe-s-says-semantic-data-is-improving-its-ai-agents]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
 <!-- graph:end -->

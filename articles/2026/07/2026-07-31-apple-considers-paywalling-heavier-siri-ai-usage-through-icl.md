@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users
 - 2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u
 - 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
-- 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+- 2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships
 embedding_id: 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Tim Cook said Apple's long-awaited Siri AI upgrade could include paid usage tier
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users]] · [[2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]]
+**Related:** [[2026-07-31-siri-ai-could-come-with-a-paywall-for-power-users]] · [[2026-07-31-apple-reportedly-considers-paid-tiers-for-advanced-siri-ai-u]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]] · [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships]]
 <!-- graph:end -->

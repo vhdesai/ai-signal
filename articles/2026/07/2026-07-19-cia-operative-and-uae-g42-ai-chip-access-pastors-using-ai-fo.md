@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-19-wsj-reports-a-cia-operative-helped-the-uae-s-g42-clear-a-pat
 - 2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the
+- 2026-08-03-your-next-sermon-might-be-written-by-chatgpt
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 - 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
 embedding_id: 2026-07-19-cia-operative-and-uae-g42-ai-chip-access-pastors-using-ai-fo
@@ -35,5 +36,5 @@ CIA operative and UAE/G42 AI chip access; pastors using AI for sermons.
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-19-wsj-reports-a-cia-operative-helped-the-uae-s-g42-clear-a-pat]] · [[2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]]
+**Related:** [[2026-07-19-wsj-reports-a-cia-operative-helped-the-uae-s-g42-clear-a-pat]] · [[2026-07-19-wall-street-journal-wsj-2026-07-19-external-the-10-point-the]] · [[2026-08-03-your-next-sermon-might-be-written-by-chatgpt]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]]
 <!-- graph:end -->

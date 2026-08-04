@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni
 - 2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite
 - 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
-- 2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr
+- 2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r
 embedding_id: 2026-05-23-sensetime-bets-cost-efficiency-wins-the-ai-race-sensenova-u1
 event_name: ''
 ---
@@ -37,5 +37,5 @@ SenseTime Bets Cost-Efficiency Wins the AI Race; SenseNova U1 Is 10× Cheaper Th
 ## Connections
 
 **Entities:** [[Perplexity]]
-**Related:** [[2026-05-18-sensetime-bets-on-lower-cost-models-and-overseas-expansion-a]] · [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-09-openai-gpt-5-5-pricing-controversy-users-report-40-bill-incr]]
+**Related:** [[2026-05-18-sensetime-bets-on-lower-cost-models-and-overseas-expansion-a]] · [[2026-05-23-sensetime-the-us-sanctioned-hong-kong-ai-firm-is-repositioni]] · [[2026-05-12-sensenova-u1-sensetime-s-neo-unify-native-multimodal-archite]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-08-03-2-deepseek-v4-flash-rated-the-cheapest-well-known-model-to-r]]
 <!-- graph:end -->

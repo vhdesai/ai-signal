@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t
 - 2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over
 - 2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope
+- 2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the
 - 2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin
-- 2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia
 embedding_id: 2026-05-18-apple-is-reportedly-developing-a-major-siri-overhaul-that-wo
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple is reportedly developing a major Siri overhaul that would automatically de
 
 **Entities:** [[Apple]] · [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]] · [[2026-05-18-apple-revamps-siri-with-on-device-privacy-as-its-differentia]]
+**Related:** [[2026-07-12-apple-escalates-trade-secret-suit-against-openai-next-siri-t]] · [[2026-05-14-openai-reportedly-preparing-legal-action-against-apple-over]] · [[2026-03-26-apple-to-open-siri-to-claude-and-gemini-in-ios-27-ending-ope]] · [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the]] · [[2026-04-01-openai-has-expanded-chatgpt-s-reach-to-apple-carplay-enablin]]
 <!-- graph:end -->

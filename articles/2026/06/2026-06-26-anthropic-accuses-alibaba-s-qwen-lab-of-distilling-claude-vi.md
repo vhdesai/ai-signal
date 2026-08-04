@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-largest-ever-claude
 - 2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta
 - 2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta
+- 2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via
 embedding_id: 2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-distilling-claude-vi
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic alleges that Alibaba's Qwen team illicitly accessed Claude through rou
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-largest-ever-claude]] · [[2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta]] · [[2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta]]
+**Related:** [[2026-06-26-anthropic-accuses-alibaba-s-qwen-lab-of-largest-ever-claude]] · [[2026-06-25-anthropic-accuses-alibaba-of-largest-known-distillation-atta]] · [[2026-06-24-anthropic-accuses-alibaba-of-largest-known-distillation-atta]] · [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]]
 <!-- graph:end -->

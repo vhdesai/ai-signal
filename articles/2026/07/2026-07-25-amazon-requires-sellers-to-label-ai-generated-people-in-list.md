@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-19-retailers-prepare-for-ai-bots-as-buyers-requiring-new-commer
 - 2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter
 - 2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet
-- 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
+- 2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel
 embedding_id: 2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 
 **Entities:** [[Amazon]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-19-retailers-prepare-for-ai-bots-as-buyers-requiring-new-commer]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]]
+**Related:** [[2026-07-19-retailers-prepare-for-ai-bots-as-buyers-requiring-new-commer]] · [[2026-05-15-amazon-workers-reportedly-fabricating-ai-tasks-to-meet-inter]] · [[2026-06-22-amazon-pushes-conversational-ai-ads-onto-the-open-internet]] · [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel]]
 <!-- graph:end -->

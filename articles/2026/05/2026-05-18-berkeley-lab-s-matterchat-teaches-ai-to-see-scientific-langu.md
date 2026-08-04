@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
-- 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
 embedding_id: 2026-05-18-berkeley-lab-s-matterchat-teaches-ai-to-see-scientific-langu
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Berkeley Lab unveiled MatterChat, a multimodal model designed to interpret the s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel]]
+**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]]
 <!-- graph:end -->

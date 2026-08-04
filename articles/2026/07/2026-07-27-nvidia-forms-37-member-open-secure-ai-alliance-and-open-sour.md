@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
 - 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
-- 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
+- 2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit
 embedding_id: 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia and 36 partners launched the Open Secure AI Alliance and released NOOA, a
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]]
+**Related:** [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-08-04-nvidia-and-open-secure-ai-alliance-propose-safe-cybersecurit]]
 <!-- graph:end -->

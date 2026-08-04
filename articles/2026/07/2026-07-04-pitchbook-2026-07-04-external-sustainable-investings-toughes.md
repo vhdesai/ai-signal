@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
-- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-07-04-pitchbook-2026-07-04-external-sustainable-investings-toughes
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-04] [EXTERNAL] Sustainable investings toughest questions
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
+**Related:** [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]]
 <!-- graph:end -->

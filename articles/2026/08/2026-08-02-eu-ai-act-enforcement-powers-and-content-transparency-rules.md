@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an
 - 2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose
+- 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 - 2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
-- 2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
 embedding_id: 2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The EU AI Act moved into its enforcement stage, giving regulators authority to d
 
 **Entities:** [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an]] · [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]] · [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]] · [[2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]]
+**Related:** [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an]] · [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]] · [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]]
 <!-- graph:end -->

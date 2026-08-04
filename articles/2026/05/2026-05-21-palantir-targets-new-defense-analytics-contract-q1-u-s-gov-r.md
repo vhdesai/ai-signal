@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr
-- 2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes
+- 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
 embedding_id: 2026-05-21-palantir-targets-new-defense-analytics-contract-q1-u-s-gov-r
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Palantir is actively pursuing a new data analytics contract with a U.S. defense 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr]] · [[2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes]]
+**Related:** [[2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-21-palantir-sues-pentagon-to-compete-for-dia-ai-analytics-contr]] · [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]]
 <!-- graph:end -->

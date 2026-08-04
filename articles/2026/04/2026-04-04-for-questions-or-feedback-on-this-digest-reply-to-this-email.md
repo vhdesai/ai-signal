@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-03-12-the-information-explore-our-newsletters
 - 2026-05-08-source-ai-flash-report-published-may-8-2026
 - 2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-07-21-other-ai-related-publication-emails-2026-07-21-microsoft-dai
-- 2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news
 embedding_id: 2026-04-04-for-questions-or-feedback-on-this-digest-reply-to-this-email
 event_name: ''
 ---
@@ -36,5 +36,5 @@ For questions or feedback on this digest, reply to this email.
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-12-the-information-explore-our-newsletters]] · [[2026-05-08-source-ai-flash-report-published-may-8-2026]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-07-21-other-ai-related-publication-emails-2026-07-21-microsoft-dai]] · [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news]]
+**Related:** [[2026-03-12-the-information-explore-our-newsletters]] · [[2026-05-08-source-ai-flash-report-published-may-8-2026]] · [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-21-other-ai-related-publication-emails-2026-07-21-microsoft-dai]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all
-- 2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v
+- 2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale
 embedding_id: 2026-07-06-what-billions-of-ai-predictions-taught-expedia-before-the-ag
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Expedia's Chief AI and Data Officer described an operating framework for agentic
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all]] · [[2026-05-27-benchmark-integrity-emerges-as-an-ai-safety-adjacent-issue-v]]
+**Related:** [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-07-24-enterprises-are-deploying-ai-agents-faster-than-they-can-gov]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all]] · [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale]]
 <!-- graph:end -->

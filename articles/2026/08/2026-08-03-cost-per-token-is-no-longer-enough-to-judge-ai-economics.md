@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-cost-per-token-is-no-longer-enough-to-measure-ai-economics
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp
-- 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
 embedding_id: 2026-08-03-cost-per-token-is-no-longer-enough-to-judge-ai-economics
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CIO Dive argued that cost-per-token is too narrow for production AI economics.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]]
+**Related:** [[2026-08-03-cost-per-token-is-no-longer-enough-to-measure-ai-economics]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-27-cios-grapple-with-ai-costs-as-tools-sprawl-across-the-enterp]]
 <!-- graph:end -->

@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term
 - 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
-- 2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise
 embedding_id: 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 event_name: ''
 ---
@@ -35,5 +35,5 @@ A new study led by the INGENIO Institute (a joint CSIC–Universitat Politècnic
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise]]
+**Related:** [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-04-04-ai-companions-may-comfort-lonely-users-but-deepen-long-term]] · [[2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass
 - 2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the
+- 2026-08-03-alexander-rakhlin-named-director-of-mit-statistics-and-data
 embedding_id: 2026-07-30-daniela-rus-receives-bavarian-minister-president-s-high-tech
 event_name: ''
 ---
@@ -33,5 +34,5 @@ MIT News reports that CSAIL director Daniela Rus received the 2026 Bavarian Mini
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]]
+**Related:** [[2026-07-13-mit-csail-s-scenesmith-uses-collaborating-ai-agents-to-mass]] · [[2026-07-07-mit-names-ai-for-science-leader-jesse-thaler-director-of-the]] · [[2026-08-03-alexander-rakhlin-named-director-of-mit-statistics-and-data]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
 - 2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput
+- 2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore
+- 2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long
 - 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
-- 2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t
-- 2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on
 embedding_id: 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a research item cataloging ten advances in mathematics and theo
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]] · [[2026-05-23-openai-announced-it-has-solved-an-open-mathematics-problem-t]] · [[2026-08-02-openai-says-an-internal-astra-model-produced-new-results-on]]
+**Related:** [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-08-01-openai-shares-advances-in-mathematics-and-theoretical-comput]] · [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore]] · [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent]]
 <!-- graph:end -->

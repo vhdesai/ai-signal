@@ -20,7 +20,7 @@ themes:
 cross_cutting_topics:
 - china-compete
 dedupe_status: duplicate
-canonical_article_id: 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
+canonical_article_id: 2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability
 related_article_ids: []
 embedding_id: 2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate
 event_name: ''
@@ -35,5 +35,5 @@ Alibaba launched Qwen3.8-Max, a roughly 2.4-trillion-parameter mixture-of-expert
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Canonical:** [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]]
+**Canonical:** [[2026-08-03-1-alibaba-moves-qwen3-8-max-to-general-availability]]
 <!-- graph:end -->

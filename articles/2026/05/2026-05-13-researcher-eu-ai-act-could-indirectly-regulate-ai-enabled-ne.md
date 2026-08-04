@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an
 - 2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro
 - 2026-04-13-source-the-neuron-apr-13-2026
-- 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
+- 2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe
 embedding_id: 2026-05-13-researcher-eu-ai-act-could-indirectly-regulate-ai-enabled-ne
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A study by UOC researcher Miguel Angel Elizalde, published in The Age of Human R
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]] · [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]]
+**Related:** [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]] · [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an]] · [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro]] · [[2026-04-13-source-the-neuron-apr-13-2026]] · [[2026-08-03-eu-ai-act-transparency-obligations-take-effect-across-europe]]
 <!-- graph:end -->

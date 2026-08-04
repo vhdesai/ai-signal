@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
 - 2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me
+- 2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is
 - 2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute
-- 2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye
 embedding_id: 2026-07-02-remote-labor-index-update-fable-5-hits-a-record-16-1-automat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Center for AI Safety and Scale AI published updated Remote Labor Index resul
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-agents-in-m365-grew-15-ye]]
+**Related:** [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-05-20-2026-endpoint-ecosystem-study-only-29-of-employees-report-me]] · [[2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is]] · [[2026-05-22-ai-agents-leap-from-12-to-66-task-success-on-osworld-compute]]
 <!-- graph:end -->

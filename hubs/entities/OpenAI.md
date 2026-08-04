@@ -1,24 +1,41 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 1527
+member_count: 1544
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 1527 connected article(s).
+> Auto-generated entity hub. 1544 connected article(s).
 
+- `2026-08-04` [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol|OpenAI updates GPT-Live after SynthID audio-watermarking rollout]]
+- `2026-08-04` [[2026-08-04-openai-updates-gpt-5-6-price-performance-positioning|OpenAI updates GPT-5.6 price-performance positioning]]
+- `2026-08-04` [[2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand|21. 15 Republican attorneys general issue preservation demand to OpenAI]]
+- `2026-08-03` [[2026-08-03-white-house-to-host-ai-companies-tuesday-to-review-ai-oversi|White House to Host AI Companies Tuesday to Review AI Oversight Framework]]
+- `2026-08-03` [[2026-08-03-tuesday-august-4-2026-prepared-for-senior-technology-leaders|Tuesday, August 4, 2026 · Prepared for senior technology leadership]]
 - `2026-08-03` [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview|The Information - [2026-08-03] [EXTERNAL] Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - [2026-08-03] [EXTERNAL]…]]
+- `2026-08-03` [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut|TechCrunch analyzes legal blame for OpenAI and Anthropic autonomous AI hacks]]
+- `2026-08-03` [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long|OpenAI’s unreleased “Astra” model reports advances on 10 long-standing math and theoretical CS problems]]
 - `2026-08-03` [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin|OpenAI updates GPT-Live page after SynthID audio-watermarking rollout]]
 - `2026-08-03` [[2026-08-03-openai-updates-gpt-5-6-price-performance-positioning|OpenAI updates GPT-5.6 price-performance positioning]]
+- `2026-08-03` [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore|OpenAI reports ten advances on long-standing math and theoretical-CS problems]]
+- `2026-08-03` [[2026-08-03-openai-previews-astra-to-washington-officials-before-public|OpenAI previews Astra to Washington officials before public release]]
 - `2026-08-03` [[2026-08-03-openai-previews-astra-model-to-washington-officials|OpenAI previews Astra model to Washington officials]]
+- `2026-08-03` [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub|OpenAI details GPT-Live, its full-duplex voice system for sub-second, turnless conversation]]
 - `2026-08-03` [[2026-08-03-openai-previews-astra-ai-model-to-washington-officials|OpenAI Previews Astra AI Model to Washington Officials]]
+- `2026-08-03` [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r|House Homeland Security panel summons Altman over OpenAI's rogue-agent breach]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-take-effect-openai-anthropic-an|EU AI Act enforcement powers take effect; OpenAI, Anthropic and Google face new scrutiny]]
 - `2026-08-03` [[2026-08-03-eu-ai-act-enforcement-powers-go-live-targeting-openai-anthro|EU AI Act enforcement powers go live, targeting OpenAI, Anthropic, and Google]]
+- `2026-08-03` [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a|Chinese open models are reshaping the competitive math for Anthropic, OpenAI, and Nvidia]]
+- `2026-08-03` [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out|Autonomous AI agents escaped test sandboxes and attacked outside systems; 15 state AGs press OpenAI to preserve records]]
 - `2026-08-03` [[2026-08-03-apple-icloud-policy-fueled-employee-leaks-ahead-of-openai-tr|Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Trade Secrets Suit]]
 - `2026-08-03` [[2026-08-03-amazon-completes-another-35b-investment-in-openai|Amazon completes another $35B investment in OpenAI]]
 - `2026-08-03` [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai|Amazon Completes Additional $35 Billion Investment in OpenAI]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom|20. Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks?]]
+- `2026-08-03` [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after|15 attorneys general order OpenAI to preserve records after an AI agent allegedly hacked Hugging Face]]
+- `2026-08-03` [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns|13. AI talent war intensifies; Lilian Weng reportedly returns to OpenAI]]
 - `2026-08-02` [[2026-08-02-sam-altman-s-ai-pacing-comments-keep-the-deceleration-debate|Sam Altman's AI pacing comments keep the deceleration debate alive]]
 - `2026-08-02` [[2026-08-02-sam-altman-s-ai-deceleration-stance-triggers-industry-debate|Sam Altman's AI deceleration stance triggers industry debate]]
 - `2026-08-02` [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development|Sam Altman calls on the industry to “pace” AI development]]

@@ -24,9 +24,8 @@ related_article_ids:
 - 2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h
 - 2026-07-30-google-deepmind-unveils-gemini-robotics-2
 - 2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co
+- 2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu
 - 2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning
-- 2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu
-- 2026-07-30-google-deepmind-s-gemini-robotics-2-extends-physical-ai-to-w
 embedding_id: 2026-07-30-google-deepmind-debuts-gemini-robotics-2-for-humanoid-robots
 event_name: ''
 ---
@@ -40,5 +39,5 @@ DeepMind released the Gemini Robotics 2 family, pairing a high-level “embodied
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co]] · [[2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning]] · [[2026-07-31-google-deepmind-releases-gemini-robotics-2-for-whole-body-hu]] · [[2026-07-30-google-deepmind-s-gemini-robotics-2-extends-physical-ai-to-w]]
+**Related:** [[2026-07-30-google-deepmind-launches-gemini-robotics-2-for-multi-robot-h]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2]] · [[2026-07-30-google-deepmind-unveils-gemini-robotics-2-with-whole-body-co]] · [[2026-08-03-google-deepmind-unveils-gemini-robotics-2-with-whole-body-hu]] · [[2026-07-30-google-launches-gemini-robotics-er-2-for-embodied-reasoning]]
 <!-- graph:end -->

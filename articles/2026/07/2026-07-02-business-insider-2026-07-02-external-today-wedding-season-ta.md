@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-06-25-dealbook-andrew-ross-sorkin-nyt-2026-06-25-external-dealbook
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-06-26-dealbook-andrew-ross-sorkin-nyt-2026-06-26-external-dealbook
-- 2026-07-24-business-insider-2026-07-24-no-business-insider-newsletter-f
 embedding_id: 2026-07-02-business-insider-2026-07-02-external-today-wedding-season-ta
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-02] [EXTERNAL] Today: Wedding season (Taylors versio
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-06-25-dealbook-andrew-ross-sorkin-nyt-2026-06-25-external-dealbook]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-06-26-dealbook-andrew-ross-sorkin-nyt-2026-06-26-external-dealbook]] · [[2026-07-24-business-insider-2026-07-24-no-business-insider-newsletter-f]]
+**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-06-25-dealbook-andrew-ross-sorkin-nyt-2026-06-25-external-dealbook]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-26-dealbook-andrew-ross-sorkin-nyt-2026-06-26-external-dealbook]]
 <!-- graph:end -->

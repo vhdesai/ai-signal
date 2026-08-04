@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
 - 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
-- 2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
+- 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 embedding_id: 2026-05-26-eu-ai-act-enforcement-deadlines-approach-article-50-effectiv
 event_name: ''
 ---
@@ -33,5 +33,5 @@ EU AI Act enforcement deadlines approach: Article 50 effective Aug 2, 2026
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]]
+**Related:** [[2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]] · [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]]
 <!-- graph:end -->

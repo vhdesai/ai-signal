@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption
 - 2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi
 - 2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr
-- 2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai
+- 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 embedding_id: 2026-07-16-deepseek-price-cuts-do-not-necessarily-solve-enterprise-agen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek price cuts do not necessarily solve enterprise agent budgets; agents ca
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai]]
+**Related:** [[2026-07-12-deepseek-cut-v4-pro-prices-75-but-agentic-token-consumption]] · [[2026-06-09-ai-agent-startup-ditches-anthropic-for-deepseek-reports-savi]] · [[2026-05-31-deepseek-makes-75-price-cut-permanent-as-ai-affordability-pr]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]]
 <!-- graph:end -->

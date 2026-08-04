@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia
 - 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names
 - 2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras
 - 2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o
 - 2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin
-- 2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar
 embedding_id: 2026-07-10-coreweave-named-a-visionary-in-the-2026-gartner-magic-quadra
 event_name: ''
 ---
@@ -37,5 +37,5 @@ CoreWeave was named a Visionary in Gartner's 2026 Magic Quadrant for Cloud AI In
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names]] · [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]] · [[2026-06-01-coreweave-validates-nvidia-vera-rubin-nvl72-raising-the-bar]]
+**Related:** [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-magic-quadrant-names]] · [[2026-07-29-gartner-names-aws-google-microsoft-oracle-as-cloud-ai-infras]] · [[2026-07-29-gartner-s-2026-cloud-ai-infrastructure-mq-names-aws-google-o]] · [[2026-04-10-coreweave-has-signed-a-multiyear-deal-with-anthropic-coverin]]
 <!-- graph:end -->

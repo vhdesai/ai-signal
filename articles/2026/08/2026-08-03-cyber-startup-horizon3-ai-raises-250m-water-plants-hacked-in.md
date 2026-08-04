@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises
 - 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
-- 2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven
+- 2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation
 - 2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy
 embedding_id: 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
 event_name: ''
@@ -36,5 +36,5 @@ Horizon3.ai raised $250 million as demand for AI-driven security tools accelerat
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-horizon3-raises-250m-series-e-at-a-2b-valuation-as-ai-driven]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]]
+**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation]] · [[2026-06-10-cyera-raises-600m-becomes-one-of-the-most-valuable-ai-era-cy]]
 <!-- graph:end -->

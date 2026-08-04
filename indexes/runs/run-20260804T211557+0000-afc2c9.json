@@ -1,0 +1,23 @@
+{
+  "run_id": "20260804T211557+0000-afc2c9",
+  "started_at": "2026-08-04T21:15:57+00:00",
+  "finished_at": "2026-08-04T21:16:06+00:00",
+  "summary": {
+    "command": "ingest",
+    "result": {
+      "digests_total": 670,
+      "digests_changed": 9,
+      "changed": [
+        "news\\2026-08-04_000000_Publication-Sources.md",
+        "news\\2026-08-04_060905_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_061155_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_061719_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_061916_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_062620_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_065251_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_065929_Inbox_Daily AI News Digest - August 4, 2026.md",
+        "news\\2026-08-04_080731_Inbox_Fw Daily AI News Digest - August 4, 2026.md"
+      ]
+    }
+  }
+}

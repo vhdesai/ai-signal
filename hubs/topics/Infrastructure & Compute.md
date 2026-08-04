@@ -1,26 +1,53 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1419
+member_count: 1446
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1419 connected article(s).
+> Auto-generated topic hub. 1446 connected article(s).
 
+- `2026-08-04` [[2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device|Trump Administration Mulls Ban on Chinese Data Center Devices]]
+- `2026-08-04` [[2026-08-04-the-ai-boom-is-transforming-the-american-economy|The AI Boom Is Transforming the American Economy]]
+- `2026-08-04` [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a|SK hynix and Sandisk publish the first HBF memory standard at FMS 2026]]
+- `2026-08-04` [[2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is|MirrorCode benchmark shows GPT-5.5's apparent “regression” is an evaluation artifact]]
+- `2026-08-04` [[2026-08-04-microsoft-closes-up-for-2026-finally|Microsoft Closes Up for 2026, Finally]]
+- `2026-08-04` [[2026-08-04-major-pc-makers-start-using-memory-chips-from-china-s-cxmt|Major PC Makers Start Using Memory Chips from China's CXMT]]
+- `2026-08-04` [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user|MIT study finds medical AI assistance benefits vary by user expertise]]
+- `2026-08-04` [[2026-08-04-coreweave-expands-ai-cloud-platform-to-indonesia|CoreWeave expands AI cloud platform to Indonesia]]
+- `2026-08-04` [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re|Amazon joins the $3 trillion club as AWS posts its fastest revenue growth in four-plus years]]
+- `2026-08-04` [[2026-08-04-ai-governance-in-practice-how-headspace-manages-ai-at-scale|AI Governance in Practice: How Headspace Manages AI at Scale]]
+- `2026-08-04` [[2026-08-04-8-sk-hynix-and-sandisk-unveil-first-hbf-standard-specs-for-a|8. SK hynix and Sandisk unveil first HBF standard specs for AI memory]]
+- `2026-08-03` [[2026-08-03-your-next-sermon-might-be-written-by-chatgpt|Your Next Sermon Might Be Written by ChatGPT]]
 - `2026-08-03` [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua|UK chip startup Olix raises $312 million at $3.3 billion valuation]]
 - `2026-08-03` [[2026-08-03-south-korea-s-deepx-hits-2-2b-valuation-in-new-ai-chip-round|South Korea’s DeepX hits ~$2.2B valuation in new AI-chip round]]
 - `2026-08-03` [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica|PitchBook: Olix raises Europe's largest chip round for optical AI silicon]]
+- `2026-08-03` [[2026-08-03-openai-reports-ten-advances-on-long-standing-math-and-theore|OpenAI reports ten advances on long-standing math and theoretical-CS problems]]
+- `2026-08-03` [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic|Olix raises Europe's largest chip round for optical AI silicon]]
+- `2026-08-03` [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin|Love in the Time of AI: Chatbots Are Taking Over Online Dating]]
 - `2026-08-03` [[2026-08-03-khosla-and-a16z-back-mining-startup-to-support-ai-era-resour|Khosla and a16z back mining startup to support AI-era resource demand]]
 - `2026-08-03` [[2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027|Hyperscaler AI capex estimates top $1 trillion for 2027]]
 - `2026-08-03` [[2026-08-03-how-to-play-the-flood-of-ai-bonds|How to Play the Flood of AI Bonds]]
 - `2026-08-03` [[2026-08-03-google-says-ai-agents-helped-fix-more-than-1-000-chrome-secu|Google says AI agents helped fix more than 1,000 Chrome security bugs]]
+- `2026-08-03` [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs|Google says AI agents helped fix 1,072 Chrome security bugs]]
+- `2026-08-03` [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive|Google DeepMind frames record AI capex as a bet on recursive self-improvement]]
 - `2026-08-03` [[2026-08-03-frontier-momentum-from-china-meets-the-eu-s-enforcement-era|Frontier Momentum From China Meets the EU’s Enforcement Era]]
+- `2026-08-03` [[2026-08-03-chinese-open-models-are-reshaping-the-competitive-math-for-a|Chinese open models are reshaping the competitive math for Anthropic, OpenAI, and Nvidia]]
 - `2026-08-03` [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure|Big Tech turns to long-duration bonds for AI infrastructure]]
+- `2026-08-03` [[2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure|Big Tech taps long-duration bonds to fund AI infrastructure]]
 - `2026-08-03` [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different|Big Tech Earnings Are Sending Valuations in Wildly Different Directions]]
+- `2026-08-03` [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan|Berkeley Lab demonstrates AI modeling that accelerates advanced-materials discovery]]
+- `2026-08-03` [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm|Apple researchers study alignment methods for multimodal LLMs]]
 - `2026-08-03` [[2026-08-03-amazon-completes-another-35b-investment-in-openai|Amazon completes another $35B investment in OpenAI]]
+- `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel|Amazon Tops $3 Trillion Market Value as AI Cloud Demand Accelerates]]
 - `2026-08-03` [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai|Amazon Completes Additional $35 Billion Investment in OpenAI]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date|Alibaba unveils Qwen3.8-Max, its most capable model to date]]
+- `2026-08-03` [[2026-08-03-alexander-rakhlin-named-director-of-mit-statistics-and-data|Alexander Rakhlin named director of MIT Statistics and Data Science Center]]
+- `2026-08-03` [[2026-08-03-aws-confirms-gpt-5-6-price-cuts-in-bedrock-weekly-roundup|AWS confirms GPT-5.6 price cuts in Bedrock weekly roundup]]
+- `2026-08-03` [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge|9. Amazon tops $3T as AI hyperscalers ride an earnings surge]]
+- `2026-08-03` [[2026-08-03-7-knowbe4-extends-agent-risk-manager-to-anthropic-s-claude|7. KnowBe4 extends Agent Risk Manager to Anthropic’s Claude]]
+- `2026-08-03` [[2026-08-03-12-horizon3-raises-250m-series-e-at-a-2b-valuation|12. Horizon3 raises $250M Series E at a $2B valuation]]
 - `2026-08-02` [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an|OpenAI updates publication on ten advances in mathematics and theoretical computer science]]
 - `2026-08-02` [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and|Nvidia’s planned ~$750B AI outlay draws “circular financing” and bubble scrutiny]]
 - `2026-08-02` [[2026-08-02-nvidia-still-on-pace-for-1-trillion-in-blackwell-and-rubin-c|Nvidia still on pace for $1 trillion in Blackwell and Rubin chip sales through 2027]]

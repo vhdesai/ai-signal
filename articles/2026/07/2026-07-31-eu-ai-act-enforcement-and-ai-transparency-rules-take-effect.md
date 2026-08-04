@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare
 - 2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules
 - 2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out
+- 2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect
 embedding_id: 2026-07-31-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect
 event_name: ''
 ---
@@ -36,5 +37,5 @@ As of Aug. 2, 2026, the European Commission's AI Office and national authorities
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]]
+**Related:** [[2026-08-02-eu-ai-act-enforcement-and-ai-transparency-rules-take-effect]] · [[2026-08-02-eu-ai-act-enforcement-of-general-purpose-model-and-transpare]] · [[2026-08-02-eu-ai-act-enforcement-powers-and-content-transparency-rules]] · [[2026-05-25-eu-ai-act-full-enforcement-begins-august-2-2026-70-days-out]] · [[2026-08-03-23-eu-ai-act-article-50-transparency-rules-take-effect]]
 <!-- graph:end -->

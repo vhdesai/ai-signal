@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-daily-ai-news-digest-august-1-2026
 - 2026-07-31-daily-ai-news-digest-august-2-2026
+- 2026-08-02-daily-ai-news-digest-august-4-2026
 - 2026-07-29-daily-ai-news-digest-july-31-2026
 - 2026-04-04-techcrunch-the-information-siliconangleapril-3-2026
-- 2026-07-13-subject-daily-ai-news-digest-july-13-2026
 embedding_id: 2026-08-01-daily-ai-news-digest-august-3-2026
 event_name: ''
 ---
@@ -34,5 +34,5 @@ event_name: ''
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-30-daily-ai-news-digest-august-1-2026]] · [[2026-07-31-daily-ai-news-digest-august-2-2026]] · [[2026-07-29-daily-ai-news-digest-july-31-2026]] · [[2026-04-04-techcrunch-the-information-siliconangleapril-3-2026]] · [[2026-07-13-subject-daily-ai-news-digest-july-13-2026]]
+**Related:** [[2026-07-30-daily-ai-news-digest-august-1-2026]] · [[2026-07-31-daily-ai-news-digest-august-2-2026]] · [[2026-08-02-daily-ai-news-digest-august-4-2026]] · [[2026-07-29-daily-ai-news-digest-july-31-2026]] · [[2026-04-04-techcrunch-the-information-siliconangleapril-3-2026]]
 <!-- graph:end -->

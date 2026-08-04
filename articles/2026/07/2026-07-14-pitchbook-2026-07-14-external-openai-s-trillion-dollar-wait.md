@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox
 - 2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors
 - 2026-07-05-pitchbook-2026-07-05-external-three-scenarios-if-openai-dela
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
+- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 embedding_id: 2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait
 event_name: ''
 ---
@@ -35,5 +35,5 @@ PitchBook - [2026-07-14] [EXTERNAL] OpenAI's trillion-dollar wait
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox]] · [[2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors]] · [[2026-07-05-pitchbook-2026-07-05-external-three-scenarios-if-openai-dela]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]]
+**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-06-pitchbook-2026-06-06-external-openais-value-paradox]] · [[2026-06-03-pitchbook-2026-06-03-external-openai-goes-public-as-ais-wors]] · [[2026-07-05-pitchbook-2026-07-05-external-three-scenarios-if-openai-dela]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
 <!-- graph:end -->

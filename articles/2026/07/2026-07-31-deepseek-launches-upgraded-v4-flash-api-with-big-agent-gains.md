@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and
 - 2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co
 - 2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age
-- 2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai
+- 2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age
 embedding_id: 2026-07-31-deepseek-launches-upgraded-v4-flash-api-with-big-agent-gains
 event_name: ''
 ---
@@ -41,5 +41,5 @@ DeepSeek officially released the lightweight DeepSeek-V4-Flash-0731 (284B total 
 
 **Entities:** [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co]] · [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age]] · [[2026-07-31-deepseek-ships-v4-flash-0731-with-big-agentic-and-coding-gai]]
+**Related:** [[2026-07-31-deepseek-moves-agent-focused-v4-flash-api-into-public-beta]] · [[2026-07-31-deepseek-ships-deepseek-v4-flash-0731-with-major-agentic-and]] · [[2026-07-31-deepseek-upgrades-deepseek-v4-flash-0731-with-agentic-and-co]] · [[2026-07-31-deepseek-moves-v4-flash-0731-into-public-beta-with-major-age]] · [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age]]
 <!-- graph:end -->

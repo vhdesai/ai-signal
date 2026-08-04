@@ -1,15 +1,18 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 512
+member_count: 515
 ---
 
 # Meta
 
-> Auto-generated entity hub. 512 connected article(s).
+> Auto-generated entity hub. 515 connected article(s).
 
 - `2026-08-03` [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-03] [EXTERNAL] The latest news on Meta Platforms Inc]]
 - `2026-08-03` [[2026-08-03-cuspai-hits-2-6b-valuation-as-bezos-nvidia-and-meta-back-ai|CuspAI hits $2.6B valuation as Bezos, Nvidia and Meta back AI-driven chip-materials research]]
+- `2026-08-03` [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge|9. Amazon tops $3T as AI hyperscalers ride an earnings surge]]
+- `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
+- `2026-08-03` [[2026-08-03-13-ai-talent-war-intensifies-lilian-weng-reportedly-returns|13. AI talent war intensifies; Lilian Weng reportedly returns to OpenAI]]
 - `2026-08-01` [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-01] [EXTERNAL] The latest news on Amazon.com Inc]]
 - `2026-08-01` [[2026-08-01-meta-signals-up-to-145b-in-2026-ai-infrastructure-spending|Meta signals up to ~$145B in 2026 AI infrastructure spending]]
 - `2026-08-01` [[2026-08-01-meta-reaffirms-up-to-145b-in-2026-ai-capex-and-fields-premiu|Meta reaffirms up to $145B in 2026 AI capex and fields premium bids for spare compute]]

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi
 - 2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in
 - 2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai
-- 2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow
-- 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
+- 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
+- 2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re
 embedding_id: 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Wall Street expects accelerating AWS growth alongside record capital spending of
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-07-30-amazon-lifts-2026-ai-capex-to-220b-as-aws-posts-fastest-grow]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
+**Related:** [[2026-07-30-amazon-raises-2026-capital-spending-to-220b-as-aws-growth-hi]] · [[2026-07-30-amazon-s-cloud-growth-helps-justify-another-step-up-in-ai-in]] · [[2026-07-30-amazon-s-cloud-surge-wins-over-wall-street-despite-higher-ai]] · [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]] · [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re]]
 <!-- graph:end -->

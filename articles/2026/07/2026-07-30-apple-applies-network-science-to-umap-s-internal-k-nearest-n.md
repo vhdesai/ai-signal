@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o
 - 2026-07-06-path-constrained-mixture-of-experts
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
-- 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
+- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 embedding_id: 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple researchers published a method for using the k-nearest-neighbor graph insi
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]]
+**Related:** [[2026-07-09-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-07-10-dimensionality-reduction-meets-network-science-sensemaking-o]] · [[2026-07-06-path-constrained-mixture-of-experts]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]]
 <!-- graph:end -->

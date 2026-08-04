@@ -22,8 +22,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run
 - 2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model
 - 2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below
+- 2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs
 embedding_id: 2026-08-01-deepseek-s-new-bargain-model-accelerates-ai-s-race-to-zero
 event_name: ''
 ---
@@ -37,5 +39,5 @@ Axios reports that DeepSeek released V4 Flash, a coding-focused model priced far
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below]]
+**Related:** [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run]] · [[2026-08-03-deepseek-makes-a-splash-with-small-affordable-v4-flash-model]] · [[2026-08-03-deepseek-v4-flash-pressures-frontier-pricing-from-below]] · [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs]]
 <!-- graph:end -->

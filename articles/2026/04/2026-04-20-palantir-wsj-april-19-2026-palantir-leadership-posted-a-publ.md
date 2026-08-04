@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-14-source-palantir-newsroom-may-4-2026
 - 2026-07-28-palantir-faces-growing-european-backlash-over-dependence
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
+- 2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s
 - 2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative
-- 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
 embedding_id: 2026-04-20-palantir-wsj-april-19-2026-palantir-leadership-posted-a-publ
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Palantir / WSJ • April 19, 2026 Palantir leadership posted a public manifesto 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-source-palantir-newsroom-may-4-2026]] · [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]]
+**Related:** [[2026-05-14-source-palantir-newsroom-may-4-2026]] · [[2026-07-28-palantir-faces-growing-european-backlash-over-dependence]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s]] · [[2026-05-26-palantir-ceo-pushes-saas-is-dead-supply-chain-narrative]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-apple-s-machine-learning-research-team-published-three-paper
 - 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
+- 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor
 - 2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc
-- 2026-05-18-apple-is-reportedly-developing-a-major-siri-overhaul-that-wo
 embedding_id: 2026-05-02-apple-showcases-stereofoley-multilingual-speech-ssl-speculat
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Apple Showcases StereoFoley, Multilingual Speech SSL & Speculative Decoding for 
 ## Connections
 
 **Entities:** [[Apple]]
-**Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]] · [[2026-05-18-apple-is-reportedly-developing-a-major-siri-overhaul-that-wo]]
+**Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-07-30-tencent-open-sources-angelspec-speculative-decoding-framewor]] · [[2026-04-06-collaborative-work-from-carnegie-mellon-and-cornell-introduc]]
 <!-- graph:end -->

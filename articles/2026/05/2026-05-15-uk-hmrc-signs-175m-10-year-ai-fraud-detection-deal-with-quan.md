@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
+- 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 - 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
 - 2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe
-- 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
 embedding_id: 2026-05-15-uk-hmrc-signs-175m-10-year-ai-fraud-detection-deal-with-quan
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The UK's tax authority HMRC announced a 10-year, £175M contract with London-bas
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]]
+**Related:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]] · [[2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-06-08-uk-invests-in-billion-dollar-ai-supercomputer-to-reduce-depe]]
 <!-- graph:end -->
