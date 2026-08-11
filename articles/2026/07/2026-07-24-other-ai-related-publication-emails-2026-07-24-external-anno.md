@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
+- 2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau
 - 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
-- 2026-07-12-other-ai-related-publication-emails-2026-07-12-external-spec
 embedding_id: 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Other AI-related Publication Emails - [2026-07-24] [EXTERNAL] Announcing Develop
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-12-other-ai-related-publication-emails-2026-07-12-external-spec]]
+**Related:** [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]]
 <!-- graph:end -->

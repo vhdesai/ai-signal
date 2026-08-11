@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-apple-approves-first-ai-agent-on-messages-for-business
+- 2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu
+- 2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti
 - 2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom
-- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-- 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
 embedding_id: 2026-07-24-cognition-buys-poke-as-ai-personality-becomes-a-competitive
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reports that Cognition acquired Poke to bring Poke's conversational s
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]]
+**Related:** [[2026-06-04-apple-approves-first-ai-agent-on-messages-for-business]] · [[2026-08-08-pokee-ai-releases-isaac-28b-a-10m-token-agentic-model-for-cu]] · [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti]] · [[2026-04-06-researchers-from-princeton-and-ut-austin-documented-a-phenom]]
 <!-- graph:end -->

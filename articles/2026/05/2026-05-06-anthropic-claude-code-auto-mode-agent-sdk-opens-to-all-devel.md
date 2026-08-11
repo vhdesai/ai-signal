@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-05-06-
-- 2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex
-- 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
-- 2026-05-18-anthropic-launches-claude-for-small-business-with-15-agentic
+- 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma
+- 2026-08-09-anthropic-makes-claude-code-auto-mode-the-default
+- 2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default
+- 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
 embedding_id: 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Anthropic shipped Claude Code Auto Mode and simultaneously opened the Claude Age
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-06-]] · [[2026-05-18-microsoft-agent-365-reached-general-availability-on-may-2-ex]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-18-anthropic-launches-claude-for-small-business-with-15-agentic]]
+**Related:** [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default-for-pro-ma]] · [[2026-08-09-anthropic-makes-claude-code-auto-mode-the-default]] · [[2026-08-09-anthropic-makes-claude-code-s-auto-mode-the-default]] · [[2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default]]
 <!-- graph:end -->

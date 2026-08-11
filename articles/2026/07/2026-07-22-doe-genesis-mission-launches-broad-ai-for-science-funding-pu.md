@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-22-google-commits-million-in-ai-credits-to-the-genesis-mission
 - 2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe
 - 2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra
-- 2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv
+- 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
 embedding_id: 2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-07-22-google-commits-million-in-ai-credits-to-the-genesis-mission]] · [[2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-06-04-nsf-renews-mit-led-ai-and-physics-institute-for-a-second-fiv]]
+**Related:** [[2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun]] · [[2026-07-22-google-commits-million-in-ai-credits-to-the-genesis-mission]] · [[2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe]] · [[2026-05-26-ai-startup-funding-hits-25b-across-37-deals-in-may-lambda-ra]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]]
 <!-- graph:end -->

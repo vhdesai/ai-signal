@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
 - 2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl
-- 2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Palo Alto Networks announced Frontier AI Defense, a new security initiative comb
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-palo-alto-networks-launches-frontier-ai-defense-3-weeks-of-a]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]]
+**Related:** [[2026-05-09-palo-alto-networks-launches-frontier-ai-defense-3-weeks-of-a]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-05-22-advanced-cybersecurity-ai-capabilities-spark-global-alarm-cl]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

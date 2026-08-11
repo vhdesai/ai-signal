@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development
 - 2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w
 - 2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r
-- 2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t
 embedding_id: 2026-06-04-anthropic-calls-for-coordinated-global-pause-in-frontier-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic warned that frontier AI models are approaching recursive self-improvem
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]] · [[2026-07-01-white-house-reportedly-asked-openai-and-anthropic-to-delay-t]]
+**Related:** [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development]] · [[2026-05-18-anthropic-briefs-g20-working-group-on-frontier-model-risk]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-06-07-anthropic-argues-for-conditional-pause-option-as-ai-begins-w]] · [[2026-05-29-anthropic-s-valuation-leap-intensifies-the-frontier-ai-ipo-r]]
 <!-- graph:end -->

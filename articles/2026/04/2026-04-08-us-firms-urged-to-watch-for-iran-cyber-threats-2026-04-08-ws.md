@@ -20,7 +20,7 @@ related_article_ids:
 - 2026-07-14-wsj-pro-cybersecurity-2026-07-14-external-russia-cyberattack
 - 2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s
 - 2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a
-- 2026-03-09-white-house-cyber-strategy-urges-corporate-firepower-2026-03
+- 2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s
 embedding_id: 2026-04-08-us-firms-urged-to-watch-for-iran-cyber-threats-2026-04-08-ws
 event_name: ''
 ---
@@ -32,5 +32,5 @@ US. Firms Urged to Watch for Iran Cyber Threats [2026-04-08] · WSJ Pro CyberSec
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-14-wsj-pro-cybersecurity-2026-07-14-external-russia-cyberattack]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]] · [[2026-03-09-white-house-cyber-strategy-urges-corporate-firepower-2026-03]]
+**Related:** [[2026-07-14-wsj-pro-cybersecurity-2026-07-14-external-russia-cyberattack]] · [[2026-04-02-breaking-irgc-threatens-18-ai-technology-firms-apr-1-iran-s]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]] · [[2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s]]
 <!-- graph:end -->

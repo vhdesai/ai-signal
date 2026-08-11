@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-the-information-reports-apple-received-approval-for-alibaba
 - 2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen
 - 2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power
-- 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
+- 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 embedding_id: 2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Apple Intelligence is approved for China through Alibaba Qwen and Baidu integrat
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Baidu]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen]] · [[2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
+**Related:** [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen]] · [[2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]]
 <!-- graph:end -->

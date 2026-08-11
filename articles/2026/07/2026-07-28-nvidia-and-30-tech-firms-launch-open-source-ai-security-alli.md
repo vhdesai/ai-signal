@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
 - 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-- 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
+- 2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens
 embedding_id: 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia and more than 30 technology companies launched an alliance to build open-
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]]
+**Related:** [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens]]
 <!-- graph:end -->

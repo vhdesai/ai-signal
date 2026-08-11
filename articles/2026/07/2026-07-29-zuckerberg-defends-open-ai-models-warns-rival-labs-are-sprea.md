@@ -25,8 +25,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
+- 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
+- 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
+- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
+- 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
 embedding_id: 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 event_name: ''
 ---
@@ -40,5 +42,5 @@ Meta CEO Mark Zuckerberg used a pair of interviews ahead of the company's earnin
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]]
+**Related:** [[2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]]
 <!-- graph:end -->

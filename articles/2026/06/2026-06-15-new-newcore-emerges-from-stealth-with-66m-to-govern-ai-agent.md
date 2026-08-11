@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
 - 2026-08-03-june-exits-stealth-with-20m-pre-seed-to-automate-enterprise
-- 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
+- 2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand
 embedding_id: 2026-06-15-new-newcore-emerges-from-stealth-with-66m-to-govern-ai-agent
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Cybersecurity startup NewCore emerged from stealth with $66M to authenticate, go
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-03-june-exits-stealth-with-20m-pre-seed-to-automate-enterprise]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
+**Related:** [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b]] · [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-03-june-exits-stealth-with-20m-pre-seed-to-automate-enterprise]] · [[2026-08-04-openai-agents-chained-an-artifactory-zero-day-to-escape-sand]]
 <!-- graph:end -->

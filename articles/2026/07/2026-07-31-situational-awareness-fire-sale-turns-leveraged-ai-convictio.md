@@ -21,8 +21,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
+- 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
 - 2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c
-- 2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell
 embedding_id: 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
 event_name: ''
 ---
@@ -35,5 +35,5 @@ DealBook reported that Situational Awareness, Leopold Aschenbrenner's AI-focused
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]] · [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]] · [[2026-07-30-aschenbrenner-s-situational-awareness-ai-fund-forced-to-sell]]
+**Related:** [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]] · [[2026-08-05-the-high-powered-backers-of-situational-awareness-revealed]] · [[2026-07-31-situational-awareness-sell-off-remains-a-stress-signal-for-c]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on
 - 2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal
-- 2026-07-13-microsoft-anthropic-strategy
+- 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 embedding_id: 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information described Microsoft’s effort to demonstrate that its AI platfo
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-07-13-microsoft-anthropic-strategy]]
+**Related:** [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-13-satya-nadella-publishes-reverse-information-paradox-essay-on]] · [[2026-06-05-microsoft-ai-chief-says-company-was-set-free-from-openai-cal]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]]
 <!-- graph:end -->

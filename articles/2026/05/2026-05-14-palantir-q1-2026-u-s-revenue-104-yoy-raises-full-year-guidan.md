@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133
-- 2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes
-- 2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c
+- 2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand
+- 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 embedding_id: 2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Palantir Q1 2026: U.S. Revenue +104% YoY — Raises Full-Year Guidance to 71% Gr
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-05-05-hotpalantir-beats-q1-estimates-with-85-revenue-growth-fastes]] · [[2026-05-04-palantir-posts-blowout-q1-with-85-revenue-growth-892m-free-c]]
+**Related:** [[2026-05-14-palantir-reported-q1-2026-results-on-may-4-with-u-s]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]]
 <!-- graph:end -->

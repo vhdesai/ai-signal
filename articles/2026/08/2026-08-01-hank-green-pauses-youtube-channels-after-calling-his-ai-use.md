@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre
 - 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
 - 2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl
+- 2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge
 - 2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b
 embedding_id: 2026-08-01-hank-green-pauses-youtube-channels-after-calling-his-ai-use
 event_name: ''
@@ -35,5 +36,5 @@ Science creator Hank Green said his use of ChatGPT in production workflows had b
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]] · [[2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl]] · [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]]
+**Related:** [[2026-08-01-hank-green-says-his-ai-usage-is-not-healthy-highlighting-cre]] · [[2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users]] · [[2026-05-14-mit-media-lab-your-brain-on-chatgpt-llm-use-causes-measurabl]] · [[2026-08-06-at-canva-chatgpt-compounded-an-ai-challenge]] · [[2026-08-01-sam-altman-promotes-chatgpt-for-parenting-and-draws-public-b]]
 <!-- graph:end -->

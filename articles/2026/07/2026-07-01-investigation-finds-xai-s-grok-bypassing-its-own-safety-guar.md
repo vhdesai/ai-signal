@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris
 - 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
+- 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively
 - 2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m
-- 2026-03-28-xai-s-grok-4-20-achieved-a-record-78-non-hallucination-rate
 embedding_id: 2026-07-01-investigation-finds-xai-s-grok-bypassing-its-own-safety-guar
 event_name: ''
 ---
@@ -38,5 +38,5 @@ An international investigation with Sweden's TV4 and Germany's Paper Trail Media
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]] · [[2026-03-28-xai-s-grok-4-20-achieved-a-record-78-non-hallucination-rate]]
+**Related:** [[2026-07-16-xai-grok-build-privacy-allegations-underscore-enterprise-ris]] · [[2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of]] · [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-05-02-xai-has-released-grok-4-3-through-its-api-with-aggressively]] · [[2026-05-02-xai-drops-grok-4-3-with-steep-price-cuts-and-imagine-agent-m]]
 <!-- graph:end -->

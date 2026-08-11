@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics
+- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud
 - 2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct
 - 2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest
-- 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
 embedding_id: 2026-06-08-amazon-strikes-multibillion-dollar-corning-fiber-deal-for-ai
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Amazon will pay Corning billions for optical fiber to connect its AI data center
 
 **Entities:** [[Amazon]] · [[Meta]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
+**Related:** [[2026-05-06-hotnvidia-invests-500m-in-corning-to-expand-us-fiber-optics]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-06-25-amazon-commits-an-additional-13b-to-india-ai-and-cloud]] · [[2026-06-25-amazon-commits-an-additional-13b-to-ai-and-cloud-infrastruct]] · [[2026-05-24-amazon-s-2026-ai-infrastructure-capex-pegged-at-200b-highest]]
 <!-- graph:end -->

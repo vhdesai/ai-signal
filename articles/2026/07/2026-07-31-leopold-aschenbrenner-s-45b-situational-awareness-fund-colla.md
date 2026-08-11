@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
 - 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67
 - 2026-07-31-situational-awareness-collapse-becomes-the-cautionary-tale-f
 - 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
@@ -36,5 +37,5 @@ The Wall Street Journal published a postmortem on the collapse of Situational Aw
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]] · [[2026-07-31-situational-awareness-collapse-becomes-the-cautionary-tale-f]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]] · [[2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after]]
+**Related:** [[2026-08-05-the-high-powered-backers-of-situational-awareness-revealed]] · [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]] · [[2026-07-31-situational-awareness-collapse-becomes-the-cautionary-tale-f]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]] · [[2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after]]
 <!-- graph:end -->

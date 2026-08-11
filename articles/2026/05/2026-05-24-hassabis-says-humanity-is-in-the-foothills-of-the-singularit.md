@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few
 - 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
+- 2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu
+- 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-in-alphabet-wide
 - 2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit
-- 2026-06-02-hassabis-companies-have-ai-backwards-on-jobs
-- 2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi
 embedding_id: 2026-05-24-hassabis-says-humanity-is-in-the-foothills-of-the-singularit
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Within hours of each other, Google DeepMind CEO Demis Hassabis described current
 
 **Entities:** [[Google]] · [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]] · [[2026-06-02-hassabis-companies-have-ai-backwards-on-jobs]] · [[2026-05-27-demis-hassabis-today-s-ai-agents-are-a-practice-run-for-agi]]
+**Related:** [[2026-05-19-deepmind-ceo-demis-hassabis-at-google-i-o-agi-is-just-a-few]] · [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]] · [[2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu]] · [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-in-alphabet-wide]] · [[2026-05-27-demis-hassabis-pulls-agi-timeline-forward-to-real-possibilit]]
 <!-- graph:end -->

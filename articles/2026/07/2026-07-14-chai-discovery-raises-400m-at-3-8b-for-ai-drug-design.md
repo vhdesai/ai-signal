@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d
 - 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
 - 2026-07-15-openai-researcher-miles-wang-is-reported-in-talks-to-launch
-- 2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 embedding_id: 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI-backed Chai Discovery closed a $400 million round led by Index at a $3.8 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]] · [[2026-07-15-openai-researcher-miles-wang-is-reported-in-talks-to-launch]] · [[2026-07-02-takeda-and-insilico-medicine-sign-ai-drug-discovery-pact-wor]]
+**Related:** [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]] · [[2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across]] · [[2026-07-15-openai-researcher-miles-wang-is-reported-in-talks-to-launch]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]]
 <!-- graph:end -->

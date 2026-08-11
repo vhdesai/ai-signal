@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
 - 2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i
-- 2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 embedding_id: 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic reports that about 65% of its product team's code is now AI-generated 
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]] · [[2026-05-06-anthropic-claude-code-auto-mode-agent-sdk-opens-to-all-devel]]
+**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-06-23-anthropic-launches-claude-tag-a-persistent-claude-teammate-i]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

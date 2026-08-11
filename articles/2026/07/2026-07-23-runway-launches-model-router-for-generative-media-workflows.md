@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model
 - 2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-04-02-model-releases-updates
 - 2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic
-- 2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age
 embedding_id: 2026-07-23-runway-launches-model-router-for-generative-media-workflows
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OPENAICODEXVOICE INTERFACE
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]] · [[2026-04-02-model-releases-updates]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]] · [[2026-04-10-microsoft-copilot-gains-multi-model-workflows-and-cowork-age]]
+**Related:** [[2026-05-27-openrouter-cements-its-position-as-the-dominant-multi-model]] · [[2026-05-27-capitalg-s-lead-on-openrouter-signals-alphabet-s-distributio]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-04-02-model-releases-updates]] · [[2026-05-23-cohere-releases-command-a-218b-sparse-moe-model-for-agentic]]
 <!-- graph:end -->

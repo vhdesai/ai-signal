@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are
 - 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-- 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 embedding_id: 2026-07-29-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Wall Street analysts' earnings models for Big Tech are baking in dramatic new op
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]]
+**Related:** [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-06-21-the-wall-street-journal-reports-that-ai-company-insiders-are]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]]
 <!-- graph:end -->

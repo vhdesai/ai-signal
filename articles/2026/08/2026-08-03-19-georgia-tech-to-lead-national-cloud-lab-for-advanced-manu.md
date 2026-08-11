@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
+- 2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
-- 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
-- 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-- 2026-04-12-purdue-university-announced-that-all-undergraduate-students
-- 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
+- 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
+- 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 embedding_id: 2026-08-03-19-georgia-tech-to-lead-national-cloud-lab-for-advanced-manu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Backed by $18.1M from the NSF, Georgia Tech will lead a Programmable Cloud Labor
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-04-12-purdue-university-announced-that-all-undergraduate-students]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]]
+**Related:** [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]] · [[2026-08-03-georgia-tech-to-lead-nsf-cloud-laboratory-for-autonomous-man]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug
 embedding_id: 2026-07-26-anthropic-discloses-a-claude-cowork-sandbox-escape-flaw-on-m
 event_name: ''
@@ -35,5 +36,5 @@ The Next Web reports a flaw in Anthropic's Claude Cowork that could let the agen
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
+**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-05-27-anthropic-releases-claude-sandbox-and-security-guidance-plug]]
 <!-- graph:end -->

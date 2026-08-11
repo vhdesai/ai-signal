@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
 - 2026-05-18-apple-intel-enoumen-com-may-10-17-2026
+- 2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai
 - 2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip
-- 2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip
 embedding_id: 2026-05-18-apple-signs-preliminary-intel-chip-deal-motherboard-makers-c
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple Signs Preliminary Intel Chip Deal; Motherboard Makers Cut Shipment Forecas
 
 **Entities:** [[Apple]] · [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-05-18-apple-intel-enoumen-com-may-10-17-2026]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]] · [[2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip]]
+**Related:** [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-05-18-apple-intel-enoumen-com-may-10-17-2026]] · [[2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]]
 <!-- graph:end -->

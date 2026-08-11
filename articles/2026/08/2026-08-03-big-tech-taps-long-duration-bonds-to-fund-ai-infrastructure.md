@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure
 - 2026-08-03-how-to-play-the-flood-of-ai-bonds
+- 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
 - 2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure
-- 2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-billion
 embedding_id: 2026-08-03-big-tech-taps-long-duration-bonds-to-fund-ai-infrastructure
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Large technology companies are borrowing for decades to finance AI infrastructur
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-03-how-to-play-the-flood-of-ai-bonds]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]] · [[2026-07-22-openai-s-planned-ai-infrastructure-spending-rises-to-billion]]
+**Related:** [[2026-08-03-big-tech-turns-to-long-duration-bonds-for-ai-infrastructure]] · [[2026-08-03-how-to-play-the-flood-of-ai-bonds]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-07-amazon-lines-up-25b-bond-sale-for-ai-infrastructure]]
 <!-- graph:end -->

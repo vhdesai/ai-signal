@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-tom-s-hardware-may-9-2026
 - 2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut
+- 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-03-24-industry-policy-economic-times-techcrunch
 - 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
-- 2026-06-30-june-29-2026-the-verge
 embedding_id: 2026-03-24-hardware-infrastructure-aitoolly-the-verge
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Hardware & Infrastructure AIToolly / The Verge
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-tom-s-hardware-may-9-2026]] · [[2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut]] · [[2026-03-24-industry-policy-economic-times-techcrunch]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]] · [[2026-06-30-june-29-2026-the-verge]]
+**Related:** [[2026-05-09-tom-s-hardware-may-9-2026]] · [[2026-07-23-amd-and-cerebras-announce-a-disaggregated-ai-inference-solut]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-03-24-industry-policy-economic-times-techcrunch]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
 <!-- graph:end -->

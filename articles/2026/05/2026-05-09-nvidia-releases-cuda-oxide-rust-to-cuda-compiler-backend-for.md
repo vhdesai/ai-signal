@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
+- 2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha
+- 2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea
 - 2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan
-- 2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati
-- 2026-07-17-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch
-- 2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe
+- 2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework
 embedding_id: 2026-05-09-nvidia-releases-cuda-oxide-rust-to-cuda-compiler-backend-for
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA released cuda-oxide, an experimental compiler backend that lets AI infras
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-07-22-nvidia-open-sources-gpu-accelerated-medical-physics-simulati]] · [[2026-07-17-nvidia-gpu-crunch-remains-broad-based-despite-alternative-ch]] · [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe]]
+**Related:** [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-08-07-nvidia-releases-nooa-an-object-oriented-python-framework-tha]] · [[2026-08-07-nvidia-open-sources-nooa-object-oriented-agent-framework-rea]] · [[2026-07-25-developer-guide-to-high-performance-gpu-kernels-with-tilelan]] · [[2026-08-07-nvidia-open-sources-nooa-an-object-oriented-agent-framework]]
 <!-- graph:end -->

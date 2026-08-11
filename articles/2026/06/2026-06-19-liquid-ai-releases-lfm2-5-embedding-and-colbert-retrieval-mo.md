@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models
 - 2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c
+- 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
 - 2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face
 - 2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre
-- 2026-05-27-natural-language-query-to-configuration-for-retrieval-agents
 embedding_id: 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Liquid AI introduced LFM2.5-Embedding-350M and LFM2.5-ColBERT-350M, retrieval mo
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]] · [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]] · [[2026-05-27-natural-language-query-to-configuration-for-retrieval-agents]]
+**Related:** [[2026-07-29-liquid-ai-releases-cpu-friendly-lfm2-5-encoder-models]] · [[2026-07-29-liquid-ai-releases-lfm2-5-encoder-230m-and-350m-fast-at-8k-c]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]] · [[2026-04-11-minimax-officially-open-sourced-minimax-m2-7-on-hugging-face]] · [[2026-05-10-mit-mean-pooling-generated-tokens-yields-sota-semantic-repre]]
 <!-- graph:end -->

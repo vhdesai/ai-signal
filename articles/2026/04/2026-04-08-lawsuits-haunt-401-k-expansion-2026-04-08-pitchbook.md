@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 - 2026-03-30-private-credit-is-reeling-but-new-rule-may-allow-it-into-401
 - 2026-08-03-pitchbook-2026-08-03-external-pe-s-plan-to-defend-insurers
 - 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
 - 2026-07-28-pitchbook-2026-07-28-external-bain-vs
-- 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
 embedding_id: 2026-04-08-lawsuits-haunt-401-k-expansion-2026-04-08-pitchbook
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Lawsuits haunt 401(k) expansion [2026-04-08] · PitchBook
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-30-private-credit-is-reeling-but-new-rule-may-allow-it-into-401]] · [[2026-08-03-pitchbook-2026-08-03-external-pe-s-plan-to-defend-insurers]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]]
+**Related:** [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]] · [[2026-03-30-private-credit-is-reeling-but-new-rule-may-allow-it-into-401]] · [[2026-08-03-pitchbook-2026-08-03-external-pe-s-plan-to-defend-insurers]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-07-28-pitchbook-2026-07-28-external-bain-vs]]
 <!-- graph:end -->

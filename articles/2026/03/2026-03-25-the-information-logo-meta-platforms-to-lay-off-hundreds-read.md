@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai
 - 2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about
 - 2026-03-21-the-information-logo-inside-anduril-s-big-gamble-an-ohio-wea
+- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 - 2026-03-16-the-information-logo-war-doesn-t-belong-to-u-s
-- 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 embedding_id: 2026-03-25-the-information-logo-meta-platforms-to-lay-off-hundreds-read
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Information logo - Meta Platforms to Lay Off Hundreds - Read the full articl
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai]] · [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]] · [[2026-03-21-the-information-logo-inside-anduril-s-big-gamble-an-ohio-wea]] · [[2026-03-16-the-information-logo-war-doesn-t-belong-to-u-s]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]]
+**Related:** [[2026-03-25-the-information-logo-amd-backed-vultr-seeks-1-billion-for-ai]] · [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]] · [[2026-03-21-the-information-logo-inside-anduril-s-big-gamble-an-ohio-wea]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-03-16-the-information-logo-war-doesn-t-belong-to-u-s]]
 <!-- graph:end -->

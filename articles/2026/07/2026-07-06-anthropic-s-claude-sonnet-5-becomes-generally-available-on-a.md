@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-anthropic-launches-claude-sonnet-5-its-most-agentic-sonnet-y
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
-- 2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via
+- 2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane
 embedding_id: 2026-07-06-anthropic-s-claude-sonnet-5-becomes-generally-available-on-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's Claude Sonnet 5 is now GA on Amazon Bedrock, positioned as Anthropic
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-anthropic-launches-claude-sonnet-5-its-most-agentic-sonnet-y]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]]
+**Related:** [[2026-06-30-anthropic-launches-claude-sonnet-5-its-most-agentic-sonnet-y]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-08-10-anthropic-makes-claude-sonnet-5-introductory-pricing-permane]]
 <!-- graph:end -->

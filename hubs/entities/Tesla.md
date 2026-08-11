@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: Tesla
-member_count: 40
+member_count: 46
 ---
 
 # Tesla
 
-> Auto-generated entity hub. 40 connected article(s).
+> Auto-generated entity hub. 46 connected article(s).
 
+- `2026-08-07` [[2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t|Wall Street Journal / WSJ - [2026-08-07] [EXTERNAL] The 10-Point: A Trillion-Dollar Bet on AI - [2026-08-07] [EXTERNAL]…]]
+- `2026-08-07` [[2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t|SpaceX's Terafab AI Chip Plant Will Run on Natural Gas, Not Tesla Solar]]
+- `2026-08-06` [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon|Tesla and SpaceX commit $16.8B to “Terafab,” a new Texas semiconductor complex]]
+- `2026-08-06` [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl|Tesla and SpaceX commit $16.8B to Terafab semiconductor complex in Texas]]
+- `2026-08-06` [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex|Tesla and SpaceX Commit $16.8B to "Terafab" Chip Complex in Texas]]
+- `2026-08-06` [[2026-08-06-business-insider-2026-08-06-external-today-tesla-and-spacex|Business Insider - [2026-08-06] [EXTERNAL] Today: Tesla and SpaceX's new bet]]
 - `2026-08-04` [[2026-08-04-the-information-2026-08-04-external-palantir-stock-surges-as|The Information - [2026-08-04] [EXTERNAL] Palantir Stock Surges as U.S]]
 - `2026-08-01` [[2026-08-01-other-ai-related-publication-emails-2026-08-01-external-the|Other AI-related Publication Emails - [2026-08-01] [EXTERNAL] The energy story under the Grand Canyon - [2026-08-01]…]]
 - `2026-07-18` [[2026-07-18-agility-robotics-opens-a-training-center-near-tesla-s-factor|Agility Robotics opens a training center near Tesla's factory for Digit humanoid deployments, reinforcing…]]

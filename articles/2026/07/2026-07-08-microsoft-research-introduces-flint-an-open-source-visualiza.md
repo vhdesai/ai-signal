@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c
 - 2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba
+- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-- 2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent
-- 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
 embedding_id: 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft Research released Flint, an open-source visualization language that le
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-05-26-microsoft-research-shipped-webwright-a-terminal-native-agent]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]]
+**Related:** [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-04-23-microsoft-published-an-open-source-ai-agents-for-beginners-c]] · [[2026-05-24-microsoft-research-open-sources-webwright-nearly-doubling-ba]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

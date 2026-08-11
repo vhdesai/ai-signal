@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c
 - 2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p
 - 2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4
 - 2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6
@@ -35,5 +36,5 @@ Simile, which builds AI “synthetic users” to simulate customer and product r
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6]]
+**Related:** [[2026-08-10-discovered-materials-raises-9m-to-point-ai-agent-swarms-at-c]] · [[2026-07-30-simile-raises-200m-at-a-2b-valuation-to-simulate-8-billion-p]] · [[2026-06-15-survey-85-of-it-teams-say-every-ai-agent-has-an-owner-only-4]] · [[2026-05-05-anthropic-claude-opus-4-7-leads-finance-agent-benchmark-at-6]]
 <!-- graph:end -->

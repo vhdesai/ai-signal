@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 - 2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for
 - 2026-06-29-palantir-and-nvidia-launch-a-sovereign-engine-to-run-nemotro
+- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
-- 2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del
 embedding_id: 2026-07-15-nvidia-nemotron-labs-frames-open-models-as-an-enterprise-sov
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia Nemotron Labs frames open models as an enterprise/sovereign-AI advantage.
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]] · [[2026-06-29-palantir-and-nvidia-launch-a-sovereign-engine-to-run-nemotro]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]] · [[2026-06-29-palantir-announced-a-strategic-initiative-with-nvidia-to-del]]
+**Related:** [[2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]] · [[2026-06-29-palantir-and-nvidia-launch-a-sovereign-engine-to-run-nemotro]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]]
 <!-- graph:end -->

@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 - 2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz
+- 2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori
 - 2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook
 - 2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip
-- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
-- 2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook
 embedding_id: 2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The Information - [2026-08-01] [EXTERNAL] Why Apple Should Buy Granola
 ## Connections
 
 **Entities:** [[Apple]]
-**Related:** [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]] · [[2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook]] · [[2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]]
+**Related:** [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-18-the-information-2026-07-18-external-why-andreessen-horowitz]] · [[2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori]] · [[2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook]] · [[2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip]]
 <!-- graph:end -->

@@ -19,7 +19,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 embedding_id: 2026-08-03-your-next-sermon-might-be-written-by-chatgpt
 event_name: ''
 ---
@@ -32,5 +32,5 @@ The WSJ explores how clergy are using ChatGPT and other AI tools to draft sermon
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]]
 <!-- graph:end -->

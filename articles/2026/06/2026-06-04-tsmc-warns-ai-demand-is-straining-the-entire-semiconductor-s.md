@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
+- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
+- 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
+- 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
 - 2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem
-- 2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr
-- 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
-- 2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and
 embedding_id: 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TSMC warned AI chip demand is straining the entire supply chain — "we can only
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]] · [[2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel]] · [[2026-07-15-asml-raises-2026-guidance-again-on-strong-ai-chip-demand-and]]
+**Related:** [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]]
 <!-- graph:end -->

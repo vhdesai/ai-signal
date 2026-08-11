@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
 - 2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b
-- 2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet
+- 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
 embedding_id: 2026-04-06-xoople-raises-130m-series-b-to-build-ai-powered-earth-data-s
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Xoople Raises $130M Series B to Build AI-Powered Earth Data Satellite Network
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-spanish-startup-xoople-closed-a-130-million-series-b-to-expa]] · [[2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet]]
+**Related:** [[2026-04-06-spanish-startup-xoople-closed-a-130-million-series-b-to-expa]] · [[2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-06-04-goldman-sachs-projects-spacex-ai-revenue-to-surge-100-fold-b]] · [[2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting]]
 <!-- graph:end -->

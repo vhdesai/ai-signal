@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
 - 2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million
 - 2026-06-09-2026-06-16-cyber-startup-ent-raises-100-million-in-seed-fund
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 embedding_id: 2026-03-10-ai-security-startup-kai-raises-125-million-2026-03-10-wsj-pr
 event_name: ''
 ---
@@ -33,5 +33,5 @@ AI Security Startup Kai Raises $125 Million [2026-03-10] · WSJ Pro CyberSecurit
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million]] · [[2026-06-09-2026-06-16-cyber-startup-ent-raises-100-million-in-seed-fund]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million]] · [[2026-06-09-2026-06-16-cyber-startup-ent-raises-100-million-in-seed-fund]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
 <!-- graph:end -->

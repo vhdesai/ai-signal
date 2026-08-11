@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 - 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st
+- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 embedding_id: 2026-07-28-jump-capital-raises-350-million-fund-for-ai-investments
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The Information reports that Jump Capital raised a $350 million fund focused on 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-06-05-meta-plans-massive-stock-sale-to-fund-145b-ai-investments-st]]
+**Related:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
 <!-- graph:end -->

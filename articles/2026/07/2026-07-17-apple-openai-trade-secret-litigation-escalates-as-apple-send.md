@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-18-apple-openai-trade-secret-litigation-escalates-as-apple-send
+- 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
 - 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
 - 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
-- 2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate
+- 2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe
 embedding_id: 2026-07-17-apple-openai-trade-secret-litigation-escalates-as-apple-send
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Apple/OpenAI trade-secret litigation escalates as Apple sends preservation lette
 ## Connections
 
 **Entities:** [[Apple]] · [[OpenAI]]
-**Related:** [[2026-07-18-apple-openai-trade-secret-litigation-escalates-as-apple-send]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-20-apple-s-trade-secret-lawsuit-against-openai-could-complicate]]
+**Related:** [[2026-07-18-apple-openai-trade-secret-litigation-escalates-as-apple-send]] · [[2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe]]
 <!-- graph:end -->

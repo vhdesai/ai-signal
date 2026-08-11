@@ -31,6 +31,7 @@ related_article_ids:
 - 2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips
 - 2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner
 - 2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 embedding_id: 2026-05-21-anthropic-is-in-talks-to-rent-servers-powered-by-microsoft-s
 event_name: ''
 ---
@@ -44,5 +45,5 @@ Jamie Dimon: AI Will "Probably" Impact Banker Hiring at JPMorgan
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]]
+**Related:** [[2026-05-21-anthropic-in-talks-to-use-microsoft-s-maia-ai-chips]] · [[2026-05-25-anthropic-eyes-microsoft-maia-200-as-5th-silicon-partner]] · [[2026-05-21-anthropic-in-talks-to-rent-microsoft-ai-chip-powered-servers]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

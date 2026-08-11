@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros
+- 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
 - 2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co
 - 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
-- 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 embedding_id: 2026-06-30-brookfield-and-bloom-energy-scale-ai-power-partnership-to-25
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Brookfield and Bloom Energy announced a fivefold expansion of their partnership 
 
 **Entities:** [[Scale AI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]]
+**Related:** [[2026-06-26-chevron-signals-more-ai-data-center-power-deals-after-micros]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-05-10-microsoft-ai-data-center-build-out-straining-clean-energy-co]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
 <!-- graph:end -->

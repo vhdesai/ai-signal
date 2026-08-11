@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp
 - 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default
 embedding_id: 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic published new context-engineering guidance for Claude Opus 5 and Fable
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]] · [[2026-07-28-anthropic-says-claude-5-works-better-with-much-shorter-promp]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-08-09-anthropic-turns-on-claude-code-s-auto-mode-by-default]]
 <!-- graph:end -->

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt
+- 2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
-- 2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in
-- 2026-07-06-path-constrained-mixture-of-experts
 embedding_id: 2026-04-23-apple-ml-research-releases-pararnn-large-scale-parallelizabl
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple researchers published ParaRNN, an advancement that makes RNN training dram
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-07-27-apple-publishes-gh-esd-for-grounded-error-slice-discovery-in]] · [[2026-07-06-path-constrained-mixture-of-experts]]
+**Related:** [[2026-05-14-apple-s-pararnn-re-opens-classical-rnns-as-a-transformer-alt]] · [[2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]]
 <!-- graph:end -->

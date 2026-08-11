@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s
+- 2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available
 embedding_id: 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 event_name: ''
 ---
@@ -37,5 +38,5 @@ A multiyear AWS deal keeps AI-generated applications inside customer clouds, run
 
 **Entities:** [[Amazon]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s]]
+**Related:** [[2026-08-03-aws-partners-with-superblocks-to-bring-vibe-coding-into-priv]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s]] · [[2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available]]
 <!-- graph:end -->

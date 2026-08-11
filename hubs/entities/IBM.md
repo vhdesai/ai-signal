@@ -1,13 +1,27 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 114
+member_count: 128
 ---
 
 # IBM
 
-> Auto-generated entity hub. 114 connected article(s).
+> Auto-generated entity hub. 128 connected article(s).
 
+- `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
+- `2026-08-10` [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d|OpenAI expands its Daybreak Cyber Partner Program to major defenders]]
+- `2026-08-10` [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen|OpenAI expands Daybreak Cyber Partner Program to major defenders]]
+- `2026-08-10` [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def|OpenAI Launches GPT-5.6-Cyber and Expands Daybreak Cyber Defense Service]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-ibm-launches-apptio-ai-value-roi-to-connect-ai-spend-to-busi|IBM launches Apptio AI Value & ROI to connect AI spend to business results]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
+- `2026-08-04` [[2026-08-04-red-hat-launches-asago-community-to-automate-ai-governance-f|Red Hat Launches Asago Community to Automate AI Governance From Policy to Runtime]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-08-01` [[2026-08-01-ibm-earnings-read-as-a-gauge-of-ai-infrastructure-demand|IBM earnings read as a gauge of AI-infrastructure demand]]

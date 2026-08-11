@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-frames-its-roadmap-around-abundant-intelligence
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
+- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
+- 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t
-- 2026-05-18-openai-blog-theaitrack-research-breakthroughs
-- 2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu
 embedding_id: 2026-07-31-openai-lays-out-abundant-intelligence-full-stack-strategy
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a strategy note outlining a 'full-stack' approach to what it ca
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-openai-frames-its-roadmap-around-abundant-intelligence]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]] · [[2026-05-18-openai-blog-theaitrack-research-breakthroughs]] · [[2026-07-02-openai-reportedly-cuts-inference-costs-by-more-than-50-throu]]
+**Related:** [[2026-07-31-openai-frames-its-roadmap-around-abundant-intelligence]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-04-06-openai-today-released-a-13-page-industrial-policy-document-t]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging
-- 2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th
 embedding_id: 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta's new Autodata system uses an orchestrator LLM coordinating four specialize
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]] · [[2026-05-13-autoscientist-new-ai-system-that-trains-models-to-improve-th]]
+**Related:** [[2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-15-a-deep-dive-analysis-published-may-14-examines-the-emerging]]
 <!-- graph:end -->

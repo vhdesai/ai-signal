@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep
+- 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal
 - 2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d
-- 2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 embedding_id: 2026-07-31-ai-at-the-collision-of-capability-and-reality
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The last 24 hours were defined less by a single model launch than by AI collidin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]] · [[2026-07-27-ai-capital-cycle-hits-new-highs-as-the-first-autonomous-ai-b]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
+**Related:** [[2026-07-31-ai-inference-price-war-deepens-as-openai-s-80-cut-meets-deep]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-04-06-openai-published-a-sweeping-13-page-economic-policy-proposal]] · [[2026-05-21-nvidia-projected-95-sales-growth-in-the-current-quarter-as-d]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

@@ -32,9 +32,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close
 - 2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex
+- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
-- 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
-- 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo
+- 2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 embedding_id: 2026-04-23-alibaba-s-qwen-team-released-qwen3-6-27b-a-dense-27-billion
 event_name: ''
 ---
@@ -48,5 +48,5 @@ Alibaba's Qwen3 TTS Impresses with Emotional Range, Runs Locally
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]] · [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-and-most-capable-mo]]
+**Related:** [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]] · [[2026-05-21-alibaba-s-qwen-team-unveils-qwen3-7-max-with-1m-token-contex]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]] · [[2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]]
 <!-- graph:end -->

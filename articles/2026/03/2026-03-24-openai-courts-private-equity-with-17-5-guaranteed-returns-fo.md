@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
 - 2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo
 - 2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open
-- 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
+- 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 embedding_id: 2026-03-24-openai-courts-private-equity-with-17-5-guaranteed-returns-fo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI Courts Private Equity with 17.5% Guaranteed Returns for Enterprise AI Ven
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]] · [[2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]]
+**Related:** [[2026-03-24-openai-is-pitching-private-equity-firms-including-tpg-and-ba]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]] · [[2026-06-21-openai-and-anthropic-ipos-approaching-1t-valuations-while-bo]] · [[2026-04-03-q1-2026-shatters-venture-records-300b-invested-globally-open]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]]
 <!-- graph:end -->

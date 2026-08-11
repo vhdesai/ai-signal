@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-20-current-ai-and-public-interest-ai-infrastructure-remain-rele
 - 2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele
 - 2026-03-24-hardware-infrastructure-aitoolly-the-verge
-- 2026-07-31-pipeline-publications-2026-07-31-external-technology-news-br
+- 2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software
 embedding_id: 2026-07-17-enterprise-communications-technology-news-context-for-ai-nat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ enterprise/communications technology news context for AI-native telecom and infr
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai]] · [[2026-07-20-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-03-24-hardware-infrastructure-aitoolly-the-verge]] · [[2026-07-31-pipeline-publications-2026-07-31-external-technology-news-br]]
+**Related:** [[2026-07-10-how-deutsche-telekom-is-rewiring-telecommunications-with-ai]] · [[2026-07-20-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-03-24-hardware-infrastructure-aitoolly-the-verge]] · [[2026-08-05-tech-s-new-favorite-type-of-app-ai-native-vertical-software]]
 <!-- graph:end -->

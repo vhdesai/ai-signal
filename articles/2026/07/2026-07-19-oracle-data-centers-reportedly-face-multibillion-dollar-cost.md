@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-04-01-oracle-cutting-up-to-30-000-jobs-to-fund-156-billion-ai-data
 - 2026-07-20-large-ai-supply-deals-and-data-center-commitments-face-execu
 - 2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou
-- 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
+- 2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt
 embedding_id: 2026-07-19-oracle-data-centers-reportedly-face-multibillion-dollar-cost
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Oracle data centers reportedly face multibillion-dollar cost surprises, reinforc
 
 **Entities:** [[Oracle]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-04-01-oracle-cutting-up-to-30-000-jobs-to-fund-156-billion-ai-data]] · [[2026-07-20-large-ai-supply-deals-and-data-center-commitments-face-execu]] · [[2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]]
+**Related:** [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]] · [[2026-04-01-oracle-cutting-up-to-30-000-jobs-to-fund-156-billion-ai-data]] · [[2026-07-20-large-ai-supply-deals-and-data-center-commitments-face-execu]] · [[2026-04-02-oracle-cuts-up-to-30-000-jobs-to-fund-ai-data-center-buildou]] · [[2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt]]
 <!-- graph:end -->

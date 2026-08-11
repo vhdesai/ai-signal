@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-06-30-the-information-2026-06-30-external-the-briefing-stripe-and
 - 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue
+- 2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching
 embedding_id: 2026-05-07-coreweave-s-balancing-act-2026-05-07-the-information
 event_name: ''
 ---
@@ -33,5 +34,5 @@ CoreWeave’s Balancing Act [2026-05-07] · The Information
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-01-the-information-2026-07-01-external-the-briefing-bending-spo]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-06-30-the-information-2026-06-30-external-the-briefing-stripe-and]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]]
+**Related:** [[2026-07-01-the-information-2026-07-01-external-the-briefing-bending-spo]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-06-30-the-information-2026-06-30-external-the-briefing-stripe-and]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-17-pitchbook-2026-07-17-external-data-center-fatigue]] · [[2026-07-02-cio-dive-2026-07-02-external-how-it-leaders-are-approaching]]
 <!-- graph:end -->

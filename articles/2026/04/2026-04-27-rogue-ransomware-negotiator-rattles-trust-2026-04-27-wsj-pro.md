@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch
+- 2026-08-10-wsj-pro-cybersecurity-2026-08-10-external-beleaguered-cisa-m
 - 2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs
 - 2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million
 - 2026-03-25-it-s-a-treacherous-time-in-cybersecurity-2026-03-25-wsj-pro
-- 2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil
 embedding_id: 2026-04-27-rogue-ransomware-negotiator-rattles-trust-2026-04-27-wsj-pro
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Rogue Ransomware Negotiator Rattles Trust [2026-04-27] · WSJ Pro CyberSecurity
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million]] · [[2026-03-25-it-s-a-treacherous-time-in-cybersecurity-2026-03-25-wsj-pro]] · [[2026-07-20-wsj-pro-cybersecurity-2026-07-20-external-neo-raises-100-mil]]
+**Related:** [[2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch]] · [[2026-08-10-wsj-pro-cybersecurity-2026-08-10-external-beleaguered-cisa-m]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-21-wsj-pro-cybersecurity-2026-07-21-external-neo-raises-million]] · [[2026-03-25-it-s-a-treacherous-time-in-cybersecurity-2026-03-25-wsj-pro]]
 <!-- graph:end -->

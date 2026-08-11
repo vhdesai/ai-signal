@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
 - 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
-- 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
+- 2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev
 embedding_id: 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia approaches its Q1 print with the broader chip sector rallying on reaffirm
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
+**Related:** [[2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos]] · [[2026-05-25-nvidia-authorizes-additional-80b-buyback-after-q1-beat]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev]]
 <!-- graph:end -->

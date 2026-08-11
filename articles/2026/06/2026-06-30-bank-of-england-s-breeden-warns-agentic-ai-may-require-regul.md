@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats
 - 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 - 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
-- 2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all
+- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 embedding_id: 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Speaking at the ECB Forum in Portugal, BoE Deputy Governor for Financial Stabili
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-05-30-enterprises-risk-agentic-ai-failure-under-one-size-fits-all]]
+**Related:** [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-signals-bespoke-rules-for-agentic-ai-floats]] · [[2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen]] · [[2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]]
 <!-- graph:end -->

@@ -20,9 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across
+- 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 - 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
-- 2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
+- 2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context
+- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 embedding_id: 2026-08-04-asana-ships-company-wide-agent-memory-with-built-in-access-c
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Asana introduced AI agents that share memory across an organization while enforc
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-05-21-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
+**Related:** [[2026-07-09-venturebeat-research-69-of-enterprises-share-api-keys-across]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]] · [[2026-08-07-tencent-open-sources-team-memory-for-shared-ai-agent-context]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]]
 <!-- graph:end -->

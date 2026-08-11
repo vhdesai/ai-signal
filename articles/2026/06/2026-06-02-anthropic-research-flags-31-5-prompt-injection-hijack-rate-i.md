@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open
 - 2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4
 - 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
 - 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
-- 2026-06-06-anthropic-suffers-multi-model-claude-outage
 embedding_id: 2026-06-02-anthropic-research-flags-31-5-prompt-injection-hijack-rate-i
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Reporting on Anthropic findings cited a ~31.5% successful prompt-injection hijac
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]] · [[2026-06-06-anthropic-suffers-multi-model-claude-outage]]
+**Related:** [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-05-26-anthropic-project-glasswing-claude-mythos-flags-23-019-open]] · [[2026-05-15-anthropic-surpasses-openai-in-u-s-business-ai-adoption-34-4]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]]
 <!-- graph:end -->

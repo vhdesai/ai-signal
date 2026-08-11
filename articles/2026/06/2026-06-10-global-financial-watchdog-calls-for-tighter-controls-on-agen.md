@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres
+- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a
 - 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 - 2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla
-- 2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose
 embedding_id: 2026-06-10-global-financial-watchdog-calls-for-tighter-controls-on-agen
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Global financial regulators are calling for tighter controls on agentic AI in fi
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]] · [[2026-08-02-eu-ai-act-enforcement-powers-take-effect-for-general-purpose]]
+**Related:** [[2026-05-18-eu-softens-ai-act-compliance-obligations-under-industry-pres]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-05-20-global-ai-regulation-eu-ai-act-guidance-us-executive-order-a]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-04-01-seventy-two-countries-now-have-some-form-of-ai-policy-in-pla]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-28-products-tools-new-meta-open-sources-astryx-an-agent-readabl
 - 2026-06-28-meta-released-astryx-beta-mit-licensed-an-open-source-react
+- 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
+- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
-- 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
-- 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 embedding_id: 2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta open-sources Astryx, an agent-readable React design system with CLI and MCP
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-28-products-tools-new-meta-open-sources-astryx-an-agent-readabl]] · [[2026-06-28-meta-released-astryx-beta-mit-licensed-an-open-source-react]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]]
+**Related:** [[2026-06-28-products-tools-new-meta-open-sources-astryx-an-agent-readabl]] · [[2026-06-28-meta-released-astryx-beta-mit-licensed-an-open-source-react]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag]]
 <!-- graph:end -->

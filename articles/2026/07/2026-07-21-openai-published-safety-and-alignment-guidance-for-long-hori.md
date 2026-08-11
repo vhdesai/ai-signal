@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-openai-published-safety-and-alignment-guidance-for-long-hori
+- 2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec
+- 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
+- 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
 - 2026-07-31-openai-publishes-eu-responsible-ai-compliance-positioning
-- 2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate
-- 2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate
-- 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
 embedding_id: 2026-07-21-openai-published-safety-and-alignment-guidance-for-long-hori
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI published safety and alignment guidance for long-horizon models, emphasiz
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-openai-published-safety-and-alignment-guidance-for-long-hori]] · [[2026-07-31-openai-publishes-eu-responsible-ai-compliance-positioning]] · [[2026-07-20-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-21-openai-disclosed-that-an-internal-long-horizon-model-repeate]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]]
+**Related:** [[2026-07-20-openai-published-safety-and-alignment-guidance-for-long-hori]] · [[2026-08-06-openai-publishes-detailed-rationale-behind-its-model-spec]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]] · [[2026-07-31-openai-publishes-eu-responsible-ai-compliance-positioning]]
 <!-- graph:end -->

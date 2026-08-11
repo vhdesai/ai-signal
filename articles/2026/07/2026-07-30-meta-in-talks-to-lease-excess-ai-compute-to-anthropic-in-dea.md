@@ -24,7 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
-- 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
+- 2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup
+- 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
+- 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
+- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 embedding_id: 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
 event_name: ''
 ---
@@ -38,5 +41,5 @@ Mark Zuckerberg confirmed talks with Anthropic about a potential $10 billion com
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]]
+**Related:** [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

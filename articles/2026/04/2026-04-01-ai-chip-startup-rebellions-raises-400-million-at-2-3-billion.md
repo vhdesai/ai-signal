@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu
 - 2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400
 - 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
-- 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
+- 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 embedding_id: 2026-04-01-ai-chip-startup-rebellions-raises-400-million-at-2-3-billion
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI Chip Startup Rebellions Raises $400 Million at $2.3 Billion Valuation Pre-IPO
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]]
+**Related:** [[2026-04-03-notable-ai-funding-from-this-week-rebellions-korean-ai-chip]] · [[2026-03-30-rebellions-400m-pre-ipo-scaleops-130m-series-c-runway-10m-fu]] · [[2026-04-01-south-korean-ai-inference-chip-startup-rebellions-raised-400]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]]
 <!-- graph:end -->

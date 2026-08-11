@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-07-09-pitchbook-2026-07-09-external-record-vc-exits-don-t-help-all
 - 2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work
-- 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 embedding_id: 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-07] [EXTERNAL] PE exits fall 46%
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-09-pitchbook-2026-07-09-external-record-vc-exits-don-t-help-all]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]]
+**Related:** [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-09-pitchbook-2026-07-09-external-record-vc-exits-don-t-help-all]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]]
 <!-- graph:end -->

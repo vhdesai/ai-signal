@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
-- 2026-05-13-nature-ai-can-design-viruses-toxins-and-bioweapons-how-worri
 embedding_id: 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WSJ reports that AI chatbots know how to make deadly biological weapons and that
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-13-nature-ai-can-design-viruses-toxins-and-bioweapons-how-worri]]
+**Related:** [[2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]]
 <!-- graph:end -->

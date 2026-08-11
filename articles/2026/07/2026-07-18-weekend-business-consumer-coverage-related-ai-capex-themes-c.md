@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-17-weekend-business-consumer-coverage-related-ai-capex-themes-c
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 - 2026-05-02-18-stories-confirmed-6-themes-covered-22-companies-monitored
+- 2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori
 - 2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce
-- 2026-03-24-sources-businesstoday-xix-ai-cnbc-creati-ai-the-verge-aitool
 embedding_id: 2026-07-18-weekend-business-consumer-coverage-related-ai-capex-themes-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ weekend business/consumer coverage; related AI/capex themes captured through Tec
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-17-weekend-business-consumer-coverage-related-ai-capex-themes-c]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-05-02-18-stories-confirmed-6-themes-covered-22-companies-monitored]] · [[2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce]] · [[2026-03-24-sources-businesstoday-xix-ai-cnbc-creati-ai-the-verge-aitool]]
+**Related:** [[2026-07-17-weekend-business-consumer-coverage-related-ai-capex-themes-c]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-05-02-18-stories-confirmed-6-themes-covered-22-companies-monitored]] · [[2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori]] · [[2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce]]
 <!-- graph:end -->

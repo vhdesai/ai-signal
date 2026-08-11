@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 embedding_id: 2026-07-17-the-information-2026-07-17-external-moonshot-ai-s-new-kimi-k
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information - [2026-07-17] [EXTERNAL] Moonshot AI's New Kimi K3 Challenges U
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]]
+**Related:** [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-03-10-custom-intel-xeon-6-see-the-aws-advantage
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
 - event-google-i-o-2026-google-i-o-2026-strategic-implications
-- event-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026
-- 2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex
+- 2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity
+- 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 embedding_id: 2026-03-09-custom-intel-xeon-6-see-the-aws-advantage
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Custom Intel Xeon 6 - See the AWS Advantage. - according to CompTIA - a live, vi
 ## Connections
 
 **Entities:** [[Amazon]] · [[Intel]] · [[Scale AI]]
-**Related:** [[2026-03-10-custom-intel-xeon-6-see-the-aws-advantage]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[event-google-i-o-2026-google-i-o-2026-strategic-implications]] · [[event-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026-ai-models-comparison-google-i-o-2026-vs-microsoft-build-2026]] · [[2026-06-03-intel-targets-nvidia-with-rack-scale-ai-systems-at-computex]]
+**Related:** [[2026-03-10-custom-intel-xeon-6-see-the-aws-advantage]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[event-google-i-o-2026-google-i-o-2026-strategic-implications]] · [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity]] · [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]]
 <!-- graph:end -->

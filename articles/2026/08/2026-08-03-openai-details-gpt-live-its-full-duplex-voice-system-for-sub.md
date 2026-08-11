@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
+- 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-05-18-openai-released-three-new-voice-api-models-designed-for-live
-- 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
 embedding_id: 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published an engineering deep-dive on GPT-Live, a full-duplex voice archi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]]
+**Related:** [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-08-06-openai-details-engineering-behind-its-real-time-voice-system]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-05-18-openai-released-three-new-voice-api-models-designed-for-live]]
 <!-- graph:end -->

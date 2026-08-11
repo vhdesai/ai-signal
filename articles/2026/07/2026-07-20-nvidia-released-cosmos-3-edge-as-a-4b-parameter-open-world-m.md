@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
 - 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
+- 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
-- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
-- 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
+- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 embedding_id: 2026-07-20-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA released Cosmos 3 Edge as a 4B-parameter open world model for on-device p
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]] · [[2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at]]
+**Related:** [[2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]] · [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and
+- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis
-- 2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an
-- 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
-- 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
-- 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
+- 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
+- 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk
 embedding_id: 2026-07-07-australia-warns-models-are-going-their-own-way-as-its-ai-saf
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Australia's assistant technology minister, Andrew Charlton, warned that AI syste
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis]] · [[2026-07-19-australia-is-reportedly-moving-to-govern-ai-related-water-an]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-05-23-the-anthropic-institute-the-company-s-internal-research-over]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]]
+**Related:** [[2026-08-11-autonomous-agents-shown-pursuing-goals-through-deception-and]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-07-20-australia-moves-to-curb-government-use-of-automated-ai-decis]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk]]
 <!-- graph:end -->

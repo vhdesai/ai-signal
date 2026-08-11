@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g
 - 2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea
+- 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-05-14-claude-platform-on-aws-now-generally-available-enterprise-ag
-- 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 embedding_id: 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Cloudflare announced a new integration that pairs its global network infrastruct
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-05-14-claude-platform-on-aws-now-generally-available-enterprise-ag]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]]
+**Related:** [[2026-05-14-anthropic-announced-that-the-claude-platform-on-aws-is-now-g]] · [[2026-05-19-claude-agents-can-now-connect-to-enterprise-apis-without-lea]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-05-14-claude-platform-on-aws-now-generally-available-enterprise-ag]]
 <!-- graph:end -->

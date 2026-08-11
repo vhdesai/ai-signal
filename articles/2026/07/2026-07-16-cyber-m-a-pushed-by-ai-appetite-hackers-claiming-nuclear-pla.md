@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push
+- 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
 - 2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs
-- 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
-- 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
+- 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 embedding_id: 2026-07-16-cyber-m-a-pushed-by-ai-appetite-hackers-claiming-nuclear-pla
 event_name: ''
 ---
@@ -34,5 +34,5 @@ cyber M&A pushed by AI appetite, hackers claiming nuclear-plant data theft, and 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
+**Related:** [[2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]]
 <!-- graph:end -->

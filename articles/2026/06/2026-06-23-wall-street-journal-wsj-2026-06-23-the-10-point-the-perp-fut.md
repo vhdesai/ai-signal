@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
+- 2026-08-06-wall-street-journal-wsj-2026-08-06-external-the-10-point-goo
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
 - 2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins
 - 2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the
-- 2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b
 embedding_id: 2026-06-23-wall-street-journal-wsj-2026-06-23-the-10-point-the-perp-fut
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Wall Street Journal / WSJ - [2026-06-23] The 10-Point: The 'Perp Futures' Shakin
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]] · [[2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b]]
+**Related:** [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-08-06-wall-street-journal-wsj-2026-08-06-external-the-10-point-goo]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-31-wall-street-journal-wsj-2026-07-31-external-the-10-point-ins]] · [[2026-07-16-wall-street-journal-wsj-2026-07-16-external-the-10-point-the]]
 <!-- graph:end -->

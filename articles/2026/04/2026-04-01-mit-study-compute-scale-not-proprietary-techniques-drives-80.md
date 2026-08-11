@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
+- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at
 - 2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across
 - 2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr
-- 2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin
 embedding_id: 2026-04-01-mit-study-compute-scale-not-proprietary-techniques-drives-80
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT Study: Compute Scale — Not Proprietary Techniques — Drives 80–90% of F
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]] · [[2026-05-23-stanford-hai-s-2026-ai-index-report-delivers-a-clear-headlin]]
+**Related:** [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-05-05-stanford-hai-s-400-page-2026-ai-index-documented-a-field-at]] · [[2026-07-04-the-uk-s-ai-security-institute-tested-frontier-models-across]] · [[2026-05-26-stanford-hai-2026-ai-index-report-industry-produces-90-of-fr]]
 <!-- graph:end -->

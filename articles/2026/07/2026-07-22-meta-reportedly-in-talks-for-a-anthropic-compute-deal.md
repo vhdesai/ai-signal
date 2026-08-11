@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
 - 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
-- 2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl
-- 2026-05-27-bingx-launches-openai-and-anthropic-pre-ipo-perpetual-future
-- 2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal
+- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
+- 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
+- 2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid
 embedding_id: 2026-07-22-meta-reportedly-in-talks-for-a-anthropic-compute-deal
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-05-18-anthropic-arr-crosses-44b-after-80x-q1-yoy-growth-200b-googl]] · [[2026-05-27-bingx-launches-openai-and-anthropic-pre-ipo-perpetual-future]] · [[2026-07-22-amd-and-anthropic-sign-major-chips-and-investment-deal]]
+**Related:** [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid]]
 <!-- graph:end -->

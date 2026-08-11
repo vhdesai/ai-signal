@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook
 - 2026-07-27-dealbook-andrew-ross-sorkin-nyt-2026-07-27-external-dealbook
 - 2026-06-23-dealbook-andrew-ross-sorkin-nyt-2026-06-23-dealbook-tech-tum
+- 2026-08-05-dealbook-andrew-ross-sorkin-nyt-2026-08-05-external-dealbook
 - 2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook
-- 2026-08-02-dealbook-andrew-ross-sorkin-nyt-2026-08-02-no-new-dealbook-e
 embedding_id: 2026-06-20-dealbook-andrew-ross-sorkin-nyt-2026-06-22-dealbook-china-cl
 event_name: ''
 ---
@@ -36,5 +36,5 @@ DealBook (Andrew Ross Sorkin / NYT) - [2026-06-22] DealBook: China closes the A.
 ## Connections
 
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook]] · [[2026-07-27-dealbook-andrew-ross-sorkin-nyt-2026-07-27-external-dealbook]] · [[2026-06-23-dealbook-andrew-ross-sorkin-nyt-2026-06-23-dealbook-tech-tum]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]] · [[2026-08-02-dealbook-andrew-ross-sorkin-nyt-2026-08-02-no-new-dealbook-e]]
+**Related:** [[2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook]] · [[2026-07-27-dealbook-andrew-ross-sorkin-nyt-2026-07-27-external-dealbook]] · [[2026-06-23-dealbook-andrew-ross-sorkin-nyt-2026-06-23-dealbook-tech-tum]] · [[2026-08-05-dealbook-andrew-ross-sorkin-nyt-2026-08-05-external-dealbook]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]]
 <!-- graph:end -->

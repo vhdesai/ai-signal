@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
 - 2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create
-- 2026-04-02-academic-research-mit-news
 embedding_id: 2026-04-04-mit-study-challenges-ai-job-apocalypse-narrative-tasks-shift
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT Study Challenges "AI Job Apocalypse" Narrative — Tasks Shift, Jobs Don't D
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create]] · [[2026-04-02-academic-research-mit-news]]
+**Related:** [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-21-mit-study-reframes-which-workers-tech-booms-actually-create]]
 <!-- graph:end -->

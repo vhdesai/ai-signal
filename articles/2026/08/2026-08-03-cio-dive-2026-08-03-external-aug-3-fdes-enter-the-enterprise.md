@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles
 - 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 - 2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin
+- 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
 - 2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c
-- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 embedding_id: 2026-08-03-cio-dive-2026-08-03-external-aug-3-fdes-enter-the-enterprise
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CIO Dive - [2026-08-03] [EXTERNAL] Aug. 3 - FDEs enter the enterprise toolbox | 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]]
+**Related:** [[2026-06-15-cio-dive-2026-06-15-external-june-15-new-foundation-tackles]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-07-31-cio-dive-2026-07-31-external-july-31-microsoft-holds-the-lin]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]] · [[2026-07-17-cio-dive-daily-dive-2026-07-17-external-july-17-keeping-ai-c]]
 <!-- graph:end -->

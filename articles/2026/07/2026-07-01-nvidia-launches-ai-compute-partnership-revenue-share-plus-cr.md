@@ -26,6 +26,7 @@ related_article_ids:
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
+- 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 embedding_id: 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Nvidia introduced a business model in which it shares cloud revenue and provides
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
+**Related:** [[2026-07-01-nvidia-unveils-revenue-sharing-capital-partners-model-to-fin]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]]
 <!-- graph:end -->

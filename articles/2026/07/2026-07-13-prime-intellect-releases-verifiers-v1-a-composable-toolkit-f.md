@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-23-prime-intellect-releases-prime-rl-0-6-0-for-trillion-paramet
+- 2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-- 2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement
-- 2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework
-- 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
+- 2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc
+- 2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes
 embedding_id: 2026-07-13-prime-intellect-releases-verifiers-v1-a-composable-toolkit-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Verifiers v1 provides composable tasksets, harnesses, and runtimes for agentic r
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-23-prime-intellect-releases-prime-rl-0-6-0-for-trillion-paramet]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-08-02-nvidia-releases-molt-a-pytorch-native-agentic-reinforcement]] · [[2026-07-07-llm-as-a-verifier-a-general-purpose-verification-framework]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]]
+**Related:** [[2026-06-23-prime-intellect-releases-prime-rl-0-6-0-for-trillion-paramet]] · [[2026-08-06-prime-intellect-releases-prime-agent-an-open-source-recursiv]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-08-05-prime-intellect-s-open-source-prime-agent-scores-95-5-on-arc]] · [[2026-08-06-prime-intellect-releases-prime-agent-a-self-improving-harnes]]
 <!-- graph:end -->

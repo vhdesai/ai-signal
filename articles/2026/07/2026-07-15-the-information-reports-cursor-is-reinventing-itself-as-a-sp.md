@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep
 - 2026-05-05-cursor-reportedly-in-60b-spacex-acquisition-talks-replit-hit
 - 2026-05-15-cursor-launches-hiring-spree-after-spacex-deal
+- 2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition
 - 2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f
-- 2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o
 embedding_id: 2026-07-15-the-information-reports-cursor-is-reinventing-itself-as-a-sp
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The Information reports Cursor is reinventing itself as a SpaceX deal looms.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep]] · [[2026-05-05-cursor-reportedly-in-60b-spacex-acquisition-talks-replit-hit]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f]] · [[2026-05-21-spacex-s-1-reveals-xai-acquisition-grok-s-struggles-and-an-o]]
+**Related:** [[2026-05-18-cursor-acquisition-talks-with-spacex-xai-at-reported-60b-rep]] · [[2026-05-05-cursor-reportedly-in-60b-spacex-acquisition-talks-replit-hit]] · [[2026-05-15-cursor-launches-hiring-spree-after-spacex-deal]] · [[2026-08-07-spacex-nears-completion-of-60b-cursor-acquisition]] · [[2026-07-08-spacexai-formerly-xai-and-cursor-to-ship-their-first-joint-f]]
 <!-- graph:end -->

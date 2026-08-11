@@ -19,7 +19,6 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-16-source-hacker-news-tldl-io-may-15-2026
-- 2026-05-16-source-tldl-io-hacker-news-may-14-2026
 embedding_id: 2026-05-09-tldl-simon-willison-may-7-2026
 event_name: ''
 ---
@@ -32,5 +31,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-source-hacker-news-tldl-io-may-15-2026]] · [[2026-05-16-source-tldl-io-hacker-news-may-14-2026]]
+**Related:** [[2026-05-16-source-hacker-news-tldl-io-may-15-2026]]
 <!-- graph:end -->

@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc
 - 2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 embedding_id: 2026-07-15-anthropic-launches-claude-for-teachers-for-verified-u-s
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Anthropic launches Claude for Teachers for verified U.S. K-12 educators and comm
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
+**Related:** [[2026-05-23-anthropic-launches-claude-design-visual-collaboration-produc]] · [[2026-05-14-anthropic-debuts-claude-for-small-business-with-pre-built-ag]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

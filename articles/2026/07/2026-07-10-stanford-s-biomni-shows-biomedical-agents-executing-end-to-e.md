@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
+- 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
 embedding_id: 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
@@ -35,5 +36,5 @@ Stanford highlighted Biomni, a general-purpose biomedical AI co-scientist that c
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
+**Related:** [[2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]]
 <!-- graph:end -->

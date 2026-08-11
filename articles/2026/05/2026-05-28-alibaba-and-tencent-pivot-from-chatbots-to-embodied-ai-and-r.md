@@ -23,11 +23,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 - 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
+- 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
 - 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 - 2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r
-- 2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic
-- 2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global
 embedding_id: 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 event_name: ''
 ---
@@ -41,5 +41,5 @@ South China Morning Post reported that Alibaba and Tencent are leading a pivot f
 
 **Entities:** [[Alibaba]] · [[Tencent]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]] · [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic]] · [[2026-05-28-tencent-expands-workbuddy-and-enterprise-ai-solutions-global]]
+**Related:** [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-06-03-alibaba-opens-qwen-to-third-party-apps-as-china-s-ai-agent-r]]
 <!-- graph:end -->

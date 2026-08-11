@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
+- 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
-- 2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for
 embedding_id: 2026-05-25-uc-davis-uses-ai-to-shrink-spectrometers-toward-grain-of-san
 event_name: ''
 ---
@@ -36,5 +36,5 @@ UC Davis researchers described a miniature silicon spectrometer that uses 16 tun
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-07-10-nature-the-multimessenger-universe-as-a-training-ground-for]]
+**Related:** [[2026-05-26-ai-powered-spectrometer-shrinks-to-grain-of-sand-scale]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]]
 <!-- graph:end -->

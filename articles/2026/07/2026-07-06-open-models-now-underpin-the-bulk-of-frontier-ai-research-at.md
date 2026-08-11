@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-06-axios-reported-that-meta-is-developing-open-source-variants
+- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 - 2026-07-27-nvidia-led-open-model-push-becomes-a-central-policy-fight
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
-- 2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model
+- 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
 embedding_id: 2026-07-06-open-models-now-underpin-the-bulk-of-frontier-ai-research-at
 event_name: ''
 ---
@@ -37,5 +38,5 @@ At ICML 2026, roughly 2,000 accepted papers cite NVIDIA GPUs and about 145 build
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-07-27-nvidia-led-open-model-push-becomes-a-central-policy-fight]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-12-openai-launched-gpt-5-6-sol-terra-luna-gpt-live-voice-model]]
+**Related:** [[2026-04-06-axios-reported-that-meta-is-developing-open-source-variants]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]] · [[2026-07-27-nvidia-led-open-model-push-becomes-a-central-policy-fight]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]]
 <!-- graph:end -->

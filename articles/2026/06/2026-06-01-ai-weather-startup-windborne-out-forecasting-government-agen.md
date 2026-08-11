@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting
+- 2026-08-05-windborne-raises-37-million-to-commercialize-ai-weather-fore
+- 2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo
+- 2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai
 - 2026-05-13-an-open-access-review-article-published-today-in-discover-ar
-- 2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta
-- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground
-- 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
-- 2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f
 embedding_id: 2026-06-01-ai-weather-startup-windborne-out-forecasting-government-agen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ WindBorne Systems is outperforming government forecasting agencies by combining 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-an-open-access-review-article-published-today-in-discover-ar]] · [[2026-05-13-ai-for-climate-science-new-open-access-review-benchmarks-sta]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-training-ground]] · [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-07-10-nature-frames-multimessenger-astronomy-as-a-proving-ground-f]]
+**Related:** [[2026-08-05-windborne-raises-37-million-for-ai-weather-forecasting]] · [[2026-08-05-windborne-raises-37-million-to-commercialize-ai-weather-fore]] · [[2026-08-05-windborne-raises-37m-series-b-to-commercialize-ai-weather-fo]] · [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]] · [[2026-05-13-an-open-access-review-article-published-today-in-discover-ar]]
 <!-- graph:end -->

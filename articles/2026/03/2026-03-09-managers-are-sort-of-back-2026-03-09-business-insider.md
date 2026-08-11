@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-06-29-the-information-2026-06-29-external-the-briefing-comcast-goe
 - 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
 - 2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider
-- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 embedding_id: 2026-03-09-managers-are-sort-of-back-2026-03-09-business-insider
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Managers are (sort of) back [2026-03-09] · Business Insider
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-11-rip-r-sum-s-2026-03-11-business-insider]] · [[2026-06-29-the-information-2026-06-29-external-the-briefing-comcast-goe]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]]
+**Related:** [[2026-03-11-rip-r-sum-s-2026-03-11-business-insider]] · [[2026-06-29-the-information-2026-06-29-external-the-briefing-comcast-goe]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-03-13-layoffs-new-hidden-message-2026-03-13-business-insider]] · [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-deepseek-annualized-revenue-nears-400m-500m-supporting-new-f
 - 2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 - 2026-04-20-reuters-the-information-april-18-19-2026-deepseek-is-targeti
 - 2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val
-- 2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state
 embedding_id: 2026-07-16-deepseek-annualized-revenue-nears-400m-500m-with-a-new-raise
 event_name: ''
 ---
@@ -40,5 +40,5 @@ DeepSeek annualized revenue nears $400M-$500M, with a new raise around $7.4B / r
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-15-deepseek-annualized-revenue-nears-400m-500m-supporting-new-f]] · [[2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71]] · [[2026-04-20-reuters-the-information-april-18-19-2026-deepseek-is-targeti]] · [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]] · [[2026-05-18-deepseek-raises-up-to-4b-at-50b-valuation-with-chinese-state]]
+**Related:** [[2026-07-15-deepseek-annualized-revenue-nears-400m-500m-supporting-new-f]] · [[2026-07-15-deepseek-is-reported-to-be-raising-around-1-5b-at-roughly-71]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-04-20-reuters-the-information-april-18-19-2026-deepseek-is-targeti]] · [[2026-06-04-deepseek-lines-up-7-4b-first-external-round-at-up-to-59b-val]]
 <!-- graph:end -->

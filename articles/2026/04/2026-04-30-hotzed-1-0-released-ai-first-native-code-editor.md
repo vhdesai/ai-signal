@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding
 - 2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven
 - 2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro
 - 2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-- 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 embedding_id: 2026-04-30-hotzed-1-0-released-ai-first-native-code-editor
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Zed shipped 1.0 of its high-performance native, AI-first editor. The release dre
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]]
+**Related:** [[2026-08-05-meta-debuts-muse-code-and-muse-spark-1-2-entering-the-coding]] · [[2026-05-15-best-ai-agents-for-software-development-new-benchmark-driven]] · [[2026-04-04-cursor-shipped-a-complete-redesign-centering-the-product-aro]] · [[2026-05-13-a-peer-reviewed-open-access-study-published-today-in-softwar]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
 <!-- graph:end -->

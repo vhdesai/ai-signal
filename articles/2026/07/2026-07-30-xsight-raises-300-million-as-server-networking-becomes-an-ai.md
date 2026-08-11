@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
-- 2026-07-09-can-ai-answer-the-3-trillion-question
 embedding_id: 2026-07-30-xsight-raises-300-million-as-server-networking-becomes-an-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reported that the server-networking boom drove a $300 million fu
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]]
+**Related:** [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-06-01-dell-s-ai-server-surge-underscores-enterprise-demand-for-com]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar]]
 <!-- graph:end -->

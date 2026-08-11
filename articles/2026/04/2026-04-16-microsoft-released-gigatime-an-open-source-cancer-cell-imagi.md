@@ -20,7 +20,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
 embedding_id: 2026-04-16-microsoft-released-gigatime-an-open-source-cancer-cell-imagi
 event_name: ''
 ---
@@ -34,4 +35,5 @@ Microsoft released GigaTIME, an open-source cancer cell imaging model trained on
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]]
+**Related:** [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]]
 <!-- graph:end -->

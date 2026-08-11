@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 - 2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox
-- 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
+- 2026-08-06-business-insider-2026-08-06-external-today-tesla-and-spacex
 embedding_id: 2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-06-15] [EXTERNAL] The galactic ambitions of Cursors CEO
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]]
+**Related:** [[2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]] · [[2026-08-06-business-insider-2026-08-06-external-today-tesla-and-spacex]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug
 - 2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte
+- 2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
-- 2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient
-- 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
+- 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 embedding_id: 2026-05-15-amd-intel-lead-2026-shift-from-training-to-inference-cpu-mar
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The AI hardware spotlight has shifted from GPU-heavy training to CPU-driven infe
 
 **Entities:** [[AMD]] · [[Intel]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-07-28-amd-locks-up-529-mw-of-data-center-capacity-from-core-scient]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]]
+**Related:** [[2026-05-21-amd-ceo-lisa-su-server-cpu-market-to-grow-35-annually-throug]] · [[2026-05-18-apple-signed-a-preliminary-manufacturing-agreement-with-inte]] · [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]]
 <!-- graph:end -->

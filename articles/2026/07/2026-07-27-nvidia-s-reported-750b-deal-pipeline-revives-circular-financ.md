@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it
 - 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
 - 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
+- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 embedding_id: 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Nvidia is reportedly working on a fresh round of AI infrastructure deals potenti
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]]
+**Related:** [[2026-07-27-nvidia-weighs-a-250b-backstop-for-openai-s-ohio-campus-as-it]] · [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
 <!-- graph:end -->

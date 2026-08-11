@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp
 - 2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
-- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
+- 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 embedding_id: 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
 event_name: ''
 ---
@@ -40,5 +40,5 @@ NVIDIA • April 20, 2026 At Hannover Messe, NVIDIA announced a sweep of industr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
+**Related:** [[2026-04-20-nvidia-april-20-2026-hannover-messe-nvidia-announced-an-expa]] · [[2026-04-20-nvidia-deepens-agentic-ai-partnerships-with-adobe-and-wpp]] · [[2026-04-12-nvidia-confirmed-its-next-generation-vera-rubin-gpu-platform]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]]
 <!-- graph:end -->

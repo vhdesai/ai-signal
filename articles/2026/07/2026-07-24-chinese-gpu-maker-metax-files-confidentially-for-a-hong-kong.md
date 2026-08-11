@@ -20,10 +20,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 - 2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester
 embedding_id: 2026-07-24-chinese-gpu-maker-metax-files-confidentially-for-a-hong-kong
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-07-14-chinese-ai-startup-dfsx-releases-chip-to-compete-with-wester]]
+**Related:** [[2026-08-09-moore-threads-plans-a-hong-kong-listing-after-its-shares-sur]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-07-06-infrastructure-china-china-s-biren-raises-892-5m-to-scale-gp]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-03-08-view-in-web-browser-the-wall-street-journal-wsj-readers-shar
 - 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
-- 2026-03-14-view-in-web-browser-the-wall-street-journal-the-backlash-aga
 embedding_id: 2026-08-02-ai-images-are-everywhere-here-s-what-they-do-to-our-brains
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The WSJ examined cognitive and societal effects of ubiquitous AI-generated image
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-03-08-view-in-web-browser-the-wall-street-journal-wsj-readers-shar]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-03-14-view-in-web-browser-the-wall-street-journal-the-backlash-aga]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-07-14-wsj-asks-whether-ai-can-make-better-drugs-on-wall-street-s-t]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-03-08-view-in-web-browser-the-wall-street-journal-wsj-readers-shar]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]]
 <!-- graph:end -->

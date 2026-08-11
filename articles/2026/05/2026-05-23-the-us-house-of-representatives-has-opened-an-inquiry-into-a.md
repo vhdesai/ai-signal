@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den
+- 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
-- 2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo
-- 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via
+- 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
+- 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 embedding_id: 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The US House of Representatives has opened an inquiry into Airbnb's use of open-
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-07-07-reuters-beijing-weighs-curbing-overseas-access-to-china-s-mo]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]]
+**Related:** [[2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den]] · [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]]
 <!-- graph:end -->

@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 - 2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language
 - 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 - 2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus
-- 2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75
-- 2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua
+- 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
 embedding_id: 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA released Nemotron-Labs-Audex, a unified audio-text LLM (30B Mixture-of-Ex
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-07-09-nvidia-s-iterative-puzzle-compresses-a-120b-hybrid-moe-to-75]] · [[2026-05-23-nvidia-ai-released-nemotron-labs-diffusion-a-tri-mode-langua]]
+**Related:** [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]] · [[2026-05-20-nvidia-releases-nemotron-labs-diffusion-a-tri-mode-language]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]] · [[2026-07-01-nvidia-releases-nemotron-labs-twotower-an-open-weight-diffus]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]]
 <!-- graph:end -->

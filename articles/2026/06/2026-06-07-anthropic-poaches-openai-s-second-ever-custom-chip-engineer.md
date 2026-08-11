@@ -24,9 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
-- 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
-- 2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
+- 2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau
+- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
+- 2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude
+- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 embedding_id: 2026-06-07-anthropic-poaches-openai-s-second-ever-custom-chip-engineer
 event_name: ''
 ---
@@ -40,5 +42,5 @@ Clive Chan — second hardware hire on OpenAI's chip program, ex-Tesla Autopilot
 
 **Entities:** [[Anthropic]] · [[OpenAI]] · [[Tesla]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-07-28-dario-amodei-says-anthropic-does-not-oppose-open-weights-but]]
+**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-in-house-custom-chip-design-team-for-clau]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]]
 <!-- graph:end -->

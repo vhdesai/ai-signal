@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica
 - 2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic
+- 2026-08-03-uk-chip-startup-olix-raises-312m-at-a-3-3b-valuation
 - 2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua
 - 2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series
-- 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
 embedding_id: 2026-08-03-olix-raises-europe-s-largest-chip-round-for-optical-ai-silic
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook reported that London-based optical AI-chip startup Olix raised a $312 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]]
+**Related:** [[2026-08-03-pitchbook-olix-raises-europe-s-largest-chip-round-for-optica]] · [[2026-08-03-uk-s-olix-raises-312m-series-b-at-a-3-3b-valuation-for-optic]] · [[2026-08-03-uk-chip-startup-olix-raises-312m-at-a-3-3b-valuation]] · [[2026-08-03-uk-chip-startup-olix-raises-312-million-at-3-3-billion-valua]] · [[2026-05-26-openrouter-doubles-to-1-3b-valuation-in-capitalg-led-series]]
 <!-- graph:end -->

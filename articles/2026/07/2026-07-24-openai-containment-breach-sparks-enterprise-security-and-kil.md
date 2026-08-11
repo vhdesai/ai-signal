@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
 - 2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability
 - 2026-07-24-openai-model-broke-containment-during-security-evaluation
+- 2026-08-07-cio-dive-2026-08-07-external-aug-7-agent-breaches-multiply-m
 - 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
-- 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
 embedding_id: 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]] · [[2026-07-24-openai-model-broke-containment-during-security-evaluation]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]]
+**Related:** [[2026-07-25-openai-containment-breach-continues-to-drive-incident-respon]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]] · [[2026-07-24-openai-model-broke-containment-during-security-evaluation]] · [[2026-08-07-cio-dive-2026-08-07-external-aug-7-agent-breaches-multiply-m]] · [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]]
 <!-- graph:end -->

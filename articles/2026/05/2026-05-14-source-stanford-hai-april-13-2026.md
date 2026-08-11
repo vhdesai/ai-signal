@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-05-05-stanford-hai-ieee-spectrum-april-13-15-2026
 - 2026-05-22-source-stanford-hai-ieee-spectrum-unite-ai-date-april-13-202
 - 2026-05-08-source-stanford-hai-published-2026-ai-index-report-active
+- 2026-04-16-source-techcrunch-april-16-2026
 embedding_id: 2026-05-14-source-stanford-hai-april-13-2026
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Source: Stanford HAI | April 13, 2026
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-source-stanford-hai-mit-technology-review-april-13-2026-feat]] · [[2026-05-05-stanford-hai-ieee-spectrum-april-13-15-2026]] · [[2026-05-22-source-stanford-hai-ieee-spectrum-unite-ai-date-april-13-202]] · [[2026-05-08-source-stanford-hai-published-2026-ai-index-report-active]]
+**Related:** [[2026-05-14-source-stanford-hai-mit-technology-review-april-13-2026-feat]] · [[2026-05-05-stanford-hai-ieee-spectrum-april-13-15-2026]] · [[2026-05-22-source-stanford-hai-ieee-spectrum-unite-ai-date-april-13-202]] · [[2026-05-08-source-stanford-hai-published-2026-ai-index-report-active]] · [[2026-04-16-source-techcrunch-april-16-2026]]
 <!-- graph:end -->

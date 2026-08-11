@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml
 - 2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in
 - 2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t
@@ -37,5 +38,5 @@ JetBrains Research open-sourced KotlinLLM (Apache-2.0), an IntelliJ IDEA plugin 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t]]
+**Related:** [[2026-05-14-poetiq-meta-system-improves-every-llm-tested-on-livecodebenc]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-04-tutorial-end-to-end-production-ml-pipeline-with-zenml]] · [[2026-06-24-openai-and-broadcom-unveil-jalape-o-openai-s-first-custom-in]] · [[2026-05-26-andrej-karpathy-skills-github-repo-packages-karpathy-s-llm-t]]
 <!-- graph:end -->

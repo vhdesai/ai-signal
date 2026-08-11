@@ -39,10 +39,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai
-- 2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up
 embedding_id: 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
 event_name: ''
 ---
@@ -56,5 +56,5 @@ event_name: ''
 
 **Entities:** [[AMD]] · [[Anthropic]] · [[DeepSeek]] · [[Google]] · [[Intel]] · [[Meta]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]] · [[Salesforce]] · [[Tesla]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]] · [[2026-05-17-industry-news-deals-anthropic-in-talks-to-raise-30-50b-at-up]]
+**Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-10-nvidia-s-ai-equity-commitments-top-40b-investments-in-openai]]
 <!-- graph:end -->

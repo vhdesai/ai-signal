@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe
 - 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
 - 2026-07-22-google-commits-million-in-ai-credits-to-the-genesis-mission
-- 2026-04-02-academic-research-mit-news
+- 2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced
 embedding_id: 2026-07-23-mit-projects-selected-for-doe-genesis-mission-ai-science-fun
 event_name: ''
 ---
@@ -38,5 +38,5 @@ GOOGLE DEEPMINDAI FOR SCIENCEPUBLIC SECTOR
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-07-22-google-commits-million-in-ai-credits-to-the-genesis-mission]] · [[2026-04-02-academic-research-mit-news]]
+**Related:** [[2026-07-22-doe-genesis-mission-launches-broad-ai-for-science-funding-pu]] · [[2026-07-23-apple-and-google-research-on-agents-video-and-health-mit-doe]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-07-22-google-commits-million-in-ai-credits-to-the-genesis-mission]] · [[2026-08-03-georgia-tech-to-lead-national-cloud-laboratory-for-advanced]]
 <!-- graph:end -->

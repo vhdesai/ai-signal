@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-27-apple-released-container-1-0-an-open-source-swift-tool-that
 - 2026-06-30-venturebeat-com-orchestration-deepseek-open-sources-dspark
-- 2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build
+- 2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai
 embedding_id: 2026-06-27-a-new-apple-open-sources-container-1-0-for-running-linux-con
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A New Apple open‑sources "container" 1.0 for running Linux containers on Apple
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-27-apple-released-container-1-0-an-open-source-swift-tool-that]] · [[2026-06-30-venturebeat-com-orchestration-deepseek-open-sources-dspark]] · [[2026-06-13-cio-dive-2026-06-13-external-weekender-ice-cream-giant-build]]
+**Related:** [[2026-06-27-apple-released-container-1-0-an-open-source-swift-tool-that]] · [[2026-06-30-venturebeat-com-orchestration-deepseek-open-sources-dspark]] · [[2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai]]
 <!-- graph:end -->

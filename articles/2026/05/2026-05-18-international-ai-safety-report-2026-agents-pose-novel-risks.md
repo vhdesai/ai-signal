@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu
 - 2026-05-14-responsible-ai-reporting-still-trails-capability-releases
 - 2026-05-22-ai-safety-policy-regulation-governance-risk
+- 2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk
 - 2026-05-14-stanford-ai-index-documented-ai-incidents-rose-to-362-in-202
-- 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
 embedding_id: 2026-05-18-international-ai-safety-report-2026-agents-pose-novel-risks
 event_name: ''
 ---
@@ -37,5 +37,5 @@ International AI Safety Report 2026: Agents Pose Novel Risks; Capabilities Outpa
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-22-ai-safety-policy-regulation-governance-risk]] · [[2026-05-14-stanford-ai-index-documented-ai-incidents-rose-to-362-in-202]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]]
+**Related:** [[2026-05-18-the-second-international-ai-safety-report-2026-chaired-by-tu]] · [[2026-05-14-responsible-ai-reporting-still-trails-capability-releases]] · [[2026-05-22-ai-safety-policy-regulation-governance-risk]] · [[2026-08-09-ai-safety-testing-is-itself-becoming-a-source-of-risk]] · [[2026-05-14-stanford-ai-index-documented-ai-incidents-rose-to-362-in-202]]
 <!-- graph:end -->

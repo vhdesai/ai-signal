@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google
 - 2026-04-02-academic-research
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
-- 2026-04-02-ai-safety-policy-cnbc-time-techcrunch
 embedding_id: 2026-05-31-the-ai-psychosis-debate-moves-safety-from-benchmarks-to-prod
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch examined the debate over so-called “AI psychosis,” a term being u
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-02-academic-research]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-04-02-ai-safety-policy-cnbc-time-techcrunch]]
+**Related:** [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-25-everyone-is-navigating-ai-security-in-real-time-even-google]] · [[2026-04-02-academic-research]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]]
 <!-- graph:end -->

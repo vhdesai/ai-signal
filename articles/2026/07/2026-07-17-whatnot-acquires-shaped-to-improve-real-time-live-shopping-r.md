@@ -20,6 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-whatnot-acquires-shaped-to-improve-real-time-live-shopping-a
+- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
+- 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 embedding_id: 2026-07-17-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r
 event_name: ''
 ---
@@ -32,5 +34,5 @@ Whatnot acquires Shaped to improve real-time live-shopping recommendation system
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-16-whatnot-acquires-shaped-to-improve-real-time-live-shopping-a]]
+**Related:** [[2026-07-16-whatnot-acquires-shaped-to-improve-real-time-live-shopping-a]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]]
 <!-- graph:end -->

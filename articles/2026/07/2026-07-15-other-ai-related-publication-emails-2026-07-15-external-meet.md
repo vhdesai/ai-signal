@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen
 - 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
 - 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
+- 2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
-- 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
 embedding_id: 2026-07-15-other-ai-related-publication-emails-2026-07-15-external-meet
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Other AI-related Publication Emails - [2026-07-15] [EXTERNAL] Meet the AI Agents
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]]
+**Related:** [[2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]]
 <!-- graph:end -->

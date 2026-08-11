@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model
 - 2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
+- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
 embedding_id: 2026-05-25-twilio-s-ai-momentum-comes-with-margin-and-contract-tradeoff
 event_name: ''
@@ -36,5 +37,5 @@ The Information’s Twilio coverage frames AI as both a growth driver and a sour
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
+**Related:** [[2026-06-09-techcrunch-can-tech-companies-learn-to-love-cheaper-ai-model]] · [[2026-06-09-can-tech-companies-learn-to-love-cheaper-ai-models]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

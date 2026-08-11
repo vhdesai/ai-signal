@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
 - 2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas
+- 2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink
 - 2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric
-- 2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri
 embedding_id: 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 event_name: ''
 ---
@@ -38,5 +38,5 @@ ServiceNow shares fell 17% and IBM dropped 9% after earnings-call commentary sug
 
 **Entities:** [[IBM]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]] · [[2026-06-26-ten-major-tech-leaders-are-already-deep-in-bear-market-terri]]
+**Related:** [[2026-07-15-ibm-shares-plunge-roughly-24-25-after-q2-warning-as-enterpri]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-07-22-ibm-says-ai-hardware-cost-pressure-delayed-mainframe-purchas]] · [[2026-08-07-atlassian-stock-jumps-35-as-ai-appears-to-expand-not-shrink]] · [[2026-05-12-servicenow-salesforce-hubspot-shift-to-outcome-based-ai-pric]]
 <!-- graph:end -->

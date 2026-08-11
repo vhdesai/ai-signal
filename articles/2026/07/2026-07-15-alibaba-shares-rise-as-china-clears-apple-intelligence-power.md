@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-07-15-the-information-reports-apple-received-approval-for-alibaba
 - 2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe
 - 2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a
-- 2026-05-23-alibaba-qwen-may-21-2026
+- 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 embedding_id: 2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba shares rise as China clears Apple Intelligence powered by Qwen.
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen]] · [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe]] · [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a]] · [[2026-05-23-alibaba-qwen-may-21-2026]]
+**Related:** [[2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen]] · [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe]] · [[2026-07-13-alibaba-shares-surge-as-qwen-tops-global-downloads-chinese-a]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]]
 <!-- graph:end -->

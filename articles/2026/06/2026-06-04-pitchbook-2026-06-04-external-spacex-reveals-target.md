@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-06-12-pitchbook-2026-06-12-external-its-launch-day
 - 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
-- 2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners
 embedding_id: 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-04] [EXTERNAL] SpaceX reveals \ target
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-06-14-pitchbook-2026-06-14-external-spacexs-biggest-winners]]
+**Related:** [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-06-12-pitchbook-2026-06-12-external-its-launch-day]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]]
 <!-- graph:end -->

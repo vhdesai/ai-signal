@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina
 - 2026-05-02-may-1-2026-marktechpost
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut
-- 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
 embedding_id: 2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Meta Autodata: Agentic Framework Turns AI Models Into Autonomous Data Scientists
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-02-may-1-2026-marktechpost]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]]
+**Related:** [[2026-05-02-meta-s-new-autodata-system-uses-an-orchestrator-llm-coordina]] · [[2026-05-02-may-1-2026-marktechpost]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-09-mit-technology-review-artificial-scientists-ai-agents-as-aut]]
 <!-- graph:end -->

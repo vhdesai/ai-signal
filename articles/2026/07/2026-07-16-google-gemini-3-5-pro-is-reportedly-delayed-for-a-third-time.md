@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
+- 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
 - 2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild
 - 2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re
 - 2026-07-17-google-s-gemini-3-5-pro-slips-again-over-reliability-coding
-- 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
-- 2026-07-17-google-s-gemini-3-5-pro-reportedly-slips-again-over-coding-r
 embedding_id: 2026-07-16-google-gemini-3-5-pro-is-reportedly-delayed-for-a-third-time
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google Gemini 3.5 Pro is reportedly delayed for a third time, with Gemini 3.6 Fl
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-07-17-google-s-gemini-3-5-pro-slips-again-over-reliability-coding]] · [[2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout]] · [[2026-07-17-google-s-gemini-3-5-pro-reportedly-slips-again-over-coding-r]]
+**Related:** [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]] · [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-07-08-reports-gemini-3-5-pro-targets-july-17-ga-after-full-rebuild]] · [[2026-07-13-google-s-gemini-3-5-pro-targets-july-17-ga-but-every-spec-re]] · [[2026-07-17-google-s-gemini-3-5-pro-slips-again-over-reliability-coding]]
 <!-- graph:end -->

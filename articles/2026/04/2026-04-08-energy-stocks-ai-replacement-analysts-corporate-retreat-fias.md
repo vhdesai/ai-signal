@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-wall-street-journal-wsj-2026-08-06-external-the-10-point-goo
 - 2026-06-20-wsj-wealth-advisor-2026-06-22-wsj-wealth-adviser-briefing-ai
+- 2026-08-05-wall-street-journal-wsj-2026-08-05-external-the-10-point-the
 - 2026-06-29-wsj-wealth-advisor-2026-06-29-external-wsj-wealth-adviser-br
 - 2026-04-27-don-t-get-greedy-with-ai-stocks-2026-04-27-wall-street-journ
-- 2026-07-14-wsj-wealth-advisor-2026-07-14-external-wsj-wealth-adviser-br
-- 2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv
 embedding_id: 2026-04-08-energy-stocks-ai-replacement-analysts-corporate-retreat-fias
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Energy Stocks, AI Replacement Analysts, Corporate Retreat Fiasco [2026-04-08] ·
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-wsj-wealth-advisor-2026-06-22-wsj-wealth-adviser-briefing-ai]] · [[2026-06-29-wsj-wealth-advisor-2026-06-29-external-wsj-wealth-adviser-br]] · [[2026-04-27-don-t-get-greedy-with-ai-stocks-2026-04-27-wall-street-journ]] · [[2026-07-14-wsj-wealth-advisor-2026-07-14-external-wsj-wealth-adviser-br]] · [[2026-07-21-wall-street-journal-wsj-2026-07-21-external-the-10-point-inv]]
+**Related:** [[2026-08-06-wall-street-journal-wsj-2026-08-06-external-the-10-point-goo]] · [[2026-06-20-wsj-wealth-advisor-2026-06-22-wsj-wealth-adviser-briefing-ai]] · [[2026-08-05-wall-street-journal-wsj-2026-08-05-external-the-10-point-the]] · [[2026-06-29-wsj-wealth-advisor-2026-06-29-external-wsj-wealth-adviser-br]] · [[2026-04-27-don-t-get-greedy-with-ai-stocks-2026-04-27-wall-street-journ]]
 <!-- graph:end -->

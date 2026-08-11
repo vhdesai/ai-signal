@@ -23,9 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea
+- 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
+- 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
+- 2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup
 - 2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7
-- 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-- 2026-04-25-google-plans-up-to-40b-anthropic-investment
 embedding_id: 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
 event_name: ''
 ---
@@ -39,5 +40,5 @@ Anthropic is reportedly in early talks to lease up to $10B in compute from Meta,
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]]
+**Related:** [[2026-07-30-meta-in-talks-to-lease-excess-ai-compute-to-anthropic-in-dea]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup]] · [[2026-04-21-hot-anthropic-arr-reportedly-hits-30b-on-claude-opus-4-7]]
 <!-- graph:end -->

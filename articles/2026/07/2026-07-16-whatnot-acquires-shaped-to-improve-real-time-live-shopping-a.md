@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r
+- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
+- 2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov
 - 2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex
-- 2026-04-26-secondaries-next-layer-raises-old-questions-2026-04-26-pitch
-- 2026-07-19-retailers-prepare-for-ai-bots-as-buyers-requiring-new-commer
 embedding_id: 2026-07-16-whatnot-acquires-shaped-to-improve-real-time-live-shopping-a
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Whatnot acquires Shaped to improve real-time live-shopping AI recommendations.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]] · [[2026-04-26-secondaries-next-layer-raises-old-questions-2026-04-26-pitch]] · [[2026-07-19-retailers-prepare-for-ai-bots-as-buyers-requiring-new-commer]]
+**Related:** [[2026-07-17-whatnot-acquires-shaped-to-improve-real-time-live-shopping-r]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-08-05-shopify-reports-ai-driven-traffic-and-orders-tripled-year-ov]] · [[2026-05-06-newgoogle-updates-ai-mode-ai-overviews-with-social-reddit-ex]]
 <!-- graph:end -->

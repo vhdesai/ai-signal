@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
+- 2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop
 - 2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust
-- 2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to
-- 2026-04-01-github-has-announced-that-starting-april-24-copilot-interact
 embedding_id: 2026-05-18-microsoft-github-s-ai-lead-is-eroding-per-the-information
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Reporting indicates GitHub Copilot's category lead is narrowing as Cursor, Anthr
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]] · [[2026-05-15-breaking-microsoft-revoking-claude-code-licenses-pivoting-to]] · [[2026-04-01-github-has-announced-that-starting-april-24-copilot-interact]]
+**Related:** [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-06-01-github-copilot-shifts-to-token-based-billing-drawing-develop]] · [[2026-05-30-github-copilot-s-usage-based-billing-tests-developer-trust]]
 <!-- graph:end -->

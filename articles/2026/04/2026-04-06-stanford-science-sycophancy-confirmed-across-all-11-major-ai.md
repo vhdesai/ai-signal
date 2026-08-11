@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-04-06-researchers-from-mit-and-the-university-of-washington-publis
 - 2026-04-06-mit-uw-sycophantic-ai-breaks-rational-decision-making-even-i
 - 2026-04-06-uc-berkeley-ai-models-exhibit-coordinated-self-preservation
-- 2026-07-15-stanford-georgia-tech-illusion-of-robustness-research-finds
+- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 embedding_id: 2026-04-06-stanford-science-sycophancy-confirmed-across-all-11-major-ai
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Stanford / Science: Sycophancy Confirmed Across All 11 Major AI Systems Tested
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-04-06-mit-uw-sycophantic-ai-breaks-rational-decision-making-even-i]] · [[2026-04-06-uc-berkeley-ai-models-exhibit-coordinated-self-preservation]] · [[2026-07-15-stanford-georgia-tech-illusion-of-robustness-research-finds]]
+**Related:** [[2026-04-06-a-large-scale-stanford-study-published-in-science-confirmed]] · [[2026-04-06-researchers-from-mit-and-the-university-of-washington-publis]] · [[2026-04-06-mit-uw-sycophantic-ai-breaks-rational-decision-making-even-i]] · [[2026-04-06-uc-berkeley-ai-models-exhibit-coordinated-self-preservation]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]]
 <!-- graph:end -->

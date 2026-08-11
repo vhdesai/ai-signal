@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x
-- 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
+- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-07-20-frontiers-labs-increasingly-rent-compute-from-rivals-and-spe
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Frontiers labs increasingly rent compute from rivals and specialists, distributi
 
 **Entities:** [[Meta]] · [[Oracle]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x]] · [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]]
+**Related:** [[2026-04-01-researchers-at-mit-analyzed-809-large-language-models-releas]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

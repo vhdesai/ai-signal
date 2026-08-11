@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5
 - 2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for
 - 2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo
-- 2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e
+- 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 embedding_id: 2026-06-10-anthropic-releases-claude-fable-5-a-guarded-publicly-availab
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic made Claude Fable 5 generally available, bringing Mythos-class capabil
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-07-01-anthropic-restores-claude-fable-5-globally-after-u-s-lifts-e]]
+**Related:** [[2026-06-09-anthropic-releases-claude-fable-5-and-claude-mythos-5]] · [[2026-07-13-anthropic-extends-free-claude-fable-5-access-to-july-19-for]] · [[2026-07-08-anthropic-extends-free-claude-fable-5-access-and-brings-cowo]] · [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]]
 <!-- graph:end -->

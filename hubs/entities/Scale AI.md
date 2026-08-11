@@ -1,13 +1,17 @@
 ---
 type: entity-hub
 hub: Scale AI
-member_count: 37
+member_count: 41
 ---
 
 # Scale AI
 
-> Auto-generated entity hub. 37 connected article(s).
+> Auto-generated entity hub. 41 connected article(s).
 
+- `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
+- `2026-08-06` [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa|Omilia raises $67 million to scale AI customer-support automation]]
+- `2026-08-06` [[2026-08-06-cursor-open-sources-mixture-of-kittens-an-moe-training-megak|Cursor Open-Sources Mixture-of-Kittens, an MoE Training Megakernel for NVIDIA NVL72]]
+- `2026-08-05` [[2026-08-05-meta-superintelligence-labs-ships-its-first-product-the-muse|Meta Superintelligence Labs ships its first product, the “Muse Code” agent]]
 - `2026-08-04` [[2026-08-04-sk-hynix-and-sandisk-publish-the-first-hbf-memory-standard-a|SK hynix and Sandisk publish the first HBF memory standard at FMS 2026]]
 - `2026-07-31` [[2026-07-31-deepseek-plans-1-gigawatt-data-center-in-inner-mongolia|DeepSeek plans 1-gigawatt data center in Inner Mongolia]]
 - `2026-07-30` [[2026-07-30-scale-ai-names-francis-desouza-as-ceo|Scale AI names Francis deSouza as CEO]]

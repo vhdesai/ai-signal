@@ -19,10 +19,10 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-the-information-2026-08-07-external-stripe-in-exclusive-talk
 - 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
 - 2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales
 - 2026-06-23-the-information-2026-06-23-trump-signs-sweeping-quantum-exec
-- 2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai
 embedding_id: 2026-07-29-the-information-2026-07-29-external-trump-administration-ban
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The Information - [2026-07-29] [EXTERNAL] Trump Administration Bans New Humanoid
 ## Connections
 
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales]] · [[2026-06-23-the-information-2026-06-23-trump-signs-sweeping-quantum-exec]] · [[2026-05-20-president-trump-disclosed-he-discussed-potential-ai-guardrai]]
+**Related:** [[2026-08-07-the-information-2026-08-07-external-stripe-in-exclusive-talk]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]] · [[2026-06-30-usnews-com-news-us-articles-2026-06-29-nvidias-ai-chip-sales]] · [[2026-06-23-the-information-2026-06-23-trump-signs-sweeping-quantum-exec]]
 <!-- graph:end -->

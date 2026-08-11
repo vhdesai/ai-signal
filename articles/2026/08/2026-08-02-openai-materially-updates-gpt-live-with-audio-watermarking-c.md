@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin
 - 2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol
 - 2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener
-- 2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release
+- 2026-08-06-openai-details-engineering-behind-its-real-time-voice-system
 embedding_id: 2026-08-02-openai-materially-updates-gpt-live-with-audio-watermarking-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ OpenAI's GPT-Live release page was materially updated in the current window afte
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener]] · [[2026-05-22-openai-ships-gpt-5-5-six-weeks-after-last-release]]
+**Related:** [[2026-08-03-openai-updates-gpt-live-page-after-synthid-audio-watermarkin]] · [[2026-08-04-openai-updates-gpt-live-after-synthid-audio-watermarking-rol]] · [[2026-07-28-openai-moves-gpt-transcribe-and-gpt-live-transcribe-to-gener]] · [[2026-08-06-openai-details-engineering-behind-its-real-time-voice-system]]
 <!-- graph:end -->

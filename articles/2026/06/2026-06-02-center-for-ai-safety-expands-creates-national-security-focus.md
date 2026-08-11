@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed
-- 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 embedding_id: 2026-06-02-center-for-ai-safety-expands-creates-national-security-focus
 event_name: ''
 ---
@@ -39,5 +39,5 @@ CAIS named former xAI leader Devin Kim as president and established the Frontier
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]]
+**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-09-in-a-notable-policy-reversal-the-trump-administration-signed]]
 <!-- graph:end -->

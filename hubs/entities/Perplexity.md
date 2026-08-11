@@ -1,13 +1,18 @@
 ---
 type: entity-hub
 hub: Perplexity
-member_count: 78
+member_count: 83
 ---
 
 # Perplexity
 
-> Auto-generated entity hub. 78 connected article(s).
+> Auto-generated entity hub. 83 connected article(s).
 
+- `2026-08-08` [[2026-08-08-nvidia-backs-firebird-s-new-ai-factory-in-armenia-plans-70-0|Nvidia Backs Firebird's New AI Factory in Armenia, Plans 70,000+ GPU Buildout by 2027]]
+- `2026-08-08` [[2026-08-08-firebird-opens-the-cis-region-s-largest-ai-factory-in-armeni|Firebird opens the CIS region’s largest AI factory in Armenia, built on NVIDIA]]
+- `2026-08-08` [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-with-intende|Firebird Opens Armenian AI Factory, Targets 2 GW With Intended Nvidia Investment]]
+- `2026-08-08` [[2026-08-08-firebird-launches-cis-region-s-largest-ai-factory-in-armenia|Firebird Launches CIS Region’s Largest AI Factory in Armenia]]
+- `2026-08-05` [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re|Shopify: AI-Driven Search Tripled Traffic and Orders in Q2, Revenue Up 36%]]
 - `2026-07-29` [[2026-07-29-ex-perplexity-engineer-launches-polar-an-ai-browser-for-know|Ex-Perplexity engineer launches Polar, an AI browser for knowledge work, with $5.7M seed]]
 - `2026-07-20` [[2026-07-20-perplexity-releases-wandr-an-open-benchmark-for-research-age|Perplexity releases WANDR, an open benchmark for research agents that must search wide and deep across source-linked…]]
 - `2026-07-20` [[2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa|Perplexity WANDR and SQRL indicate research-agent and database-agent evaluation is becoming more rigorous and…]]

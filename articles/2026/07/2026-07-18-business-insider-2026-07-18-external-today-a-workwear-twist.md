@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar
 - 2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est
+- 2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve
 - 2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 embedding_id: 2026-07-18-business-insider-2026-07-18-external-today-a-workwear-twist
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-18] [EXTERNAL] Today: A workwear twist on a famous b
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]]
+**Related:** [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve]] · [[2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
 <!-- graph:end -->

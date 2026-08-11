@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: Huawei
-member_count: 163
+member_count: 173
 ---
 
 # Huawei
 
-> Auto-generated entity hub. 163 connected article(s).
+> Auto-generated entity hub. 173 connected article(s).
 
+- `2026-08-10` [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch|Nvidia Falls 3.1% as Washington Reviews Offshore Routes to China AI Chip Access]]
+- `2026-08-10` [[2026-08-10-chinese-ai-labs-still-train-on-nvidia-switching-to-huawei-si|Chinese AI labs still train on Nvidia; switching to Huawei silicon carries a reported ~50% cost premium]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]
 - `2026-07-31` [[2026-07-31-judge-denies-elon-musk-s-xai-bid-to-block-minnesota-nudifica|Judge denies Elon Musk's xAI bid to block Minnesota “nudification” ban]]

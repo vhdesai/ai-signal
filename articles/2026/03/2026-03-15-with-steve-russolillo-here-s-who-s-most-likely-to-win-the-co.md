@@ -19,6 +19,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai
+- 2026-08-08-daily-ai-news-digest-august-9-2026
 - 2026-03-08-with-steve-russolillo-he-s-leaning-into-the-buzz-defending-t
 embedding_id: 2026-03-15-with-steve-russolillo-here-s-who-s-most-likely-to-win-the-co
 event_name: ''
@@ -31,5 +32,5 @@ with Steve Russolillo - Here’s who’s most likely to win - The costs were all
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai]] · [[2026-03-08-with-steve-russolillo-he-s-leaning-into-the-buzz-defending-t]]
+**Related:** [[2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai]] · [[2026-08-08-daily-ai-news-digest-august-9-2026]] · [[2026-03-08-with-steve-russolillo-he-s-leaning-into-the-buzz-defending-t]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-05-computerworld-microsoft-blog-may-5-2026
 - 2026-05-09-the-information-the-decoder-data-center-dynamics-may-8-9-202
+- 2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest
 - 2026-05-18-microsoft-aitoolsrecap-may-10-2026
-- 2026-05-23-products-tools-hot-microsoft-research-may-22-2026
 embedding_id: 2026-05-15-azure-databricks-microsoft-learn-may-13-2026
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Azure Databricks / Microsoft Learn | May 13, 2026
 ## Connections
 
 **Entities:** [[Databricks]] · [[Microsoft]]
-**Related:** [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-05-09-the-information-the-decoder-data-center-dynamics-may-8-9-202]] · [[2026-05-18-microsoft-aitoolsrecap-may-10-2026]] · [[2026-05-23-products-tools-hot-microsoft-research-may-22-2026]]
+**Related:** [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-05-09-the-information-the-decoder-data-center-dynamics-may-8-9-202]] · [[2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest]] · [[2026-05-18-microsoft-aitoolsrecap-may-10-2026]]
 <!-- graph:end -->

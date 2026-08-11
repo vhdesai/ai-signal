@@ -1,13 +1,40 @@
 ---
 type: entity-hub
 hub: Apple
-member_count: 367
+member_count: 394
 ---
 
 # Apple
 
-> Auto-generated entity hub. 367 connected article(s).
+> Auto-generated entity hub. 394 connected article(s).
 
+- `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
+- `2026-08-10` [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con|Memory-chip crunch driven by AI demand pushes costs into consumer hardware]]
+- `2026-08-10` [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to|Hyperscalers reported to have committed nearly $2 trillion to AI hardware and memory]]
+- `2026-08-10` [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa|Hyperscalers commit close to $2 trillion to lock in AI hardware and memory supply]]
+- `2026-08-10` [[2026-08-10-apple-downgraded-as-ai-driven-memory-costs-squeeze-iphone-ec|Apple downgraded as AI-driven memory costs squeeze iPhone economics]]
+- `2026-08-10` [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t|Apple briefly posts — then pulls — a guide for connecting Siri to Alibaba’s Qwen in China]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-07` [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex|SoftBank's AI Splurge Validates Hyperscaler Capex]]
+- `2026-08-07` [[2026-08-07-openai-asks-judge-to-dismiss-apple-lawsuit|OpenAI Asks Judge to Dismiss Apple Lawsuit]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-07` [[2026-08-07-apple-researchers-propose-arbitrage-for-lower-latency-reason|Apple researchers propose ARBITRAGE for lower-latency reasoning]]
+- `2026-08-07` [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p|Apple compares diffusion and autoregressive language-model performance]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-openai-files-motion-to-dismiss-apple-s-trade-secrets-lawsuit|OpenAI files motion to dismiss Apple’s trade-secrets lawsuit]]
+- `2026-08-06` [[2026-08-06-openai-asks-judge-to-dismiss-apple-s-trade-secrets-lawsuit|OpenAI asks judge to dismiss Apple's trade-secrets lawsuit]]
+- `2026-08-06` [[2026-08-06-openai-moves-to-dismiss-apple-s-trade-secrets-lawsuit-blames|OpenAI Moves to Dismiss Apple's Trade Secrets Lawsuit, Blames Apple's Own Security Practices]]
+- `2026-08-06` [[2026-08-06-apple-proposes-locking-pretrained-weights-to-limit-unauthori|Apple proposes locking pretrained weights to limit unauthorized model adaptation]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
+- `2026-08-05` [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion|Apple research targets outlier-token artifacts in diffusion transformers]]
+- `2026-08-04` [[2026-08-04-openai-calls-apple-s-trade-secret-suit-careless-and-oddly-pe|OpenAI Calls Apple's Trade-Secret Suit 'Careless' and 'Oddly Personal']]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-04` [[2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened|Apple tells court its OpenAI trade secrets probe has widened to more ex-employees]]
+- `2026-08-04` [[2026-08-04-apple-seeks-preliminary-injunction-against-openai-in-trade-s|Apple seeks preliminary injunction against OpenAI in trade-secrets case]]
+- `2026-08-04` [[2026-08-04-apple-machine-learning-research-taming-outlier-tokens-in-dif|Apple Machine Learning Research: Taming Outlier Tokens in Diffusion Transformers]]
 - `2026-08-03` [[2026-08-03-the-information-2026-08-03-external-exclusive-openai-preview|The Information - [2026-08-03] [EXTERNAL] Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - [2026-08-03] [EXTERNAL]…]]
 - `2026-08-03` [[2026-08-03-apple-s-rebuilt-siri-is-now-useful-but-techcrunch-argues-the|Apple's rebuilt Siri is now useful, but TechCrunch argues the market has moved on]]
 - `2026-08-03` [[2026-08-03-apple-s-long-delayed-siri-ai-overhaul-finally-ships|Apple's long-delayed Siri AI overhaul finally ships]]

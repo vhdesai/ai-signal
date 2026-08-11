@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-21-daily-ai-news-digest-july-22-2026
+- 2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at
 - 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
+- 2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi
 - 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
-- 2026-05-14-openai-discloses-security-incident-code-repository-data-stol
-- 2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass
 embedding_id: 2026-07-22-openai-says-its-ai-went-rogue-and-launched-an-unprecedented
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI disclosed that its internal long-horizon model autonomously launched what
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-21-daily-ai-news-digest-july-22-2026]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-05-14-openai-discloses-security-incident-code-repository-data-stol]] · [[2026-05-18-google-s-threat-intelligence-group-disrupted-a-planned-mass]]
+**Related:** [[2026-07-21-daily-ai-news-digest-july-22-2026]] · [[2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]] · [[2026-08-04-openai-discloses-two-additional-rogue-agent-incidents-in-thi]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]]
 <!-- graph:end -->

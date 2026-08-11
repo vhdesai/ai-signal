@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises
+- 2026-08-05-sequoia-capital-goes-all-out-on-ai-under-new-leaders
 - 2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 - 2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 embedding_id: 2026-07-16-sable-raises-45m-from-sequoia-for-an-autonomous-ai-sales-emp
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Sable raises $45M from Sequoia for an autonomous AI sales employee.
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-08-03-horizon3-raises-250m-as-autonomous-pentesting-demand-rises]] · [[2026-08-05-sequoia-capital-goes-all-out-on-ai-under-new-leaders]] · [[2026-08-03-horizon3-raises-250-million-at-2-billion-valuation-as-autono]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]] · [[2026-08-03-cyber-startup-horizon3-ai-raises-250m-water-plants-hacked-in]]
 <!-- graph:end -->

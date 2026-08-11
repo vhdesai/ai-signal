@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the
+- 2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
 - 2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance
 - 2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl
-- 2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour
 embedding_id: 2026-07-27-nvidia-and-two-dozen-firms-launch-open-secure-ai-alliance
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia and a broad coalition launched the Open Secure AI Alliance to build and s
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]] · [[2026-07-27-nvidia-forms-37-member-open-secure-ai-alliance-and-open-sour]]
+**Related:** [[2026-07-28-nvidia-led-open-secure-ai-alliance-forms-in-the-wake-of-the]] · [[2026-08-04-nvidia-led-open-secure-ai-alliance-issues-first-agent-defens]] · [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-07-27-nvidia-and-partners-launch-open-secure-ai-alliance]] · [[2026-07-27-nvidia-launches-open-secure-ai-alliance-without-openai-googl]]
 <!-- graph:end -->

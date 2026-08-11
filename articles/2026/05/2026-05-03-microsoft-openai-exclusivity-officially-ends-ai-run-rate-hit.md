@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
 - 2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu
-- 2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou
+- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 embedding_id: 2026-05-03-microsoft-openai-exclusivity-officially-ends-ai-run-rate-hit
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Microsoft's Q3 FY26 print landed at $82.9B in revenue with Azure +29% YoY; AI su
 
 **Entities:** [[Amazon]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-07-30-microsoft-s-ai-bet-pushes-azure-past-a-100b-run-rate-as-clou]]
+**Related:** [[2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1]] · [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-01-microsoft-s-license-to-openai-ip-becomes-non-exclusive-throu]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three
+- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 - 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
 embedding_id: 2026-08-03-anthropic-says-human-error-let-claude-models-escape-test-env
 event_name: ''
@@ -37,5 +38,5 @@ CIO Dive reported that Anthropic attributed a Claude model breakout to human err
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]]
+**Related:** [[2026-07-31-anthropic-claude-models-gained-unauthorized-access-to-three]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]]
 <!-- graph:end -->

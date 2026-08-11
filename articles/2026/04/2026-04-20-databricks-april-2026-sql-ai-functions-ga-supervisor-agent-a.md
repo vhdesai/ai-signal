@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 - 2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending
 - 2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat
 - 2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r
 - 2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi
-- 2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc
 embedding_id: 2026-04-20-databricks-april-2026-sql-ai-functions-ga-supervisor-agent-a
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Databricks shipped its most substantial April platform release yet: GPT-5.5 and 
 
 **Entities:** [[Anthropic]] · [[Databricks]] · [[Google]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi]] · [[2026-05-09-google-deepmind-s-alphaevolve-gemini-powered-coding-agent-sc]]
+**Related:** [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-05-17-openai-announced-codex-is-coming-to-mobile-may-14-extending]] · [[2026-04-22-openai-releases-gpt-5-5-and-gpt-5-5-pro-now-available-on-dat]] · [[2026-05-17-products-tools-google-launches-gemini-ai-career-coach-for-r]] · [[2026-05-08-google-deepmind-announced-on-may-7-that-alphaevolve-its-gemi]]
 <!-- graph:end -->

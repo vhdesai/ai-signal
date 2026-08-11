@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for
 - 2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally
+- 2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found
 - 2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk
-- 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 embedding_id: 2026-07-13-intel-commits-5b-to-expand-leixlip-ireland-fab-for-ai-chips
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Intel announced €5B to expand Fab 34 for Xeon 6 and next-gen processors on Int
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
+**Related:** [[2026-07-13-intel-commits-5b-5-7b-to-expand-its-leixlip-ireland-fab-for]] · [[2026-06-08-intel-s-full-stack-ai-pivot-drives-8-5-rally]] · [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found]] · [[2026-06-08-amd-commits-2-billion-to-accelerate-ai-innovation-in-the-uk]]
 <!-- graph:end -->

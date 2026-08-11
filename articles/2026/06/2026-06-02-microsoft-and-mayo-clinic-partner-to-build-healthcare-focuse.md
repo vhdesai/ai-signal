@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
 - 2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc
 - 2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep
-- 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 embedding_id: 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Microsoft and Mayo Clinic announced a joint effort to build a frontier AI model 
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]]
+**Related:** [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-05-13-a-landmark-policy-shift-reported-today-medicare-has-introduc]] · [[2026-07-02-microsoft-launches-frontier-company-an-outcome-driven-ai-dep]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]]
 <!-- graph:end -->

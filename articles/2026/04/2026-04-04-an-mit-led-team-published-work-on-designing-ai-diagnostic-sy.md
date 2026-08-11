@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
-- 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
-- 2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user
+- 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 embedding_id: 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An MIT-led team published work on designing AI diagnostic systems that are expli
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]] · [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user]]
+**Related:** [[2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise]]
 <!-- graph:end -->

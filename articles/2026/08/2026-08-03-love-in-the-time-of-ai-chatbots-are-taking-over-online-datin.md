@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
-- 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 embedding_id: 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 event_name: ''
 ---
@@ -35,5 +35,5 @@ The WSJ reports on AI chatbots in online dating. NEW CONSUMER AI
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos]]
+**Related:** [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]]
 <!-- graph:end -->

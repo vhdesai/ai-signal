@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley
 - 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 - 2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a
 - 2026-03-15-view-in-web-browser-the-wall-street-journal-the-ai-boom-has
-- 2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re
 embedding_id: 2026-08-04-the-ai-boom-is-transforming-the-american-economy
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The WSJ reported that the AI boom is now visibly reshaping the American economy 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-03-15-view-in-web-browser-the-wall-street-journal-the-ai-boom-has]] · [[2026-06-28-bis-warns-the-ai-investment-boom-could-tip-economies-into-re]]
+**Related:** [[2026-08-08-ai-boom-creates-jobs-beyond-silicon-valley]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-07-26-stanford-siepr-what-is-really-happening-to-jobs-separating-a]] · [[2026-03-15-view-in-web-browser-the-wall-street-journal-the-ai-boom-has]]
 <!-- graph:end -->

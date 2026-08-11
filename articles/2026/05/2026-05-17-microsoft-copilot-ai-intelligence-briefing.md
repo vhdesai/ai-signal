@@ -26,10 +26,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
+- 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-05-02-may-1-2026-winbuzzer
 - 2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7
 - 2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d
-- 2026-07-05-saturday-sunday-briefing-july-5-2026
 embedding_id: 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Good morning, Vik. A quieter Sunday cycle, but three market-moving items demand 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-05-02-may-1-2026-winbuzzer]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]] · [[2026-07-05-saturday-sunday-briefing-july-5-2026]]
+**Related:** [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-02-may-1-2026-winbuzzer]] · [[2026-05-14-stanford-2026-ai-index-updates-u-s-china-gap-narrows-to-2-7]] · [[2026-05-08-vik-desai-director-technology-assessment-intelligence-corp-d]]
 <!-- graph:end -->

@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 - 2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel
 - 2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target
-- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 embedding_id: 2026-06-19-pitchbook-2026-06-19-external-solar-surge
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-19] [EXTERNAL] Solar surge
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
+**Related:** [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-18-pitchbook-2026-06-18-external-spacexs-ai-rocket-fuel]] · [[2026-06-04-pitchbook-2026-06-04-external-spacex-reveals-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b
+- 2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa
 - 2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin
+- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 - 2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits
-- 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
-- 2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti
 embedding_id: 2026-06-15-trending-salesforce-to-acquire-ai-customer-service-firm-fin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bloomberg reported Salesforce has agreed to acquire Fin, an AI-native customer-s
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-07-14-nebius-to-sell-1b-of-ai-compute-capacity-to-startup-reflecti]]
+**Related:** [[2026-05-29-salesforce-spotlights-agentforce-as-snowflake-makes-6b-aws-b]] · [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa]] · [[2026-05-29-salesforce-says-agentforce-has-reached-1b-in-annual-recurrin]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-05-10-nebius-acquires-ai-consultancy-eigen-for-643m-nvidia-commits]]
 <!-- graph:end -->

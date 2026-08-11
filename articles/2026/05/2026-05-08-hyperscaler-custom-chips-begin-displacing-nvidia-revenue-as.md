@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 - 2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv
 - 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
-- 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
+- 2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa
 embedding_id: 2026-05-08-hyperscaler-custom-chips-begin-displacing-nvidia-revenue-as
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Hyperscaler Custom Chips Begin Displacing Nvidia Revenue as Amazon and Alphabet 
 
 **Entities:** [[Amazon]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]]
+**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]] · [[2026-05-04-trendingnvidia-faces-sharper-custom-silicon-threat-from-marv]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-08-10-hyperscalers-commit-close-to-2-trillion-to-lock-in-ai-hardwa]]
 <!-- graph:end -->

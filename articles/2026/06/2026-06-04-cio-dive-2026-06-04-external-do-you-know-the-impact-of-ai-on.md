@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram
 - 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 - 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
+- 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
 - 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
-- 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 embedding_id: 2026-06-04-cio-dive-2026-06-04-external-do-you-know-the-impact-of-ai-on
 event_name: ''
 ---
@@ -35,5 +35,5 @@ CIO Dive - [2026-06-04] [EXTERNAL] Do you know the impact of AI on productivity?
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]]
+**Related:** [[2026-07-29-cio-dive-2026-07-29-external-july-29-ai-s-effect-on-mainfram]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]]
 <!-- graph:end -->

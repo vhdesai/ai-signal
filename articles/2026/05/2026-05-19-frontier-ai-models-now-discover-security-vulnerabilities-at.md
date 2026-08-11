@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode
 - 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
-- 2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x
 embedding_id: 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 event_name: ''
 ---
@@ -38,5 +38,5 @@ CIO Dive highlighted that frontier AI models are surfacing security vulnerabilit
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]] · [[2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x]]
+**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-07-14-governance-and-distribution-move-to-center-stage-as-the-mode]] · [[2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway]]
 <!-- graph:end -->

@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur
 - 2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas
 - 2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h
-- 2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 embedding_id: 2026-05-25-mayo-clinic-ai-flagged-pancreatic-cancer-three-years-before
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A Mayo Clinic study describes an AI screening model that surfaced pancreatic can
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-06-02-microsoft-and-mayo-clinic-partner-to-build-healthcare-focuse]]
+**Related:** [[2026-05-02-hotmayo-clinic-ai-flags-pancreatic-cancer-three-years-before]] · [[2026-05-04-mayo-clinic-ai-flags-pancreatic-cancer-risk-earlier-than-cur]] · [[2026-07-09-nhs-ai-blood-test-could-spare-18-000-women-a-year-from-invas]] · [[2026-05-27-stanford-health-care-patient-panels-surface-fault-lines-in-h]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]]
 <!-- graph:end -->

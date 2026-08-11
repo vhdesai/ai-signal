@@ -20,8 +20,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-02-wall-street-journal-wsj-2026-08-02-external-the-10-point-how
 - 2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the
-- 2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round
-- 2026-06-19-wall-street-journal-wsj-2026-06-19-external-your-daily-round
+- 2026-08-08-wall-street-journal-wsj-2026-08-08-external-the-10-point-why
+- 2026-08-10-wall-street-journal-wsj-2026-08-10-external-the-latest-news
 embedding_id: 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Wall Street Journal / WSJ - [2026-07-12] [EXTERNAL] The 10-Point: The People Try
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-02-wall-street-journal-wsj-2026-08-02-external-the-10-point-how]] · [[2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the]] · [[2026-07-04-wall-street-journal-wsj-2026-07-04-external-your-daily-round]] · [[2026-06-19-wall-street-journal-wsj-2026-06-19-external-your-daily-round]]
+**Related:** [[2026-08-02-wall-street-journal-wsj-2026-08-02-external-the-10-point-how]] · [[2026-07-18-wall-street-journal-wsj-2026-07-18-external-the-10-point-the]] · [[2026-08-08-wall-street-journal-wsj-2026-08-08-external-the-10-point-why]] · [[2026-08-10-wall-street-journal-wsj-2026-08-10-external-the-latest-news]]
 <!-- graph:end -->

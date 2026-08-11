@@ -40,8 +40,8 @@ related_article_ids:
 - 2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability
 - 2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me
 - 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
+- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash
-- 2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a
 embedding_id: 2026-05-13-mit-sloan-senior-lecturer-guadalupe-hayes-mota-argues-in-for
 event_name: ''
 ---
@@ -55,5 +55,5 @@ Companies & Official Blogs: OpenAI, Anthropic, Google DeepMind, xAI, Meta AI, Ap
 
 **Entities:** [[Anthropic]] · [[Apple]] · [[Cerebras]] · [[Google]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[xAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]] · [[2026-06-27-sources-scanned-official-blogs-openai-google-deepmind-meta-a]]
+**Related:** [[2026-05-12-mit-sloan-ai-in-drug-discovery-requires-human-accountability]] · [[2026-05-12-companies-nvidia-google-deepmind-openai-anthropic-mistral-me]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash]]
 <!-- graph:end -->

@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina
 - 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
 - 2026-07-24-fallout-grows-from-openai-agents-breach-of-hugging-face
 embedding_id: 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
@@ -37,5 +38,5 @@ Hugging Face’s security team published a phase-by-phase reconstruction of the 
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]] · [[2026-07-24-fallout-grows-from-openai-agents-breach-of-hugging-face]]
+**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-05-openai-agents-rebuilt-an-internal-message-board-and-coordina]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]] · [[2026-07-24-fallout-grows-from-openai-agents-breach-of-hugging-face]]
 <!-- graph:end -->

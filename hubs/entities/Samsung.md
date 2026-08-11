@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Samsung
-member_count: 70
+member_count: 71
 ---
 
 # Samsung
 
-> Auto-generated entity hub. 70 connected article(s).
+> Auto-generated entity hub. 71 connected article(s).
 
+- `2026-08-05` [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team|Anthropic is hiring a custom AI chip design team]]
 - `2026-08-01` [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and|Infrastructure Over Hype: Record AI Capex, a Memory Crunch, and a Safety Reckoning]]
 - `2026-07-31` [[2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand|Samsung and SK hynix post record profits as AI memory demand surges]]
 - `2026-07-30` [[2026-07-30-samsung-posts-record-profit-up-1-814-year-over-year-on-ai-me|Samsung posts record profit, up 1,814% year-over-year, on AI memory demand]]

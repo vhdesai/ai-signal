@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
+- 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 - 2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
-- 2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter
 embedding_id: 2026-07-20-feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspec
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Feyn AI releases SQRL, a text-to-SQL model family that inspects databases before
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-03-31-bair-introduces-spex-and-proxyspex-for-large-scale-llm-inter]]
+**Related:** [[2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-06-19-liquid-ai-releases-lfm2-5-embedding-and-colbert-retrieval-mo]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
 - 2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
-- 2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits
-- 2026-07-13-infrastructure-local-policy-data-centers
+- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 embedding_id: 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reported that data-center costs are set to rise as U.S. states c
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-13-meta-signals-ai-compute-may-be-overbuilt-even-as-it-commits]] · [[2026-07-13-infrastructure-local-policy-data-centers]]
+**Related:** [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-07-13-white-house-reportedly-seeks-utility-and-data-center-pledge]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]]
 <!-- graph:end -->

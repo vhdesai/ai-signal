@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e
 - 2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis
+- 2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical
 embedding_id: 2026-07-09-stanford-debuts-biomni-a-general-purpose-biomedical-ai-co-sc
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Stanford unveiled Biomni, an AI agent that autonomously executes biomedical rese
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-04-01-carnegie-mellon-university-s-center-for-ai-driven-biomedical]]
+**Related:** [[2026-07-10-stanford-s-biomni-shows-biomedical-agents-executing-end-to-e]] · [[2026-07-09-stanford-s-biomni-positioned-as-an-ai-biomedical-co-scientis]] · [[2026-08-07-stanford-runs-37-000-ai-agents-as-virtual-biotech-drug-desig]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

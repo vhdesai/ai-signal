@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand
 - 2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden
-- 2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in
-- 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
+- 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
 embedding_id: 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The Linux Foundation announced DNS-AID — a project to build decentralized disc
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand]] · [[2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden]] · [[2026-04-27-dod-framing-an-architecture-that-prevents-ai-vendor-lock-in]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]]
+**Related:** [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-15-vint-cerf-backs-dnsid-internet-scale-ai-agent-identity-stand]] · [[2026-06-26-linux-foundation-and-20-tech-giants-launch-akrites-to-harden]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]]
 <!-- graph:end -->

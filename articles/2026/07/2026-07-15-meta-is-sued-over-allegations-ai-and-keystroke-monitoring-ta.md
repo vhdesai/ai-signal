@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
+- 2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te
 - 2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
-- 2026-07-16-meta-says-it-will-alert-parents-when-teens-discuss-self-harm
 embedding_id: 2026-07-15-meta-is-sued-over-allegations-ai-and-keystroke-monitoring-ta
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Meta is sued over allegations AI and keystroke monitoring targeted workers on me
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-07-16-meta-says-it-will-alert-parents-when-teens-discuss-self-harm]]
+**Related:** [[2026-05-24-meta-layoffs-the-mci-keystroke-logging-disclosure-draw-scrut]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-08-08-meta-ai-model-breached-an-external-firm-during-a-security-te]] · [[2026-05-20-meta-begins-8-000-person-layoff-wave-while-raising-ai-capex]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]]
 <!-- graph:end -->

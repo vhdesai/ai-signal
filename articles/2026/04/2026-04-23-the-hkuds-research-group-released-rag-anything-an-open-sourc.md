@@ -28,9 +28,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline
 - 2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything
+- 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 - 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 - 2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab
-- 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 embedding_id: 2026-04-23-the-hkuds-research-group-released-rag-anything-an-open-sourc
 event_name: ''
 ---
@@ -43,5 +43,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]]
+**Related:** [[2026-05-27-zeroentropy-launches-zerank-2-a-retrieve-and-rerank-pipeline]] · [[2026-05-23-university-of-hong-kong-data-science-lab-debuts-cli-anything]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-04-28-big-tech-ai-earnings-week-opens-wall-street-demands-measurab]]
 <!-- graph:end -->

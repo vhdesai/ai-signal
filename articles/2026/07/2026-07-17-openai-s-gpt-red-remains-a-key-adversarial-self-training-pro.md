@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-openai-details-gpt-red-an-automated-red-teaming-system-using
+- 2026-08-10-openai-launches-gpt-5-6-cyber-through-daybreak-red
+- 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
+- 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
 - 2026-05-08-openai-launches-gpt-5-5-cyber-a-defensive-ai-model-for-criti
-- 2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers
-- 2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def
-- 2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory
 embedding_id: 2026-07-17-openai-s-gpt-red-remains-a-key-adversarial-self-training-pro
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI's GPT-Red remains a key adversarial self-training/prompt-injection defens
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-16-openai-details-gpt-red-an-automated-red-teaming-system-using]] · [[2026-05-08-openai-launches-gpt-5-5-cyber-a-defensive-ai-model-for-criti]] · [[2026-05-10-openai-opens-gpt-5-5-cyber-to-vetted-security-researchers]] · [[2026-04-30-hotopenai-makes-gpt-5-5-cyber-available-to-federal-cyber-def]] · [[2026-05-10-openai-gpt-5-5-instant-becomes-default-with-deep-memory]]
+**Related:** [[2026-07-16-openai-details-gpt-red-an-automated-red-teaming-system-using]] · [[2026-08-10-openai-launches-gpt-5-6-cyber-through-daybreak-red]] · [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-05-08-openai-launches-gpt-5-5-cyber-a-defensive-ai-model-for-criti]]
 <!-- graph:end -->

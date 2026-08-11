@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work
 - 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
-- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-08-03-pitchbook-2026-08-03-external-pe-s-plan-to-defend-insurers
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-08-03] [EXTERNAL] PE's plan to defend insurers
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
+**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-06-25-pitchbook-2026-06-25-external-sec-wants-pe-to-show-its-work]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
 <!-- graph:end -->

@@ -26,8 +26,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe
 - 2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg
+- 2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
-- 2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to
 embedding_id: 2026-06-30-virginia-tech-s-rnabpflow-matches-alphafold-3-on-rna-structu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Two Virginia Tech computer scientists published RNAbpFlow in Nature Methods, a f
 
 **Entities:** [[Google]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-07-29-google-deepmind-disbands-its-nobel-winning-alphafold-team-to]]
+**Related:** [[2026-04-12-researchers-from-mit-nvidia-and-zhejiang-university-publishe]] · [[2026-05-19-alphaevolve-paper-gemini-powered-agent-scales-scientific-alg]] · [[2026-08-06-stanford-and-arc-institute-use-the-evo-2-model-to-design-via]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]]
 <!-- graph:end -->

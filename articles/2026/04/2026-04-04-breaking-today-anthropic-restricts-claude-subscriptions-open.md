@@ -29,10 +29,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps
+- 2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai
 - 2026-04-03-anthropic-races-to-contain-leaked-claude-ai-source-code-seco
 - 2026-05-14-source-anthropic-hacker-news-may-11-12-2026
 - 2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio
-- 2026-04-06-anthropic-restricts-third-party-claude-access-cuts-off-openc
 embedding_id: 2026-04-04-breaking-today-anthropic-restricts-claude-subscriptions-open
 event_name: ''
 ---
@@ -46,5 +46,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[Google]] · [[Microsoft]] · [[OpenAI]] · [[Oracle]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps]] · [[2026-04-03-anthropic-races-to-contain-leaked-claude-ai-source-code-seco]] · [[2026-05-14-source-anthropic-hacker-news-may-11-12-2026]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]] · [[2026-04-06-anthropic-restricts-third-party-claude-access-cuts-off-openc]]
+**Related:** [[2026-07-06-the-information-2026-07-06-external-anthropic-s-claude-helps]] · [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai]] · [[2026-04-03-anthropic-races-to-contain-leaked-claude-ai-source-code-seco]] · [[2026-05-14-source-anthropic-hacker-news-may-11-12-2026]] · [[2026-07-30-anthropic-says-three-claude-models-breached-real-organizatio]]
 <!-- graph:end -->

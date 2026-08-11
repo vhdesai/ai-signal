@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c
-- 2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite
-- 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 embedding_id: 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Meta AI and Stanford researchers unveiled a Fast Byte Latent Transformer that re
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-04-06-a-georgia-tech-team-published-a-new-sparse-attention-archite]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]]
+**Related:** [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-05-28-nextlat-next-latent-prediction-transformers-with-3-3-inferen]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-05-26-uc-berkeley-bair-posts-work-on-verifier-models-for-agentic-c]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
 <!-- graph:end -->

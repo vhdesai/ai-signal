@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-dealbook-andrew-ross-sorkin-nyt-2026-06-03-external-dealbook
+- 2026-08-10-dealbook-andrew-ross-sorkin-nyt-2026-08-10-external-dealbook
 - 2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook
 - 2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook
 - 2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook
-- 2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook
 embedding_id: 2026-06-08-dealbook-andrew-ross-sorkin-nyt-2026-06-08-external-dealbook
 event_name: ''
 ---
@@ -34,5 +34,5 @@ DealBook (Andrew Ross Sorkin / NYT) - [2026-06-08] [EXTERNAL] DealBook: Trump ey
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-03-dealbook-andrew-ross-sorkin-nyt-2026-06-03-external-dealbook]] · [[2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]] · [[2026-06-15-dealbook-andrew-ross-sorkin-nyt-2026-06-15-external-dealbook]]
+**Related:** [[2026-06-03-dealbook-andrew-ross-sorkin-nyt-2026-06-03-external-dealbook]] · [[2026-08-10-dealbook-andrew-ross-sorkin-nyt-2026-08-10-external-dealbook]] · [[2026-06-06-dealbook-andrew-ross-sorkin-nyt-2026-06-06-external-dealbook]] · [[2026-06-27-dealbook-andrew-ross-sorkin-nyt-2026-06-27-external-dealbook]] · [[2026-06-10-dealbook-andrew-ross-sorkin-nyt-2026-06-10-external-dealbook]]
 <!-- graph:end -->

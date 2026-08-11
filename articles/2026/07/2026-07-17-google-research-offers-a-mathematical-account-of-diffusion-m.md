@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio
-- 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-- 2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe
+- 2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field
+- 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 embedding_id: 2026-07-17-google-research-offers-a-mathematical-account-of-diffusion-m
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google Research offers a mathematical account of diffusion-model creativity thro
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-22-google-deepmind-ai-driven-formal-proof-search-advances-mathe]]
+**Related:** [[2026-07-16-google-research-publishes-a-mathematical-account-of-diffusio]] · [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]]
 <!-- graph:end -->

@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
 - 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
+- 2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai
 - 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
-- 2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go
 embedding_id: 2026-07-19-business-insider-2026-07-19-external-today-gen-z-isn-t-as-so
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-19] [EXTERNAL] Today: Gen Z isn't as sober as we tho
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-27-business-insider-2026-07-27-external-today-microsoft-s-no-go]]
+**Related:** [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai]] · [[2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]]
 <!-- graph:end -->

@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi
 - 2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
+- 2026-08-08-daily-ai-news-digest-august-9-2026
 - 2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
 embedding_id: 2026-05-15-amazon-s-secret-titus-project-future-proofs-data-centers-for
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Business Insider's Eugene Kim revealed Amazon's secretive “Titus” initiative
 
 **Entities:** [[Amazon]] · [[Cerebras]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-05-19-amazon-s-trainium-starts-winning-over-ai-developers-as-nvidi]] · [[2026-06-18-amazon-looks-to-sell-ai-chips-externally-challenging-nvidia]] · [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-08-08-daily-ai-news-digest-august-9-2026]] · [[2026-05-18-startup-makes-switching-ai-chips-easier-and-nvidia-just-inve]]
 <!-- graph:end -->

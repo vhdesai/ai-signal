@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou
 - 2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs
-- 2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur
 embedding_id: 2026-05-03-mozilla-pushes-back-on-chrome-s-prompt-api-vs-code-copilot-a
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Two governance flashpoints surfaced this weekend: Mozilla raised concerns over G
 
 **Entities:** [[Google]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs]] · [[2026-08-03-google-says-ai-agents-helped-find-and-fix-1-072-chrome-secur]]
+**Related:** [[2026-04-30-breakingmozilla-formally-opposes-google-s-chrome-prompt-api]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-03-breakingvs-code-auto-inserting-co-authored-by-copilot-withou]] · [[2026-08-03-google-says-ai-agents-helped-fix-1-072-chrome-security-bugs]]
 <!-- graph:end -->

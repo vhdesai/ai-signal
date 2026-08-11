@@ -1,13 +1,23 @@
 ---
 type: entity-hub
 hub: TSMC
-member_count: 52
+member_count: 62
 ---
 
 # TSMC
 
-> Auto-generated entity hub. 52 connected article(s).
+> Auto-generated entity hub. 62 connected article(s).
 
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand|TSMC July revenue surges ~45% YoY on AI chip demand]]
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi|TSMC July revenue surges roughly 45% year over year on AI chip demand]]
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained|TSMC July revenue rises about 45% year over year on sustained AI chip demand]]
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman|TSMC July revenue rises 44.7% year over year on AI chip demand]]
+- `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand|TSMC July Revenue Surges ~45% Year Over Year on AI Chip Demand]]
+- `2026-08-10` [[2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from|Microsoft moves to order 300,000+ Maia 300 accelerators from TSMC]]
+- `2026-08-10` [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr|Microsoft Reportedly Orders 300,000+ Maia 300 Accelerators from TSMC]]
+- `2026-08-10` [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip|Microsoft Plans 10× Production Ramp of Next-Gen Maia AI Chip]]
+- `2026-08-10` [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a|Intel raises $15 billion in a common stock offering to fund AI chip growth]]
+- `2026-08-09` [[2026-08-09-daily-ai-news-digest-august-10-2026|Daily AI News Digest – August 10, 2026]]
 - `2026-07-30` [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi|The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder to Return to OpenAI - [2026-07-30]…]]
 - `2026-07-30` [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu|TSMC works on advanced AI chip packaging as the infrastructure bottleneck shifts]]
 - `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]

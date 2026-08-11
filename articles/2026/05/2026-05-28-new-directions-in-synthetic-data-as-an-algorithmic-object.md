@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field
 - 2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera
-- 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
-- 2026-05-22-openai-model-autonomously-disproves-80-year-old-central-conj
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 embedding_id: 2026-05-28-new-directions-in-synthetic-data-as-an-algorithmic-object
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Hashimoto reframed synthetic data as "a general algorithmic tool for generative 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-05-22-openai-model-autonomously-disproves-80-year-old-central-conj]]
+**Related:** [[2026-08-10-mathematicians-assess-generative-ai-s-arrival-in-their-field]] · [[2026-05-02-meta-autodata-agentic-framework-turns-ai-models-into-autonom]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-29-new-academic-work-focuses-on-diffusion-llm-tuning-and-genera]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
 <!-- graph:end -->

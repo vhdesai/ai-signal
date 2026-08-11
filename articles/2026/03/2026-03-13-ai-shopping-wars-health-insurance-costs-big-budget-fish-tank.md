@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-06-20-wsj-wealth-advisor-2026-06-22-wsj-wealth-adviser-briefing-ai
 - 2026-07-08-wsj-wealth-advisor-2026-07-08-external-wsj-wealth-adviser-br
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
 - 2026-05-01-big-tech-s-ai-spend-new-middle-east-cruise-ship-competition
-- 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
 embedding_id: 2026-03-13-ai-shopping-wars-health-insurance-costs-big-budget-fish-tank
 event_name: ''
 ---
@@ -34,5 +34,5 @@ AI Shopping Wars, Health Insurance Costs, Big-Budget Fish Tanks [2026-03-13] · 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-wsj-wealth-advisor-2026-06-22-wsj-wealth-adviser-briefing-ai]] · [[2026-07-08-wsj-wealth-advisor-2026-07-08-external-wsj-wealth-adviser-br]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-05-01-big-tech-s-ai-spend-new-middle-east-cruise-ship-competition]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]]
+**Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-06-20-wsj-wealth-advisor-2026-06-22-wsj-wealth-adviser-briefing-ai]] · [[2026-07-08-wsj-wealth-advisor-2026-07-08-external-wsj-wealth-adviser-br]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-05-01-big-tech-s-ai-spend-new-middle-east-cruise-ship-competition]]
 <!-- graph:end -->

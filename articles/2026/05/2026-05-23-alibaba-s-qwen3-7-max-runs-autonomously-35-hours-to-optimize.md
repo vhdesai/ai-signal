@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke
 - 2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod
-- 2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model
+- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 embedding_id: 2026-05-23-alibaba-s-qwen3-7-max-runs-autonomously-35-hours-to-optimize
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Alibaba's Qwen3.7-Max Runs Autonomously 35 Hours to Optimize Its Own Chip
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-05-19-alibaba-unveils-zhenwu-ai-chip-and-qwen-3-7-max-model]]
+**Related:** [[2026-05-21-alibaba-qwen3-7-max-35-hours-of-autonomous-execution-1m-toke]] · [[2026-05-23-the-alibaba-qwen-team-released-qwen3-7-max-a-proprietary-mod]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

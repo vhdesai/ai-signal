@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-20-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l
 - 2026-07-21-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l
 - 2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close
-- 2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod
+- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 embedding_id: 2026-07-15-prismml-releases-bonsai-27b-1-bit-and-ternary-qwen3-6-27b-bu
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PrismML releases Bonsai 27B, 1-bit and ternary Qwen3.6-27B builds small enough f
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-07-20-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l]] · [[2026-07-21-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]] · [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod]]
+**Related:** [[2026-05-13-alibaba-s-qwen-3-6-lands-27b-and-35b-variants-outperform-pri]] · [[2026-07-20-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l]] · [[2026-07-21-alibaba-s-tongyi-lab-released-qwen-audio-3-0-tts-across-16-l]] · [[2026-08-03-alibaba-launches-qwen3-8-max-its-largest-model-yet-to-close]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]]
 <!-- graph:end -->

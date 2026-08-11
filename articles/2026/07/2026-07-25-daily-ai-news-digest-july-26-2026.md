@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-09-daily-ai-news-digest-july-10-2026
 - 2026-07-26-daily-ai-news-digest-july-27-2026
 - 2026-07-29-daily-ai-news-digest-july-30-2026
+- 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-07-08-daily-ai-news-digest-july-9-2026
-- 2026-07-22-daily-ai-news-digest-july-23-2026
 embedding_id: 2026-07-25-daily-ai-news-digest-july-26-2026
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Capital, infra fragility, and safety investigations drove the last 24 hours. Dee
 
 **Entities:** [[Anthropic]] · [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]] · [[2026-07-22-daily-ai-news-digest-july-23-2026]]
+**Related:** [[2026-07-09-daily-ai-news-digest-july-10-2026]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-08-daily-ai-news-digest-july-9-2026]]
 <!-- graph:end -->

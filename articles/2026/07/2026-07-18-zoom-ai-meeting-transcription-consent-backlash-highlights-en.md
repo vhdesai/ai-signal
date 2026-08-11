@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries
 - 2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us
 - 2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit
-- 2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg
+- 2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter
 embedding_id: 2026-07-18-zoom-ai-meeting-transcription-consent-backlash-highlights-en
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Zoom/AI meeting-transcription consent backlash highlights enterprise privacy, re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-zoom-ai-meeting-transcription-consent-backlash-highlights-en]] · [[2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit]] · [[2026-07-08-meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strateg]]
+**Related:** [[2026-07-17-zoom-ai-meeting-transcription-consent-backlash-highlights-en]] · [[2026-07-25-avoiding-ai-workshops-go-viral-at-public-libraries]] · [[2026-05-02-chatgpt-s-opt-in-by-default-advertising-tracking-for-free-us]] · [[2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit]] · [[2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter]]
 <!-- graph:end -->

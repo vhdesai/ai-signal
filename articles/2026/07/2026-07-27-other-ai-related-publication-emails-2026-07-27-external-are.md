@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
 - 2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen
-- 2026-07-25-other-ai-related-publication-emails-2026-07-25-external-weak
+- 2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau
 embedding_id: 2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Other AI-related Publication Emails - [2026-07-27] [EXTERNAL] Are your AI pilots
 
 **Entities:** [[Apple]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen]] · [[2026-07-25-other-ai-related-publication-emails-2026-07-25-external-weak]]
+**Related:** [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen]] · [[2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau]]
 <!-- graph:end -->

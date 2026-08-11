@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi
 - 2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers
+- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 - 2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur
-- 2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories
 embedding_id: 2026-06-18-google-borrows-nvidia-s-playbook-to-build-a-rival-ai-chip-bu
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Google backing Lake Mariner DC project with $3.2B guarantee; facility will lease
 
 **Entities:** [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]] · [[2026-07-30-eu-commits-10b-to-build-up-to-seven-ai-gigafactories]]
+**Related:** [[2026-05-08-a-may-8-analysis-flags-mounting-structural-evidence-that-nvi]] · [[2026-07-13-google-pushes-tpus-against-nvidia-s-most-loyal-customers]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]] · [[2026-06-11-google-in-talks-with-samsung-for-next-gen-ai-chip-manufactur]]
 <!-- graph:end -->

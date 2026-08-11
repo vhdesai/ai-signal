@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast
-- 2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development
-- 2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation
-- 2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey
+- 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
+- 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
+- 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
 embedding_id: 2026-07-29-mark-zuckerberg-says-the-u-s-should-accelerate-ai-developmen
 event_name: ''
 ---
@@ -40,5 +40,5 @@ WSJ reports that Meta CEO Mark Zuckerberg argued the U.S. should accelerate AI d
 
 **Entities:** [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-08-02-sam-altman-calls-on-the-industry-to-pace-ai-development]] · [[2026-06-25-meta-accelerates-plan-to-automate-90-of-content-moderation]] · [[2026-07-29-zuckerberg-says-meta-s-enterprise-ai-opportunity-extends-bey]]
+**Related:** [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-02-zuckerberg-tells-staff-ai-agents-haven-t-progressed-as-fast]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]]
 <!-- graph:end -->

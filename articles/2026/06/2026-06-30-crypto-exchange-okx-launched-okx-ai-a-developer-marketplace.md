@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-okx-opens-a-marketplace-where-ai-agents-hire-and-pay-each-ot
+- 2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo
 - 2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent
 - 2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about
-- 2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an
 embedding_id: 2026-06-30-crypto-exchange-okx-launched-okx-ai-a-developer-marketplace
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Crypto exchange OKX launched "OKX AI," a developer marketplace where autonomous 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-okx-opens-a-marketplace-where-ai-agents-hire-and-pay-each-ot]] · [[2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent]] · [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]] · [[2026-05-27-breaking-robinhood-launches-an-ai-agent-for-stock-trading-an]]
+**Related:** [[2026-06-30-okx-opens-a-marketplace-where-ai-agents-hire-and-pay-each-ot]] · [[2026-08-05-cloudflare-gives-ai-agents-an-identity-and-a-wallet-with-clo]] · [[2026-05-25-workos-publishes-auth-md-an-open-oauth-protocol-for-ai-agent]] · [[2026-03-20-the-information-logo-8-questions-investors-need-to-ask-about]]
 <!-- graph:end -->

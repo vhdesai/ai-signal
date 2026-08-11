@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as
+- 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 - 2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs
 - 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 - 2026-05-14-source-the-ai-track-april-27-2026
-- 2026-05-14-source-aitoolsrecap-may-9-2026
 embedding_id: 2026-04-01-a16z-backed-yupp-ai-shuts-down-as-ai-assistant-market-consol
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A16z-Backed Yupp AI Shuts Down as AI Assistant Market Consolidates
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-05-14-source-the-ai-track-april-27-2026]] · [[2026-05-14-source-aitoolsrecap-may-9-2026]]
+**Related:** [[2026-07-06-bytedance-and-alibaba-to-shut-down-user-ai-agent-creation-as]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]] · [[2026-07-24-amazon-shuts-an-ai-agent-research-lab-during-agi-layoffs]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-05-14-source-the-ai-track-april-27-2026]]
 <!-- graph:end -->

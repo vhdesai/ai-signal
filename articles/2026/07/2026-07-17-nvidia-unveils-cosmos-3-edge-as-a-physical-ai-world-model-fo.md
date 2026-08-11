@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-20-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
 - 2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m
 - 2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai
-- 2026-07-17-nvidia-japan-physical-ai-ecosystem-coverage-highlights-cosmo
-- 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
+- 2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi
+- 2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica
 embedding_id: 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia unveils Cosmos 3 Edge as a physical-AI/world model for robots and vision 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-20-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-07-17-nvidia-japan-physical-ai-ecosystem-coverage-highlights-cosmo]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
+**Related:** [[2026-07-20-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-07-21-nvidia-released-cosmos-3-edge-as-a-4b-parameter-open-world-m]] · [[2026-06-01-nvidia-launches-cosmos-3-open-world-model-for-physical-ai]] · [[2026-08-06-nvidia-details-cosmos-3-an-open-world-model-family-for-physi]] · [[2026-08-06-nvidia-argues-open-world-models-are-foundational-for-physica]]
 <!-- graph:end -->

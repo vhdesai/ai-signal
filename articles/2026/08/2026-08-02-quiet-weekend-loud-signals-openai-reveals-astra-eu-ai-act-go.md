@@ -28,6 +28,7 @@ related_article_ids:
 - 2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long
 - 2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai
 - 2026-07-12-the-weekend-signal-governance-not-model-launches
+- 2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling
 - 2026-08-02-august-3-2026
 embedding_id: 2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go
 event_name: ''
@@ -42,5 +43,5 @@ A light summer-weekend news cycle still produced a handful of consequential thre
 
 **Entities:** [[AMD]] · [[NVIDIA]] · [[OpenAI]] · [[xAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai]] · [[2026-07-12-the-weekend-signal-governance-not-model-launches]] · [[2026-08-02-august-3-2026]]
+**Related:** [[2026-08-03-openai-s-unreleased-astra-model-reports-advances-on-10-long]] · [[2026-08-01-openai-reveals-its-next-major-model-astra-inside-a-post-clai]] · [[2026-07-12-the-weekend-signal-governance-not-model-launches]] · [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling]] · [[2026-08-02-august-3-2026]]
 <!-- graph:end -->

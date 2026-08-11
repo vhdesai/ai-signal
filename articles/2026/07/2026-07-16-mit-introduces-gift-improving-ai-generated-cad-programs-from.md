@@ -21,8 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu
+- 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
+- 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 - 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
-- 2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot
 embedding_id: 2026-07-16-mit-introduces-gift-improving-ai-generated-cad-programs-from
 event_name: ''
 ---
@@ -35,5 +36,5 @@ MIT introduces GIFT, improving AI-generated CAD programs from 2D designs for 3D 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot]]
+**Related:** [[2026-06-03-mit-researchers-teach-ai-models-to-interpret-charts-and-visu]] · [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]]
 <!-- graph:end -->

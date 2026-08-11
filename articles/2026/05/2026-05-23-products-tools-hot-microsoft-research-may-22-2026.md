@@ -24,7 +24,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-microsoft-aitoolsrecap-may-10-2026
 - 2026-05-05-computerworld-microsoft-blog-may-5-2026
-- 2026-04-04-techcrunch-microsoft-blogapril-2-2026
+- 2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest
 embedding_id: 2026-05-23-products-tools-hot-microsoft-research-may-22-2026
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Microsoft]] · [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-microsoft-aitoolsrecap-may-10-2026]] · [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-04-04-techcrunch-microsoft-blogapril-2-2026]]
+**Related:** [[2026-05-18-microsoft-aitoolsrecap-may-10-2026]] · [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest]]
 <!-- graph:end -->

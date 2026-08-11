@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur
 - 2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users
 - 2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide
-- 2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha
+- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 embedding_id: 2026-06-21-tech-workers-spend-nights-and-weekends-learning-ai-tools
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider reported that many technology workers are using personal time t
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]] · [[2026-05-18-a-gartner-study-found-that-while-80-of-companies-surveyed-ha]]
+**Related:** [[2026-05-16-reports-emerged-of-amazon-employees-under-management-pressur]] · [[2026-03-31-ai-adoption-up-ai-trust-down-widening-gap-among-u-s-users]] · [[2026-05-30-30-ways-to-automate-work-in-slack-read-the-guide]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]]
 <!-- graph:end -->

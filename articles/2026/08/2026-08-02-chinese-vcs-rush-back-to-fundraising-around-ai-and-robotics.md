@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021
+- 2026-08-05-china-s-new-ai-gold-rush-world-models
 - 2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home
-- 2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc
-- 2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after
+- 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 embedding_id: 2026-08-02-chinese-vcs-rush-back-to-fundraising-around-ai-and-robotics
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Chinese venture firms are returning to fundraising with limited partners redirec
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-05-18-baidu-posts-ai-revenue-milestone-nextera-dominion-infrastruc]] · [[2026-06-29-embodied-ai-firm-x-square-robot-tops-a-2-8b-valuation-after]]
+**Related:** [[2026-05-20-china-robotics-funding-hits-5-6b-in-2026-matches-all-of-2021]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]] · [[2026-05-27-china-increasingly-retaining-its-top-ai-talent-at-home]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]]
 <!-- graph:end -->

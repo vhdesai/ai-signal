@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-04-10-mit-economics-faculty-have-published-analysis-examining-how
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
 - 2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did
+- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin
-- 2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled
 embedding_id: 2026-04-10-mit-economics-faculty-examine-ai-s-impact-on-knowledge-work
 event_name: ''
 ---
@@ -38,5 +38,5 @@ MIT Economics Faculty Examine AI's Impact on Knowledge Work and Research Product
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]] · [[2026-05-21-mit-study-technology-usually-creates-jobs-for-young-skilled]]
+**Related:** [[2026-04-10-mit-economics-faculty-have-published-analysis-examining-how]] · [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-05-21-mit-study-will-ai-create-jobs-the-way-past-technologies-did]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-05-09-mit-technology-review-published-an-in-depth-feature-examinin]]
 <!-- graph:end -->

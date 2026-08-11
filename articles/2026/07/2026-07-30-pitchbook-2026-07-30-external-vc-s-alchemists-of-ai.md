@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 - 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 embedding_id: 2026-07-30-pitchbook-2026-07-30-external-vc-s-alchemists-of-ai
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-30] [EXTERNAL] VC’s alchemists of AI
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
+**Related:** [[2026-07-13-pitchbook-2026-07-13-external-ai-s-musical-chairs]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]]
 <!-- graph:end -->

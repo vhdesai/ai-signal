@@ -20,11 +20,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-the-information-2026-08-05-external-china-s-new-ai-gold-rush
 - 2026-05-17-microsoft-copilot-ai-intelligence-briefing
 - 2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai
 - 2026-07-07-july-7-2026
 - 2026-05-23-china-ai-geopolitical-watch-hot-deepseek-china-may-5-6-2026
-- 2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s
 embedding_id: 2026-03-19-with-dan-defrancesco-jensen-huang-themed-sweater-future-of-c
 event_name: ''
 ---
@@ -37,5 +37,5 @@ with Dan DeFrancesco - Jensen Huang-themed sweater - Future of Capitalism - inte
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai]] · [[2026-07-07-july-7-2026]] · [[2026-05-23-china-ai-geopolitical-watch-hot-deepseek-china-may-5-6-2026]] · [[2026-06-24-nvidia-s-huang-calls-smuggled-chip-data-centers-a-dead-end-s]]
+**Related:** [[2026-08-05-the-information-2026-08-05-external-china-s-new-ai-gold-rush]] · [[2026-05-17-microsoft-copilot-ai-intelligence-briefing]] · [[2026-06-21-url-https-www-forbes-com-sites-digital-assets-2026-06-21-ai]] · [[2026-07-07-july-7-2026]] · [[2026-05-23-china-ai-geopolitical-watch-hot-deepseek-china-may-5-6-2026]]
 <!-- graph:end -->

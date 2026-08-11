@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: Arm
-member_count: 26
+member_count: 28
 ---
 
 # Arm
 
-> Auto-generated entity hub. 26 connected article(s).
+> Auto-generated entity hub. 28 connected article(s).
 
+- `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to|Meta releases Muse Glimmer, a 30B open-weight model built to run on one consumer GPU]]
+- `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t|AWS reportedly tells engineers to conserve CPU capacity as the compute crunch spreads]]
 - `2026-07-07` [[2026-07-07-nvidia-positions-its-vera-cpu-for-the-agentic-era-and-previe|Nvidia positions its Vera CPU for the agentic era and previews next-gen Rosa CPU / Rigel core]]
 - `2026-07-07` [[2026-07-07-nvidia-positions-vera-cpu-for-the-agentic-era-previews-next|Nvidia Positions Vera CPU for the Agentic Era, Previews Next-Gen Rosa CPU]]
 - `2026-07-07` [[2026-07-07-nvidia-frames-vera-cpu-as-max-single-threaded-cpu-at-scale-t|NVIDIA Frames Vera CPU as “Max Single-Threaded CPU at Scale”; Teases Next-Gen ‘Rigel’ Cores]]

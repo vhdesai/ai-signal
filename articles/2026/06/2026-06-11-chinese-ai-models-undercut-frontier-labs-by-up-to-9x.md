@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c
 - 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
 - 2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa
-- 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
+- 2026-08-08-daily-ai-news-digest-august-8-2026
 embedding_id: 2026-06-11-chinese-ai-models-undercut-frontier-labs-by-up-to-9x
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek and Kimi leading. Frontier economics repriced downward from all directi
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-07-07-chinese-open-models-gain-ground-with-u-s-firms-as-frontier-c]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-07-06-hardware-slips-and-governance-steps-up-as-frontier-models-pa]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]]
 <!-- graph:end -->

@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi
 - 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
-- 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
 embedding_id: 2026-08-01-pitchbook-2026-08-01-external-stress-testing-private-markets
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-08-01] [EXTERNAL] Stress-testing private markets with history
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]]
+**Related:** [[2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
 <!-- graph:end -->

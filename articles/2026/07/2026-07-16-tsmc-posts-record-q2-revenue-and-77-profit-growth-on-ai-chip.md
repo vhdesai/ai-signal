@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
+- 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
+- 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 - 2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j
-- 2026-07-17-tsmc-record-results-and-reported-planned-u-s
-- 2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest
-- 2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest
-- 2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as
+- 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
 embedding_id: 2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip
 event_name: ''
 ---
@@ -39,5 +39,5 @@ TSMC posts record Q2 revenue and 77%+ profit growth on AI-chip demand, and WSJ/T
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-07-17-tsmc-record-results-and-reported-planned-u-s]] · [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-12-tsmc-breaks-ground-on-three-more-advanced-packaging-fabs-as]]
+**Related:** [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]] · [[2026-07-13-tsmc-posts-record-q2-revenue-up-36-on-ai-demand-june-sales-j]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]]
 <!-- graph:end -->

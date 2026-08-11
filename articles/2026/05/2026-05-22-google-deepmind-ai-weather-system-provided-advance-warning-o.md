@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how
 - 2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli
-- 2026-03-24-research-science-google-deepmind
-- 2026-05-18-us-dod-google-deepmind-aitoolsrecap-may-5-9-2026
-- 2026-05-08-source-simplenews-ai-google-deepmind-published-may-7-8-2026
+- 2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai
+- 2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea
+- 2026-08-06-google-deepmind-s-weathernext-2-achieves-breakthrough-cyclon
 embedding_id: 2026-05-22-google-deepmind-ai-weather-system-provided-advance-warning-o
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Google DeepMind AI Weather System Provided Advance Warning of Hurricane Melissa 
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]]
-**Related:** [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]] · [[2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli]] · [[2026-03-24-research-science-google-deepmind]] · [[2026-05-18-us-dod-google-deepmind-aitoolsrecap-may-5-9-2026]] · [[2026-05-08-source-simplenews-ai-google-deepmind-published-may-7-8-2026]]
+**Related:** [[2026-05-22-at-google-i-o-2026-deepmind-ceo-demis-hassabis-showcased-how]] · [[2026-05-27-weathernext-aids-national-hurricane-center-on-hurricane-meli]] · [[2026-08-06-google-deepmind-s-weathernext-2-sets-state-of-the-art-in-ai]] · [[2026-08-06-google-deepmind-weathernext-improves-cyclone-forecasting-lea]] · [[2026-08-06-google-deepmind-s-weathernext-2-achieves-breakthrough-cyclon]]
 <!-- graph:end -->

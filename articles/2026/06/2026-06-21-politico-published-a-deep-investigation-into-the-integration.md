@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine
 - 2026-04-06-google-deepmind-researchers-published-a-significant-security
 - 2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why
+- 2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk
 - 2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle
-- 2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel
 embedding_id: 2026-06-21-politico-published-a-deep-investigation-into-the-integration
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Politico published a deep investigation into the integration of AI into nuclear 
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]] · [[2026-05-18-political-pressure-is-intensifying-in-washington-and-brussel]]
+**Related:** [[2026-06-21-politico-the-ai-ghost-in-the-nuclear-war-machine]] · [[2026-04-06-google-deepmind-researchers-published-a-significant-security]] · [[2026-05-08-hot-behind-washington-s-ai-safety-pivot-what-changed-and-why]] · [[2026-08-09-ai-safety-testing-itself-is-becoming-a-systemic-risk]] · [[2026-05-02-human-guided-ai-system-proposed-to-strengthen-advanced-nucle]]
 <!-- graph:end -->

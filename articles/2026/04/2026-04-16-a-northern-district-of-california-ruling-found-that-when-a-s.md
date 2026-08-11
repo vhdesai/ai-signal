@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig
 - 2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad
+- 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training
-- 2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil
 embedding_id: 2026-04-16-a-northern-district-of-california-ruling-found-that-when-a-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ A Northern District of California ruling found that when a social media platform
 
 **Entities:** [[Anthropic]] · [[Meta]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]] · [[2026-05-08-a-group-of-publishers-and-bestselling-author-scott-turow-fil]]
+**Related:** [[2026-04-14-recent-northern-district-of-california-ruling-has-opened-sig]] · [[2026-04-16-california-court-creates-liability-risk-for-ai-generated-ad]] · [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-05-05-meta-copyright-lawsuit-elevates-ceo-liability-in-ai-training]]
 <!-- graph:end -->

@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch
 - 2026-04-08-us-firms-urged-to-watch-for-iran-cyber-threats-2026-04-08-ws
+- 2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s
 - 2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs
 - 2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push
-- 2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a
 embedding_id: 2026-03-09-white-house-cyber-strategy-urges-corporate-firepower-2026-03
 event_name: ''
 ---
@@ -36,5 +36,5 @@ White House Cyber Strategy Urges Corporate Firepower [2026-03-09] · WSJ Pro Cyb
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch]] · [[2026-04-08-us-firms-urged-to-watch-for-iran-cyber-threats-2026-04-08-ws]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]]
+**Related:** [[2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch]] · [[2026-04-08-us-firms-urged-to-watch-for-iran-cyber-threats-2026-04-08-ws]] · [[2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-16-wsj-pro-cybersecurity-2026-07-16-external-thirst-for-ai-push]]
 <!-- graph:end -->

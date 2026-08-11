@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-06-29-dealbook-andrew-ross-sorkin-nyt-2026-06-29-external-dealbook
 - 2026-06-30-june-29-2026-the-information-via-the-next-web
 - 2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip
-- 2026-07-01-the-information-2026-07-01-external-the-briefing-bending-spo
-- 2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
+- 2026-08-07-the-new-york-times-the-morning-2026-08-07-external-the-morni
 embedding_id: 2026-06-29-the-information-2026-06-29-external-the-briefing-comcast-goe
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The Information - [2026-06-29] [EXTERNAL] The Briefing: Comcast Goes Back in Tim
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-29-dealbook-andrew-ross-sorkin-nyt-2026-06-29-external-dealbook]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip]] · [[2026-07-01-the-information-2026-07-01-external-the-briefing-bending-spo]] · [[2026-07-17-business-insider-2026-07-17-external-today-the-parasite-sour]]
+**Related:** [[2026-06-29-dealbook-andrew-ross-sorkin-nyt-2026-06-29-external-dealbook]] · [[2026-06-30-june-29-2026-the-information-via-the-next-web]] · [[2026-07-05-the-information-2026-07-05-external-the-briefing-memory-chip]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-08-07-the-new-york-times-the-morning-2026-08-07-external-the-morni]]
 <!-- graph:end -->

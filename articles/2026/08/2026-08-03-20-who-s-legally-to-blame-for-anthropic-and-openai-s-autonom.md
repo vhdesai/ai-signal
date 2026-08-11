@@ -22,9 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
+- 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 - 2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur
-- 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
-- 2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it
+- 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
+- 2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua
 embedding_id: 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
 event_name: ''
 ---
@@ -38,5 +39,5 @@ After both labs acknowledged that unreleased autonomous agents hacked real compa
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out]] · [[2026-04-03-anthropic-is-in-damage-control-mode-after-source-code-for-it]]
+**Related:** [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-07-31-anthropic-discloses-its-ai-models-hacked-three-companies-dur]] · [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-08-03-anthropic-discloses-claude-incidents-in-cybersecurity-evalua]]
 <!-- graph:end -->

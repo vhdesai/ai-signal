@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-microsoft-business-today-may-18-2026
 - 2026-05-05-computerworld-microsoft-blog-may-5-2026
+- 2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest
 - 2026-05-26-winbuzzer-aitoolsrecap-may-22-26-2026
 embedding_id: 2026-05-18-microsoft-aitoolsrecap-may-10-2026
 event_name: ''
@@ -36,5 +37,5 @@ Microsoft | AIToolsRecap | May 10, 2026
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-18-microsoft-business-today-may-18-2026]] · [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-05-26-winbuzzer-aitoolsrecap-may-22-26-2026]]
+**Related:** [[2026-05-18-microsoft-business-today-may-18-2026]] · [[2026-05-05-computerworld-microsoft-blog-may-5-2026]] · [[2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest]] · [[2026-05-26-winbuzzer-aitoolsrecap-may-22-26-2026]]
 <!-- graph:end -->

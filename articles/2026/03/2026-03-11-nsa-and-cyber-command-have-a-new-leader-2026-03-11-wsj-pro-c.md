@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s
 - 2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch
+- 2026-08-10-wsj-pro-cybersecurity-2026-08-10-external-beleaguered-cisa-m
 - 2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs
 - 2026-07-08-wsj-pro-cybersecurity-2026-07-08-external-new-illinois-ai-sa
-- 2026-06-11-wsj-pro-cybersecurity-no-new-wsj-pro-cybersecurity-emails-fo
-- 2026-07-11-wsj-pro-cybersecurity-no-new-wsj-pro-cybersecurity-emails-fo
 embedding_id: 2026-03-11-nsa-and-cyber-command-have-a-new-leader-2026-03-11-wsj-pro-c
 event_name: ''
 ---
@@ -33,5 +33,5 @@ NSA and Cyber Command Have a New Leader [2026-03-11] · WSJ Pro CyberSecurity
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-08-wsj-pro-cybersecurity-2026-07-08-external-new-illinois-ai-sa]] · [[2026-06-11-wsj-pro-cybersecurity-no-new-wsj-pro-cybersecurity-emails-fo]] · [[2026-07-11-wsj-pro-cybersecurity-no-new-wsj-pro-cybersecurity-emails-fo]]
+**Related:** [[2026-08-11-wsj-pro-cybersecurity-2026-08-11-external-water-sector-now-s]] · [[2026-07-15-wsj-pro-cybersecurity-2026-07-15-external-white-house-launch]] · [[2026-08-10-wsj-pro-cybersecurity-2026-08-10-external-beleaguered-cisa-m]] · [[2026-07-13-wsj-pro-cybersecurity-2026-07-13-external-ai-vs]] · [[2026-07-08-wsj-pro-cybersecurity-2026-07-08-external-new-illinois-ai-sa]]
 <!-- graph:end -->

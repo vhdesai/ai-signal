@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a
 - 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
 - 2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design
-- 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
 embedding_id: 2026-06-01-drivenets-raises-410m-series-d-at-an-8-5b-valuation
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Networking-software firm DriveNets closed a $410M Series D at an $8.5B valuation
 
 **Entities:** [[AMD]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
+**Related:** [[2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-07-29-nvidia-partner-chipagents-raises-60m-to-automate-chip-design]]
 <!-- graph:end -->

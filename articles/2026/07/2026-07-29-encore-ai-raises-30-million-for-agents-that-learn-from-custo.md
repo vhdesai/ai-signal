@@ -21,7 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
-- 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa
 embedding_id: 2026-07-29-encore-ai-raises-30-million-for-agents-that-learn-from-custo
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Encore AI raised a $30 million Series A to build AI agents trained on customer c
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
+**Related:** [[2026-07-31-smallest-ai-raises-13-million-to-build-ultra-fast-humanlike]] · [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-08-06-omilia-raises-67-million-to-scale-ai-customer-support-automa]]
 <!-- graph:end -->

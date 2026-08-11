@@ -21,8 +21,8 @@ related_article_ids:
 - 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 - 2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes
 - 2026-07-18-business-insider-2026-07-18-external-today-a-workwear-twist
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
-- 2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai
 embedding_id: 2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-05] [EXTERNAL] The new luxury real-estate uniform - 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-18-business-insider-2026-07-18-external-today-a-workwear-twist]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-31-business-insider-2026-07-31-external-today-a-hedge-fund-s-ai]]
+**Related:** [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-07-03-business-insider-2026-07-03-external-tech-memo-stars-stripes]] · [[2026-07-18-business-insider-2026-07-18-external-today-a-workwear-twist]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]]
 <!-- graph:end -->

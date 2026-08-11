@@ -18,9 +18,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-30-view-in-web-browser-the-wall-street-journal-what-you-can-do
+- 2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m
 - 2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem
 - 2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro
-- 2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec
 embedding_id: 2026-05-30-ai-cracks-a-famous-math-problem-2026-05-30-wall-street-journ
 event_name: ''
 ---
@@ -32,5 +32,5 @@ AI Cracks a Famous Math Problem [2026-05-30] · Wall Street Journal
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-30-view-in-web-browser-the-wall-street-journal-what-you-can-do]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]] · [[2026-05-28-openai-reasoning-model-disproves-an-80-year-old-erd-s-conjec]]
+**Related:** [[2026-05-30-view-in-web-browser-the-wall-street-journal-what-you-can-do]] · [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m]] · [[2026-05-21-openai-reportedly-solves-an-80-year-old-mathematical-problem]] · [[2026-05-23-openai-model-autonomously-cracks-an-80-year-old-geometry-pro]]
 <!-- graph:end -->

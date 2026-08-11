@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte
+- 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan
 - 2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor
-- 2026-05-13-conference-proceedings-published-through-springer-today-high
-- 2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl
-- 2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel
+- 2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run
 embedding_id: 2026-05-13-new-quantum-algorithm-solves-impossible-quasicrystal-simulat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Researchers published results for a quantum-inspired algorithm capable of simula
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-05-13-conference-proceedings-published-through-springer-today-high]] · [[2026-03-30-mit-uses-ai-to-characterize-atomic-defects-in-materials-impl]] · [[2026-04-04-nature-machine-intelligence-llms-successfully-predict-novel]]
+**Related:** [[2026-08-07-cornell-ai-plus-chemistry-expands-the-design-space-for-batte]] · [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-08-03-berkeley-lab-demonstrates-ai-modeling-that-accelerates-advan]] · [[2026-05-11-nature-materials-publishes-peer-reviewed-review-on-memristor]] · [[2026-08-10-discovered-materials-applies-ai-to-the-search-for-cooler-run]]
 <!-- graph:end -->

@@ -1,16 +1,30 @@
 ---
 type: entity-hub
 hub: Palantir
-member_count: 116
+member_count: 130
 ---
 
 # Palantir
 
-> Auto-generated entity hub. 116 connected article(s).
+> Auto-generated entity hub. 130 connected article(s).
 
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down|Nvidia Assembles New AI Safety Engineering Team, Doubles Down on Open-Weight Models]]
+- `2026-08-05` [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges|Palantir posts a Q2 2026 blowout: revenue up 93%, stock surges roughly 29%]]
+- `2026-08-05` [[2026-08-05-palantir-lifts-2026-guidance-as-ai-driven-commercial-demand|Palantir lifts 2026 guidance as AI-driven commercial demand accelerates]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
 - `2026-08-04` [[2026-08-04-the-information-2026-08-04-external-palantir-stock-surges-as|The Information - [2026-08-04] [EXTERNAL] Palantir Stock Surges as U.S]]
 - `2026-08-04` [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments|Palantir stock jumps 16% after Q2 blowout as AIP deployments scale]]
 - `2026-08-04` [[2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump|Palantir Stock Surges as U.S. Enterprise AI Sales Jump]]
+- `2026-08-04` [[2026-08-04-palantir-q2-revenue-grows-93-as-ai-sovereignty-demand-drives|Palantir Q2 Revenue Grows 93% as "AI Sovereignty" Demand Drives 29% Stock Surge]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-04` [[2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba|Dow Hits 54,000 as Palantir Surges and the AI Trade Roars Back]]
+- `2026-08-03` [[2026-08-03-palantir-q2-revenue-grows-93-to-1-94b-as-aip-deployments-sca|Palantir Q2 revenue grows 93% to $1.94B as AIP deployments scale]]
 - `2026-08-03` [[2026-08-03-palantir-ceo-alex-karp-calls-the-ai-industry-marxist-after-s|Palantir CEO Alex Karp calls the AI industry "Marxist" after strong quarter]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-03` [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand|10. Palantir posts blowout Q2 2026 on surging AI demand]]

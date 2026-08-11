@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-23-experts-say-exploiting-anthropic-s-fable-is-not-enough-to-ex
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 - 2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse
-- 2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting
+- 2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme
 embedding_id: 2026-07-23-experts-question-claim-that-kimi-k3-got-strong-primarily-by
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AI POLICYSANCTIONSMOONSHOT AI
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-experts-say-exploiting-anthropic-s-fable-is-not-enough-to-ex]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-07-20-moonshot-s-kimi-k3-demand-forced-a-signup-pause-highlighting]]
+**Related:** [[2026-07-23-experts-say-exploiting-anthropic-s-fable-is-not-enough-to-ex]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-18-moonshot-ai-releases-kimi-k3-a-roughly-2-8t-parameter-sparse]] · [[2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme]]
 <!-- graph:end -->

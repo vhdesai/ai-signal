@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve
 - 2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions
 - 2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce
 - 2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox
 - 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
-- 2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar
 embedding_id: 2026-07-30-business-insider-2026-07-30-external-today-meta-wants-you-to
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Business Insider - [2026-07-30] [EXTERNAL] Today: Meta wants you to trust in Zuc
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions]] · [[2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-06-16-business-insider-2026-06-16-external-introducing-cannes-diar]]
+**Related:** [[2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve]] · [[2026-06-15-business-insider-2026-06-15-external-the-galactic-ambitions]] · [[2026-07-11-business-insider-2026-07-11-external-today-the-sunglasses-ce]] · [[2026-07-07-business-insider-2026-07-07-external-today-microsoft-s-xbox]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]]
 <!-- graph:end -->

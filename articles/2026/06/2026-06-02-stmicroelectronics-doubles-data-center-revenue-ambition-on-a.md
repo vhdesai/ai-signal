@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 - 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
+- 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
 - 2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex
 - 2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch
-- 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
 embedding_id: 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ STMicroelectronics raised its 2026 data-center revenue target to roughly $1 bill
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand]]
+**Related:** [[2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-05-01-hotreplit-tracking-toward-1b-arr-cursor-in-talks-with-spacex]] · [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]]
 <!-- graph:end -->

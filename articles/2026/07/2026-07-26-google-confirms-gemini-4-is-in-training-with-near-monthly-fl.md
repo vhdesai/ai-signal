@@ -21,8 +21,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5
+- 2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p
 - 2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat
-- 2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout
 embedding_id: 2026-07-26-google-confirms-gemini-4-is-in-training-with-near-monthly-fl
 event_name: ''
 ---
@@ -36,5 +37,5 @@ On Alphabet's Q2 earnings call, Sundar Pichai said Google is "now training Gemin
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]] · [[2026-05-23-google-gemini-3-5-flash-continues-post-i-o-global-rollout]]
+**Related:** [[2026-08-07-google-confirms-gemini-4-will-replace-the-delayed-gemini-3-5]] · [[2026-08-07-google-confirms-gemini-4-supersedes-the-delayed-gemini-3-5-p]] · [[2026-05-22-google-launched-gemini-3-5-flash-at-google-i-o-2026-immediat]]
 <!-- graph:end -->

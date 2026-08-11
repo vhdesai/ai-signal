@@ -1,13 +1,29 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 291
+member_count: 307
 ---
 
 # xAI
 
-> Auto-generated entity hub. 291 connected article(s).
+> Auto-generated entity hub. 307 connected article(s).
 
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image|xAI’s Grok Imagine Image 2.0 takes #2 on Arena text-to-image and image-edit boards]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-xai-ships-grok-imagine-image-2-0-with-production-grade-editi|xAI Ships Grok Imagine Image 2.0 With Production-Grade Editing]]
+- `2026-08-08` [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti|Pokee AI releases Pokee‑Isaac 28B, a 10M-token-context agentic model built to run inside the customer boundary]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-08` [[2026-08-08-daily-ai-news-digest-august-8-2026|Daily AI News Digest – August 8, 2026]]
+- `2026-08-07` [[2026-08-07-xai-ships-grok-imagine-image-2-0-with-region-level-editing-a|xAI ships Grok Imagine Image 2.0 with region-level editing and a #2 arena ranking]]
+- `2026-08-07` [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam|xAI faces third lawsuit over alleged AI-generated CSAM]]
+- `2026-08-07` [[2026-08-07-spacex-s-terafab-ai-chip-plant-will-run-on-natural-gas-not-t|SpaceX's Terafab AI Chip Plant Will Run on Natural Gas, Not Tesla Solar]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-07` [[2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers|Amazon Behind Massive Private Gas Plant for New Data Centers]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-04` [[2026-08-04-xai-s-grok-imagine-faces-new-lawsuits-as-minnesota-nudificat|xAI's Grok Imagine faces new lawsuits as Minnesota nudification ban takes effect]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
 - `2026-08-02` [[2026-08-02-minnesota-s-nudify-ban-takes-effect-after-judge-rejects-xai|Minnesota’s “nudify” ban takes effect after judge rejects xAI’s bid to pause it]]

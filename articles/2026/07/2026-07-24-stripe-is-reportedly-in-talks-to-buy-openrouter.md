@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
+- 2026-08-07-the-information-2026-08-07-external-stripe-in-exclusive-talk
 - 2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr
 - 2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing
-- 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
-- 2026-06-30-the-information-2026-06-30-external-the-briefing-stripe-and
-- 2026-07-29-the-information-2026-07-29-external-trump-administration-ban
+- 2026-08-07-pitchbook-2026-08-07-external-stripe-s-10b-openrouter-gambit
 embedding_id: 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr]] · [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-06-30-the-information-2026-06-30-external-the-briefing-stripe-and]] · [[2026-07-29-the-information-2026-07-29-external-trump-administration-ban]]
+**Related:** [[2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi]] · [[2026-08-07-the-information-2026-08-07-external-stripe-in-exclusive-talk]] · [[2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr]] · [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-08-07-pitchbook-2026-08-07-external-stripe-s-10b-openrouter-gambit]]
 <!-- graph:end -->

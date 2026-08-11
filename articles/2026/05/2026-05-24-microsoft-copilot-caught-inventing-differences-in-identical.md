@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi
 - 2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m
 - 2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score
+- 2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c
 - 2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house
-- 2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r
-- 2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop
 embedding_id: 2026-05-24-microsoft-copilot-caught-inventing-differences-in-identical
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Mathematician Adam Kucharski showed that Microsoft Copilot, on default model set
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]] · [[2026-04-06-microsoft-introduced-multi-model-intelligence-in-copilot-s-r]] · [[2026-07-10-openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-cop]]
+**Related:** [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi]] · [[2026-04-10-microsoft-introduced-copilot-upgrades-enabling-multiple-ai-m]] · [[2026-04-06-microsoft-copilot-goes-multi-model-gpt-claude-ensemble-score]] · [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c]] · [[2026-07-07-microsoft-begins-swapping-openai-and-anthropic-for-in-house]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026
 - 2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi
+- 2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon
 - 2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system
 - 2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry
-- 2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia
 embedding_id: 2026-03-24-amd-and-meta-have-officially-expanded-their-multi-year-ai-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ AMD and Meta have officially expanded their multi-year AI infrastructure partner
 
 **Entities:** [[AMD]] · [[Meta]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi]] · [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-to-challenge-nvidia]]
+**Related:** [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-at-advancing-ai-2026]] · [[2026-07-24-amd-unveils-helios-rack-scale-ai-system-openai-meta-anthropi]] · [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon]] · [[2026-07-24-amd-takes-on-nvidia-with-helios-rack-scale-ai-system]] · [[2026-05-21-amd-to-invest-more-than-10-billion-in-taiwan-s-ai-industry]]
 <!-- graph:end -->

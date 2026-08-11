@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co
 - 2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in
+- 2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole
 - 2026-07-16-applied-computing-raises-20m-for-orbital-an-oil-and-gas-foun
 - 2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit
-- 2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b
-- 2026-07-21-cuspai-raises-450m-series-b-at-2-6b-for-ai-materials-discove
 embedding_id: 2026-05-27-orbital-industries-raises-50m-series-b-for-ai-discovered-exo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Orbital Industries raised $50M Series B to use AI for the discovery and characte
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-07-16-applied-computing-raises-20m-for-orbital-an-oil-and-gas-foun]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]] · [[2026-05-19-modular-data-center-maker-armada-raises-230m-series-b-at-2b]] · [[2026-07-21-cuspai-raises-450m-series-b-at-2-6b-for-ai-materials-discove]]
+**Related:** [[2026-08-10-discovered-materials-raises-9m-to-use-ai-agent-swarms-for-co]] · [[2026-05-29-baseten-and-orbital-industries-close-fresh-capital-for-ai-in]] · [[2026-08-10-discovered-materials-raises-seed-funding-to-use-ai-for-coole]] · [[2026-07-16-applied-computing-raises-20m-for-orbital-an-oil-and-gas-foun]] · [[2026-05-12-google-and-spacex-in-talks-to-place-ai-data-centers-in-orbit]]
 <!-- graph:end -->

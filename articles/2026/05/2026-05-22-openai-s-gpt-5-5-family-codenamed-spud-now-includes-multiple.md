@@ -26,8 +26,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot
+- 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
 - 2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6
-- 2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount
 embedding_id: 2026-05-22-openai-s-gpt-5-5-family-codenamed-spud-now-includes-multiple
 event_name: ''
 ---
@@ -41,5 +41,5 @@ OpenAI's GPT-5.5 family (codenamed "Spud") now includes multiple specialized var
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6]] · [[2026-06-23-openai-launches-gpt-5-5-cyber-and-patch-the-planet-bug-bount]]
+**Related:** [[2026-04-28-openai-releases-gpt-5-5-spud-pushes-toward-ai-super-app-hot]] · [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]] · [[2026-07-09-openai-launches-its-new-family-of-models-with-gpt-5-6]]
 <!-- graph:end -->

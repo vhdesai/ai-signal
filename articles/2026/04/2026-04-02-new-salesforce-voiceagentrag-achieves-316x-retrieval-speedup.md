@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
 - 2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio
-- 2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere
-- 2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v
+- 2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real
+- 2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl
 embedding_id: 2026-04-02-new-salesforce-voiceagentrag-achieves-316x-retrieval-speedup
 event_name: ''
 ---
@@ -39,5 +39,5 @@ event_name: ''
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-05-12-meta-stanford-propose-fast-byte-latent-transformer-50-infere]] · [[2026-07-06-openai-releases-gpt-realtime-2-1-and-gpt-realtime-2-1-mini-v]]
+**Related:** [[2026-03-30-salesforce-releases-voiceagentrag-316x-faster-retrieval-for]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-03-30-mit-released-a-testing-framework-identifying-when-ai-decisio]] · [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real]] · [[2026-08-09-nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-dupl]]
 <!-- graph:end -->

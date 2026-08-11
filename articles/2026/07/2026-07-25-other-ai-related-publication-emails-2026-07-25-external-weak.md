@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi
 - 2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are
+- 2026-08-07-other-ai-related-publication-emails-2026-08-07-daily-ai-news
+- 2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news
 - 2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news
-- 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
-- 2026-08-01-other-ai-related-publication-emails-2026-08-01-external-the
 embedding_id: 2026-07-25-other-ai-related-publication-emails-2026-07-25-external-weak
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Other AI-related Publication Emails - [2026-07-25] [EXTERNAL] Weak Tool Ruins Yo
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]] · [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-08-01-other-ai-related-publication-emails-2026-08-01-external-the]]
+**Related:** [[2026-07-18-other-ai-related-publication-emails-2026-07-18-external-capi]] · [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]] · [[2026-08-07-other-ai-related-publication-emails-2026-08-07-daily-ai-news]] · [[2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news]] · [[2026-08-03-other-ai-related-publication-emails-2026-08-03-daily-ai-news]]
 <!-- graph:end -->

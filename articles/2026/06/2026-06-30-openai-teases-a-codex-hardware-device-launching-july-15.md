@@ -20,8 +20,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square
+- 2026-08-06-openai-launches-codex-security-in-research-preview
 - 2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte
-- 2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex
 embedding_id: 2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15
 event_name: ''
 ---
@@ -34,5 +34,5 @@ OpenAI teases a Codex hardware device, launching July 15
 ## Connections
 
 **Entities:** [[OpenAI]]
-**Related:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]] · [[2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte]] · [[2026-06-30-theverge-com-ai-artificial-intelligence-959174-openai-codex]]
+**Related:** [[2026-06-30-openai-posted-a-teaser-for-a-physical-codex-device-a-square]] · [[2026-08-06-openai-launches-codex-security-in-research-preview]] · [[2026-06-30-openai-s-developer-account-teased-a-hardware-product-reporte]]
 <!-- graph:end -->

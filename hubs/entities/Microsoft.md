@@ -1,17 +1,60 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 800
+member_count: 843
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 800 connected article(s).
+> Auto-generated entity hub. 843 connected article(s).
 
+- `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
+- `2026-08-11` [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply|Anthropic Will Watermark All Claude-Generated Text to Comply with EU AI Act]]
+- `2026-08-10` [[2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai|The Information - [2026-08-10] [EXTERNAL] Microsoft's Homegrown AI Chip Effort Shows Signs of Life After Slow Start]]
+- `2026-08-10` [[2026-08-10-openai-acquires-presentation-startup-nextslide-team-folds-in|OpenAI acquires presentation startup NextSlide; team folds into ChatGPT]]
+- `2026-08-10` [[2026-08-10-microsoft-ships-multi-tenant-agent-management-in-public-prev|Microsoft ships multi-tenant agent management in public preview]]
+- `2026-08-10` [[2026-08-10-microsoft-moves-to-order-300-000-maia-300-accelerators-from|Microsoft moves to order 300,000+ Maia 300 accelerators from TSMC]]
+- `2026-08-10` [[2026-08-10-microsoft-reportedly-orders-300-000-maia-300-accelerators-fr|Microsoft Reportedly Orders 300,000+ Maia 300 Accelerators from TSMC]]
+- `2026-08-10` [[2026-08-10-microsoft-plans-10-production-ramp-of-next-gen-maia-ai-chip|Microsoft Plans 10× Production Ramp of Next-Gen Maia AI Chip]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-daily-ai-news-digest-august-10-2026|Daily AI News Digest – August 10, 2026]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-09` [[2026-08-09-adversarial-patterns-defeat-11-surveillance-camera-systems-a|Adversarial Patterns Defeat 11 Surveillance Camera Systems at Def Con]]
+- `2026-08-08` [[2026-08-08-other-ai-related-publication-emails-2026-08-08-external-the|Other AI-related Publication Emails - [2026-08-08] [EXTERNAL] The jobs report lost 103,000 jobs - [2026-08-08] Daily AI…]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-07` [[2026-08-07-power-consolidates-at-the-top-while-agents-slip-the-lab|Power Consolidates at the Top While Agents Slip the Lab]]
+- `2026-08-07` [[2026-08-07-other-ai-related-publication-emails-2026-08-07-daily-ai-news|Other AI-related Publication Emails - [2026-08-07] Daily AI News Digest variants from vdesai@microsoft.com]]
+- `2026-08-07` [[2026-08-07-microsoft-news-2026-08-07-microsoft-daily-digest|Microsoft News - [2026-08-07] Microsoft Daily Digest]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-07` [[2026-08-07-cio-dive-2026-08-07-external-aug-7-agent-breaches-multiply-m|CIO Dive - [2026-08-07] [EXTERNAL] Aug. 7 - Agent breaches multiply | Microsoft defaults to OpenAI]]
+- `2026-08-07` [[2026-08-07-anthropic-makes-auto-mode-the-default-in-claude-code-across|Anthropic makes "auto mode" the default in Claude Code across Pro, Max, and Team]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news|Other AI-related Publication Emails - [2026-08-06] Daily AI News Digest variants from vdesai@microsoft.com]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom|OpenAI launches Codex Security in research preview for automated code and PR review]]
+- `2026-08-06` [[2026-08-06-nvidia-assembles-new-ai-safety-engineering-team-doubles-down|Nvidia Assembles New AI Safety Engineering Team, Doubles Down on Open-Weight Models]]
+- `2026-08-06` [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t|Microsoft filing shows roughly 70% of its AI revenue traces to OpenAI]]
+- `2026-08-06` [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over|Microsoft Open-Sources Unit-Test AI Agent, Claims Gains Over GitHub Copilot]]
+- `2026-08-06` [[2026-08-06-microsoft-news-2026-08-06-microsoft-daily-digest|Microsoft News - [2026-08-06] Microsoft Daily Digest]]
+- `2026-08-05` [[2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model|SkillOpt shows optimized agent skills transfer across model scales and harnesses]]
+- `2026-08-05` [[2026-08-05-skillopt-shows-agent-skills-transfer-across-model-scales-and|SkillOpt shows agent skills transfer across model scales and harnesses]]
+- `2026-08-05` [[2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau|Other AI-related Publication Emails - [2026-08-05] [EXTERNAL] Claude for Admins and Executive Assistants - [2026-08-05]…]]
+- `2026-08-05` [[2026-08-05-microsoft-s-skillopt-shows-optimized-agent-skills-transfer-a|Microsoft's SkillOpt shows optimized agent “skills” transfer across models and harnesses]]
+- `2026-08-05` [[2026-08-05-microsoft-tells-engineers-to-default-github-copilot-to-opena|Microsoft tells engineers to default GitHub Copilot to OpenAI's GPT-5.6 Sol, not Claude]]
+- `2026-08-05` [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-model-in-gi|Microsoft makes OpenAI's GPT-5.6 Sol the default model in GitHub Copilot for staff]]
+- `2026-08-05` [[2026-08-05-microsoft-news-2026-08-05-microsoft-weekly-digest|Microsoft News - [2026-08-05] Microsoft Weekly Digest]]
+- `2026-08-05` [[2026-08-05-microsoft-makes-openai-s-gpt-5-6-sol-the-default-in-github-c|Microsoft Makes OpenAI's GPT-5.6 Sol the Default in GitHub Copilot for Its Own Staff]]
+- `2026-08-05` [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos|Linux Foundation Opens RFC on SAFE, a Shared Incident-Disclosure Framework for AI Agents]]
 - `2026-08-04` [[2026-08-04-other-ai-related-publication-emails-2026-08-04-external-from|Other AI-related Publication Emails - [2026-08-04] [EXTERNAL] From learning AI & ML to applying them at scale | Attend…]]
+- `2026-08-04` [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro|Open-weight models narrow capability gap while safety controls lag]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-04` [[2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter|Microsoft rolls out in-meeting reporting in Teams to counter AI deepfake participants]]
+- `2026-08-04` [[2026-08-04-microsoft-and-paige-publish-prism2-pathology-foundation-mode|Microsoft and Paige publish PRISM2 pathology foundation model]]
 - `2026-08-04` [[2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count|Microsoft adds an in-meeting “Report” button to Teams to counter AI deepfake meetings]]
+- `2026-08-04` [[2026-08-04-microsoft-teams-adds-an-in-meeting-report-button-to-counter|Microsoft Teams adds an in-meeting Report button to counter AI deepfake participants]]
 - `2026-08-04` [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee|Microsoft Teams adds a “Report” button to flag AI deepfake meetings]]
 - `2026-08-04` [[2026-08-04-microsoft-news-2026-08-04-microsoft-daily-digest-2026-08-04|Microsoft News - [2026-08-04] Microsoft Daily Digest - [2026-08-04] News you might have missed]]
+- `2026-08-04` [[2026-08-04-microsoft-expands-zero-trust-for-ai-with-new-assessment-and|Microsoft Expands Zero Trust for AI with New Assessment and DevSecOps Tools]]
 - `2026-08-04` [[2026-08-04-microsoft-closes-up-for-2026-finally|Microsoft Closes Up for 2026, Finally]]
 - `2026-08-03` [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents|Zenity raises $125M Series C to secure enterprise AI agents]]
 - `2026-08-03` [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise|Zenity raises $125M Series C to secure and govern enterprise AI agents]]

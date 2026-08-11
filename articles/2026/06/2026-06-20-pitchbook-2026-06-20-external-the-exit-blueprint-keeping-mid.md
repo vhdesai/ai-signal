@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
-- 2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew
+- 2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi
 embedding_id: 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
 event_name: ''
 ---
@@ -34,5 +34,5 @@ PitchBook - [2026-06-20] [EXTERNAL] The exit blueprint keeping mid-market PE ali
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew]]
+**Related:** [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi]]
 <!-- graph:end -->

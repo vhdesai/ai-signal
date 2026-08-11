@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor
 - 2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai
 - 2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch
-- 2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self
+- 2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model
 embedding_id: 2026-07-25-building-self-evolving-ai-agents-with-openspace-skill-lineag
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A MarkTechPost tutorial walks through building “self-evolving” AI agents wit
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-03-29-chroma-releases-context-1-20b-agentic-search-model-with-self]]
+**Related:** [[2026-05-22-moss-self-evolving-autonomous-agents-via-source-level-code-r]] · [[2026-05-27-muse-autoskill-self-evolving-agents-via-skill-creation-memor]] · [[2026-07-13-stanford-introduces-trace-a-capability-targeted-agentic-trai]] · [[2026-05-14-arxiv-harnessing-agentic-evolution-self-improving-agent-arch]] · [[2026-08-05-skillopt-shows-optimized-agent-skills-transfer-across-model]]
 <!-- graph:end -->

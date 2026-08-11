@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power
 - 2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe
 - 2026-07-15-the-information-reports-apple-received-approval-for-alibaba
+- 2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t
 - 2026-05-23-alibaba-qwen-may-21-2026
-- 2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d
 embedding_id: 2026-07-15-china-clears-apple-intelligence-to-launch-on-alibaba-qwen
 event_name: ''
 ---
@@ -41,5 +41,5 @@ China clears Apple Intelligence to launch on Alibaba Qwen.
 
 **Entities:** [[Alibaba]] · [[Apple]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power]] · [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe]] · [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-05-23-alibaba-qwen-may-21-2026]] · [[2026-05-20-alibaba-unveils-new-ai-chip-and-qwen-model-as-china-pushes-d]]
+**Related:** [[2026-07-15-alibaba-shares-rise-as-china-clears-apple-intelligence-power]] · [[2026-07-16-apple-intelligence-is-approved-for-china-through-alibaba-qwe]] · [[2026-07-15-the-information-reports-apple-received-approval-for-alibaba]] · [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t]] · [[2026-05-23-alibaba-qwen-may-21-2026]]
 <!-- graph:end -->

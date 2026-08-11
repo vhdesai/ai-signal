@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat
 - 2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control
 - 2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count
-- 2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee
-- 2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva
+- 2026-08-04-microsoft-teams-adds-an-in-meeting-report-button-to-counter
+- 2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter
 embedding_id: 2026-07-06-microsoft-teams-adds-a-meeting-ai-toggle-for-copilot-facilit
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft is rolling out a new in-meeting "Meeting AI" control in Teams that let
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat]] · [[2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control]] · [[2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count]] · [[2026-08-04-microsoft-teams-adds-a-report-button-to-flag-ai-deepfake-mee]] · [[2026-07-04-microsoft-is-reportedly-preparing-another-major-copilot-reva]]
+**Related:** [[2026-07-06-microsoft-teams-adds-meeting-ai-toggle-for-copilot-facilitat]] · [[2026-07-06-microsoft-teams-adds-a-per-meeting-meeting-ai-on-off-control]] · [[2026-08-04-microsoft-adds-an-in-meeting-report-button-to-teams-to-count]] · [[2026-08-04-microsoft-teams-adds-an-in-meeting-report-button-to-counter]] · [[2026-08-04-microsoft-rolls-out-in-meeting-reporting-in-teams-to-counter]]
 <!-- graph:end -->

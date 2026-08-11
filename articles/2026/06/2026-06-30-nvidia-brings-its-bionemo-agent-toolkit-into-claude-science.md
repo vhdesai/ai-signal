@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m
 - 2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug
 - 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
+- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
 - 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-- 2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for
 embedding_id: 2026-06-30-nvidia-brings-its-bionemo-agent-toolkit-into-claude-science
 event_name: ''
 ---
@@ -41,5 +41,5 @@ NVIDIA published a June 30 post extending its BioNeMo agent tools (Nemotron, Nem
 
 **Entities:** [[Anthropic]] · [[NVIDIA]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[2026-03-24-nvidia-open-sources-nemotron-cascade-2-efficient-30b-moe-for]]
+**Related:** [[2026-06-30-nvidia-releases-bionemo-agent-toolkit-turning-biomolecular-m]] · [[2026-06-30-nvidia-open-sourced-a-bionemo-agent-toolkit-that-wraps-drug]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]]
 <!-- graph:end -->

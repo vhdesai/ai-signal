@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
+- 2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t
 - 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
 - 2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs
-- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-- 2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and
 embedding_id: 2026-05-01-big-tech-s-ai-spend-new-middle-east-cruise-ship-competition
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Big Tech's AI Spend, New Middle East, Cruise Ship Competition [2026-05-01] · WS
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-04-06-oracle-is-reportedly-planning-layoffs-of-between-20-000-and]]
+**Related:** [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-28-big-tech-stocks-are-pricing-in-a-miracle-on-costs]]
 <!-- graph:end -->

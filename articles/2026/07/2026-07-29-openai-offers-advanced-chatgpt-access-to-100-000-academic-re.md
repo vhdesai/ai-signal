@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo
 - 2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re
 - 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
-- 2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app
+- 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 embedding_id: 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI announced free access to advanced ChatGPT models for 100,000 academic res
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-07-10-openai-introduces-chatgpt-work-a-gpt-5-6-powered-super-app]]
+**Related:** [[2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava]] · [[2026-06-21-leaked-ui-elements-suggest-openai-is-developing-a-chatgpt-fo]] · [[2026-06-21-openai-testing-chatgpt-for-science-subscription-targeting-re]] · [[2026-07-29-chatgpt-nears-1-billion-weekly-active-users]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]]
 <!-- graph:end -->

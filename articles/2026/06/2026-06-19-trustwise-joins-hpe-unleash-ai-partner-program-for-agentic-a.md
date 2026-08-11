@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra
+- 2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic
 - 2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage
 - 2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr
-- 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 embedding_id: 2026-06-19-trustwise-joins-hpe-unleash-ai-partner-program-for-agentic-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Trustwise announced it has joined HPE’s Unleash AI partner program to bring ru
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
+**Related:** [[2026-06-01-xage-pushes-zero-trust-controls-deeper-into-agentic-ai-infra]] · [[2026-08-04-open-secure-ai-alliance-proposes-safe-guidelines-for-agentic]] · [[2026-05-19-cloudflare-brings-secure-scalable-sandboxes-to-claude-manage]] · [[2026-05-28-workday-and-google-cloud-expand-ai-agent-partnership-for-hr]]
 <!-- graph:end -->

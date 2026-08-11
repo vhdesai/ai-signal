@@ -22,11 +22,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 - 2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china
 - 2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen
 - 2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions
 - 2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna
-- 2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via
 embedding_id: 2026-06-18-bipartisan-house-demands-answers-on-anthropic-export-control
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Lawmakers demanded explanation for sweeping controls on Anthropic's models — a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna]] · [[2026-08-03-anthropic-tells-congress-a-chinese-firm-distilled-claude-via]]
+**Related:** [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-05-15-anthropic-calls-for-tighter-us-chip-restrictions-on-china]] · [[2026-06-15-breaking-anthropic-to-meet-trump-officials-over-us-governmen]] · [[2026-06-05-anthropic-previously-blacklisted-eases-white-house-tensions]] · [[2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
+- 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
 - 2026-05-18-nvidia-commits-40b-in-ai-equity-deals-in-2026-ai-startup-fun
 - 2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef
 - 2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve
-- 2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts
 embedding_id: 2026-06-29-firmus-technologies-signs-nvidia-deal-for-170-000-gpus-30b-r
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Firmus Technologies signs Nvidia deal for 170,000 GPUs, ~$30B revenue potential 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-05-18-nvidia-commits-40b-in-ai-equity-deals-in-2026-ai-startup-fun]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]] · [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]]
+**Related:** [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]] · [[2026-05-18-nvidia-commits-40b-in-ai-equity-deals-in-2026-ai-startup-fun]] · [[2026-05-09-hot-nvidia-commits-40-billion-to-equity-ai-deals-in-2026-bef]] · [[2026-05-25-meta-nvidia-up-to-50b-compute-deal-context-continues-to-reve]]
 <!-- graph:end -->

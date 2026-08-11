@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
 - 2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent
 - 2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending
 - 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 - 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
-- 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 embedding_id: 2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-07-11] [EXTERNAL] Weekender: Agentic AI to disrupt $234B in Saa
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]] · [[2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi]]
+**Related:** [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]] · [[2026-08-01-cio-dive-2026-08-01-external-weekender-1-in-4-dollars-spent]] · [[2026-07-31-gartner-says-agentic-ai-could-disrupt-234b-in-saas-spending]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]]
 <!-- graph:end -->

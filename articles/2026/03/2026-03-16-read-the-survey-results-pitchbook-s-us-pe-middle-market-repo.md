@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr
 - 2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid
 - 2026-03-25-ai-market-map-2025-annual-us-pe-breakdown-2026-annual-middle
-- 2026-07-17-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben
+- 2026-07-18-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben
 embedding_id: 2026-03-16-read-the-survey-results-pitchbook-s-us-pe-middle-market-repo
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Read the survey results - PitchBook's US PE Middle Market Report - Deregulation 
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-03-25-ai-market-map-2025-annual-us-pe-breakdown-2026-annual-middle]] · [[2026-07-17-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben]]
+**Related:** [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-05-28-public-pe-giants-pivot-from-software-to-ai-physical-infrastr]] · [[2026-06-20-pitchbook-2026-06-20-external-the-exit-blueprint-keeping-mid]] · [[2026-03-25-ai-market-map-2025-annual-us-pe-breakdown-2026-annual-middle]] · [[2026-07-18-m-a-rebound-warehouse-automation-advances-europe-vc-fund-ben]]
 <!-- graph:end -->

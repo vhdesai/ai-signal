@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos
+- 2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam
 - 2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature
 - 2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking
 embedding_id: 2026-07-31-snapchat-no-longer-rewards-fully-ai-generated-spotlight-cont
@@ -34,5 +35,5 @@ TechCrunch reports that Snap updated Spotlight monetization and amplification ru
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]]
+**Related:** [[2026-07-31-snapchat-stops-rewarding-fully-ai-generated-spotlight-videos]] · [[2026-08-08-shuts-down-creator-revenue-sharing-to-curb-ai-generated-spam]] · [[2026-07-10-meta-pulls-controversial-instagram-ai-photo-editing-feature]] · [[2026-07-25-why-the-openai-agent-broke-into-hugging-face-reward-hacking]]
 <!-- graph:end -->

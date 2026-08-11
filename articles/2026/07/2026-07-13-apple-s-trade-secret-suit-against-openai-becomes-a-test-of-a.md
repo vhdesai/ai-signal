@@ -28,7 +28,7 @@ related_article_ids:
 - 2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op
 - 2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle
 - 2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef
-- 2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft
+- 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
 embedding_id: 2026-07-13-apple-s-trade-secret-suit-against-openai-becomes-a-test-of-a
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Apple's complaint alleges a former employee exploited a rare bug to download con
 
 **Entities:** [[Apple]] · [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-13-new-filings-sharpen-apple-s-trade-secret-lawsuit-against-ope]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-07-10-apple-sues-openai-over-alleged-trade-secret-theft]]
+**Related:** [[2026-07-13-new-filings-sharpen-apple-s-trade-secret-lawsuit-against-ope]] · [[2026-07-13-new-filings-sharpen-apple-s-trade-secrets-lawsuit-against-op]] · [[2026-07-13-apple-lawsuit-against-openai-adds-detailed-trade-secret-alle]] · [[2026-07-11-apple-sues-openai-over-alleged-ai-hardware-trade-secret-thef]] · [[2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened]]
 <!-- graph:end -->

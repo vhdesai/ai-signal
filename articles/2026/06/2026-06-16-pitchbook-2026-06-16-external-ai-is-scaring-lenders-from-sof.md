@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-pitchbook-2026-08-08-external-when-ai-agents-hack-investors
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 - 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
-- 2026-07-09-pitchbook-2026-07-09-external-record-vc-exits-don-t-help-all
-- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
 embedding_id: 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-16] [EXTERNAL] AI is scaring lenders from software
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-09-pitchbook-2026-07-09-external-record-vc-exits-don-t-help-all]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
+**Related:** [[2026-08-08-pitchbook-2026-08-08-external-when-ai-agents-hack-investors]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
 <!-- graph:end -->

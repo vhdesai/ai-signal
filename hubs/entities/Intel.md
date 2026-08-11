@@ -1,13 +1,28 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 67
+member_count: 82
 ---
 
 # Intel
 
-> Auto-generated entity hub. 67 connected article(s).
+> Auto-generated entity hub. 82 connected article(s).
 
+- `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-11-2026|Daily AI News Digest – August 11, 2026]]
+- `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to|Meta releases Muse Glimmer, a 30B open-weight model built to run on one consumer GPU]]
+- `2026-08-10` [[2026-08-10-intel-raises-20b-in-upsized-common-stock-offering-to-fund-ai|Intel raises $20B in upsized common stock offering to fund AI plans]]
+- `2026-08-10` [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-to-fund-a|Intel raises $15 billion in a common stock offering to fund AI chip growth]]
+- `2026-08-10` [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat|Intel raises $15 billion in a common stock offering on AI data center demand]]
+- `2026-08-10` [[2026-08-10-intel-launches-a-15b-stock-offering-to-fund-its-ai-and-found|Intel launches a $15B stock offering to fund its AI and foundry push]]
+- `2026-08-10` [[2026-08-10-intel-announces-a-15-billion-common-stock-offering-citing-ai|Intel announces a $15 billion common stock offering, citing AI demand]]
+- `2026-08-10` [[2026-08-10-intel-announces-15b-common-stock-offering-citing-ai-demand|Intel announces $15B common stock offering, citing AI demand]]
+- `2026-08-10` [[2026-08-10-intel-announces-15-billion-common-stock-offering-citing-ai-d|Intel Announces $15 Billion Common Stock Offering, Citing AI Demand]]
+- `2026-08-09` [[2026-08-09-daily-ai-news-digest-august-10-2026|Daily AI News Digest – August 10, 2026]]
+- `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t|AWS reportedly tells engineers to conserve CPU capacity as the compute crunch spreads]]
+- `2026-08-06` [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in|Nvidia still dominates AI chips, but BofA sees AMD closing in]]
+- `2026-08-04` [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents|Zenity Raises $125M Series C to Secure Enterprise AI Agents]]
+- `2026-08-04` [[2026-08-04-nvidia-pushes-ai-storage-stack-at-future-of-memory-and-stora|NVIDIA pushes AI storage stack at Future of Memory and Storage]]
+- `2026-08-04` [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi|NSF commits $100M to regional AI infrastructure hubs with NVIDIA, AMD, Intel and Dell]]
 - `2026-07-30` [[2026-07-30-the-information-2026-07-30-external-exclusive-thinking-machi|The Information - [2026-07-30] [EXTERNAL] Exclusive: Thinking Machines Cofounder to Return to OpenAI - [2026-07-30]…]]
 - `2026-07-30` [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu|TSMC works on advanced AI chip packaging as the infrastructure bottleneck shifts]]
 - `2026-07-30` [[2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel|TSMC develops AI chip-packaging technology to counter Intel]]

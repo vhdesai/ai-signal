@@ -29,6 +29,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight
+- 2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi
 - 2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput
 - 2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a
 embedding_id: 2026-05-26-wsj-pro-cybersecurity-reports-that-enterprise-security-leade
@@ -44,5 +45,5 @@ Huawei narrows chip gap with TSMC despite U.S. sanctions; Jensen Huang concedes 
 
 **Entities:** [[Huawei]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]]
+**Related:** [[2026-05-26-cyber-leaders-brace-for-fragmented-ai-oversight]] · [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi]] · [[2026-05-26-huawei-s-ai-chip-progress-sharpens-the-geopolitics-of-comput]] · [[2026-07-07-wsj-pro-cybersecurity-2026-07-07-external-ai-is-full-steam-a]]
 <!-- graph:end -->

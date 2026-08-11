@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be
 - 2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents
 - 2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr
-- 2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The intelligence agencies of the United States, United Kingdom, Canada, Australi
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]] · [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]]
+**Related:** [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]] · [[2026-06-22-five-eyes-warning-says-destabilizing-ai-capabilities-may-be]] · [[2026-05-04-five-eyes-nations-urge-careful-adoption-of-ai-agents]] · [[2026-04-22-openai-has-spent-the-past-week-conducting-briefings-for-appr]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

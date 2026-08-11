@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
+- 2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade
 - 2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the
+- 2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le
 - 2026-06-27-a-consequential-24-hours-for-the-ai-industry
-- 2026-07-29-wednesday-july-29-2026
-- 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
 embedding_id: 2026-07-22-cheaper-agents-sovereign-compute-and-a-power-hungry-buildout
 event_name: ''
 ---
@@ -36,5 +36,5 @@ The past 24 hours were defined by a decisive move toward cheaper, faster agentic
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]] · [[2026-06-27-a-consequential-24-hours-for-the-ai-industry]] · [[2026-07-29-wednesday-july-29-2026]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]]
+**Related:** [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade]] · [[2026-07-03-enterprises-move-in-big-tech-builds-deployment-armies-as-the]] · [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le]] · [[2026-06-27-a-consequential-24-hours-for-the-ai-industry]]
 <!-- graph:end -->

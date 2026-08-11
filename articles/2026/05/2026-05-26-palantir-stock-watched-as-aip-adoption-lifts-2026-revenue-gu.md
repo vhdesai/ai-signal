@@ -23,9 +23,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
+- 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
 - 2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133
-- 2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan
 embedding_id: 2026-05-26-palantir-stock-watched-as-aip-adoption-lifts-2026-revenue-gu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Palantir traded at $136 on May 26 as analyst attention focused on the company's 
 
 **Entities:** [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]] · [[2026-05-14-palantir-q1-2026-u-s-revenue-104-yoy-raises-full-year-guidan]]
+**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-05-04-palantir-q1-2026-revenue-85-yoy-u-s-commercial-133]]
 <!-- graph:end -->

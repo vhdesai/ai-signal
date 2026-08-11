@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio
+- 2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac
 - 2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin
 - 2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o
 - 2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned
-- 2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks
 embedding_id: 2026-07-06-princeton-privileged-self-distillation-can-degrade-reasoning
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Princeton team shows that "privileged" self-distillation — letting a model t
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o]] · [[2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned]] · [[2026-05-28-new-causal-explanation-method-targets-llm-jailbreaks]]
+**Related:** [[2026-05-28-restoring-the-sweet-spot-pass-rate-weighted-self-distillatio]] · [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac]] · [[2026-04-23-bair-and-mit-csail-publish-joint-work-on-verifiable-reasonin]] · [[2026-07-10-persuasion-attacks-can-decrease-the-effectiveness-of-chain-o]] · [[2026-07-10-overthinking-amplifying-reasoning-weights-to-extract-learned]]
 <!-- graph:end -->

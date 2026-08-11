@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip
 - 2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high
 - 2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r
+- 2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev
 - 2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p
-- 2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q
 embedding_id: 2026-05-20-trending-nvidia-q1-fy2027-earnings-reports-after-market-clos
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia reports Q1 FY2027 results (period ending April 26, 2026) after market clo
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]] · [[2026-05-25-nvidia-announces-additional-80b-stock-buyback-after-record-q]]
+**Related:** [[2026-08-01-nvidia-to-report-q2-fy2027-results-on-august-26-with-ai-chip]] · [[2026-05-14-nvidia-heads-into-q1-earnings-with-chip-stocks-at-fresh-high]] · [[2026-05-18-trending-nvidia-reports-fiscal-q1-2027-earnings-may-20-79b-r]] · [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev]] · [[2026-05-20-the-ai-spending-mirage-nvidia-needs-to-sell-more-chips-not-p]]
 <!-- graph:end -->

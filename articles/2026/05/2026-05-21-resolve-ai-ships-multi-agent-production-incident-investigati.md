@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro
 - 2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us
 - 2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern
-- 2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime
 embedding_id: 2026-05-21-resolve-ai-ships-multi-agent-production-incident-investigati
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Resolve AI launched a multi-agent investigation system that dispatches coordinat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]] · [[2026-05-20-llm-agents-for-science-multi-agent-systems-automate-experime]]
+**Related:** [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-24-venturebeat-ai-agents-are-creating-an-untracked-class-of-pro]] · [[2026-05-15-recursivemas-speeds-multi-agent-inference-2-4x-cuts-token-us]] · [[2026-07-24-enterprises-deploying-ai-agents-faster-than-they-can-govern]]
 <!-- graph:end -->

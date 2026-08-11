@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news
 - 2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round
+- 2026-08-06-wall-street-journal-wsj-2026-08-06-external-the-10-point-goo
+- 2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t
 - 2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round
-- 2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an
-- 2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how
 embedding_id: 2026-06-17-wall-street-journal-wsj-2026-06-17-external-wsj-technology-a
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Wall Street Journal / WSJ - [2026-06-17] [EXTERNAL] WSJ Technology Alert: Apple 
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]] · [[2026-07-27-wall-street-journal-wsj-2026-07-27-external-the-10-point-an]] · [[2026-07-17-wall-street-journal-wsj-2026-07-17-external-the-10-point-how]]
+**Related:** [[2026-06-18-wall-street-journal-wsj-2026-06-18-external-the-latest-news]] · [[2026-06-16-wall-street-journal-wsj-2026-06-16-external-your-daily-round]] · [[2026-08-06-wall-street-journal-wsj-2026-08-06-external-the-10-point-goo]] · [[2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t]] · [[2026-07-01-wall-street-journal-wsj-2026-07-01-external-your-daily-round]]
 <!-- graph:end -->

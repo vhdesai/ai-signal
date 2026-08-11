@@ -1,13 +1,24 @@
 ---
 type: entity-hub
 hub: Databricks
-member_count: 82
+member_count: 93
 ---
 
 # Databricks
 
-> Auto-generated entity hub. 82 connected article(s).
+> Auto-generated entity hub. 93 connected article(s).
 
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-08` [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c|AI Use Accusations Become a Reputational "Scarlet Letter" in Creative Industries]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-07` [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language|Databricks adds ai_search() SQL function and natural-language Tag automations]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-databricks-releases-enterprise-grounded-reasoning-benchmark|Databricks Releases Enterprise Grounded-Reasoning Benchmark, Adds Kimi K3 to Model Marketplace]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct|Databricks makes Variant generally available for semi-structured data]]
 - `2026-08-03` [[2026-08-03-databricks-completes-panther-acquisition-to-build-security-l|Databricks completes Panther acquisition to build security lakehouse strategy]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]

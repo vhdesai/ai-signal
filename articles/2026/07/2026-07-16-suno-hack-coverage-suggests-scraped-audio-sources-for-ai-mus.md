@@ -20,6 +20,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr
+- 2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs
 - 2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in
 - 2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m
 - 2026-07-21-sony-music-sues-udio-again-alleging-infringement-of-30-000-t
@@ -35,5 +37,5 @@ Suno hack coverage suggests scraped audio sources for AI music training and adds
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-07-21-sony-music-sues-udio-again-alleging-infringement-of-30-000-t]]
+**Related:** [[2026-08-06-suno-says-it-will-watermark-ai-generated-songs-amid-legal-pr]] · [[2026-08-06-suno-says-it-will-start-watermarking-ai-generated-songs]] · [[2026-07-09-news-organizations-ask-a-federal-court-to-sanction-openai-in]] · [[2026-04-03-google-upgraded-vids-with-veo-3-1-video-generation-lyria-3-m]] · [[2026-07-21-sony-music-sues-udio-again-alleging-infringement-of-30-000-t]]
 <!-- graph:end -->

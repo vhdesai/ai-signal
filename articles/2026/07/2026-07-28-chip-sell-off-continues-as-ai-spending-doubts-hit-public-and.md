@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip
+- 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 - 2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay
 - 2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize
 - 2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip
-- 2026-08-02-market-turmoil-exposes-a-circular-and-opaque-ai-economy-rest
 embedding_id: 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Investors continued rotating out of chip and memory stocks as concerns grew over
 ## Connections
 
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]] · [[2026-08-02-market-turmoil-exposes-a-circular-and-opaque-ai-economy-rest]]
+**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]] · [[2026-06-26-ai-equities-sell-off-as-openai-reportedly-leans-toward-delay]] · [[2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize]] · [[2026-06-27-n-g-breaking-nvidia-alphabet-sit-out-megacap-bounce-as-chip]]
 <!-- graph:end -->

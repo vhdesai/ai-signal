@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil
 - 2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int
 - 2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot
 - 2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world
 - 2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th
-- 2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i
 embedding_id: 2026-05-04-mit-students-build-a-wearable-ai-human-operator-that-drives
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A team won MIT's Hard Mode hackathon with a system that pairs computer-vision go
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]] · [[2026-06-30-mit-s-phillip-isola-on-what-agentic-ai-is-and-what-we-want-i]]
+**Related:** [[2026-08-05-mit-unveils-personalized-physical-therapy-for-stroke-rehabil]] · [[2026-05-30-meta-s-reported-ai-pendant-extends-the-fight-for-ambient-int]] · [[2026-07-15-mit-scenesmith-uses-collaborating-ai-agents-to-create-robot]] · [[2026-07-07-mit-how-novice-coders-can-develop-ai-programs-for-real-world]] · [[2026-07-08-meta-tests-always-on-super-sensing-ai-glasses-that-record-th]]
 <!-- graph:end -->

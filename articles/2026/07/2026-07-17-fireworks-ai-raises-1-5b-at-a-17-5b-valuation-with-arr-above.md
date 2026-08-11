@@ -20,10 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
 - 2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in
 - 2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 embedding_id: 2026-07-17-fireworks-ai-raises-1-5b-at-a-17-5b-valuation-with-arr-above
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Fireworks AI raises $1.5B at a $17.5B valuation, with ARR above $1B and more tha
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]]
+**Related:** [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-07-17-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-07-18-databricks-reaches-raises-at-a-188b-valuation-underlining-in]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

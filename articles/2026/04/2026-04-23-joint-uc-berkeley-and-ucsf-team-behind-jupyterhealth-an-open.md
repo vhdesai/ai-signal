@@ -27,11 +27,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood
 - 2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini
+- 2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop
 - 2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par
 - 2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s
-- 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru
 embedding_id: 2026-04-23-joint-uc-berkeley-and-ucsf-team-behind-jupyterhealth-an-open
 event_name: ''
 ---
@@ -44,5 +44,5 @@ Stanford AI Index 2026: Faster Progress, Bigger Costs, Growing Public Trust Gap
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-05-27-openai-foundation-commits-initial-250m-to-ai-workforce-disru]]
+**Related:** [[2026-08-06-stanford-awarded-up-to-27-2m-by-arpa-h-for-ai-powered-blood]] · [[2026-04-13-stanford-ai-index-world-ai-compute-grows-3-3-per-year-traini]] · [[2026-08-06-stanford-and-arc-institute-use-ai-to-design-viable-bacteriop]] · [[2026-05-22-anthropic-and-gates-foundation-announce-200m-ai-for-good-par]] · [[2026-04-12-stanford-s-institute-for-human-centered-ai-hosted-a-causal-s]]
 <!-- graph:end -->

@@ -26,9 +26,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te
 - 2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting
-- 2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea
-- 2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect
-- 2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029
+- 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex
+- 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon
+- 2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl
 embedding_id: 2026-05-07-spacex-files-plans-for-55b-terafab-chip-factory-in-texas
 event_name: ''
 ---
@@ -42,5 +42,5 @@ SpaceX has filed plans for a $55B semiconductor fabrication facility in Texas du
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting]] · [[2026-05-14-anthropic-disclosed-q1-2026-revenue-growing-80-year-over-yea]] · [[2026-04-23-ahead-of-its-anticipated-ipo-spacex-has-signaled-to-prospect]] · [[2026-05-26-spacex-s-1-reveals-45b-anthropic-compute-deal-through-2029]]
+**Related:** [[2026-05-18-spacex-filed-plans-for-a-55b-chip-fabrication-facility-in-te]] · [[2026-05-18-spacex-plans-55b-terafab-chip-factory-in-texas-ipo-targeting]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-chip-complex-in-tex]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-a-new-texas-semicon]] · [[2026-08-06-tesla-and-spacex-commit-16-8b-to-terafab-semiconductor-compl]]
 <!-- graph:end -->

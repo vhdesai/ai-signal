@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
+- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
+- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a
-- 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials
-- 2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi
-- 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 embedding_id: 2026-07-17-anthropic-s-high-compensation-ai-job-tech-memo-capex-spiral
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic's high-compensation AI job, Tech Memo capex spiral, Amazon automation 
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]]
+**Related:** [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-06-30-amazon-is-evaluating-cheaper-alternatives-including-openai-a]]
 <!-- graph:end -->

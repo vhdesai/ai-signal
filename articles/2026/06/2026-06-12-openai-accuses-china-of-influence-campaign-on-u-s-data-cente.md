@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re
+- 2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic
 - 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 - 2026-07-24-the-us-china-ai-fight-moves-from-benchmarks-to-accusations
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
-- 2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th
 embedding_id: 2026-06-12-openai-accuses-china-of-influence-campaign-on-u-s-data-cente
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Direct accusation naming China. Escalates from industry lobbying to national-sec
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-24-the-us-china-ai-fight-moves-from-benchmarks-to-accusations]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-07-27-china-vows-all-necessary-measures-against-us-ai-sanctions-th]]
+**Related:** [[2026-06-04-ai-industry-groups-claim-china-is-fueling-u-s-data-center-re]] · [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]] · [[2026-07-24-the-us-china-ai-fight-moves-from-benchmarks-to-accusations]] · [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]]
 <!-- graph:end -->

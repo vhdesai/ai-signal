@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand
 - 2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall
 - 2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and
 - 2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan
 - 2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product
-- 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 embedding_id: 2026-07-20-zhongji-innolight-targets-hong-kong-listing-on-ai-networking
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]]
+**Related:** [[2026-08-10-tsmc-july-revenue-surges-45-yoy-on-ai-chip-demand]] · [[2026-07-08-china-s-zhipu-ai-seeks-4b-in-hong-kong-share-sale-after-rall]] · [[2026-06-28-baidu-s-chip-unit-kunlunxin-targets-a-50b-hong-kong-ipo-and]] · [[2026-07-07-beijing-weighs-curbing-overseas-access-to-china-s-most-advan]] · [[2026-05-14-cisco-shares-jump-18-as-cloud-providers-increase-ai-product]]
 <!-- graph:end -->

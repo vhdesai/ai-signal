@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-pitchbook-2026-08-08-external-when-ai-agents-hack-investors
 - 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
 - 2026-06-28-pitchbook-2026-06-28-external-why-billions-are-flowing-into
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
-- 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
-- 2026-07-04-pitchbook-2026-07-04-external-sustainable-investings-toughes
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 embedding_id: 2026-06-07-pitchbook-2026-06-07-external-could-ai-cyber-threats-spark-a
 event_name: ''
 ---
@@ -34,5 +34,5 @@ PitchBook - [2026-06-07] [EXTERNAL] Could AI cyber threats spark an investment w
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-06-28-pitchbook-2026-06-28-external-why-billions-are-flowing-into]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-04-pitchbook-2026-07-04-external-sustainable-investings-toughes]]
+**Related:** [[2026-08-08-pitchbook-2026-08-08-external-when-ai-agents-hack-investors]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]] · [[2026-06-28-pitchbook-2026-06-28-external-why-billions-are-flowing-into]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]]
 <!-- graph:end -->

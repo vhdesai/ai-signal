@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi
 - 2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy
+- 2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o
+- 2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo
 - 2026-07-15-google-expands-ai-tools-education-programs-healthcare-cyber
-- 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
-- 2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri
 embedding_id: 2026-05-09-openai-google-enterprise-ai-push-threatens-india-s-it-servic
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI & Google Enterprise AI Push Threatens India's IT Services Sector
 
 **Entities:** [[Google]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-07-15-google-expands-ai-tools-education-programs-healthcare-cyber]] · [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-14-at-i-o-connect-india-google-expands-gemini-live-and-enterpri]]
+**Related:** [[2026-05-09-a-new-analysis-highlighted-today-by-moneycontrol-and-amplifi]] · [[2026-04-23-openai-announced-a-partnership-with-it-services-giant-infosy]] · [[2026-08-06-google-s-15b-india-ai-data-center-faces-water-and-wildlife-o]] · [[2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo]] · [[2026-07-15-google-expands-ai-tools-education-programs-healthcare-cyber]]
 <!-- graph:end -->

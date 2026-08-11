@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
+- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
 - 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 embedding_id: 2026-07-13-infrastructure-local-policy-data-centers
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Axios reports that New Orleans has paused data-center activity amid rising local
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]]
-**Related:** [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
+**Related:** [[2026-07-13-new-orleans-pauses-data-center-approvals-amid-ai-backlash]] · [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi]]
 <!-- graph:end -->

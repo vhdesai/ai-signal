@@ -26,7 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
-- 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
+- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 embedding_id: 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic reportedly asked SK Hynix for semiconductor materials tied to custom A
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Google]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p]]
+**Related:** [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to]] · [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]]
 <!-- graph:end -->

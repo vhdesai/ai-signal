@@ -30,10 +30,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-07-july-7-2026
+- 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and
 - 2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha
-- 2026-08-01-daily-ai-news-digest-august-1-2026
 embedding_id: 2026-08-01-the-ai-brief-august-1-2026
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Today's cycle was driven by AI infrastructure economics and safety fallout rathe
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[ByteDance]] · [[DeepSeek]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-07-july-7-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]] · [[2026-08-01-daily-ai-news-digest-august-1-2026]]
+**Related:** [[2026-07-07-july-7-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-08-01-infrastructure-over-hype-record-ai-capex-a-memory-crunch-and]] · [[2026-07-06-nvidia-s-next-gen-rack-slips-to-2028-amazon-winds-down-mecha]]
 <!-- graph:end -->

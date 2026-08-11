@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch
 - 2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast
 - 2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
-- 2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its
 embedding_id: 2026-07-26-microsoft-reportedly-rations-compute-prioritizing-its-own-ai
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Business Insider reports Microsoft is sufficiently compute-constrained that it i
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-07-07-microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its]]
+**Related:** [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch]] · [[2026-05-04-compute-is-destiny-google-s-surge-validates-altman-s-infrast]] · [[2026-07-30-microsoft-is-openly-competing-with-openai-and-anthropic]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
 <!-- graph:end -->

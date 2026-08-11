@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-09-can-ai-answer-the-3-trillion-question
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
 - 2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2
+- 2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom
 - 2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat
-- 2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom
 embedding_id: 2026-07-26-ai-infrastructure-financing-gets-creative-as-projected-needs
 event_name: ''
 ---
@@ -37,5 +37,5 @@ The Information reports that bankers and investors are searching for capital to 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]] · [[2026-06-03-goldman-sachs-private-capital-to-finance-ai-data-center-boom]]
+**Related:** [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-07-14-softbank-s-masayoshi-son-says-ai-will-require-5t-a-year-by-2]] · [[2026-08-07-big-tech-is-borrowing-its-way-through-the-ai-boom]] · [[2026-07-13-ai-data-center-buildout-emerges-as-a-fresh-inflation-threat]]
 <!-- graph:end -->

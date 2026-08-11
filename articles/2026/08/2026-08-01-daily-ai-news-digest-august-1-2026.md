@@ -27,11 +27,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-07-29-daily-ai-news-digest-july-30-2026
 - 2026-06-27-daily-ai-news-digest-june-27-2026
+- 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-05-20-ai-news-digest-may-20-2026
-- 2026-05-14-daily-ai-news-digest-may-14-2026
-- 2026-06-26-daily-ai-news-digest-june-26-2026
 embedding_id: 2026-08-01-daily-ai-news-digest-august-1-2026
 event_name: ''
 ---
@@ -45,5 +45,5 @@ Source window: 2026-07-31 06:00 PDT to 2026-08-01 06:00 PDT The last 24 hours we
 
 **Entities:** [[Amazon]] · [[Anthropic]] · [[Apple]] · [[DeepSeek]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]] · [[2026-05-14-daily-ai-news-digest-may-14-2026]] · [[2026-06-26-daily-ai-news-digest-june-26-2026]]
+**Related:** [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-07-29-daily-ai-news-digest-july-30-2026]] · [[2026-06-27-daily-ai-news-digest-june-27-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-05-20-ai-news-digest-may-20-2026]]
 <!-- graph:end -->

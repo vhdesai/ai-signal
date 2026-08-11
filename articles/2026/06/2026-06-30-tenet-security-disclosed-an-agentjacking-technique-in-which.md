@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c
+- 2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
+- 2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a
 - 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
-- 2026-06-30-venturebeat-com-security-the-attack-that-hijacked-claude-cod
-- 2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu
 embedding_id: 2026-06-30-tenet-security-disclosed-an-agentjacking-technique-in-which
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Tenet Security disclosed an "agentjacking" technique in which a single fake erro
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]] · [[2026-06-30-venturebeat-com-security-the-attack-that-hijacked-claude-cod]] · [[2026-04-04-an-autonomous-ai-agent-leveraging-claude-exploited-kernel-vu]]
+**Related:** [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-08-11-ghostsplice-malicious-mcp-servers-split-instructions-to-make]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-08-10-claude-agent-gym-hack-raises-questions-about-user-deployed-a]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
 <!-- graph:end -->

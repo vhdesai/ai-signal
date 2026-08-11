@@ -25,8 +25,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame
 - 2026-07-19-alibaba-previews-qwen3-8-max-and-signals-a-2-4t-parameter-op
+- 2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti
 - 2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race
-- 2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c
 embedding_id: 2026-07-21-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Alibaba previewed Qwen3.8-Max / Qwen 3.8, a claimed 2.4T-parameter multimodal mo
 
 **Entities:** [[Alibaba]] · [[Anthropic]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-20-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame]] · [[2026-07-19-alibaba-previews-qwen3-8-max-and-signals-a-2-4t-parameter-op]] · [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race]] · [[2026-08-03-alibaba-launches-qwen3-8-max-a-2-4t-parameter-moe-aimed-at-c]]
+**Related:** [[2026-07-20-alibaba-previewed-qwen3-8-max-qwen-3-8-a-claimed-2-4t-parame]] · [[2026-07-19-alibaba-previews-qwen3-8-max-and-signals-a-2-4t-parameter-op]] · [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti]] · [[2026-08-03-alibaba-qwen3-8-max-raises-the-bar-in-china-s-model-race]]
 <!-- graph:end -->

@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 - 2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-06-07-wsj-the-artificial-intelligence-backlash
-- 2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov
 embedding_id: 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]] · [[2026-05-19-wsj-ai-market-signals-are-getting-soapy-but-not-yet-fully-ov]]
+**Related:** [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]] · [[2026-08-01-wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay]] · [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-06-07-wsj-the-artificial-intelligence-backlash]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 - 2026-07-20-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact
 - 2026-07-21-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact
+- 2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
-- 2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr
 embedding_id: 2026-07-20-ai-driven-drug-development-is-accelerating-with-the-bms-nvid
 event_name: ''
 ---
@@ -39,5 +39,5 @@ AI-driven drug development is accelerating, with the BMS-NVIDIA AI factory as a 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-07-20-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact]] · [[2026-07-21-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-04-20-nvidia-research-via-marktechpost-april-14-2026-coverage-apr]]
+**Related:** [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]] · [[2026-07-20-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact]] · [[2026-07-21-ai-guided-brain-tumor-vessel-mapping-and-drug-discovery-fact]] · [[2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
 <!-- graph:end -->

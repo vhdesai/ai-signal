@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en
+- 2026-08-04-zenity-raises-125m-series-c-for-ai-agent-security
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
-- 2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance
-- 2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile
+- 2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 embedding_id: 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Hush Security raised a $30M Series A for a machine-access platform that enrolls 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance]] · [[2026-06-25-enterprise-ai-funding-stays-hot-norm-ai-raises-120m-taktile]]
+**Related:** [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-05-27-geordie-ai-raises-30m-series-a-for-air-traffic-control-of-en]] · [[2026-08-04-zenity-raises-125m-series-c-for-ai-agent-security]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]]
 <!-- graph:end -->

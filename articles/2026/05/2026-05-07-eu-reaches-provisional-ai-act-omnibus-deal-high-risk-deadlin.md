@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m
 - 2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu
+- 2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add
 - 2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica
-- 2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching
 embedding_id: 2026-05-07-eu-reaches-provisional-ai-act-omnibus-deal-high-risk-deadlin
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In an early-morning marathon session on May 7, the European Parliament and Counc
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]] · [[2026-05-11-trendingeu-ai-act-high-risk-compliance-deadline-approaching]]
+**Related:** [[2026-05-10-eu-ai-act-amended-compliance-deadlines-extended-industrial-m]] · [[2026-05-07-eu-ai-act-simplification-deal-delays-high-risk-rules-bans-nu]] · [[2026-08-05-eu-digital-omnibus-on-ai-delays-key-ai-act-deadlines-and-add]] · [[2026-06-29-eu-council-gives-final-approval-to-ai-act-omnibus-simplifica]]
 <!-- graph:end -->

@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
+- 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 - 2026-07-13-semiconductors-earnings-ai-supply-chain
 - 2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts
-- 2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem
-- 2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia
-- 2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on
+- 2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman
 embedding_id: 2026-05-23-semiconductor-market-posts-25-q1-growth-its-biggest-jump-in
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Global semiconductor revenue posted its largest quarterly increase in more than 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]] · [[2026-07-10-micron-expands-u-s-investment-to-250b-through-2035-on-ai-mem]] · [[2026-06-07-1-3-trillion-semiconductor-selloff-rattles-ai-stocks-nvidia]] · [[2026-07-10-micron-expands-u-s-investment-to-about-250b-through-2035-on]]
+**Related:** [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-07-13-semiconductors-earnings-ai-supply-chain]] · [[2026-05-23-nvidia-posts-another-record-quarter-81-6b-revenue-forecasts]] · [[2026-08-10-tsmc-july-revenue-rises-44-7-year-over-year-on-ai-chip-deman]]
 <!-- graph:end -->

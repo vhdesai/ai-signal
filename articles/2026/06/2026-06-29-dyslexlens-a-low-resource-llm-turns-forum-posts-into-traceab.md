@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
 - 2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi
 - 2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho
-- 2026-08-04-other-ai-related-publication-emails-2026-08-04-external-from
 embedding_id: 2026-06-29-dyslexlens-a-low-resource-llm-turns-forum-posts-into-traceab
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DysLexLens: a low-resource LLM turns forum posts into traceable knowledge-graph 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-08-04-other-ai-related-publication-emails-2026-08-04-external-from]]
+**Related:** [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-06-30-meta-ai-unveils-brain2qwerty-v2-a-non-invasive-brain-to-text]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi]] · [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]]
 <!-- graph:end -->

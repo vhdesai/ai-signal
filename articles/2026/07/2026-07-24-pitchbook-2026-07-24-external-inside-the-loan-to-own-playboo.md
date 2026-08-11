@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
 - 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
-- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 embedding_id: 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-24] [EXTERNAL] Inside the loan-to-own playbook
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
+**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]]
 <!-- graph:end -->

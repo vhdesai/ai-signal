@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a
 - 2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce
 - 2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re
+- 2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati
 - 2026-07-12-can-a-prettier-data-center-curb-the-community-backlash
-- 2026-07-12-the-fight-against-ai-data-centers-is-just-beginning
 embedding_id: 2026-07-15-state-local-data-center-permitting-backlash-becomes-a-materi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ State/local data-center permitting backlash becomes a material AI infrastructure
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-07-12-can-a-prettier-data-center-curb-the-community-backlash]] · [[2026-07-12-the-fight-against-ai-data-centers-is-just-beginning]]
+**Related:** [[2026-07-14-state-and-local-backlash-turns-data-center-permitting-into-a]] · [[2026-05-14-the-ai-backlash-could-get-ugly-political-violence-at-data-ce]] · [[2026-07-30-data-center-buildout-backlash-new-york-moratorium-signals-re]] · [[2026-08-10-local-bans-and-restrictions-on-ai-data-centers-pass-500-nati]] · [[2026-07-12-can-a-prettier-data-center-curb-the-community-backlash]]
 <!-- graph:end -->

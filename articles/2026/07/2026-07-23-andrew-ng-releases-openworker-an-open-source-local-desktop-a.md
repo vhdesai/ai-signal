@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
 - 2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb
-- 2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst
+- 2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi
 embedding_id: 2026-07-23-andrew-ng-releases-openworker-an-open-source-local-desktop-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-openclaw-ships-ios-and-android-companion-apps-for-self-hoste]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst]]
+**Related:** [[2026-06-30-openclaw-ships-ios-and-android-companion-apps-for-self-hoste]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-04-16-the-april-15-update-to-openai-s-agents-sdk-adds-native-sandb]] · [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi]]
 <!-- graph:end -->

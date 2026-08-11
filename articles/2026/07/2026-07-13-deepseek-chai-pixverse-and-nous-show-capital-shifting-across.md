@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design
+- 2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric
 - 2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1
 - 2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation
 - 2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d
-- 2026-07-14-nous-research-in-talks-to-raise-75m-at-a-1-5b-valuation-for
 embedding_id: 2026-07-13-deepseek-chai-pixverse-and-nous-show-capital-shifting-across
 event_name: ''
 ---
@@ -39,5 +39,5 @@ DeepSeek is reportedly weighing another raise at a ~$71B pre-money valuation; Ch
 
 **Entities:** [[DeepSeek]]
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation]] · [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]] · [[2026-07-14-nous-research-in-talks-to-raise-75m-at-a-1-5b-valuation-for]]
+**Related:** [[2026-07-14-chai-discovery-raises-400m-at-3-8b-for-ai-drug-design]] · [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric]] · [[2026-07-13-open-source-agent-maker-nous-research-in-talks-to-raise-at-1]] · [[2026-07-13-nous-research-in-talks-for-funding-at-1-5b-valuation]] · [[2026-07-14-chai-discovery-raises-400m-at-a-3-8b-valuation-for-ai-drug-d]]
 <!-- graph:end -->

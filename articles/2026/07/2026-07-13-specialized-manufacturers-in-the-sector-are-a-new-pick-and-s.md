@@ -18,8 +18,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons
 - 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
-- 2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations
 embedding_id: 2026-07-13-specialized-manufacturers-in-the-sector-are-a-new-pick-and-s
 event_name: ''
 ---
@@ -31,5 +31,5 @@ Specialized manufacturers in the sector are a new pick-and-shovel play for inves
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]] · [[2026-05-15-multiple-companies-are-progressing-beyond-lab-demonstrations]]
+**Related:** [[2026-08-06-chip-investors-navigate-geopolitical-risk-as-ai-powered-cons]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
 <!-- graph:end -->

@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
+- 2026-08-06-business-insider-2026-08-06-external-today-tesla-and-spacex
 - 2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
-- 2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar
-- 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 embedding_id: 2026-07-14-business-insider-2026-07-14-external-today-how-michael-dell
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Business Insider - [2026-07-14] [EXTERNAL] Today: How Michael Dell keeps winning
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-25-business-insider-2026-07-25-external-today-work-out-like-mar]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]]
+**Related:** [[2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-08-06-business-insider-2026-08-06-external-today-tesla-and-spacex]] · [[2026-07-16-business-insider-2026-07-16-external-today-the-vc-gamble-tha]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]]
 <!-- graph:end -->

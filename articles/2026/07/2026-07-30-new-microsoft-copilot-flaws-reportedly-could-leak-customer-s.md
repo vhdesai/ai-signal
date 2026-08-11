@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se
 - 2026-07-30-new-microsoft-copilot-security-flaws-show-how-ai-can-leak-cu
+- 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 - 2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off
 - 2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti
-- 2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res
 embedding_id: 2026-07-30-new-microsoft-copilot-flaws-reportedly-could-leak-customer-s
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Cybersecurity firms found previously unreported vulnerabilities in Microsoft Cop
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se]] · [[2026-07-30-new-microsoft-copilot-security-flaws-show-how-ai-can-leak-cu]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti]] · [[2026-05-22-microsoft-365-copilot-may-update-gpt-5-5-models-upgraded-res]]
+**Related:** [[2026-07-30-new-microsoft-copilot-vulnerabilities-could-leak-customer-se]] · [[2026-07-30-new-microsoft-copilot-security-flaws-show-how-ai-can-leak-cu]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]] · [[2026-05-16-microsoft-copilot-paywall-goes-live-today-for-unlicensed-off]] · [[2026-04-16-microsoft-restricts-free-copilot-chat-in-office-apps-effecti]]
 <!-- graph:end -->

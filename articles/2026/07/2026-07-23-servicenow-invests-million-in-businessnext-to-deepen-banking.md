@@ -21,8 +21,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter
 - 2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin
+- 2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation
 - 2026-06-05-switch-in-talks-to-raise-at-50b-valuation
-- 2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead
 embedding_id: 2026-07-23-servicenow-invests-million-in-businessnext-to-deepen-banking
 event_name: ''
 ---
@@ -35,5 +35,5 @@ ServiceNow invested million in Indian banking software specialist BusinessNext a
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-06-05-switch-in-talks-to-raise-at-50b-valuation]] · [[2026-06-22-meta-backs-cred-in-900m-round-taps-founder-for-whatsapp-lead]]
+**Related:** [[2026-04-23-servicenow-17-ibm-9-as-ai-displacement-commentary-hits-enter]] · [[2026-05-05-servicenow-shifts-toward-hybrid-seat-plus-consumption-pricin]] · [[2026-08-10-openai-completes-7b-employee-tender-offer-at-852b-valuation]] · [[2026-06-05-switch-in-talks-to-raise-at-50b-valuation]]
 <!-- graph:end -->

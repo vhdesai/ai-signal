@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-03-13-travis-kalanick-plots-new-self-driving-venture-with-levandow
 - 2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving
 - 2026-03-16-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et
+- 2026-08-06-the-information-2026-08-06-external-sequoia-capital-goes-all
 - 2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s
-- 2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo
 embedding_id: 2026-03-16-ex-uber-ceo-kalanick-plots-self-driving-car-firm-with-uber-f
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Ex-Uber CEO Kalanick Plots Self-Driving Car Firm with Uber Funding [2026-03-16] 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-03-13-travis-kalanick-plots-new-self-driving-venture-with-levandow]] · [[2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving]] · [[2026-03-16-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]] · [[2026-07-02-the-information-2026-07-02-external-the-briefing-teslas-rebo]]
+**Related:** [[2026-03-13-travis-kalanick-plots-new-self-driving-venture-with-levandow]] · [[2026-03-13-the-information-logo-travis-kalanick-plots-new-self-driving]] · [[2026-03-16-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-08-06-the-information-2026-08-06-external-sequoia-capital-goes-all]] · [[2026-06-20-the-information-2026-06-20-the-law-professor-behind-bernie-s]]
 <!-- graph:end -->

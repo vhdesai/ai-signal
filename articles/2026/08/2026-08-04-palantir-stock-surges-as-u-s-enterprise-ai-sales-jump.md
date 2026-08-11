@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments
+- 2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges
 - 2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand
+- 2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba
 - 2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen
-- 2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock
-- 2026-08-04-the-information-2026-08-04-external-palantir-stock-surges-as
 embedding_id: 2026-08-04-palantir-stock-surges-as-u-s-enterprise-ai-sales-jump
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Palantir reported a blockbuster quarter driven by surging U.S. enterprise AI sal
 
 **Entities:** [[Palantir]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]] · [[2026-05-03-palantir-s-ai-pricing-power-becomes-the-next-software-stock]] · [[2026-08-04-the-information-2026-08-04-external-palantir-stock-surges-as]]
+**Related:** [[2026-08-04-palantir-stock-jumps-16-after-q2-blowout-as-aip-deployments]] · [[2026-08-05-palantir-posts-a-q2-2026-blowout-revenue-up-93-stock-surges]] · [[2026-08-03-10-palantir-posts-blowout-q2-2026-on-surging-ai-demand]] · [[2026-08-04-dow-hits-54-000-as-palantir-surges-and-the-ai-trade-roars-ba]] · [[2026-05-26-nvidia-oracle-and-palantir-trade-higher-on-ai-backlog-commen]]
 <!-- graph:end -->

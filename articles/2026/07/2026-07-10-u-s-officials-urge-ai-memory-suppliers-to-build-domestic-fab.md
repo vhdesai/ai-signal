@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
 - 2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand
-- 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
+- 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 embedding_id: 2026-07-10-u-s-officials-urge-ai-memory-suppliers-to-build-domestic-fab
 event_name: ''
 ---
@@ -37,5 +37,5 @@ In coverage of SK Hynix’s record listing, U.S. officials pressed SK Hynix and 
 
 **Entities:** [[Samsung]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]]
+**Related:** [[2026-04-23-sk-hynix-reported-surging-profits-driven-by-explosive-demand]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-07-31-samsung-and-sk-hynix-post-record-profits-as-ai-memory-demand]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera
 - 2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in
 - 2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na
-- 2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw
+- 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 embedding_id: 2026-07-24-nvidia-naver-and-brookfield-triple-an-ai-factory-to-200mw
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-04-20-nvidia-april-20-2026-at-hannover-messe-nvidia-announced-a-sw]]
+**Related:** [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera]] · [[2026-07-27-nvidia-backs-naver-and-sk-hynix-linked-ai-infrastructure-in]] · [[2026-06-07-sk-telecom-to-build-gigawatt-scale-ai-cloud-on-nvidia-dsx-na]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]]
 <!-- graph:end -->

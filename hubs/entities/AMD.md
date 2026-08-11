@@ -1,13 +1,29 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 67
+member_count: 83
 ---
 
 # AMD
 
-> Auto-generated entity hub. 67 connected article(s).
+> Auto-generated entity hub. 83 connected article(s).
 
+- `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to|Meta releases Muse Glimmer, a 30B open-weight model built to run on one consumer GPU]]
+- `2026-08-09` [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev|Nvidia Heads Into Q2 Print as the Sector's Next Repricing Event]]
+- `2026-08-08` [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le|Compute Economics Reprice While Frontier Safety Slows the Leaders]]
+- `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t|AWS reportedly tells engineers to conserve CPU capacity as the compute crunch spreads]]
+- `2026-08-07` [[2026-08-07-amd-acquires-taalas-to-etch-ai-models-directly-into-silicon|AMD Acquires Taalas to Etch AI Models Directly Into Silicon]]
+- `2026-08-06` [[2026-08-06-nvidia-still-dominates-ai-chips-but-bofa-sees-amd-closing-in|Nvidia still dominates AI chips, but BofA sees AMD closing in]]
+- `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-into-silicon|AMD acquires Taalas to hard-wire AI models into silicon]]
+- `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hard-wire-ai-models-directly-into-sil|AMD acquires Taalas to hard-wire AI models directly into silicon]]
+- `2026-08-06` [[2026-08-06-amd-acquires-taalas-to-hardwire-models-into-silicon|AMD Acquires Taalas to Hardwire Models into Silicon]]
+- `2026-08-05` [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team|Anthropic is hiring a custom AI chip design team]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude|Anthropic confirms in-house AI chip design team for Claude]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud|Anthropic confirms an in-house custom silicon team for Claude]]
+- `2026-08-05` [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude|Anthropic builds an in-house AI chip design team for Claude]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon|Anthropic Confirms It Is Building an In-House Custom Silicon Team]]
+- `2026-08-04` [[2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi|NSF commits $100M to regional AI infrastructure hubs with NVIDIA, AMD, Intel and Dell]]
+- `2026-08-04` [[2026-08-04-amd-posts-record-11-5b-quarter-as-data-center-revenue-more-t|AMD Posts Record $11.5B Quarter as Data Center Revenue More Than Doubles]]
 - `2026-08-02` [[2026-08-02-quiet-weekend-loud-signals-openai-reveals-astra-eu-ai-act-go|Quiet Weekend, Loud Signals: OpenAI Reveals “Astra,” EU AI Act Goes Live, and the Bubble Debate Reheats]]
 - `2026-08-01` [[2026-08-01-amd-ships-instella-moe-16b-a3b-a-fully-open-mixture-of-exper|AMD ships Instella-MoE-16B-A3B, a fully open Mixture-of-Experts LLM trained on its own GPUs]]
 - `2026-08-01` [[2026-08-01-amd-releases-instella-moe-16b-a3b-an-open-mixture-of-experts|AMD releases Instella-MoE-16B-A3B, an open mixture-of-experts model trained on Instinct GPUs]]

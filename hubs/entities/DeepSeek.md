@@ -1,13 +1,32 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 313
+member_count: 332
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 313 connected article(s).
+> Auto-generated entity hub. 332 connected article(s).
 
+- `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti|Pokee AI releases Pokee‑Isaac 28B, a 10M-token-context agentic model built to run inside the customer boundary]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-08` [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le|Compute Economics Reprice While Frontier Safety Slows the Leaders]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-07` [[2026-08-07-deepseek-v4-flash-posts-61-4-on-arc-agi-2-at-roughly-four-ce|DeepSeek V4 Flash posts 61.4% on ARC-AGI-2 at roughly four cents per task]]
+- `2026-08-07` [[2026-08-07-deepseek-v4-flash-resets-the-cost-curve-on-arc-agi-2|DeepSeek V4 Flash Resets the Cost Curve on ARC-AGI-2]]
+- `2026-08-06` [[2026-08-06-the-information-2026-08-06-external-sequoia-capital-goes-all|The Information - [2026-08-06] [EXTERNAL] Sequoia Capital Goes All Out on AI Under New Leaders - [2026-08-06]…]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-deepseek-warns-of-a-significant-api-price-increase-reversing|DeepSeek warns of a significant API price increase, reversing its cheap-AI strategy]]
+- `2026-08-06` [[2026-08-06-deepseek-resumes-funding-talks-and-plans-to-hike-model-price|DeepSeek resumes funding talks and plans to hike model prices]]
+- `2026-08-06` [[2026-08-06-deepseek-restarts-8b-raise-at-a-74b-valuation-and-plans-pric|DeepSeek restarts ~$8B raise at a ~$74B valuation and plans price increases]]
+- `2026-08-06` [[2026-08-06-deepseek-restarts-8b-raise-and-plans-significant-api-price-i|DeepSeek restarts ~$8B raise and plans significant API price increases]]
+- `2026-08-06` [[2026-08-06-deepseek-resumes-funding-talks-plans-to-hike-model-prices|DeepSeek Resumes Funding Talks, Plans to Hike Model Prices]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-deepseek-s-v4-flash-update-surpasses-its-own-flagship-on-age|DeepSeek's V4-Flash update surpasses its own flagship on agent benchmarks]]
 - `2026-08-03` [[2026-08-03-deepseek-s-v4-flash-is-the-cheapest-well-known-model-to-run|DeepSeek's V4-Flash is the cheapest well-known model to run]]
 - `2026-08-03` [[2026-08-03-deepseek-v4-flash-sharpens-price-pressure-on-frontier-labs|DeepSeek V4-Flash sharpens price pressure on frontier labs]]

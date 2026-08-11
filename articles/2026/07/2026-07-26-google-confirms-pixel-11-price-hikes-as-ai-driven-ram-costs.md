@@ -21,8 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
+- 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
+- 2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume
+- 2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de
 - 2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d
-- 2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red
 embedding_id: 2026-07-26-google-confirms-pixel-11-price-hikes-as-ai-driven-ram-costs
 event_name: ''
 ---
@@ -36,5 +39,5 @@ Google VP Shakil Barkat confirmed that Pixel 11 prices will rise because memory 
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]] · [[2026-05-01-huawei-eyes-12-billion-in-ai-chip-revenue-as-deepseek-v4-red]]
+**Related:** [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]] · [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume]] · [[2026-08-07-sk-hynix-plans-38-billion-memory-capacity-expansion-as-ai-de]] · [[2026-05-29-sk-hynix-joins-the-1-trillion-market-cap-club-as-ai-memory-d]]
 <!-- graph:end -->

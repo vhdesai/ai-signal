@@ -25,9 +25,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m
+- 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 - 2026-07-07-daily-ai-news-digest-july-8-2026
-- 2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la
 embedding_id: 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Good morning, Vik. Today's frontier news is driven less by blockbuster model lau
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-05-23-today-s-digest-spans-22-monitored-sources-across-frontier-la]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]]
 <!-- graph:end -->

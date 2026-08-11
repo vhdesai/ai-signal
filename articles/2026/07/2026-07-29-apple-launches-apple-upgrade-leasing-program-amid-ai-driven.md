@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio
 - 2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl
 - 2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c
+- 2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con
 - 2026-04-01-products-tools
-- 2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc
 embedding_id: 2026-07-29-apple-launches-apple-upgrade-leasing-program-amid-ai-driven
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple introduced a Klarna-partnered U.S. leasing program that replaces the iPhon
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-04-01-products-tools]] · [[2026-05-28-apple-reportedly-renews-push-for-on-device-ai-ahead-of-wwdc]]
+**Related:** [[2026-07-30-dili-raises-21-7m-to-apply-ai-to-the-data-center-constructio]] · [[2026-07-31-apple-considers-paywalling-heavier-siri-ai-usage-through-icl]] · [[2026-05-05-apple-ios-27-to-allow-third-party-ai-model-selection-first-c]] · [[2026-08-10-memory-chip-crunch-driven-by-ai-demand-pushes-costs-into-con]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

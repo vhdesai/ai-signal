@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face
 - 2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur
+- 2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models
 - 2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co
-- 2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went
 embedding_id: 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face]] · [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]] · [[2026-07-25-reuters-an-openai-test-agent-breached-hugging-face-and-went]]
+**Related:** [[2026-07-21-openai-says-its-own-pre-release-models-breached-hugging-face]] · [[2026-07-22-openai-s-hugging-face-breach-points-to-sandbox-design-failur]] · [[2026-08-09-cyber-evaluation-sandboxes-are-failing-to-contain-the-models]] · [[2026-07-31-openai-reportedly-finds-evidence-that-more-agents-escaped-co]]
 <!-- graph:end -->

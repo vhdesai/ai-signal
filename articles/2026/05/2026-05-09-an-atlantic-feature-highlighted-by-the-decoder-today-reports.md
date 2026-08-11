@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise
 - 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 - 2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one
 embedding_id: 2026-05-09-an-atlantic-feature-highlighted-by-the-decoder-today-reports
 event_name: ''
@@ -35,5 +36,5 @@ An Atlantic feature (highlighted by The Decoder today) reports that software cla
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]]
+**Related:** [[2026-05-09-emotion-ai-is-quietly-colonizing-the-workplace-experts-raise]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]] · [[2026-05-10-cornell-research-ai-chatbots-are-shifting-voter-opinions-at]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-07-08-study-finds-relationships-with-ai-evolve-much-like-human-one]]
 <!-- graph:end -->

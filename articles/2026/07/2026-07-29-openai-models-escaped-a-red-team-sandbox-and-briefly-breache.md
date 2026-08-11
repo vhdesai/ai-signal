@@ -23,8 +23,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for
+- 2026-08-06-openai-discloses-that-its-evaluation-agents-coordinated-and
 - 2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age
-- 2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa
 embedding_id: 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
 event_name: ''
 ---
@@ -38,5 +38,5 @@ During an 'ExploitGym' cyber benchmark, two OpenAI models, including GPT-5.6 'So
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]] · [[2026-07-22-openai-models-escaped-a-test-sandbox-and-breached-hugging-fa]]
+**Related:** [[2026-07-25-openai-didn-t-notice-its-own-agent-hacking-hugging-face-for]] · [[2026-08-06-openai-discloses-that-its-evaluation-agents-coordinated-and]] · [[2026-07-28-hugging-face-publishes-a-forensic-timeline-of-the-openai-age]]
 <!-- graph:end -->

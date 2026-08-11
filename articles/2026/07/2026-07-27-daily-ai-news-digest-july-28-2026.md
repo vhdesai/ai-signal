@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen
 - 2026-07-26-daily-ai-news-digest-july-27-2026
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
+- 2026-08-11-daily-ai-news-digest-august-11-2026
 - 2026-05-22-curated-executive-briefing-on-the-most-significant-developme
-- 2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio
 embedding_id: 2026-07-27-daily-ai-news-digest-july-28-2026
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Nvidia's triple play, China's largest open model, and the agentic-security land 
 
 **Entities:** [[Anthropic]] · [[Microsoft]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]] · [[2026-07-28-the-information-2026-07-28-external-nvidia-makes-multibillio]]
+**Related:** [[2026-07-28-nvidia-s-triple-play-china-s-largest-open-model-and-the-agen]] · [[2026-07-26-daily-ai-news-digest-july-27-2026]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-11-2026]] · [[2026-05-22-curated-executive-briefing-on-the-most-significant-developme]]
 <!-- graph:end -->

@@ -22,7 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-23-openai-opens-chatgpt-health-to-all-u-s-adults
 - 2026-07-28-openai-extends-chatgpt-into-personal-health-records
-- 2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava
+- 2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna
+- 2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem
 embedding_id: 2026-07-23-openai-makes-chatgpt-health-available-to-all-u-s-users
 event_name: ''
 ---
@@ -36,5 +37,5 @@ event_name: ''
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-openai-opens-chatgpt-health-to-all-u-s-adults]] · [[2026-07-28-openai-extends-chatgpt-into-personal-health-records]] · [[2026-07-29-openai-opens-chatgpt-for-academic-researchers-to-general-ava]]
+**Related:** [[2026-07-23-openai-opens-chatgpt-health-to-all-u-s-adults]] · [[2026-07-28-openai-extends-chatgpt-into-personal-health-records]] · [[2026-08-06-openai-expands-free-chatgpt-text-access-with-gpt-5-6-luna]] · [[2026-08-06-openai-makes-gpt-5-6-luna-the-default-for-free-users-and-rem]]
 <!-- graph:end -->

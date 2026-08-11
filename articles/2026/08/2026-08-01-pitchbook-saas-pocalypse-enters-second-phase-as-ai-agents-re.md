@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha
+- 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
+- 2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar
 - 2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
-- 2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers
 embedding_id: 2026-08-01-pitchbook-saas-pocalypse-enters-second-phase-as-ai-agents-re
 event_name: ''
 ---
@@ -38,5 +38,5 @@ PitchBook says SaaS disruption is moving from AI copilots augmenting users to ag
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-05-20-as-businesses-spend-more-on-anthropic-and-other-ai-providers]]
+**Related:** [[2026-08-01-pitchbook-says-the-saas-pocalypse-is-entering-its-second-pha]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]] · [[2026-08-07-saas-companies-race-to-reinvent-as-ai-agents-replace-softwar]] · [[2026-07-27-pitchbook-ai-is-changing-diligence-but-not-replacing-bankers]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l
 - 2026-05-02-mistral-releases-medium-3-5-128b-open-weights-model-unifying
 - 2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub
+- 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
 - 2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur
-- 2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model
 embedding_id: 2026-04-03-arcee-ai-releases-399b-american-open-weights-reasoning-model
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Arcee AI Releases 399B "American Open Weights" Reasoning Model (Apache 2.0)
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l]] · [[2026-05-02-mistral-releases-medium-3-5-128b-open-weights-model-unifying]] · [[2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]] · [[2026-05-22-cohere-releases-command-a-218b-sparse-moe-open-weight-model]]
+**Related:** [[2026-04-03-san-francisco-based-arcee-ai-30-employees-released-trinity-l]] · [[2026-05-02-mistral-releases-medium-3-5-128b-open-weights-model-unifying]] · [[2026-07-25-nvidia-s-open-weights-and-american-ai-leadership-letter-doub]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-05-02-arc-agi-3-analysis-reveals-three-systematic-reasoning-failur]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written
 - 2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co
-- 2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c
-- 2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da
+- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
+- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 embedding_id: 2026-06-26-anthropic-says-it-no-longer-hires-junior-engineers-warns-of
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Co-founder Jack Clark told Reason that Anthropic is “hiring more people with l
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-07-24-anthropic-cuts-80-of-claude-code-s-system-prompt-under-new-c]] · [[2026-07-07-anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-da]]
+**Related:** [[2026-05-16-anthropic-cfo-more-than-90-of-code-at-anthropic-now-written]] · [[2026-06-26-anthropic-says-claude-now-writes-65-of-its-product-team-s-co]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]]
 <!-- graph:end -->

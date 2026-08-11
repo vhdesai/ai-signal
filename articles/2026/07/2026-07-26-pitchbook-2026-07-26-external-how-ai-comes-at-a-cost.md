@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
-- 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 embedding_id: 2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-26] [EXTERNAL] How AI comes at a cost
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]]
+**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

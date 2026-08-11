@@ -20,6 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac
 - 2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina
+- 2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo
 - 2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul
 - 2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst
 embedding_id: 2026-07-07-ecb-asks-euro-area-banks-for-plans-to-address-ai-driven-cybe
@@ -33,5 +34,5 @@ The European Central Bank has asked euro-area banks to submit plans for addressi
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac]] · [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]]
+**Related:** [[2026-07-07-ecb-orders-euro-zone-banks-to-plan-for-ai-enabled-cyberattac]] · [[2026-07-01-bank-of-england-signals-bespoke-rules-for-agentic-ai-in-fina]] · [[2026-08-09-ai-push-is-putting-banks-at-the-mercy-of-tech-firms-warns-mo]] · [[2026-06-30-bank-of-england-s-breeden-warns-agentic-ai-may-require-regul]] · [[2026-05-28-ecb-holds-emergency-meeting-on-anthropic-mythos-banking-syst]]
 <!-- graph:end -->

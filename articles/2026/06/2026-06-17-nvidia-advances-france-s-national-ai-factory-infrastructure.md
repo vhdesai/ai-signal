@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers
 - 2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera
+- 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
+- 2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline
 - 2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst
-- 2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo
-- 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
 embedding_id: 2026-06-17-nvidia-advances-france-s-national-ai-factory-infrastructure
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Activation of France's national AI compute infrastructure — AI factories, nati
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]] · [[2026-06-07-nvidia-reports-doubling-of-uk-sovereign-ai-deployments-at-lo]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]]
+**Related:** [[2026-06-22-europe-unveils-a-record-35-new-nvidia-ai-supercomputers]] · [[2026-07-16-nvidia-and-japan-announce-a-national-ai-infrastructure-vera]] · [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-08-08-firebird-opens-armenian-ai-factory-targets-2-gw-pipeline]] · [[2026-07-15-nvidia-highlights-japan-s-full-stack-ai-and-robotics-ecosyst]]
 <!-- graph:end -->

@@ -21,9 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-05-new-york-passes-first-state-level-data-center-moratorium
+- 2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-- 2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t
-- 2026-07-13-infrastructure-local-policy-data-centers
+- 2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions
+- 2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center
 embedding_id: 2026-07-15-york-becomes-the-first-u-s-state-to-pause-approvals-for-new
 event_name: ''
 ---
@@ -36,5 +37,5 @@ York becomes the first U.S. state to pause approvals for new hyperscale data cen
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-02-data-center-costs-set-to-rise-as-u-s-states-move-to-repeal-t]] · [[2026-07-13-infrastructure-local-policy-data-centers]]
+**Related:** [[2026-06-05-new-york-passes-first-state-level-data-center-moratorium]] · [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-08-10-local-data-center-restrictions-pass-500-u-s-jurisdictions]] · [[2026-08-10-more-than-500-u-s-jurisdictions-now-restrict-new-data-center]]
 <!-- graph:end -->

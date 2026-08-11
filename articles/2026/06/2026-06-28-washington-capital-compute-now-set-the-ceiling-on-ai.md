@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 - 2026-06-29-daily-ai-news-digest-june-29-2026
 - 2026-07-07-daily-ai-news-digest-july-8-2026
+- 2026-08-08-daily-ai-news-digest-august-8-2026
 - 2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo
-- 2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t
 embedding_id: 2026-06-28-washington-capital-compute-now-set-the-ceiling-on-ai
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Washington's grip on frontier AI tightened over the weekend: the U.S. cleared An
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]] · [[2026-06-30-white-house-ai-crackdown-opens-the-door-for-chinese-models-t]]
+**Related:** [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]] · [[2026-06-29-daily-ai-news-digest-june-29-2026]] · [[2026-07-07-daily-ai-news-digest-july-8-2026]] · [[2026-08-08-daily-ai-news-digest-august-8-2026]] · [[2026-06-29-good-morning-vik-today-s-frontier-news-is-driven-less-by-blo]]
 <!-- graph:end -->

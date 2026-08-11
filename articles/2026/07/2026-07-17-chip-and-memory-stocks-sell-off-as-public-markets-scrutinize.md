@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and
 - 2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant
 - 2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele
-- 2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b
+- 2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws
 embedding_id: 2026-07-17-chip-and-memory-stocks-sell-off-as-public-markets-scrutinize
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Chip and memory stocks sell off as public markets scrutinize AI capex ROI, even 
 
 **Entities:** [[TSMC]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-07-28-global-ai-stock-sell-off-hits-chip-and-memory-names-nvidia-b]]
+**Related:** [[2026-07-28-global-chip-sell-off-intensifies-as-ai-spending-doubts-grip]] · [[2026-07-28-chip-sell-off-continues-as-ai-spending-doubts-hit-public-and]] · [[2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant]] · [[2026-07-13-memory-chip-earnings-expected-to-show-ai-driven-sales-accele]] · [[2026-08-06-shares-of-memory-giants-drop-on-soft-guidance-alphabet-draws]]
 <!-- graph:end -->

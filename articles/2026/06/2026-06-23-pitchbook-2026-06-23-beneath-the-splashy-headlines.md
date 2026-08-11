@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi
 - 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
 - 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
-- 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 embedding_id: 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-23] Beneath the splashy headlines
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]]
+**Related:** [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]]
 <!-- graph:end -->

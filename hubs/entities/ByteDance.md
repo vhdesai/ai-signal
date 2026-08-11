@@ -1,13 +1,21 @@
 ---
 type: entity-hub
 hub: ByteDance
-member_count: 70
+member_count: 78
 ---
 
 # ByteDance
 
-> Auto-generated entity hub. 70 connected article(s).
+> Auto-generated entity hub. 78 connected article(s).
 
+- `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
+- `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]
+- `2026-08-09` [[2026-08-09-race-to-full-duplex-nvidia-and-bytedance-ship-competing-real|Race to Full-Duplex: NVIDIA and ByteDance Ship Competing Real-Time Voice Architectures]]
+- `2026-08-09` [[2026-08-09-bytedance-introduces-seedrealtime-native-audio-visual-full-d|ByteDance Introduces SeedRealtime — Native Audio-Visual Full-Duplex LLM]]
+- `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-model-of-up-to-10-trilli|ByteDance reportedly pre-training a model of up to 10 trillion parameters]]
+- `2026-08-07` [[2026-08-07-bytedance-reportedly-pre-training-a-10-trillion-parameter-mo|ByteDance Reportedly Pre-Training a 10-Trillion-Parameter Model]]
+- `2026-08-05` [[2026-08-05-the-information-2026-08-05-external-china-s-new-ai-gold-rush|The Information - [2026-08-05] [EXTERNAL] China’s New AI Gold Rush: World Models - [2026-08-05] [EXTERNAL] ByteDance’s…]]
+- `2026-08-05` [[2026-08-05-bytedance-founder-rules-out-distillation-on-ai-models|ByteDance Founder Rules Out Distillation on AI Models]]
 - `2026-08-01` [[2026-08-01-the-ai-brief-august-1-2026|The AI Brief — August 1, 2026]]
 - `2026-07-31` [[2026-07-31-minimax-releases-h3-video-model-with-open-weights-to-follow|MiniMax releases H3 video model, with open weights to follow]]
 - `2026-07-31` [[2026-07-31-minimax-releases-h3-a-unified-text-image-video-audio-generat|MiniMax Releases H3, a Unified Text-Image-Video-Audio Generation Model]]

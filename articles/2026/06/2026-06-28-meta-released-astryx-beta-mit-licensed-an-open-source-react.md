@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst
+- 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza
 - 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
-- 2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies
 embedding_id: 2026-06-28-meta-released-astryx-beta-mit-licensed-an-open-source-react
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Meta released Astryx (Beta, MIT-licensed), an open-source React/StyleX design sy
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]] · [[2026-05-15-mit-researchers-presented-tressoir-a-framework-that-unifies]]
+**Related:** [[2026-06-28-meta-open-sources-astryx-an-agent-readable-react-design-syst]] · [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-07-08-microsoft-research-introduces-flint-an-open-source-visualiza]] · [[2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex]]
 <!-- graph:end -->

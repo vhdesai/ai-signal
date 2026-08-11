@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c
 - 2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra
 - 2026-04-02-deepmind-publishes-the-abstraction-fallacy-why-ai-can-simula
 - 2026-06-05-dealbook-andrew-ross-sorkin-nyt-2026-06-05-external-dealbook
 - 2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai
-- 2026-05-14-source-mit-media-lab-arxiv-published-june-2025-resurfaces-ma
 embedding_id: 2026-05-24-the-future-of-truth-author-accepts-responsibility-after-ai-f
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Steven Rosenbaum's book The Future of Truth has come under scrutiny after at lea
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-04-02-deepmind-publishes-the-abstraction-fallacy-why-ai-can-simula]] · [[2026-06-05-dealbook-andrew-ross-sorkin-nyt-2026-06-05-external-dealbook]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]] · [[2026-05-14-source-mit-media-lab-arxiv-published-june-2025-resurfaces-ma]]
+**Related:** [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c]] · [[2026-05-10-anthropic-explains-why-claude-attempted-blackmail-blames-tra]] · [[2026-04-02-deepmind-publishes-the-abstraction-fallacy-why-ai-can-simula]] · [[2026-06-05-dealbook-andrew-ross-sorkin-nyt-2026-06-05-external-dealbook]] · [[2026-06-10-german-court-says-google-is-responsible-for-ai-overview-clai]]
 <!-- graph:end -->

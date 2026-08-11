@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip
 - 2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest
 - 2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest
-- 2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b
-- 2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr
+- 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
+- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 embedding_id: 2026-07-17-tsmc-record-results-and-reported-planned-u-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ TSMC record results and reported/planned U.S. investment show AI demand driving 
 
 **Entities:** [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip]] · [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-16-the-information-2026-07-16-external-tsmc-plans-another-100-b]] · [[2026-07-16-tsmc-s-additional-u-s-investment-as-ai-demand-surges-enterpr]]
+**Related:** [[2026-07-16-tsmc-posts-record-q2-revenue-and-77-profit-growth-on-ai-chip]] · [[2026-07-17-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-07-18-tsmc-posts-record-results-and-expands-planned-arizona-invest]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]]
 <!-- graph:end -->

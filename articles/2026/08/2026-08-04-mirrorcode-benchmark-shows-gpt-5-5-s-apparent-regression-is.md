@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm
+- 2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier
 - 2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts
 - 2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r
 embedding_id: 2026-08-04-mirrorcode-benchmark-shows-gpt-5-5-s-apparent-regression-is
@@ -37,5 +38,5 @@ The August 2026 MirrorCode leaderboard places Anthropic's Claude Fable 5 first a
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
+**Related:** [[2026-07-24-anthropic-ships-claude-opus-5-beating-fable-5-on-most-benchm]] · [[2026-08-07-anthropic-updates-claude-fable-5-s-biology-safety-classifier]] · [[2026-07-28-anthropic-says-claude-5-performs-better-with-shorter-prompts]] · [[2026-07-25-anthropic-publishes-lsquo-new-rules-of-context-engineering-r]]
 <!-- graph:end -->

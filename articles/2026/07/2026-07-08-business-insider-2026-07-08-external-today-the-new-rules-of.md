@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
+- 2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve
+- 2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori
 - 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
-- 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
-- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
-- 2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 embedding_id: 2026-07-08-business-insider-2026-07-08-external-today-the-new-rules-of
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-08] [EXTERNAL] Today: The new rules of getting a tec
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov]]
+**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve]] · [[2026-08-05-business-insider-2026-08-05-external-today-tech-s-new-favori]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]]
 <!-- graph:end -->

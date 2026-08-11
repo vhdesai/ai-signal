@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-15-openai-s-first-hardware-device-is-reported-as-a-movable-scre
+- 2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea
 - 2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker
 - 2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15
-- 2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw
 embedding_id: 2026-07-16-openai-s-first-home-hardware-concept-is-reported-as-a-screen
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI's first home hardware concept is reported as a screenless, mobile AI comp
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-15-openai-s-first-hardware-device-is-reported-as-a-movable-scre]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]] · [[2026-07-25-openai-s-ai-keypad-points-to-specialized-agent-control-hardw]]
+**Related:** [[2026-07-15-openai-s-first-hardware-device-is-reported-as-a-movable-scre]] · [[2026-08-07-openai-s-first-device-reported-as-a-300-plus-screenless-spea]] · [[2026-07-28-openai-s-hardware-roadmap-sharpens-a-jony-ive-smart-speaker]] · [[2026-06-30-openai-teases-a-codex-hardware-device-launching-july-15]]
 <!-- graph:end -->

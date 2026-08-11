@@ -21,7 +21,7 @@ related_article_ids:
 - 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
 - 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 - 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
-- 2026-07-16-pitchbook-2026-07-16-external-stripe-and-advent-s-lowball-bi
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 embedding_id: 2026-07-03-pitchbook-2026-07-03-external-jersey-mikes-serves-up-s-1-sub
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-03] [EXTERNAL] Jersey Mikes serves up S-1 sub
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-07-16-pitchbook-2026-07-16-external-stripe-and-advent-s-lowball-bi]]
+**Related:** [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]]
 <!-- graph:end -->

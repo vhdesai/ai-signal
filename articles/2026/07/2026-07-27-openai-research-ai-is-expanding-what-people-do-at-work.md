@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work
+- 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
 - 2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai
 - 2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and
 embedding_id: 2026-07-27-openai-research-ai-is-expanding-what-people-do-at-work
@@ -36,5 +37,5 @@ OpenAI's new "Work at the Frontier" series, drawing on 800,000+ ChatGPT messages
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]]
+**Related:** [[2026-07-27-openai-says-ai-is-expanding-what-people-do-at-work]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-05-18-openai-b2b-signals-report-frontier-ai-firms-use-3-5x-more-ai]] · [[2026-07-14-openai-publishes-chatgpt-work-playbooks-for-data-science-and]]
 <!-- graph:end -->

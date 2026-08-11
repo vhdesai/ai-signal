@@ -22,8 +22,8 @@ related_article_ids:
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
 - 2026-03-28-mit-researchers-published-findings-on-a-new-training-approac
 - 2026-04-02-mit-develops-framework-for-evaluating-ethics-in-autonomous-a
-- 2026-04-04-mit-publishes-testing-framework-for-evaluating-fairness-in-a
-- 2026-04-02-mit-researchers-published-a-testing-framework-that-identifie
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
+- 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 embedding_id: 2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d
 event_name: ''
 ---
@@ -36,5 +36,5 @@ MIT Researchers Develop Framework for "Humble" AI in Medical Diagnosis
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-04-02-mit-develops-framework-for-evaluating-ethics-in-autonomous-a]] · [[2026-04-04-mit-publishes-testing-framework-for-evaluating-fairness-in-a]] · [[2026-04-02-mit-researchers-published-a-testing-framework-that-identifie]]
+**Related:** [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-03-28-mit-researchers-published-findings-on-a-new-training-approac]] · [[2026-04-02-mit-develops-framework-for-evaluating-ethics-in-autonomous-a]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise]]
 <!-- graph:end -->

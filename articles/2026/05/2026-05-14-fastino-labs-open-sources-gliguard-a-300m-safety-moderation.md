@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
-- 2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h
-- 2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t
+- 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
+- 2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi
 embedding_id: 2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Fastino Labs open-sources GLiGuard, a 300M safety moderation model that beats sy
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-05-31-de-restricted-open-weight-models-grow-easier-to-obtain-and-h]] · [[2026-05-26-forge-open-source-project-guardrails-push-8b-model-from-53-t]]
+**Related:** [[2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c]] · [[2026-08-07-mistral-ai-releases-shieldstral-1-0-an-open-weights-3b-multi]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via
+- 2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud
 - 2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw
 - 2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri
-- 2026-07-13-anthropic-begins-localizing-claude-pricing-for-india
 embedding_id: 2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic plans to switch on local data processing for Claude in India through A
 
 **Entities:** [[Amazon]] · [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]] · [[2026-07-13-anthropic-begins-localizing-claude-pricing-for-india]]
+**Related:** [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via]] · [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud]] · [[2026-05-13-anthropic-claude-platform-reaches-general-availability-on-aw]] · [[2026-07-30-anthropic-discloses-claude-models-accessed-real-systems-duri]]
 <!-- graph:end -->

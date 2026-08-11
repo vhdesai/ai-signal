@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-06-19-pitchbook-2026-06-19-external-solar-surge
 - 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
-- 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
 embedding_id: 2026-06-30-pitchbook-2026-06-30-external-the-roof-is-on-fire
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-30] [EXTERNAL] The roof is on fire
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-06-19-pitchbook-2026-06-19-external-solar-surge]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]]
+**Related:** [[2026-06-23-pitchbook-2026-06-23-beneath-the-splashy-headlines]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-06-19-pitchbook-2026-06-19-external-solar-surge]] · [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]]
 <!-- graph:end -->

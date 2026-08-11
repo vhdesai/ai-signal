@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-19-perplexity-wandr-evaluates-research-agents-against-170k-sour
 - 2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa
 - 2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for
-- 2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation
+- 2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents
 embedding_id: 2026-07-19-perplexity-releases-wandr-an-open-benchmark-for-research-age
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Perplexity releases WANDR, an open benchmark for research agents that must searc
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-perplexity-releases-wandr-an-open-benchmark-for-research-age]] · [[2026-07-19-perplexity-wandr-evaluates-research-agents-against-170k-sour]] · [[2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-06-30-openai-introduces-genebench-pro-for-ai-agents-in-computation]]
+**Related:** [[2026-07-20-perplexity-releases-wandr-an-open-benchmark-for-research-age]] · [[2026-07-19-perplexity-wandr-evaluates-research-agents-against-170k-sour]] · [[2026-07-20-perplexity-wandr-and-sqrl-indicate-research-agent-and-databa]] · [[2026-06-18-perplexity-launches-brain-a-self-improving-memory-system-for]] · [[2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents]]
 <!-- graph:end -->

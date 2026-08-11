@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da
-- 2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri
+- 2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga
 - 2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch
@@ -39,5 +39,5 @@ Nvidia announced a warm-water cooling design it says can eliminate nearly all wa
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-07-16-axios-infrastructure-coverage-notes-ai-pressure-on-power-pri]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga]] · [[2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch]]
+**Related:** [[2026-07-02-nvidia-and-valar-atomics-demo-a-nuclear-powered-waterless-da]] · [[2026-08-06-nvidia-s-radical-idea-reducing-memory-in-upcoming-rubin-ultr]] · [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-26-nvidia-weighs-a-250b-financing-backstop-for-openai-s-10-giga]] · [[2026-07-22-nvidia-helps-customers-finance-gpu-purchases-to-expand-ai-ch]]
 <!-- graph:end -->

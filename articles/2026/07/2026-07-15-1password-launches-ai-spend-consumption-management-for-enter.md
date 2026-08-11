@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast
+- 2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc
 - 2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters
 - 2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse
 - 2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans
-- 2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans
 embedding_id: 2026-07-15-1password-launches-ai-spend-consumption-management-for-enter
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]] · [[2026-07-31-token-costs-force-enterprises-to-revise-ai-deployment-plans]]
+**Related:** [[2026-07-17-ai-adoption-spend-management-emails-emphasize-token-forecast]] · [[2026-08-07-rippling-s-ai-spend-console-shows-enterprise-token-cost-disc]] · [[2026-05-31-an-ai-affordability-reckoning-hits-enterprise-adopters]] · [[2026-06-07-techcrunch-is-this-the-dawn-of-the-tokenpocalypse]] · [[2026-07-31-as-token-costs-mount-enterprise-leaders-revise-ai-plans]]
 <!-- graph:end -->

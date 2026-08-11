@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-google-ai-mode-adds-third-party-actions-through-instacart-ca
 - 2026-07-17-google-ai-mode-adds-app-integrations-for-instacart-canva-and
+- 2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a
 - 2026-04-16-canva-s-updated-ai-assistant-now-uses-its-ai-model-to-let-us
 - 2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv
-- 2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res
 embedding_id: 2026-07-18-google-ai-mode-adds-third-party-actions-through-instacart-ca
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Google AI Mode adds third-party actions through Instacart, Canva, and YouTube Mu
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-google-ai-mode-adds-third-party-actions-through-instacart-ca]] · [[2026-07-17-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-04-16-canva-s-updated-ai-assistant-now-uses-its-ai-model-to-let-us]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]] · [[2026-05-05-amazon-weighs-hybrid-mode-ai-commentary-in-retail-search-res]]
+**Related:** [[2026-07-17-google-ai-mode-adds-third-party-actions-through-instacart-ca]] · [[2026-07-17-google-ai-mode-adds-app-integrations-for-instacart-canva-and]] · [[2026-08-06-google-maps-adds-agentic-features-for-food-ordering-hotels-a]] · [[2026-04-16-canva-s-updated-ai-assistant-now-uses-its-ai-model-to-let-us]] · [[2026-05-22-google-announces-biggest-search-overhaul-in-25-years-ai-driv]]
 <!-- graph:end -->

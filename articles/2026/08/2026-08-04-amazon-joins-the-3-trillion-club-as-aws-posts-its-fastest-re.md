@@ -22,7 +22,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears
+- 2026-08-03-amazon-crosses-3-trillion-market-value-on-accelerating-aws-a
 - 2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge
 - 2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200
 embedding_id: 2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re
@@ -38,5 +38,5 @@ Amazon’s market capitalization crossed $3 trillion for the first time on the b
 
 **Entities:** [[Amazon]]
 **Topics:** [[Infrastructure & Compute]] · [[Corporate Moves]]
-**Related:** [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
+**Related:** [[2026-08-03-amazon-crosses-3-trillion-market-value-on-accelerating-aws-a]] · [[2026-08-03-9-amazon-tops-3t-as-ai-hyperscalers-ride-an-earnings-surge]] · [[2026-07-29-amazon-heads-into-q2-earnings-with-aws-growth-and-record-200]]
 <!-- graph:end -->

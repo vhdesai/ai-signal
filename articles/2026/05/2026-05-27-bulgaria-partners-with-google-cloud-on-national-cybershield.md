@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany
+- 2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i
 - 2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris
 - 2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling
 - 2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu
-- event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs
 embedding_id: 2026-05-27-bulgaria-partners-with-google-cloud-on-national-cybershield
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Bulgaria and Google Cloud announced a "National Cybershield" partnership coverin
 
 **Entities:** [[Google]] · [[Intel]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling]] · [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]] · [[event-google-cloud-next-2026-google-cloud-next-2026-partner-and-adoption-programs]]
+**Related:** [[2026-05-27-thales-and-google-cloud-expand-sovereign-cloud-to-germany]] · [[2026-08-06-mirendil-signs-100-million-plus-google-cloud-deal-for-self-i]] · [[2026-05-13-oracle-deepens-ai-infrastructure-defense-cloud-oci-enterpris]] · [[2026-06-04-google-lays-off-cloud-and-cybersecurity-staff-while-doubling]] · [[2026-07-27-nvidia-microsoft-spacex-palantir-and-ibm-launch-an-open-secu]]
 <!-- graph:end -->

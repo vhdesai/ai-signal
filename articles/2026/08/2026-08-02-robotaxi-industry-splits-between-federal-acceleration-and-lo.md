@@ -19,10 +19,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders
 - 2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle
 - 2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia
 - 2026-04-01-products-tools
-- 2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied
 embedding_id: 2026-08-02-robotaxi-industry-splits-between-federal-acceleration-and-lo
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reports that Zoox cleared a key federal NHTSA hurdle for paid robotax
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-04-01-products-tools]] · [[2026-07-03-singapore-s-dconstruct-raises-a-125m-series-a-for-gps-denied]]
+**Related:** [[2026-08-04-waymo-opens-dallas-robotaxi-service-to-all-riders]] · [[2026-07-31-amazon-s-zoox-becomes-first-steering-wheel-free-robotaxi-cle]] · [[2026-06-24-amazon-s-zoox-unveils-redesigned-robotaxi-ahead-of-commercia]] · [[2026-04-01-products-tools]]
 <!-- graph:end -->

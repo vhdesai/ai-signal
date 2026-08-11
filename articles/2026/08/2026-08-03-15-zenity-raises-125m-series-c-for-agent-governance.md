@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
+- 2026-08-04-zenity-raises-125m-series-c-for-ai-agent-security
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
+- 2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native
-- 2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance
-- 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
 embedding_id: 2026-08-03-15-zenity-raises-125m-series-c-for-agent-governance
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Zenity closed a $125M Series C led by Norwest to govern AI agents across platfor
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]] · [[2026-07-28-hush-security-raises-30m-series-a-for-ai-agent-governance]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-08-04-zenity-raises-125m-series-c-for-ai-agent-security]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-05-05-trendingcopilotkit-raises-27m-series-a-to-deploy-app-native]]
 <!-- graph:end -->

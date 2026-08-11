@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena
 - 2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s
+- 2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin
 - 2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed
 - 2026-05-05-microsoft-agent-365-goes-ga-microsoft-google-push-ai-agent-g
-- 2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private
 embedding_id: 2026-07-24-aws-moves-q-business-kendra-and-bedrock-agents-to-maintenanc
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena]] · [[2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-05-microsoft-agent-365-goes-ga-microsoft-google-push-ai-agent-g]] · [[2026-08-03-6-aws-embeds-vibe-coding-startup-superblocks-inside-private]]
+**Related:** [[2026-07-24-aws-retires-q-business-kendra-and-bedrock-agents-to-maintena]] · [[2026-03-24-aws-and-cerebras-partner-for-industry-leading-ai-inference-s]] · [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin]] · [[2026-04-23-amazon-web-services-announced-new-capabilities-in-amazon-bed]] · [[2026-05-05-microsoft-agent-365-goes-ga-microsoft-google-push-ai-agent-g]]
 <!-- graph:end -->

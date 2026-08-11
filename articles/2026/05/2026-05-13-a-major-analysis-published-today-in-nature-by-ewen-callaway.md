@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
 - 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
 - 2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo
-- 2026-05-13-nature-ai-can-design-viruses-toxins-and-bioweapons-how-worri
-- 2026-05-27-privacy-and-security-of-frontier-ai-agents
+- 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
+- 2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in
 embedding_id: 2026-05-13-a-major-analysis-published-today-in-nature-by-ewen-callaway
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A major analysis published today in Nature by Ewen Callaway examines the growing
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]] · [[2026-05-13-nature-ai-can-design-viruses-toxins-and-bioweapons-how-worri]] · [[2026-05-27-privacy-and-security-of-frontier-ai-agents]]
+**Related:** [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]] · [[2026-04-10-major-ai-labs-are-coordinating-through-the-frontier-model-fo]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]] · [[2026-08-05-uk-aisi-reports-frontier-models-completed-a-hacking-spree-in]]
 <!-- graph:end -->

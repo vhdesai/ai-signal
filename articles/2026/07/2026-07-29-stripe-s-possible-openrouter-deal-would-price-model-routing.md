@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le
 - 2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in
 - 2026-07-18-openrouter-reportedly-fields-multibillion-dollar-takeover-in
+- 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
 embedding_id: 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 event_name: ''
 ---
@@ -36,5 +37,5 @@ A potential Stripe acquisition of OpenRouter near $10 billion would value the mo
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in]] · [[2026-07-18-openrouter-reportedly-fields-multibillion-dollar-takeover-in]]
+**Related:** [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-05-26-model-routing-platform-openrouter-has-closed-a-113m-round-le]] · [[2026-07-17-openrouter-reportedly-fields-multibillion-dollar-takeover-in]] · [[2026-07-18-openrouter-reportedly-fields-multibillion-dollar-takeover-in]] · [[2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi]]
 <!-- graph:end -->

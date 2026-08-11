@@ -24,7 +24,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine
-- 2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and
+- 2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te
+- 2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp
 embedding_id: 2026-07-15-china-ai-companion-law-takes-effect-forcing-bytedance-doubao
 event_name: ''
 ---
@@ -38,5 +39,5 @@ China AI companion law takes effect, forcing ByteDance Doubao and Alibaba Qwen c
 
 **Entities:** [[Alibaba]] · [[ByteDance]]
 **Topics:** [[Policy & Regulation]] · [[Global AI Race]]
-**Related:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-07-06-policy-china-china-s-humanlike-ai-rules-force-bytedance-and]]
+**Related:** [[2026-07-06-beijing-weighs-restricting-overseas-access-to-advanced-chine]] · [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te]] · [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp]]
 <!-- graph:end -->

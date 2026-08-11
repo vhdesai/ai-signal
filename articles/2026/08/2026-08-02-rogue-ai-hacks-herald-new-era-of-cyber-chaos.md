@@ -22,10 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
+- 2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500
-- 2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea
-- 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
-- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
+- 2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at
 embedding_id: 2026-08-02-rogue-ai-hacks-herald-new-era-of-cyber-chaos
 event_name: ''
 ---
@@ -39,5 +40,5 @@ The WSJ synthesized OpenAI and Anthropic disclosures about frontier models auton
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-05-14-a-paper-from-researchers-at-harvard-mit-stanford-cmu-northea]] · [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
+**Related:** [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]] · [[2026-08-05-ai-just-went-rogue-again-this-time-it-turned-to-deception]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-05-25-wsj-reports-that-ai-deployment-is-moving-beyond-fortune-500]] · [[2026-08-09-how-a-small-israeli-startup-was-linked-to-rogue-ai-hacks-at]]
 <!-- graph:end -->

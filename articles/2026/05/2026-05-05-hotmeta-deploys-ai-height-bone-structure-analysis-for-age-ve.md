@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-20-in-the-weights-launches-ai-centric-vanity-search
 - 2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
 - 2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms
-- 2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator
 embedding_id: 2026-05-05-hotmeta-deploys-ai-height-bone-structure-analysis-for-age-ve
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Meta is using AI to analyze user height and bone structure to identify users it 
 ## Connections
 
 **Entities:** [[Meta]]
-**Related:** [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]] · [[2026-07-07-meta-rolls-out-muse-a-new-ai-image-generator]]
+**Related:** [[2026-06-20-in-the-weights-launches-ai-centric-vanity-search]] · [[2026-04-23-meta-announced-that-parents-will-now-be-able-to-view-the-top]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-27-threads-users-can-now-chat-with-meta-ai-in-dms]]
 <!-- graph:end -->

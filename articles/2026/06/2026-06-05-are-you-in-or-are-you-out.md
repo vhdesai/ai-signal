@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths
 - 2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo
 - 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 - 2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths
-- 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 embedding_id: 2026-06-05-are-you-in-or-are-you-out
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Are you in or are you out?
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]]
+**Related:** [[2026-07-21-pitchbook-2026-07-21-external-davids-outslinging-goliaths]] · [[2026-07-24-pitchbook-2026-07-24-external-inside-the-loan-to-own-playboo]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]] · [[2026-07-20-pitchbook-2026-07-20-external-davids-outslinging-goliaths]]
 <!-- graph:end -->

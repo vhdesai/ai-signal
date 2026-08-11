@@ -21,9 +21,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l
 - 2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents
+- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
 - 2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate
-- 2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab
 embedding_id: 2026-05-04-5-academic-research
 event_name: ''
 ---
@@ -36,5 +36,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]] · [[2026-06-30-google-introduces-tabfm-a-zero-shot-foundation-model-for-tab]]
+**Related:** [[2026-05-26-cambridge-researchers-introduced-an-architecture-that-lets-l]] · [[2026-05-26-veritrace-evolving-mental-models-for-deep-research-agents]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-04-04-a-paper-published-in-nature-machine-intelligence-demonstrate]]
 <!-- graph:end -->

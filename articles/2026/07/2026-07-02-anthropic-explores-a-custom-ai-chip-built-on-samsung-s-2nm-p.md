@@ -23,10 +23,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch
+- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 - 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials
 - 2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi
-- 2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to
-- 2026-07-25-anthropic-asks-sk-hynix-to-supply-materials-for-its-own-cust
+- 2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude
 embedding_id: 2026-07-02-anthropic-explores-a-custom-ai-chip-built-on-samsung-s-2nm-p
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Anthropic is in early discussions with Samsung Electronics about a custom AI chi
 
 **Entities:** [[Anthropic]] · [[NVIDIA]] · [[Samsung]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials-moving-to]] · [[2026-07-25-anthropic-asks-sk-hynix-to-supply-materials-for-its-own-cust]]
+**Related:** [[2026-07-03-anthropic-in-talks-with-samsung-to-co-develop-a-custom-ai-ch]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]] · [[2026-07-25-anthropic-asks-sk-hynix-for-custom-chip-materials]] · [[2026-07-25-anthropic-asks-sk-hynix-for-supplies-to-build-its-own-ai-chi]] · [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude]]
 <!-- graph:end -->

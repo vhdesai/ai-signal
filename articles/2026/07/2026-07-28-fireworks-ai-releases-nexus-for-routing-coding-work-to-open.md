@@ -21,6 +21,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-general-compute-and-fireworks-ai-reinforce-the-shift-from-tr
 - 2026-04-27-openai-released-a-public-specification-for-orchestrating-cod
+- 2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 embedding_id: 2026-07-28-fireworks-ai-releases-nexus-for-routing-coding-work-to-open
 event_name: ''
@@ -34,5 +35,5 @@ MarkTechPost reports that Fireworks AI released Fireworks Nexus, a drop-in routi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-general-compute-and-fireworks-ai-reinforce-the-shift-from-tr]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
+**Related:** [[2026-07-17-general-compute-and-fireworks-ai-reinforce-the-shift-from-tr]] · [[2026-04-27-openai-released-a-public-specification-for-orchestrating-cod]] · [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]]
 <!-- graph:end -->

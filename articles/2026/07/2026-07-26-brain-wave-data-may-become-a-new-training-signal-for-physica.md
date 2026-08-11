@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai
 - 2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai
 - 2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp
-- 2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology
+- 2026-08-10-mit-csail-and-tsinghua-introduce-geopt-physics-as-ai-s-third
 embedding_id: 2026-07-26-brain-wave-data-may-become-a-new-training-signal-for-physica
 event_name: ''
 ---
@@ -35,5 +35,5 @@ TechCrunch reports that Encord is testing brain-wave-tagged robotics training da
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-06-30-mit-news-recapped-the-first-showcase-of-its-music-technology]]
+**Related:** [[2026-07-27-brain-wave-data-may-become-a-training-signal-for-physical-ai]] · [[2026-07-26-are-brain-waves-the-next-unlock-for-physical-ai]] · [[2026-05-20-uc-san-diego-brain-corp-partner-on-physical-ai-semantic-mapp]] · [[2026-08-10-mit-csail-and-tsinghua-introduce-geopt-physics-as-ai-s-third]]
 <!-- graph:end -->

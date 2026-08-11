@@ -21,6 +21,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli
+- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
 - 2026-07-17-open-source-ai-copyright-teen-safety-ai-weapons-oversight-an
 - 2026-05-22-github-supply-chain-attack-compromises-500-packages
 embedding_id: 2026-08-02-attackers-target-open-source-ai-as-big-tech-embraces-it
@@ -35,5 +36,5 @@ Defense One reported that attackers are targeting open-source AI at the same tim
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-07-17-open-source-ai-copyright-teen-safety-ai-weapons-oversight-an]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]]
+**Related:** [[2026-07-28-nvidia-and-30-tech-firms-launch-open-source-ai-security-alli]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-07-17-open-source-ai-copyright-teen-safety-ai-weapons-oversight-an]] · [[2026-05-22-github-supply-chain-attack-compromises-500-packages]]
 <!-- graph:end -->

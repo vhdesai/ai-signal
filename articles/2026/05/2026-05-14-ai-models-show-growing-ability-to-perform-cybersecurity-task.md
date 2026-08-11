@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-17-microsoft-reportedly-prepares-project-perception-a-multi-mod
 - 2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
-- 2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report
-- 2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on
+- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
+- 2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber
 embedding_id: 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
 event_name: ''
 ---
@@ -37,5 +37,5 @@ AI models show growing ability to perform cybersecurity tasks — Creati.ai roun
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-17-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-05-14-agentic-cybersecurity-goes-mainstream-93-task-success-report]] · [[2026-06-22-five-eyes-intelligence-alliance-issues-rare-joint-warning-on]]
+**Related:** [[2026-07-17-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-07-18-microsoft-reportedly-prepares-project-perception-a-multi-mod]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-07-openai-publishes-its-containment-posture-for-critical-cyber]]
 <!-- graph:end -->

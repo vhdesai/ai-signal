@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
 - 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
+- 2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news
 - 2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil
-- 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
 embedding_id: 2026-08-04-other-ai-related-publication-emails-2026-08-04-external-from
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Other AI-related Publication Emails - [2026-08-04] [EXTERNAL] From learning AI &
 ## Connections
 
 **Entities:** [[Google]] · [[Microsoft]]
-**Related:** [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]] · [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]]
+**Related:** [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-08-06-other-ai-related-publication-emails-2026-08-06-daily-ai-news]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]]
 <!-- graph:end -->

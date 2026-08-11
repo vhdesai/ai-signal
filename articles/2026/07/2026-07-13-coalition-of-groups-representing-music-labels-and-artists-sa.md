@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s
 - 2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor
 - 2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal
+- 2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from
 embedding_id: 2026-07-13-coalition-of-groups-representing-music-labels-and-artists-sa
 event_name: ''
 ---
@@ -32,5 +33,5 @@ Coalition of groups representing music labels and artists says fans want transpa
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]]
+**Related:** [[2026-07-13-record-companies-push-streaming-platforms-to-label-ai-genera]] · [[2026-07-13-coalition-representing-music-labels-and-artists-is-pushing-s]] · [[2026-07-13-record-companies-push-to-label-ai-songs-on-streaming-platfor]] · [[2026-05-21-spotify-and-universal-sign-first-major-label-fan-ai-deal]] · [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from]]
 <!-- graph:end -->

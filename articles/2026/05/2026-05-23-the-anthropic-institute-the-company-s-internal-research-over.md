@@ -35,8 +35,8 @@ related_article_ids:
 - 2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
 - 2026-08-02-anthropic-and-openai-models-breached-real-companies-during-s
+- 2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un
 - 2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ
-- 2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu
 embedding_id: 2026-05-23-the-anthropic-institute-the-company-s-internal-research-over
 event_name: ''
 ---
@@ -50,5 +50,5 @@ event_name: ''
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-08-02-anthropic-and-openai-models-breached-real-companies-during-s]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]] · [[2026-05-07-anthropic-institute-publishes-research-agenda-economic-diffu]]
+**Related:** [[2026-05-09-today-s-ai-landscape-is-dominated-by-three-intersecting-them]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-08-02-anthropic-and-openai-models-breached-real-companies-during-s]] · [[2026-08-05-uk-ai-security-institute-anthropic-and-openai-agents-took-un]] · [[2026-05-08-hotanthropic-teaching-claude-why-a-new-methodology-for-princ]]
 <!-- graph:end -->

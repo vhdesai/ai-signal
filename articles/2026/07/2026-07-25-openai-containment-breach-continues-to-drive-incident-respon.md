@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil
 - 2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r
-- 2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability
+- 2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio
+- 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
 embedding_id: 2026-07-25-openai-containment-breach-continues-to-drive-incident-respon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ CIO Dive highlighted enterprise-security takeaways from OpenAI’s disclosed mod
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-08-03-house-homeland-security-panel-summons-altman-over-openai-s-r]] · [[2026-07-24-openai-s-hugging-face-breach-fuels-containment-and-liability]]
+**Related:** [[2026-07-24-openai-containment-breach-sparks-enterprise-security-and-kil]] · [[2026-07-23-house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-aft]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-08-04-openai-outlines-safeguards-after-third-party-cyber-evaluatio]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]]
 <!-- graph:end -->

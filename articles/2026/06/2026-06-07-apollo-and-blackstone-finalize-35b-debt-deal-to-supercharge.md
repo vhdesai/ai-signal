@@ -28,8 +28,8 @@ related_article_ids:
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
 - 2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion
 - 2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation
+- 2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol
 - 2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s
-- 2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation
 embedding_id: 2026-06-07-apollo-and-blackstone-finalize-35b-debt-deal-to-supercharge
 event_name: ''
 ---
@@ -43,5 +43,5 @@ Apollo and Blackstone finalized a $35 billion debt facility for Anthropic — th
 
 **Entities:** [[Anthropic]] · [[DeepSeek]] · [[Meta]]
 **Topics:** [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]] · [[2026-05-23-anthropic-funding-round-to-top-30b-at-900b-valuation]]
+**Related:** [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-29-pitchbook-anthropic-tops-openai-with-965b-as-pe-s-2-trillion]] · [[2026-06-01-anthropic-raises-record-65b-series-h-at-965b-valuation]] · [[2026-08-04-anthropic-signs-a-10b-compute-deal-with-ai-cloud-startup-vol]] · [[2026-05-22-anthropic-set-to-close-30b-funding-round-at-900b-valuation-s]]
 <!-- graph:end -->

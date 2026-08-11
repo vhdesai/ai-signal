@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race
 - 2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p
+- 2026-08-07-pitchbook-2026-08-07-external-stripe-s-10b-openrouter-gambit
 - 2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost
 - 2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races
-- 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 embedding_id: 2026-05-07-the-price-of-chasing-ai-direct-stakes-2026-05-07-pitchbook
 event_name: ''
 ---
@@ -33,5 +33,5 @@ The price of chasing AI direct stakes [2026-05-07] · PitchBook
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]]
+**Related:** [[2026-06-27-pitchbook-2026-06-27-external-how-spacex-prices-the-ai-race]] · [[2026-06-20-pitchbook-2026-06-20-the-exit-blueprint-keeping-mid-market-p]] · [[2026-08-07-pitchbook-2026-08-07-external-stripe-s-10b-openrouter-gambit]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-06-09-pitchbook-2026-06-09-external-ai-ipos-are-off-to-the-races]]
 <!-- graph:end -->

@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple
 - 2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b
 - 2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system
+- 2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model
 - 2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg
-- 2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl
 embedding_id: 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 event_name: ''
 ---
@@ -38,5 +38,5 @@ VentureBeat published an analysis arguing AI agents need terminal-level corpus a
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]] · [[2026-05-14-cline-releases-open-source-agent-runtime-sdk-powering-its-cl]]
+**Related:** [[2026-05-22-direct-code-interpreters-outperform-vector-search-for-comple]] · [[2026-05-22-direct-corpus-interaction-dci-agents-outperform-vector-rag-b]] · [[2026-05-10-new-arxiv-may-2026-1-200-ai-papers-agentic-reputation-system]] · [[2026-08-07-study-coordinated-ai-agent-teams-beat-a-solo-frontier-model]] · [[2026-05-14-raindrop-releases-workshop-open-source-local-ai-agent-debugg]]
 <!-- graph:end -->

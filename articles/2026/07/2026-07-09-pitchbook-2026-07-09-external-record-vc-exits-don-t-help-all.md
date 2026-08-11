@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon
 - 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win
-- 2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof
 embedding_id: 2026-07-09-pitchbook-2026-07-09-external-record-vc-exits-don-t-help-all
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-09] [EXTERNAL] Record VC exits don't help all
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]] · [[2026-06-16-pitchbook-2026-06-16-external-ai-is-scaring-lenders-from-sof]]
+**Related:** [[2026-08-05-pitchbook-2026-08-05-external-2021-was-a-lemon]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-15-pitchbook-2026-07-15-external-fundless-for-the-win]]
 <!-- graph:end -->

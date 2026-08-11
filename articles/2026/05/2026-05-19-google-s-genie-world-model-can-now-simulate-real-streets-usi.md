@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese
 - 2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo
 - 2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun
-- 2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl
+- 2026-08-05-china-s-new-ai-gold-rush-world-models
 embedding_id: 2026-05-19-google-s-genie-world-model-can-now-simulate-real-streets-usi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Unveiled at Google I/O 2026, the Genie world-modeling system now incorporates St
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]] · [[2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun]] · [[2026-07-31-google-launches-then-quickly-pulls-an-ai-image-tool-in-googl]]
+**Related:** [[2026-05-20-hot-google-genie-3-street-view-walkable-ai-generated-worlds]] · [[2026-05-04-continual-learning-world-models-among-2026-s-enterprise-rese]] · [[2026-07-31-google-adds-then-pulls-an-ai-image-generation-feature-in-goo]] · [[2026-07-31-google-pulls-google-earth-s-ai-image-tool-one-day-after-laun]] · [[2026-08-05-china-s-new-ai-gold-rush-world-models]]
 <!-- graph:end -->

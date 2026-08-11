@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe
 - 2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj
+- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
 - 2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b
-- 2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s
 embedding_id: 2026-04-02-hot-medvi-reports-401m-revenue-with-2-employees-apr-2-ai-nat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]] · [[2026-07-09-legal-ai-startup-norm-ai-hits-a-1-2b-valuation-with-a-120m-s]]
+**Related:** [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1m-new-projects-pe]] · [[2026-06-09-lovable-hits-500m-annualized-revenue-with-1-million-new-proj]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]] · [[2026-05-10-palantir-q1-2026-revenue-85-yoy-fy-guidance-raised-to-7-65b]]
 <!-- graph:end -->

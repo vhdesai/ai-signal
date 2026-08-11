@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex
 - 2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo
-- 2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks
+- 2026-08-10-openai-describes-building-an-ai-native-finance-function
 embedding_id: 2026-07-21-openai-valuation-update-and-broader-ai-capital-market-contex
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI valuation update and broader AI/capital-market context.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-07-06-wall-street-says-it-s-time-to-buy-the-dip-on-ai-stocks]]
+**Related:** [[2026-07-20-openai-valuation-update-and-broader-ai-capital-market-contex]] · [[2026-04-10-openai-is-making-the-case-to-investors-that-its-early-buildo]] · [[2026-08-10-openai-describes-building-an-ai-native-finance-function]]
 <!-- graph:end -->

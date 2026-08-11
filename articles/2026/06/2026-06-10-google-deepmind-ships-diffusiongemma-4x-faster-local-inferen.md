@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
 - 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
-- 2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net
+- 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
 embedding_id: 2026-06-10-google-deepmind-ships-diffusiongemma-4x-faster-local-inferen
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Gemma 4 family member generates text in parallel blocks rather than autoregressi
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-05-28-sakana-ai-proposes-diffusionblocks-for-modular-denoising-net]]
+**Related:** [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]] · [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]]
 <!-- graph:end -->

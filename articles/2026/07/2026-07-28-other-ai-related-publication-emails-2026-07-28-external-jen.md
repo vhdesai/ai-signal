@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno
 - 2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai
 - 2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea
+- 2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
-- 2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are
 embedding_id: 2026-07-28-other-ai-related-publication-emails-2026-07-28-external-jen
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Other AI-related Publication Emails - [2026-07-28] [EXTERNAL] 🦄 Jen Taylor on
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-27-other-ai-related-publication-emails-2026-07-27-external-are]]
+**Related:** [[2026-07-24-other-ai-related-publication-emails-2026-07-24-external-anno]] · [[2026-07-17-other-ai-related-publication-emails-2026-07-17-microsoft-dai]] · [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-08-05-other-ai-related-publication-emails-2026-08-05-external-clau]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]]
 <!-- graph:end -->

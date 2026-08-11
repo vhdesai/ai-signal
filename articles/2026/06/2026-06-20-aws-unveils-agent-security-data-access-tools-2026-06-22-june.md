@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse
 - 2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw
 - 2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel
-- 2026-07-01-cio-dive-2026-07-01-external-july-1-aws-builds-an-engineerin
+- 2026-08-07-cio-dive-2026-08-07-external-aug-7-agent-breaches-multiply-m
 embedding_id: 2026-06-20-aws-unveils-agent-security-data-access-tools-2026-06-22-june
 event_name: ''
 ---
@@ -38,5 +38,5 @@ AWS unveils agent security, data access tools - [2026-06-22] June 22 - AI lesson
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-20-cio-dive-2026-06-20-external-weekender-aws-unveils-agent-sec]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]] · [[2026-07-01-cio-dive-2026-07-01-external-july-1-aws-builds-an-engineerin]]
+**Related:** [[2026-06-20-cio-dive-2026-06-20-external-weekender-aws-unveils-agent-sec]] · [[2026-06-06-cio-dive-2026-06-06-external-weekender-ai-agents-put-cyberse]] · [[2026-07-04-cio-dive-2026-07-04-external-weekender-aws-funnels-into-forw]] · [[2026-06-05-cio-dive-2026-06-05-external-june-5-agent-led-software-devel]] · [[2026-08-07-cio-dive-2026-08-07-external-aug-7-agent-breaches-multiply-m]]
 <!-- graph:end -->

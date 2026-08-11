@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 - 2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est
 - 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
-- 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
 embedding_id: 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-26] [EXTERNAL] Today: Homebuyers need to read this
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
+**Related:** [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-05-business-insider-2026-07-05-external-the-new-luxury-real-est]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]]
 <!-- graph:end -->

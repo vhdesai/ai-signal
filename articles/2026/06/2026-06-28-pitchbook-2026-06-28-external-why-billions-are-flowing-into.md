@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap
 - 2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost
 - 2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
-- 2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait
 embedding_id: 2026-06-28-pitchbook-2026-06-28-external-why-billions-are-flowing-into
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-06-28] [EXTERNAL] Why billions are flowing into AI video
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-14-pitchbook-2026-07-14-external-openai-s-trillion-dollar-wait]]
+**Related:** [[2026-06-02-pitchbook-2026-06-02-external-the-ai-budget-trap]] · [[2026-07-26-pitchbook-2026-07-26-external-how-ai-comes-at-a-cost]] · [[2026-08-02-pitchbook-2026-08-02-external-the-road-to-scalable-robotics]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
 <!-- graph:end -->

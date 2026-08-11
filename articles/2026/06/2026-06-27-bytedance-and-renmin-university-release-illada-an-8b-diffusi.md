@@ -20,9 +20,9 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic
 - 2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag
-- 2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t
 embedding_id: 2026-06-27-bytedance-and-renmin-university-release-illada-an-8b-diffusi
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Researchers at ByteDance and Renmin University released iLLaDA, an 8-billion-par
 
 **Entities:** [[ByteDance]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]] · [[2026-05-25-nemotron-labs-publishes-diffusion-language-models-for-real-t]]
+**Related:** [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-07-08-constrained-decoding-for-diffusion-language-models-via-effic]] · [[2026-07-08-stanford-proposes-constrained-decoding-for-diffusion-languag]]
 <!-- graph:end -->

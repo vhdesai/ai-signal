@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 - 2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t
-- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
 embedding_id: 2026-07-01-business-insider-2026-07-01-external-today-a-student-loan-ov
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-01] [EXTERNAL] Today: A student-loan overhaul begins
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni]] · [[2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]]
+**Related:** [[2026-08-02-business-insider-2026-08-02-external-today-a-student-loan-ni]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]] · [[2026-07-28-business-insider-2026-07-28-external-today-flying-first-clas]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-26-business-insider-2026-07-26-external-today-homebuyers-need-t]]
 <!-- graph:end -->

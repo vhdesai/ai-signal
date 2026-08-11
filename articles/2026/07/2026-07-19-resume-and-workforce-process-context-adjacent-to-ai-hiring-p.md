@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings
+- 2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin
 - 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
 - 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
-- 2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio
 embedding_id: 2026-07-19-resume-and-workforce-process-context-adjacent-to-ai-hiring-p
 event_name: ''
 ---
@@ -35,5 +35,5 @@ resume and workforce-process context adjacent to AI hiring/productivity discussi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-05-12-uw-study-llms-show-significant-racial-gender-and-intersectio]]
+**Related:** [[2026-04-04-mit-s-computer-science-and-ai-laboratory-published-findings]] · [[2026-08-05-mit-ai-automation-is-arriving-as-a-rising-tide-not-a-crashin]] · [[2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program]] · [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]]
 <!-- graph:end -->

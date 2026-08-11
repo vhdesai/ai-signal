@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve
 - 2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big
+- 2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai
 - 2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
-- 2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe
-- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 embedding_id: 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Business Insider - [2026-07-06] [EXTERNAL] Today: Small biz's big AI plans
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-08-01-business-insider-2026-08-01-external-today-napa-valley-dupe]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
+**Related:** [[2026-08-11-business-insider-2026-08-11-external-today-zuck-s-ai-for-eve]] · [[2026-08-04-business-insider-2026-08-04-external-today-wall-street-s-big]] · [[2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai]] · [[2026-07-12-business-insider-2026-07-12-external-today-the-1-000-questio]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

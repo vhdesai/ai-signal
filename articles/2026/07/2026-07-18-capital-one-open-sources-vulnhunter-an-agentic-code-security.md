@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-code-security
 - 2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk
+- 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - 2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
-- 2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 embedding_id: 2026-07-18-capital-one-open-sources-vulnhunter-an-agentic-code-security
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Capital One open-sources VulnHunter, an agentic code-security tool for finding e
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-code-security]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-07-06-skillcloak-study-malicious-agent-skills-evade-every-tested-s]]
+**Related:** [[2026-07-17-capital-one-open-sources-vulnhunter-an-agentic-code-security]] · [[2026-07-29-openai-open-sources-the-codex-security-cli-and-sdk]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[2026-05-26-a-new-open-source-project-codegraph-ships-a-pre-indexed-code]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]]
 <!-- graph:end -->

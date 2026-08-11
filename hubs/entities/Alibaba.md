@@ -1,13 +1,38 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 253
+member_count: 279
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 253 connected article(s).
+> Auto-generated entity hub. 279 connected article(s).
 
+- `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
+- `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
+- `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]
+- `2026-08-10` [[2026-08-10-apple-briefly-posts-then-pulls-a-guide-for-connecting-siri-t|Apple briefly posts — then pulls — a guide for connecting Siri to Alibaba’s Qwen in China]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agenti|Pokee AI releases Pokee‑Isaac 28B, a 10M-token-context agentic model built to run inside the customer boundary]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-08` [[2026-08-08-daily-ai-news-digest-august-8-2026|Daily AI News Digest – August 8, 2026]]
+- `2026-08-08` [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le|Compute Economics Reprice While Frontier Safety Slows the Leaders]]
+- `2026-08-08` [[2026-08-08-alibaba-plans-revenue-sharing-on-open-weight-qwen-3-8-max|Alibaba plans revenue-sharing on open-weight Qwen 3.8-Max]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-07` [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-qwe|Alibaba to require revenue sharing from large commercial Qwen users]]
+- `2026-08-07` [[2026-08-07-alibaba-to-shift-next-qwen-model-to-revenue-sharing-licensin|Alibaba to Shift Next Qwen Model to Revenue-Sharing Licensing, Following Moonshot's Kimi Precedent]]
+- `2026-08-07` [[2026-08-07-alibaba-to-require-revenue-sharing-from-large-commercial-use|Alibaba to Require Revenue Sharing From Large Commercial Users of Its Next Qwen Model]]
+- `2026-08-07` [[2026-08-07-alibaba-to-charge-large-commercial-users-of-its-next-open-we|Alibaba to Charge Large Commercial Users of Its Next Open-Weight Qwen Model]]
+- `2026-08-07` [[2026-08-07-alibaba-plans-to-charge-the-largest-users-of-its-open-qwen-m|Alibaba plans to charge the largest users of its “open” Qwen model]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-05` [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins|Coverage note: No items with a confirmed publication date inside the 24-hour window were found for Google/DeepMind, Meta, Apple, IBM, Cerebras, Databricks, Mistral, Replit, Tencent, Baidu, Alibaba, Huawei, SenseTime or DeepSeek, or from BAIR, Purdue, Georgia Tech, Princeton, CMU, UW, Cornell, UT Austin and UC San Diego. Absence indicates nothing date-verified in the window, not an absence of activity. Several aggregator items dated August 4 were traced to older originals and excluded; Palantir Q2 earnings and DeepSeek V4-Flash fell just outside the window (August 3).]]
+- `2026-08-04` [[2026-08-04-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo|Qwen3.8-Max claims frontier-level agentic computer-use performance]]
+- `2026-08-04` [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro|Open-weight models narrow capability gap while safety controls lag]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-04` [[2026-08-04-alibaba-s-qwen3-8-max-claims-frontier-level-agentic-computer|Alibaba's Qwen3.8-Max Claims Frontier-Level Agentic Computer Use]]
+- `2026-08-04` [[2026-08-04-alibaba-qwen3-8-max-intensifies-frontier-and-price-competiti|Alibaba Qwen3.8-Max intensifies frontier and price competition]]
 - `2026-08-04` [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s|18. HAI: open-weight models aren’t enough — we need truly open-source AI]]
 - `2026-08-03` [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo|Qwen3.8-Max claims frontier-level agentic computer-use performance]]
 - `2026-08-03` [[2026-08-03-monday-august-3-2026|Monday, August 3, 2026]]
@@ -15,6 +40,7 @@ member_count: 253
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-mod|Alibaba unveils Qwen3.8-Max, its “largest and most capable” model]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-its-most-capable-model-to-date|Alibaba unveils Qwen3.8-Max, its most capable model to date]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-mixture|Alibaba unveils Qwen3.8-Max, a 2.4-trillion-parameter mixture-of-experts model]]
+- `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-a-2-4-trillion-parameter-frontie|Alibaba unveils Qwen3.8-Max, a 2.4-trillion-parameter frontier model]]
 - `2026-08-03` [[2026-08-03-alibaba-unveils-qwen3-8-max-as-china-s-model-race-accelerate|Alibaba unveils Qwen3.8-Max as China's model race accelerates]]
 - `2026-08-03` [[2026-08-03-alibaba-says-its-new-ai-model-can-compete-with-anthropic|Alibaba says its new AI model can compete with Anthropic]]
 - `2026-08-03` [[2026-08-03-alibaba-releases-qwen3-8-max-a-2-4-trillion-parameter-moe-mo|Alibaba releases Qwen3.8-Max, a 2.4-trillion-parameter MoE model]]

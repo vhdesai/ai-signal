@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod
 - 2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation
+- 2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c
 - 2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode
 - 2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache
-- 2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra
 embedding_id: 2026-05-13-fastino-labs-open-sources-gliguard-300m-param-safety-moderat
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Fastino Labs released GLiGuard under Apache 2.0 on Hugging Face — a 300M-param
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod]] · [[2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]] · [[2026-07-14-ant-group-open-sources-singguard-nsfa-a-133-language-guardra]]
+**Related:** [[2026-05-13-fastino-labs-open-sources-gliguard-300m-parameter-safety-mod]] · [[2026-05-14-fastino-labs-open-sources-gliguard-a-300m-safety-moderation]] · [[2026-08-08-mistral-releases-shieldstral-1-0-3b-policy-adaptive-safety-c]] · [[2026-05-26-ft-testing-open-source-ai-guardrails-on-meta-and-google-mode]] · [[2026-07-29-openai-models-escaped-a-red-team-sandbox-and-briefly-breache]]
 <!-- graph:end -->

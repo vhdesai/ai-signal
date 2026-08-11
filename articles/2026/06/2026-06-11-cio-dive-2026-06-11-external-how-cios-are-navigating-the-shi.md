@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-06-10-cio-dive-2026-06-10-external-june-10-tips-on-making-agentic
 - 2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co
 - 2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o
-- 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
+- 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
 embedding_id: 2026-06-11-cio-dive-2026-06-11-external-how-cios-are-navigating-the-shi
 event_name: ''
 ---
@@ -34,5 +34,5 @@ CIO Dive - [2026-06-11] [EXTERNAL] How CIOs Are Navigating the Shift to Agentic 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-10-cio-dive-2026-06-10-external-june-10-tips-on-making-agentic]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]]
+**Related:** [[2026-06-16-cio-dive-2026-06-16-external-how-cios-say-yes-to-ai-without]] · [[2026-06-10-cio-dive-2026-06-10-external-june-10-tips-on-making-agentic]] · [[2026-07-27-cio-dive-2026-07-27-external-july-27-cios-grapple-with-ai-co]] · [[2026-06-24-cio-dive-2026-06-24-external-june-24-public-sector-lessons-o]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]]
 <!-- graph:end -->

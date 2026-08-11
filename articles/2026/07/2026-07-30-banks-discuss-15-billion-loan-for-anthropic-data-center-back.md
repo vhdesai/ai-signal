@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-google-assembles-roughly-200b-financing-structure-to-supply
 - 2026-04-25-google-plans-up-to-40b-anthropic-investment
 - 2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year
 - 2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne
-- 2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits
 embedding_id: 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Banks are reportedly in talks to lend $15 billion for an Anthropic data center b
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]] · [[2026-05-22-anthropic-closes-30b-round-at-900b-valuation-google-commits]]
+**Related:** [[2026-08-04-google-assembles-roughly-200b-financing-structure-to-supply]] · [[2026-04-25-google-plans-up-to-40b-anthropic-investment]] · [[2026-05-10-anthropic-agrees-to-200b-google-cloud-commitment-over-5-year]] · [[2026-05-02-sources-cited-by-winbuzzer-claim-anthropic-is-exploring-a-ne]]
 <!-- graph:end -->

@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive
 - 2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b
+- 2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex
 - 2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement
-- 2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc
 embedding_id: 2026-08-03-deepmind-strategy-chief-frames-record-ai-capex-as-a-bet-on-r
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Google DeepMind Chief Strategy Officer Jasjeet Sekhon, speaking at UC Berkeley鈥
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive]] 路 [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] 路 [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]] 路 [[2026-05-04-recursive-self-improvement-framing-gains-traction-in-researc]]
+**Related:** [[2026-08-03-google-deepmind-frames-record-ai-capex-as-a-bet-on-recursive]] 路 [[2026-05-14-recursive-superintelligence-emerges-from-stealth-with-650m-b]] 路 [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex]] 路 [[2026-07-30-lilian-weng-returns-to-openai-for-recursive-self-improvement]]
 <!-- graph:end -->

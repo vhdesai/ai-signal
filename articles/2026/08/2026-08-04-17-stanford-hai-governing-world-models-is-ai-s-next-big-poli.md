@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-stanford-hai-governing-world-models-is-ai-s-next-big-policy
 - 2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024
 - 2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding
 - 2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn
 - 2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo
-- 2026-05-07-shi-international-ai-ready-data-governance-for-cios-high-val
 embedding_id: 2026-08-04-17-stanford-hai-governing-world-models-is-ai-s-next-big-poli
 event_name: ''
 ---
@@ -36,5 +36,5 @@ In what HAI calls the first comprehensive policy brief on world models — AI th
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]] · [[2026-05-07-shi-international-ai-ready-data-governance-for-cios-high-val]]
+**Related:** [[2026-08-04-stanford-hai-governing-world-models-is-ai-s-next-big-policy]] · [[2026-05-24-stanford-hai-tracks-233-global-ai-regulatory-actions-in-2024]] · [[2026-04-15-stanford-s-hai-released-its-annual-ai-index-for-2026-finding]] · [[2026-05-27-how-ai-is-transforming-scientific-discovery-stanford-hai-syn]] · [[2026-05-26-mit-and-stanford-teams-release-new-benchmarks-on-long-horizo]]
 <!-- graph:end -->

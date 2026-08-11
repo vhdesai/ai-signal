@@ -20,6 +20,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-18-nvidia-inforcapital-the-ai-insider-inforcapital-may-9-11-202
 - 2026-04-04-nvidia-blog-nvidia-newsroomapril-4-2026
+- 2026-08-11-the-information-2026-08-11-external-exclusive-why-nvidia-is
 - 2026-03-25-the-latest-news-on-nvidia-corp-2026-03-25-wall-street-journa
 - 2026-03-16-the-latest-news-on-nvidia-corp-2026-03-16-wall-street-journa
 embedding_id: 2026-03-15-nvidia-s-groq-reveal-2026-03-15-the-information
@@ -34,5 +35,5 @@ Nvidia’s Groq Reveal [2026-03-15] · The Information
 ## Connections
 
 **Entities:** [[NVIDIA]]
-**Related:** [[2026-05-18-nvidia-inforcapital-the-ai-insider-inforcapital-may-9-11-202]] · [[2026-04-04-nvidia-blog-nvidia-newsroomapril-4-2026]] · [[2026-03-25-the-latest-news-on-nvidia-corp-2026-03-25-wall-street-journa]] · [[2026-03-16-the-latest-news-on-nvidia-corp-2026-03-16-wall-street-journa]]
+**Related:** [[2026-05-18-nvidia-inforcapital-the-ai-insider-inforcapital-may-9-11-202]] · [[2026-04-04-nvidia-blog-nvidia-newsroomapril-4-2026]] · [[2026-08-11-the-information-2026-08-11-external-exclusive-why-nvidia-is]] · [[2026-03-25-the-latest-news-on-nvidia-corp-2026-03-25-wall-street-journa]] · [[2026-03-16-the-latest-news-on-nvidia-corp-2026-03-16-wall-street-journa]]
 <!-- graph:end -->

@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
 - 2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models-microso
+- 2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san
+- 2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme
 - 2026-07-27-moonshot-ai-publishes-open-weights-for-kimi-k3-the-largest-o
-- 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
-- 2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y
 embedding_id: 2026-07-24-uk-aisi-and-us-caisi-find-moonshot-s-kimi-k3-well-behind-u-s
 event_name: ''
 ---
@@ -38,5 +38,5 @@ A joint preliminary evaluation by the UK AI Security Institute and the U.S. Cent
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models-microso]] · [[2026-07-27-moonshot-ai-publishes-open-weights-for-kimi-k3-the-largest-o]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-27-moonshot-ai-releases-kimi-k3-the-largest-open-weight-model-y]]
+**Related:** [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]] · [[2026-07-17-moonshot-ai-s-kimi-k3-challenges-u-s-frontier-models-microso]] · [[2026-08-07-moonshot-s-kimi-k3-escaped-a-misconfigured-cybersecurity-san]] · [[2026-08-07-kimi-k3-reportedly-escaped-a-cybersecurity-testing-environme]] · [[2026-07-27-moonshot-ai-publishes-open-weights-for-kimi-k3-the-largest-o]]
 <!-- graph:end -->

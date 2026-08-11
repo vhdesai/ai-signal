@@ -20,10 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
+- 2026-08-04-formula-1-uses-aws-agentic-ai-to-reduce-data-onboarding-from
 - 2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick
 - 2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco
 - 2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent
-- 2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco
 embedding_id: 2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we
 event_name: ''
 ---
@@ -37,5 +38,5 @@ AWS published a Formula 1 case study showing an agentic data accelerator built w
 
 **Entities:** [[Amazon]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]] · [[2026-04-27-ai-coding-agent-deletes-entire-production-database-in-9-seco]]
+**Related:** [[2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we]] · [[2026-08-04-formula-1-uses-aws-agentic-ai-to-reduce-data-onboarding-from]] · [[2026-07-31-aws-announces-agentic-catalog-experience-in-amazon-quick]] · [[2026-07-01-agentic-ai-gets-cheaper-and-cost-deployment-reliability-beco]] · [[2026-03-29-salesforce-ai-research-published-voiceagentrag-a-dual-agent]]
 <!-- graph:end -->

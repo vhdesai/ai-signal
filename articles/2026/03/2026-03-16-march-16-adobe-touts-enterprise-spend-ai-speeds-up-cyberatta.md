@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in
+- 2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr
 - 2026-03-20-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in
 - 2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa
 - 2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt
-- 2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f
 embedding_id: 2026-03-16-march-16-adobe-touts-enterprise-spend-ai-speeds-up-cyberatta
 event_name: ''
 ---
@@ -36,5 +36,5 @@ March 16 - Adobe touts enterprise spend | AI speeds up cyberattacks [2026-03-16]
 ## Connections
 
 **Entities:** [[Adobe]]
-**Related:** [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]] · [[2026-03-20-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]] · [[2026-07-07-cio-dive-2026-07-07-external-july-7-ai-to-upend-saas-spend-f]]
+**Related:** [[2026-03-16-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]] · [[2026-08-08-cio-dive-2026-08-08-external-weekender-surprise-ai-costs-thr]] · [[2026-03-20-cio-dive-s-studio-navigating-the-2026-insurance-landscape-in]] · [[2026-07-30-cio-dive-2026-07-30-external-july-30-how-much-ai-spend-is-wa]] · [[2026-07-11-cio-dive-2026-07-11-external-weekender-agentic-ai-to-disrupt]]
 <!-- graph:end -->

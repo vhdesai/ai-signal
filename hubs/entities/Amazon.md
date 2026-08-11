@@ -1,19 +1,63 @@
 ---
 type: entity-hub
 hub: Amazon
-member_count: 454
+member_count: 498
 ---
 
 # Amazon
 
-> Auto-generated entity hub. 454 connected article(s).
+> Auto-generated entity hub. 498 connected article(s).
 
+- `2026-08-11` [[2026-08-11-amazon-s-panos-panay-to-make-the-post-smartphone-ai-hardware|Amazon's Panos Panay to make the post-smartphone AI hardware case at Disrupt]]
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-shepherd-forkable-agent-runtime-enables-meta-agent-supervisi|Shepherd: forkable agent runtime enables meta-agent supervision]]
+- `2026-08-08` [[2026-08-08-planned-amazon-data-center-could-become-the-largest-climate|Planned Amazon data center could become the largest climate polluter in the U.S.]]
+- `2026-08-08` [[2026-08-08-planned-amazon-data-center-could-become-the-largest-u-s-clim|Planned Amazon data center could become the largest U.S. climate polluter]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-08` [[2026-08-08-daily-ai-news-digest-august-9-2026|Daily AI News Digest – August 9, 2026]]
+- `2026-08-08` [[2026-08-08-daily-ai-news-digest-august-8-2026|Daily AI News Digest – August 8, 2026]]
+- `2026-08-08` [[2026-08-08-amazon-s-planned-texas-data-center-power-plant-would-be-larg|Amazon's Planned Texas Data Center Power Plant Would Be Largest U.S. Climate Polluter]]
+- `2026-08-08` [[2026-08-08-amazon-backs-a-7-65-gw-texas-gas-plant-to-power-a-hyperscale|Amazon backs a 7.65 GW Texas gas plant to power a hyperscale AI campus]]
+- `2026-08-08` [[2026-08-08-amazon-backs-7-65-gw-texas-gas-plant-to-power-hyperscale-ai|Amazon backs 7.65 GW Texas gas plant to power hyperscale AI campus]]
+- `2026-08-08` [[2026-08-08-ai-use-accusations-become-a-reputational-scarlet-letter-in-c|AI Use Accusations Become a Reputational "Scarlet Letter" in Creative Industries]]
+- `2026-08-07` [[2026-08-07-softbank-s-ai-splurge-validates-hyperscaler-capex|SoftBank's AI Splurge Validates Hyperscaler Capex]]
+- `2026-08-07` [[2026-08-07-how-amazon-built-a-data-center-in-a-california-town-without|How Amazon Built a Data Center in a California Town Without Anyone Noticing]]
+- `2026-08-07` [[2026-08-07-anthropic-makes-auto-mode-the-default-in-claude-code-across|Anthropic makes "auto mode" the default in Claude Code across Pro, Max, and Team]]
+- `2026-08-07` [[2026-08-07-amazon-s-security-chief-on-ai-costs-and-smarts-china-investi|Amazon's Security Chief on AI Costs and Smarts; China Investigates Palo Alto Networks]]
+- `2026-08-07` [[2026-08-07-amazon-behind-massive-private-gas-plant-for-new-data-centers|Amazon Behind Massive Private Gas Plant for New Data Centers]]
+- `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity-as-t|AWS reportedly tells engineers to conserve CPU capacity as the compute crunch spreads]]
+- `2026-08-07` [[2026-08-07-aws-tells-engineers-to-cut-cpu-waste-amid-capacity-crunch|AWS Tells Engineers to Cut CPU Waste Amid Capacity Crunch]]
+- `2026-08-07` [[2026-08-07-aws-reportedly-tells-engineers-to-conserve-cpu-capacity|AWS Reportedly Tells Engineers to Conserve CPU Capacity]]
+- `2026-08-07` [[2026-08-07-aws-details-how-cohere-health-digitizes-clinical-policies-us|AWS Details How Cohere Health Digitizes Clinical Policies Using Bedrock AgentCore]]
+- `2026-08-06` [[2026-08-06-reports-detail-openai-s-hardware-device-donut-shaped-300-400|Reports Detail OpenAI's Hardware Device: Donut-Shaped, $300-$400, Jony Ive Design]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-06` [[2026-08-06-amazon-s-stake-in-anthropic-could-top-200b-as-the-startup-ey|Amazon’s stake in Anthropic could top $200B as the startup eyes an October IPO]]
+- `2026-08-06` [[2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t|AWS integrates OpenAI Codex and Anthropic Claude Code with the Continuum security platform]]
+- `2026-08-06` [[2026-08-06-aws-launches-persistent-compute-and-temporal-security-polici|AWS Launches Persistent Compute and Temporal Security Policies for Bedrock AgentCore]]
+- `2026-08-05` [[2026-08-05-linux-foundation-opens-rfc-on-safe-a-shared-incident-disclos|Linux Foundation Opens RFC on SAFE, a Shared Incident-Disclosure Framework for AI Agents]]
+- `2026-08-05` [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team|Anthropic is hiring a custom AI chip design team]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-in-house-ai-chip-design-team-for-claude|Anthropic confirms in-house AI chip design team for Claude]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-an-in-house-custom-silicon-team-for-claud|Anthropic confirms an in-house custom silicon team for Claude]]
+- `2026-08-05` [[2026-08-05-anthropic-builds-an-in-house-ai-chip-design-team-for-claude|Anthropic builds an in-house AI chip design team for Claude]]
+- `2026-08-05` [[2026-08-05-anthropic-confirms-it-is-building-an-in-house-custom-silicon|Anthropic Confirms It Is Building an In-House Custom Silicon Team]]
+- `2026-08-05` [[2026-08-05-alpamayo-2-super-detailed-as-an-open-vla-architecture-for-dr|Alpamayo 2 Super detailed as an open VLA architecture for driving]]
+- `2026-08-04` [[2026-08-04-open-weight-models-narrow-capability-gap-while-safety-contro|Open-weight models narrow capability gap while safety controls lag]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
+- `2026-08-04` [[2026-08-04-formula-1-uses-aws-agentic-ai-to-reduce-data-onboarding-from|Formula 1 uses AWS agentic AI to reduce data onboarding from weeks to minutes]]
+- `2026-08-04` [[2026-08-04-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we|Formula 1 uses AWS agentic AI to cut data onboarding from weeks to minutes]]
+- `2026-08-04` [[2026-08-04-anthropic-signs-reported-10b-six-year-compute-deal-with-nvid|Anthropic Signs Reported $10B, Six-Year Compute Deal With Nvidia-Backed Startup Volta]]
 - `2026-08-04` [[2026-08-04-amazon-joins-the-3-trillion-club-as-aws-posts-its-fastest-re|Amazon joins the $3 trillion club as AWS posts its fastest revenue growth in four-plus years]]
+- `2026-08-04` [[2026-08-04-amazon-bedrock-makes-built-in-web-search-generally-available|Amazon Bedrock makes built-in Web Search generally available]]
+- `2026-08-04` [[2026-08-04-aws-launches-web-search-on-amazon-bedrock-for-model-groundin|AWS launches Web Search on Amazon Bedrock for model grounding]]
+- `2026-08-04` [[2026-08-04-aws-adds-native-web-search-grounding-to-amazon-bedrock|AWS adds native web search grounding to Amazon Bedrock]]
 - `2026-08-03` [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news|Wall Street Journal / WSJ - [2026-08-03] [EXTERNAL] The latest news on Meta Platforms Inc]]
 - `2026-08-03` [[2026-08-03-formula-1-uses-aws-agentic-ai-to-cut-data-onboarding-from-we|Formula 1 uses AWS agentic AI to cut data onboarding from weeks to minutes]]
 - `2026-08-03` [[2026-08-03-anthropic-to-offer-in-country-claude-inference-in-india-via|Anthropic to offer in-country Claude inference in India via Amazon Bedrock]]
 - `2026-08-03` [[2026-08-03-anthropic-to-enable-in-country-claude-inference-in-india-via|Anthropic to enable in-country Claude inference in India via Amazon Bedrock]]
 - `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-as-aws-growth-eases-ai-spending-fears|Amazon tops $3 trillion as AWS growth eases AI-spending fears]]
+- `2026-08-03` [[2026-08-03-amazon-crosses-3-trillion-market-value-on-accelerating-aws-a|Amazon crosses $3 trillion market value on accelerating AWS AI demand]]
 - `2026-08-03` [[2026-08-03-amazon-completes-another-35b-investment-in-openai|Amazon completes another $35B investment in OpenAI]]
 - `2026-08-03` [[2026-08-03-amazon-tops-3-trillion-market-value-as-ai-cloud-demand-accel|Amazon Tops $3 Trillion Market Value as AI Cloud Demand Accelerates]]
 - `2026-08-03` [[2026-08-03-amazon-completes-additional-35-billion-investment-in-openai|Amazon Completes Additional $35 Billion Investment in OpenAI]]

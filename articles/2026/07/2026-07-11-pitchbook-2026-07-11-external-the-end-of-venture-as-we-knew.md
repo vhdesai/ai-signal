@@ -20,8 +20,8 @@ related_article_ids:
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
 - 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
+- 2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target
 - 2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers
-- 2026-06-26-pitchbook-2026-06-26-external-quantum-leap
 embedding_id: 2026-07-11-pitchbook-2026-07-11-external-the-end-of-venture-as-we-knew
 event_name: ''
 ---
@@ -33,5 +33,5 @@ PitchBook - [2026-07-11] [EXTERNAL] The end of venture as we knew it
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]] · [[2026-06-26-pitchbook-2026-06-26-external-quantum-leap]]
+**Related:** [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]] · [[2026-08-06-pitchbook-2026-08-06-external-ai-s-hot-new-target]] · [[2026-07-25-pitchbook-2026-07-25-external-ai-s-new-power-brokers]]
 <!-- graph:end -->

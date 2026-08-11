@@ -21,10 +21,11 @@ cross_cutting_topics:
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-05-u-s-moves-to-ban-chinese-data-center-components
+- 2026-08-04-u-s-drafting-ban-on-chinese-data-center-components
+- 2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component
 - 2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions
 - 2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers
-- 2026-07-29-the-information-2026-07-29-external-trump-administration-ban
-- 2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte
 embedding_id: 2026-08-04-trump-administration-mulls-ban-on-chinese-data-center-device
 event_name: ''
 ---
@@ -37,5 +38,5 @@ The Trump administration is considering a ban on Chinese-made devices used in U.
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]] · [[Global AI Race]]
-**Related:** [[2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]] · [[2026-07-29-the-information-2026-07-29-external-trump-administration-ban]] · [[2026-07-29-fcc-bars-import-of-chinese-humanoid-robots-and-grid-connecte]]
+**Related:** [[2026-08-05-u-s-moves-to-ban-chinese-data-center-components]] · [[2026-08-04-u-s-drafting-ban-on-chinese-data-center-components]] · [[2026-08-04-washington-drafting-ban-on-new-chinese-data-center-component]] · [[2026-07-20-the-trump-administration-is-reportedly-weighing-restrictions]] · [[2026-07-14-new-york-set-to-temporarily-ban-large-new-data-centers]]
 <!-- graph:end -->

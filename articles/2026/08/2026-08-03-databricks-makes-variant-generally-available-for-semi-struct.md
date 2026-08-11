@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 - 2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by
+- 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 - 2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat
-- 2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model
 embedding_id: 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Databricks announced general availability of Variant, an open standard for semi-
 
 **Entities:** [[Databricks]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]] · [[2026-04-29-ibm-granite-4-1-series-released-open-source-enterprise-model]]
+**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-05-02-databricks-appkit-replit-native-connector-for-enterprise-dat]]
 <!-- graph:end -->

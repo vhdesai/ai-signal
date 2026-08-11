@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
+- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 embedding_id: 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
 event_name: ''
 ---
@@ -36,5 +37,5 @@ NPR reported that Nvidia is set to spend on the order of $750 billion across the
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]]
+**Related:** [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
 <!-- graph:end -->

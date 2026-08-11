@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
 - 2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea
 - 2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali
-- 2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m
-- 2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci
 embedding_id: 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Apple Machine Learning Research published a study on preference alignment in mul
 
 **Entities:** [[Apple]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]] · [[2026-07-06-scaling-properties-of-continuous-diffusion-spoken-language-m]] · [[2026-05-26-research-stanford-hai-algorithmic-monoculture-amplifies-raci]]
+**Related:** [[2026-08-07-apple-compares-diffusion-and-autoregressive-language-model-p]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-11-apple-publishes-2026-privacy-preserving-ml-ai-workshop-resea]] · [[2026-05-27-alignment-tampering-how-rlhf-is-exploited-to-optimize-misali]]
 <!-- graph:end -->

@@ -23,6 +23,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves
+- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
 - 2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1
 - 2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i
 - 2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i
@@ -39,5 +40,5 @@ Microsoft disclosed cumulative OpenAI spend now exceeds $100 billion across equi
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1]] · [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
+**Related:** [[2026-05-12-microsoft-has-recouped-more-than-double-its-13b-openai-inves]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]] · [[2026-05-18-microsoft-openai-exclusivity-ends-openai-launches-deployco-1]] · [[2026-06-22-openai-s-light-balance-sheet-could-face-a-hard-look-before-i]] · [[2026-05-14-microsoft-s-625b-remaining-performance-obligation-reframes-i]]
 <!-- graph:end -->

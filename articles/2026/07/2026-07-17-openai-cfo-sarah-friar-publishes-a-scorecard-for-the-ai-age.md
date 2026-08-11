@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-18-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age
 - 2026-07-19-openai-cfo-sarah-friar-s-ai-scorecard-and-other-roi-framewor
+- 2026-08-10-openai-describes-building-an-ai-native-finance-function
 - 2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st
 - 2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri
-- 2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep
 embedding_id: 2026-07-17-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI CFO Sarah Friar publishes "A scorecard for the AI age," arguing enterpris
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-18-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age]] · [[2026-07-19-openai-cfo-sarah-friar-s-ai-scorecard-and-other-roi-framewor]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]] · [[2026-05-04-cfo-ing-in-the-ai-era-measuring-outcomes-when-the-rules-keep]]
+**Related:** [[2026-07-18-openai-cfo-sarah-friar-publishes-a-scorecard-for-the-ai-age]] · [[2026-07-19-openai-cfo-sarah-friar-s-ai-scorecard-and-other-roi-framewor]] · [[2026-08-10-openai-describes-building-an-ai-native-finance-function]] · [[2026-07-31-openai-lays-out-building-abundant-intelligence-full-stack-st]] · [[2026-07-17-openai-argues-teens-deserve-safe-ai-access-with-age-appropri]]
 <!-- graph:end -->

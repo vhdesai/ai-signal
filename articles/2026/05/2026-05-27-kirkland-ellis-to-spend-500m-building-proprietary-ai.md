@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
 - 2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending
 - 2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a
 - 2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190
-- 2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor
 embedding_id: 2026-05-27-kirkland-ellis-to-spend-500m-building-proprietary-ai
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Kirkland & Ellis disclosed plans to spend $500M building its own internal AI pla
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]] · [[2026-07-27-amazon-and-microsoft-s-combined-400b-ai-spend-tests-investor]]
+**Related:** [[2026-08-07-legal-ai-firm-harvey-reportedly-raising-500m-at-a-15-5b-valu]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-05-19-amazon-s-aws-ai-strategy-gains-credibility-through-spending]] · [[2026-07-15-amazon-frames-roughly-200b-of-2026-ai-infrastructure-spend-a]] · [[2026-05-15-analysis-out-this-morning-highlights-that-alphabet-s-180-190]]
 <!-- graph:end -->

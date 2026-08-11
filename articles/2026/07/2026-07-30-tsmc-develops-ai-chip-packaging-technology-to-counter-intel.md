@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu
 - 2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s
+- 2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand
 - 2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem
-- 2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance
-- 2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am
+- 2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained
 embedding_id: 2026-07-30-tsmc-develops-ai-chip-packaging-technology-to-counter-intel
 event_name: ''
 ---
@@ -40,5 +40,5 @@ TSMC is developing advanced chip-packaging technology similar to Intel's offerin
 
 **Entities:** [[Intel]] · [[TSMC]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]] · [[2026-07-20-ai-memory-shortages-are-becoming-geopolitical-as-hbm-advance]] · [[2026-06-01-china-s-ai-chip-strategy-pivots-from-gpus-to-custom-asics-am]]
+**Related:** [[2026-07-30-tsmc-works-on-advanced-ai-chip-packaging-as-the-infrastructu]] · [[2026-06-04-tsmc-warns-ai-demand-is-straining-the-entire-semiconductor-s]] · [[2026-08-10-tsmc-july-revenue-surges-45-year-over-year-on-ai-chip-demand]] · [[2026-07-20-tsmc-accelerates-arizona-fab-expansion-on-robust-ai-chip-dem]] · [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained]]
 <!-- graph:end -->

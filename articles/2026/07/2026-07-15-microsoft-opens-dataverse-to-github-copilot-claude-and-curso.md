@@ -22,9 +22,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente
+- 2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over
 - 2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter
 - 2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con
-- 2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w
 embedding_id: 2026-07-15-microsoft-opens-dataverse-to-github-copilot-claude-and-curso
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Microsoft opens Dataverse to GitHub Copilot, Claude, and Cursor coding agents.
 
 **Entities:** [[Microsoft]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]] · [[2026-05-14-cursor-3-0-has-fundamentally-changed-developer-interaction-w]]
+**Related:** [[2026-05-18-ai-coding-agents-2026-cursor-github-copilot-replit-lead-ente]] · [[2026-08-06-microsoft-open-sources-unit-test-ai-agent-claims-gains-over]] · [[2026-05-09-microsoft-copilot-fabric-data-agents-enable-autonomous-enter]] · [[2026-05-18-startuphub-ai-s-2026-ranking-of-the-top-20-coding-agents-con]]
 <!-- graph:end -->

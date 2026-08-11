@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch
 - 2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c
-- 2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a
-- 2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in
+- 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
+- 2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with
 embedding_id: 2026-07-31-mediatek-approves-5b-financing-to-expand-custom-ai-data-cent
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MediaTek's board approved a discretionary financing budget of up to $5B to fund 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-06-02-stmicroelectronics-doubles-data-center-revenue-ambition-on-a]] · [[2026-05-18-nvidia-has-committed-more-than-40b-to-equity-investments-in]]
+**Related:** [[2026-07-31-mediatek-approves-up-to-5b-to-build-custom-ai-data-center-ch]] · [[2026-07-31-mediatek-approves-5b-financing-to-push-into-custom-ai-data-c]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]] · [[2026-08-06-startup-raises-700-million-to-replace-data-center-wires-with]]
 <!-- graph:end -->

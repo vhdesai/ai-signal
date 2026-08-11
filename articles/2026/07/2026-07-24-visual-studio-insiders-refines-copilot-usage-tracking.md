@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock
 - 2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co
 - 2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built
-- 2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp
+- 2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit
 embedding_id: 2026-07-24-visual-studio-insiders-refines-copilot-usage-tracking
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built]] · [[2026-05-22-microsoft-copilot-studio-moves-computer-use-agents-to-enterp]]
+**Related:** [[2026-07-13-visual-studio-adds-copilot-usage-tracking-to-curb-bill-shock]] · [[2026-05-03-microsoft-embedding-co-authored-by-copilot-in-vs-code-git-co]] · [[2026-07-30-visual-studio-s-july-update-ships-a-copilot-agent-and-built]] · [[2026-08-10-study-of-446-developer-reports-finds-llm-native-ide-risk-sit]]
 <!-- graph:end -->

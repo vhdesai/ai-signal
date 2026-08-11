@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa
+- 2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened
 - 2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl
-- 2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h
 embedding_id: 2026-05-17-openai-announced-another-internal-reorganization-in-a-memo-v
 event_name: ''
 ---
@@ -40,5 +40,5 @@ OpenAI announced another internal reorganization in a memo viewed by The Verge (
 
 **Entities:** [[Apple]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]] · [[2026-05-09-greg-brockman-s-personal-journal-from-openai-s-early-years-h]]
+**Related:** [[2026-05-17-openai-reorg-greg-brockman-takes-full-control-of-product-str]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-05-18-openai-restructures-into-a-unified-consumer-deployment-compa]] · [[2026-08-04-apple-tells-court-its-openai-trade-secrets-probe-has-widened]] · [[2026-05-15-openai-is-reported-to-be-preparing-legal-action-against-appl]]
 <!-- graph:end -->

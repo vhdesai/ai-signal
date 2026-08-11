@@ -38,6 +38,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13
+- 2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins
 - 2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours
 - 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 - 2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de
@@ -54,5 +55,5 @@ event_name: ''
 
 **Entities:** [[Alibaba]] · [[Apple]] · [[Baidu]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[IBM]] · [[Meta]] · [[Mistral]] · [[Oracle]] · [[Palantir]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
+**Related:** [[2026-05-13-gaps-noted-bair-blog-latest-may-8-meta-ai-blog-no-may-12-13]] · [[2026-08-05-coverage-note-no-items-with-a-confirmed-publication-date-ins]] · [[2026-06-28-no-qualifying-items-confirmed-published-in-the-last-24-hours]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]] · [[2026-05-17-monitored-but-quiet-no-may-16-17-items-openai-blog-google-de]]
 <!-- graph:end -->

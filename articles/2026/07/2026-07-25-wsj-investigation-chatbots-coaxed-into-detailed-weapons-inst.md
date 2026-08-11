@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-25-wsj-investigation-finds-chatbots-can-still-be-coaxed-into-we
 - 2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons
+- 2026-08-09-wsj-examines-the-rise-of-ai-therapy-use
 - 2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d
 - 2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac
-- 2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin
 embedding_id: 2026-07-25-wsj-investigation-chatbots-coaxed-into-detailed-weapons-inst
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Bio/terrorism experts found some chatbot responses gave accurate, actionable gui
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-wsj-investigation-finds-chatbots-can-still-be-coaxed-into-we]] · [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]] · [[2026-08-03-love-in-the-time-of-ai-chatbots-are-taking-over-online-datin]]
+**Related:** [[2026-07-25-wsj-investigation-finds-chatbots-can-still-be-coaxed-into-we]] · [[2026-07-26-wsj-reports-some-ai-chatbots-can-provide-biological-weapons]] · [[2026-08-09-wsj-examines-the-rise-of-ai-therapy-use]] · [[2026-04-01-a-new-stanford-study-published-this-week-outlines-specific-d]] · [[2026-05-29-ai-health-chatbots-answer-everyday-questions-with-76-accurac]]
 <!-- graph:end -->

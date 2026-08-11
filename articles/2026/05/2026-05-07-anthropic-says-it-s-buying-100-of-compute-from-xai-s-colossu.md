@@ -25,7 +25,7 @@ related_article_ids:
 - 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
 - 2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa
 - 2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol
-- 2026-05-14-anthropic-secures-spacex-colossus-1-supercomputer-220-000-gp
+- 2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu
 embedding_id: 2026-05-07-anthropic-says-it-s-buying-100-of-compute-from-xai-s-colossu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic Says It’s Buying 100% of Compute From xAI’s Colossus Data Center [
 
 **Entities:** [[Anthropic]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-05-07-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-05-14-anthropic-secures-spacex-colossus-1-supercomputer-220-000-gp]]
+**Related:** [[2026-05-07-tech-news-and-analysis-every-weekday-at-10-am-pt-1-pm-et]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-05-26-anthropic-reportedly-rents-colossus-1-the-220k-gpu-spacex-xa]] · [[2026-05-21-microsoft-in-talks-to-supply-maia-200-chips-to-anthropic-fol]] · [[2026-08-04-anthropic-signs-10-billion-compute-deal-with-ai-cloud-startu]]
 <!-- graph:end -->

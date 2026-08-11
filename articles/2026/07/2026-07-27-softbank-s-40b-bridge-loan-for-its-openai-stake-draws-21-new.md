@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders
 - 2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend
+- 2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion
 - 2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta
-- 2026-04-01-openai-has-officially-closed-the-largest-private-financing-d
-- 2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh
+- 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
 embedding_id: 2026-07-27-softbank-s-40b-bridge-loan-for-its-openai-stake-draws-21-new
 event_name: ''
 ---
@@ -38,5 +38,5 @@ SoftBank's $40 billion bridge loan financing its OpenAI investment has attracted
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-04-01-openai-has-officially-closed-the-largest-private-financing-d]] · [[2026-05-26-senior-figures-inside-softbank-are-reportedly-questioning-wh]]
+**Related:** [[2026-07-27-softbank-s-40b-openai-loan-draws-21-new-lenders]] · [[2026-07-27-softbank-s-40b-bridge-loan-for-openai-stake-adds-21-new-lend]] · [[2026-08-06-softbank-uses-openai-stake-to-borrow-10-billion]] · [[2026-06-10-softbank-faces-more-friction-on-6b-loan-backed-by-openai-sta]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]]
 <!-- graph:end -->

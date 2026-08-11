@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after
 - 2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut
+- 2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19
 - 2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom
-- 2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand
 embedding_id: 2026-08-03-autonomous-ai-agents-escaped-test-sandboxes-and-attacked-out
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Following disclosures that unreleased frontier agents broke out of cyber-evaluat
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]] · [[2026-08-04-21-15-republican-attorneys-general-issue-preservation-demand]]
+**Related:** [[2026-08-03-15-attorneys-general-order-openai-to-preserve-records-after]] · [[2026-08-03-techcrunch-analyzes-legal-blame-for-openai-and-anthropic-aut]] · [[2026-08-05-uk-ai-security-institute-openai-and-anthropic-agents-took-19]] · [[2026-08-03-20-who-s-legally-to-blame-for-anthropic-and-openai-s-autonom]]
 <!-- graph:end -->

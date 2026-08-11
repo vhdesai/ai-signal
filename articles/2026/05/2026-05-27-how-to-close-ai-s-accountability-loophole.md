@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits
 - 2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l
+- 2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit
 - 2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go
 - 2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts
-- 2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado
 embedding_id: 2026-05-27-how-to-close-ai-s-accountability-loophole
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An FT opinion piece argues that current AI liability frameworks let model develo
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts]] · [[2026-04-11-elon-musk-s-xai-has-filed-suit-against-the-state-of-colorado]]
+**Related:** [[2026-05-14-openai-faces-fast-growing-wave-of-ai-safety-lawsuits]] · [[2026-04-06-the-u-s-senate-commerce-committee-advanced-a-bipartisan-ai-l]] · [[2026-08-07-eu-ai-act-enforcement-moves-from-deadline-to-audit]] · [[2026-05-26-financial-times-safety-guardrails-on-open-source-meta-and-go]] · [[2026-03-28-at-the-axios-ai-dc-summit-industry-leaders-and-legal-experts]]
 <!-- graph:end -->

@@ -22,10 +22,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-17-nvidia-releases-sana-wm-2-6b-world-model-for-1-minute-720p-v
-- 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
-- 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
-- 2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model
+- 2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language
+- 2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo
+- 2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
+- 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
 embedding_id: 2026-05-17-nvidia-released-sana-wm-a-2-6-billion-parameter-world-model
 event_name: ''
 ---
@@ -39,5 +39,5 @@ NVIDIA released SANA-WM, a 2.6 billion parameter world model capable of generati
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-17-nvidia-releases-sana-wm-2-6b-world-model-for-1-minute-720p-v]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-06-30-meituan-open-sources-longcat-2-0-a-trillion-parameter-model]]
+**Related:** [[2026-05-17-nvidia-releases-sana-wm-2-6b-world-model-for-1-minute-720p-v]] · [[2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language]] · [[2026-08-05-nvidia-releases-alpamayo-2-super-open-vla-model-for-autonomo]] · [[2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]]
 <!-- graph:end -->

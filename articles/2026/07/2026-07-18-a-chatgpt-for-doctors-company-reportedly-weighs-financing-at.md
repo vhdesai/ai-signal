@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-17-a-chatgpt-for-doctors-company-reportedly-weighs-financing-at
 - 2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not
+- 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125
 - 2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
 embedding_id: 2026-07-18-a-chatgpt-for-doctors-company-reportedly-weighs-financing-at
@@ -36,5 +37,5 @@ A "ChatGPT for doctors" company reportedly weighs financing at a $20B valuation,
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-17-a-chatgpt-for-doctors-company-reportedly-weighs-financing-at]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
+**Related:** [[2026-07-17-a-chatgpt-for-doctors-company-reportedly-weighs-financing-at]] · [[2026-04-23-openai-shipped-chatgpt-images-2-0-gpt-image-2-delivering-not]] · [[2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125]] · [[2026-05-26-ai-subscription-tiers-restructured-across-openai-anthropic-g]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
 <!-- graph:end -->

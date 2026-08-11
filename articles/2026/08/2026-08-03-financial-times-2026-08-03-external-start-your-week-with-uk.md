@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-financial-times-2026-07-27-external-start-your-week-with-gib
+- 2026-08-05-financial-times-2026-08-05-external-you-still-have-free-arti
 - 2026-08-01-financial-times-2026-08-01-external-weekend-highlight-is-wet
 - 2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46
 - 2026-06-30-june-29-2026-financial-times-via-engadget
-- 2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo
 embedding_id: 2026-08-03-financial-times-2026-08-03-external-start-your-week-with-uk
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Financial Times - [2026-08-03] [EXTERNAL] Start your week with: UK graduate job 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-financial-times-2026-07-27-external-start-your-week-with-gib]] · [[2026-08-01-financial-times-2026-08-01-external-weekend-highlight-is-wet]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-30-june-29-2026-financial-times-via-engadget]] · [[2026-07-25-cio-dive-daily-dive-2026-07-25-external-weekender-banks-repo]]
+**Related:** [[2026-07-27-financial-times-2026-07-27-external-start-your-week-with-gib]] · [[2026-08-05-financial-times-2026-08-05-external-you-still-have-free-arti]] · [[2026-08-01-financial-times-2026-08-01-external-weekend-highlight-is-wet]] · [[2026-07-07-pitchbook-2026-07-07-external-pe-exits-fall-46]] · [[2026-06-30-june-29-2026-financial-times-via-engadget]]
 <!-- graph:end -->

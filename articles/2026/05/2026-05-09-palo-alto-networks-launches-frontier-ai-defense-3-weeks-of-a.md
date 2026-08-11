@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m
 - 2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li
 - 2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g
-- 2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 embedding_id: 2026-05-09-palo-alto-networks-launches-frontier-ai-defense-3-weeks-of-a
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Palo Alto Networks Launches Frontier AI Defense — 3 Weeks of AI Matches a Full
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-05-19-frontier-ai-models-now-discover-security-vulnerabilities-at]]
+**Related:** [[2026-05-09-palo-alto-networks-announced-frontier-ai-defense-a-new-secur]] · [[2026-06-23-five-eyes-alliance-warns-ai-will-outpace-cyber-defenses-in-m]] · [[2026-05-17-security-researchers-using-ai-tools-found-the-third-major-li]] · [[2026-05-12-u-s-doc-expands-pre-release-ai-safety-testing-to-five-labs-g]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]]
 <!-- graph:end -->

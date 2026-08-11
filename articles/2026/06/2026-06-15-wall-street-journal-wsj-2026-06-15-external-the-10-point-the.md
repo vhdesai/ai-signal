@@ -19,9 +19,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin
 - 2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round
+- 2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t
 - 2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the
 - 2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the
-- 2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the
 embedding_id: 2026-06-15-wall-street-journal-wsj-2026-06-15-external-the-10-point-the
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Wall Street Journal / WSJ - [2026-06-15] [EXTERNAL] The 10-Point: The U.S. and I
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin]] · [[2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round]] · [[2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the]] · [[2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the]] · [[2026-07-12-wall-street-journal-wsj-2026-07-12-external-the-10-point-the]]
+**Related:** [[2026-07-26-wall-street-journal-wsj-2026-07-26-external-the-10-point-lin]] · [[2026-06-27-wall-street-journal-wsj-2026-06-27-external-your-daily-round]] · [[2026-08-07-wall-street-journal-wsj-2026-08-07-external-the-10-point-a-t]] · [[2026-07-25-wall-street-journal-wsj-2026-07-25-external-the-10-point-the]] · [[2026-07-15-wall-street-journal-wsj-2026-07-15-external-the-10-point-the]]
 <!-- graph:end -->

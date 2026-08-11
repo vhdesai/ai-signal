@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout
+- 2026-08-06-openai-launches-codex-security-in-research-preview-for-autom
 - 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 - 2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ
 - 2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta
-- 2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac
 embedding_id: 2026-07-17-doordash-opens-a-cli-beta-for-developers-and-ai-agents-to-se
 event_name: ''
 ---
@@ -37,5 +37,5 @@ DoorDash opens a CLI beta for developers and AI agents to search stores, build c
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]] · [[2026-05-24-xai-launches-grok-build-cli-entering-the-ai-coding-agent-rac]]
+**Related:** [[2026-05-26-xai-s-grok-build-agent-cli-reviewed-following-beta-rollout]] · [[2026-08-06-openai-launches-codex-security-in-research-preview-for-autom]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]] · [[2026-05-23-hkuds-launches-cli-anything-to-make-all-software-agent-nativ]] · [[2026-05-25-xai-launches-grok-build-coding-agent-cli-now-in-early-beta]]
 <!-- graph:end -->

@@ -20,9 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
+- 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
 - 2026-05-18-techcrunch-bloomberg-industry-news-deals
-- 2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a
 embedding_id: 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Chesky announced plans for an AI lab focused on travel and hospitality AI — re
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-05-18-techcrunch-bloomberg-industry-news-deals]] · [[2026-07-10-hugging-face-s-ceo-on-why-companies-are-done-renting-their-a]]
+**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code]] · [[2026-05-18-techcrunch-bloomberg-industry-news-deals]]
 <!-- graph:end -->

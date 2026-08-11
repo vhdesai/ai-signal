@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise
 - 2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user
-- 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-- 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
-- 2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d
-- 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
+- 2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e
+- 2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e
 embedding_id: 2026-08-04-4-benefits-of-medical-ai-assistance-vary-sharply-by-user-exp
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A new MIT-led study in Nature Medicine tested non-experts and clinicians diagnos
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia]] · [[2026-04-04-mit-researchers-develop-framework-for-humble-ai-in-medical-d]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]]
+**Related:** [[2026-08-04-mit-finds-medical-ai-benefits-vary-sharply-by-user-expertise]] · [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-08-04-mit-benefits-of-medical-ai-assistance-vary-sharply-by-user-e]] · [[2026-08-04-mit-study-finds-medical-ai-benefits-depend-heavily-on-user-e]]
 <!-- graph:end -->

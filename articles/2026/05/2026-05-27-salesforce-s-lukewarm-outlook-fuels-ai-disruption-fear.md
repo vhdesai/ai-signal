@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings
-- 2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan
-- 2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot
+- 2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models
+- 2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a
 embedding_id: 2026-05-27-salesforce-s-lukewarm-outlook-fuels-ai-disruption-fear
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Salesforce posted softer-than-expected forward guidance, prompting renewed conce
 
 **Entities:** [[Salesforce]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-04-03-salesforce-transforms-slackbot-into-autonomous-work-assistan]] · [[2026-04-04-salesforce-overhauls-slack-with-30-new-ai-features-slackbot]]
+**Related:** [[2026-05-23-salesforce-defends-agentforce-demos-featuring-features-not-w]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-18-aws-ceo-pushes-back-on-ai-job-apocalypse-warnings]] · [[2026-08-08-wsj-ai-threatens-existential-reset-for-saas-business-models]] · [[2026-08-07-once-hot-software-companies-race-to-reinvent-themselves-as-a]]
 <!-- graph:end -->

@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
-- 2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0
-- 2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x
-- event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics
-- 2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics
-- 2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo
+- 2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
+- 2026-08-05-nvidia-releases-alpamayo-2-super-for-commercial-autonomous-d
+- 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso
+- 2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo
+- 2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language
 embedding_id: 2026-06-01-nvidia-releases-alpamayo-2-reasoning-model-and-physical-ai-t
 event_name: ''
 ---
@@ -38,5 +38,5 @@ At GTC Taipei / COMPUTEX 2026, Nvidia also unveiled Alpamayo 2, an open reasonin
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-06-01-unitree-s-h2-plus-gives-academic-robotics-a-nvidia-isaac-gr0]] · [[2026-07-27-nvidia-extends-its-agent-toolkit-with-physicsnemo-and-cuda-x]] · [[event-nvidia-gtc-2026-and-gtc-taipei-2026-nvidia-gtc-2026-and-gtc-taipei-2026-physical-ai-and-robotics]] · [[2026-06-07-nvidia-and-doosan-advance-physical-ai-and-robotics]] · [[2026-07-17-nvidia-unveils-cosmos-3-edge-as-a-physical-ai-world-model-fo]]
+**Related:** [[2026-08-04-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]] · [[2026-08-05-nvidia-releases-alpamayo-2-super-for-commercial-autonomous-d]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-autonomous-driving-reaso]] · [[2026-08-05-nvidia-opens-alpamayo-2-super-a-34b-reasoning-model-for-robo]] · [[2026-08-05-nvidia-releases-alpamayo-2-super-a-34b-open-vision-language]]
 <!-- graph:end -->

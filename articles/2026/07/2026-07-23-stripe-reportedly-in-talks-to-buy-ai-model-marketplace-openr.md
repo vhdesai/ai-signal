@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter
+- 2026-08-07-the-information-2026-08-07-external-stripe-in-exclusive-talk
+- 2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi
 - 2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing
 - 2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing
-- 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-- 2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai
 embedding_id: 2026-07-23-stripe-reportedly-in-talks-to-buy-ai-model-marketplace-openr
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Research Breakthroughs MITNUCLEAR ENERGYAUTOMATION
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-03-16-view-in-web-browser-the-wall-street-journal-nvidia-backed-ai]]
+**Related:** [[2026-07-24-stripe-is-reportedly-in-talks-to-buy-openrouter]] · [[2026-08-07-the-information-2026-08-07-external-stripe-in-exclusive-talk]] · [[2026-08-07-stripe-in-exclusive-talks-to-buy-openrouter-for-around-10-bi]] · [[2026-07-29-stripe-s-possible-openrouter-deal-would-price-model-routing]] · [[2026-07-29-stripe-s-potential-openrouter-deal-would-price-model-routing]]
 <!-- graph:end -->

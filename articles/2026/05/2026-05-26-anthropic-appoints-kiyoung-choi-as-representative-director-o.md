@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo
 - 2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde
 - 2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise
+- 2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team
 embedding_id: 2026-05-26-anthropic-appoints-kiyoung-choi-as-representative-director-o
 event_name: ''
 ---
@@ -38,5 +39,5 @@ Anthropic continues its APAC expansion with the appointment of KiYoung Choi to l
 
 **Entities:** [[Anthropic]] · [[Microsoft]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-26-new-anthropic-launches-korea-operations-names-kiyoung-choi-r]] · [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo]] · [[2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde]] · [[2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise]]
+**Related:** [[2026-05-26-new-anthropic-launches-korea-operations-names-kiyoung-choi-r]] · [[2026-05-26-anthropic-names-kiyoung-choi-as-korea-representative-directo]] · [[2026-05-26-anthropic-opens-milan-office-its-sixth-european-city-in-unde]] · [[2026-07-25-samsung-sds-partners-with-anthropic-to-put-claude-enterprise]] · [[2026-08-05-anthropic-is-hiring-a-custom-ai-chip-design-team]]
 <!-- graph:end -->

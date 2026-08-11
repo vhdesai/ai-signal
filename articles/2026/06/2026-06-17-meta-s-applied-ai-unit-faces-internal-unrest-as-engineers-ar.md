@@ -27,7 +27,7 @@ related_article_ids:
 - 2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major
 - 2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot
 - 2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ
-- 2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc
+- 2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company
 embedding_id: 2026-06-17-meta-s-applied-ai-unit-faces-internal-unrest-as-engineers-ar
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Report details organizational strain inside Meta's Applied AI unit, including re
 
 **Entities:** [[Meta]] · [[Microsoft]]
 **Topics:** [[Policy & Regulation]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-05-20-meta-announces-8-000-layoffs-amid-accelerating-ai-infrastruc]]
+**Related:** [[2026-05-24-enterprise-ai-restructuring-signals-broaden-standard-charter]] · [[2026-05-19-meta-moves-thousands-of-workers-into-new-ai-groups-as-major]] · [[2026-05-18-ai21-cuts-60-of-staff-meta-layoffs-set-for-may-20-ai21-pivot]] · [[2026-05-18-breaking-meta-confirms-10-layoffs-on-may-20-and-7-000-employ]] · [[2026-08-06-meta-ai-model-reportedly-hacked-outside-the-company]]
 <!-- graph:end -->

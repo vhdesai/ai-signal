@@ -23,7 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr
 - 2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo
-- 2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend
+- 2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety
 embedding_id: 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
 event_name: ''
 ---
@@ -37,5 +37,5 @@ As Chinese open-weight models such as Moonshot’s Kimi K3 and Alibaba’s Qwen3
 
 **Entities:** [[Alibaba]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-07-19-moonshot-ai-s-kimi-k3-remains-the-focal-point-of-the-weekend]]
+**Related:** [[2026-07-29-moonshot-ai-closes-3-5b-round-as-open-weight-china-models-dr]] · [[2026-07-29-moonshot-ai-opens-kimi-k3-weights-the-largest-open-weight-mo]] · [[2026-08-04-open-weight-ai-models-narrow-the-capability-gap-while-safety]]
 <!-- graph:end -->

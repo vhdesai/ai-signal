@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-05-23-cerebras-ipo-debuts-to-strong-demand-fueling-hype-for-openai
+- 2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat
 - 2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector
-- 2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand
 embedding_id: 2026-05-14-fervo-energy-pops-33-in-ipo-fueled-by-ai-data-center-demand
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Fervo Energy pops 33% in IPO, fueled by AI data center demand — TechCrunch, Ma
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-05-23-cerebras-ipo-debuts-to-strong-demand-fueling-hype-for-openai]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]] · [[2026-07-24-intel-s-data-center-and-ai-unit-jumps-on-ai-customer-demand]]
+**Related:** [[2026-07-01-national-grid-invests-1-75b-for-35-of-joulent-to-power-ai-da]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-05-23-cerebras-ipo-debuts-to-strong-demand-fueling-hype-for-openai]] · [[2026-08-10-intel-raises-15-billion-in-a-common-stock-offering-on-ai-dat]] · [[2026-06-29-ai-fuels-a-record-200bn-m-a-boom-in-the-us-power-sector]]
 <!-- graph:end -->

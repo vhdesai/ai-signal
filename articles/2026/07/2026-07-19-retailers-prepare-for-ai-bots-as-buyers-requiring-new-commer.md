@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list
+- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 - 2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly
 - 2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test
 - 2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid
-- 2026-04-25-the-path-beyond-vmware-be-sure-to-register-here-why-walmart
 embedding_id: 2026-07-19-retailers-prepare-for-ai-bots-as-buyers-requiring-new-commer
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Retailers prepare for AI bots as buyers, requiring new commerce APIs, attributio
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]] · [[2026-04-25-the-path-beyond-vmware-be-sure-to-register-here-why-walmart]]
+**Related:** [[2026-07-25-amazon-requires-sellers-to-label-ai-generated-people-in-list]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]] · [[2026-05-28-meta-and-amazon-move-to-monetize-ai-assistants-more-directly]] · [[2026-05-25-enterprise-software-incumbents-face-the-next-ai-demand-test]] · [[2026-05-14-physical-ai-moves-closer-to-live-factory-floors-as-humanoid]]
 <!-- graph:end -->

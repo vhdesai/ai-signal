@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers
+- 2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re
 - 2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall
 - 2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b
-- 2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different
-- 2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant
+- 2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl
 embedding_id: 2026-07-30-reddit-s-results-show-early-signs-of-ai-driven-search-referr
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Reddit reported strong revenue and net income, but shares fell after management 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-08-03-big-tech-earnings-are-sending-valuations-in-wildly-different]] · [[2026-07-13-source-wsj-markets-pm-access-interactive-wsj-com-ai-relevant]]
+**Related:** [[2026-07-31-google-search-referrals-to-publishers-fell-34-as-ai-answers]] · [[2026-08-05-shopify-ai-driven-search-tripled-traffic-and-orders-in-q2-re]] · [[2026-07-31-big-tech-earnings-diverge-on-ai-amazon-rallies-11-apple-fall]] · [[2026-05-20-ai-search-startups-surge-exa-labs-at-2-2b-parallel-web-at-2b]] · [[2026-08-05-shopify-says-ai-search-is-driving-traffic-and-sales-not-repl]]
 <!-- graph:end -->

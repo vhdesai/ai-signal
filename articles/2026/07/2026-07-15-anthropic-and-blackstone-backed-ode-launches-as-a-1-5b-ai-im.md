@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe
 - 2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced
+- 2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta
+- 2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup
 - 2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman
-- 2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in
-- 2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f
 embedding_id: 2026-07-15-anthropic-and-blackstone-backed-ode-launches-as-a-1-5b-ai-im
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic and Blackstone-backed Ode launches as a $1.5B AI implementation compan
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]] · [[2026-07-19-anthropic-is-reportedly-in-early-talks-to-lease-up-to-10b-in]] · [[2026-04-16-800b-highest-valuation-offer-anthropic-has-received-2x-its-f]]
+**Related:** [[2026-07-16-anthropic-blackstone-hellman-friedman-goldman-sachs-and-othe]] · [[2026-05-05-in-a-striking-competitive-synchronicity-anthropic-announced]] · [[2026-08-04-anthropic-signs-six-year-10b-compute-deal-with-volta]] · [[2026-08-04-anthropic-signs-10b-compute-agreement-with-ai-cloud-startup]] · [[2026-05-04-anthropic-forms-1-5b-ai-services-jv-with-blackstone-hellman]]
 <!-- graph:end -->

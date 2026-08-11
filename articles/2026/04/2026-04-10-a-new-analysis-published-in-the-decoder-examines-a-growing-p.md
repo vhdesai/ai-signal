@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp
 - 2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug
 - 2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri
-- 2026-05-16-uc-berkeley-mit-optany-one-llm-system-beats-domain-specific
+- 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 embedding_id: 2026-04-10-a-new-analysis-published-in-the-decoder-examines-a-growing-p
 event_name: ''
 ---
@@ -37,5 +37,5 @@ A new analysis published in The Decoder examines a growing paradox: current LLMs
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-05-16-uc-berkeley-mit-optany-one-llm-system-beats-domain-specific]]
+**Related:** [[2026-05-27-think-before-you-speak-next-gen-llms-with-global-reasoning-a]] · [[2026-05-03-mit-researchers-explain-why-llm-scaling-laws-work-the-superp]] · [[2026-04-10-research-breakthroughs-llms-excel-at-code-and-math-but-strug]] · [[2026-05-02-a-new-arxiv-preprint-demonstrates-that-the-internal-geometri]] · [[2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s]]
 <!-- graph:end -->

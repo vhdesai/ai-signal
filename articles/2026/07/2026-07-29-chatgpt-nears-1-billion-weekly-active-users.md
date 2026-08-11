@@ -22,6 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re
+- 2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses
+- 2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125
 - 2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti
 embedding_id: 2026-07-29-chatgpt-nears-1-billion-weekly-active-users
 event_name: ''
@@ -36,5 +38,5 @@ OpenAI’s ChatGPT is nearing 1 billion weekly active users, according to intern
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]]
+**Related:** [[2026-07-29-openai-offers-advanced-chatgpt-access-to-100-000-academic-re]] · [[2026-08-06-openai-publishes-from-asking-to-doing-on-how-the-world-uses]] · [[2026-08-10-openai-introduces-premium-seats-for-chatgpt-business-at-125]] · [[2026-04-10-openai-announced-a-new-100-month-chatgpt-pro-subscription-ti]]
 <!-- graph:end -->

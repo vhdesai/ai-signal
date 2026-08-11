@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b
 - 2026-04-27-what-the-wsj-saw-at-the-hilton-saturday-night-2026-04-27-wal
 - 2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam
-- 2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news
+- 2026-08-05-wall-street-journal-wsj-2026-08-05-external-the-10-point-the
 embedding_id: 2026-03-16-a-rare-peek-behind-the-curtain-of-washington-spycraft-2026-0
 event_name: ''
 ---
@@ -34,5 +34,5 @@ A Rare Peek Behind the Curtain of Washington Spycraft [2026-03-16] · Wall Stree
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-03-16-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2]] · [[2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b]] · [[2026-04-27-what-the-wsj-saw-at-the-hilton-saturday-night-2026-04-27-wal]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news]]
+**Related:** [[2026-03-16-is-this-email-difficult-to-read-view-in-browser-the-wall-str-2]] · [[2026-07-29-wall-street-journal-wsj-2026-07-29-external-the-10-point-a-b]] · [[2026-04-27-what-the-wsj-saw-at-the-hilton-saturday-night-2026-04-27-wal]] · [[2026-07-07-wall-street-journal-wsj-2026-07-07-external-ai-is-full-steam]] · [[2026-08-05-wall-street-journal-wsj-2026-08-05-external-the-10-point-the]]
 <!-- graph:end -->

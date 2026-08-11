@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-financial-times-2026-07-27-external-start-your-week-with-gib
 - 2026-08-03-financial-times-2026-08-03-external-start-your-week-with-uk
+- 2026-08-08-financial-times-2026-08-08-external-weekend-highlight-diageo
+- 2026-08-05-financial-times-2026-08-05-external-you-still-have-free-arti
 - 2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra
-- 2026-07-13-dealbook-andrew-ross-sorkin-nyt-2026-07-13-external-dealbook
-- 2026-07-10-dealbook-andrew-ross-sorkin-nyt-2026-07-10-external-dealbook
 embedding_id: 2026-08-01-financial-times-2026-08-01-external-weekend-highlight-is-wet
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Financial Times - [2026-08-01] [EXTERNAL] Weekend highlight: Is Wetherspoons too
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-financial-times-2026-07-27-external-start-your-week-with-gib]] · [[2026-08-03-financial-times-2026-08-03-external-start-your-week-with-uk]] · [[2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra]] · [[2026-07-13-dealbook-andrew-ross-sorkin-nyt-2026-07-13-external-dealbook]] · [[2026-07-10-dealbook-andrew-ross-sorkin-nyt-2026-07-10-external-dealbook]]
+**Related:** [[2026-07-27-financial-times-2026-07-27-external-start-your-week-with-gib]] · [[2026-08-03-financial-times-2026-08-03-external-start-your-week-with-uk]] · [[2026-08-08-financial-times-2026-08-08-external-weekend-highlight-diageo]] · [[2026-08-05-financial-times-2026-08-05-external-you-still-have-free-arti]] · [[2026-08-01-the-information-2026-08-01-external-why-apple-should-buy-gra]]
 <!-- graph:end -->

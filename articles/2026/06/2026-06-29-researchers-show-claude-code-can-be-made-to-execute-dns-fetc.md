@@ -23,6 +23,7 @@ related_article_ids:
 - 2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int
 - 2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v
 - 2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s
+- 2026-08-07-claude-code-adds-cross-session-messaging-so-parallel-agents
 - 2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent
 embedding_id: 2026-06-29-researchers-show-claude-code-can-be-made-to-execute-dns-fetc
 event_name: ''
@@ -36,5 +37,5 @@ Researchers show Claude Code can be made to execute DNS-fetched commands from a 
 ## Connections
 
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]]
+**Related:** [[2026-06-27-mozilla-researchers-show-ai-coding-agents-can-be-coerced-int]] · [[2026-06-27-researchers-turn-agentic-coding-tools-into-malware-vectors-v]] · [[2026-06-29-researchers-at-0din-the-bug-bounty-platform-run-by-mozilla-s]] · [[2026-08-07-claude-code-adds-cross-session-messaging-so-parallel-agents]] · [[2026-05-27-linux-foundation-launches-dns-aid-for-decentralized-ai-agent]]
 <!-- graph:end -->

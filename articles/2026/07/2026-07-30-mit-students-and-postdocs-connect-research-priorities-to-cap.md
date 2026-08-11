@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche
 - 2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s
 - 2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr
+- 2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr
 - 2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra
-- 2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover
 embedding_id: 2026-07-30-mit-students-and-postdocs-connect-research-priorities-to-cap
 event_name: ''
 ---
@@ -37,5 +37,5 @@ MIT reported that 25 students and postdocs met with 62 congressional offices to 
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]] · [[2026-05-22-cornell-ai-initiative-hosts-civic-leaders-summit-on-ai-gover]]
+**Related:** [[2026-05-13-cmu-and-mit-top-2026-u-s-ai-university-rankings-penn-launche]] · [[2026-05-16-mit-disclosed-a-20-decline-in-incoming-graduate-students-a-s]] · [[2026-05-14-mit-reports-20-drop-in-incoming-graduate-students-amid-ai-dr]] · [[2026-08-10-academic-ai-researchers-confront-compute-and-talent-asymmetr]] · [[2026-05-28-cmu-and-ucsd-lead-2026-us-ai-faculty-output-per-updated-csra]]
 <!-- graph:end -->

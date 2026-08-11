@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh
 - 2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains
 - 2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s
-- 2026-04-04-google-releases-gemma-4-most-capable-open-models-to-date
+- 2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s
 embedding_id: 2026-04-10-analysis-of-march-april-2026-benchmark-results-shows-open-we
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Analysis of March–April 2026 benchmark results shows open-weight models (inclu
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s]] · [[2026-04-04-google-releases-gemma-4-most-capable-open-models-to-date]]
+**Related:** [[2026-04-03-google-deepmind-released-gemma-4-a-family-of-four-open-weigh]] · [[2026-04-02-openai-continued-rolling-out-gpt-5-4-with-significant-gains]] · [[2026-08-04-18-hai-open-weight-models-aren-t-enough-we-need-truly-open-s]] · [[2026-08-04-saferai-report-open-weight-models-near-frontier-capability-s]]
 <!-- graph:end -->

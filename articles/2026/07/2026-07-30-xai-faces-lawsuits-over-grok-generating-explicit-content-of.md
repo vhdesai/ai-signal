@@ -21,10 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam
 - 2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima
 - 2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims
 - 2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake
-- 2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law
+- 2026-08-04-xai-s-grok-imagine-faces-new-lawsuits-as-minnesota-nudificat
 embedding_id: 2026-07-30-xai-faces-lawsuits-over-grok-generating-explicit-content-of
 event_name: ''
 ---
@@ -38,5 +39,5 @@ An Arkansas family sued xAI, alleging that Grok was used to create non-consensua
 
 **Entities:** [[xAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-07-29-xai-sues-minnesota-over-first-in-nation-ai-nudification-law]]
+**Related:** [[2026-08-07-xai-faces-third-lawsuit-over-alleged-ai-generated-csam]] · [[2026-07-23-arkansas-family-sues-xai-over-grok-generated-child-abuse-ima]] · [[2026-06-03-xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims]] · [[2026-06-07-over-100-campaigners-back-uk-mp-suing-xai-over-grok-deepfake]] · [[2026-08-04-xai-s-grok-imagine-faces-new-lawsuits-as-minnesota-nudificat]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva
 - 2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva
+- 2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply
+- 2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text
 - 2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls
-- 2026-07-15-anthropic-launches-claude-for-teachers-for-verified-u-s
-- 2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn
 embedding_id: 2026-07-22-anthropic-copyright-settlement-receives-approval
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Anthropic copyright settlement receives approval.
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]] · [[2026-07-15-anthropic-launches-claude-for-teachers-for-verified-u-s]] · [[2026-05-15-in-an-unusual-moment-of-transparency-anthropic-publicly-ackn]]
+**Related:** [[2026-07-20-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-07-21-anthropic-s-1-5b-copyright-settlement-received-final-approva]] · [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply]] · [[2026-08-10-anthropic-will-apply-invisible-watermarks-to-all-claude-text]] · [[2026-05-14-anthropic-acknowledges-claude-code-quality-regression-rolls]]
 <!-- graph:end -->

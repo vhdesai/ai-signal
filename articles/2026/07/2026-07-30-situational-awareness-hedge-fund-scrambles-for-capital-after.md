@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67
+- 2026-08-05-the-high-powered-backers-of-situational-awareness-revealed
 - 2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla
 - 2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio
-- 2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a
 embedding_id: 2026-07-30-situational-awareness-hedge-fund-scrambles-for-capital-after
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Situational Awareness, the hedge fund founded by Leopold Aschenbrenner, is seeki
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]] · [[2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]] · [[2026-07-31-situational-awareness-sell-off-becomes-a-stress-signal-for-a]]
+**Related:** [[2026-07-31-situational-awareness-hedge-fund-collapses-portfolio-down-67]] · [[2026-08-05-the-high-powered-backers-of-situational-awareness-revealed]] · [[2026-07-31-leopold-aschenbrenner-s-45b-situational-awareness-fund-colla]] · [[2026-07-31-situational-awareness-fire-sale-turns-leveraged-ai-convictio]]
 <!-- graph:end -->

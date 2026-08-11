@@ -24,6 +24,7 @@ related_article_ids:
 - 2026-05-26-stability-ai-releases-stable-audio-3
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 embedding_id: 2026-07-28-apple-publishes-memory-efficient-on-device-audio-synthesis-a
 event_name: ''
 ---
@@ -37,5 +38,5 @@ Apple published research on the memory-efficient audio synthesis architecture be
 
 **Entities:** [[Apple]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]]
+**Related:** [[2026-05-02-apple-s-machine-learning-research-team-published-three-paper]] · [[2026-05-26-stability-ai-releases-stable-audio-3]] · [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-04-20-apple-machine-learning-research-april-19-2026-apple-ml-resea]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]]
 <!-- graph:end -->

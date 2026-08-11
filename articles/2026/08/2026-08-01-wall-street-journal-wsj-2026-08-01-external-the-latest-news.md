@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe
 - 2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news
+- 2026-08-10-wall-street-journal-wsj-2026-08-10-external-the-latest-news
 - 2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round
 - 2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou
-- 2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news
 embedding_id: 2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Wall Street Journal / WSJ - [2026-08-01] [EXTERNAL] The latest news on Amazon.co
 ## Connections
 
 **Entities:** [[Amazon]] · [[Meta]] · [[Microsoft]]
-**Related:** [[2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe]] · [[2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]] · [[2026-08-03-wall-street-journal-wsj-2026-08-03-external-the-latest-news]]
+**Related:** [[2026-07-05-wall-street-journal-wsj-2026-07-05-external-wsj-politics-spe]] · [[2026-07-06-wall-street-journal-wsj-2026-07-06-external-the-latest-news]] · [[2026-08-10-wall-street-journal-wsj-2026-08-10-external-the-latest-news]] · [[2026-07-03-wall-street-journal-wsj-2026-07-03-external-your-daily-round]] · [[2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou]]
 <!-- graph:end -->

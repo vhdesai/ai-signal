@@ -1,13 +1,22 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 140
+member_count: 149
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 140 connected article(s).
+> Auto-generated entity hub. 149 connected article(s).
 
+- `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
+- `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
+- `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]
+- `2026-08-07` [[2026-08-07-marktechpost-research-roundup-safety-classifiers-agent-memor|MarkTechPost research roundup: safety classifiers, agent memory, and multimodal RAG tooling]]
+- `2026-08-06` [[2026-08-06-rep-ro-khanna-to-introduce-a-data-center-bill-of-rights|Rep. Ro Khanna to introduce a “Data Center Bill of Rights”]]
+- `2026-08-06` [[2026-08-06-openai-partners-with-the-american-psychological-association|OpenAI partners with the American Psychological Association on youth mental health]]
+- `2026-08-04` [[2026-08-04-wednesday-august-5-2026-prepared-for-senior-technology-leade|Wednesday, August 5, 2026 · Prepared for senior technology leadership]]
+- `2026-08-04` [[2026-08-04-oracle-nears-junk-grade-credit-rating-on-ai-data-center-debt|Oracle nears junk-grade credit rating on AI data-center debt]]
+- `2026-08-04` [[2026-08-04-open-weight-models-close-the-frontier-gap-while-the-safety-g|Open-weight models close the frontier gap while the safety gap persists]]
 - `2026-08-03` [[2026-08-03-oracle-s-ai-infrastructure-bet-draws-renewed-scrutiny|Oracle's AI infrastructure bet draws renewed scrutiny]]
 - `2026-08-03` [[2026-08-03-25-industry-splits-over-superintelligence-rules-head-to-wash|25. Industry splits over superintelligence rules head to Washington]]
 - `2026-08-01` [[2026-08-01-judge-denies-xai-s-bid-to-block-minnesota-s-nudify-ban-law-t|Judge denies xAI’s bid to block Minnesota’s “nudify” ban; law takes effect]]

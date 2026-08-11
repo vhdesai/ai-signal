@@ -24,8 +24,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm
 - 2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere
+- 2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion
 - 2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur
-- 2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n
 embedding_id: 2026-07-06-path-constrained-mixture-of-experts
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Apple researchers introduced PathMoE, which constrains token routing paths acros
 
 **Entities:** [[Apple]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]] · [[2026-07-30-apple-applies-network-science-to-umap-s-internal-k-nearest-n]]
+**Related:** [[2026-08-03-apple-researchers-study-alignment-methods-for-multimodal-llm]] · [[2026-05-16-allen-institute-uc-berkeley-emo-architecture-cuts-moe-infere]] · [[2026-08-05-apple-research-targets-outlier-token-artifacts-in-diffusion]] · [[2026-07-24-apple-proposes-lead-to-address-long-horizon-reasoning-failur]]
 <!-- graph:end -->

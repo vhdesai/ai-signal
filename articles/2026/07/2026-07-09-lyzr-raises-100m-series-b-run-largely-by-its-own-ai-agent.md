@@ -20,6 +20,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l
+- 2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise
 - 2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents
 - 2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte
@@ -35,5 +36,5 @@ Enterprise-agent startup Lyzr closed a $100M Series B at roughly a $500M valuati
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
+**Related:** [[2026-06-30-agentic-security-startup-straiker-announced-a-64m-series-a-l]] · [[2026-08-04-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-and-govern-enterprise]] · [[2026-08-03-zenity-raises-125m-series-c-to-secure-enterprise-ai-agents]] · [[2026-05-04-trendingsierra-raises-950m-as-enterprise-ai-competition-inte]]
 <!-- graph:end -->

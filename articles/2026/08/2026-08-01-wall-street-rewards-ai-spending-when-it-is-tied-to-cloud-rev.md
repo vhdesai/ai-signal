@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay
 - 2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending
-- 2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch
+- 2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc
 embedding_id: 2026-08-01-wall-street-rewards-ai-spending-when-it-is-tied-to-cloud-rev
 event_name: ''
 ---
@@ -35,5 +35,5 @@ Investors are distinguishing between AI spending with visible revenue pull-throu
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-07-26-google-uses-wall-street-financing-techniques-to-expand-ai-ch]]
+**Related:** [[2026-08-01-wall-street-focuses-on-how-tech-giants-will-make-ai-pay]] · [[2026-07-25-wsj-says-companies-are-pumping-the-brakes-on-ai-spending]] · [[2026-08-05-wsj-wealth-adviser-tech-giants-ai-spending-under-the-microsc]]
 <!-- graph:end -->

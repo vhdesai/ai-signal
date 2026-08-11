@@ -23,9 +23,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan
 - 2026-07-20-pentagon-officials-criticize-openai-s-dean-ball-over-ai-regu
+- 2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u
 - 2026-07-17-the-white-house-reportedly-moves-to-control-access-to-fronti
 - 2026-07-18-the-white-house-reportedly-moves-to-control-access-to-fronti
-- 2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c
 embedding_id: 2026-07-20-the-pentagon-openai-regulation-dispute-and-european-assistan
 event_name: ''
 ---
@@ -39,5 +39,5 @@ The Pentagon/OpenAI regulation dispute and European assistant-platform rules rem
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-07-20-pentagon-officials-criticize-openai-s-dean-ball-over-ai-regu]] · [[2026-07-17-the-white-house-reportedly-moves-to-control-access-to-fronti]] · [[2026-07-18-the-white-house-reportedly-moves-to-control-access-to-fronti]] · [[2026-06-29-washington-tightens-its-grip-on-frontier-ai-as-the-compute-c]]
+**Related:** [[2026-07-21-the-pentagon-openai-regulation-dispute-and-european-assistan]] · [[2026-07-20-pentagon-officials-criticize-openai-s-dean-ball-over-ai-regu]] · [[2026-08-06-frontier-agents-breach-security-boundaries-openai-meta-and-u]] · [[2026-07-17-the-white-house-reportedly-moves-to-control-access-to-fronti]] · [[2026-07-18-the-white-house-reportedly-moves-to-control-access-to-fronti]]
 <!-- graph:end -->

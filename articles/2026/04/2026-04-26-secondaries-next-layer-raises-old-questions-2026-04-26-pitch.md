@@ -17,11 +17,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi
 - 2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st
 - 2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now
 - 2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard
 - 2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs
-- 2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target
 embedding_id: 2026-04-26-secondaries-next-layer-raises-old-questions-2026-04-26-pitch
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Secondaries’ next layer raises old questions [2026-04-26] · PitchBook
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]] · [[2026-08-04-pitchbook-2026-08-04-external-ai-s-hot-new-target]]
+**Related:** [[2026-08-10-pitchbook-2026-08-10-external-looking-beyond-dpi]] · [[2026-06-11-pitchbook-2026-06-11-external-pes-shiny-new-buy-and-build-st]] · [[2026-07-27-pitchbook-2026-07-27-external-bankers-1-chatbots-0-for-now]] · [[2026-07-01-pitchbook-2026-07-01-external-new-q2-data-new-dashboard]] · [[2026-06-13-pitchbook-2026-06-13-external-ai-ambitions-vs]]
 <!-- graph:end -->

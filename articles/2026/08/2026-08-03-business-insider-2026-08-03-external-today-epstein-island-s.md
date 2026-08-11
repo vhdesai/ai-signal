@@ -18,11 +18,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai
 - 2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite
 - 2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a
 - 2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out
-- 2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s
-- 2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne
+- 2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for
 embedding_id: 2026-08-03-business-insider-2026-08-03-external-today-epstein-island-s
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-08-03] [EXTERNAL] Today: Epstein Island's influencer pr
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-06-18-business-insider-2026-06-18-external-the-next-office-power-s]] · [[2026-07-04-business-insider-2026-07-04-external-today-the-latest-wellne]]
+**Related:** [[2026-08-07-business-insider-2026-08-07-external-today-canva-isn-t-afrai]] · [[2026-07-15-business-insider-2026-07-15-external-today-meet-the-parasite]] · [[2026-07-06-business-insider-2026-07-06-external-today-small-biz-s-big-a]] · [[2026-07-29-business-insider-2026-07-29-external-today-ai-s-burning-out]] · [[2026-08-08-business-insider-2026-08-08-external-today-ai-is-coming-for]]
 <!-- graph:end -->

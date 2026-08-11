@@ -20,9 +20,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-24-business-insider-2026-07-24-no-business-insider-newsletter-f
 - 2026-07-22-the-information-2026-07-22-no-direct-the-information-publica
+- 2026-08-10-business-insider-no-ai-relevant-business-insider-emails-foun
 - 2026-06-01-business-insider-no-new-business-insider-emails-found-for-20
 - 2026-06-29-business-insider-no-new-business-insider-emails-found-for-20
-- 2026-06-08-business-insider-no-new-business-insider-emails-found-for-20
 embedding_id: 2026-07-22-business-insider-2026-07-22-no-direct-business-insider-publi
 event_name: ''
 ---
@@ -34,5 +34,5 @@ Business Insider - [2026-07-22] *(No direct Business Insider publication email s
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-24-business-insider-2026-07-24-no-business-insider-newsletter-f]] · [[2026-07-22-the-information-2026-07-22-no-direct-the-information-publica]] · [[2026-06-01-business-insider-no-new-business-insider-emails-found-for-20]] · [[2026-06-29-business-insider-no-new-business-insider-emails-found-for-20]] · [[2026-06-08-business-insider-no-new-business-insider-emails-found-for-20]]
+**Related:** [[2026-07-24-business-insider-2026-07-24-no-business-insider-newsletter-f]] · [[2026-07-22-the-information-2026-07-22-no-direct-the-information-publica]] · [[2026-08-10-business-insider-no-ai-relevant-business-insider-emails-foun]] · [[2026-06-01-business-insider-no-new-business-insider-emails-found-for-20]] · [[2026-06-29-business-insider-no-new-business-insider-emails-found-for-20]]
 <!-- graph:end -->

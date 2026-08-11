@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-13-databricks-makes-ai-parse-document-generally-available-adds
 - 2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava
+- 2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language
 - 2026-08-03-databricks-makes-variant-generally-available-for-semi-struct
 - 2026-05-15-azure-databricks-microsoft-learn-may-13-2026
-- 2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f
 embedding_id: 2026-05-15-databricks-enables-ai-document-parsing-ai-parse-document-by
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Databricks Enables AI Document Parsing (ai_parse_document) by Default for Compli
 ## Connections
 
 **Entities:** [[Databricks]]
-**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-05-15-azure-databricks-microsoft-learn-may-13-2026]] · [[2026-04-23-databricks-and-palantir-each-announce-new-enterprise-agent-f]]
+**Related:** [[2026-05-13-databricks-makes-ai-parse-document-generally-available-adds]] · [[2026-05-15-databricks-made-its-ai-parse-document-function-generally-ava]] · [[2026-08-07-databricks-adds-ai-search-sql-function-and-natural-language]] · [[2026-08-03-databricks-makes-variant-generally-available-for-semi-struct]] · [[2026-05-15-azure-databricks-microsoft-learn-may-13-2026]]
 <!-- graph:end -->

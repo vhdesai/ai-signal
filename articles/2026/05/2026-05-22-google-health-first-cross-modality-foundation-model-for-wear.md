@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda
 - 2026-04-11-princeton-s-center-for-information-technology-policy-publish
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 - 2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for
 - 2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer
 embedding_id: 2026-05-22-google-health-first-cross-modality-foundation-model-for-wear
@@ -37,5 +38,5 @@ A large multi-author paper from Google Health proposes a general intelligence an
 
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
+**Related:** [[2026-07-10-google-research-introduces-sensorfm-a-wearable-health-founda]] · [[2026-04-11-princeton-s-center-for-information-technology-policy-publish]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]] · [[2026-07-29-mit-traces-physionet-s-evolution-into-a-global-standard-for]] · [[2026-05-28-business-insider-a-google-researcher-s-quest-to-cure-cancer]]
 <!-- graph:end -->

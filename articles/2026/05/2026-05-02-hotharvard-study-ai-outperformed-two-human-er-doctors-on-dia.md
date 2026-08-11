@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on
 - 2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science
 - 2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy
-- 2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user
+- 2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by
 embedding_id: 2026-05-02-hotharvard-study-ai-outperformed-two-human-er-doctors-on-dia
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A Harvard study found an AI system delivered more accurate emergency-room diagno
 ## Connections
 
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-08-04-mit-study-finds-medical-ai-assistance-benefits-vary-by-user]]
+**Related:** [[2026-05-03-harvard-study-openai-o1-beats-two-attending-physicians-on-er]] · [[2026-05-03-harvard-study-openai-s-o1-beats-two-attending-physicians-on]] · [[2026-05-03-harvard-beth-israel-llms-vs-attending-physicians-science]] · [[2026-04-04-an-mit-led-team-published-work-on-designing-ai-diagnostic-sy]] · [[2026-08-04-mit-study-benefits-of-medical-ai-assistance-vary-sharply-by]]
 <!-- graph:end -->

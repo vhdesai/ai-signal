@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 - 2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent
+- 2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level
 - 2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens
 - 2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit
-- 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
 embedding_id: 2026-03-10-tencent-joins-china-s-ai-agent-race-with-top-secret-wechat-p
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent Joins China’s AI Agent Race With ‘Top-Secret’ WeChat Project [2026
 
 **Entities:** [[Tencent]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]]
+**Related:** [[2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat]] · [[2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent]] · [[2026-08-07-tencent-open-sources-tencentdb-agent-memory-v2-0-team-level]] · [[2026-05-23-tencent-open-sources-tencentdb-agent-memory-under-mit-licens]] · [[2026-03-10-the-information-logo-tencent-joins-china-s-ai-agent-race-wit]]
 <!-- graph:end -->
