@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
 - 2026-07-07-north-american-vc-hits-392b-in-h1-2026
+- 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 - 2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture
 - 2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap
-- 2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up
 embedding_id: 2026-07-30-top-30-vc-firms-ai-portfolios-hit-7-trillion-combined-valuat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ PitchBook’s Q2 2026 Venture Monitor reports that the 30 leading VC firms have 
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]] · [[2026-04-01-global-venture-investment-reached-297-billion-in-q1-2026-up]]
+**Related:** [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-07-07-north-american-vc-hits-392b-in-h1-2026]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-04-02-trending-q1-2026-vc-breaks-300b-record-apr-1-global-venture]] · [[2026-04-10-crunchbase-data-confirmed-q1-2026-as-the-largest-venture-cap]]
 <!-- graph:end -->

@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
@@ -37,5 +38,5 @@ Mark Zuckerberg published a 6,500-word letter arguing Meta will distribute super
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]]
+**Related:** [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]]
 <!-- graph:end -->

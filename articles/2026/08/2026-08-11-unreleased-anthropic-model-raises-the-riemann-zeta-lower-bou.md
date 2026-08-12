@@ -18,12 +18,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f
-- 2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr
-- 2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth
+related_article_ids: []
 embedding_id: 2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou
 event_name: ''
 ---
@@ -37,5 +34,5 @@ An unreleased Claude research model, working over multi-day sessions with roughl
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-anthropic-reports-ai-derived-improvement-to-a-riemann-zeta-f]] · [[2026-07-29-anthropic-s-unreleased-claude-mythos-surfaces-novel-cryptogr]] · [[2026-07-28-anthropic-s-unreleased-claude-mythos-model-discovers-two-nov]]
+**Canonical:** [[2026-08-11-unreleased-anthropic-model-advances-a-related-riemann-hypoth]]
 <!-- graph:end -->

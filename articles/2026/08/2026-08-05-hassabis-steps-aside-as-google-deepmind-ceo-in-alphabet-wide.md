@@ -23,6 +23,7 @@ canonical_article_id: 2026-08-05-google-deepmind-restructures-hassabis-moves-to-
 related_article_ids:
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
 - 2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo
+- 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
 - 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves
 embedding_id: 2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-in-alphabet-wide
 event_name: ''
@@ -38,5 +39,5 @@ Alphabet CEO Sundar Pichai moved Demis Hassabis into newly created roles as Goog
 **Entities:** [[Google]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
 **Canonical:** [[2026-08-05-google-deepmind-restructures-hassabis-moves-to-chairman-kavu]]
-**Related:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]] · [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves]]
+**Related:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-08-06-demis-hassabis-named-alphabet-chief-scientist-koray-kavukcuo]] · [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over]] · [[2026-08-05-hassabis-steps-aside-as-google-deepmind-ceo-jeff-dean-leaves]]
 <!-- graph:end -->

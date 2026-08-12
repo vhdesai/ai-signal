@@ -21,7 +21,7 @@ themes:
 - model-capabilities
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
+canonical_article_id: 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 related_article_ids: []
 embedding_id: 2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its
 event_name: ''
@@ -36,5 +36,5 @@ Meta launched Muse Glimmer, a 30B open-weight agentic model under Apache 2.0, di
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t]]
+**Canonical:** [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built]]
 <!-- graph:end -->

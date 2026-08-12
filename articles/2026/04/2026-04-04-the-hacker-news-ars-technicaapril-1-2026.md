@@ -22,6 +22,7 @@ related_article_ids:
 - 2026-04-16-source-the-hacker-news-april-15-2026
 - 2026-05-08-source-ars-technica-published-may-6-2026
 - 2026-05-09-ars-technica-may-6-2026
+- 2026-05-16-source-tldl-io-hacker-news-may-14-2026
 embedding_id: 2026-04-04-the-hacker-news-ars-technicaapril-1-2026
 event_name: ''
 ---
@@ -34,5 +35,5 @@ The Hacker News / Ars TechnicaApril 1, 2026
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-16-source-the-hacker-news-april-15-2026]] · [[2026-05-08-source-ars-technica-published-may-6-2026]] · [[2026-05-09-ars-technica-may-6-2026]]
+**Related:** [[2026-04-16-source-the-hacker-news-april-15-2026]] · [[2026-05-08-source-ars-technica-published-may-6-2026]] · [[2026-05-09-ars-technica-may-6-2026]] · [[2026-05-16-source-tldl-io-hacker-news-may-14-2026]]
 <!-- graph:end -->

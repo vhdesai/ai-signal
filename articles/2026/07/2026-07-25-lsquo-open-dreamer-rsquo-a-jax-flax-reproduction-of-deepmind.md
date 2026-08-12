@@ -21,10 +21,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
 - 2026-05-09-a-community-driven-open-source-project-released-a-metal-base
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und
-- 2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in
 embedding_id: 2026-07-25-lsquo-open-dreamer-rsquo-a-jax-flax-reproduction-of-deepmind
 event_name: ''
 ---
@@ -37,5 +37,5 @@ An independent group published Open Dreamer, a JAX/Flax reproduction of DeepMind
 ## Connections
 
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-04-10-today-s-digest-captures-a-remarkably-active-24-hour-cycle-in]]
+**Related:** [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-05-09-a-community-driven-open-source-project-released-a-metal-base]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]]
 <!-- graph:end -->

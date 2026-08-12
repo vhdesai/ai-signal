@@ -23,12 +23,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agentic-model-t
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs
-- 2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its
-- 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to
-- 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
+- 2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that
 - 2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents
 embedding_id: 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
 event_name: ''
@@ -43,5 +42,5 @@ Apache 2.0 licensed, distilled from Muse Spark 1.2, 4-bit quantization + DFlash 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agentic-model-t]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs]] · [[2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents]]
+**Related:** [[2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agentic-model-t]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs]] · [[2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that]] · [[2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents]]
 <!-- graph:end -->

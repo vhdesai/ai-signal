@@ -27,8 +27,8 @@ related_article_ids:
 - 2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op
 - 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 - 2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington
+- 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation
-- 2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing
 embedding_id: 2026-06-03-openai-and-anthropic-urge-congress-to-regulate-synthetic-dna
 event_name: ''
 ---
@@ -42,5 +42,5 @@ OpenAI and Anthropic CEOs co-signed a letter urging Congress to regulate synthet
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]] · [[2026-04-30-breakingopenai-restricts-access-to-cyber-model-after-dissing]]
+**Related:** [[2026-07-25-nyt-openai-and-anthropic-quietly-lobby-washington-to-curb-op]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]] · [[2026-07-28-openai-and-anthropic-reportedly-team-up-in-washington]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-07-22-anthropic-doubles-midterm-spending-to-push-ai-regulation]]
 <!-- graph:end -->

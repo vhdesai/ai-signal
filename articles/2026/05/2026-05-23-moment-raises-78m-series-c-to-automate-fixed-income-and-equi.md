@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a
 - 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 - 2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi
+- 2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
-- 2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b
 embedding_id: 2026-05-23-moment-raises-78m-series-c-to-automate-fixed-income-and-equi
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Moment, which builds AI tooling for automating fixed-income and equities trading
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-07-13-ai-video-startup-pixverse-raises-439m-valuation-crosses-2b]]
+**Related:** [[2026-07-31-smallest-ai-raises-13m-for-ultra-fast-human-sounding-voice-a]] · [[2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak]] · [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi]] · [[2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]]
 <!-- graph:end -->

@@ -1,13 +1,19 @@
 ---
 type: entity-hub
 hub: xAI
-member_count: 307
+member_count: 313
 ---
 
 # xAI
 
-> Auto-generated entity hub. 307 connected article(s).
+> Auto-generated entity hub. 313 connected article(s).
 
+- `2026-08-11` [[2026-08-11-xai-with-cursor-launches-grok-bot-always-on-ai-teammates-wit|xAI, with Cursor, launches Grok Bot: always-on AI teammates with their own cloud computers]]
+- `2026-08-11` [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river|xAI Co-Founder Leaves to Build Open-Source AI Startup River AI]]
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud|River AI Raises $1.1B for an Open-Weights Post-Training Cloud]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
+- `2026-08-11` [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1|Cognition in Early Talks at $40B+ Valuation; River AI Raises $1.1B]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-xai-s-grok-imagine-image-2-0-takes-2-on-arena-text-to-image|xAI’s Grok Imagine Image 2.0 takes #2 on Arena text-to-image and image-edit boards]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]

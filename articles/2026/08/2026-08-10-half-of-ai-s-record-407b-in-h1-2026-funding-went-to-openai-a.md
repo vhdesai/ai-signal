@@ -21,6 +21,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 - 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 embedding_id: 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 event_name: ''
@@ -35,5 +36,5 @@ AI startups raised a record $407 billion in the first half of 2026, with roughly
 
 **Entities:** [[Anthropic]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
+**Related:** [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc]]
 <!-- graph:end -->

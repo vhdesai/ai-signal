@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Alibaba
-member_count: 279
+member_count: 280
 ---
 
 # Alibaba
 
-> Auto-generated entity hub. 279 connected article(s).
+> Auto-generated entity hub. 280 connected article(s).
 
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
 - `2026-08-10` [[2026-08-10-beijing-s-companion-app-rules-force-bytedance-alibaba-and-te|Beijing’s companion-app rules force ByteDance, Alibaba, and Tencent to pull AI companions]]
 - `2026-08-10` [[2026-08-10-beijing-forces-bytedance-alibaba-and-tencent-to-pull-ai-comp|Beijing Forces ByteDance, Alibaba, and Tencent to Pull AI Companion Apps]]

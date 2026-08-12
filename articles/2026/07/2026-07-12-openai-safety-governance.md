@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
+- 2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining
+- 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement
 - 2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e
-- 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
-- 2026-04-22-ai-safety-policy
 embedding_id: 2026-07-12-openai-safety-governance
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Business Insider reports that leaders responsible for AI safety at OpenAI contin
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-04-22-ai-safety-policy]]
+**Related:** [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement]] · [[2026-07-31-openai-outlines-responsible-ai-practices-for-europe-as-the-e]]
 <!-- graph:end -->

@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t
 - 2026-07-20-retained-as-a-microsoft-publication-source-for-ai-microsoft
 - 2026-07-22-other-ai-related-publication-emails-2026-07-22-daily-ai-news
-- 2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil
+- 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
 embedding_id: 2026-07-16-microsoft-reactor-cloudera-csa-progress-hrtrainonline-bizben
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Microsoft Reactor, Cloudera, CSA, Progress, HRTrainOnline, BizBen, and Red Hat p
 ## Connections
 
 **Entities:** [[Microsoft]]
-**Related:** [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-20-retained-as-a-microsoft-publication-source-for-ai-microsoft]] · [[2026-07-22-other-ai-related-publication-emails-2026-07-22-daily-ai-news]] · [[2026-07-14-other-ai-related-publication-emails-2026-07-14-external-buil]]
+**Related:** [[2026-07-16-other-ai-related-publication-emails-2026-07-16-microsoft-rea]] · [[2026-07-29-other-ai-related-publication-emails-2026-07-29-external-ai-t]] · [[2026-07-20-retained-as-a-microsoft-publication-source-for-ai-microsoft]] · [[2026-07-22-other-ai-related-publication-emails-2026-07-22-daily-ai-news]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]]
 <!-- graph:end -->

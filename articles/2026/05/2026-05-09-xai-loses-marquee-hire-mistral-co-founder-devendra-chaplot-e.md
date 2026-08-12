@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-05-09-devendra-chaplot-a-founding-member-of-mistral-ai-and-one-of
 - 2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch
 - 2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh
+- 2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement
 - 2026-06-18-noam-shazeer-leaves-google-gemini-for-openai
-- 2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple
 embedding_id: 2026-05-09-xai-loses-marquee-hire-mistral-co-founder-devendra-chaplot-e
 event_name: ''
 ---
@@ -39,5 +39,5 @@ xAI Loses Marquee Hire: Mistral Co-Founder Devendra Chaplot Exits After One Mont
 
 **Entities:** [[Mistral]] · [[xAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-09-devendra-chaplot-a-founding-member-of-mistral-ai-and-one-of]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]] · [[2026-07-07-future-of-life-institute-top-ai-labs-retreat-from-safety-ple]]
+**Related:** [[2026-05-09-devendra-chaplot-a-founding-member-of-mistral-ai-and-one-of]] · [[2026-04-22-musk-explores-three-way-alliance-of-xai-mistral-cursor-to-ch]] · [[2026-05-17-xai-in-talks-with-mistral-and-cursor-for-three-way-partnersh]] · [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement]] · [[2026-06-18-noam-shazeer-leaves-google-gemini-for-openai]]
 <!-- graph:end -->

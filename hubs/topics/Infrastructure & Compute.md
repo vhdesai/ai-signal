@@ -1,19 +1,47 @@
 ---
 type: topic-hub
 hub: Infrastructure & Compute
-member_count: 1573
+member_count: 1601
 ---
 
 # Infrastructure & Compute
 
-> Auto-generated topic hub. 1573 connected article(s).
+> Auto-generated topic hub. 1601 connected article(s).
 
+- `2026-08-12` [[2026-08-12-wall-street-journal-wsj-2026-08-12-external-russia-s-hybrid|Wall Street Journal / WSJ - [2026-08-12] [EXTERNAL] Russia's Hybrid Attacks Probe NATO Defenses, German General Says -…]]
+- `2026-08-12` [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo|Tencent reports Q2 2026 results, touting an AI-empowered pivot]]
+- `2026-08-12` [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65|Tencent Posts Revenue Beat on AI-Driven Ads; Capex Surges 65%]]
+- `2026-08-12` [[2026-08-12-suno-strikes-copyright-deal-with-bmg-agreeing-to-revenue-sha|Suno Strikes Copyright Deal With BMG, Agreeing to Revenue Share]]
+- `2026-08-12` [[2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou|Oracle Drawing Up Layoff Plans as AI Infrastructure Debt Mounts]]
+- `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-12` [[2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand|Foxconn Reports 35% Profit Rise on AI Server Demand]]
+- `2026-08-12` [[2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b|CoreWeave Q2: Revenue Doubles to \.575B While Cash Burn Hits \.7B]]
+- `2026-08-12` [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation|AI Code-Testing Startup Blacksmith Jumps to $550M Valuation]]
+- `2026-08-12` [[2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price|AI Capex Could Hit $1.6 Trillion Next Year, Says T. Rowe Price Fund Manager]]
+- `2026-08-12` [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy|AI Agents' 'Alarming' Hacking Skills Create Rush to Spend on Cybersecurity]]
+- `2026-08-11` [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river|xAI Co-Founder Leaves to Build Open-Source AI Startup River AI]]
+- `2026-08-11` [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per|Zuckerberg Publishes 3,500-Word Manifesto on Open AI and 'Personal Superintelligence']]
+- `2026-08-11` [[2026-08-11-xiaomi-s-milm-plus-releases-prove-perception-aligned-object|Xiaomi's MiLM Plus releases PROVE, perception-aligned object-removal metrics with a real-world video benchmark]]
 - `2026-08-11` [[2026-08-11-unreleased-anthropic-model-raises-the-riemann-zeta-lower-bou|Unreleased Anthropic Model Raises the Riemann Zeta Lower Bound from 41.6% to 67.2%]]
+- `2026-08-11` [[2026-08-11-riot-platforms-signs-9-1b-20-year-compute-deal-tied-to-anthr|Riot Platforms Signs $9.1B, 20-Year Compute Deal Tied to Anthropic]]
+- `2026-08-11` [[2026-08-11-nvidia-and-wall-street-launch-ai-financing-alliance|Nvidia and Wall Street Launch \ AI Financing Alliance]]
+- `2026-08-11` [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi|Nvidia Signs $500B+ Financing Alliance With Six Wall Street Firms]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model|Nvidia Releases Nemotron 3.5 Lightning Open-Source AI Model]]
 - `2026-08-11` [[2026-08-11-memory-prices-quadruple-in-a-year-pushing-costs-into-consume|Memory Prices Quadruple in a Year, Pushing Costs Into Consumer Hardware]]
+- `2026-08-11` [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry|Intel Launches $15 Billion Stock Offering to Fund AI Foundry Expansion]]
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
+- `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-12-2026|Daily AI News Digest – August 12, 2026]]
 - `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-11-2026|Daily AI News Digest – August 11, 2026]]
+- `2026-08-11` [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen|CoreWeave Revenue Doubles to $2.58B as Losses and Debt Widen]]
+- `2026-08-11` [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1|Cognition in Early Talks at $40B+ Valuation; River AI Raises $1.1B]]
 - `2026-08-11` [[2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo|Anthropic, Macquarie, and GIC launch Theseus Infrastructure for dedicated data centers]]
+- `2026-08-11` [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure|Anthropic, Macquarie, and GIC Form Theseus Infrastructure]]
+- `2026-08-11` [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-deal-with-riot|Anthropic signs a $9.1B, 20-year, 191 MW compute deal with Riot Platforms]]
+- `2026-08-11` [[2026-08-11-anthropic-signs-a-9-1b-20-year-191-mw-compute-lease-with-rio|Anthropic Signs a $9.1B, 20-Year, 191 MW Compute Lease With Riot Platforms]]
+- `2026-08-11` [[2026-08-11-anthropic-signs-9-1b-20-year-compute-lease-with-riot-platfor|Anthropic Signs $9.1B, 20-Year Compute Lease With Riot Platforms]]
 - `2026-08-11` [[2026-08-11-anthropic-confirms-it-will-watermark-text-generated-by-claud|Anthropic Confirms It Will Watermark Text Generated by Claude]]
+- `2026-08-11` [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more|AI Startups Raised \ in H1 2026 — OpenAI and Anthropic Took More Than Half]]
 - `2026-08-10` [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut|Zuckerberg publishes a 6,500-word case for broadly distributed superintelligence]]
 - `2026-08-10` [[2026-08-10-us-data-center-bans-pass-500-jurisdictions-as-new-york-and-t|US data-center bans pass 500 jurisdictions as New York and Texas escalate statewide]]
 - `2026-08-10` [[2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai|The Information - [2026-08-10] [EXTERNAL] Microsoft's Homegrown AI Chip Effort Shows Signs of Life After Slow Start]]

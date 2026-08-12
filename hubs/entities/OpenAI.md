@@ -1,19 +1,53 @@
 ---
 type: entity-hub
 hub: OpenAI
-member_count: 1698
+member_count: 1732
 ---
 
 # OpenAI
 
-> Auto-generated entity hub. 1698 connected article(s).
+> Auto-generated entity hub. 1732 connected article(s).
 
+- `2026-08-12` [[2026-08-12-suno-strikes-copyright-deal-with-bmg-agreeing-to-revenue-sha|Suno Strikes Copyright Deal With BMG, Agreeing to Revenue Share]]
+- `2026-08-12` [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan|OpenAI publishes enterprise research on moving from assistance to execution]]
+- `2026-08-12` [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing|OpenAI Special Projects Lead Brad Lightcap Departing]]
+- `2026-08-12` [[2026-08-12-openai-business-revenue-surges-32-month-on-month-in-july|OpenAI Business Revenue Surges 32% Month-on-Month in July]]
+- `2026-08-12` [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-amid-competitiv|Koray Kavukcuoglu takes over Google DeepMind amid competitive pressure]]
+- `2026-08-12` [[2026-08-12-koray-kavukcuoglu-takes-over-google-deepmind-as-hassabis-mov|Koray Kavukcuoglu Takes Over Google DeepMind as Hassabis Moves to Chair]]
+- `2026-08-12` [[2026-08-12-kevin-weil-seeks-valuation-for-ai-science-startup|Kevin Weil Seeks \ Valuation for AI Science Startup]]
+- `2026-08-12` [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users|Google’s Gemini App Hits 1 Billion Monthly Users]]
+- `2026-08-12` [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant|Google's New AI Boss Inherits a Race to Catch OpenAI and Anthropic]]
+- `2026-08-12` [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over|Google reshuffles DeepMind leadership: Kavukcuoglu takes over as Hassabis becomes chair]]
+- `2026-08-12` [[2026-08-12-google-installs-koray-kavukcuoglu-atop-deepmind-as-it-chases|Google Installs Koray Kavukcuoglu Atop DeepMind as It Chases OpenAI and Anthropic]]
+- `2026-08-11` [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river|xAI Co-Founder Leaves to Build Open-Source AI Startup River AI]]
+- `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement|OpenAI’s Only Dedicated Ethicist Departs Without Replacement]]
+- `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-a-named-rep|OpenAI's only dedicated ethicist departs without a named replacement]]
+- `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-less-than-a-year-af|OpenAI's Only Dedicated Ethicist Departs Less Than a Year After Joining]]
+- `2026-08-11` [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining|OpenAI's Head of Ethics Departs Under a Year After Joining]]
+- `2026-08-11` [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc|OpenAI's Daybreak cyber-defense models land on Amazon Bedrock]]
 - `2026-08-11` [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and|OpenAI ships GPT-5.6-Cyber and splits Daybreak into Blue and Red access tiers]]
+- `2026-08-11` [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux|OpenAI launches a ChatGPT and Codex desktop app for Linux]]
+- `2026-08-11` [[2026-08-11-openai-launches-chatgpt-desktop-app-for-linux|OpenAI launches ChatGPT desktop app for Linux]]
+- `2026-08-11` [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international|OpenAI expands ChatGPT advertising to five new international markets]]
 - `2026-08-11` [[2026-08-11-openai-employees-sell-7-billion-in-tender-offer|OpenAI employees sell $7 billion in tender offer]]
+- `2026-08-11` [[2026-08-11-openai-ships-gpt-5-6-cyber-with-reduced-refusals-behind-vett|OpenAI Ships GPT-5.6-Cyber With Reduced Refusals Behind Vetted Access Tier]]
+- `2026-08-11` [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier|OpenAI Ships GPT-5.6-Cyber Behind a Vetted "Daybreak Red" Tier]]
+- `2026-08-11` [[2026-08-11-openai-launches-gpt-5-6-cyber-with-deliberately-reduced-refu|OpenAI Launches GPT-5.6-Cyber With Deliberately Reduced Refusals for Vetted Security Teams]]
+- `2026-08-11` [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years|OpenAI COO Brad Lightcap Departs After Eight Years]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source|Nvidia Releases Nemotron 3.5 Lightning, Its First Open-Source Model Since Huang's Open-Weight Push]]
+- `2026-08-11` [[2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that|Meta Ships Muse Glimmer, a 30B Open-Weight Agentic Model That Runs Locally]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
+- `2026-08-11` [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at|Enterprise AI Spending Shifts from Training to Operations at Scale]]
+- `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-12-2026|Daily AI News Digest – August 12, 2026]]
 - `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-11-2026|Daily AI News Digest – August 11, 2026]]
+- `2026-08-11` [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving|Brad Lightcap, OpenAI's longtime COO, is leaving]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply|Anthropic Will Watermark All Claude-Generated Text to Comply with EU AI Act]]
+- `2026-08-11` [[2026-08-11-anthropic-targets-a-september-october-ipo-moving-ahead-of-op|Anthropic Targets a September–October IPO, Moving Ahead of OpenAI]]
+- `2026-08-11` [[2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and|Anthropic Begins Watermarking All Claude-Generated Text and Images]]
+- `2026-08-11` [[2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s|Anthropic Begins Embedding Invisible Watermarks in Claude's AI-Generated Text]]
 - `2026-08-11` [[2026-08-11-ai-systems-begin-producing-solutions-to-long-standing-open-m|AI systems begin producing solutions to long-standing open mathematics problems]]
+- `2026-08-11` [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more|AI Startups Raised \ in H1 2026 — OpenAI and Anthropic Took More Than Half]]
 - `2026-08-10` [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut|Zuckerberg publishes a 6,500-word case for broadly distributed superintelligence]]
 - `2026-08-10` [[2026-08-10-sanders-calls-on-openai-anthropic-and-meta-to-pause-frontier|Sanders calls on OpenAI, Anthropic and Meta to pause frontier AI development]]
 - `2026-08-10` [[2026-08-10-sanders-calls-for-a-pause-in-frontier-ai-development|Sanders calls for a pause in frontier AI development]]

@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the
+- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical
 - 2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an
-- 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
 embedding_id: 2026-07-31-openai-publishes-on-scientific-computing-in-the-age-of-agent
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI published a research item on applying agentic AI to scientific computing.
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]]
+**Related:** [[2026-07-28-openai-publishes-field-report-on-scientific-computing-in-the]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-08-01-openai-publishes-ten-advances-in-mathematics-and-theoretical]] · [[2026-08-02-openai-updates-publication-on-ten-advances-in-mathematics-an]]
 <!-- graph:end -->

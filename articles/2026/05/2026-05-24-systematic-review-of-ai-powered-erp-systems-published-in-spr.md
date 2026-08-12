@@ -44,9 +44,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin
 - 2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents
+- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber
 - 2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon
-- 2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist
 embedding_id: 2026-05-24-systematic-review-of-ai-powered-erp-systems-published-in-spr
 event_name: ''
 ---
@@ -60,5 +60,5 @@ Hurbean (West University of Timișoara), Necula (Alexandru Ioan Cuza University)
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[Apple]] · [[Baidu]] · [[Cerebras]] · [[Databricks]] · [[DeepSeek]] · [[Google]] · [[Huawei]] · [[Meta]] · [[Microsoft]] · [[Mistral]] · [[NVIDIA]] · [[OpenAI]] · [[Oracle]] · [[Palantir]] · [[Tencent]] · [[xAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]] · [[2026-07-03-sources-scanned-nvidia-google-deepmind-openai-anthropic-mist]]
+**Related:** [[2026-06-15-new-peer-reviewed-agentic-ai-review-articles-published-sprin]] · [[2026-05-22-six-peer-reviewed-springer-papers-published-legal-ai-agents]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-28-springer-nature-cluster-of-applied-ai-papers-in-energy-cyber]] · [[2026-05-19-trending-arxiv-roadmap-autonomous-ai-research-systems-compon]]
 <!-- graph:end -->

@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan
 - 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
+- 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
 - 2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai
-- 2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar
 embedding_id: 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's COO shifted into a new role, and Fidji Simo—CEO of OpenAI's AGI divis
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]] · [[2026-06-05-tencent-poaches-former-openai-researcher-as-new-ai-chief-tar]]
+**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-05-16-openai-co-founder-greg-brockman-takes-charge-of-product-plan]] · [[2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-04-04-openai-released-gpt-5-4-on-april-3-described-as-shifting-ai]]
 <!-- graph:end -->

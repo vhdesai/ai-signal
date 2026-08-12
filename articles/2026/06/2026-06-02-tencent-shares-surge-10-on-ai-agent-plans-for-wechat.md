@@ -24,7 +24,7 @@ related_article_ids:
 - 2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent
 - 2026-03-10-tencent-joins-china-s-ai-agent-race-with-top-secret-wechat-p
 - 2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r
-- 2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr
+- 2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65
 embedding_id: 2026-06-02-tencent-shares-surge-10-on-ai-agent-plans-for-wechat
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Tencent shares rose over 10% after disclosing plans to test AI agent prototypes 
 
 **Entities:** [[Tencent]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent]] · [[2026-03-10-tencent-joins-china-s-ai-agent-race-with-top-secret-wechat-p]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-05-14-alibaba-tencent-signal-ai-spending-surge-despite-earnings-pr]]
+**Related:** [[2026-06-30-tencent-begins-gray-box-testing-of-a-wechat-agent]] · [[2026-03-10-tencent-joins-china-s-ai-agent-race-with-top-secret-wechat-p]] · [[2026-05-28-alibaba-and-tencent-pivot-from-chatbots-to-embodied-ai-and-r]] · [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65]]
 <!-- graph:end -->

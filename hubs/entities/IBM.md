@@ -1,14 +1,15 @@
 ---
 type: entity-hub
 hub: IBM
-member_count: 128
+member_count: 129
 ---
 
 # IBM
 
-> Auto-generated entity hub. 128 connected article(s).
+> Auto-generated entity hub. 129 connected article(s).
 
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-openai-expands-its-daybreak-cyber-partner-program-to-major-d|OpenAI expands its Daybreak Cyber Partner Program to major defenders]]
 - `2026-08-10` [[2026-08-10-openai-expands-daybreak-cyber-partner-program-to-major-defen|OpenAI expands Daybreak Cyber Partner Program to major defenders]]
 - `2026-08-10` [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def|OpenAI Launches GPT-5.6-Cyber and Expands Daybreak Cyber Defense Service]]

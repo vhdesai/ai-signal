@@ -24,8 +24,8 @@ related_article_ids:
 - 2026-07-15-white-house-launches-the-gold-eagle-platform-for-ai-cybersec
 - 2026-07-16-white-house-gold-eagle-vulnerability-coordination-appears-in
 - 2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability
+- 2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy
 - 2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task
-- 2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t
 embedding_id: 2026-07-17-gold-eagle-and-ai-cyber-coverage-continue-to-frame-vulnerabi
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Gold Eagle and AI-cyber coverage continue to frame vulnerability discovery and p
 ## Connections
 
 **Topics:** [[Policy & Regulation]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-15-white-house-launches-the-gold-eagle-platform-for-ai-cybersec]] · [[2026-07-16-white-house-gold-eagle-vulnerability-coordination-appears-in]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task]] · [[2026-07-30-google-says-ai-helped-chrome-fix-more-bugs-in-june-than-in-t]]
+**Related:** [[2026-07-15-white-house-launches-the-gold-eagle-platform-for-ai-cybersec]] · [[2026-07-16-white-house-gold-eagle-vulnerability-coordination-appears-in]] · [[2026-05-19-mythos-reshapes-bug-bounty-work-as-ai-assisted-vulnerability]] · [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy]] · [[2026-05-14-ai-models-show-growing-ability-to-perform-cybersecurity-task]]
 <!-- graph:end -->

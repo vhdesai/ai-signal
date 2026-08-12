@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Microsoft
-member_count: 843
+member_count: 846
 ---
 
 # Microsoft
 
-> Auto-generated entity hub. 843 connected article(s).
+> Auto-generated entity hub. 846 connected article(s).
 
+- `2026-08-12` [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy|AI Agents' 'Alarming' Hacking Skills Create Rush to Spend on Cybersecurity]]
+- `2026-08-11` [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact|NVIDIA details 800 VDC power architecture for denser AI factories]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply|Anthropic Will Watermark All Claude-Generated Text to Comply with EU AI Act]]
 - `2026-08-10` [[2026-08-10-the-information-2026-08-10-external-microsoft-s-homegrown-ai|The Information - [2026-08-10] [EXTERNAL] Microsoft's Homegrown AI Chip Effort Shows Signs of Life After Slow Start]]

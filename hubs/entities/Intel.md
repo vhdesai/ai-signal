@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Intel
-member_count: 82
+member_count: 85
 ---
 
 # Intel
 
-> Auto-generated entity hub. 82 connected article(s).
+> Auto-generated entity hub. 85 connected article(s).
 
+- `2026-08-12` [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65|Tencent Posts Revenue Beat on AI-Driven Ads; Capex Surges 65%]]
+- `2026-08-11` [[2026-08-11-intel-upsizes-common-stock-offering-to-20-billion-at-95-a-sh|Intel Upsizes Common-Stock Offering to $20 Billion at $95 a Share]]
+- `2026-08-11` [[2026-08-11-intel-launches-15-billion-stock-offering-to-fund-ai-foundry|Intel Launches $15 Billion Stock Offering to Fund AI Foundry Expansion]]
 - `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-11-2026|Daily AI News Digest – August 11, 2026]]
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to|Meta releases Muse Glimmer, a 30B open-weight model built to run on one consumer GPU]]
 - `2026-08-10` [[2026-08-10-intel-raises-20b-in-upsized-common-stock-offering-to-fund-ai|Intel raises $20B in upsized common stock offering to fund AI plans]]

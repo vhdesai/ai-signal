@@ -22,6 +22,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
+- 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
+- 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 - 2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation
 embedding_id: 2026-08-08-nvidia-invests-up-to-3b-in-blackstone-backed-power-firm-lanc
 event_name: ''
@@ -36,5 +38,5 @@ event_name: ''
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]]
+**Related:** [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-07-nvidia-backed-firmus-raises-2b-at-10-5b-valuation]]
 <!-- graph:end -->

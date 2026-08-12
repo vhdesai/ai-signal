@@ -22,7 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha
 - 2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub
-- 2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno
+- 2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux
 embedding_id: 2026-07-23-openai-brings-full-duplex-voice-control-to-codex-and-desktop
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Infrastructure NVIDIASOUTH KOREASOVEREIGN AI
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-06-02-openai-extends-codex-to-business-with-plugins-sites-and-anno]]
+**Related:** [[2026-07-08-openai-launches-gpt-live-a-full-duplex-voice-upgrade-for-cha]] · [[2026-08-03-openai-details-gpt-live-its-full-duplex-voice-system-for-sub]] · [[2026-08-11-openai-launches-a-chatgpt-and-codex-desktop-app-for-linux]]
 <!-- graph:end -->

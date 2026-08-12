@@ -21,11 +21,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving
+- 2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years
+- 2026-08-12-openai-special-projects-lead-brad-lightcap-departing
 - 2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role
 - 2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny
-- 2026-07-07-openai-s-chief-futurist-is-leaving-the-company
-- 2026-07-12-openai-safety-governance
-- 2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o
 embedding_id: 2026-04-06-openai-s-c-suite-experienced-significant-turbulence-this-wee
 event_name: ''
 ---
@@ -39,5 +39,5 @@ OpenAI's C-suite experienced significant turbulence this week, with three senior
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]] · [[2026-07-07-openai-s-chief-futurist-is-leaving-the-company]] · [[2026-07-12-openai-safety-governance]] · [[2026-04-04-openai-s-coo-shifted-into-a-new-role-and-fidji-simo-ceo-of-o]]
+**Related:** [[2026-08-11-brad-lightcap-openai-s-longtime-coo-is-leaving]] · [[2026-08-11-openai-coo-brad-lightcap-departs-after-eight-years]] · [[2026-08-12-openai-special-projects-lead-brad-lightcap-departing]] · [[2026-07-09-fidji-simo-steps-down-from-openai-s-no-2-role]] · [[2026-07-12-openai-safety-leadership-turnover-remains-under-scrutiny]]
 <!-- graph:end -->

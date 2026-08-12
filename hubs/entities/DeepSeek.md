@@ -1,13 +1,15 @@
 ---
 type: entity-hub
 hub: DeepSeek
-member_count: 332
+member_count: 334
 ---
 
 # DeepSeek
 
-> Auto-generated entity hub. 332 connected article(s).
+> Auto-generated entity hub. 334 connected article(s).
 
+- `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]

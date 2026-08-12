@@ -22,11 +22,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source
+- 2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open
 - 2026-07-15-nvidia-nemotron-labs-frames-open-models-as-an-enterprise-sov
 - 2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems
 - 2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f
-- 2026-04-01-microsoft-and-nvidia-announced-expanded-integration-bringing
-- 2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri
 embedding_id: 2026-03-28-nvidia-released-nemotron-3-super-under-an-open-source-licens
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Nvidia released Nemotron 3 Super under an open-source license, expanding its ent
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-15-nvidia-nemotron-labs-frames-open-models-as-an-enterprise-sov]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]] · [[2026-04-01-microsoft-and-nvidia-announced-expanded-integration-bringing]] · [[2026-07-08-langchain-and-nvidia-release-nemoclaw-blueprint-for-enterpri]]
+**Related:** [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open]] · [[2026-07-15-nvidia-nemotron-labs-frames-open-models-as-an-enterprise-sov]] · [[2026-05-04-nvidia-releases-nemotron-3-nano-omni-for-agentic-systems]] · [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f]]
 <!-- graph:end -->

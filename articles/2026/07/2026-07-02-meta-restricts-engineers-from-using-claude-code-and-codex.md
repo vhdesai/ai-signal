@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro
 - 2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a
 - 2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl
+- 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
 - 2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of
-- 2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t
 embedding_id: 2026-07-02-meta-restricts-engineers-from-using-claude-code-and-codex
 event_name: ''
 ---
@@ -40,5 +40,5 @@ Internal documents reported by The Information indicate Meta has placed strict l
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]] · [[2026-08-06-aws-integrates-openai-codex-and-anthropic-claude-code-with-t]]
+**Related:** [[2026-08-05-meta-releases-coding-agent-to-compete-with-openai-and-anthro]] · [[2026-08-07-meta-launches-muse-code-an-ai-coding-agent-to-rival-openai-a]] · [[2026-06-10-openai-anthropic-coding-war-turns-to-free-credits-and-one-cl]] · [[2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and]] · [[2026-05-26-anthropic-has-released-a-curated-github-hosted-directory-of]]
 <!-- graph:end -->

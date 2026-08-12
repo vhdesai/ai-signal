@@ -19,12 +19,9 @@ entities:
 themes:
 - datacenter-infrastructure
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for
-- 2026-08-04-google-assembles-roughly-200b-financing-structure-to-supply
-- 2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure
+related_article_ids: []
 embedding_id: 2026-08-11-anthropic-macquarie-and-gic-launch-theseus-infrastructure-fo
 event_name: ''
 ---
@@ -38,5 +35,5 @@ entity to develop, operate, and lease DC capacity exclusively to Anthropic. Macq
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-anthropic-macquarie-and-gic-form-theseus-infrastructure-for]] · [[2026-08-04-google-assembles-roughly-200b-financing-structure-to-supply]] · [[2026-07-30-banks-discuss-15-billion-loan-for-anthropic-data-center-back]]
+**Canonical:** [[2026-08-11-anthropic-macquarie-and-gic-form-theseus-infrastructure]]
 <!-- graph:end -->

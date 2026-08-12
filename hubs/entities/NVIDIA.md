@@ -1,22 +1,51 @@
 ---
 type: entity-hub
 hub: NVIDIA
-member_count: 938
+member_count: 967
 ---
 
 # NVIDIA
 
-> Auto-generated entity hub. 938 connected article(s).
+> Auto-generated entity hub. 967 connected article(s).
 
+- `2026-08-12` [[2026-08-12-suno-strikes-copyright-deal-with-bmg-agreeing-to-revenue-sha|Suno Strikes Copyright Deal With BMG, Agreeing to Revenue Share]]
+- `2026-08-12` [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise|Nvidia's $500B AI Financing Alliance Could Reshape Enterprise Chip Pricing and Availability]]
+- `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-12` [[2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand|Foxconn Reports 35% Profit Rise on AI Server Demand]]
+- `2026-08-12` [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation|AI Coding Startup Lovable Raises \ at \.3B Valuation]]
+- `2026-08-12` [[2026-08-12-ai-agents-alarming-hacking-skills-create-rush-to-spend-on-cy|AI Agents' 'Alarming' Hacking Skills Create Rush to Spend on Cybersecurity]]
+- `2026-08-11` [[2026-08-11-xai-co-founder-leaves-to-build-open-source-ai-startup-river|xAI Co-Founder Leaves to Build Open-Source AI Startup River AI]]
 - `2026-08-11` [[2026-08-11-the-information-2026-08-11-external-exclusive-why-nvidia-is|The Information - [2026-08-11] [EXTERNAL] Exclusive: Why Nvidia Is Trying To Develop The World's Best Open-Source AI…]]
 - `2026-08-11` [[2026-08-11-spotify-will-label-ai-persona-profiles-and-exclude-them-from|Spotify Will Label AI Persona Profiles and Exclude Them from Recommendations]]
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud|River AI Raises $1.1B for an Open-Weights Post-Training Cloud]]
+- `2026-08-11` [[2026-08-11-nvidia-signs-financing-mous-with-six-major-asset-managers-to|Nvidia signs financing MOUs with six major asset managers to treat AI compute as an asset class]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-30b-open-moe-and-open|Nvidia releases Nemotron 3.5 Lightning (30B open MoE) and open-sources NeMo Switchyard]]
 - `2026-08-11` [[2026-08-11-nvidia-is-trying-to-develop-the-world-s-best-open-source-ai|Nvidia is trying to develop the world's best open-source AI models]]
 - `2026-08-11` [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu|Nvidia and Wall Street firms assemble a $500B+ AI infrastructure financing vehicle]]
-- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f|NVIDIA releases Nemotron 3.5 Lightning and NeMo Switchyard for agentic AI]]
+- `2026-08-11` [[2026-08-11-nvidia-and-wall-street-launch-ai-financing-alliance|Nvidia and Wall Street Launch \ AI Financing Alliance]]
+- `2026-08-11` [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi|Nvidia Signs $500B+ Financing Alliance With Six Wall Street Firms]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-its-first-open-source|Nvidia Releases Nemotron 3.5 Lightning, Its First Open-Source Model Since Huang's Open-Weight Push]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-moe-for-a|Nvidia Releases Nemotron 3.5 Lightning — Open-Source MoE for Agentic Workloads]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-open-source-ai-model|Nvidia Releases Nemotron 3.5 Lightning Open-Source AI Model]]
+- `2026-08-11` [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f|Nvidia Enlists Six Wall Street Firms to Mobilize Over $500B for AI Infrastructure]]
+- `2026-08-11` [[2026-08-11-nemotron-3-5-lightning-targets-the-agent-execution-layer-wit|Nemotron 3.5 Lightning Targets the Agent Execution Layer With 30B Total / 3B Active Parameters]]
+- `2026-08-11` [[2026-08-11-nvidia-releases-nemotron-3-5-lightning-and-nemo-switchyard-f|NVIDIA releases Nemotron 3.5 Lightning and NeMo Switchyard for agent workflows]]
+- `2026-08-11` [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc|NVIDIA frames AI factory compute as an investable infrastructure asset class]]
+- `2026-08-11` [[2026-08-11-nvidia-details-800-vdc-power-architecture-for-denser-ai-fact|NVIDIA details 800 VDC power architecture for denser AI factories]]
 - `2026-08-11` [[2026-08-11-nvidia-switchyard-mid-task-model-router-cuts-agent-costs-to|NVIDIA Switchyard: Mid-Task Model Router Cuts Agent Costs to One-Third]]
+- `2026-08-11` [[2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1|LTX-2.5 launches as an open-weights video model generating 10-second clips in 6.8 seconds]]
+- `2026-08-11` [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world|LTX-2.5 launches as an Nvidia-accelerated, open-weights world model for local video generation]]
+- `2026-08-11` [[2026-08-11-ltx-2-5-launches-as-an-open-weights-nvidia-accelerated-world|LTX-2.5 Launches as an Open-Weights, Nvidia-Accelerated World Model]]
+- `2026-08-11` [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips|LTX-2.5 Launches as Open-Weights Video Model — 10-Second Clips in 6.8s]]
 - `2026-08-11` [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8|LTX 2.5: Open-Weights Video Generation — 10-Second Clips in 6.8 Seconds]]
 - `2026-08-11` [[2026-08-11-ibm-and-together-ai-sign-240m-multi-year-nvidia-powered-infe|IBM and Together AI Sign $240M Multi-Year Nvidia-Powered Inference Deal]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
+- `2026-08-11` [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at|Enterprise AI Spending Shifts from Training to Operations at Scale]]
+- `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-12-2026|Daily AI News Digest – August 12, 2026]]
 - `2026-08-11` [[2026-08-11-daily-ai-news-digest-august-11-2026|Daily AI News Digest – August 11, 2026]]
+- `2026-08-11` [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1|Cognition in Early Talks at $40B+ Valuation; River AI Raises $1.1B]]
+- `2026-08-11` [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia|China's leading model developers remain dependent on Nvidia despite domestic alternatives]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-surges-roughly-45-year-over-year-on-ai-chi|TSMC July revenue surges roughly 45% year over year on AI chip demand]]
 - `2026-08-10` [[2026-08-10-tsmc-july-revenue-rises-about-45-year-over-year-on-sustained|TSMC July revenue rises about 45% year over year on sustained AI chip demand]]

@@ -19,7 +19,8 @@ themes:
 cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
-related_article_ids: []
+related_article_ids:
+- 2026-08-11-intel-upsizes-common-stock-offering-to-20-billion-at-95-a-sh
 embedding_id: 2026-08-10-intel-raises-20b-in-upsized-common-stock-offering-to-fund-ai
 event_name: ''
 ---
@@ -33,4 +34,5 @@ Intel priced an upsized $20B common stock offering at $95 per share — roughly 
 
 **Entities:** [[Intel]]
 **Topics:** [[Infrastructure & Compute]]
+**Related:** [[2026-08-11-intel-upsizes-common-stock-offering-to-20-billion-at-95-a-sh]]
 <!-- graph:end -->

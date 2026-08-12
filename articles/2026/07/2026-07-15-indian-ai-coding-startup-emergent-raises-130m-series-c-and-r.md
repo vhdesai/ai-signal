@@ -20,6 +20,7 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation
 - 2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r
 - 2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s
 - 2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio
@@ -36,5 +37,5 @@ Indian AI coding startup Emergent raises $130M Series C and reaches unicorn stat
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet]]
+**Related:** [[2026-08-12-ai-coding-startup-lovable-raises-at-3b-valuation]] · [[2026-05-24-virgin-unicorns-12-ai-labs-sit-at-130b-valuation-with-zero-r]] · [[2026-05-09-april-vc-funding-hits-56b-ai-dominates-driven-by-anthropic-s]] · [[2026-07-27-multiverse-computing-raises-570m-series-c-at-a-1-7b-valuatio]] · [[2026-07-31-groundcover-raises-100-million-for-in-cloud-ai-agent-telemet]]
 <!-- graph:end -->

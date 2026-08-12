@@ -22,8 +22,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n
 - 2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr
+- 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
-- 2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners
 embedding_id: 2026-07-02-nvidia-bets-on-neoclouds-with-a-gpu-financing-platform-strat
 event_name: ''
 ---
@@ -37,5 +37,5 @@ NVIDIA's AI Compute Partnership lets neocloud providers access GPU infrastructur
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-06-29-ai-infrastructure-firm-firmus-technologies-struck-a-partners]]
+**Related:** [[2026-07-02-nvidia-turns-compute-scarcity-into-a-financing-product-for-n]] · [[2026-07-01-nvidia-launches-ai-compute-partnership-revenue-share-plus-cr]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]]
 <!-- graph:end -->

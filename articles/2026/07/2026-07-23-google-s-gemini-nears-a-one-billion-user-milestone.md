@@ -21,10 +21,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-23-google-s-gemini-nears-one-billion-monthly-users
-- 2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use
-- 2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr
-- 2026-06-30-google-capped-meta-s-gemini-usage-after-meta-exceeded-its-co
-- 2026-06-30-google-makes-gemini-s-personalized-ai-image-generation-free
+- 2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users
+- 2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users
+- 2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users
+- 2026-08-11-gemini-app-crosses-1-billion-monthly-active-users
 embedding_id: 2026-07-23-google-s-gemini-nears-a-one-billion-user-milestone
 event_name: ''
 ---
@@ -38,5 +38,5 @@ event_name: ''
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-23-google-s-gemini-nears-one-billion-monthly-users]] · [[2026-05-23-google-i-o-2026-gemini-turns-into-an-agent-platform-900m-use]] · [[2026-05-19-google-i-o-2026-900m-gemini-mau-agi-a-few-years-away-ai-ultr]] · [[2026-06-30-google-capped-meta-s-gemini-usage-after-meta-exceeded-its-co]] · [[2026-06-30-google-makes-gemini-s-personalized-ai-image-generation-free]]
+**Related:** [[2026-07-23-google-s-gemini-nears-one-billion-monthly-users]] · [[2026-08-12-google-s-gemini-app-hits-1-billion-monthly-users]] · [[2026-08-11-google-s-gemini-app-crosses-one-billion-monthly-users]] · [[2026-08-11-google-says-gemini-app-surpassed-1-billion-monthly-users]] · [[2026-08-11-gemini-app-crosses-1-billion-monthly-active-users]]
 <!-- graph:end -->

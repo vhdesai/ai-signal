@@ -21,10 +21,8 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and
 - 2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla
-- 2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply
-- 2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude
-- 2026-08-11-anthropic-says-it-will-watermark-claude-generated-text
 embedding_id: 2026-08-11-anthropic-confirms-it-will-watermark-text-generated-by-claud
 event_name: ''
 ---
@@ -38,5 +36,5 @@ Anthropic confirmed in an updated support document that it will apply invisible,
 
 **Entities:** [[Anthropic]] · [[Google]]
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla]] · [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply]] · [[2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude]] · [[2026-08-11-anthropic-says-it-will-watermark-claude-generated-text]]
+**Related:** [[2026-08-11-anthropic-begins-watermarking-all-claude-generated-text-and]] · [[2026-08-10-anthropic-to-add-invisible-text-native-watermarks-to-new-cla]]
 <!-- graph:end -->

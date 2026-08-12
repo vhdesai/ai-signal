@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st
-- 2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d
+- 2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over
 embedding_id: 2026-08-06-google-centralizes-ai-leadership-at-mountain-view-in-post-ha
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Following the August 5 news that Demis Hassabis moves to DeepMind chairman and A
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-08-07-google-restructures-ai-leadership-hassabis-steps-back-jeff-d]]
+**Related:** [[2026-08-06-alphabet-overhauls-google-deepmind-leadership-as-hassabis-st]] · [[2026-08-12-google-reshuffles-deepmind-leadership-kavukcuoglu-takes-over]]
 <!-- graph:end -->

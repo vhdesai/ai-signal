@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: Oracle
-member_count: 149
+member_count: 152
 ---
 
 # Oracle
 
-> Auto-generated entity hub. 149 connected article(s).
+> Auto-generated entity hub. 152 connected article(s).
 
+- `2026-08-12` [[2026-08-12-oracle-drawing-up-layoff-plans-as-ai-infrastructure-debt-mou|Oracle Drawing Up Layoff Plans as AI Infrastructure Debt Mounts]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
+- `2026-08-11` [[2026-08-11-enterprise-ai-spending-shifts-from-training-to-operations-at|Enterprise AI Spending Shifts from Training to Operations at Scale]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
 - `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]

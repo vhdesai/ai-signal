@@ -26,7 +26,7 @@ related_article_ids:
 - 2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit
 - 2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
-- 2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be
+- 2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc
 embedding_id: 2026-05-20-blackstone-and-google-move-ai-infrastructure-financing-beyon
 event_name: ''
 ---
@@ -40,5 +40,5 @@ PitchBook reported that Google and Blackstone formed a joint venture to offer AI
 
 **Entities:** [[Google]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-07-23-capex-outpaces-the-frontier-alphabet-s-guide-and-openai-s-be]]
+**Related:** [[2026-05-19-google-and-blackstone-form-compute-as-a-service-joint-ventur]] · [[2026-05-19-google-announces-25b-ai-cloud-infrastructure-partnership-wit]] · [[2026-07-13-williams-secures-5-34b-from-a-blackstone-led-group-for-ai-da]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-frames-ai-factory-compute-as-an-investable-infrastruc]]
 <!-- graph:end -->

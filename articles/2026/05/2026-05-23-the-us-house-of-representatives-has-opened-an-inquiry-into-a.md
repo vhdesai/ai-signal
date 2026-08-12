@@ -26,8 +26,8 @@ related_article_ids:
 - 2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den
 - 2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
+- 2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age
 - 2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr
-- 2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo
 embedding_id: 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 event_name: ''
 ---
@@ -41,5 +41,5 @@ The US House of Representatives has opened an inquiry into Airbnb's use of open-
 
 **Entities:** [[Perplexity]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]] · [[Global AI Race]]
-**Related:** [[2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den]] · [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]] · [[2026-08-10-house-democrats-seek-testimony-from-openai-and-anthropic-ceo]]
+**Related:** [[2026-05-23-us-house-probes-airbnb-s-use-of-chinese-ai-models-chesky-den]] · [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age]] · [[2026-08-10-house-democrats-call-on-ai-companies-to-testify-before-congr]]
 <!-- graph:end -->

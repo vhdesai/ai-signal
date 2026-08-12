@@ -22,10 +22,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 - 2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz
 - 2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin
-- 2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a
-- 2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize
+- 2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi
 embedding_id: 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Nvidia is working with Apollo, Blackstone, BlackRock's Global Infrastructure Par
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-10-nvidia-lines-up-over-500b-to-make-ai-compute-an-investable-a]] · [[2026-08-10-nvidia-lines-up-500b-with-wall-street-giants-to-financialize]]
+**Related:** [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-10-nvidia-and-six-wall-street-firms-launch-platforms-to-mobiliz]] · [[2026-08-10-nvidia-and-wall-street-assemble-a-500b-ai-infrastructure-fin]] · [[2026-08-11-nvidia-signs-500b-financing-alliance-with-six-wall-street-fi]]
 <!-- graph:end -->

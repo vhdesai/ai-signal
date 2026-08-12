@@ -20,9 +20,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent
+- 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 - 2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
-- 2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny
 embedding_id: 2026-07-25-corporate-capital-is-concentrating-the-u-s-ai-startup-market
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-07-20-new-tests-for-ai-giants-and-capital-market-scrutiny]]
+**Related:** [[2026-07-30-top-ai-venture-portfolios-reach-7-trillion-as-market-concent]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-05-26-pitchbook-s-latest-daily-pitch-maps-the-ai-super-cycle-again]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]]
 <!-- graph:end -->

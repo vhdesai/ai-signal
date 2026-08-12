@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-launches-gpt-5-6-cyber-through-daybreak-red
 - 2026-08-10-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
+- 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 - 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
-- 2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p
 embedding_id: 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI expanded Daybreak with two tiers: Blue (incident response, malware analys
 
 **Entities:** [[IBM]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-openai-launches-gpt-5-6-cyber-through-daybreak-red]] · [[2026-08-10-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-05-11-hot-openai-launches-daybreak-gpt-5-5-powered-cybersecurity-p]]
+**Related:** [[2026-08-10-openai-launches-gpt-5-6-cyber-through-daybreak-red]] · [[2026-08-10-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and]]
 <!-- graph:end -->

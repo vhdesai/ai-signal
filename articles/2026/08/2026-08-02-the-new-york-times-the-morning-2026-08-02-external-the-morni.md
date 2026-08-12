@@ -19,10 +19,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-27-the-new-york-times-the-morning-2026-07-27-external-the-morni
+- 2026-08-12-the-morning-new-york-times-2026-08-12-external-the-morning-s
 - 2026-08-06-the-new-york-times-the-morning-2026-08-06-external-the-morni
 - 2026-08-03-the-new-york-times-the-morning-2026-08-03-external-the-morni
 - 2026-07-30-the-new-york-times-the-morning-2026-07-30-external-the-morni
-- 2026-08-10-the-morning-new-york-times-2026-08-10-external-the-morning-l
 embedding_id: 2026-08-02-the-new-york-times-the-morning-2026-08-02-external-the-morni
 event_name: ''
 ---
@@ -34,5 +34,5 @@ The New York Times / The Morning - [2026-08-02] [EXTERNAL] The Morning: Keep on 
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-07-27-the-new-york-times-the-morning-2026-07-27-external-the-morni]] · [[2026-08-06-the-new-york-times-the-morning-2026-08-06-external-the-morni]] · [[2026-08-03-the-new-york-times-the-morning-2026-08-03-external-the-morni]] · [[2026-07-30-the-new-york-times-the-morning-2026-07-30-external-the-morni]] · [[2026-08-10-the-morning-new-york-times-2026-08-10-external-the-morning-l]]
+**Related:** [[2026-07-27-the-new-york-times-the-morning-2026-07-27-external-the-morni]] · [[2026-08-12-the-morning-new-york-times-2026-08-12-external-the-morning-s]] · [[2026-08-06-the-new-york-times-the-morning-2026-08-06-external-the-morni]] · [[2026-08-03-the-new-york-times-the-morning-2026-08-03-external-the-morni]] · [[2026-07-30-the-new-york-times-the-morning-2026-07-30-external-the-morni]]
 <!-- graph:end -->

@@ -24,9 +24,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
 - 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
+- 2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und
 - 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs
-- 2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents
 embedding_id: 2026-08-10-meta-ai-research-details-the-distillation-and-quantization-s
 event_name: ''
 ---
@@ -40,5 +40,5 @@ The primary research post explains how Meta compressed a frontier-class teacher 
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs]] · [[2026-08-10-meta-releases-muse-glimmer-for-local-personal-agents]]
+**Related:** [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]] · [[2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-model-und]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs]]
 <!-- graph:end -->

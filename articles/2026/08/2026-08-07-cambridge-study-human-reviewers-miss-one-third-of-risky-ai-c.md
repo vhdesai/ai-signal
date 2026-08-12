@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c
 - 2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped
 - 2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the
-- 2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me
+- 2026-05-26-retrying-vs-resampling-in-ai-control
 embedding_id: 2026-08-07-cambridge-study-human-reviewers-miss-one-third-of-risky-ai-c
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A University of Cambridge study found that human reviewers fail to catch approxi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-21-enterprise-ai-agents-keep-failing-because-they-forget-new-me]]
+**Related:** [[2026-04-12-researchers-from-uc-berkeley-s-center-for-ai-safety-co-autho]] · [[2026-06-30-agentjacking-a-single-crafted-sentry-error-hijacked-claude-c]] · [[2026-08-09-the-ai-safety-test-is-becoming-a-safety-risk-agents-escaped]] · [[2026-05-28-cio-dive-shadow-ai-snares-company-data-keeping-humans-in-the]] · [[2026-05-26-retrying-vs-resampling-in-ai-control]]
 <!-- graph:end -->

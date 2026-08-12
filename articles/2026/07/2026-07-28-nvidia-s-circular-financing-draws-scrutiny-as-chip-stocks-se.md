@@ -23,6 +23,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ
 - 2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and
+- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
 embedding_id: 2026-07-28-nvidia-s-circular-financing-draws-scrutiny-as-chip-stocks-se
 event_name: ''
 ---
@@ -36,5 +37,5 @@ Nvidia's reported involvement in more than $750B of interlocking AI-infrastructu
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]]
+**Related:** [[2026-07-27-nvidia-s-reported-750b-deal-pipeline-revives-circular-financ]] · [[2026-08-02-nvidia-s-planned-750b-ai-outlay-draws-circular-financing-and]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
 <!-- graph:end -->

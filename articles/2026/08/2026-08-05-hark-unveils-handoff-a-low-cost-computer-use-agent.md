@@ -20,11 +20,10 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo
 - 2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m
 - 2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code
 - 2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs
-- 2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope
-- 2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive
 embedding_id: 2026-08-05-hark-unveils-handoff-a-low-cost-computer-use-agent
 event_name: ''
 ---
@@ -37,5 +36,5 @@ AI startup Hark launched its first product, Handoff, a computer-use agent positi
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs]] · [[2026-05-22-microsoft-fara1-5-browser-computer-use-agents-outperform-ope]] · [[2026-05-22-ai-direct-corpus-access-emerges-as-the-next-agent-primitive]]
+**Related:** [[2026-08-03-qwen3-8-max-claims-frontier-level-agentic-computer-use-perfo]] · [[2026-06-30-good-morning-vik-the-past-24-hours-were-quiet-for-frontier-m]] · [[2026-07-02-china-s-z-ai-launches-zcode-to-challenge-cursor-claude-code]] · [[2026-06-18-snap-spins-off-ai-video-team-into-dotmo-due-to-costs]]
 <!-- graph:end -->

@@ -19,11 +19,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen
 - 2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant
+- 2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b
 - 2026-04-10-industry-news
 - 2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge
-- 2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak
-- 2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi
 embedding_id: 2026-08-02-coreweave-sweetens-2-6b-loan-terms-as-ai-debt-investors-push
 event_name: ''
 ---
@@ -36,5 +36,5 @@ CoreWeave improved terms on a $2.6 billion leveraged loan to win over investors 
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-04-10-industry-news]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]] · [[2026-08-06-softbank-secures-a-10b-margin-loan-backed-by-its-openai-stak]] · [[2026-04-10-coreweave-the-gpu-cloud-specialist-closed-more-than-21-billi]]
+**Related:** [[2026-08-11-coreweave-revenue-doubles-to-2-58b-as-losses-and-debt-widen]] · [[2026-04-16-coreweave-secured-a-6-billion-compute-commitment-from-quant]] · [[2026-08-12-coreweave-q2-revenue-doubles-to-575b-while-cash-burn-hits-7b]] · [[2026-04-10-industry-news]] · [[2026-07-09-neocloud-divergence-widens-coreweave-down-40-as-nebius-surge]]
 <!-- graph:end -->

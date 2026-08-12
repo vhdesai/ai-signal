@@ -23,8 +23,8 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
 - 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
+- 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
 - 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
-- 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 embedding_id: 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Mark Zuckerberg published a long-form vision for personal AI and “personal sup
 
 **Entities:** [[Meta]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]]
+**Related:** [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]] · [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]]
 <!-- graph:end -->

@@ -1,13 +1,16 @@
 ---
 type: entity-hub
 hub: AMD
-member_count: 83
+member_count: 86
 ---
 
 # AMD
 
-> Auto-generated entity hub. 83 connected article(s).
+> Auto-generated entity hub. 86 connected article(s).
 
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1-billion-two-months-after-launch|River AI raises $1.1 billion two months after launch]]
+- `2026-08-11` [[2026-08-11-river-ai-raises-1-1b-for-an-open-weights-post-training-cloud|River AI Raises $1.1B for an Open-Weights Post-Training Cloud]]
+- `2026-08-11` [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1|Cognition in Early Talks at $40B+ Valuation; River AI Raises $1.1B]]
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to|Meta releases Muse Glimmer, a 30B open-weight model built to run on one consumer GPU]]
 - `2026-08-09` [[2026-08-09-nvidia-heads-into-q2-print-as-the-sector-s-next-repricing-ev|Nvidia Heads Into Q2 Print as the Sector's Next Repricing Event]]
 - `2026-08-08` [[2026-08-08-compute-economics-reprice-while-frontier-safety-slows-the-le|Compute Economics Reprice While Frontier Safety Slows the Leaders]]

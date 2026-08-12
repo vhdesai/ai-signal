@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price
 - 2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow
 - 2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget
 - 2026-04-02-source-all-about-lawyer-the-neuron
 - 2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b
-- 2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to
 embedding_id: 2026-08-03-hyperscaler-ai-capex-estimates-top-1-trillion-for-2027
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Yahoo Finance reports Goldman Sachs analysis estimating 2027 hyperscaler capital
 ## Connections
 
 **Topics:** [[Infrastructure & Compute]]
-**Related:** [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]] · [[2026-08-10-hyperscalers-reported-to-have-committed-nearly-2-trillion-to]]
+**Related:** [[2026-08-12-ai-capex-could-hit-1-6-trillion-next-year-says-t-rowe-price]] · [[2026-07-28-hyperscalers-forecast-5-3-trillion-capex-through-2030-borrow]] · [[2026-06-19-hyperscaler-ai-capex-framed-as-twice-the-u-s-defense-budget]] · [[2026-04-02-source-all-about-lawyer-the-neuron]] · [[2026-05-04-hotbig-tech-2026-ai-capex-tracks-to-roughly-725b]]
 <!-- graph:end -->

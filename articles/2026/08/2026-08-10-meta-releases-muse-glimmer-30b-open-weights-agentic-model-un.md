@@ -19,9 +19,10 @@ entities:
 themes:
 - model-capabilities
 cross_cutting_topics: []
-dedupe_status: duplicate
-canonical_article_id: 2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t
-related_article_ids: []
+dedupe_status: canonical
+canonical_article_id: null
+related_article_ids:
+- 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
 embedding_id: 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
 event_name: ''
 ---
@@ -35,5 +36,5 @@ Meta released Muse Glimmer, a 30B-parameter multimodal model distilled from its 
 
 **Entities:** [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Canonical:** [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t]]
+**Related:** [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]]
 <!-- graph:end -->

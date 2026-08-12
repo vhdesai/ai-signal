@@ -22,6 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce
+- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o
 - 2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing
 embedding_id: 2026-07-31-openai-highlights-unive-s-ai-ready-workforce-program
@@ -37,5 +38,5 @@ OpenAI published a customer story on Unive building an AI-ready workforce, point
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
+**Related:** [[2026-07-31-openai-publishes-guidance-on-building-an-ai-ready-workforce]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-05-25-ai-won-t-replace-you-but-someone-using-ai-might-university-o]] · [[2026-05-19-microsoft-work-trend-index-2026-ai-productivity-is-outpacing]]
 <!-- graph:end -->

@@ -34,8 +34,8 @@ related_article_ids:
 - 2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i
 - 2026-04-01-microsoft-today-launched-three-foundational-models-built-ent
 - 2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r
+- 2026-08-11-daily-ai-news-digest-august-12-2026
 - 2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i
-- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 embedding_id: 2026-03-31-openai-president-greg-brockman-declared-on-the-big-technolog
 event_name: ''
 ---
@@ -49,5 +49,5 @@ Nvidia Invests $2B in Marvell, Launches NVLink Fusion — Opens AI Ecosystem to 
 
 **Entities:** [[Meta]] · [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
+**Related:** [[2026-03-31-nvidia-invests-2b-in-marvell-launches-nvlink-fusion-for-ai-i]] · [[2026-04-01-microsoft-today-launched-three-foundational-models-built-ent]] · [[2026-07-28-nvidia-anchors-a-750b-compute-frenzy-as-opus-5-and-kimi-k3-r]] · [[2026-08-11-daily-ai-news-digest-august-12-2026]] · [[2026-05-17-sunday-may-17-2026-pacific-time-today-s-big-picture-the-ai-i]]
 <!-- graph:end -->

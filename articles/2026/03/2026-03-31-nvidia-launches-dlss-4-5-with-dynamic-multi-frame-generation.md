@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world
 - 2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model
 - 2026-07-24-nvidia-naver-and-brookfield-triple-an-ai-factory-to-200mw
 - 2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc
 - 2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe
-- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
 embedding_id: 2026-03-31-nvidia-launches-dlss-4-5-with-dynamic-multi-frame-generation
 event_name: ''
 ---
@@ -38,5 +38,5 @@ Nvidia released DLSS 4.5 today, introducing Dynamic Multi Frame Generation that 
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-07-24-nvidia-naver-and-brookfield-triple-an-ai-factory-to-200mw]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
+**Related:** [[2026-08-11-ltx-2-5-launches-as-an-nvidia-accelerated-open-weights-world]] · [[2026-07-27-nvidia-cosmos-h-dreams-a-real-time-surgical-world-model]] · [[2026-07-24-nvidia-naver-and-brookfield-triple-an-ai-factory-to-200mw]] · [[2026-06-07-nvidia-and-sk-hynix-announce-multiyear-partnership-to-advanc]] · [[2026-07-07-nvidia-releases-audex-a-unified-audio-text-llm-30b-moe]]
 <!-- graph:end -->

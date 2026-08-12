@@ -22,7 +22,7 @@ related_article_ids:
 - 2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock
 - 2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock
 - 2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring
-- 2026-08-03-aws-confirms-gpt-5-6-price-cuts-in-bedrock-weekly-roundup
+- 2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc
 embedding_id: 2026-04-28-2-products-tools
 event_name: ''
 ---
@@ -35,5 +35,5 @@ event_name: ''
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[2026-08-03-aws-confirms-gpt-5-6-price-cuts-in-bedrock-weekly-roundup]]
+**Related:** [[2026-05-03-aws-ships-gpt-5-5-codex-and-bedrock-managed-agents-on-amazon]] · [[2026-05-04-aws-openai-codex-and-managed-agents-land-on-amazon-bedrock]] · [[2026-05-10-gpt-5-5-and-codex-now-on-aws-bedrock]] · [[2026-04-27-less-than-24-hours-after-the-microsoft-openai-restructuring]] · [[2026-08-11-openai-s-daybreak-cyber-defense-models-land-on-amazon-bedroc]]
 <!-- graph:end -->

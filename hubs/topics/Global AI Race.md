@@ -1,14 +1,21 @@
 ---
 type: topic-hub
 hub: Global AI Race
-member_count: 970
+member_count: 977
 ---
 
 # Global AI Race
 
-> Auto-generated topic hub. 970 connected article(s).
+> Auto-generated topic hub. 977 connected article(s).
 
+- `2026-08-12` [[2026-08-12-unitree-s-shanghai-robotics-ipo-draws-8-000x-retail-oversubs|Unitree's Shanghai Robotics IPO Draws 8,000x Retail Oversubscription]]
+- `2026-08-12` [[2026-08-12-tencent-reports-q2-2026-results-touting-an-ai-empowered-pivo|Tencent reports Q2 2026 results, touting an AI-empowered pivot]]
+- `2026-08-12` [[2026-08-12-tencent-posts-revenue-beat-on-ai-driven-ads-capex-surges-65|Tencent Posts Revenue Beat on AI-Driven Ads; Capex Surges 65%]]
+- `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
 - `2026-08-11` [[2026-08-11-new-extraction-technique-surfaces-hidden-reasoning-traces-ac|New extraction technique surfaces hidden reasoning traces across Claude, GPT and Gemini]]
+- `2026-08-11` [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu|Manus returns to independence as China forces Meta's $2B acquisition to unwind]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
+- `2026-08-11` [[2026-08-11-china-s-leading-model-developers-remain-dependent-on-nvidia|China's leading model developers remain dependent on Nvidia despite domestic alternatives]]
 - `2026-08-10` [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c|Zuckerberg's 6,500-word manifesto argues concentration — not capability — is AI's biggest risk]]
 - `2026-08-10` [[2026-08-10-nvidia-falls-3-1-as-washington-reviews-offshore-routes-to-ch|Nvidia Falls 3.1% as Washington Reviews Offshore Routes to China AI Chip Access]]
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agentic-model-t|Meta releases Muse Glimmer, a 30B open-weight agentic model that runs on a single consumer GPU]]

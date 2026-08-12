@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-04-26-tech-embraces-new-breed-of-bodyguards-2026-04-26-the-informa
 - 2026-05-05-the-information-techstartups-april-may-2026
 - 2026-05-02-may-1-2026-techcrunch-industry-analysis-policy-dod
+- 2026-04-16-source-techcrunch-april-16-2026
 embedding_id: 2026-05-30-defense-tech-grows-up-2026-05-30-the-information
 event_name: ''
 ---
@@ -32,5 +33,5 @@ Defense Tech Grows Up [2026-05-30] · The Information
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-05-30-defense-tech-s-new-playbook-2026-05-30-pitchbook]] · [[2026-04-26-tech-embraces-new-breed-of-bodyguards-2026-04-26-the-informa]] · [[2026-05-05-the-information-techstartups-april-may-2026]] · [[2026-05-02-may-1-2026-techcrunch-industry-analysis-policy-dod]]
+**Related:** [[2026-05-30-defense-tech-s-new-playbook-2026-05-30-pitchbook]] · [[2026-04-26-tech-embraces-new-breed-of-bodyguards-2026-04-26-the-informa]] · [[2026-05-05-the-information-techstartups-april-may-2026]] · [[2026-05-02-may-1-2026-techcrunch-industry-analysis-policy-dod]] · [[2026-04-16-source-techcrunch-april-16-2026]]
 <!-- graph:end -->

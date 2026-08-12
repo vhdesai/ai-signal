@@ -24,11 +24,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
 - 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
 - 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
 - 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
-- 2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi
 embedding_id: 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
 event_name: ''
 ---
@@ -42,5 +42,5 @@ Mark Zuckerberg argued that superintelligence should be shared with as many peop
 
 **Entities:** [[Anthropic]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Infrastructure & Compute]] · [[Policy & Regulation]] · [[Corporate Moves]]
-**Related:** [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-07-29-zuckerberg-predicts-billions-will-have-personal-ai-agents-wi]]
+**Related:** [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]]
 <!-- graph:end -->

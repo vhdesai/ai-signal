@@ -20,7 +20,7 @@ themes:
 - policy-regulation
 cross_cutting_topics: []
 dedupe_status: duplicate
-canonical_article_id: 2026-08-11-anthropic-says-it-will-watermark-claude-generated-text
+canonical_article_id: 2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s
 related_article_ids: []
 embedding_id: 2026-08-11-anthropic-will-invisibly-watermark-text-generated-by-claude
 event_name: ''
@@ -35,5 +35,5 @@ Anthropic will embed machine-readable invisible watermarks in text from Claude m
 
 **Entities:** [[Anthropic]]
 **Topics:** [[Policy & Regulation]]
-**Canonical:** [[2026-08-11-anthropic-says-it-will-watermark-claude-generated-text]]
+**Canonical:** [[2026-08-11-anthropic-begins-embedding-invisible-watermarks-in-claude-s]]
 <!-- graph:end -->

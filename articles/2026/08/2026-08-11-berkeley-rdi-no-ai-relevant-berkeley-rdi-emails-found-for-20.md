@@ -18,10 +18,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-berkeley-rdi-no-ai-relevant-berkeley-rdi-emails-found-for-20
+- 2026-08-12-berkeley-rdi-no-berkeley-rdi-emails-found-for-2026-08-12
 - 2026-06-11-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-06-11
 - 2026-07-11-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-07-11
 - 2026-05-29-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-05-29
-- 2026-06-25-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-06-25
 embedding_id: 2026-08-11-berkeley-rdi-no-ai-relevant-berkeley-rdi-emails-found-for-20
 event_name: ''
 ---
@@ -33,5 +33,5 @@ Berkeley RDI *(No AI-relevant Berkeley RDI emails found for 2026-08-11)*
 <!-- graph:start -->
 ## Connections
 
-**Related:** [[2026-08-10-berkeley-rdi-no-ai-relevant-berkeley-rdi-emails-found-for-20]] · [[2026-06-11-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-06-11]] · [[2026-07-11-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-07-11]] · [[2026-05-29-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-05-29]] · [[2026-06-25-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-06-25]]
+**Related:** [[2026-08-10-berkeley-rdi-no-ai-relevant-berkeley-rdi-emails-found-for-20]] · [[2026-08-12-berkeley-rdi-no-berkeley-rdi-emails-found-for-2026-08-12]] · [[2026-06-11-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-06-11]] · [[2026-07-11-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-07-11]] · [[2026-05-29-berkeley-rdi-no-new-berkeley-rdi-emails-found-for-2026-05-29]]
 <!-- graph:end -->

@@ -27,6 +27,8 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its
+- 2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its
+- 2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to
 embedding_id: 2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built
 event_name: ''
 ---
@@ -40,5 +42,5 @@ Zuckerberg said Meta will open the weights for Muse Spark 1.2 and release a new 
 
 **Entities:** [[Alibaba]] · [[Anthropic]] · [[DeepSeek]] · [[Meta]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its]]
+**Related:** [[2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its]] · [[2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its]] · [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-model-built-to]]
 <!-- graph:end -->

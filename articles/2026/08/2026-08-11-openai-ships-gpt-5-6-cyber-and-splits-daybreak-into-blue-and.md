@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def
-- 2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi
+- 2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier
 embedding_id: 2026-08-11-openai-ships-gpt-5-6-cyber-and-splits-daybreak-into-blue-and
 event_name: ''
 ---
@@ -36,5 +36,5 @@ OpenAI released GPT-5.6-Cyber, a model trained for advanced defensive security w
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Model Breakthroughs]]
-**Related:** [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]] · [[2026-08-09-openai-pauses-astra-after-first-ever-critical-cyber-classifi]]
+**Related:** [[2026-08-10-openai-launches-gpt-5-6-cyber-and-expands-daybreak-cyber-def]] · [[2026-08-11-openai-ships-gpt-5-6-cyber-behind-a-vetted-daybreak-red-tier]]
 <!-- graph:end -->

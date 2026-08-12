@@ -20,10 +20,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that
+- 2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips
+- 2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic
 - 2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8
 - 2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on
-- 2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho
-- 2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un
 embedding_id: 2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Products & Tools CONTENT TRANSPARENCYSUBSTACKAI DETECTION
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]] · [[2026-05-03-openai-releases-gpt-5-5-biggest-single-jump-in-usefulness-ho]] · [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un]]
+**Related:** [[2026-07-04-poolside-open-weights-laguna-xs-2-1-a-33b-coding-model-that]] · [[2026-08-11-ltx-2-5-launches-as-open-weights-video-model-10-second-clips]] · [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic]] · [[2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8]] · [[2026-08-06-liquid-ai-releases-lfm2-5-2-6b-a-powerful-model-that-runs-on]]
 <!-- graph:end -->

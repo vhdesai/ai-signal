@@ -20,11 +20,11 @@ cross_cutting_topics: []
 dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
+- 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 - 2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
 - 2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation
-- 2026-07-09-can-ai-answer-the-3-trillion-question
-- 2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t
+- 2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu
 embedding_id: 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
 event_name: ''
 ---
@@ -37,5 +37,5 @@ TechCrunch published an investigative piece on AI-startup ARR inflation, with Sp
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-07-09-can-ai-answer-the-3-trillion-question]] · [[2026-08-06-microsoft-filing-shows-roughly-70-of-its-ai-revenue-traces-t]]
+**Related:** [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]] · [[2026-07-26-pitchbook-warns-pe-firms-lack-frameworks-for-ai-costs-and-qu]] · [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-08-harvey-in-talks-for-500m-at-a-15-5b-valuation]] · [[2026-08-12-ai-code-testing-startup-blacksmith-raises-45m-at-a-550m-valu]]
 <!-- graph:end -->

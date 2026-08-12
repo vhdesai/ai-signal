@@ -23,7 +23,7 @@ related_article_ids:
 - 2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab
 - 2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a
 - 2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to
-- 2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1
+- 2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation
 embedding_id: 2026-08-07-airbnb-ai-cut-feature-launch-time-60-now-writes-60-of-code
 event_name: ''
 ---
@@ -36,5 +36,5 @@ On Airbnb's Q2 2026 earnings call, CEO Brian Chesky said AI has reduced concept-
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-05-21-openai-generated-approximately-5-7-billion-in-revenue-in-q1]]
+**Related:** [[2026-08-07-airbnb-says-ai-is-accelerating-feature-development-and-searc]] · [[2026-06-04-airbnb-ceo-brian-chesky-plans-to-launch-a-new-ai-lab]] · [[2026-05-23-the-us-house-of-representatives-has-opened-an-inquiry-into-a]] · [[2026-05-23-techcrunch-investigation-how-vcs-and-founders-inflate-arr-to]] · [[2026-08-12-ai-code-testing-startup-blacksmith-jumps-to-550m-valuation]]
 <!-- graph:end -->

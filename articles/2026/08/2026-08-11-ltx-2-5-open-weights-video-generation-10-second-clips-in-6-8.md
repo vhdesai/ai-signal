@@ -17,14 +17,9 @@ entities:
 themes:
 - policy-regulation
 cross_cutting_topics: []
-dedupe_status: canonical
-canonical_article_id: null
-related_article_ids:
-- 2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo
-- 2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene
-- 2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model
-- 2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo
-- 2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42
+dedupe_status: duplicate
+canonical_article_id: 2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1
+related_article_ids: []
 embedding_id: 2026-08-11-ltx-2-5-open-weights-video-generation-10-second-clips-in-6-8
 event_name: ''
 ---
@@ -38,5 +33,5 @@ LTX 2.5, an open-weights video generation model, generates 10-second AI video fr
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Policy & Regulation]]
-**Related:** [[2026-07-21-poolside-releases-laguna-s-2-1-open-weight-agentic-coding-mo]] · [[2026-07-31-bytedance-launches-seedance-2-5-as-chinese-labs-press-a-gene]] · [[2026-06-23-bytedance-unveils-seedance-2-5-video-generation-model]] · [[2026-05-26-deepswe-benchmark-crowns-gpt-5-5-and-finds-claude-opus-explo]] · [[2026-07-02-nvidia-releases-nemotron-labs-twotower-a-diffusion-llm-2-42]]
+**Canonical:** [[2026-08-11-ltx-2-5-launches-as-an-open-weights-video-model-generating-1]]
 <!-- graph:end -->

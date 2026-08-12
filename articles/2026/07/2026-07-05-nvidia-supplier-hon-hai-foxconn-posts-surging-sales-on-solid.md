@@ -22,7 +22,7 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets
-- 2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening
+- 2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand
 embedding_id: 2026-07-05-nvidia-supplier-hon-hai-foxconn-posts-surging-sales-on-solid
 event_name: ''
 ---
@@ -36,5 +36,5 @@ Nvidia supplier Hon Hai (Foxconn) posts surging sales on solid AI demand July 5,
 
 **Entities:** [[NVIDIA]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-05-10-signs-nvidia-s-ai-chip-dominance-is-gradually-weakening]]
+**Related:** [[2026-07-05-foxconn-s-q2-revenue-jumps-40-on-ai-server-demand-june-sets]] · [[2026-08-12-foxconn-reports-35-profit-rise-on-ai-server-demand]]
 <!-- graph:end -->

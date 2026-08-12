@@ -22,6 +22,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei
 - 2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek
+- 2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu
 - 2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus
 - 2026-05-14-china-blocks-meta-s-2b-acquisition-of-ai-startup-manus
 embedding_id: 2026-05-01-moonshot-ai-and-other-chinese-firms-weigh-corporate-overhaul
@@ -37,5 +38,5 @@ Moonshot AI and Other Chinese Firms Weigh Corporate Overhaul in Wake of Meta-Man
 
 **Entities:** [[Meta]]
 **Topics:** [[Global AI Race]]
-**Related:** [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-14-china-blocks-meta-s-2b-acquisition-of-ai-startup-manus]]
+**Related:** [[2026-05-01-the-information-logo-moonshot-ai-and-other-chinese-firms-wei]] · [[2026-05-21-beijing-orders-meta-to-unwind-2b-manus-deal-co-founders-seek]] · [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu]] · [[2026-04-27-china-blocks-meta-s-2b-acquisition-of-ai-agent-startup-manus]] · [[2026-05-14-china-blocks-meta-s-2b-acquisition-of-ai-startup-manus]]
 <!-- graph:end -->

@@ -1,14 +1,25 @@
 ---
 type: entity-hub
 hub: Meta
-member_count: 586
+member_count: 598
 ---
 
 # Meta
 
-> Auto-generated entity hub. 586 connected article(s).
+> Auto-generated entity hub. 598 connected article(s).
 
+- `2026-08-12` [[2026-08-12-meta-and-nvidia-plant-very-firm-flag-in-open-weight-ai-race|Meta and Nvidia Plant 'Very Firm Flag' in Open-Weight AI Race Led by Chinese Labs]]
+- `2026-08-12` [[2026-08-12-manus-to-return-as-independent-company-as-meta-deal-unwinds|Manus to Return as Independent Company as Meta Deal Unwinds]]
+- `2026-08-11` [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per|Zuckerberg Publishes 3,500-Word Manifesto on Open AI and 'Personal Superintelligence']]
+- `2026-08-11` [[2026-08-11-uk-courts-confiscate-meta-smart-glasses-over-covert-recordin|UK Courts Confiscate Meta Smart Glasses Over Covert Recording Risk]]
+- `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-without-replacement|OpenAI’s Only Dedicated Ethicist Departs Without Replacement]]
+- `2026-08-11` [[2026-08-11-openai-s-only-dedicated-ethicist-departs-less-than-a-year-af|OpenAI's Only Dedicated Ethicist Departs Less Than a Year After Joining]]
+- `2026-08-11` [[2026-08-11-openai-s-head-of-ethics-departs-under-a-year-after-joining|OpenAI's Head of Ethics Departs Under a Year After Joining]]
 - `2026-08-11` [[2026-08-11-meta-to-open-source-flagship-muse-spark-1-2-model|Meta to open-source flagship Muse Spark 1.2 model]]
+- `2026-08-11` [[2026-08-11-meta-releases-muse-glimmer-a-30b-open-weights-agentic-model|Meta releases Muse Glimmer, a 30B open-weights agentic model that runs on one consumer GPU]]
+- `2026-08-11` [[2026-08-11-meta-ships-muse-glimmer-a-30b-open-weight-agentic-model-that|Meta Ships Muse Glimmer, a 30B Open-Weight Agentic Model That Runs Locally]]
+- `2026-08-11` [[2026-08-11-manus-returns-to-independence-as-china-forces-meta-s-2b-acqu|Manus returns to independence as China forces Meta's $2B acquisition to unwind]]
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-text-and-code-to-comply-with-eu-ai|Anthropic will watermark text and code to comply with EU AI Act]]
 - `2026-08-11` [[2026-08-11-anthropic-will-watermark-all-claude-generated-text-to-comply|Anthropic Will Watermark All Claude-Generated Text to Comply with EU AI Act]]
 - `2026-08-10` [[2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c|Zuckerberg's 6,500-word manifesto argues concentration — not capability — is AI's biggest risk]]
@@ -26,6 +37,7 @@ member_count: 586
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-and-commits-to-open-weighting-its|Meta releases Muse Glimmer and commits to open-weighting its most powerful model]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-an-open-weight-model-family-built|Meta launches Muse Glimmer, an open-weight model family built to run on laptops]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-a-30b-open-weight-agentic-model-t|Meta launches Muse Glimmer, a 30B open-weight agentic model that runs on a consumer GPU]]
+- `2026-08-10` [[2026-08-10-meta-returns-to-open-weights-with-muse-glimmer-a-30b-agentic|Meta Returns to Open Weights with Muse Glimmer, a 30B Agentic Model]]
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-a-30b-open-weight-agent-that-runs|Meta Releases Muse Glimmer, a 30B Open-Weight Agent That Runs on a Single GPU]]
 - `2026-08-10` [[2026-08-10-meta-releases-muse-glimmer-30b-open-weights-agentic-model-un|Meta Releases Muse Glimmer — 30B Open-Weights Agentic Model Under Apache 2.0]]
 - `2026-08-10` [[2026-08-10-meta-launches-muse-glimmer-and-commits-to-open-weighting-its|Meta Launches Muse Glimmer and Commits to Open-Weighting Its Most Powerful Model]]

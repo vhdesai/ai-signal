@@ -21,6 +21,7 @@ related_article_ids:
 - 2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou
 - 2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news
 - 2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou
+- 2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street
 embedding_id: 2026-04-27-the-latest-news-on-amazon-com-inc-2026-04-27-wall-street-jou
 event_name: ''
 ---
@@ -33,5 +34,5 @@ The latest news on Amazon.com Inc. [2026-04-27] · Wall Street Journal
 ## Connections
 
 **Entities:** [[Amazon]]
-**Related:** [[2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou]] · [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news]] · [[2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou]]
+**Related:** [[2026-03-13-the-latest-news-on-amazon-com-inc-2026-03-13-wall-street-jou]] · [[2026-08-01-wall-street-journal-wsj-2026-08-01-external-the-latest-news]] · [[2026-04-27-the-latest-news-on-microsoft-corp-2026-04-27-wall-street-jou]] · [[2026-04-27-the-latest-news-on-meta-platforms-inc-2026-04-27-wall-street]]
 <!-- graph:end -->

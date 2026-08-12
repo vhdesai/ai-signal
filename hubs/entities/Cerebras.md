@@ -1,13 +1,14 @@
 ---
 type: entity-hub
 hub: Cerebras
-member_count: 144
+member_count: 145
 ---
 
 # Cerebras
 
-> Auto-generated entity hub. 144 connected article(s).
+> Auto-generated entity hub. 145 connected article(s).
 
+- `2026-08-11` [[2026-08-11-house-democrats-press-openai-and-anthropic-over-rogue-ai-age|House Democrats press OpenAI and Anthropic over rogue AI agents and seek hearings]]
 - `2026-08-10` [[2026-08-10-ai-data-center-backlash-hardens-into-a-bipartisan-us-politic|AI data-center backlash hardens into a bipartisan US political problem]]
 - `2026-08-09` [[2026-08-09-business-insider-world-s-leading-ai-companies-are-struggling|Business Insider: world’s leading AI companies are struggling to contain their newest models]]
 - `2026-08-08` [[2026-08-08-facing-ai-apocalypse-software-companies-race-to-reinvent-the|Facing AI "apocalypse," software companies race to reinvent themselves]]

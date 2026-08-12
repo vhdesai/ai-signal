@@ -25,8 +25,8 @@ related_article_ids:
 - 2026-04-03-more-than-30-openai-and-google-deepmind-employees-including
 - 2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin
 - 2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic
+- 2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant
 - 2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi
-- 2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up
 embedding_id: 2026-04-03-anthropic-vs-dod-openai-google-deepmind-employees-rally-behi
 event_name: ''
 ---
@@ -39,5 +39,5 @@ Anthropic vs. DOD: OpenAI & Google DeepMind Employees Rally Behind Competitor in
 ## Connections
 
 **Entities:** [[Anthropic]] · [[Google]] · [[OpenAI]]
-**Related:** [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic]] · [[2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi]] · [[2026-04-23-anthropic-and-google-deepmind-publish-joint-rsp-alignment-up]]
+**Related:** [[2026-04-03-more-than-30-openai-and-google-deepmind-employees-including]] · [[2026-07-29-1-100-ai-staff-plus-openai-and-anthropic-back-a-letter-urgin]] · [[2026-03-10-google-ai-leader-jeff-dean-openai-employees-defend-anthropic]] · [[2026-08-12-google-s-new-ai-boss-inherits-a-race-to-catch-openai-and-ant]] · [[2026-05-18-pentagon-ai-deals-finalized-anthropic-excluded-google-deepmi]]
 <!-- graph:end -->

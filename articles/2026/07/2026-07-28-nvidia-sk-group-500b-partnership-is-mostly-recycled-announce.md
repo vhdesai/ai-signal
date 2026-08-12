@@ -25,6 +25,7 @@ related_article_ids:
 - 2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con
 - 2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san
 - 2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration
+- 2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise
 embedding_id: 2026-07-28-nvidia-sk-group-500b-partnership-is-mostly-recycled-announce
 event_name: ''
 ---
@@ -38,5 +39,5 @@ The Information's analysis of Nvidia's headline-grabbing $500 billion partnershi
 
 **Entities:** [[NVIDIA]] · [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]]
+**Related:** [[2026-06-08-nvidia-signs-sweeping-south-korea-ai-deals-memory-is-the-con]] · [[2026-07-26-samsung-and-sk-anchor-a-950b-korean-ai-build-out-under-a-san]] · [[2026-07-24-nvidia-and-south-korea-expand-full-stack-ai-collaboration]] · [[2026-08-12-nvidia-s-500b-ai-financing-alliance-could-reshape-enterprise]]
 <!-- graph:end -->

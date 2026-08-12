@@ -26,6 +26,7 @@ canonical_article_id: null
 related_article_ids:
 - 2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program
 - 2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu
+- 2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f
 - 2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target
 embedding_id: 2026-08-04-nsf-commits-100m-to-regional-ai-infrastructure-hubs-with-nvi
 event_name: ''
@@ -40,5 +41,5 @@ The National Science Foundation launched a $100 million program to stand up regi
 
 **Entities:** [[AMD]] · [[Intel]] · [[NVIDIA]]
 **Topics:** [[Infrastructure & Compute]] · [[Model Breakthroughs]]
-**Related:** [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
+**Related:** [[2026-08-05-nvidia-joins-nsf-regional-ai-infrastructure-hubs-program]] · [[2026-08-11-nvidia-and-wall-street-firms-assemble-a-500b-ai-infrastructu]] · [[2026-08-11-nvidia-enlists-six-wall-street-firms-to-mobilize-over-500b-f]] · [[2026-08-10-nvidia-and-wall-street-firms-strike-ai-financing-deal-target]]
 <!-- graph:end -->

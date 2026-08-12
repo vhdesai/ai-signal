@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim
 - 2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a
 - 2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o
+- 2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more
 - 2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o
-- 2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record
 embedding_id: 2026-07-06-uk-startups-raise-17b-in-h1-2026-ai-captures-74-of-vc
 event_name: ''
 ---
@@ -37,5 +37,5 @@ UK startups raised roughly $17 billion in the first half of 2026 — about doubl
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]] · [[2026-04-02-q1-2026-venture-funding-hits-297-billion-an-all-time-record]]
+**Related:** [[2026-07-06-uk-startups-raised-17b-in-h1-2026-with-ai-capturing-an-estim]] · [[2026-08-10-half-of-ai-s-record-407b-in-h1-2026-funding-went-to-openai-a]] · [[2026-07-07-north-american-venture-funding-hits-record-392b-in-h1-2026-o]] · [[2026-08-11-ai-startups-raised-in-h1-2026-openai-and-anthropic-took-more]] · [[2026-07-07-north-american-startup-funding-hits-record-392b-in-h1-2026-o]]
 <!-- graph:end -->

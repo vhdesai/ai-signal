@@ -24,10 +24,10 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is
+- 2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per
 - 2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea
 - 2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al
 - 2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut
-- 2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision
 embedding_id: 2026-08-10-zuckerberg-s-6-500-word-manifesto-argues-concentration-not-c
 event_name: ''
 ---
@@ -41,5 +41,5 @@ Alongside the Muse Glimmer release, Mark Zuckerberg published a 6,500-word essay
 
 **Entities:** [[Meta]]
 **Topics:** [[Model Breakthroughs]] · [[Global AI Race]]
-**Related:** [[2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]] · [[2026-08-10-zuckerberg-lays-out-meta-s-personal-superintelligence-vision]]
+**Related:** [[2026-08-10-zuckerberg-s-6-500-word-essay-argues-concentrated-control-is]] · [[2026-08-11-zuckerberg-publishes-3-500-word-manifesto-on-open-ai-and-per]] · [[2026-07-29-zuckerberg-defends-open-ai-models-warns-rival-labs-are-sprea]] · [[2026-08-10-zuckerberg-publishes-personal-superintelligence-manifesto-al]] · [[2026-08-10-zuckerberg-publishes-a-6-500-word-case-for-broadly-distribut]]
 <!-- graph:end -->

@@ -22,9 +22,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele
 - 2026-07-20-current-ai-a-nonprofit-is-building-open-public-interest-ai-i
+- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in
 - 2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor
-- 2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus
 embedding_id: 2026-07-20-current-ai-and-public-interest-ai-infrastructure-remain-rele
 event_name: ''
 ---
@@ -37,5 +37,5 @@ Current AI and public-interest AI infrastructure remain relevant as open alterna
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-07-20-current-ai-a-nonprofit-is-building-open-public-interest-ai-i]] · [[2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]] · [[2026-07-11-nvidia-remains-central-to-ai-infrastructure-demand-for-gpus]]
+**Related:** [[2026-07-21-current-ai-and-public-interest-ai-infrastructure-remain-rele]] · [[2026-07-20-current-ai-a-nonprofit-is-building-open-public-interest-ai-i]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-04-10-openai-pitches-infrastructure-advantage-over-anthropic-to-in]] · [[2026-05-31-microsoft-s-ai-independence-day-frames-a-post-openai-platfor]]
 <!-- graph:end -->

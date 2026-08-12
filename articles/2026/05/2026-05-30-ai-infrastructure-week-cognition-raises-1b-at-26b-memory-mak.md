@@ -21,9 +21,9 @@ dedupe_status: canonical
 canonical_article_id: null
 related_article_ids:
 - 2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation
+- 2026-08-12-cognition-in-early-talks-at-a-40b-valuation
+- 2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1
 - 2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b
-- 2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks
-- 2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand
 embedding_id: 2026-05-30-ai-infrastructure-week-cognition-raises-1b-at-26b-memory-mak
 event_name: ''
 ---
@@ -36,5 +36,5 @@ A week-in-review of AI infrastructure flagged coding-agent startup Cognition rai
 ## Connections
 
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]] · [[2026-06-01-alphabet-plans-80b-capital-raise-for-ai-infrastructure-berks]] · [[2026-05-27-micron-crosses-1-trillion-market-cap-on-ai-memory-demand]]
+**Related:** [[2026-05-27-cognition-ai-devin-raises-1b-at-25b-pre-money-valuation]] · [[2026-08-12-cognition-in-early-talks-at-a-40b-valuation]] · [[2026-08-11-cognition-in-early-talks-at-40b-valuation-river-ai-raises-1]] · [[2026-06-02-alphabet-to-raise-80b-for-ai-buildout-berkshire-commits-10b]]
 <!-- graph:end -->

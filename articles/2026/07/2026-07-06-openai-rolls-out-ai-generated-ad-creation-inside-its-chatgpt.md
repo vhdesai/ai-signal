@@ -23,8 +23,8 @@ related_article_ids:
 - 2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt
 - 2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers
 - 2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf
+- 2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international
 - 2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini
-- 2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b
 embedding_id: 2026-07-06-openai-rolls-out-ai-generated-ad-creation-inside-its-chatgpt
 event_name: ''
 ---
@@ -38,5 +38,5 @@ OpenAI has begun letting advertisers auto-generate ads within its ChatGPT Ads pl
 
 **Entities:** [[OpenAI]]
 **Topics:** [[Corporate Moves]]
-**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]] · [[2026-05-26-after-launching-chatgpt-ads-earlier-this-year-with-marquee-b]]
+**Related:** [[2026-06-10-openai-moves-toward-product-specific-ads-on-chatgpt]] · [[2026-05-26-openai-expands-chatgpt-advertising-toward-smaller-marketers]] · [[2026-05-12-openai-launches-ads-manager-beta-monetizing-the-chatgpt-surf]] · [[2026-08-11-openai-expands-chatgpt-advertising-to-five-new-international]] · [[2026-05-06-newopenai-opens-chatgpt-ads-to-small-businesses-with-no-mini]]
 <!-- graph:end -->

@@ -31,9 +31,9 @@ canonical_article_id: null
 related_article_ids:
 - 2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams
 - 2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack
+- 2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan
 - 2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl
 - 2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr
-- 2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag
 embedding_id: 2026-04-22-openai-introduced-workspace-agents-autonomous-agents-that-op
 event_name: ''
 ---
@@ -47,5 +47,5 @@ Microsoft Releases SKALA-1.1 AI Model on Hugging Face
 
 **Entities:** [[Microsoft]] · [[OpenAI]]
 **Topics:** [[Model Breakthroughs]] · [[Corporate Moves]]
-**Related:** [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]] · [[2026-07-10-openai-launches-chatgpt-work-an-autonomous-cross-app-work-ag]]
+**Related:** [[2026-04-22-openai-launches-workspace-agents-in-chatgpt-for-teams]] · [[2026-07-09-openai-ships-chatgpt-work-an-enterprise-agent-spanning-slack]] · [[2026-08-12-openai-publishes-enterprise-research-on-moving-from-assistan]] · [[2026-07-09-openai-launches-chatgpt-work-an-enterprise-agent-spanning-sl]] · [[2026-07-09-openai-launches-chatgpt-work-an-agent-for-multi-hour-enterpr]]
 <!-- graph:end -->
