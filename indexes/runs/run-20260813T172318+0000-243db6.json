@@ -1,0 +1,14 @@
+{
+  "run_id": "20260813T172318+0000-243db6",
+  "started_at": "2026-08-13T17:23:18+00:00",
+  "finished_at": "2026-08-13T17:23:23+00:00",
+  "summary": {
+    "command": "build-site",
+    "result": {
+      "pages": 240,
+      "articles": 8545,
+      "canonical": 6978,
+      "site_dir": "C:\\Users\\vdesai\\OneDrive - Microsoft\\Documents\\tvfr\\6-AIProj\\Newsletter\\ext-host\\site"
+    }
+  }
+}
